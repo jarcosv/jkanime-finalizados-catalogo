@@ -1,0 +1,29 @@
+{
+  "id_origen": 486,
+  "slug": "grave-of-the-fireflies",
+  "titulo": "Grave of the Fireflies",
+  "titulo_corto": "Grave of the Fireflies",
+  "sinopsis": "El joven Seita y su pequeña hermana Setsuko son hijos de un oficial de la marina japonesa. Durante la Segunda Guerra Mundial, ambos viven con su madre, pero un día, en un bombardeo, ellos se retrasan y no consiguen llegar al bunker donde ella los espera. Después del bombardeo los dos hermanos buscan a su madre, y Seita la encuentra muy malherida en la escuela que ha sido convertida en un hospital de urgencia. Poco después la madre muere y, tras una breve estancia en casa de su tía, ambos vagarán sin casa y sin rumbo, en una época donde la comida y la ayuda escasean.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/grave-of-the-fireflies.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/grave-of-the-fireflies/",
+  "episodios": [
+    {
+      "id_origen": 14487,
+      "numero": 1,
+      "titulo": "Grave of the Fireflies",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5beb66e0254ebe2034311db439939e76.jpg",
+      "url_origen": "https://jkanime.net/grave-of-the-fireflies/1/",
+      "publicado_en_origen": "2012-01-11 20:19:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "486",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:28:59+00:00"
+}

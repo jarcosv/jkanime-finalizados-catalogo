@@ -1,0 +1,53 @@
+{
+  "id_origen": 4227,
+  "slug": "pokemon-paldean-winds",
+  "titulo": "Pokemon Paldean Winds",
+  "titulo_corto": "Pokemon Paldean Winds",
+  "sinopsis": "Justo antes de la llegada de cierto alumno transferido, tres estudiantes de una academia de Paldea reciben el encargo de grabar un vídeo para presentar su escuela.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-paldean-winds.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pokemon-paldean-winds/",
+  "episodios": [
+    {
+      "id_origen": 64757,
+      "numero": 1,
+      "titulo": "Pokemon Paldean Winds - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2df68bdf94fd27f89b355591cb16d9b9.jpg",
+      "url_origen": "https://jkanime.net/pokemon-paldean-winds/1/",
+      "publicado_en_origen": "2025-07-22 15:38:07"
+    },
+    {
+      "id_origen": 64758,
+      "numero": 2,
+      "titulo": "Pokemon Paldean Winds - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_808d44338f848e222c4e63d0a91f4b87.jpg",
+      "url_origen": "https://jkanime.net/pokemon-paldean-winds/2/",
+      "publicado_en_origen": "2025-07-22 15:38:07"
+    },
+    {
+      "id_origen": 64759,
+      "numero": 3,
+      "titulo": "Pokemon Paldean Winds - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c51295686afc94b5484ca27e7a92c86a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-paldean-winds/3/",
+      "publicado_en_origen": "2025-07-22 15:38:07"
+    },
+    {
+      "id_origen": 64760,
+      "numero": 4,
+      "titulo": "Pokemon Paldean Winds - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a832e2d992829fbfcfcabc3654ee6c1.jpg",
+      "url_origen": "https://jkanime.net/pokemon-paldean-winds/4/",
+      "publicado_en_origen": "2025-07-22 15:38:07"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4227",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:42:33+00:00"
+}

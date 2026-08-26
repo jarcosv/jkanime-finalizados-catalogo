@@ -1,0 +1,69 @@
+{
+  "id_origen": 3089,
+  "slug": "meitantei-conan-zero-no-tea-time",
+  "titulo": "Meitantei Conan: Zero no Tea Time",
+  "titulo_corto": "Meitantei Conan: Zero no Tea T...",
+  "sinopsis": "Adaptación al anime del manga derivado Meitantei Conan: Zero no Tea Time que se centra en la vida del agente triple mientras intenta mantener todos sus diferentes roles bajo control.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/meitantei-conan-zero-no-tea-time.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/meitantei-conan-zero-no-tea-time/",
+  "episodios": [
+    {
+      "id_origen": 48857,
+      "numero": 1,
+      "titulo": "Meitantei Conan: Zero no Tea Time - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_effea49943daf7bed5912287f2ee5a43.jpg",
+      "url_origen": "https://jkanime.net/meitantei-conan-zero-no-tea-time/1/",
+      "publicado_en_origen": "2022-04-08 09:20:22"
+    },
+    {
+      "id_origen": 48909,
+      "numero": 2,
+      "titulo": "Meitantei Conan: Zero no Tea Time - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9f081c9e97e49e170511f498f4693f5.jpg",
+      "url_origen": "https://jkanime.net/meitantei-conan-zero-no-tea-time/2/",
+      "publicado_en_origen": "2022-04-14 11:02:41"
+    },
+    {
+      "id_origen": 49002,
+      "numero": 3,
+      "titulo": "Meitantei Conan: Zero no Tea Time - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd9a886385800d4bc50d7614d8f30b4e.jpg",
+      "url_origen": "https://jkanime.net/meitantei-conan-zero-no-tea-time/3/",
+      "publicado_en_origen": "2022-04-21 14:07:40"
+    },
+    {
+      "id_origen": 49136,
+      "numero": 4,
+      "titulo": "Meitantei Conan: Zero no Tea Time - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b6991cd9fad54dc97df4e068f4c0555.jpg",
+      "url_origen": "https://jkanime.net/meitantei-conan-zero-no-tea-time/4/",
+      "publicado_en_origen": "2022-05-03 00:17:14"
+    },
+    {
+      "id_origen": 49317,
+      "numero": 5,
+      "titulo": "Meitantei Conan: Zero no Tea Time - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7aa1c160e1fcc5540ac260d4b236441.jpg",
+      "url_origen": "https://jkanime.net/meitantei-conan-zero-no-tea-time/5/",
+      "publicado_en_origen": "2022-05-13 14:05:06"
+    },
+    {
+      "id_origen": 49318,
+      "numero": 6,
+      "titulo": "Meitantei Conan: Zero no Tea Time - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad6987915b0f3827fe50455fc75cadb2.jpg",
+      "url_origen": "https://jkanime.net/meitantei-conan-zero-no-tea-time/6/",
+      "publicado_en_origen": "2022-05-13 14:05:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3089",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:38:21+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "id_origen": 483,
+  "slug": "fullmetal-alchemist-premium-collection",
+  "titulo": "Fullmetal Alchemist: Premium Collection",
+  "titulo_corto": "Fullmetal Alchemist: Premium C...",
+  "sinopsis": "OVAs de corta duracian que salieron lanzadas en un DVD llamado Premium Collection y las cuales no forman un arco argumental, siendo independientes entre si. OVAS: 4 Fullmetal Alchemist Premium Collection",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fullmetal-alchemist-premium-collection.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fullmetal-alchemist-premium-collection/",
+  "episodios": [
+    {
+      "id_origen": 14479,
+      "numero": 1,
+      "titulo": "Fullmetal Alchemist: Premium Collection - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_138a14eaf4a8c188a6c41cafd9400a30.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-premium-collection/1/",
+      "publicado_en_origen": "2012-01-11 19:17:10"
+    },
+    {
+      "id_origen": 14480,
+      "numero": 2,
+      "titulo": "Fullmetal Alchemist: Premium Collection - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ed19fde2d99cd17ceafd0fe127f3176.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-premium-collection/2/",
+      "publicado_en_origen": "2012-01-11 19:17:10"
+    },
+    {
+      "id_origen": 14481,
+      "numero": 3,
+      "titulo": "Fullmetal Alchemist: Premium Collection - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b0cc5f591dd5b8dacb0c8e01546b2b4.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-premium-collection/3/",
+      "publicado_en_origen": "2012-01-11 19:17:10"
+    },
+    {
+      "id_origen": 14482,
+      "numero": 4,
+      "titulo": "Fullmetal Alchemist: Premium Collection - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0e2ff951d07b244a06800304fb423f0.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-premium-collection/4/",
+      "publicado_en_origen": "2012-01-11 19:17:10"
+    },
+    {
+      "id_origen": 15115,
+      "numero": 5,
+      "titulo": "Fullmetal Alchemist: Premium Collection - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09ff53617a5f5038297df773580f61a6.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-premium-collection/5/",
+      "publicado_en_origen": "2012-03-05 00:43:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "483",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:27:24+00:00"
+}

@@ -1,0 +1,117 @@
+{
+  "id_origen": 3200,
+  "slug": "mob-psycho-100-iii",
+  "titulo": "Mob Psycho 100 III",
+  "titulo_corto": "Mob Psycho 100 III",
+  "sinopsis": "Tercera temporada de Mob Psycho 100 .",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mob-psycho-100-iii.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mob-psycho-100-iii/",
+  "episodios": [
+    {
+      "id_origen": 50709,
+      "numero": 1,
+      "titulo": "Mob Psycho 100 III - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ab857a49ea580983e61c8ac90322923.jpg",
+      "url_origen": "https://jkanime.net/mob-psycho-100-iii/1/",
+      "publicado_en_origen": "2022-10-05 13:11:30"
+    },
+    {
+      "id_origen": 50767,
+      "numero": 2,
+      "titulo": "Mob Psycho 100 III - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e357caa3053b844a34c8834f119c2103.jpg",
+      "url_origen": "https://jkanime.net/mob-psycho-100-iii/2/",
+      "publicado_en_origen": "2022-10-12 13:04:21"
+    },
+    {
+      "id_origen": 50832,
+      "numero": 3,
+      "titulo": "Mob Psycho 100 III - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8de5835b70708aa251ba9f0852bbc3cc.jpg",
+      "url_origen": "https://jkanime.net/mob-psycho-100-iii/3/",
+      "publicado_en_origen": "2022-10-19 21:57:30"
+    },
+    {
+      "id_origen": 50883,
+      "numero": 4,
+      "titulo": "Mob Psycho 100 III - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8b704170ebf639c6f301f548c4582e2.jpg",
+      "url_origen": "https://jkanime.net/mob-psycho-100-iii/4/",
+      "publicado_en_origen": "2022-10-26 13:49:32"
+    },
+    {
+      "id_origen": 50950,
+      "numero": 5,
+      "titulo": "Mob Psycho 100 III - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb371fb0e5ee6e730155f567bdf06b73.jpg",
+      "url_origen": "https://jkanime.net/mob-psycho-100-iii/5/",
+      "publicado_en_origen": "2022-11-02 18:13:42"
+    },
+    {
+      "id_origen": 51018,
+      "numero": 6,
+      "titulo": "Mob Psycho 100 III - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d951111fe822776d3fa0112d754ec66.jpg",
+      "url_origen": "https://jkanime.net/mob-psycho-100-iii/6/",
+      "publicado_en_origen": "2022-11-09 13:38:51"
+    },
+    {
+      "id_origen": 51077,
+      "numero": 7,
+      "titulo": "Mob Psycho 100 III - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c387b5d84f0f12048018c4adcf4cc0dd.jpg",
+      "url_origen": "https://jkanime.net/mob-psycho-100-iii/7/",
+      "publicado_en_origen": "2022-11-16 13:30:46"
+    },
+    {
+      "id_origen": 51131,
+      "numero": 8,
+      "titulo": "Mob Psycho 100 III - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f23f62f3e2de30bbb5f6195dbf0daca.jpg",
+      "url_origen": "https://jkanime.net/mob-psycho-100-iii/8/",
+      "publicado_en_origen": "2022-11-24 12:11:00"
+    },
+    {
+      "id_origen": 51185,
+      "numero": 9,
+      "titulo": "Mob Psycho 100 III - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b66d4969ab7944fc0f25ea94066930ce.jpg",
+      "url_origen": "https://jkanime.net/mob-psycho-100-iii/9/",
+      "publicado_en_origen": "2022-11-30 13:14:38"
+    },
+    {
+      "id_origen": 51307,
+      "numero": 10,
+      "titulo": "Mob Psycho 100 III - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23fdeb195f31c928806ad2fa885c009d.jpg",
+      "url_origen": "https://jkanime.net/mob-psycho-100-iii/10/",
+      "publicado_en_origen": "2022-12-08 11:13:06"
+    },
+    {
+      "id_origen": 51361,
+      "numero": 11,
+      "titulo": "Mob Psycho 100 III - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da68013177eabb7bae2b0fd829869093.jpg",
+      "url_origen": "https://jkanime.net/mob-psycho-100-iii/11/",
+      "publicado_en_origen": "2022-12-14 13:28:35"
+    },
+    {
+      "id_origen": 51412,
+      "numero": 12,
+      "titulo": "Mob Psycho 100 III - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fde6c6cf29dcd1a67eeeb786e2d2d6e7.jpg",
+      "url_origen": "https://jkanime.net/mob-psycho-100-iii/12/",
+      "publicado_en_origen": "2022-12-21 23:30:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:48+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3200",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:38:53+00:00"
+}

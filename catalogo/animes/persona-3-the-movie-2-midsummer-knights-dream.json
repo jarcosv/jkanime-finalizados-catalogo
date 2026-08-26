@@ -1,0 +1,29 @@
+{
+  "id_origen": 1457,
+  "slug": "persona-3-the-movie-2-midsummer-knights-dream",
+  "titulo": "Persona 3 the Movie 2: Midsummer Knight's Dream",
+  "titulo_corto": "Persona 3 the Movie 2: Midsumm...",
+  "sinopsis": "Secuela de la película de Persona 3 que cubre el arco de verano",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/persona-3-the-movie-2-midsummer-knights-dream.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/persona-3-the-movie-2-midsummer-knights-dream/",
+  "episodios": [
+    {
+      "id_origen": 27069,
+      "numero": 1,
+      "titulo": "Persona 3 the Movie 2: Midsummer Knight's Dream",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c9c1ec602afac5119950925b588121e.jpg",
+      "url_origen": "https://jkanime.net/persona-3-the-movie-2-midsummer-knights-dream/1/",
+      "publicado_en_origen": "2015-03-16 22:27:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1457",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:42:05+00:00"
+}

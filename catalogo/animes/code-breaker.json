@@ -1,0 +1,125 @@
+{
+  "id_origen": 655,
+  "slug": "code-breaker",
+  "titulo": "Code:Breaker",
+  "titulo_corto": "Code:Breaker",
+  "sinopsis": "Un día yendo en autobús, Sakura Sakurakouji ve por la ventana a un montón de gente ardiendo viva entre llamas azules mientras un chico de su edad que está junto a las víctimas les mira con indiferencia. Cuando al día siguiente decide volver para comprobar la zona y descubrir qué era lo que vio, no encuentra rastro alguno de asesinato. Cuando vuelve a clase, descubre que un nuevo estudiante trasladado llamado Oogami Rei se parece demasiado al chico que vio con las llamas azules y encima lleva un sospechoso guante solo en la mano izquierda. Oogami resulta ser un Code Breaker, una persona que “no existe” según el gobierno y que es en apariencia un asesino a sangre fría que usa el principio del “ojo por ojo” contra todos los malechores. Convencida de que el asesinato no está bien, Sakurakouji intentará detener a Oogami y penetrar en su corazón de hielo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/code-breaker.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/code-breaker/",
+  "episodios": [
+    {
+      "id_origen": 17645,
+      "numero": 1,
+      "titulo": "Code:Breaker - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d48dc37435b338396739948524ccee8.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/1/",
+      "publicado_en_origen": "2012-10-07 10:28:14"
+    },
+    {
+      "id_origen": 17808,
+      "numero": 2,
+      "titulo": "Code:Breaker - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb2363f42ebd481f5b01d11a3c574536.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/2/",
+      "publicado_en_origen": "2012-10-14 02:03:51"
+    },
+    {
+      "id_origen": 18051,
+      "numero": 3,
+      "titulo": "Code:Breaker - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd5f1fd8442d4ba6b35dd13c9db44343.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/3/",
+      "publicado_en_origen": "2012-10-22 02:38:03"
+    },
+    {
+      "id_origen": 18127,
+      "numero": 4,
+      "titulo": "Code:Breaker - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35109f5ad05b4af6bf2f9279ef9d145c.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/4/",
+      "publicado_en_origen": "2012-10-28 23:24:04"
+    },
+    {
+      "id_origen": 18260,
+      "numero": 5,
+      "titulo": "Code:Breaker - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78df662f141715d49dad1c3a3b356531.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/5/",
+      "publicado_en_origen": "2012-11-04 15:47:41"
+    },
+    {
+      "id_origen": 18422,
+      "numero": 6,
+      "titulo": "Code:Breaker - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70cd9109e88def5e20c6887a8d9af139.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/6/",
+      "publicado_en_origen": "2012-11-11 23:53:01"
+    },
+    {
+      "id_origen": 18458,
+      "numero": 7,
+      "titulo": "Code:Breaker - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f300f602b2d8163070642579d398466b.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/7/",
+      "publicado_en_origen": "2012-11-18 15:44:59"
+    },
+    {
+      "id_origen": 18531,
+      "numero": 8,
+      "titulo": "Code:Breaker - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35befb8d43bc548a8d9c271ae5b7f4b2.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/8/",
+      "publicado_en_origen": "2012-11-26 22:56:41"
+    },
+    {
+      "id_origen": 18560,
+      "numero": 9,
+      "titulo": "Code:Breaker - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_906f101975a14177b22cb707a76c211d.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/9/",
+      "publicado_en_origen": "2012-12-02 15:55:19"
+    },
+    {
+      "id_origen": 18594,
+      "numero": 10,
+      "titulo": "Code:Breaker - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_671df07e9737de590613ae321ea1b687.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/10/",
+      "publicado_en_origen": "2012-12-09 15:41:22"
+    },
+    {
+      "id_origen": 18740,
+      "numero": 11,
+      "titulo": "Code:Breaker - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_705c03a1245566a3edb2d1c3ddcbb6ff.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/11/",
+      "publicado_en_origen": "2012-12-16 17:10:38"
+    },
+    {
+      "id_origen": 18779,
+      "numero": 12,
+      "titulo": "Code:Breaker - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2db2a8235e4512a7fa7aa9a192c6b13a.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/12/",
+      "publicado_en_origen": "2012-12-23 18:54:53"
+    },
+    {
+      "id_origen": 18780,
+      "numero": 13,
+      "titulo": "Code:Breaker - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ac065e393605e57f3eb01f535522c98.jpg",
+      "url_origen": "https://jkanime.net/code-breaker/13/",
+      "publicado_en_origen": "2012-12-23 23:09:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "655",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:23:56+00:00"
+}

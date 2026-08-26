@@ -1,0 +1,125 @@
+{
+  "id_origen": 1666,
+  "slug": "hacka-doll-the-animation",
+  "titulo": "Hacka Doll The Animation",
+  "titulo_corto": "Hacka Doll The Animation",
+  "sinopsis": "Adaptación de la aplicación para teléfonos móviles y tablets que muestra un registro personalizado de noticias para cada usuario, que debe responder unas pocas preguntas al entrar en ella por primera vez para crear este filtro especial, que sólo recogerá las noticias en las categorías que casen más con sus intereses: manga, anime, juegos, novelas ligeras, seiyuus, boys love, etc. Con el uso diario, la aplicación analiza y registra de forma automática los artículos que el usuario lee y recomienda para personalizar todavía más la selección.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hacka-doll-the-animation.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hacka-doll-the-animation/",
+  "episodios": [
+    {
+      "id_origen": 29691,
+      "numero": 1,
+      "titulo": "Hacka Doll The Animation - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97fad65319f26ae8c99e0a47a7ca7d57.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/1/",
+      "publicado_en_origen": "2015-10-02 10:33:33"
+    },
+    {
+      "id_origen": 29757,
+      "numero": 2,
+      "titulo": "Hacka Doll The Animation - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a49ab7f57366ac88e823ae316a39e6fb.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/2/",
+      "publicado_en_origen": "2015-10-09 10:32:37"
+    },
+    {
+      "id_origen": 29823,
+      "numero": 3,
+      "titulo": "Hacka Doll The Animation - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ffedfdaa29dbf097fb6724d2e890b00.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/3/",
+      "publicado_en_origen": "2015-10-16 10:34:02"
+    },
+    {
+      "id_origen": 29884,
+      "numero": 4,
+      "titulo": "Hacka Doll The Animation - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6bfb2ef8ed53820a605bbcb7dfafdee.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/4/",
+      "publicado_en_origen": "2015-10-23 11:07:59"
+    },
+    {
+      "id_origen": 29949,
+      "numero": 5,
+      "titulo": "Hacka Doll The Animation - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55b9d07f95df2d8a391673726bf4ef3d.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/5/",
+      "publicado_en_origen": "2015-10-30 10:33:42"
+    },
+    {
+      "id_origen": 30009,
+      "numero": 6,
+      "titulo": "Hacka Doll The Animation - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86561200f3f1f2bf5cd4218495323b3f.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/6/",
+      "publicado_en_origen": "2015-11-06 11:34:59"
+    },
+    {
+      "id_origen": 30064,
+      "numero": 7,
+      "titulo": "Hacka Doll The Animation - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dde4952e3874b24df8091b3e4b62e501.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/7/",
+      "publicado_en_origen": "2015-11-13 11:37:59"
+    },
+    {
+      "id_origen": 30128,
+      "numero": 8,
+      "titulo": "Hacka Doll The Animation - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a66e987aff9a6d0f673189ca1e72f78.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/8/",
+      "publicado_en_origen": "2015-11-20 11:40:34"
+    },
+    {
+      "id_origen": 30189,
+      "numero": 9,
+      "titulo": "Hacka Doll The Animation - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0623815a789c473725fe584c43c777e9.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/9/",
+      "publicado_en_origen": "2015-11-27 11:34:45"
+    },
+    {
+      "id_origen": 30252,
+      "numero": 10,
+      "titulo": "Hacka Doll The Animation - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75181a27e029e8d9d2e677df25a90ae2.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/10/",
+      "publicado_en_origen": "2015-12-04 11:37:59"
+    },
+    {
+      "id_origen": 30312,
+      "numero": 11,
+      "titulo": "Hacka Doll The Animation - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eba4b31af98c58b7cdb9cc785adc7627.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/11/",
+      "publicado_en_origen": "2015-12-11 11:35:40"
+    },
+    {
+      "id_origen": 30371,
+      "numero": 12,
+      "titulo": "Hacka Doll The Animation - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_195f817357e95f7d4b3b776ff7c4c596.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/12/",
+      "publicado_en_origen": "2015-12-18 11:36:30"
+    },
+    {
+      "id_origen": 30437,
+      "numero": 13,
+      "titulo": "Hacka Doll The Animation - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_337f9ed612c378ae249fdbcc432c0f72.jpg",
+      "url_origen": "https://jkanime.net/hacka-doll-the-animation/13/",
+      "publicado_en_origen": "2015-12-25 15:09:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1666",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:29:25+00:00"
+}

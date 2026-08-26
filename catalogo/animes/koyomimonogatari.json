@@ -1,0 +1,117 @@
+{
+  "id_origen": 1764,
+  "slug": "koyomimonogatari",
+  "titulo": "Koyomimonogatari",
+  "titulo_corto": "Koyomimonogatari",
+  "sinopsis": "Adaptación de doce historias cortas cronológicamente dispersas a lo largo de toda la historia de la serie Monogatari.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/koyomimonogatari/",
+  "episodios": [
+    {
+      "id_origen": 30540,
+      "numero": 1,
+      "titulo": "Koyomimonogatari - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+      "url_origen": "https://jkanime.net/koyomimonogatari/1/",
+      "publicado_en_origen": "2016-01-10 14:48:44"
+    },
+    {
+      "id_origen": 30590,
+      "numero": 2,
+      "titulo": "Koyomimonogatari - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+      "url_origen": "https://jkanime.net/koyomimonogatari/2/",
+      "publicado_en_origen": "2016-01-16 22:40:54"
+    },
+    {
+      "id_origen": 30656,
+      "numero": 3,
+      "titulo": "Koyomimonogatari - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+      "url_origen": "https://jkanime.net/koyomimonogatari/3/",
+      "publicado_en_origen": "2016-01-24 14:33:20"
+    },
+    {
+      "id_origen": 30724,
+      "numero": 4,
+      "titulo": "Koyomimonogatari - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+      "url_origen": "https://jkanime.net/koyomimonogatari/4/",
+      "publicado_en_origen": "2016-01-31 14:18:44"
+    },
+    {
+      "id_origen": 30780,
+      "numero": 5,
+      "titulo": "Koyomimonogatari - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+      "url_origen": "https://jkanime.net/koyomimonogatari/5/",
+      "publicado_en_origen": "2016-02-07 02:12:18"
+    },
+    {
+      "id_origen": 30841,
+      "numero": 6,
+      "titulo": "Koyomimonogatari - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+      "url_origen": "https://jkanime.net/koyomimonogatari/6/",
+      "publicado_en_origen": "2016-02-14 16:32:05"
+    },
+    {
+      "id_origen": 30916,
+      "numero": 7,
+      "titulo": "Koyomimonogatari - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+      "url_origen": "https://jkanime.net/koyomimonogatari/7/",
+      "publicado_en_origen": "2016-02-22 22:05:21"
+    },
+    {
+      "id_origen": 30964,
+      "numero": 8,
+      "titulo": "Koyomimonogatari - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+      "url_origen": "https://jkanime.net/koyomimonogatari/8/",
+      "publicado_en_origen": "2016-02-28 16:31:07"
+    },
+    {
+      "id_origen": 31046,
+      "numero": 9,
+      "titulo": "Koyomimonogatari - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+      "url_origen": "https://jkanime.net/koyomimonogatari/9/",
+      "publicado_en_origen": "2016-03-06 16:48:45"
+    },
+    {
+      "id_origen": 31102,
+      "numero": 10,
+      "titulo": "Koyomimonogatari - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+      "url_origen": "https://jkanime.net/koyomimonogatari/10/",
+      "publicado_en_origen": "2016-03-13 03:14:38"
+    },
+    {
+      "id_origen": 31171,
+      "numero": 11,
+      "titulo": "Koyomimonogatari - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+      "url_origen": "https://jkanime.net/koyomimonogatari/11/",
+      "publicado_en_origen": "2016-03-20 16:47:13"
+    },
+    {
+      "id_origen": 31223,
+      "numero": 12,
+      "titulo": "Koyomimonogatari - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koyomimonogatari.jpg",
+      "url_origen": "https://jkanime.net/koyomimonogatari/12/",
+      "publicado_en_origen": "2016-03-27 02:31:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1764",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:35:46+00:00"
+}

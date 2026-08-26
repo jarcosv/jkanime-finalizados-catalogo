@@ -1,0 +1,29 @@
+{
+  "id_origen": 990,
+  "slug": "hanasaku-hiroka-home-sweet-home",
+  "titulo": "Hanasaku Iroha: Home Sweet Home",
+  "titulo_corto": "Hanasaku Iroha: Home Sweet Hom...",
+  "sinopsis": "La historia narra la vida de Ohana Matsumae, siendo nuestra protagonista víctima de un cambio drástico, que la lleva a mudarse de Tokio a Kissuisou, unos tradicionales baños termales que dirige su abuela. Llegando ahí, descubre un diario que le revela el pasado de Satsuki Matsumae, su madre, y su vida a los 16 años, cuando dejo su hogar para perseguir sus sueños en Tokio.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/home-sweet-home.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hanasaku-hiroka-home-sweet-home/",
+  "episodios": [
+    {
+      "id_origen": 21806,
+      "numero": 1,
+      "titulo": "Hanasaku Iroha: Home Sweet Home - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_266710f17eae1ddcdbd353dc54f49f01.jpg",
+      "url_origen": "https://jkanime.net/hanasaku-hiroka-home-sweet-home/1/",
+      "publicado_en_origen": "2013-10-23 15:23:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "990",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:29:46+00:00"
+}

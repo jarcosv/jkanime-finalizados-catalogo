@@ -1,0 +1,29 @@
+{
+  "id_origen": 3937,
+  "slug": "look-back",
+  "titulo": "Look Back",
+  "titulo_corto": "Look Back",
+  "sinopsis": "Ayumu Fujino, alumna de cuarto curso, dibuja regularmente manga de cuatro paneles para el periódico de su escuela y es alabada por tener el mejor trabajo artístico de su clase. Un día, su profesora le pide que ceda uno de sus espacios de manga en el periódico escolar a un estudiante absentista llamado Kyomoto. Cuando el manga de Kyomoto aparece junto al de Fujino, recibe grandes elogios por sus detalladas ilustraciones, lo que provoca los celos de Fujino.\n\nFujino se niega a dejarse vencer por alguien que apenas va a la escuela y se dedica a aprender a crear manga. Sin embargo, a medida que pasa el tiempo, su objetivo de eclipsar a Kyomoto parece cada vez más lejano, y Fujino, ahora en sexto curso, acaba por rendirse y deja de hacer manga.\n\nLlega el día de la graduación, y le piden a Fujino que le entregue a Kyomoto su certificado de graduación. Por casualidad, los dos acaban encontrándose cara a cara, y su inesperado encuentro acabará teniendo consecuencias mucho más allá de lo que ninguno de los dos podría predecir.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/look-back.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/look-back/",
+  "episodios": [
+    {
+      "id_origen": 60562,
+      "numero": 1,
+      "titulo": "Look Back",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20a8c406414d731b4450dcd1d71c6d09.jpg",
+      "url_origen": "https://jkanime.net/look-back/1/",
+      "publicado_en_origen": "2024-11-07 14:03:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3937",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:36:36+00:00"
+}

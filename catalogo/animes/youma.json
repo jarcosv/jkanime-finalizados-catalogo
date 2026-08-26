@@ -1,0 +1,37 @@
+{
+  "id_origen": 4492,
+  "slug": "youma",
+  "titulo": "Youma",
+  "titulo_corto": "Youma",
+  "sinopsis": "Una terrible guerra ha devastado la tierra y ahora, alimentados por la sangre de numerosos guerreros caídos, los Yoma, demonios del infierno, emergen una vez más. Un hábil ninja busca poner fin al derramamiento de sangre que estos demonios infligen a la humanidad, pero para ello debe luchar contra su antiguo mejor amigo y compañero ninja, que murió en combate y ha resucitado para servir a los Yoma.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/youma.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/youma/",
+  "episodios": [
+    {
+      "id_origen": 69835,
+      "numero": 1,
+      "titulo": "Youma - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b56af3b0c430016a795297da66d8b66.jpg",
+      "url_origen": "https://jkanime.net/youma/1/",
+      "publicado_en_origen": "2025-12-10 11:50:18"
+    },
+    {
+      "id_origen": 69836,
+      "numero": 2,
+      "titulo": "Youma - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_378d9f6da14057496a7c1101d7125093.jpg",
+      "url_origen": "https://jkanime.net/youma/2/",
+      "publicado_en_origen": "2025-12-10 11:50:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4492",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:53:07+00:00"
+}

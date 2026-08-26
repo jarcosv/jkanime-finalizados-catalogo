@@ -1,0 +1,29 @@
+{
+  "id_origen": 4316,
+  "slug": "burn-up",
+  "titulo": "Burn Up!",
+  "titulo_corto": "Burn Up!",
+  "sinopsis": "A simple vista, Maki, Reimi y Yuka no parecen ser unas luchadoras contra el crimen, lo que podría explicar por qué están destinadas a la patrulla de tráfico en lugar de a tareas policiales más «emocionantes».\r\n\r\nTodo eso cambia cuando Yuka es secuestrada por una organización de tráfico de blancas dirigida por un empresario con conexiones políticas que tiene al resto de la policía acobardada.\r\n\r\nAhora depende de Maki y Reimi ponerse sus trajes de combate ajustados, liberar un tanque y asegurarse de que cierto traficante de esclavas aprenda que cuando juegas con fuego, ¡te quemarás el trasero!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/burn-up.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/burn-up/",
+  "episodios": [
+    {
+      "id_origen": 66600,
+      "numero": 1,
+      "titulo": "Burn Up!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc7ec5d2443cf3d820d99917bcfc6ce1.jpg",
+      "url_origen": "https://jkanime.net/burn-up/1/",
+      "publicado_en_origen": "2025-08-14 23:30:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4316",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:22:13+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 2563,
+  "slug": "arifureta-shokugyou-de-sekai-saikyou-specials",
+  "titulo": "Arifureta Shokugyou de Sekai Saikyou Specials",
+  "titulo_corto": "Arifureta Shokugyou de Sekai S...",
+  "sinopsis": "Episodios no emitidos incluidos con los lanzamientos de Blu-ray de Arifureta Shokugyou por Sekai Saikyou.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/arifureta-shokugyou-de-sekai-saikyou-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/arifureta-shokugyou-de-sekai-saikyou-specials/",
+  "episodios": [
+    {
+      "id_origen": 41819,
+      "numero": 1,
+      "titulo": "Arifureta Shokugyou de Sekai Saikyou Specials",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82b0316fe69238ba989ffb36122e5325.jpg",
+      "url_origen": "https://jkanime.net/arifureta-shokugyou-de-sekai-saikyou-specials/1/",
+      "publicado_en_origen": "2019-12-26 16:48:32"
+    },
+    {
+      "id_origen": 42315,
+      "numero": 2,
+      "titulo": "Arifureta Shokugyou de Sekai Saikyou Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12e29001e93f781f477b80f9299192f2.jpg",
+      "url_origen": "https://jkanime.net/arifureta-shokugyou-de-sekai-saikyou-specials/2/",
+      "publicado_en_origen": "2020-03-04 11:08:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2563",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:17:35+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1224,
+  "slug": "ijime",
+  "titulo": "Ijime: Ikenie no Kyoushitsu",
+  "titulo_corto": "Ijime: Ikenie no Kyoushitsu",
+  "sinopsis": "La edición de marzo de la revista shoujo Ciao de Shogakukan incluia un DVD con un especial del manga Ijime.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ijime.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ijime/",
+  "episodios": [
+    {
+      "id_origen": 24053,
+      "numero": 1,
+      "titulo": "Ijime",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3fce7f4788a4b8a7e0304aff2b6f974.jpg",
+      "url_origen": "https://jkanime.net/ijime/1/",
+      "publicado_en_origen": "2014-07-20 18:40:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1224",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:31:41+00:00"
+}

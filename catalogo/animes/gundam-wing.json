@@ -1,0 +1,413 @@
+{
+  "id_origen": 185,
+  "slug": "gundam-wing",
+  "titulo": "Mobile Suit Gundam Wing",
+  "titulo_corto": "Mobile Suit Gundam Wing",
+  "sinopsis": "En el año 195 después de la creación de las colonias la alianza unida de la esfera terrestre gana poder militar y conquista colonia tras colonia cinco jóvenes fueron enviados a la tierra para contrarrestar este poder militar con la ayuda de sus máquinas llamadas Gundams los cuales se son lo mobile suits mas poderosos creados según los creadores de los mismos en el camino los cinco pilotos encontraran situaciones para ganar esta guerra entre la alianza de la tierra y las colonias espaciales.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gundam-wing.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gundam-wing/",
+  "episodios": [
+    {
+      "id_origen": 4491,
+      "numero": 1,
+      "titulo": "Gundam Wing 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a75a52f7209c01df2598a77ebc4de539.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/1/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4492,
+      "numero": 2,
+      "titulo": "Gundam Wing 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88f0bf2899c595146bff13b20342eb6a.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/2/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4493,
+      "numero": 3,
+      "titulo": "Gundam Wing 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_438124b4c06f3a5caffab2c07863b617.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/3/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4494,
+      "numero": 4,
+      "titulo": "Gundam Wing 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1731592aca5fb4d789c4119c65c10b4b.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/4/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4495,
+      "numero": 5,
+      "titulo": "Gundam Wing 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d84210a75448034bcc4947005695c306.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/5/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4496,
+      "numero": 6,
+      "titulo": "Gundam Wing 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bdf3fd65c81469f9b74cedd497f2f9ce.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/6/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4497,
+      "numero": 7,
+      "titulo": "Gundam Wing 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00b76fddeaaa7d8c2c43d504b2babd8a.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/7/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4498,
+      "numero": 8,
+      "titulo": "Gundam Wing 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f3a770e5af1fd4cadc5f004b81e1040.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/8/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4499,
+      "numero": 9,
+      "titulo": "Gundam Wing 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e51eeda0422de44a7cc260b4239d4f9.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/9/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4500,
+      "numero": 10,
+      "titulo": "Gundam Wing 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d6548bdc0082aacc950ed35e91fcccb.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/10/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4501,
+      "numero": 11,
+      "titulo": "Gundam Wing 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a15d41947a732c97943fa5624f570d7.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/11/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4502,
+      "numero": 12,
+      "titulo": "Gundam Wing 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_767b2cc82cecc0385fe6f1086dd2c748.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/12/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4503,
+      "numero": 13,
+      "titulo": "Gundam Wing 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09a69de15cf89bc7fe8c0642f906a4dd.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/13/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4504,
+      "numero": 14,
+      "titulo": "Gundam Wing 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_124461dcd3571e6674ec4e0e140cc298.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/14/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4505,
+      "numero": 15,
+      "titulo": "Gundam Wing 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_149ef6419512be56a93169cd5e6fa8fd.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/15/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4506,
+      "numero": 16,
+      "titulo": "Gundam Wing 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_075b24b68eb3cb44b3fa4e331d86db89.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/16/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4507,
+      "numero": 17,
+      "titulo": "Gundam Wing 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d411dca7348327b71e894c52e76eeeb.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/17/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4508,
+      "numero": 18,
+      "titulo": "Gundam Wing 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ff385c6e75c56b7a5a93d9fcd0c82ee.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/18/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4509,
+      "numero": 19,
+      "titulo": "Gundam Wing 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8ea2e8463760785106490befc78c339.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/19/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4510,
+      "numero": 20,
+      "titulo": "Gundam Wing 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_989652eef28bc49eec908063ba36a854.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/20/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4511,
+      "numero": 21,
+      "titulo": "Gundam Wing 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_475fbefa9ebfba9233364533aafd02a3.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/21/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4512,
+      "numero": 22,
+      "titulo": "Gundam Wing 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63c4b1baf3b4460fa9936b1a20919bec.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/22/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4513,
+      "numero": 23,
+      "titulo": "Gundam Wing 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21c52f533c0c585bab4f075bf08d7104.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/23/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4514,
+      "numero": 24,
+      "titulo": "Gundam Wing 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2f374c3418c50bc30d67d5f7454a5b4.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/24/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4515,
+      "numero": 25,
+      "titulo": "Gundam Wing 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf56a1b37b94243486b2034f8479c475.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/25/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4516,
+      "numero": 26,
+      "titulo": "Gundam Wing 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_573f7f25b7b1eb79a4ec6ba896debefd.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/26/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4517,
+      "numero": 27,
+      "titulo": "Gundam Wing 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7109af321d970c64a0154000a60e65c8.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/27/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4518,
+      "numero": 28,
+      "titulo": "Gundam Wing 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_597c7b407a02cc0a92167e7a371eca25.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/28/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4519,
+      "numero": 29,
+      "titulo": "Gundam Wing 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbc92a647199b832ec90d7cf57074e9e.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/29/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4520,
+      "numero": 30,
+      "titulo": "Gundam Wing 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45e81409831b77407fbc22afc09f0d78.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/30/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4521,
+      "numero": 31,
+      "titulo": "Gundam Wing 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_752d2c9ecfe079e5e5f3539f4d750e5c.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/31/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4522,
+      "numero": 32,
+      "titulo": "Gundam Wing 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f110a326be6999afdeb8e7002c0ce44d.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/32/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4523,
+      "numero": 33,
+      "titulo": "Gundam Wing 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8620005ac78d8257435d490058c643dd.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/33/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4524,
+      "numero": 34,
+      "titulo": "Gundam Wing 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37bf8bb245c5ae952fb107153f18958f.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/34/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4525,
+      "numero": 35,
+      "titulo": "Gundam Wing 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f1f64b519d20e2ccc36e1589a8f7555.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/35/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4526,
+      "numero": 36,
+      "titulo": "Gundam Wing 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dfcb07c683107f038d8c886145d097e.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/36/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4527,
+      "numero": 37,
+      "titulo": "Gundam Wing 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01259a0cb2431834302abe2df60a1327.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/37/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4528,
+      "numero": 38,
+      "titulo": "Gundam Wing 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59112692262234e3fad47fa8eabf03a4.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/38/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4529,
+      "numero": 39,
+      "titulo": "Gundam Wing 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9713faa264b94e2bf346a1bb52587fd8.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/39/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4530,
+      "numero": 40,
+      "titulo": "Gundam Wing 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_983a33a9a86796df362c1108e00f54a6.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/40/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4531,
+      "numero": 41,
+      "titulo": "Gundam Wing 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_543857f4a06c852113bcc02abf295eb5.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/41/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4532,
+      "numero": 42,
+      "titulo": "Gundam Wing 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d38dd921e15520709f86320185c5e1d.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/42/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4533,
+      "numero": 43,
+      "titulo": "Gundam Wing 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56a8da1d3bcb2e9b334a778be5b1d781.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/43/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4534,
+      "numero": 44,
+      "titulo": "Gundam Wing 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72cad9e1f9ae79872b8d6ac34fc2851c.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/44/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4535,
+      "numero": 45,
+      "titulo": "Gundam Wing 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aee1bc7fa5da061b752d0efddbd16495.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/45/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4536,
+      "numero": 46,
+      "titulo": "Gundam Wing 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cfbc6c5cfb8a3e10fab12aa3512153df.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/46/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4537,
+      "numero": 47,
+      "titulo": "Gundam Wing 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26310c700ffd1b5095454f336ae96648.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/47/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4538,
+      "numero": 48,
+      "titulo": "Gundam Wing 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79fde5402cbc75ae0615c9ae4c335b46.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/48/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4539,
+      "numero": 49,
+      "titulo": "Gundam Wing 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edb684859b848362ec56904286947614.jpg",
+      "url_origen": "https://jkanime.net/gundam-wing/49/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "185",
+  "cantidad_episodios_declarada": 49,
+  "detalle_extraido_en": "2026-08-26T18:39:00+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "id_origen": 1152,
+  "slug": "magi-sinbad-no-bouken",
+  "titulo": "Magi: Sinbad no Bouken",
+  "titulo_corto": "Magi: Sinbad no Bouken",
+  "sinopsis": "OVA incluida con el tercer volumen del manga.\n\nLa historia cuenta la vida temprana de Sinbad.\n\nSegundo episodio planeado para Agosto del 2014.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/magi-sinbad-no-bouken.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/magi-sinbad-no-bouken/",
+  "episodios": [
+    {
+      "id_origen": 23496,
+      "numero": 1,
+      "titulo": "Magi: Sinbad no Bouken - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0322b0ce982b6f52251120354553b363.jpg",
+      "url_origen": "https://jkanime.net/magi-sinbad-no-bouken/1/",
+      "publicado_en_origen": "2014-05-16 17:52:27"
+    },
+    {
+      "id_origen": 24497,
+      "numero": 2,
+      "titulo": "Magi: Sinbad no Bouken - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46d5c1db68612dea4b66fcd011a313e0.jpg",
+      "url_origen": "https://jkanime.net/magi-sinbad-no-bouken/2/",
+      "publicado_en_origen": "2014-08-21 00:20:37"
+    },
+    {
+      "id_origen": 25913,
+      "numero": 3,
+      "titulo": "Magi: Sinbad no Bouken - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3276d012055292a66a29bc5aa5df12d7.jpg",
+      "url_origen": "https://jkanime.net/magi-sinbad-no-bouken/3/",
+      "publicado_en_origen": "2014-12-21 09:40:15"
+    },
+    {
+      "id_origen": 27548,
+      "numero": 4,
+      "titulo": "Magi: Sinbad no Bouken - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f0676fd3f275d08290dec8157496a08.jpg",
+      "url_origen": "https://jkanime.net/magi-sinbad-no-bouken/4/",
+      "publicado_en_origen": "2015-04-20 19:50:30"
+    },
+    {
+      "id_origen": 28827,
+      "numero": 5,
+      "titulo": "Magi: Sinbad no Bouken - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30219b29705d056409e50d7e369be507.jpg",
+      "url_origen": "https://jkanime.net/magi-sinbad-no-bouken/5/",
+      "publicado_en_origen": "2015-07-25 16:19:14"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1152",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:37:09+00:00"
+}

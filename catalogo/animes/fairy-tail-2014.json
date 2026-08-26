@@ -1,0 +1,837 @@
+{
+  "id_origen": 1104,
+  "slug": "fairy-tail-2014",
+  "titulo": "Fairy Tail S2",
+  "titulo_corto": "Fairy Tail S2",
+  "sinopsis": "Fairy tail 2014 Continúa las aventuras de Natsu y el resto del gremio de Fairy Tail, una vez terminado los grandes juegos mágicos",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fairy-tail-2014.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fairy-tail-2014/",
+  "episodios": [
+    {
+      "id_origen": 23131,
+      "numero": 1,
+      "titulo": "El Rey Dragón",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71fce7d439aed4baf4ce200749a13213.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/1/",
+      "publicado_en_origen": "2014-04-05 00:06:55"
+    },
+    {
+      "id_origen": 23190,
+      "numero": 2,
+      "titulo": "Proyecto Eclipse",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8f5b62d67c6264012aa8ab2475a2a37.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/2/",
+      "publicado_en_origen": "2014-04-11 22:08:49"
+    },
+    {
+      "id_origen": 23248,
+      "numero": 3,
+      "titulo": "¡Hada Estratega!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43ec32082582d0a2288dca0d139a097a.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/3/",
+      "publicado_en_origen": "2014-04-18 23:48:39"
+    },
+    {
+      "id_origen": 23323,
+      "numero": 4,
+      "titulo": "¡Gray vs Rufus!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b35b31a24acc2da3bd9e3feb30fc7e79.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/4/",
+      "publicado_en_origen": "2014-04-25 22:06:00"
+    },
+    {
+      "id_origen": 23383,
+      "numero": 5,
+      "titulo": "¡Los Caballeros Garou!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0f3a9cc8c0672341632498cdfb3fff9.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/5/",
+      "publicado_en_origen": "2014-05-02 23:00:57"
+    },
+    {
+      "id_origen": 23440,
+      "numero": 6,
+      "titulo": "Fairy Tail contra los ejecutores",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24664885f97cee26dacdb223f35f76db.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/6/",
+      "publicado_en_origen": "2014-05-09 22:06:50"
+    },
+    {
+      "id_origen": 23497,
+      "numero": 7,
+      "titulo": "Tierra ardiente",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e689582ff82cd8e9a50d4a89f811cd77.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/7/",
+      "publicado_en_origen": "2014-05-16 22:05:28"
+    },
+    {
+      "id_origen": 23556,
+      "numero": 8,
+      "titulo": "El lugar donde nos encontramos",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05a99c00b975ff15c51fe48e9fac2f2a.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/8/",
+      "publicado_en_origen": "2014-05-23 22:08:16"
+    },
+    {
+      "id_origen": 23616,
+      "numero": 9,
+      "titulo": "Reino hasta mañana",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50ae0ce8c27842532dcd83c3678302bc.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/9/",
+      "publicado_en_origen": "2014-05-30 22:07:02"
+    },
+    {
+      "id_origen": 23677,
+      "numero": 10,
+      "titulo": "Erza contra Kagura",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb5a26ff320aa437302a95deb6606187.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/10/",
+      "publicado_en_origen": "2014-06-06 22:06:05"
+    },
+    {
+      "id_origen": 23734,
+      "numero": 11,
+      "titulo": "El futuro se apresura hacia la desesperación",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cc1c015c32f74bcbd1c315c445b89ef.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/11/",
+      "publicado_en_origen": "2014-06-13 22:04:50"
+    },
+    {
+      "id_origen": 23786,
+      "numero": 12,
+      "titulo": "Rana",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ad300658065a941d949d0d181c7f626.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/12/",
+      "publicado_en_origen": "2014-06-20 23:03:59"
+    },
+    {
+      "id_origen": 23836,
+      "numero": 13,
+      "titulo": "¡Rayo feroz!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd0feb7098b8bf044d4f6eece41e349a.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/13/",
+      "publicado_en_origen": "2014-06-27 22:05:17"
+    },
+    {
+      "id_origen": 23880,
+      "numero": 14,
+      "titulo": "Gloria",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f8a5cbf6ee1f3467c49a3a7439fa48e.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/14/",
+      "publicado_en_origen": "2014-07-04 22:16:52"
+    },
+    {
+      "id_origen": 23964,
+      "numero": 15,
+      "titulo": "Aquel que cierra la puerta",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a8fcf2a8e88e290cf69a9b95726187a.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/15/",
+      "publicado_en_origen": "2014-07-11 22:03:56"
+    },
+    {
+      "id_origen": 24029,
+      "numero": 16,
+      "titulo": "Natsu contra Rogue",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_383d86008edae3a3a7e68c59c0da6dbe.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/16/",
+      "publicado_en_origen": "2014-07-18 22:06:20"
+    },
+    {
+      "id_origen": 24092,
+      "numero": 17,
+      "titulo": "Mi parte",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0ecb3873e6e419111b667b4a9e80467.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/17/",
+      "publicado_en_origen": "2014-07-25 22:06:38"
+    },
+    {
+      "id_origen": 24156,
+      "numero": 18,
+      "titulo": "Siete dragones",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dc69f4a9d78d28dc1ba5697a159c546.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/18/",
+      "publicado_en_origen": "2014-08-01 21:04:09"
+    },
+    {
+      "id_origen": 24248,
+      "numero": 19,
+      "titulo": "La magia de Zirconis",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c17e8738e3ff4451eff7d670d9ab9c63.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/19/",
+      "publicado_en_origen": "2014-08-08 21:05:12"
+    },
+    {
+      "id_origen": 24443,
+      "numero": 20,
+      "titulo": "Humano y humano, dragón y dragón, humano y dragón",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d8b6c92b659a90e7ef716f811d8bba1.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/20/",
+      "publicado_en_origen": "2014-08-15 21:05:27"
+    },
+    {
+      "id_origen": 24513,
+      "numero": 21,
+      "titulo": "Crimen y sacrificio",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92e4843a78a00961da95e70eb859aef5.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/21/",
+      "publicado_en_origen": "2014-08-22 21:10:20"
+    },
+    {
+      "id_origen": 24578,
+      "numero": 22,
+      "titulo": "El tiempo de la vida",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5020a0ea9c329b35bbf2eae076dd0aa.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/22/",
+      "publicado_en_origen": "2014-08-29 21:11:18"
+    },
+    {
+      "id_origen": 24654,
+      "numero": 23,
+      "titulo": "El prado dorado",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de3e8951b9d4a040c9f681d419242f40.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/23/",
+      "publicado_en_origen": "2014-09-05 21:05:07"
+    },
+    {
+      "id_origen": 24745,
+      "numero": 24,
+      "titulo": "El gran baile",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94c3d035d0716674904fe08fdef1616f.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/24/",
+      "publicado_en_origen": "2014-09-12 21:05:02"
+    },
+    {
+      "id_origen": 24807,
+      "numero": 25,
+      "titulo": "Gotas de tiempo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c49d08dbf30c9e44e3c17b1ec6ebb67.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/25/",
+      "publicado_en_origen": "2014-09-19 21:24:30"
+    },
+    {
+      "id_origen": 24922,
+      "numero": 26,
+      "titulo": "Regalo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4badf6fce1fb568ba4d71e1645e5da27.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/26/",
+      "publicado_en_origen": "2014-09-26 21:06:27"
+    },
+    {
+      "id_origen": 24981,
+      "numero": 27,
+      "titulo": "Bienvenido de vuelta, Frosch",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9adbaadf095c8de0d2d0b53fe92a5dbb.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/27/",
+      "publicado_en_origen": "2014-10-03 21:52:06"
+    },
+    {
+      "id_origen": 25048,
+      "numero": 28,
+      "titulo": "Moulin Rouge",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ca6b57ab35e4f00b28b0ed884f6e84a.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/28/",
+      "publicado_en_origen": "2014-10-10 21:04:42"
+    },
+    {
+      "id_origen": 25117,
+      "numero": 29,
+      "titulo": "¡Doy la vida para recibirlos!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de981004ec1ae72b933d28f84f8c0271.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/29/",
+      "publicado_en_origen": "2014-10-17 21:04:07"
+    },
+    {
+      "id_origen": 25189,
+      "numero": 30,
+      "titulo": "Señales de rebelión",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_650d96fe435bc0effc40f2b0a0b027dc.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/30/",
+      "publicado_en_origen": "2014-10-24 21:04:34"
+    },
+    {
+      "id_origen": 25258,
+      "numero": 31,
+      "titulo": "Pánico en la biblioteca",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf04433af36b3fa411e8e4d54bb03c0b.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/31/",
+      "publicado_en_origen": "2014-10-31 21:07:54"
+    },
+    {
+      "id_origen": 25330,
+      "numero": 32,
+      "titulo": "¡Hisui se levanta!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a320d0ae50c7ab5860cc5e4e420b61f3.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/32/",
+      "publicado_en_origen": "2014-11-07 21:04:51"
+    },
+    {
+      "id_origen": 25435,
+      "numero": 33,
+      "titulo": "Astral Spirytus",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c90999c746b9da1fed1b84fc73bdcb70.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/33/",
+      "publicado_en_origen": "2014-11-14 21:05:32"
+    },
+    {
+      "id_origen": 25521,
+      "numero": 34,
+      "titulo": "Wendy contra Acuario. ¡Juguemos en el parque de diversiones!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed3fc73e6c5e6b0723e9e7935f50947a.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/34/",
+      "publicado_en_origen": "2014-11-21 21:06:03"
+    },
+    {
+      "id_origen": 25601,
+      "numero": 35,
+      "titulo": "Mazo de Gremio vs. Mazo de Espíritus Celestiales",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f29ecfa692a4f9f9953f1cc2becfd19b.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/35/",
+      "publicado_en_origen": "2014-11-28 21:07:01"
+    },
+    {
+      "id_origen": 25686,
+      "numero": 36,
+      "titulo": "Gray contra Cáncer. ¡Batalla de baile!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_604ed2b8703ee490b93a502ef83743ce.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/36/",
+      "publicado_en_origen": "2014-12-05 21:06:14"
+    },
+    {
+      "id_origen": 25787,
+      "numero": 37,
+      "titulo": "Juvia contra Aries. ¡Combate a muerte en el desierto!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dfdb3a175a991c93bb89b6585f09036.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/37/",
+      "publicado_en_origen": "2014-12-12 21:04:54"
+    },
+    {
+      "id_origen": 25893,
+      "numero": 38,
+      "titulo": "Erza contra Sagitario. ¡Combate a caballo!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_303e5a77002b8f8acf84ef064760f23e.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/38/",
+      "publicado_en_origen": "2014-12-19 21:06:23"
+    },
+    {
+      "id_origen": 26014,
+      "numero": 39,
+      "titulo": "Natsu contra Leo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0bb4ab9c320bbf39347a328d367cd35.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/39/",
+      "publicado_en_origen": "2014-12-26 21:06:57"
+    },
+    {
+      "id_origen": 26344,
+      "numero": 40,
+      "titulo": "La domadora de serpientes, Ofiuco",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_484cc97087d1d8aaf81262a30d94851f.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/40/",
+      "publicado_en_origen": "2015-01-09 21:08:46"
+    },
+    {
+      "id_origen": 26405,
+      "numero": 41,
+      "titulo": "Cuando las estrellas fugaces llenan el cielo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96f4303c756ba84f75fdbcc92d0f0414.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/41/",
+      "publicado_en_origen": "2015-01-16 21:08:42"
+    },
+    {
+      "id_origen": 26462,
+      "numero": 42,
+      "titulo": "El Espíritu Celestial bestial",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58b311abb1f038c7371016670f355608.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/42/",
+      "publicado_en_origen": "2015-01-23 21:07:39"
+    },
+    {
+      "id_origen": 26551,
+      "numero": 43,
+      "titulo": "Cree",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbd2f7ac63dcd6415a821f8b0168b88e.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/43/",
+      "publicado_en_origen": "2015-01-30 21:08:07"
+    },
+    {
+      "id_origen": 26609,
+      "numero": 44,
+      "titulo": "Lo que devana la sinceridad",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8550c8318d98aa713e0ef7c500981dbc.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/44/",
+      "publicado_en_origen": "2015-02-06 21:06:00"
+    },
+    {
+      "id_origen": 26732,
+      "numero": 45,
+      "titulo": "413 días",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3cd0298c5b40117edb15db7613d4f35.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/45/",
+      "publicado_en_origen": "2015-02-13 21:06:09"
+    },
+    {
+      "id_origen": 26795,
+      "numero": 46,
+      "titulo": "El laberinto plateado",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cbddfc0631041f3bebf720bf2d72e7f.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/46/",
+      "publicado_en_origen": "2015-02-20 21:08:22"
+    },
+    {
+      "id_origen": 26922,
+      "numero": 47,
+      "titulo": "¡Transformación!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f383771112ef0024294d2cf15363c62.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/47/",
+      "publicado_en_origen": "2015-02-27 21:05:58"
+    },
+    {
+      "id_origen": 26978,
+      "numero": 48,
+      "titulo": "¡Aquí viene Kemokemo!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f7eddf8fa27191acdd18b9b3605933f.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/48/",
+      "publicado_en_origen": "2015-03-06 21:05:29"
+    },
+    {
+      "id_origen": 27039,
+      "numero": 49,
+      "titulo": "El lugar del que procedes",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_faaae1866a54fdb13aa89b7da8101bdc.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/49/",
+      "publicado_en_origen": "2015-03-13 21:06:29"
+    },
+    {
+      "id_origen": 27162,
+      "numero": 50,
+      "titulo": "El hombre del rayo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_818a7cd413218993d9f871449f4e3321.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/50/",
+      "publicado_en_origen": "2015-03-20 21:06:51"
+    },
+    {
+      "id_origen": 27250,
+      "numero": 51,
+      "titulo": "Fairy Tail of the dead meeeeeeeeen.",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_374cad868cb62202053d308252bc4040.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/51/",
+      "publicado_en_origen": "2015-03-27 21:11:11"
+    },
+    {
+      "id_origen": 27372,
+      "numero": 52,
+      "titulo": "El amanecer de una nueva aventura",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14d8905820297f70d9a211f964f16257.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/52/",
+      "publicado_en_origen": "2015-04-03 21:05:53"
+    },
+    {
+      "id_origen": 27448,
+      "numero": 53,
+      "titulo": "Magos contra cazadores",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc354cf7b5f838d2b1e8a51a0282acdd.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/53/",
+      "publicado_en_origen": "2015-04-10 21:10:53"
+    },
+    {
+      "id_origen": 27515,
+      "numero": 54,
+      "titulo": "Ley del Retroceso",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab38039d7c1a6862cc692cd15e20d757.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/54/",
+      "publicado_en_origen": "2015-04-17 21:06:55"
+    },
+    {
+      "id_origen": 27584,
+      "numero": 55,
+      "titulo": "El retorno del demonio",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff4c48e9995f076b26fb2a90ae28d5aa.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/55/",
+      "publicado_en_origen": "2015-04-24 21:07:56"
+    },
+    {
+      "id_origen": 27645,
+      "numero": 56,
+      "titulo": "Gray contra Doriate",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5e714549e9937f437d4fc2edf35b8fb.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/56/",
+      "publicado_en_origen": "2015-05-01 21:10:36"
+    },
+    {
+      "id_origen": 27707,
+      "numero": 57,
+      "titulo": "La voz de las llamas",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5dc8b954ec4e47baffc64f98d496282c.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/57/",
+      "publicado_en_origen": "2015-05-08 21:07:11"
+    },
+    {
+      "id_origen": 27769,
+      "numero": 58,
+      "titulo": "La canción de las hadas",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10155a0cc6dde7d912d2ac796956876d.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/58/",
+      "publicado_en_origen": "2015-05-15 21:07:10"
+    },
+    {
+      "id_origen": 27834,
+      "numero": 59,
+      "titulo": "Arco de Tártaros [Prólogo]\\NLas Nueve Puertas del Demonio",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_235a4b01cca43ead1a2435ec19c04bab.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/59/",
+      "publicado_en_origen": "2015-05-22 21:06:57"
+    },
+    {
+      "id_origen": 27899,
+      "numero": 60,
+      "titulo": "Arco de Tártaros [Prólogo]\\NLas hadas contra el Inframundo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f016401501ca83458fb6896609ea749e.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/60/",
+      "publicado_en_origen": "2015-05-29 21:10:37"
+    },
+    {
+      "id_origen": 27960,
+      "numero": 61,
+      "titulo": "Arco de Tártaros [Prólogo] El legado blanco",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7428f98008346bb6aa6fc92d257505ab.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/61/",
+      "publicado_en_origen": "2015-06-05 21:09:36"
+    },
+    {
+      "id_origen": 28255,
+      "numero": 62,
+      "titulo": "Arco de Tártaros [Prólogo] Natsu contra Jackal",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d9b272d3486358dce2f0195fc91c884.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/62/",
+      "publicado_en_origen": "2015-06-12 21:07:29"
+    },
+    {
+      "id_origen": 28503,
+      "numero": 63,
+      "titulo": "Arco de Tártaros: Corrupción y criminal",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bb7e223dd6fe07da16874517cf3fa54.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/63/",
+      "publicado_en_origen": "2015-06-19 21:07:27"
+    },
+    {
+      "id_origen": 28573,
+      "numero": 64,
+      "titulo": "Arco de Tártaros Jellal contra Oración Seis",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c719661049fdb28eb938384500b8ad60.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/64/",
+      "publicado_en_origen": "2015-06-26 21:14:26"
+    },
+    {
+      "id_origen": 28617,
+      "numero": 65,
+      "titulo": "Fairy Tail S2 - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a81b45d29bc3f015fb4e11adbeb6f29.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/65/",
+      "publicado_en_origen": "2015-07-03 21:07:07"
+    },
+    {
+      "id_origen": 28682,
+      "numero": 66,
+      "titulo": "Fairy Tail S2 - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a51104c66686fac95156c1a1d632bd4.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/66/",
+      "publicado_en_origen": "2015-07-10 21:05:31"
+    },
+    {
+      "id_origen": 28747,
+      "numero": 67,
+      "titulo": "Fairy Tail S2 - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7799d0004c7a0b7c5e0672f7848ff04.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/67/",
+      "publicado_en_origen": "2015-07-17 21:05:19"
+    },
+    {
+      "id_origen": 28817,
+      "numero": 68,
+      "titulo": "Fairy Tail S2 - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f862869c41a0dae100f62459a3e2f6a3.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/68/",
+      "publicado_en_origen": "2015-07-24 21:07:30"
+    },
+    {
+      "id_origen": 28883,
+      "numero": 69,
+      "titulo": "Fairy Tail S2 - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6276420f0e05d929d71f1dffe6705ea.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/69/",
+      "publicado_en_origen": "2015-07-31 21:07:15"
+    },
+    {
+      "id_origen": 28943,
+      "numero": 70,
+      "titulo": "Fairy Tail S2 - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d37b9e2b497aa9312965a132d98279b0.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/70/",
+      "publicado_en_origen": "2015-08-07 21:25:57"
+    },
+    {
+      "id_origen": 29008,
+      "numero": 71,
+      "titulo": "Fairy Tail S2 - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae7a1abc672c5913a8338992ec6b7e72.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/71/",
+      "publicado_en_origen": "2015-08-14 21:08:24"
+    },
+    {
+      "id_origen": 29074,
+      "numero": 72,
+      "titulo": "Fairy Tail S2 - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3030406173074724559c34666f5830f.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/72/",
+      "publicado_en_origen": "2015-08-21 21:05:58"
+    },
+    {
+      "id_origen": 29145,
+      "numero": 73,
+      "titulo": "Fairy Tail S2 - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf9dfba593148297d8d8b0abd1c42612.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/73/",
+      "publicado_en_origen": "2015-08-28 21:13:16"
+    },
+    {
+      "id_origen": 29209,
+      "numero": 74,
+      "titulo": "Fairy Tail S2 - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_992293aa502a94d9d76d1d0313c00873.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/74/",
+      "publicado_en_origen": "2015-09-04 21:06:37"
+    },
+    {
+      "id_origen": 29352,
+      "numero": 75,
+      "titulo": "Fairy Tail S2 - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bc3900bff210b080e6bd19c10331244.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/75/",
+      "publicado_en_origen": "2015-09-11 21:07:05"
+    },
+    {
+      "id_origen": 29598,
+      "numero": 76,
+      "titulo": "Fairy Tail S2 - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e92ae67e4af9da61bbb3690018fa4f1e.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/76/",
+      "publicado_en_origen": "2015-09-18 21:04:56"
+    },
+    {
+      "id_origen": 29657,
+      "numero": 77,
+      "titulo": "Fairy Tail S2 - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94358038d1af59f0edc1be49d2aef692.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/77/",
+      "publicado_en_origen": "2015-09-25 21:04:44"
+    },
+    {
+      "id_origen": 29698,
+      "numero": 78,
+      "titulo": "Fairy Tail S2 - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_371783b1f48b7a4bf47375ec0e7e3aac.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/78/",
+      "publicado_en_origen": "2015-10-02 21:07:21"
+    },
+    {
+      "id_origen": 29767,
+      "numero": 79,
+      "titulo": "Fairy Tail S2 - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4e2a9856d6107b6519f6e24d88a8344.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/79/",
+      "publicado_en_origen": "2015-10-09 21:10:22"
+    },
+    {
+      "id_origen": 29834,
+      "numero": 80,
+      "titulo": "Fairy Tail S2 - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3dcc03d75fb7d26bd9adb1e32481c28.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/80/",
+      "publicado_en_origen": "2015-10-16 21:06:31"
+    },
+    {
+      "id_origen": 29895,
+      "numero": 81,
+      "titulo": "Fairy Tail S2 - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f226f6cf9fdfe5a00262793195a3d228.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/81/",
+      "publicado_en_origen": "2015-10-23 21:05:58"
+    },
+    {
+      "id_origen": 29960,
+      "numero": 82,
+      "titulo": "Fairy Tail S2 - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b0e861aacb92e74f2ea443d7c626b53.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/82/",
+      "publicado_en_origen": "2015-10-30 21:05:37"
+    },
+    {
+      "id_origen": 30018,
+      "numero": 83,
+      "titulo": "Fairy Tail S2 - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6026ab34372aefc36721984187f2afc6.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/83/",
+      "publicado_en_origen": "2015-11-06 21:05:10"
+    },
+    {
+      "id_origen": 30074,
+      "numero": 84,
+      "titulo": "Fairy Tail S2 - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a308d4c57b421c5b161897f6fe80dea6.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/84/",
+      "publicado_en_origen": "2015-11-13 21:07:22"
+    },
+    {
+      "id_origen": 30137,
+      "numero": 85,
+      "titulo": "Fairy Tail S2 - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_884e49a58a63060782d767feed8e6c88.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/85/",
+      "publicado_en_origen": "2015-11-20 21:06:34"
+    },
+    {
+      "id_origen": 30198,
+      "numero": 86,
+      "titulo": "Fairy Tail S2 - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f82b195b129c873424298c3285a2dc7.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/86/",
+      "publicado_en_origen": "2015-11-27 22:25:20"
+    },
+    {
+      "id_origen": 30263,
+      "numero": 87,
+      "titulo": "Fairy Tail S2 - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a58c8ee009158220b7b2c03e333db41.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/87/",
+      "publicado_en_origen": "2015-12-04 21:06:19"
+    },
+    {
+      "id_origen": 30321,
+      "numero": 88,
+      "titulo": "Fairy Tail S2 - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d41e0e6f6f1e29098d9d152511503ab2.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/88/",
+      "publicado_en_origen": "2015-12-11 21:04:40"
+    },
+    {
+      "id_origen": 30379,
+      "numero": 89,
+      "titulo": "Fairy Tail S2 - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d818880a4d72c14f185cbef3fc6061a.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/89/",
+      "publicado_en_origen": "2015-12-18 21:06:00"
+    },
+    {
+      "id_origen": 30444,
+      "numero": 90,
+      "titulo": "Fairy Tail S2 - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d373d451beddb6c6a1134876433d259.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/90/",
+      "publicado_en_origen": "2015-12-26 00:38:54"
+    },
+    {
+      "id_origen": 30514,
+      "numero": 91,
+      "titulo": "Fairy Tail S2 - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a874ab8ce08044d1637a5be4d8b096f9.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/91/",
+      "publicado_en_origen": "2016-01-08 22:06:41"
+    },
+    {
+      "id_origen": 30579,
+      "numero": 92,
+      "titulo": "Fairy Tail S2 - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_918b71f2ac42210cfae2f82b777c1f27.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/92/",
+      "publicado_en_origen": "2016-01-15 22:05:20"
+    },
+    {
+      "id_origen": 30638,
+      "numero": 93,
+      "titulo": "Fairy Tail S2 - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71dd874ff78e42aa8050469380bea669.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/93/",
+      "publicado_en_origen": "2016-01-22 22:06:10"
+    },
+    {
+      "id_origen": 30703,
+      "numero": 94,
+      "titulo": "Fairy Tail S2 - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86113dc59e768c1d1a462f18a5d458a0.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/94/",
+      "publicado_en_origen": "2016-01-29 22:05:32"
+    },
+    {
+      "id_origen": 30766,
+      "numero": 95,
+      "titulo": "Fairy Tail S2 - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bf496834d830d71d0d517e552b8245f.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/95/",
+      "publicado_en_origen": "2016-02-06 00:40:37"
+    },
+    {
+      "id_origen": 30822,
+      "numero": 96,
+      "titulo": "Fairy Tail S2 - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_159f02cdca45838bdfe5ecdeadb520be.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/96/",
+      "publicado_en_origen": "2016-02-13 00:58:24"
+    },
+    {
+      "id_origen": 30882,
+      "numero": 97,
+      "titulo": "Fairy Tail S2 - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15978ec98cc7fb6d2b95cd397439f23a.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/97/",
+      "publicado_en_origen": "2016-02-20 00:50:30"
+    },
+    {
+      "id_origen": 30942,
+      "numero": 98,
+      "titulo": "Fairy Tail S2 - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93eb9cfb64391c4ee20ac49e72216fa4.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/98/",
+      "publicado_en_origen": "2016-02-27 00:45:35"
+    },
+    {
+      "id_origen": 31012,
+      "numero": 99,
+      "titulo": "Fairy Tail S2 - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f81b2a1d75d01e35b2ac8c0f6a8ec78b.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/99/",
+      "publicado_en_origen": "2016-03-05 01:35:18"
+    },
+    {
+      "id_origen": 31089,
+      "numero": 100,
+      "titulo": "Fairy Tail S2 - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c73edcecd97f8e999b5cd937d5e6827e.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/100/",
+      "publicado_en_origen": "2016-03-12 00:49:59"
+    },
+    {
+      "id_origen": 31149,
+      "numero": 101,
+      "titulo": "Fairy Tail S2 - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_593de40b4d3070f61ea21d659cf7517c.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/101/",
+      "publicado_en_origen": "2016-03-19 00:44:37"
+    },
+    {
+      "id_origen": 31210,
+      "numero": 102,
+      "titulo": "Fairy Tail S2 - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b5130310a93e632cdfcf01eefd6b01e.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-2014/102/",
+      "publicado_en_origen": "2016-03-26 00:40:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:55+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1104",
+  "cantidad_episodios_declarada": 102,
+  "detalle_extraido_en": "2026-08-26T18:26:41+00:00"
+}

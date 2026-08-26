@@ -1,0 +1,29 @@
+{
+  "id_origen": 1254,
+  "slug": "inugami-san-to-nekoyama-san-special",
+  "titulo": "Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou",
+  "titulo_corto": "Inugami-san to Nekoyama-san: N...",
+  "sinopsis": "Episodio especial incluido con el Blu-ray/DVD de Inugami-san to Nekoyama-san.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/inugami-san-to-nekoyama-san-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/inugami-san-to-nekoyama-san-special/",
+  "episodios": [
+    {
+      "id_origen": 24724,
+      "numero": 1,
+      "titulo": "Inugami-san to Nekoyama-san Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d744c4e196f729df5fa41bcb8df27eab.jpg",
+      "url_origen": "https://jkanime.net/inugami-san-to-nekoyama-san-special/1/",
+      "publicado_en_origen": "2014-09-10 20:21:14"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1254",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:31:57+00:00"
+}

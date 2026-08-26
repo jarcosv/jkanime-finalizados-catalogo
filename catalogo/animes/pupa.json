@@ -1,0 +1,117 @@
+{
+  "id_origen": 1042,
+  "slug": "pupa",
+  "titulo": "Pupa",
+  "titulo_corto": "Pupa",
+  "sinopsis": "La historia sigue a Utsutsu y Yume Hasegawa, un muchacho y su hermana pequeña que se encuentran completamente solos. Un día, Yume ve una misteriosa mariposa roja y su cuerpo sufre una extraña metamorfosis, convirtiéndose en una criatura que devora humanos. Utsutsu luchará por encontrar una forma de devolver a su hermana a su forma anterior.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pupa.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pupa/",
+  "episodios": [
+    {
+      "id_origen": 22394,
+      "numero": 1,
+      "titulo": "Pupa - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11f64a21a22a548559e4edfbdd8e0397.jpg",
+      "url_origen": "https://jkanime.net/pupa/1/",
+      "publicado_en_origen": "2014-01-09 16:34:22"
+    },
+    {
+      "id_origen": 22456,
+      "numero": 2,
+      "titulo": "Pupa - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0693df4aa5de496ff23d0ae36e50c276.jpg",
+      "url_origen": "https://jkanime.net/pupa/2/",
+      "publicado_en_origen": "2014-01-16 16:35:00"
+    },
+    {
+      "id_origen": 22513,
+      "numero": 3,
+      "titulo": "Pupa - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e850f6bef0bc36ca1f64e95ff1cbd2e.jpg",
+      "url_origen": "https://jkanime.net/pupa/3/",
+      "publicado_en_origen": "2014-01-23 16:35:22"
+    },
+    {
+      "id_origen": 22573,
+      "numero": 4,
+      "titulo": "Pupa - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23275f3844585a6a9bbb627837278e13.jpg",
+      "url_origen": "https://jkanime.net/pupa/4/",
+      "publicado_en_origen": "2014-01-30 16:35:06"
+    },
+    {
+      "id_origen": 22636,
+      "numero": 5,
+      "titulo": "Pupa - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de13900036d092edc37a217d406f143e.jpg",
+      "url_origen": "https://jkanime.net/pupa/5/",
+      "publicado_en_origen": "2014-02-06 16:35:26"
+    },
+    {
+      "id_origen": 22703,
+      "numero": 6,
+      "titulo": "Pupa - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a10b19021b183eb10c5adfe9ff5b525a.jpg",
+      "url_origen": "https://jkanime.net/pupa/6/",
+      "publicado_en_origen": "2014-02-13 16:33:47"
+    },
+    {
+      "id_origen": 22761,
+      "numero": 7,
+      "titulo": "Pupa - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d264b72ca33f79489e025913eadcdc3a.jpg",
+      "url_origen": "https://jkanime.net/pupa/7/",
+      "publicado_en_origen": "2014-02-20 16:35:24"
+    },
+    {
+      "id_origen": 22826,
+      "numero": 8,
+      "titulo": "Pupa - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f10a50dc1a125c20236ec09aa242c36b.jpg",
+      "url_origen": "https://jkanime.net/pupa/8/",
+      "publicado_en_origen": "2014-02-27 16:37:18"
+    },
+    {
+      "id_origen": 22883,
+      "numero": 9,
+      "titulo": "Pupa - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a50099e4b1e3d4376fa30b80a5d604f.jpg",
+      "url_origen": "https://jkanime.net/pupa/9/",
+      "publicado_en_origen": "2014-03-06 16:38:25"
+    },
+    {
+      "id_origen": 22949,
+      "numero": 10,
+      "titulo": "Pupa - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a707d3ceda7305af3cdbc1ffddc67db.jpg",
+      "url_origen": "https://jkanime.net/pupa/10/",
+      "publicado_en_origen": "2014-03-13 15:33:52"
+    },
+    {
+      "id_origen": 23026,
+      "numero": 11,
+      "titulo": "Pupa - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69fff0089c76f15d19e8fc6d11532d25.jpg",
+      "url_origen": "https://jkanime.net/pupa/11/",
+      "publicado_en_origen": "2014-03-20 15:40:27"
+    },
+    {
+      "id_origen": 23085,
+      "numero": 12,
+      "titulo": "Pupa - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_339e1f3c4cfdd33fa17637c74bf5df09.jpg",
+      "url_origen": "https://jkanime.net/pupa/12/",
+      "publicado_en_origen": "2014-03-27 15:43:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:57+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1042",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:43:12+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id_origen": 1247,
+  "slug": "mujaki-no-rakuen",
+  "titulo": "Mujaki no Rakuen",
+  "titulo_corto": "Mujaki no Rakuen",
+  "sinopsis": "La historia gira en torno a Shouta, un NEET de 25 años de edad, que viaja al pasado, concretamente a sus días en la escuela primaria, a través de la piscina de su instituto. Una vez en el pasado, conoce a Konomi-chan, una chica que se convertirá en una popular actriz nacional.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mujaki-no-rakuen.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mujaki-no-rakuen/",
+  "episodios": [
+    {
+      "id_origen": 24632,
+      "numero": 1,
+      "titulo": "Mujaki no Rakuen",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d485479d015f95ad713a98f3fd8d8e6.jpg",
+      "url_origen": "https://jkanime.net/mujaki-no-rakuen/1/",
+      "publicado_en_origen": "2014-09-04 00:00:11"
+    },
+    {
+      "id_origen": 29173,
+      "numero": 2,
+      "titulo": "Mujaki no Rakuen",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_222aaac522b686a196dc52372498ac8f.jpg",
+      "url_origen": "https://jkanime.net/mujaki-no-rakuen/2/",
+      "publicado_en_origen": "2015-08-31 13:57:49"
+    },
+    {
+      "id_origen": 71506,
+      "numero": 3,
+      "titulo": "Mujaki no Rakuen - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57218d3920112bc92face1af875bcb99.jpg",
+      "url_origen": "https://jkanime.net/mujaki-no-rakuen/3/",
+      "publicado_en_origen": "2026-02-15 17:51:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1247",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:39:19+00:00"
+}

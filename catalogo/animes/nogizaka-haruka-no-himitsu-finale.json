@@ -1,0 +1,53 @@
+{
+  "id_origen": 619,
+  "slug": "nogizaka-haruka-no-himitsu-finale",
+  "titulo": "Nogizaka Haruka no Himitsu: Finale",
+  "titulo_corto": "Nogizaka Haruka no Himitsu: Fi...",
+  "sinopsis": "Narra el arco final de la novela de la cual ha sido basada.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nogizaka-haruka-no-himitsu-finale.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nogizaka-haruka-no-himitsu-finale/",
+  "episodios": [
+    {
+      "id_origen": 49403,
+      "numero": 1,
+      "titulo": "Nogizaka Haruka no Himitsu: Finale - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nogizaka-haruka-no-himitsu-finale.jpg",
+      "url_origen": "https://jkanime.net/nogizaka-haruka-no-himitsu-finale/1/",
+      "publicado_en_origen": "2022-05-18 13:06:39"
+    },
+    {
+      "id_origen": 49404,
+      "numero": 2,
+      "titulo": "Nogizaka Haruka no Himitsu: Finale - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nogizaka-haruka-no-himitsu-finale.jpg",
+      "url_origen": "https://jkanime.net/nogizaka-haruka-no-himitsu-finale/2/",
+      "publicado_en_origen": "2022-05-18 13:06:39"
+    },
+    {
+      "id_origen": 49405,
+      "numero": 3,
+      "titulo": "Nogizaka Haruka no Himitsu: Finale - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f7af63ea969ccab261c71543c9d3a79.jpg",
+      "url_origen": "https://jkanime.net/nogizaka-haruka-no-himitsu-finale/3/",
+      "publicado_en_origen": "2022-05-18 13:06:39"
+    },
+    {
+      "id_origen": 49406,
+      "numero": 4,
+      "titulo": "Nogizaka Haruka no Himitsu: Finale - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48388b43175c3c7bc2c83a6225387a1a.jpg",
+      "url_origen": "https://jkanime.net/nogizaka-haruka-no-himitsu-finale/4/",
+      "publicado_en_origen": "2022-05-18 13:06:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "619",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:40:41+00:00"
+}

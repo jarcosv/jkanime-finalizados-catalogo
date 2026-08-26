@@ -1,0 +1,53 @@
+{
+  "id_origen": 2812,
+  "slug": "kimetsu-gakuen-valentine-hen",
+  "titulo": "Kimetsu Gakuen: Valentine-hen",
+  "titulo_corto": "Kimetsu Gakuen: Valentine-hen",
+  "sinopsis": "Especial de San Valentín para Kimetsu no Yaiba.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimetsu-gakuen-valentine-hen.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimetsu-gakuen-valentine-hen/",
+  "episodios": [
+    {
+      "id_origen": 44705,
+      "numero": 1,
+      "titulo": "Kimetsu Gakuen: Valentine-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70b98d30e383df910ce3d693603404fb.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-gakuen-valentine-hen/1/",
+      "publicado_en_origen": "2021-02-15 18:22:50"
+    },
+    {
+      "id_origen": 44706,
+      "numero": 2,
+      "titulo": "Kimetsu Gakuen: Valentine-hen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a634a27b1ca32aa976a71d0e1c062075.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-gakuen-valentine-hen/2/",
+      "publicado_en_origen": "2021-02-15 18:22:53"
+    },
+    {
+      "id_origen": 44707,
+      "numero": 3,
+      "titulo": "Kimetsu Gakuen: Valentine-hen - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d1ca441acca88b450e706d65533dbd2.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-gakuen-valentine-hen/3/",
+      "publicado_en_origen": "2021-02-15 18:22:55"
+    },
+    {
+      "id_origen": 44708,
+      "numero": 4,
+      "titulo": "Kimetsu Gakuen: Valentine-hen - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d582c50afcf15d63acdfa2df2f088e6.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-gakuen-valentine-hen/4/",
+      "publicado_en_origen": "2021-02-15 18:23:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2812",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:34:36+00:00"
+}

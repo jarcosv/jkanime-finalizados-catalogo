@@ -1,0 +1,45 @@
+{
+  "id_origen": 4875,
+  "slug": "buttobi-cpu",
+  "titulo": "Buttobi!! CPU",
+  "titulo_corto": "Buttobi!! CPU",
+  "sinopsis": "Avergonzado por ser el único miembro de la Sociedad de Estudios del Cerebro Eléctrico que no tiene ordenador, Akira Takaoka se emociona cuando una tienda de electrónica anuncia un PC9821 por solo noventa y ocho mil yenes. La oferta está limitada a los cinco primeros clientes; por desgracia, cuando Akira llega allí, los ordenadores ya se han agotado. Sin embargo, un hombre misterioso en un callejón le ofrece exactamente la misma oferta. Akira acepta la oferta, pero enseguida se da cuenta de que ese ordenador no es un modelo 9821, sino un 2198. ¡Resulta que el PC2198 es un ordenador biológico avanzado que necesita un aporte casi constante de esperma para funcionar!\r\n\r\nEl PC2198, llamado Mimi, ahora tiene que defender a Akira de las malvadas hermanas Apple Nacintosh, que quieren hacerse con todo el mercado japonés de ordenadores personales. ¿Podrá el avergonzado Akira proporcionar a Mimi lo que necesita para ganar?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/buttobi-cpu.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/buttobi-cpu/",
+  "episodios": [
+    {
+      "id_origen": 75364,
+      "numero": 1,
+      "titulo": "Buttobi!! CPU - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8dba89ce90e60027561e41b256c376cc.jpg",
+      "url_origen": "https://jkanime.net/buttobi-cpu/1/",
+      "publicado_en_origen": "2026-07-23 11:48:57"
+    },
+    {
+      "id_origen": 75365,
+      "numero": 2,
+      "titulo": "Buttobi!! CPU - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a139499aeb756c599f9f9ceddbcabe4.jpg",
+      "url_origen": "https://jkanime.net/buttobi-cpu/2/",
+      "publicado_en_origen": "2026-07-23 11:48:57"
+    },
+    {
+      "id_origen": 75366,
+      "numero": 3,
+      "titulo": "Buttobi!! CPU - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bd6cde18b50b99cb552e65a0eb36a55.jpg",
+      "url_origen": "https://jkanime.net/buttobi-cpu/3/",
+      "publicado_en_origen": "2026-07-23 11:48:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4875",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:22:22+00:00"
+}

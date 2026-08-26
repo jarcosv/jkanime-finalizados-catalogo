@@ -1,0 +1,29 @@
+{
+  "id_origen": 1000,
+  "slug": "date-a-live-ova",
+  "titulo": "Date A Live OVA",
+  "titulo_corto": "Date A Live OVA",
+  "sinopsis": "Incluida con el 9no volumen del la novela original, valido como episodio 13 de Date a Live",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/date-a-live-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/date-a-live-ova/",
+  "episodios": [
+    {
+      "id_origen": 22148,
+      "numero": 1,
+      "titulo": "Date A Live OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da28a523d750771722583165fd6d01d9.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-ova/1/",
+      "publicado_en_origen": "2013-12-08 18:22:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1000",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:36+00:00"
+}

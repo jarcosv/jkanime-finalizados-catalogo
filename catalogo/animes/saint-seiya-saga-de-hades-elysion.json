@@ -1,0 +1,69 @@
+{
+  "id_origen": 580,
+  "slug": "saint-seiya-saga-de-hades-elysion",
+  "titulo": "Saint Seiya Saga de Hades Elysion",
+  "titulo_corto": "Saint Seiya Saga de Hades Elys...",
+  "sinopsis": "Después de que los 12 Caballeros de Oro sacrificasen sus vidas para destruir el Muro de las Lamentaciones, los Caballeros de Bronce se adentran al profundo reino del Inframundo, los Campos Elyseos, donde se enfrentarán contra los dos sirvientes más poderosos de Hades: Los Dioses Gemelos, Hypnos y Tánatos, antes de enfrentarse en la lucha final contra Hades.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saint-seiya-saga-de-hades-elysion.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/saint-seiya-saga-de-hades-elysion/",
+  "episodios": [
+    {
+      "id_origen": 15907,
+      "numero": 1,
+      "titulo": "Saint Seiya Saga de Hades Elysion - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e20535de00c6a84cca2ff2da9a6a402.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saga-de-hades-elysion/1/",
+      "publicado_en_origen": "2012-06-17 13:11:30"
+    },
+    {
+      "id_origen": 15908,
+      "numero": 2,
+      "titulo": "Saint Seiya Saga de Hades Elysion - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20b3c39862ca1f0e8a12a96218615351.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saga-de-hades-elysion/2/",
+      "publicado_en_origen": "2012-06-17 13:11:30"
+    },
+    {
+      "id_origen": 15909,
+      "numero": 3,
+      "titulo": "Saint Seiya Saga de Hades Elysion - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad67121c769f2435b84cb30f1086a520.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saga-de-hades-elysion/3/",
+      "publicado_en_origen": "2012-06-17 13:11:30"
+    },
+    {
+      "id_origen": 15910,
+      "numero": 4,
+      "titulo": "Saint Seiya Saga de Hades Elysion - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_039b598aac0db8cf2c78f97f06efbdaa.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saga-de-hades-elysion/4/",
+      "publicado_en_origen": "2012-06-17 13:11:30"
+    },
+    {
+      "id_origen": 15911,
+      "numero": 5,
+      "titulo": "Saint Seiya Saga de Hades Elysion - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a71a002d36d76176d6a2d9f72142b72.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saga-de-hades-elysion/5/",
+      "publicado_en_origen": "2012-06-17 13:11:30"
+    },
+    {
+      "id_origen": 15912,
+      "numero": 6,
+      "titulo": "Saint Seiya Saga de Hades Elysion - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06b87c9e02de2d5cf9dda1d3a42e089e.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saga-de-hades-elysion/6/",
+      "publicado_en_origen": "2012-06-17 13:11:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "580",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:44:35+00:00"
+}

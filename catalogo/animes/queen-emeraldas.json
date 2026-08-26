@@ -1,0 +1,53 @@
+{
+  "id_origen": 4192,
+  "slug": "queen-emeraldas",
+  "titulo": "Queen Emeraldas",
+  "titulo_corto": "Queen Emeraldas",
+  "sinopsis": "En un futuro muy lejano, una raza dominante pretende dominar la galaxia.\r\n\r\nContra estos despiadados afressianos, la humanidad sólo tiene una esperanza: la misteriosa guerrera conocida como Emeraldas. Impulsada por el torturado recuerdo de su amor perdido, Emeraldas navega por el Mar de las Estrellas como un corsario de antaño, convirtiendo en átomos a las fuerzas de la tiranía con un asombroso arsenal de armas futuristas.\r\n\r\nPero cuando el taimado comandante Eldomain secuestra a un grupo de civiles inocentes, Emeraldas se ve arrastrada a una trampa mortal de la que ni siquiera ella podrá escapar.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/queen-emeraldas.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/queen-emeraldas/",
+  "episodios": [
+    {
+      "id_origen": 64038,
+      "numero": 1,
+      "titulo": "Queen Emeraldas - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7ffb6e3113a7a35f52f8081b6239d6e.jpg",
+      "url_origen": "https://jkanime.net/queen-emeraldas/1/",
+      "publicado_en_origen": "2025-06-26 15:49:51"
+    },
+    {
+      "id_origen": 64039,
+      "numero": 2,
+      "titulo": "Queen Emeraldas - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ffed6a9c989c99df1487350e9c5b3c8.jpg",
+      "url_origen": "https://jkanime.net/queen-emeraldas/2/",
+      "publicado_en_origen": "2025-06-26 15:49:51"
+    },
+    {
+      "id_origen": 64040,
+      "numero": 3,
+      "titulo": "Queen Emeraldas - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d62567558dde4061f375d433936aae17.jpg",
+      "url_origen": "https://jkanime.net/queen-emeraldas/3/",
+      "publicado_en_origen": "2025-06-26 15:49:51"
+    },
+    {
+      "id_origen": 64041,
+      "numero": 4,
+      "titulo": "Queen Emeraldas - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d370851789d6d97daa2d2904133bc6b.jpg",
+      "url_origen": "https://jkanime.net/queen-emeraldas/4/",
+      "publicado_en_origen": "2025-06-26 15:49:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4192",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:43:22+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 3374,
+  "slug": "wonder-garden",
+  "titulo": "Wonder Garden",
+  "titulo_corto": "Wonder Garden",
+  "sinopsis": "Una niña es transportada a un mundo mágico por un oso de escaparate en este corto de anime de Studio Colorido.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/wonder-garden.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/wonder-garden/",
+  "episodios": [
+    {
+      "id_origen": 52204,
+      "numero": 1,
+      "titulo": "Wonder Garden",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b68e99a185c38feb200f87e663667d8.jpg",
+      "url_origen": "https://jkanime.net/wonder-garden/1/",
+      "publicado_en_origen": "2023-03-20 12:02:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3374",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:52:07+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 4249,
+  "slug": "colorful-movie",
+  "titulo": "Colorful (Movie)",
+  "titulo_corto": "Colorful (Movie)",
+  "sinopsis": "Al llegar a la estación de tren de la muerte, un alma impura recibe una segunda oportunidad en la vida contra su voluntad. Reencarnándose en el cuerpo de Makoto Kobayashi, un chico de 14 años que se suicidó recientemente, el alma tiene la misión de identificar el mayor pecado del chico en vida en un plazo de seis meses. Aunque se muestra reacia a continuar con la vida de Makoto, el alma pronto comienza a darse cuenta de la complejidad de las emociones y acciones de las personas.\r\n\r\nDesmontando las ideas de las familias rotas y el suicidio, Colorful explora las complejidades de las luchas diarias a las que se enfrentan los seres humanos, pero que son demasiado vergonzosas como para afrontarlas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/colorful-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/colorful-movie/",
+  "episodios": [
+    {
+      "id_origen": 65346,
+      "numero": 1,
+      "titulo": "Colorful (Movie)",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7274d8c05ebc041217f4e6c995b3d33f.jpg",
+      "url_origen": "https://jkanime.net/colorful-movie/1/",
+      "publicado_en_origen": "2025-07-25 20:00:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4249",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:23:58+00:00"
+}

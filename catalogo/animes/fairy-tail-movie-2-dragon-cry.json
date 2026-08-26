@@ -1,0 +1,29 @@
+{
+  "id_origen": 3840,
+  "slug": "fairy-tail-movie-2-dragon-cry",
+  "titulo": "Fairy Tail Movie 2: Dragon Cry",
+  "titulo_corto": "Fairy Tail Movie 2: Dragon Cry",
+  "sinopsis": "Dragon Cry es un artefacto mágico de poder mortífero, formado en forma de bastón por la furia y la desesperación de dragones desaparecidos hace mucho tiempo. Ahora, este poder ha sido robado de las manos del reino de Fiore por el nefasto traidor Zash Caine, que huye con él a la pequeña nación isleña de Stella. Asustado de que el poder haya caído en manos equivocadas, el rey de Fiore envía apresuradamente a Fairy Tail a recuperar el bastón. Pero esta tarea resulta aterradora, ya que un oscuro secreto se esconde en el corazón del reino de Stella. Dragon Cry sigue su historia mientras hacen acopio de todas sus fuerzas para recuperar el bastón robado y salvar ambos reinos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fairy-tail-movie-2-dragon-cry.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fairy-tail-movie-2-dragon-cry/",
+  "episodios": [
+    {
+      "id_origen": 58649,
+      "numero": 1,
+      "titulo": "Fairy Tail Movie 2: Dragon Cry",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e751c284ba4515200c5a9baf7a89f5f0.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-movie-2-dragon-cry/1/",
+      "publicado_en_origen": "2024-09-02 03:00:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3840",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:35+00:00"
+}

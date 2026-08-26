@@ -1,0 +1,781 @@
+{
+  "id_origen": 353,
+  "slug": "rurouni-kenshin",
+  "titulo": "Rurouni Kenshin",
+  "titulo_corto": "Rurouni Kenshin",
+  "sinopsis": "La historia trata de un joven, el mayor asesino de la era Tokugawa hasta la Restauración Meiji, apodado Battousai. Este joven llamado Kenshin Himura, decide no volver a matar gente, y para poder pagar de alguna forma los asesinatos que cometió, decide proteger a las personas a su alrededor con la técnica más aterradora y poderosa en existencia: el Hiten Mitsurugi Ryū, aprendida gracias al adiestramiento de su maestro Seijuro Hiko , que lo acogió cuando era pequeño tras sobrevivir en el asesinato de la caravana de esclavos en que se encontraba, donde 3 hermanas lo habian adoptado como hermano menor. De esta manera conoce a Kaoru Kamiya, del dojo Kamiya Kasshin Ryū, Sanosuke, Yahiko y a otros personajes que pasan a ser parte de su vida, y motivo de existencia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rurouni-kenshin.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/rurouni-kenshin/",
+  "episodios": [
+    {
+      "id_origen": 9741,
+      "numero": 1,
+      "titulo": "Samurai X 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69db61ce36a56178711fec066e07aeb6.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/1/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9742,
+      "numero": 2,
+      "titulo": "Samurai X 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02aff7969b61d33fe215dba6bf0056c8.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/2/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9743,
+      "numero": 3,
+      "titulo": "Samurai X 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e69af6c3c1ceeff3c2dced65ed63eee.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/3/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9744,
+      "numero": 4,
+      "titulo": "Samurai X 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ad3c1db0f3411d9825cb088de789857.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/4/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9745,
+      "numero": 5,
+      "titulo": "Samurai X 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b430bedaf544d495473ae9767afc7111.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/5/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9746,
+      "numero": 6,
+      "titulo": "Samurai X 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_250b76af0b9e34cd12acfefaf512af6e.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/6/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9747,
+      "numero": 7,
+      "titulo": "Samurai X 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48259990138bc03361556fb3f94c5d45.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/7/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9748,
+      "numero": 8,
+      "titulo": "Samurai X 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6925f2a16026e36e4fc112f82dd79406.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/8/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9749,
+      "numero": 9,
+      "titulo": "Samurai X 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccc58dde99ac1c9f32531179b859bf46.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/9/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9750,
+      "numero": 10,
+      "titulo": "Samurai X 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e369628fed6bf2eebe51b12efe570e6b.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/10/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9751,
+      "numero": 11,
+      "titulo": "Samurai X 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46aac8e8ce9c68e9a1f4f5f56a5a3831.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/11/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9752,
+      "numero": 12,
+      "titulo": "Samurai X 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95a0810a93a87065bf7b28490817e9e3.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/12/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9753,
+      "numero": 13,
+      "titulo": "Samurai X 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07577d9f755d42cec7545e889b7261a3.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/13/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9754,
+      "numero": 14,
+      "titulo": "Samurai X 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc37e109d92bdc1ea71da6c919d54907.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/14/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9755,
+      "numero": 15,
+      "titulo": "Samurai X 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4fac8fb3c9e17a2f4553a001f631975.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/15/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9756,
+      "numero": 16,
+      "titulo": "Samurai X 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_746b02b6680562f44ad7526675bac026.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/16/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9757,
+      "numero": 17,
+      "titulo": "Samurai X 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36a773b0b5996caee2eabbb5caa78023.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/17/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9758,
+      "numero": 18,
+      "titulo": "Samurai X 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29e48b79ae6fc68e9b6480b677453586.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/18/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9759,
+      "numero": 19,
+      "titulo": "Samurai X 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fa5a5225db0056c06c029611d79e1b1.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/19/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9760,
+      "numero": 20,
+      "titulo": "Samurai X 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rurouni-kenshin.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/20/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9761,
+      "numero": 21,
+      "titulo": "Samurai X 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b3acf483fac3b2baaad311f1cef9674.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/21/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9762,
+      "numero": 22,
+      "titulo": "Samurai X 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fcc629edc0cfa360016263112fe8058.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/22/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9763,
+      "numero": 23,
+      "titulo": "Samurai X 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ffd15f002b98f6bd62346b947b8d15a.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/23/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9764,
+      "numero": 24,
+      "titulo": "Samurai X 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0aa2ebf701adab64a123a01be6dcc018.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/24/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9765,
+      "numero": 25,
+      "titulo": "Samurai X 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6de0f2761a44ff1e2ca60131058d8297.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/25/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9766,
+      "numero": 26,
+      "titulo": "Samurai X 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86636b6605b2bcb9a738d0e9bbce3c43.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/26/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9767,
+      "numero": 27,
+      "titulo": "Samurai X 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e720a515b9da87288d569caa68f42bc1.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/27/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9768,
+      "numero": 28,
+      "titulo": "Samurai X 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c400db3363b99ee026bc9ed0741b79df.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/28/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9769,
+      "numero": 29,
+      "titulo": "Samurai X 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c42f76f3b235e177ed57983b6721d0f3.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/29/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9770,
+      "numero": 30,
+      "titulo": "Samurai X 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b180da1593ce9ff93d453eccc44021ad.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/30/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9771,
+      "numero": 31,
+      "titulo": "Samurai X 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07470878bde1b126f2cc4b0f9d9b9798.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/31/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9772,
+      "numero": 32,
+      "titulo": "Samurai X 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c86c6aae8fa9b90ac77534c5ea7a2fe7.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/32/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9773,
+      "numero": 33,
+      "titulo": "Samurai X 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7acfd79777f2e49cfd3c2e803c44a3b.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/33/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9774,
+      "numero": 34,
+      "titulo": "Samurai X 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2361d07d9f4dd38dd802a5e917176a3.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/34/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9775,
+      "numero": 35,
+      "titulo": "Samurai X 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4ab582234ddd121e3b6857229e7d274.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/35/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9776,
+      "numero": 36,
+      "titulo": "Samurai X 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5616060fb8ae85d93f334e7267307664.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/36/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9777,
+      "numero": 37,
+      "titulo": "Samurai X 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f504658ddff2e41061b89bdc726a160.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/37/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9778,
+      "numero": 38,
+      "titulo": "Samurai X 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f52b43f6e0e444510cf55c5869d8d06b.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/38/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9779,
+      "numero": 39,
+      "titulo": "Samurai X 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8de4aa6f66a39065b3fac4aa58feaccd.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/39/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9780,
+      "numero": 40,
+      "titulo": "Samurai X 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_927b028cfa24b23a09ff20c1a7f9b398.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/40/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9781,
+      "numero": 41,
+      "titulo": "Samurai X 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d3d9b8861c97e6bb5992d51d3232f8b.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/41/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9782,
+      "numero": 42,
+      "titulo": "Samurai X 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32bd403625078f55a266b487534aa95b.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/42/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9783,
+      "numero": 43,
+      "titulo": "Samurai X 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_668560ec159ebc2ef751b5ca819d520b.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/43/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9784,
+      "numero": 44,
+      "titulo": "Samurai X 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fac7fead96dafceaf80c1daffeae82a4.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/44/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9785,
+      "numero": 45,
+      "titulo": "Samurai X 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85137246c8103963068cfe72b4c44e3e.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/45/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9786,
+      "numero": 46,
+      "titulo": "Samurai X 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4d8c3b407f932ae5dde930628585e1d.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/46/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9787,
+      "numero": 47,
+      "titulo": "Samurai X 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24ac838a6b14395dda537b1c38cde219.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/47/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9788,
+      "numero": 48,
+      "titulo": "Samurai X 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_428e20bb0ffe912914644a4a5f5e25a2.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/48/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9789,
+      "numero": 49,
+      "titulo": "Samurai X 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0cc918dec28dbd91f6006a2ce8101e2e.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/49/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9790,
+      "numero": 50,
+      "titulo": "Samurai X 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a430a7300689d591618cb08a7f156c36.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/50/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9791,
+      "numero": 51,
+      "titulo": "Samurai X 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44089d5f715bc4112ad95576555d0f4e.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/51/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9792,
+      "numero": 52,
+      "titulo": "Samurai X 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6754828e66a922ed1b376ef3f43b625e.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/52/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9793,
+      "numero": 53,
+      "titulo": "Samurai X 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_897a9a2b554640752d749543235a1b16.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/53/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9794,
+      "numero": 54,
+      "titulo": "Samurai X 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7470dce917e7c4b279db989a4b9208d1.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/54/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9795,
+      "numero": 55,
+      "titulo": "Samurai X 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_250f1d53f87de1fd3d3c7a01dcb37abc.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/55/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9796,
+      "numero": 56,
+      "titulo": "Samurai X 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dda8d87065d3a8e68dfd8dc4290e408c.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/56/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9797,
+      "numero": 57,
+      "titulo": "Samurai X 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2fe8c05877ec786290dd1450c3385cd.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/57/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9798,
+      "numero": 58,
+      "titulo": "Samurai X 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e21cece511f43a5cb18d4932429915ed.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/58/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9799,
+      "numero": 59,
+      "titulo": "Samurai X 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c15203a83f778ce8934d0efaf2d5c6f3.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/59/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9800,
+      "numero": 60,
+      "titulo": "Samurai X 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fbce6c74ff376d18cb352e7fdc6273b.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/60/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9801,
+      "numero": 61,
+      "titulo": "Samurai X 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7b58836dc941cc4ba33d16dab6e3059.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/61/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9802,
+      "numero": 62,
+      "titulo": "Samurai X 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7985672db979303a6c765f40915b3d30.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/62/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9803,
+      "numero": 63,
+      "titulo": "Samurai X 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5e39323dd0a7b8534af8a5043a05da2.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/63/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9804,
+      "numero": 64,
+      "titulo": "Samurai X 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33a5435d4f945aa6154b31a73bab3b73.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/64/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9805,
+      "numero": 65,
+      "titulo": "Samurai X 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6876a9f998f6472cc26708e27444456.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/65/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9806,
+      "numero": 66,
+      "titulo": "Samurai X 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2ed25e9f9b76909fc54491a253a5066.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/66/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9807,
+      "numero": 67,
+      "titulo": "Samurai X 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3fefe83288ecb0e40ebe40b2bde29fe.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/67/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9808,
+      "numero": 68,
+      "titulo": "Samurai X 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5b2aa928f940f3f09a0d14f45a27875.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/68/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9809,
+      "numero": 69,
+      "titulo": "Samurai X 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5383c7318a3158b9bc261d0b6996f7c2.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/69/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9810,
+      "numero": 70,
+      "titulo": "Samurai X 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecf9902e0f61677c8de25ae60b654669.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/70/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9811,
+      "numero": 71,
+      "titulo": "Samurai X 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0383314bf626052313b8275638fcccce.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/71/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9812,
+      "numero": 72,
+      "titulo": "Samurai X 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a5a062217abffbdda8a550968a24c7a.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/72/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9813,
+      "numero": 73,
+      "titulo": "Samurai X 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea50fb37fdda7dd9b3b42c6f4a8b3d3f.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/73/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9814,
+      "numero": 74,
+      "titulo": "Samurai X 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74d66337fbdf4781f030008356a86771.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/74/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9815,
+      "numero": 75,
+      "titulo": "Samurai X 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4589b8b6a21b964025a84f6499070b83.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/75/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9816,
+      "numero": 76,
+      "titulo": "Samurai X 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dccb1c3a558c50d389c24d69a9856730.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/76/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9817,
+      "numero": 77,
+      "titulo": "Samurai X 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73740ea85c4ec25f00f9acbd859f861d.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/77/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9818,
+      "numero": 78,
+      "titulo": "Samurai X 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c7077ca5231fd6ad758b9d49a2a1eeb.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/78/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9819,
+      "numero": 79,
+      "titulo": "Samurai X 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_373cb8cd58cad5f1309b31c56e2d5a83.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/79/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9820,
+      "numero": 80,
+      "titulo": "Samurai X 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e614f646836aaed9f89ce58e837e2310.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/80/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9821,
+      "numero": 81,
+      "titulo": "Samurai X 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a30a980e3540e51eb25423caa79f0cb.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/81/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9822,
+      "numero": 82,
+      "titulo": "Samurai X 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9eb09a4dbf0b2098faf20331f294afe.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/82/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9823,
+      "numero": 83,
+      "titulo": "Samurai X 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d8a0e750ff4f9b65d2c112a7095d1ce.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/83/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9824,
+      "numero": 84,
+      "titulo": "Samurai X 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9724412729185d53a2e3e7f889d9f057.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/84/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9825,
+      "numero": 85,
+      "titulo": "Samurai X 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef16eb9ad9476987857bb5e38d3930a3.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/85/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9826,
+      "numero": 86,
+      "titulo": "Samurai X 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_197cec18dff201ab4d1966879423f50b.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/86/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9827,
+      "numero": 87,
+      "titulo": "Samurai X 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d584275cddaca779560a6c0a46ac90a.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/87/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9828,
+      "numero": 88,
+      "titulo": "Samurai X 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebe4bab9796d8591e73101a9b2cf6296.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/88/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9829,
+      "numero": 89,
+      "titulo": "Samurai X 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbfb937a66597d9646ad992009aee405.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/89/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9830,
+      "numero": 90,
+      "titulo": "Samurai X 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7a8486459730bea9569414ef76cf03f.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/90/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9831,
+      "numero": 91,
+      "titulo": "Samurai X 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a62dd1eb9b15f8d11a8bf167591c2f17.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/91/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9832,
+      "numero": 92,
+      "titulo": "Samurai X 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d08726019e4a2a15cb1d49092e4d0522.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/92/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9833,
+      "numero": 93,
+      "titulo": "Samurai X 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_247411fabf61b4245eaaee76924795b7.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/93/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9834,
+      "numero": 94,
+      "titulo": "Samurai X 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d75320797f266ba9ed6dd6dc218cb1b5.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/94/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9835,
+      "numero": 95,
+      "titulo": "Samurai X 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c550e0c211fc613cc6ea50b88bffc0c.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin/95/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "353",
+  "cantidad_episodios_declarada": 94,
+  "detalle_extraido_en": "2026-08-26T18:44:18+00:00"
+}

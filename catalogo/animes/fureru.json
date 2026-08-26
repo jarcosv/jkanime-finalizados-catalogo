@@ -1,0 +1,29 @@
+{
+  "id_origen": 4599,
+  "slug": "fureru",
+  "titulo": "Fureru.",
+  "titulo_corto": "Fureru.",
+  "sinopsis": "Aki, Ryo y Yuta, amigos de la infancia que crecieron en la misma isla, tienen 20 años y comienzan a vivir juntos en Takadanobaba, Tokio. Aunque sus entornos vitales son diferentes —trabajan a tiempo parcial en un bar, como comerciales en una inmobiliaria y son estudiantes de una escuela profesional de diseño de moda—, los tres están siempre conectados en sus corazones. El motivo es que las misteriosas criaturas traídas de la isla, Touch, tienen poderes misteriosos similares a la telepatía que los conectan a pesar de sus diferentes aficiones y personalidades. La amistad entre los tres debería continuar, pero descubren otro poder oculto de Touch.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fureru.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fureru/",
+  "episodios": [
+    {
+      "id_origen": 70861,
+      "numero": 1,
+      "titulo": "Fureru.",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_926b0e95700cfd254ea98e82c902db2f.jpg",
+      "url_origen": "https://jkanime.net/fureru/1/",
+      "publicado_en_origen": "2026-01-17 17:29:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4599",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:27:30+00:00"
+}

@@ -1,0 +1,117 @@
+{
+  "id_origen": 2178,
+  "slug": "karakai-jouzu-no-takagi-san",
+  "titulo": "Karakai Jouzu no Takagi-san",
+  "titulo_corto": "Karakai Jouzu no Takagi-san",
+  "sinopsis": "Karakai Jouzu no Takagi-san cuenta la historia de Nishikata quien es siempre molestado sin piedad por la chica que se sienta a su lado en el salón de clases, Takagi. Por lo que él decide que se vengará de ella. Pero ¿podrá tener éxito?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/karakai-jouzu-no-takagi-san.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/",
+  "episodios": [
+    {
+      "id_origen": 36371,
+      "numero": 1,
+      "titulo": "Karakai Jouzu no Takagi-san - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13506612e450df3e00db2da0f085e769.jpg",
+      "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/1/",
+      "publicado_en_origen": "2018-01-08 15:11:37"
+    },
+    {
+      "id_origen": 36416,
+      "numero": 2,
+      "titulo": "Karakai Jouzu no Takagi-san - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da9278fb741a9aba56bd8e184933871d.jpg",
+      "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/2/",
+      "publicado_en_origen": "2018-01-15 15:11:35"
+    },
+    {
+      "id_origen": 36465,
+      "numero": 3,
+      "titulo": "Karakai Jouzu no Takagi-san - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fe8e043e52f41da393bccf292e55f4b.jpg",
+      "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/3/",
+      "publicado_en_origen": "2018-01-22 15:19:01"
+    },
+    {
+      "id_origen": 36510,
+      "numero": 4,
+      "titulo": "Karakai Jouzu no Takagi-san - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e77862e72ad701f8db9ac2e6ae230365.jpg",
+      "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/4/",
+      "publicado_en_origen": "2018-01-29 15:20:02"
+    },
+    {
+      "id_origen": 36566,
+      "numero": 5,
+      "titulo": "Karakai Jouzu no Takagi-san - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4328ad1978e9bcb7b297600e3019a5a6.jpg",
+      "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/5/",
+      "publicado_en_origen": "2018-02-05 15:26:00"
+    },
+    {
+      "id_origen": 36611,
+      "numero": 6,
+      "titulo": "Karakai Jouzu no Takagi-san - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f26a0c4da5d8d9437741cbb12c6e19c0.jpg",
+      "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/6/",
+      "publicado_en_origen": "2018-02-12 15:20:14"
+    },
+    {
+      "id_origen": 36665,
+      "numero": 7,
+      "titulo": "Karakai Jouzu no Takagi-san - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e55263e0195ebbd53197016d8a9b4c6.jpg",
+      "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/7/",
+      "publicado_en_origen": "2018-02-19 15:18:27"
+    },
+    {
+      "id_origen": 36733,
+      "numero": 8,
+      "titulo": "Karakai Jouzu no Takagi-san - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef517f3ebf26b7510540f2f50a7fbb21.jpg",
+      "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/8/",
+      "publicado_en_origen": "2018-02-26 15:49:09"
+    },
+    {
+      "id_origen": 36781,
+      "numero": 9,
+      "titulo": "Karakai Jouzu no Takagi-san - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c4bbe3b40bfbd75077c9b6fc69c43e8.jpg",
+      "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/9/",
+      "publicado_en_origen": "2018-03-05 15:21:33"
+    },
+    {
+      "id_origen": 36824,
+      "numero": 10,
+      "titulo": "Karakai Jouzu no Takagi-san - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6754a5edd36d0c9da7b5a4142d0c6605.jpg",
+      "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/10/",
+      "publicado_en_origen": "2018-03-12 14:44:42"
+    },
+    {
+      "id_origen": 36868,
+      "numero": 11,
+      "titulo": "Karakai Jouzu no Takagi-san - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e21a5bffb444e61b8e8a30240210d506.jpg",
+      "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/11/",
+      "publicado_en_origen": "2018-03-19 14:11:33"
+    },
+    {
+      "id_origen": 36921,
+      "numero": 12,
+      "titulo": "Karakai Jouzu no Takagi-san - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_616f0870779c97e41bed12cc8719ce6e.jpg",
+      "url_origen": "https://jkanime.net/karakai-jouzu-no-takagi-san/12/",
+      "publicado_en_origen": "2018-03-26 15:21:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:20+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2178",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:34:00+00:00"
+}

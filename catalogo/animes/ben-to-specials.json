@@ -1,0 +1,37 @@
+{
+  "id_origen": 514,
+  "slug": "ben-to-specials",
+  "titulo": "Ben-To Specials",
+  "titulo_corto": "Ben-To Specials",
+  "sinopsis": "Pequeños cortos incluidos en los Blu-ray de Ben-To.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ben-to-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ben-to-specials/",
+  "episodios": [
+    {
+      "id_origen": 14659,
+      "numero": 1,
+      "titulo": "Ben-To Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ben-to-specials.jpg",
+      "url_origen": "https://jkanime.net/ben-to-specials/1/",
+      "publicado_en_origen": "2012-02-07 14:19:14"
+    },
+    {
+      "id_origen": 14660,
+      "numero": 2,
+      "titulo": "Ben-To Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ben-to-specials.jpg",
+      "url_origen": "https://jkanime.net/ben-to-specials/2/",
+      "publicado_en_origen": "2012-02-07 14:20:56"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "514",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:19:33+00:00"
+}

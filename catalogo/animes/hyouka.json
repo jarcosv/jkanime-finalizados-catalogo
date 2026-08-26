@@ -1,0 +1,197 @@
+{
+  "id_origen": 536,
+  "slug": "hyouka",
+  "titulo": "Hyouka",
+  "titulo_corto": "Hyouka",
+  "sinopsis": "Houtarou lleva una vida dedicada al menor esfuerzo, pero tras unirse al club de Clásicos por orden de su hermana mayor y conocer a Chitanda Eru, la nueva jefa del club, Houtarou se verá poco a poco involucrado en pequeños misterios que debe resolver rápidamente para volver a su vida de holgazán. Hasta que aparecen historias y misterios que logran intrigarlo...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hyouka.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hyouka/",
+  "episodios": [
+    {
+      "id_origen": 15521,
+      "numero": 1,
+      "titulo": "Hyouka - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf33a114d51a047b433ddfcd6542e2a6.jpg",
+      "url_origen": "https://jkanime.net/hyouka/1/",
+      "publicado_en_origen": "2012-04-23 02:41:42"
+    },
+    {
+      "id_origen": 15546,
+      "numero": 2,
+      "titulo": "Hyouka - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b4017c4c626882acb363d25dbb6f3c0.jpg",
+      "url_origen": "https://jkanime.net/hyouka/2/",
+      "publicado_en_origen": "2012-04-30 03:31:12"
+    },
+    {
+      "id_origen": 15581,
+      "numero": 3,
+      "titulo": "Hyouka - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab3dfe49a68e59f742ce0ac8dc72cf63.jpg",
+      "url_origen": "https://jkanime.net/hyouka/3/",
+      "publicado_en_origen": "2012-05-07 12:11:52"
+    },
+    {
+      "id_origen": 15599,
+      "numero": 4,
+      "titulo": "Hyouka - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8cc9db4e58f997f9ac4cd4dce9b06d3b.jpg",
+      "url_origen": "https://jkanime.net/hyouka/4/",
+      "publicado_en_origen": "2012-05-14 13:57:29"
+    },
+    {
+      "id_origen": 15617,
+      "numero": 5,
+      "titulo": "Hyouka - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbffdd7e918c7968f26dfa4088cc84ce.jpg",
+      "url_origen": "https://jkanime.net/hyouka/5/",
+      "publicado_en_origen": "2012-05-21 18:30:14"
+    },
+    {
+      "id_origen": 15658,
+      "numero": 6,
+      "titulo": "Hyouka - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c2af8b8038c80b68190402368afd913.jpg",
+      "url_origen": "https://jkanime.net/hyouka/6/",
+      "publicado_en_origen": "2012-05-28 13:21:00"
+    },
+    {
+      "id_origen": 15688,
+      "numero": 7,
+      "titulo": "Hyouka - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68e4593563e1b425a7717504bca103d6.jpg",
+      "url_origen": "https://jkanime.net/hyouka/7/",
+      "publicado_en_origen": "2012-06-04 15:55:20"
+    },
+    {
+      "id_origen": 15729,
+      "numero": 8,
+      "titulo": "Hyouka - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bf3e487ed102ac70f39c506753c7e89.jpg",
+      "url_origen": "https://jkanime.net/hyouka/8/",
+      "publicado_en_origen": "2012-06-11 12:42:36"
+    },
+    {
+      "id_origen": 15915,
+      "numero": 9,
+      "titulo": "Hyouka - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61e654de938ad0e111edcd4cb276ad02.jpg",
+      "url_origen": "https://jkanime.net/hyouka/9/",
+      "publicado_en_origen": "2012-06-18 13:40:52"
+    },
+    {
+      "id_origen": 16003,
+      "numero": 10,
+      "titulo": "Hyouka - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ecc4617cc84104f472db907a80372a0.jpg",
+      "url_origen": "https://jkanime.net/hyouka/10/",
+      "publicado_en_origen": "2012-06-25 02:35:42"
+    },
+    {
+      "id_origen": 16153,
+      "numero": 11,
+      "titulo": "Hyouka - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6d3c0588a849c40ba45345f27f113b6.jpg",
+      "url_origen": "https://jkanime.net/hyouka/11/",
+      "publicado_en_origen": "2012-07-02 19:33:45"
+    },
+    {
+      "id_origen": 16262,
+      "numero": 12,
+      "titulo": "Hyouka - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b4f40483d154a259f5dfd957c09630f.jpg",
+      "url_origen": "https://jkanime.net/hyouka/12/",
+      "publicado_en_origen": "2012-07-09 04:16:18"
+    },
+    {
+      "id_origen": 16288,
+      "numero": 13,
+      "titulo": "Hyouka - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90ffcbb134728e25a7388a090d0ee80b.jpg",
+      "url_origen": "https://jkanime.net/hyouka/13/",
+      "publicado_en_origen": "2012-07-16 11:51:29"
+    },
+    {
+      "id_origen": 16419,
+      "numero": 14,
+      "titulo": "Hyouka - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a8799e6ac57db61203d74b98d78e2ee.jpg",
+      "url_origen": "https://jkanime.net/hyouka/14/",
+      "publicado_en_origen": "2012-07-23 03:11:57"
+    },
+    {
+      "id_origen": 16493,
+      "numero": 15,
+      "titulo": "Hyouka - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_945bcf80a53881dafde56a1aef8f627e.jpg",
+      "url_origen": "https://jkanime.net/hyouka/15/",
+      "publicado_en_origen": "2012-07-30 10:33:53"
+    },
+    {
+      "id_origen": 16532,
+      "numero": 16,
+      "titulo": "Hyouka - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a8f48db79dcbdd919936463fd6086cc.jpg",
+      "url_origen": "https://jkanime.net/hyouka/16/",
+      "publicado_en_origen": "2012-08-06 01:22:21"
+    },
+    {
+      "id_origen": 16555,
+      "numero": 17,
+      "titulo": "Hyouka - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38263fe4cbb83c788f84dfca014e5502.jpg",
+      "url_origen": "https://jkanime.net/hyouka/17/",
+      "publicado_en_origen": "2012-08-13 00:30:26"
+    },
+    {
+      "id_origen": 16583,
+      "numero": 18,
+      "titulo": "Hyouka - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c00efe49a21ecbce0768a32f42854d3.jpg",
+      "url_origen": "https://jkanime.net/hyouka/18/",
+      "publicado_en_origen": "2012-08-20 02:19:38"
+    },
+    {
+      "id_origen": 16763,
+      "numero": 19,
+      "titulo": "Hyouka - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8c06480a3e0c575506bbd1e7e5cf02d.jpg",
+      "url_origen": "https://jkanime.net/hyouka/19/",
+      "publicado_en_origen": "2012-08-27 06:01:06"
+    },
+    {
+      "id_origen": 16980,
+      "numero": 20,
+      "titulo": "Hyouka - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c058d246d9705cc0524d7b25e1e36a6a.jpg",
+      "url_origen": "https://jkanime.net/hyouka/20/",
+      "publicado_en_origen": "2012-09-03 01:23:55"
+    },
+    {
+      "id_origen": 17089,
+      "numero": 21,
+      "titulo": "Hyouka - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7e81e78801865d4e4c1be615e762ba4.jpg",
+      "url_origen": "https://jkanime.net/hyouka/21/",
+      "publicado_en_origen": "2012-09-10 01:07:19"
+    },
+    {
+      "id_origen": 17239,
+      "numero": 22,
+      "titulo": "Hyouka - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e21a9897fafe76b364f7cfe5e954b51c.jpg",
+      "url_origen": "https://jkanime.net/hyouka/22/",
+      "publicado_en_origen": "2012-09-17 00:48:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "536",
+  "cantidad_episodios_declarada": 22,
+  "detalle_extraido_en": "2026-08-26T18:31:28+00:00"
+}

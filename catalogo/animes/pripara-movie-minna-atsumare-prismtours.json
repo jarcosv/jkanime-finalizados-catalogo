@@ -1,0 +1,29 @@
+{
+  "id_origen": 1770,
+  "slug": "pripara-movie-minna-atsumare-prismtours",
+  "titulo": "PriPara Movie: Mi~nna Atsumare! Prism☆Tours",
+  "titulo_corto": "PriPara Movie: Mi~nna Atsumare...",
+  "sinopsis": "Pelicula de PriPara",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pripara-movie-minna-atsumare-prismtours.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pripara-movie-minna-atsumare-prismtours/",
+  "episodios": [
+    {
+      "id_origen": 30727,
+      "numero": 1,
+      "titulo": "PriPara Movie: Mi~nna Atsumare! Prism☆Tours",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af6963942d2a2107c69cf67acb6d302b.jpg",
+      "url_origen": "https://jkanime.net/pripara-movie-minna-atsumare-prismtours/1/",
+      "publicado_en_origen": "2016-01-31 19:59:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1770",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:42:56+00:00"
+}

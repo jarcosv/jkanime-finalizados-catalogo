@@ -1,0 +1,421 @@
+{
+  "id_origen": 3654,
+  "slug": "wonderful-precure",
+  "titulo": "Wonderful Precure!",
+  "titulo_corto": "Wonderful Precure!",
+  "sinopsis": "¡La nueva serie de Precure comienza con unas peluditas amigas como compañeras!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/wonderful-precure.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/wonderful-precure/",
+  "episodios": [
+    {
+      "id_origen": 55852,
+      "numero": 1,
+      "titulo": "Wonderful Precure! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfcef668798488fbbf0576aeedda5d89.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/1/",
+      "publicado_en_origen": "2024-02-03 22:51:39"
+    },
+    {
+      "id_origen": 55944,
+      "numero": 2,
+      "titulo": "Wonderful Precure! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4923de9268b5a115053c7e49a19cdbff.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/2/",
+      "publicado_en_origen": "2024-02-10 23:26:53"
+    },
+    {
+      "id_origen": 56026,
+      "numero": 3,
+      "titulo": "Wonderful Precure! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26e5b86f01d26c403ab6b93eb98de609.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/3/",
+      "publicado_en_origen": "2024-02-17 23:43:07"
+    },
+    {
+      "id_origen": 56120,
+      "numero": 4,
+      "titulo": "Wonderful Precure! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac55d85c7ccd74b1815e4de0c1c4d2df.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/4/",
+      "publicado_en_origen": "2024-02-25 01:56:45"
+    },
+    {
+      "id_origen": 56214,
+      "numero": 5,
+      "titulo": "Wonderful Precure! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf39ac1e3be5fda51db3e3ab3142a78d.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/5/",
+      "publicado_en_origen": "2024-03-02 23:30:58"
+    },
+    {
+      "id_origen": 56295,
+      "numero": 6,
+      "titulo": "Wonderful Precure! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d85c2c7d6c9cb0b0ed3e4d0dd8fa7bf5.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/6/",
+      "publicado_en_origen": "2024-03-10 11:02:04"
+    },
+    {
+      "id_origen": 56429,
+      "numero": 7,
+      "titulo": "Wonderful Precure! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b07949aafb23e5ebfa07538e2eaf84d9.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/7/",
+      "publicado_en_origen": "2024-03-16 23:15:18"
+    },
+    {
+      "id_origen": 56521,
+      "numero": 8,
+      "titulo": "Wonderful Precure! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55d2c6bdc3c3c0d537c6d27e66f83e4a.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/8/",
+      "publicado_en_origen": "2024-03-24 01:47:50"
+    },
+    {
+      "id_origen": 56681,
+      "numero": 9,
+      "titulo": "Wonderful Precure! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e555d4e2528a6d178761f76fc5e0e55c.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/9/",
+      "publicado_en_origen": "2024-03-31 04:19:06"
+    },
+    {
+      "id_origen": 56764,
+      "numero": 10,
+      "titulo": "Wonderful Precure! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6315586ab72f315009d8c84f128eb8f4.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/10/",
+      "publicado_en_origen": "2024-04-07 03:06:49"
+    },
+    {
+      "id_origen": 56851,
+      "numero": 11,
+      "titulo": "Wonderful Precure! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60a16cf31d086bfc56e26883f3de8eb4.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/11/",
+      "publicado_en_origen": "2024-04-13 22:22:06"
+    },
+    {
+      "id_origen": 56943,
+      "numero": 12,
+      "titulo": "Wonderful Precure! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd215785af04902b5bdc33f8047fadee.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/12/",
+      "publicado_en_origen": "2024-04-20 23:15:57"
+    },
+    {
+      "id_origen": 57032,
+      "numero": 13,
+      "titulo": "Wonderful Precure! - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_692e1d3d43bc6577c1acab2168e68269.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/13/",
+      "publicado_en_origen": "2024-04-27 22:52:29"
+    },
+    {
+      "id_origen": 57120,
+      "numero": 14,
+      "titulo": "Wonderful Precure! - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7f229a02418a481a90b749550045757.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/14/",
+      "publicado_en_origen": "2024-05-04 23:01:51"
+    },
+    {
+      "id_origen": 57211,
+      "numero": 15,
+      "titulo": "Wonderful Precure! - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bba7a99c4ebf76bccc930e3484aa386.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/15/",
+      "publicado_en_origen": "2024-05-12 02:01:16"
+    },
+    {
+      "id_origen": 57291,
+      "numero": 16,
+      "titulo": "Wonderful Precure! - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b554c6cd76ed21413ba8e6eed305cb71.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/16/",
+      "publicado_en_origen": "2024-05-19 10:33:15"
+    },
+    {
+      "id_origen": 57372,
+      "numero": 17,
+      "titulo": "Wonderful Precure! - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c573359d84e116762696f3fc0865d037.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/17/",
+      "publicado_en_origen": "2024-05-25 23:15:05"
+    },
+    {
+      "id_origen": 57467,
+      "numero": 18,
+      "titulo": "Wonderful Precure! - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ebdb6ac4c978cbf5c9b11f8c70366d4.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/18/",
+      "publicado_en_origen": "2024-06-01 22:12:46"
+    },
+    {
+      "id_origen": 57552,
+      "numero": 19,
+      "titulo": "Wonderful Precure! - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2080a3d32b86d5e50899b9b618190ace.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/19/",
+      "publicado_en_origen": "2024-06-08 23:40:52"
+    },
+    {
+      "id_origen": 57625,
+      "numero": 20,
+      "titulo": "Wonderful Precure! - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00b927f405110f148490294db500cf94.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/20/",
+      "publicado_en_origen": "2024-06-15 23:58:33"
+    },
+    {
+      "id_origen": 57694,
+      "numero": 21,
+      "titulo": "Wonderful Precure! - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a13b653ac2ae0c606749f7e1c956bd8.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/21/",
+      "publicado_en_origen": "2024-06-22 22:37:58"
+    },
+    {
+      "id_origen": 57747,
+      "numero": 22,
+      "titulo": "Wonderful Precure! - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b1b2b641102762b636db6620e4bb0b4.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/22/",
+      "publicado_en_origen": "2024-06-30 01:50:50"
+    },
+    {
+      "id_origen": 57830,
+      "numero": 23,
+      "titulo": "Wonderful Precure! - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35214c5634270f0665a1bf8dcf45cd03.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/23/",
+      "publicado_en_origen": "2024-07-06 23:14:32"
+    },
+    {
+      "id_origen": 57913,
+      "numero": 24,
+      "titulo": "Wonderful Precure! - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5a30dbd8259954051108d89938ec9eb.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/24/",
+      "publicado_en_origen": "2024-07-13 23:29:04"
+    },
+    {
+      "id_origen": 58018,
+      "numero": 25,
+      "titulo": "Wonderful Precure! - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbfe5130b2f43dace117dda7a4570123.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/25/",
+      "publicado_en_origen": "2024-07-21 13:46:10"
+    },
+    {
+      "id_origen": 58100,
+      "numero": 26,
+      "titulo": "Wonderful Precure! - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca57aec44e3248858fb4e2a2b193c32e.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/26/",
+      "publicado_en_origen": "2024-07-28 04:01:15"
+    },
+    {
+      "id_origen": 58202,
+      "numero": 27,
+      "titulo": "Wonderful Precure! - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74006eb85f5223444dcec9a5003d2b96.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/27/",
+      "publicado_en_origen": "2024-08-04 14:01:16"
+    },
+    {
+      "id_origen": 58286,
+      "numero": 28,
+      "titulo": "Wonderful Precure! - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ab7c3f6116640b9ad427ce561fadca7.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/28/",
+      "publicado_en_origen": "2024-08-10 23:28:13"
+    },
+    {
+      "id_origen": 58395,
+      "numero": 29,
+      "titulo": "Wonderful Precure! - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e80af9bc9e19d060a857f0e5159a3cb1.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/29/",
+      "publicado_en_origen": "2024-08-17 21:45:10"
+    },
+    {
+      "id_origen": 58460,
+      "numero": 30,
+      "titulo": "Wonderful Precure! - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cef3852c0109f68c0fd153b76429cf04.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/30/",
+      "publicado_en_origen": "2024-08-25 12:23:00"
+    },
+    {
+      "id_origen": 58628,
+      "numero": 31,
+      "titulo": "Wonderful Precure! - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c80f5012f08aea7729a5c4950a51f61.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/31/",
+      "publicado_en_origen": "2024-08-31 23:29:37"
+    },
+    {
+      "id_origen": 58720,
+      "numero": 32,
+      "titulo": "Wonderful Precure! - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ad465541a651e2e28931ed0a59aec8a.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/32/",
+      "publicado_en_origen": "2024-09-07 23:12:31"
+    },
+    {
+      "id_origen": 59932,
+      "numero": 33,
+      "titulo": "Wonderful Precure! - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a53dca6a13e2091322e5fbdca74f6cd.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/33/",
+      "publicado_en_origen": "2024-09-14 22:40:56"
+    },
+    {
+      "id_origen": 60016,
+      "numero": 34,
+      "titulo": "Wonderful Precure! - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_426e437e4b3fe07d67538a3ccb7f7358.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/34/",
+      "publicado_en_origen": "2024-09-21 23:06:16"
+    },
+    {
+      "id_origen": 60082,
+      "numero": 35,
+      "titulo": "Wonderful Precure! - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a524a87dcd7155f1f37012b44034c01.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/35/",
+      "publicado_en_origen": "2024-09-28 23:34:12"
+    },
+    {
+      "id_origen": 60159,
+      "numero": 36,
+      "titulo": "Wonderful Precure! - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b746dbe8ff3064d572aad6d3245cd63.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/36/",
+      "publicado_en_origen": "2024-10-05 21:53:44"
+    },
+    {
+      "id_origen": 60241,
+      "numero": 37,
+      "titulo": "Wonderful Precure! - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d734aba059024a51daaa9822748aa81.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/37/",
+      "publicado_en_origen": "2024-10-12 21:43:27"
+    },
+    {
+      "id_origen": 60314,
+      "numero": 38,
+      "titulo": "Wonderful Precure! - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef0601f18649e756c5fd2fbefed11127.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/38/",
+      "publicado_en_origen": "2024-10-20 13:10:06"
+    },
+    {
+      "id_origen": 60414,
+      "numero": 39,
+      "titulo": "Wonderful Precure! - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ec3731d9e063ca3dc594e5a15f071c2.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/39/",
+      "publicado_en_origen": "2024-10-26 22:22:04"
+    },
+    {
+      "id_origen": 60592,
+      "numero": 40,
+      "titulo": "Wonderful Precure! - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2071520c107f089d98bfd7f53c5233d3.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/40/",
+      "publicado_en_origen": "2024-11-10 09:40:37"
+    },
+    {
+      "id_origen": 60690,
+      "numero": 41,
+      "titulo": "Wonderful Precure! - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9387c281118c17339ac498e9563b8039.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/41/",
+      "publicado_en_origen": "2024-11-17 11:45:30"
+    },
+    {
+      "id_origen": 60763,
+      "numero": 42,
+      "titulo": "Wonderful Precure! - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d9710c6a91d6f487dbd3536ae1caa15.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/42/",
+      "publicado_en_origen": "2024-11-24 08:13:15"
+    },
+    {
+      "id_origen": 60887,
+      "numero": 43,
+      "titulo": "Wonderful Precure! - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a58cc8ebb71112bff6cee78aa392481.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/43/",
+      "publicado_en_origen": "2024-12-01 16:07:09"
+    },
+    {
+      "id_origen": 60982,
+      "numero": 44,
+      "titulo": "Wonderful Precure! - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e357e6d26e357990cfb7d56d47468366.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/44/",
+      "publicado_en_origen": "2024-12-07 23:31:03"
+    },
+    {
+      "id_origen": 61085,
+      "numero": 45,
+      "titulo": "Wonderful Precure! - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c07ba7941995668a04bdfd4707b22a3.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/45/",
+      "publicado_en_origen": "2024-12-15 09:41:15"
+    },
+    {
+      "id_origen": 61169,
+      "numero": 46,
+      "titulo": "Wonderful Precure! - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_beb33c5c3b0e97bbd19556ccc5df284f.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/46/",
+      "publicado_en_origen": "2024-12-22 12:08:41"
+    },
+    {
+      "id_origen": 61277,
+      "numero": 47,
+      "titulo": "Wonderful Precure! - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e0379c79f082965b36df5e9b52337e1.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/47/",
+      "publicado_en_origen": "2025-01-04 22:05:07"
+    },
+    {
+      "id_origen": 61357,
+      "numero": 48,
+      "titulo": "Wonderful Precure! - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ac1f5e280d0fdc70e94b547c840eb5b.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/48/",
+      "publicado_en_origen": "2025-01-12 09:52:08"
+    },
+    {
+      "id_origen": 61521,
+      "numero": 49,
+      "titulo": "Wonderful Precure! - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df7c15c73d6c7bceb02703579c0ad3ed.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/49/",
+      "publicado_en_origen": "2025-01-19 11:17:05"
+    },
+    {
+      "id_origen": 61609,
+      "numero": 50,
+      "titulo": "Wonderful Precure! - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9ccb8391c2c634e91b6625d0dfd5ca3.jpg",
+      "url_origen": "https://jkanime.net/wonderful-precure/50/",
+      "publicado_en_origen": "2025-01-26 11:35:14"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3654",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:52:10+00:00"
+}

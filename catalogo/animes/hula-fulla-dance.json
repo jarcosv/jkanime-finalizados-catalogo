@@ -1,0 +1,29 @@
+{
+  "id_origen": 3401,
+  "slug": "hula-fulla-dance",
+  "titulo": "Hula Fulla Dance",
+  "titulo_corto": "Hula Fulla Dance",
+  "sinopsis": "Hiwa es una joven que adora el baila hawaiiano, al igual que lo hacía su fallecida hermana. Cuando decide aspirar a bailarina profesional en un resort que imita el estilo de los de Hawaii, tendrá que lidiar con sus inseguridades con la ayuda de sus nuevas compañeras.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hula-fulla-dance.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hula-fulla-dance/",
+  "episodios": [
+    {
+      "id_origen": 52751,
+      "numero": 1,
+      "titulo": "Hula Fulla Dance",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75f945851c2afa2f35484c6bacc8dc17.jpg",
+      "url_origen": "https://jkanime.net/hula-fulla-dance/1/",
+      "publicado_en_origen": "2023-05-13 11:37:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3401",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:31:13+00:00"
+}

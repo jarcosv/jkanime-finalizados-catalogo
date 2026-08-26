@@ -1,0 +1,117 @@
+{
+  "id_origen": 1059,
+  "slug": "nourin",
+  "titulo": "Nourin",
+  "titulo_corto": "Nourin",
+  "sinopsis": "La historia está protagonizada por Kousaku Hata, un adolescente fanático de la idol Yuka Kusakabe. Un día, Yuka anuncia su retirada de los escenarios y Kousaku deja de ir a clase por el gran impacto que ello le supone. Sin embargo, y después de que sus amigos consigan convencerle de que vuelva a su vida normal, Yuka llega a su clase tras inscribirse en su instituto, el Colegio de Agricultura Tamo. Ésta será la gran oportunidad de Kousaku para conocer mejor a la chica de sus sueños.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nourin.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nourin/",
+  "episodios": [
+    {
+      "id_origen": 22402,
+      "numero": 1,
+      "titulo": "Nourin - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b9ff04ef832682d4712ece27487f84e.jpg",
+      "url_origen": "https://jkanime.net/nourin/1/",
+      "publicado_en_origen": "2014-01-10 21:11:20"
+    },
+    {
+      "id_origen": 22465,
+      "numero": 2,
+      "titulo": "Nourin - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11af6b055e34d4ab516d9cea9c12a359.jpg",
+      "url_origen": "https://jkanime.net/nourin/2/",
+      "publicado_en_origen": "2014-01-18 00:31:19"
+    },
+    {
+      "id_origen": 22520,
+      "numero": 3,
+      "titulo": "Nourin - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5ad96aaa66880f3fae475fa926781d2.jpg",
+      "url_origen": "https://jkanime.net/nourin/3/",
+      "publicado_en_origen": "2014-01-24 19:21:14"
+    },
+    {
+      "id_origen": 22582,
+      "numero": 4,
+      "titulo": "Nourin - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e30c0a4a1617a0deacf755804b59a12.jpg",
+      "url_origen": "https://jkanime.net/nourin/4/",
+      "publicado_en_origen": "2014-01-31 17:05:34"
+    },
+    {
+      "id_origen": 22643,
+      "numero": 5,
+      "titulo": "Nourin - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfd1e5f05a19b577a89a80f1cc545b7e.jpg",
+      "url_origen": "https://jkanime.net/nourin/5/",
+      "publicado_en_origen": "2014-02-07 19:17:34"
+    },
+    {
+      "id_origen": 22713,
+      "numero": 6,
+      "titulo": "Nourin - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64ec9b72454858cf22b819d0bce64fbd.jpg",
+      "url_origen": "https://jkanime.net/nourin/6/",
+      "publicado_en_origen": "2014-02-14 16:41:32"
+    },
+    {
+      "id_origen": 22769,
+      "numero": 7,
+      "titulo": "Nourin - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ac08e3fa749b84b33a2b89b3ea34359.jpg",
+      "url_origen": "https://jkanime.net/nourin/7/",
+      "publicado_en_origen": "2014-02-21 16:35:02"
+    },
+    {
+      "id_origen": 22834,
+      "numero": 8,
+      "titulo": "Nourin - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b4becf28a5936f5e7cfb66e089c9f59.jpg",
+      "url_origen": "https://jkanime.net/nourin/8/",
+      "publicado_en_origen": "2014-02-28 18:14:46"
+    },
+    {
+      "id_origen": 22895,
+      "numero": 9,
+      "titulo": "Nourin - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3111b2ff56ac8be7960156e3f116821b.jpg",
+      "url_origen": "https://jkanime.net/nourin/9/",
+      "publicado_en_origen": "2014-03-07 16:31:43"
+    },
+    {
+      "id_origen": 22958,
+      "numero": 10,
+      "titulo": "Nourin - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a88cb4147bc347b7cadbf4b1bf8871e.jpg",
+      "url_origen": "https://jkanime.net/nourin/10/",
+      "publicado_en_origen": "2014-03-14 15:59:38"
+    },
+    {
+      "id_origen": 23034,
+      "numero": 11,
+      "titulo": "Nourin - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73ca2872fcef4234578eb337b4932d3c.jpg",
+      "url_origen": "https://jkanime.net/nourin/11/",
+      "publicado_en_origen": "2014-03-21 15:52:33"
+    },
+    {
+      "id_origen": 23090,
+      "numero": 12,
+      "titulo": "Nourin - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_922f2ae76a5633b67b33e8d71851f768.jpg",
+      "url_origen": "https://jkanime.net/nourin/12/",
+      "publicado_en_origen": "2014-03-28 16:33:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1059",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:40:49+00:00"
+}

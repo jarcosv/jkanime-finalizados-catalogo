@@ -1,0 +1,213 @@
+{
+  "id_origen": 1493,
+  "slug": "denpa-kyoushi-tv",
+  "titulo": "Denpa Kyoushi",
+  "titulo_corto": "Denpa Kyoushi",
+  "sinopsis": "La historia está protagonizada por Junichirou Kagami, un joven obsesionado con el manga, el anime y los videojuegos. Se trata de un genio que ya publicó ensayos en revistas como Nature y Science con tan sólo 17 años. Tras graduarse de la universidad se dio a la vida NEET y a su blog sobre anime. Incapaz de ver cómo su hermano tira su vida por la borda, su hermana Suzune le consigue un trabajo en la academia Ichou, de la que ella es estudiante. En esta academia, Koyomi Hiiragi, directora de la misma, le nombrará profesor y dará comienzo a su nueva vida.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/denpa-kyoushi-tv.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/denpa-kyoushi-tv/",
+  "episodios": [
+    {
+      "id_origen": 27389,
+      "numero": 1,
+      "titulo": "Denpa Kyoushi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d2b08aa7cfa68fd54e3f4a4e7ffcf7d.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/1/",
+      "publicado_en_origen": "2015-04-05 00:48:58"
+    },
+    {
+      "id_origen": 27449,
+      "numero": 2,
+      "titulo": "Denpa Kyoushi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_310b3b4c1e4aeefae1a8eb83c9f5eb57.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/2/",
+      "publicado_en_origen": "2015-04-11 07:43:55"
+    },
+    {
+      "id_origen": 27518,
+      "numero": 3,
+      "titulo": "Denpa Kyoushi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7e3b9df4fd0b3183fc4f380480c7788.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/3/",
+      "publicado_en_origen": "2015-04-18 07:41:13"
+    },
+    {
+      "id_origen": 27585,
+      "numero": 4,
+      "titulo": "Denpa Kyoushi - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1833ac47b85928f3b36d2676ca9df03a.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/4/",
+      "publicado_en_origen": "2015-04-25 07:50:41"
+    },
+    {
+      "id_origen": 27647,
+      "numero": 5,
+      "titulo": "Denpa Kyoushi - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df17389413b21cab96900be63f2c7ec4.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/5/",
+      "publicado_en_origen": "2015-05-02 07:50:40"
+    },
+    {
+      "id_origen": 27709,
+      "numero": 6,
+      "titulo": "Denpa Kyoushi - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c392daabd18a9b4e3893d74a7da626a5.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/6/",
+      "publicado_en_origen": "2015-05-09 07:28:54"
+    },
+    {
+      "id_origen": 27771,
+      "numero": 7,
+      "titulo": "Denpa Kyoushi - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c39d9d70b662746b8ef049c9841643a.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/7/",
+      "publicado_en_origen": "2015-05-16 07:43:14"
+    },
+    {
+      "id_origen": 27835,
+      "numero": 8,
+      "titulo": "Denpa Kyoushi - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1fe81fa0a090bb5339e0bc688966e9b.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/8/",
+      "publicado_en_origen": "2015-05-23 07:49:34"
+    },
+    {
+      "id_origen": 27900,
+      "numero": 9,
+      "titulo": "Denpa Kyoushi - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e18b53804c5a18b0d727b0cd8aff97c.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/9/",
+      "publicado_en_origen": "2015-05-30 07:51:19"
+    },
+    {
+      "id_origen": 27962,
+      "numero": 10,
+      "titulo": "Denpa Kyoushi - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7720952eb73703ed33b3f05ddd2690a.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/10/",
+      "publicado_en_origen": "2015-06-06 07:32:28"
+    },
+    {
+      "id_origen": 28256,
+      "numero": 11,
+      "titulo": "Denpa Kyoushi - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b1d35d72137cace2f9546ca80eee53f.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/11/",
+      "publicado_en_origen": "2015-06-13 07:32:54"
+    },
+    {
+      "id_origen": 28507,
+      "numero": 12,
+      "titulo": "Denpa Kyoushi - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f31cf4c07210e8d5460b43c17e11798.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/12/",
+      "publicado_en_origen": "2015-06-20 07:39:29"
+    },
+    {
+      "id_origen": 28574,
+      "numero": 13,
+      "titulo": "Denpa Kyoushi - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efd96ed062314a7607130621ad106180.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/13/",
+      "publicado_en_origen": "2015-06-27 07:54:06"
+    },
+    {
+      "id_origen": 28683,
+      "numero": 14,
+      "titulo": "Denpa Kyoushi - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66c09e532723ddc385975dfd869f2e94.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/14/",
+      "publicado_en_origen": "2015-07-11 07:34:06"
+    },
+    {
+      "id_origen": 28751,
+      "numero": 15,
+      "titulo": "Denpa Kyoushi - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b061988b655fa9f9d4ffc41d1d68160.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/15/",
+      "publicado_en_origen": "2015-07-18 07:50:43"
+    },
+    {
+      "id_origen": 28818,
+      "numero": 16,
+      "titulo": "Denpa Kyoushi - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efa41f347fb5bfa798ab738ead1d2045.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/16/",
+      "publicado_en_origen": "2015-07-25 07:43:35"
+    },
+    {
+      "id_origen": 28884,
+      "numero": 17,
+      "titulo": "Denpa Kyoushi - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d869c38d1b6e0e50a1f789d6bdf396bc.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/17/",
+      "publicado_en_origen": "2015-08-01 07:46:06"
+    },
+    {
+      "id_origen": 29009,
+      "numero": 18,
+      "titulo": "Denpa Kyoushi - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e4c10382ea6d02e196ebcab34cfbffb.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/18/",
+      "publicado_en_origen": "2015-08-15 08:27:37"
+    },
+    {
+      "id_origen": 29010,
+      "numero": 19,
+      "titulo": "Denpa Kyoushi - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_636e0538092a048a7d49aa0b20e2bff1.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/19/",
+      "publicado_en_origen": "2015-08-15 08:29:57"
+    },
+    {
+      "id_origen": 29147,
+      "numero": 20,
+      "titulo": "Denpa Kyoushi - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_024da127a13f0f5fd374ee98bd052ce7.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/20/",
+      "publicado_en_origen": "2015-08-29 07:56:51"
+    },
+    {
+      "id_origen": 29210,
+      "numero": 21,
+      "titulo": "Denpa Kyoushi - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7362b26d78069dd38f4b45743fddc7ee.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/21/",
+      "publicado_en_origen": "2015-09-05 07:40:40"
+    },
+    {
+      "id_origen": 29354,
+      "numero": 22,
+      "titulo": "Denpa Kyoushi - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ddaf29fd4e776a9d94bd4f0add6dd5d.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/22/",
+      "publicado_en_origen": "2015-09-12 08:10:32"
+    },
+    {
+      "id_origen": 29599,
+      "numero": 23,
+      "titulo": "Denpa Kyoushi - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d4af5c8b9b40206046d4f2c889eceed.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/23/",
+      "publicado_en_origen": "2015-09-19 07:43:17"
+    },
+    {
+      "id_origen": 29659,
+      "numero": 24,
+      "titulo": "Denpa Kyoushi - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a204e824b80ebb74ac7895ab81fcabf.jpg",
+      "url_origen": "https://jkanime.net/denpa-kyoushi-tv/24/",
+      "publicado_en_origen": "2015-09-26 08:03:36"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1493",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:24:50+00:00"
+}

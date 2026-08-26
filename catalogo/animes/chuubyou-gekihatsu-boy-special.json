@@ -1,0 +1,29 @@
+{
+  "id_origen": 2626,
+  "slug": "chuubyou-gekihatsu-boy-special",
+  "titulo": "Chuubyou Gekihatsu Boy Special",
+  "titulo_corto": "Chuubyou Gekihatsu Boy Special",
+  "sinopsis": "Episodio no emitido 12 incluido con el volumen 4 del lanzamiento de BD.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/chuubyou-gekihatsu-boy-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/chuubyou-gekihatsu-boy-special/",
+  "episodios": [
+    {
+      "id_origen": 42582,
+      "numero": 1,
+      "titulo": "Chuubyou Gekihatsu Boy Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/chuubyou-gekihatsu-boy-special.jpg",
+      "url_origen": "https://jkanime.net/chuubyou-gekihatsu-boy-special/1/",
+      "publicado_en_origen": "2020-03-29 22:15:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2626",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:23:40+00:00"
+}

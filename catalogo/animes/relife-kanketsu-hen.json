@@ -1,0 +1,53 @@
+{
+  "id_origen": 2204,
+  "slug": "relife-kanketsu-hen",
+  "titulo": "ReLIFE: Kanketsu-hen",
+  "titulo_corto": "ReLIFE: Kanketsu-hen",
+  "sinopsis": "Esta es una secuela de la primera temporada de ReLife. En donde nuestros protagonistas tienen la oportunidad de pasar por esta etapa de la vida una vez más a través del programa ReLife.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/relife-kanketsu-hen.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/relife-kanketsu-hen/",
+  "episodios": [
+    {
+      "id_origen": 36878,
+      "numero": 1,
+      "titulo": "ReLIFE: Kanketsu-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36846d990143c65d96c44ac4b41d1fe7.jpg",
+      "url_origen": "https://jkanime.net/relife-kanketsu-hen/1/",
+      "publicado_en_origen": "2018-03-21 14:23:21"
+    },
+    {
+      "id_origen": 36879,
+      "numero": 2,
+      "titulo": "ReLIFE: Kanketsu-hen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f22f2ce01a1d2ec3cb03a27a0db321f.jpg",
+      "url_origen": "https://jkanime.net/relife-kanketsu-hen/2/",
+      "publicado_en_origen": "2018-03-21 14:24:14"
+    },
+    {
+      "id_origen": 36880,
+      "numero": 3,
+      "titulo": "ReLIFE: Kanketsu-hen - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52b01d1cf79d4a11bec3e12a126252d3.jpg",
+      "url_origen": "https://jkanime.net/relife-kanketsu-hen/3/",
+      "publicado_en_origen": "2018-03-21 14:24:55"
+    },
+    {
+      "id_origen": 36881,
+      "numero": 4,
+      "titulo": "ReLIFE: Kanketsu-hen - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c96e003459f616ddde26a144e8ab593.jpg",
+      "url_origen": "https://jkanime.net/relife-kanketsu-hen/4/",
+      "publicado_en_origen": "2018-03-21 14:25:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:19+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2204",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:43:48+00:00"
+}

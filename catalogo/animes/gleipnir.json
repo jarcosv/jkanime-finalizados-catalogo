@@ -1,0 +1,125 @@
+{
+  "id_origen": 2645,
+  "slug": "gleipnir",
+  "titulo": "Gleipnir",
+  "titulo_corto": "Gleipnir",
+  "sinopsis": "Shuichi Kagaya tiene un secreto: un día, se levantó para descubrir que se había convertido en un perro gigante, con una fuerza inigualable pero lleno de dudas. Juzgándose mal por su destino, el muchacho entra en depresión hasta que conoce a Claire Aoki, una joven a quien salvó de un incendio y ahora se aprovecha de sus poderes para encontrar a su hermana, que se convirtió en un monstruo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gleipnir.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gleipnir/",
+  "episodios": [
+    {
+      "id_origen": 42623,
+      "numero": 1,
+      "titulo": "Gleipnir - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbdc4c9cf46e2ec05a0918c7ac9a0c69.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/1/",
+      "publicado_en_origen": "2020-04-06 02:03:56"
+    },
+    {
+      "id_origen": 42679,
+      "numero": 2,
+      "titulo": "Gleipnir - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0eab7b86485ab4672f0c8b4d62af19e.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/2/",
+      "publicado_en_origen": "2020-04-12 15:33:59"
+    },
+    {
+      "id_origen": 42725,
+      "numero": 3,
+      "titulo": "Gleipnir - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6b851f75f784b4d0123f1d217781604.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/3/",
+      "publicado_en_origen": "2020-04-19 15:34:51"
+    },
+    {
+      "id_origen": 42764,
+      "numero": 4,
+      "titulo": "Gleipnir - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_823fa46f140ff437178f56fa656d35d1.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/4/",
+      "publicado_en_origen": "2020-04-26 15:12:21"
+    },
+    {
+      "id_origen": 42799,
+      "numero": 5,
+      "titulo": "Gleipnir - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5faafe944dadb86aee82ebe006a3e0f.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/5/",
+      "publicado_en_origen": "2020-05-03 15:39:40"
+    },
+    {
+      "id_origen": 42838,
+      "numero": 6,
+      "titulo": "Gleipnir - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55b3c1a839223ee808021abbf6d0dc52.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/6/",
+      "publicado_en_origen": "2020-05-10 15:42:30"
+    },
+    {
+      "id_origen": 42887,
+      "numero": 7,
+      "titulo": "Gleipnir - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b90d2a7ecfcffc35e6d401fc68a9bb7b.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/7/",
+      "publicado_en_origen": "2020-05-17 15:05:14"
+    },
+    {
+      "id_origen": 42922,
+      "numero": 8,
+      "titulo": "Gleipnir - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0abad49a501340a5608cdf3014a737c.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/8/",
+      "publicado_en_origen": "2020-05-24 15:29:15"
+    },
+    {
+      "id_origen": 42952,
+      "numero": 9,
+      "titulo": "Gleipnir - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c01802bb3674e5af58547b0395bcb2d.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/9/",
+      "publicado_en_origen": "2020-05-31 14:51:49"
+    },
+    {
+      "id_origen": 42999,
+      "numero": 10,
+      "titulo": "Gleipnir - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9e2270a84c5a14c77836f5ed85d24a8.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/10/",
+      "publicado_en_origen": "2020-06-07 15:07:43"
+    },
+    {
+      "id_origen": 43031,
+      "numero": 11,
+      "titulo": "Gleipnir - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8cfebc3e119ed2fe0dd172eb59b0a595.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/11/",
+      "publicado_en_origen": "2020-06-14 15:08:25"
+    },
+    {
+      "id_origen": 43061,
+      "numero": 12,
+      "titulo": "Gleipnir - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08a7223e876a045d511074e8c9c8e937.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/12/",
+      "publicado_en_origen": "2020-06-21 14:53:57"
+    },
+    {
+      "id_origen": 43083,
+      "numero": 13,
+      "titulo": "Gleipnir - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89f569993f4af498b320aaaf4eb610c3.jpg",
+      "url_origen": "https://jkanime.net/gleipnir/13/",
+      "publicado_en_origen": "2020-06-28 15:06:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2645",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:28:42+00:00"
+}

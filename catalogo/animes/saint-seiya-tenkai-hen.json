@@ -1,0 +1,29 @@
+{
+  "id_origen": 476,
+  "slug": "saint-seiya-tenkai-hen",
+  "titulo": "Saint Seiya: Tenkai-hen",
+  "titulo_corto": "Saint Seiya: Tenkai-hen",
+  "sinopsis": "Después de la batalla con Hades, Seiya se encuentra en un estado cercano a la muerte, y Saori se encarga de cuidarlo en una casa cerca del Santuario. Mientras Seiya se recupera, tres guerreros celestiales son enviados por Artemisa, diosa de la Luna y hermana mayor de Atenea, con la intención de acabar con Seiya.Saori, para evitar la muerte de Seiya, llega a un acuerdo con Artemisa: Atenea entregará su báculo sagrado, renunciando a todos sus derechos sobre el Santuario y perdiendo así, todos sus poderes, a cambio de que le perdonen la vida a Seiya.El objetivo de Artemisa es acabar con la humanidad por haberse corrompido a lo largo del tiempo y olvidarse de los dioses. Saori al darse cuenta de su error, anteponer la vida de Seiya al bienestar de la humanidad, se dirige a la fuente de la redención para expiar su pecado.Al no sentir la presencia de Saori, Seiya reacciona y es capaz de recuperarse rápidamente.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saint-seiya-tenkai-hen.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/saint-seiya-tenkai-hen/",
+  "episodios": [
+    {
+      "id_origen": 14347,
+      "numero": 1,
+      "titulo": "Saint Seiya: Tenkai-hen",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90c5841cb33b6ffdf75850044c595725.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-tenkai-hen/1/",
+      "publicado_en_origen": "2012-01-08 15:14:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "476",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:44:41+00:00"
+}

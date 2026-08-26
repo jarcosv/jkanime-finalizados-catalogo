@@ -1,0 +1,29 @@
+{
+  "id_origen": 4901,
+  "slug": "boku-no-hero-academia-i-am-a-hero-too",
+  "titulo": "Boku no Hero Academia: I Am a Hero Too",
+  "titulo_corto": "Boku no Hero Academia: I Am a ...",
+  "sinopsis": "Adaptación del manga de un solo capítulo del fanbook de 2025 *Boku no Hero Academia: Ultra-Age*, que narra la visita de la estudiante de secundaria Eri al instituto U.A.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/boku-no-hero-academia-i-am-a-hero-too.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/boku-no-hero-academia-i-am-a-hero-too/",
+  "episodios": [
+    {
+      "id_origen": 76074,
+      "numero": 1,
+      "titulo": "Boku no Hero Academia: I Am a Hero Too",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6cc96607469f8524cd143b6a3d5446e9.jpg",
+      "url_origen": "https://jkanime.net/boku-no-hero-academia-i-am-a-hero-too/1/",
+      "publicado_en_origen": "2026-08-03 03:45:45"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:19+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4901",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:21:01+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 572,
+  "slug": "nichijou-episode-0",
+  "titulo": "Nichijou Episode 0",
+  "titulo_corto": "Nichijou Episode 0",
+  "sinopsis": "Mientras que el título sugiere una historia de sencilla de días rutinarios, el contenido es lo opuesto. El escenario es una extraña escuela donde podrás ver a la directora luchar con un ciervo o un brazo de un robot de bizcocho. Sin embargo, todavía hay historias normales, como hacer un castillo de naipes o tomar exámenes que no deseas estudiar.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nichijou-episode-0.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nichijou-episode-0/",
+  "episodios": [
+    {
+      "id_origen": 15692,
+      "numero": 1,
+      "titulo": "Nichijou Episode 0",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e3a567dcc390811e4dfa8d478e4a149.jpg",
+      "url_origen": "https://jkanime.net/nichijou-episode-0/1/",
+      "publicado_en_origen": "2012-06-05 23:44:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "572",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:21+00:00"
+}

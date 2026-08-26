@@ -1,0 +1,29 @@
+{
+  "id_origen": 4247,
+  "slug": "penguin-highway",
+  "titulo": "Penguin Highway",
+  "titulo_corto": "Penguin Highway",
+  "sinopsis": "Aoyama es un niño tan prometedor que, además de poseer una envidiable capacidad para el análisis y la retórica, ha contado la cantidad exacta de días que faltan para que se convierta finalmente en adulto. Pero esta cuestión pasa a ser secundaria en el momento en que su pueblo se convierte en el centro de una invasión de pingüinos tan desconcertante como hermoso.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/penguin-highway.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/penguin-highway/",
+  "episodios": [
+    {
+      "id_origen": 65336,
+      "numero": 1,
+      "titulo": "Penguin Highway",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3623e25a6539207434478ccc9a918522.jpg",
+      "url_origen": "https://jkanime.net/penguin-highway/1/",
+      "publicado_en_origen": "2025-07-25 14:59:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4247",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:42:03+00:00"
+}

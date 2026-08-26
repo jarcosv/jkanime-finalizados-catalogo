@@ -1,0 +1,317 @@
+{
+  "id_origen": 113,
+  "slug": "death-note",
+  "titulo": "Death Note",
+  "titulo_corto": "Death Note",
+  "sinopsis": "Light Yagami es un excelente estudiante japonés que ha tenido una vida un tanto aburrida. Esto cambia radicalmente cuando encuentra tirado en el patio de la escuela un cuaderno negro conocido como Death Note (Libreta de la Muerte), perdido por un Shinigami (Dios de la muerte) llamado Ryuk. Cualquier humano cuyo nombre sea escrito en dicho cuaderno morirá; y, Light -luego de leer las instrucciones en el mismo- ha decidido utilizar este poder para crear un mundo sin criminales, \"perfecto\" según su visión. Cuando los criminales comienzan a morir de forma masiva y generalmente víctimas de ataque cardíaco, las autoridades envían al legendario detective L en busca del asesino. Con L pisándole los talones: podra mantener Light su propósito incluso arriesgando su vida.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/death-note.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/death-note/",
+  "episodios": [
+    {
+      "id_origen": 2508,
+      "numero": 1,
+      "titulo": "Death Note 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30aaf34d6afd4b11cc3b3ac4704c7908.jpg",
+      "url_origen": "https://jkanime.net/death-note/1/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2509,
+      "numero": 2,
+      "titulo": "Death Note 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8db9264228dc48fbf47535e888c02ae0.jpg",
+      "url_origen": "https://jkanime.net/death-note/2/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2510,
+      "numero": 3,
+      "titulo": "Death Note 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e0223a87610176ef0d24ef6d2dcde3a.jpg",
+      "url_origen": "https://jkanime.net/death-note/3/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2511,
+      "numero": 4,
+      "titulo": "Death Note 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8b932c70d0b2e6bf071729a4fa68dfc.jpg",
+      "url_origen": "https://jkanime.net/death-note/4/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2512,
+      "numero": 5,
+      "titulo": "Death Note 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_831caa1b600f852b7844499430ecac17.jpg",
+      "url_origen": "https://jkanime.net/death-note/5/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2513,
+      "numero": 6,
+      "titulo": "Death Note 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84b20b1f5a0d103f5710bb67a043cd78.jpg",
+      "url_origen": "https://jkanime.net/death-note/6/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2514,
+      "numero": 7,
+      "titulo": "Death Note 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b06f50d1f89bd8b2a0fb771c1a69c2b0.jpg",
+      "url_origen": "https://jkanime.net/death-note/7/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2515,
+      "numero": 8,
+      "titulo": "Death Note 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_415e1af7ea95f89f4e375162b21ae38c.jpg",
+      "url_origen": "https://jkanime.net/death-note/8/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2516,
+      "numero": 9,
+      "titulo": "Death Note 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d09e4b85c783cbc30c9b8ae175f2d33.jpg",
+      "url_origen": "https://jkanime.net/death-note/9/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2517,
+      "numero": 10,
+      "titulo": "Death Note 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5dc3e08849bec07e33ca353de62ea04.jpg",
+      "url_origen": "https://jkanime.net/death-note/10/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2518,
+      "numero": 11,
+      "titulo": "Death Note 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ef80bb237adf4b6f77d0700e1255907.jpg",
+      "url_origen": "https://jkanime.net/death-note/11/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2519,
+      "numero": 12,
+      "titulo": "Death Note 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a8423d5e91fda00bb7e46540e2b0cf1.jpg",
+      "url_origen": "https://jkanime.net/death-note/12/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2520,
+      "numero": 13,
+      "titulo": "Death Note 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_070dbb6024b5ef93784428afc71f2146.jpg",
+      "url_origen": "https://jkanime.net/death-note/13/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2521,
+      "numero": 14,
+      "titulo": "Death Note 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a1590df1d5968d41b855005bb8b67bf.jpg",
+      "url_origen": "https://jkanime.net/death-note/14/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2522,
+      "numero": 15,
+      "titulo": "Death Note 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d7363894acdee742caf7fe4e97c4d49.jpg",
+      "url_origen": "https://jkanime.net/death-note/15/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2523,
+      "numero": 16,
+      "titulo": "Death Note 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6d259bfbfa2062843ef543e21d7ec8e.jpg",
+      "url_origen": "https://jkanime.net/death-note/16/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2524,
+      "numero": 17,
+      "titulo": "Death Note 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31c97cbb941d3e92d0e6f9925e9bc4d7.jpg",
+      "url_origen": "https://jkanime.net/death-note/17/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2525,
+      "numero": 18,
+      "titulo": "Death Note 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9407c826d8e3c07ad37cb2d13d1cb641.jpg",
+      "url_origen": "https://jkanime.net/death-note/18/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2526,
+      "numero": 19,
+      "titulo": "Death Note 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_234833147b97bb6aed53a8f4f1c7a7d8.jpg",
+      "url_origen": "https://jkanime.net/death-note/19/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2527,
+      "numero": 20,
+      "titulo": "Death Note 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba3e9b6a519cfddc560b5d53210df1bd.jpg",
+      "url_origen": "https://jkanime.net/death-note/20/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2528,
+      "numero": 21,
+      "titulo": "Death Note 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6be93f7a96fed60c477d30ae1de032fd.jpg",
+      "url_origen": "https://jkanime.net/death-note/21/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2529,
+      "numero": 22,
+      "titulo": "Death Note 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82ca5dd156cc926b2992f73c2896f761.jpg",
+      "url_origen": "https://jkanime.net/death-note/22/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2530,
+      "numero": 23,
+      "titulo": "Death Note 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55a988dfb00a914717b3000a3374694c.jpg",
+      "url_origen": "https://jkanime.net/death-note/23/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2531,
+      "numero": 24,
+      "titulo": "Death Note 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_217c0e01c1828e7279051f1b6675745d.jpg",
+      "url_origen": "https://jkanime.net/death-note/24/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2532,
+      "numero": 25,
+      "titulo": "Death Note 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9824f9c1543628a85bb51d2dd6fcf8a3.jpg",
+      "url_origen": "https://jkanime.net/death-note/25/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2533,
+      "numero": 26,
+      "titulo": "Death Note 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4de754248c196c85ee4fbdcee89179bd.jpg",
+      "url_origen": "https://jkanime.net/death-note/26/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2534,
+      "numero": 27,
+      "titulo": "Death Note 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7827d1ec626c891d4b61a15c9dff296e.jpg",
+      "url_origen": "https://jkanime.net/death-note/27/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2535,
+      "numero": 28,
+      "titulo": "Death Note 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0747b9be4f90056c30eb5241f06bfe9b.jpg",
+      "url_origen": "https://jkanime.net/death-note/28/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2536,
+      "numero": 29,
+      "titulo": "Death Note 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7ac67a9aa8d255282de7d11391e1b69.jpg",
+      "url_origen": "https://jkanime.net/death-note/29/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2537,
+      "numero": 30,
+      "titulo": "Death Note 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_40c48dab939a482f04dcecde07e27de6.jpg",
+      "url_origen": "https://jkanime.net/death-note/30/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2538,
+      "numero": 31,
+      "titulo": "Death Note 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bf0c59238dd24a7f09a889483a50e8f.jpg",
+      "url_origen": "https://jkanime.net/death-note/31/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2539,
+      "numero": 32,
+      "titulo": "Death Note 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2aedcba61ca55ceb62d785c6b7f10a83.jpg",
+      "url_origen": "https://jkanime.net/death-note/32/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2540,
+      "numero": 33,
+      "titulo": "Death Note 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9657c1fffd38824e5ab0472e022e577e.jpg",
+      "url_origen": "https://jkanime.net/death-note/33/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2541,
+      "numero": 34,
+      "titulo": "Death Note 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e92d74ccacdc984afa0c517ad0d557a6.jpg",
+      "url_origen": "https://jkanime.net/death-note/34/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2542,
+      "numero": 35,
+      "titulo": "Death Note 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3a690be93aa602ee2dc0ccab5b7b67e.jpg",
+      "url_origen": "https://jkanime.net/death-note/35/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2543,
+      "numero": 36,
+      "titulo": "Death Note 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b113258af3968aaf3969ca67e744ff8.jpg",
+      "url_origen": "https://jkanime.net/death-note/36/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2544,
+      "numero": 37,
+      "titulo": "Death Note 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0f6ba4b5e0000340312d33c212c3ae8.jpg",
+      "url_origen": "https://jkanime.net/death-note/37/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "113",
+  "cantidad_episodios_declarada": 37,
+  "detalle_extraido_en": "2026-08-26T18:24:44+00:00"
+}

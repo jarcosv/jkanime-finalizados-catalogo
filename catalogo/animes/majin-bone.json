@@ -1,0 +1,437 @@
+{
+  "id_origen": 1098,
+  "slug": "majin-bone",
+  "titulo": "Majin Bone",
+  "titulo_corto": "Majin Bone",
+  "sinopsis": "Adaptacion de Majin Bone, un proyecto de juego de cartas digital.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/majin-bone.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/majin-bone/",
+  "episodios": [
+    {
+      "id_origen": 23119,
+      "numero": 1,
+      "titulo": "Majin Bone - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2b8d291ff95907f8fb6f21337c07331.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/1/",
+      "publicado_en_origen": "2014-04-01 20:16:17"
+    },
+    {
+      "id_origen": 23161,
+      "numero": 2,
+      "titulo": "Majin Bone - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e28d75dc475a11671dab21ec2b63f4f.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/2/",
+      "publicado_en_origen": "2014-04-08 07:08:40"
+    },
+    {
+      "id_origen": 23217,
+      "numero": 3,
+      "titulo": "Majin Bone - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bbec3082c0c4bdbddd9a517ab704d06.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/3/",
+      "publicado_en_origen": "2014-04-15 08:26:24"
+    },
+    {
+      "id_origen": 23277,
+      "numero": 4,
+      "titulo": "Majin Bone - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d600a2c0f0abaa265941e3c4c2510c26.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/4/",
+      "publicado_en_origen": "2014-04-22 07:32:11"
+    },
+    {
+      "id_origen": 23353,
+      "numero": 5,
+      "titulo": "Majin Bone - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18ef374dbe0ed691838cdf06d109e6cd.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/5/",
+      "publicado_en_origen": "2014-04-29 07:07:41"
+    },
+    {
+      "id_origen": 23414,
+      "numero": 6,
+      "titulo": "Majin Bone - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e55263505ae74fc5d622c9dfe7c4538.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/6/",
+      "publicado_en_origen": "2014-05-06 07:48:16"
+    },
+    {
+      "id_origen": 23472,
+      "numero": 7,
+      "titulo": "Majin Bone - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0581ab7f8e6b8695051457df75cd9c0.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/7/",
+      "publicado_en_origen": "2014-05-13 08:23:00"
+    },
+    {
+      "id_origen": 23528,
+      "numero": 8,
+      "titulo": "Majin Bone - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9b4a06254d114b216a6f17cbaec726a.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/8/",
+      "publicado_en_origen": "2014-05-20 07:06:34"
+    },
+    {
+      "id_origen": 23590,
+      "numero": 9,
+      "titulo": "Majin Bone - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a608ab5ea3865ae688ac2f8b1cc3b61.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/9/",
+      "publicado_en_origen": "2014-05-27 07:06:15"
+    },
+    {
+      "id_origen": 23646,
+      "numero": 10,
+      "titulo": "Majin Bone - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2af209a360a2217e0838147bc405aeff.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/10/",
+      "publicado_en_origen": "2014-06-03 08:46:06"
+    },
+    {
+      "id_origen": 23707,
+      "numero": 11,
+      "titulo": "Majin Bone - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7396ce9467ba9aa6d556b7af07ab4e5.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/11/",
+      "publicado_en_origen": "2014-06-10 07:36:34"
+    },
+    {
+      "id_origen": 23761,
+      "numero": 12,
+      "titulo": "Majin Bone - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f0c1838d4c84c1f022d0776ce925ace.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/12/",
+      "publicado_en_origen": "2014-06-17 07:59:23"
+    },
+    {
+      "id_origen": 23816,
+      "numero": 13,
+      "titulo": "Majin Bone - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c2394673840081070b5b466f1c19da9.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/13/",
+      "publicado_en_origen": "2014-06-24 07:24:28"
+    },
+    {
+      "id_origen": 23860,
+      "numero": 14,
+      "titulo": "Majin Bone - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c32ecee54286a517f2dd1f5c79f0653.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/14/",
+      "publicado_en_origen": "2014-07-01 07:51:05"
+    },
+    {
+      "id_origen": 23936,
+      "numero": 15,
+      "titulo": "Majin Bone - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d942d71d77b0fd96f086b86a806f9a02.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/15/",
+      "publicado_en_origen": "2014-07-08 08:34:36"
+    },
+    {
+      "id_origen": 23997,
+      "numero": 16,
+      "titulo": "Majin Bone - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e963a1d2b57f85203e9fc58a78e7018.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/16/",
+      "publicado_en_origen": "2014-07-15 07:14:10"
+    },
+    {
+      "id_origen": 24062,
+      "numero": 17,
+      "titulo": "Majin Bone - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebd83293e15f358a34de4f3e805d8469.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/17/",
+      "publicado_en_origen": "2014-07-22 07:12:46"
+    },
+    {
+      "id_origen": 24123,
+      "numero": 18,
+      "titulo": "Majin Bone - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b16a9e8de58c95b427b29472b1eca130.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/18/",
+      "publicado_en_origen": "2014-07-29 06:33:15"
+    },
+    {
+      "id_origen": 24193,
+      "numero": 19,
+      "titulo": "Majin Bone - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_901eed0aea40de0fd19a2cacc99a3066.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/19/",
+      "publicado_en_origen": "2014-08-05 06:08:09"
+    },
+    {
+      "id_origen": 24280,
+      "numero": 20,
+      "titulo": "Majin Bone - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f25f9cde8fd9b4c2e25c79efcf188f22.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/20/",
+      "publicado_en_origen": "2014-08-12 07:03:18"
+    },
+    {
+      "id_origen": 24480,
+      "numero": 21,
+      "titulo": "Majin Bone - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c13123185ca0374cc6914d2a14c9ccc.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/21/",
+      "publicado_en_origen": "2014-08-19 06:21:11"
+    },
+    {
+      "id_origen": 24550,
+      "numero": 22,
+      "titulo": "Majin Bone - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c481ea1fe4aae0944dbc6cafb5dec786.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/22/",
+      "publicado_en_origen": "2014-08-26 06:07:48"
+    },
+    {
+      "id_origen": 24616,
+      "numero": 23,
+      "titulo": "Majin Bone - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_810fe53c836906ad7edb141de30cb383.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/23/",
+      "publicado_en_origen": "2014-09-02 06:04:58"
+    },
+    {
+      "id_origen": 24712,
+      "numero": 24,
+      "titulo": "Majin Bone - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8807b21924d02314daeb3444bda8acbd.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/24/",
+      "publicado_en_origen": "2014-09-09 07:15:41"
+    },
+    {
+      "id_origen": 24783,
+      "numero": 25,
+      "titulo": "Majin Bone - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_306480606119b6515bb51e242379602a.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/25/",
+      "publicado_en_origen": "2014-09-16 07:08:59"
+    },
+    {
+      "id_origen": 24845,
+      "numero": 26,
+      "titulo": "Majin Bone - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb8af9b1003eaaf5c36f2f065da4fca0.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/26/",
+      "publicado_en_origen": "2014-09-23 06:17:47"
+    },
+    {
+      "id_origen": 24956,
+      "numero": 27,
+      "titulo": "Majin Bone - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_974c7c43927ff8e3b61adb8b3d0841a8.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/27/",
+      "publicado_en_origen": "2014-09-30 06:06:21"
+    },
+    {
+      "id_origen": 25019,
+      "numero": 28,
+      "titulo": "Majin Bone - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_112473807df45853e16204788ce21e2c.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/28/",
+      "publicado_en_origen": "2014-10-07 06:13:22"
+    },
+    {
+      "id_origen": 25081,
+      "numero": 29,
+      "titulo": "Majin Bone - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_766b9a83afd8feba96ec3dcd724fe4d9.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/29/",
+      "publicado_en_origen": "2014-10-14 06:07:38"
+    },
+    {
+      "id_origen": 25151,
+      "numero": 30,
+      "titulo": "Majin Bone - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd2c18a27361dd16124f2780015b05f3.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/30/",
+      "publicado_en_origen": "2014-10-21 06:05:45"
+    },
+    {
+      "id_origen": 25218,
+      "numero": 31,
+      "titulo": "Majin Bone - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b21db6d1fb73d3868c096e723c07778.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/31/",
+      "publicado_en_origen": "2014-10-28 07:46:11"
+    },
+    {
+      "id_origen": 25295,
+      "numero": 32,
+      "titulo": "Majin Bone - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d7bec8c05ebb017758028aa34da27b1.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/32/",
+      "publicado_en_origen": "2014-11-04 07:10:58"
+    },
+    {
+      "id_origen": 25364,
+      "numero": 33,
+      "titulo": "Majin Bone - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f319ba8aa8a10c4d0df2b8acf127be64.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/33/",
+      "publicado_en_origen": "2014-11-11 07:52:16"
+    },
+    {
+      "id_origen": 25493,
+      "numero": 34,
+      "titulo": "Majin Bone - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8eedf769a83524a00a200373ce900374.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/34/",
+      "publicado_en_origen": "2014-11-18 07:07:24"
+    },
+    {
+      "id_origen": 25562,
+      "numero": 35,
+      "titulo": "Majin Bone - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_059def4514ca1bc7ff5781ac48428572.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/35/",
+      "publicado_en_origen": "2014-11-25 07:15:34"
+    },
+    {
+      "id_origen": 25638,
+      "numero": 36,
+      "titulo": "Majin Bone - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9207e68fd4bd47cd06eae4edf103a2a0.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/36/",
+      "publicado_en_origen": "2014-12-02 07:52:13"
+    },
+    {
+      "id_origen": 25726,
+      "numero": 37,
+      "titulo": "Majin Bone - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6e20a281ef337d524062368acecd1c4.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/37/",
+      "publicado_en_origen": "2014-12-09 07:10:17"
+    },
+    {
+      "id_origen": 25832,
+      "numero": 38,
+      "titulo": "Majin Bone - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35296a4054db6816185054cbdc02e041.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/38/",
+      "publicado_en_origen": "2014-12-16 07:05:52"
+    },
+    {
+      "id_origen": 25935,
+      "numero": 39,
+      "titulo": "Majin Bone - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d7be5aea8e8c8c0224542aec2a732fa.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/39/",
+      "publicado_en_origen": "2014-12-23 07:06:43"
+    },
+    {
+      "id_origen": 26321,
+      "numero": 40,
+      "titulo": "Majin Bone - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edc3ee4d3d7407248d6acf00414d7772.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/40/",
+      "publicado_en_origen": "2015-01-06 08:06:51"
+    },
+    {
+      "id_origen": 26378,
+      "numero": 41,
+      "titulo": "Majin Bone - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af921d3f4ba622035a8eb3ec4cb87659.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/41/",
+      "publicado_en_origen": "2015-01-13 07:09:42"
+    },
+    {
+      "id_origen": 26435,
+      "numero": 42,
+      "titulo": "Majin Bone - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_200734077bb5e01fbe9b973d0d50ee6a.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/42/",
+      "publicado_en_origen": "2015-01-20 07:07:44"
+    },
+    {
+      "id_origen": 26502,
+      "numero": 43,
+      "titulo": "Majin Bone - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1020880214e7bbf222d0069b7c77cb7.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/43/",
+      "publicado_en_origen": "2015-01-27 07:09:50"
+    },
+    {
+      "id_origen": 26581,
+      "numero": 44,
+      "titulo": "Majin Bone - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a79f393b36fd04bbbdd6d344caba8e11.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/44/",
+      "publicado_en_origen": "2015-02-03 07:11:48"
+    },
+    {
+      "id_origen": 26638,
+      "numero": 45,
+      "titulo": "Majin Bone - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79a00b87195cb584d0b3b5358e19f795.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/45/",
+      "publicado_en_origen": "2015-02-10 07:08:55"
+    },
+    {
+      "id_origen": 26760,
+      "numero": 46,
+      "titulo": "Majin Bone - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73bf740ed941e13e76e67049a5165b91.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/46/",
+      "publicado_en_origen": "2015-02-17 07:09:55"
+    },
+    {
+      "id_origen": 26888,
+      "numero": 47,
+      "titulo": "Majin Bone - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ca641f66bd082a37a9b11fe9236c7fd.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/47/",
+      "publicado_en_origen": "2015-02-24 07:50:34"
+    },
+    {
+      "id_origen": 26951,
+      "numero": 48,
+      "titulo": "Majin Bone - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0943a2b85be5f182bcd97cee9beebd5f.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/48/",
+      "publicado_en_origen": "2015-03-03 07:09:43"
+    },
+    {
+      "id_origen": 27010,
+      "numero": 49,
+      "titulo": "Majin Bone - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33bf3f3023004bd4ddd06fb39952f804.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/49/",
+      "publicado_en_origen": "2015-03-10 07:27:15"
+    },
+    {
+      "id_origen": 27098,
+      "numero": 50,
+      "titulo": "Majin Bone - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd04376883393101e37451beec94d920.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/50/",
+      "publicado_en_origen": "2015-03-17 06:16:52"
+    },
+    {
+      "id_origen": 27214,
+      "numero": 51,
+      "titulo": "Majin Bone - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08e546f8f607177ace79a17856033516.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/51/",
+      "publicado_en_origen": "2015-03-24 06:26:03"
+    },
+    {
+      "id_origen": 27345,
+      "numero": 52,
+      "titulo": "Majin Bone - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7ae62994651460a9f6295c9e34614ec.jpg",
+      "url_origen": "https://jkanime.net/majin-bone/52/",
+      "publicado_en_origen": "2015-03-31 07:05:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:55+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1098",
+  "cantidad_episodios_declarada": 52,
+  "detalle_extraido_en": "2026-08-26T18:37:41+00:00"
+}

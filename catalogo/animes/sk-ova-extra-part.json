@@ -1,0 +1,29 @@
+{
+  "id_origen": 4024,
+  "slug": "sk-ova-extra-part",
+  "titulo": "SK∞ OVA: Extra Part",
+  "titulo_corto": "SK∞ OVA: Extra Part",
+  "sinopsis": "sin sinopsis, aun",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sk-ova-extra-part.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sk-ova-extra-part/",
+  "episodios": [
+    {
+      "id_origen": 62346,
+      "numero": 1,
+      "titulo": "SK∞ OVA: Extra Part",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e4d5ac6b2b5c1f121100ad92bbdd4b4.jpg",
+      "url_origen": "https://jkanime.net/sk-ova-extra-part/1/",
+      "publicado_en_origen": "2025-03-19 14:27:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4024",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:09+00:00"
+}

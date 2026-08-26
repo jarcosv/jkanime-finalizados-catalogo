@@ -1,0 +1,61 @@
+{
+  "id_origen": 768,
+  "slug": "kuroko-no-basket-ng-shuu",
+  "titulo": "Kuroko no Basket NG-shuu",
+  "titulo_corto": "Kuroko no Basket NG-shuu",
+  "sinopsis": "Bloopers animados, basados ​​en la sección extra del manga original, incluidos en el BD/DVD de Kuroko no Basket.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kuroko-no-basket-ng-shuu.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kuroko-no-basket-ng-shuu/",
+  "episodios": [
+    {
+      "id_origen": 19182,
+      "numero": 1,
+      "titulo": "Kuroko no Basket NG-shuu - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ca7603abb16dfd89e9d4cb219bca2d5.jpg",
+      "url_origen": "https://jkanime.net/kuroko-no-basket-ng-shuu/1/",
+      "publicado_en_origen": "2013-01-29 04:08:39"
+    },
+    {
+      "id_origen": 19225,
+      "numero": 2,
+      "titulo": "Kuroko no Basket NG-shuu - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eab4d8e270ac1c39d4480c835ab0b4de.jpg",
+      "url_origen": "https://jkanime.net/kuroko-no-basket-ng-shuu/2/",
+      "publicado_en_origen": "2013-02-01 01:25:47"
+    },
+    {
+      "id_origen": 19605,
+      "numero": 3,
+      "titulo": "Kuroko no Basket NG-shuu - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b1ecbd9589c577ad109bea50b84d195.jpg",
+      "url_origen": "https://jkanime.net/kuroko-no-basket-ng-shuu/3/",
+      "publicado_en_origen": "2013-03-12 05:20:05"
+    },
+    {
+      "id_origen": 19606,
+      "numero": 4,
+      "titulo": "Kuroko no Basket NG-shuu - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ddeeff784c00425c090970528a617b3.jpg",
+      "url_origen": "https://jkanime.net/kuroko-no-basket-ng-shuu/4/",
+      "publicado_en_origen": "2013-03-12 05:35:15"
+    },
+    {
+      "id_origen": 19612,
+      "numero": 5,
+      "titulo": "Kuroko no Basket NG-shuu - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2babf18a3e44fc9fbd14151d2caa8c91.jpg",
+      "url_origen": "https://jkanime.net/kuroko-no-basket-ng-shuu/5/",
+      "publicado_en_origen": "2013-03-13 23:56:16"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "768",
+  "cantidad_episodios_declarada": 9,
+  "detalle_extraido_en": "2026-08-26T18:35:59+00:00"
+}

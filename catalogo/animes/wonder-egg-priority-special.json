@@ -1,0 +1,29 @@
+{
+  "id_origen": 2885,
+  "slug": "wonder-egg-priority-special",
+  "titulo": "Wonder Egg Priority Special",
+  "titulo_corto": "Wonder Egg Priority Special",
+  "sinopsis": "Episodio especial que sirve como conclusión de la serie de anime.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/wonder-egg-priority-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/wonder-egg-priority-special/",
+  "episodios": [
+    {
+      "id_origen": 45975,
+      "numero": 1,
+      "titulo": "Wonder Egg Priority Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8b32485ea3dafd7c06f87afe4f7c6d2.jpg",
+      "url_origen": "https://jkanime.net/wonder-egg-priority-special/1/",
+      "publicado_en_origen": "2021-06-30 14:53:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2885",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:52:06+00:00"
+}

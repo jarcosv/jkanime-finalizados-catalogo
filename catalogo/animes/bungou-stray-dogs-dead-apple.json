@@ -1,0 +1,29 @@
+{
+  "id_origen": 2283,
+  "slug": "bungou-stray-dogs-dead-apple",
+  "titulo": "Bungou Stray Dogs: Dead Apple",
+  "titulo_corto": "Bungou Stray Dogs: Dead Apple",
+  "sinopsis": "Pelicula Bungou Stray Dogs: Dead Apple",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bungou-stray-dogs-dead-apple.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bungou-stray-dogs-dead-apple/",
+  "episodios": [
+    {
+      "id_origen": 38019,
+      "numero": 1,
+      "titulo": "Bungou Stray Dogs: Dead Apple - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fb5805e13f6fac6c4b268029196d1be.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs-dead-apple/1/",
+      "publicado_en_origen": "2018-10-02 15:31:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:19+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2283",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:22:09+00:00"
+}

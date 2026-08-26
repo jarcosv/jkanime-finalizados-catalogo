@@ -1,0 +1,37 @@
+{
+  "id_origen": 2873,
+  "slug": "fategrand-carnival",
+  "titulo": "Fate/Grand Carnival",
+  "titulo_corto": "Fate/Grand Carnival",
+  "sinopsis": "El primer episodio de la \"temporada\" uno fue pre-emitido en el programa especial de televisión Fate Project New Year's Eve TV 2020.\n- ova 1 y 2 juntos en 1 solo video ( Episodio 1 )",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fategrand-carnival.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fategrand-carnival/",
+  "episodios": [
+    {
+      "id_origen": 45706,
+      "numero": 1,
+      "titulo": "Fate/Grand Carnival - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc68039f8f705edde76c6d8c6cf61ec7.jpg",
+      "url_origen": "https://jkanime.net/fategrand-carnival/1/",
+      "publicado_en_origen": "2021-06-07 01:02:40"
+    },
+    {
+      "id_origen": 47522,
+      "numero": 2,
+      "titulo": "Fate/Grand Carnival - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef3dcf69d5859af6a5be1fe14917b47f.jpg",
+      "url_origen": "https://jkanime.net/fategrand-carnival/2/",
+      "publicado_en_origen": "2021-12-10 15:13:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2873",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:26:47+00:00"
+}

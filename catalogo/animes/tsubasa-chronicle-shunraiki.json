@@ -1,0 +1,37 @@
+{
+  "id_origen": 378,
+  "slug": "tsubasa-chronicle-shunraiki",
+  "titulo": "Tsubasa Chronicle: Shunraiki",
+  "titulo_corto": "Tsubasa Chronicle: Shunraiki",
+  "sinopsis": "El pasado de Fye concluye en país de Celes. En este mismo pais Kurogane sacrifica su brazo para poder escapar de la trampa que les tendió Fei Wong. Luego los aventureros llegan al país de Nihon (en el mundo donde nacio Kurogane). Aqui Syaoran se encuentra con Seishiro y van a luchar en el interior del Mundo de los Sueños para ver quien de los dos obtiene la pluma,donde se suma un nuevo competidor el CLON de Syaoran.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tsubasa-chronicle-shunraiki.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tsubasa-chronicle-shunraiki/",
+  "episodios": [
+    {
+      "id_origen": 40925,
+      "numero": 1,
+      "titulo": "Tsubasa Chronicle: Shunraiki - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60df09fbc0e95a8d56ddbe5da179f829.jpg",
+      "url_origen": "https://jkanime.net/tsubasa-chronicle-shunraiki/1/",
+      "publicado_en_origen": "2019-09-10 23:04:38"
+    },
+    {
+      "id_origen": 40926,
+      "numero": 2,
+      "titulo": "Tsubasa Chronicle: Shunraiki - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f616bcb8ecb6fad8367737ff0cbcf81.jpg",
+      "url_origen": "https://jkanime.net/tsubasa-chronicle-shunraiki/2/",
+      "publicado_en_origen": "2019-09-10 23:05:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:22+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "378",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:50:17+00:00"
+}

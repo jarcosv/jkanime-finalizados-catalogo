@@ -1,0 +1,101 @@
+{
+  "id_origen": 1327,
+  "slug": "mushishi-zoku-shou-2nd-season",
+  "titulo": "Mushishi Zoku Shou 2nd Season",
+  "titulo_corto": "Mushishi Zoku Shou 2nd Season",
+  "sinopsis": "Segunda temporada de Mushishi Zoku Shou",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mushishi-zoku-shou-2nd-season.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mushishi-zoku-shou-2nd-season/",
+  "episodios": [
+    {
+      "id_origen": 25126,
+      "numero": 1,
+      "titulo": "Mushishi Zoku Shou 2nd Season - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3f2b325739bbe549d3875450b27a3a1.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou-2nd-season/1/",
+      "publicado_en_origen": "2014-10-18 13:06:22"
+    },
+    {
+      "id_origen": 25196,
+      "numero": 2,
+      "titulo": "Mushishi Zoku Shou 2nd Season - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_caf086cb95d6a70f6a0fda05f4e9cc97.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou-2nd-season/2/",
+      "publicado_en_origen": "2014-10-25 13:09:45"
+    },
+    {
+      "id_origen": 25266,
+      "numero": 3,
+      "titulo": "Mushishi Zoku Shou 2nd Season - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d54be4ff5a9dad8e016206a562bb7915.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou-2nd-season/3/",
+      "publicado_en_origen": "2014-11-01 13:08:56"
+    },
+    {
+      "id_origen": 25338,
+      "numero": 4,
+      "titulo": "Mushishi Zoku Shou 2nd Season - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b985eb1206505396c15126062c31bef.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou-2nd-season/4/",
+      "publicado_en_origen": "2014-11-08 13:06:54"
+    },
+    {
+      "id_origen": 25444,
+      "numero": 5,
+      "titulo": "Mushishi Zoku Shou 2nd Season - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6305e4149bc8b9672b74d1021bb7eef.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou-2nd-season/5/",
+      "publicado_en_origen": "2014-11-15 13:13:48"
+    },
+    {
+      "id_origen": 25529,
+      "numero": 6,
+      "titulo": "Mushishi Zoku Shou 2nd Season - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_823daea78d4603e9a8ccd4d1cb7b57ec.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou-2nd-season/6/",
+      "publicado_en_origen": "2014-11-22 13:09:29"
+    },
+    {
+      "id_origen": 25606,
+      "numero": 7,
+      "titulo": "Mushishi Zoku Shou 2nd Season - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_accce8664da4054c6c1655bccdb2f28e.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou-2nd-season/7/",
+      "publicado_en_origen": "2014-11-29 13:07:57"
+    },
+    {
+      "id_origen": 25696,
+      "numero": 8,
+      "titulo": "Mushishi Zoku Shou 2nd Season - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d9c8d2d7462eeeb8ca3c70e57285c71.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou-2nd-season/8/",
+      "publicado_en_origen": "2014-12-06 14:01:13"
+    },
+    {
+      "id_origen": 25798,
+      "numero": 9,
+      "titulo": "Mushishi Zoku Shou 2nd Season - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_779748b3baa7be62d16f8a23844951af.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou-2nd-season/9/",
+      "publicado_en_origen": "2014-12-13 16:56:35"
+    },
+    {
+      "id_origen": 25904,
+      "numero": 10,
+      "titulo": "Mushishi Zoku Shou 2nd Season - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b15780f320ec1c2819defb6d337eef1f.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou-2nd-season/10/",
+      "publicado_en_origen": "2014-12-20 16:20:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1327",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:39:26+00:00"
+}

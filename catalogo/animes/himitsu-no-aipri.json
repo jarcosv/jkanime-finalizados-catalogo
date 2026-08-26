@@ -1,0 +1,429 @@
+{
+  "id_origen": 3725,
+  "slug": "himitsu-no-aipri",
+  "titulo": "Himitsu no AiPri",
+  "titulo_corto": "Himitsu no AiPri",
+  "sinopsis": "Nuevo anime de Pretty Series.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/himitsu-no-aipri.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/himitsu-no-aipri/",
+  "episodios": [
+    {
+      "id_origen": 58556,
+      "numero": 1,
+      "titulo": "Himitsu no AiPri - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_add8d2f5f5a07c236fab1e3151815bef.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/1/",
+      "publicado_en_origen": "2024-06-28 14:47:59"
+    },
+    {
+      "id_origen": 58557,
+      "numero": 2,
+      "titulo": "Himitsu no AiPri - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b5a2bc294660026c860943930b7cee9.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/2/",
+      "publicado_en_origen": "2024-06-28 14:47:59"
+    },
+    {
+      "id_origen": 58558,
+      "numero": 3,
+      "titulo": "Himitsu no AiPri - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f7207aa44cb79e13f85ac648b058691.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/3/",
+      "publicado_en_origen": "2024-06-28 14:47:59"
+    },
+    {
+      "id_origen": 58559,
+      "numero": 4,
+      "titulo": "Himitsu no AiPri - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91c8a54cd13b4164d6e62eae74c4e253.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/4/",
+      "publicado_en_origen": "2024-06-28 14:47:59"
+    },
+    {
+      "id_origen": 58560,
+      "numero": 5,
+      "titulo": "Himitsu no AiPri - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_923093f114374142405a249b62fd6032.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/5/",
+      "publicado_en_origen": "2024-06-28 14:47:59"
+    },
+    {
+      "id_origen": 58561,
+      "numero": 6,
+      "titulo": "Himitsu no AiPri - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef795b548a2074b9ae93217888a3ae60.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/6/",
+      "publicado_en_origen": "2024-06-28 14:47:59"
+    },
+    {
+      "id_origen": 58562,
+      "numero": 7,
+      "titulo": "Himitsu no AiPri - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eefeafc0b26da3ff4c3de77feabf796a.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/7/",
+      "publicado_en_origen": "2024-06-28 14:47:59"
+    },
+    {
+      "id_origen": 58563,
+      "numero": 8,
+      "titulo": "Himitsu no AiPri - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1f6c9d6320c451893abd43b450cae15.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/8/",
+      "publicado_en_origen": "2024-06-28 14:47:59"
+    },
+    {
+      "id_origen": 58564,
+      "numero": 9,
+      "titulo": "Himitsu no AiPri - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65982c156a55fada29561eda30ae41e7.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/9/",
+      "publicado_en_origen": "2024-06-28 14:47:59"
+    },
+    {
+      "id_origen": 58565,
+      "numero": 10,
+      "titulo": "Himitsu no AiPri - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afa16d50fce6bb3ce06f98aae68a5e99.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/10/",
+      "publicado_en_origen": "2024-06-28 14:47:59"
+    },
+    {
+      "id_origen": 58566,
+      "numero": 11,
+      "titulo": "Himitsu no AiPri - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d493906ca2d425f7a381d3db52769a1.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/11/",
+      "publicado_en_origen": "2024-06-28 14:47:59"
+    },
+    {
+      "id_origen": 58567,
+      "numero": 12,
+      "titulo": "Himitsu no AiPri - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c71a0c07a70cf3c77132a3abf5f8b65.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/12/",
+      "publicado_en_origen": "2024-08-28 12:47:59"
+    },
+    {
+      "id_origen": 58591,
+      "numero": 13,
+      "titulo": "Himitsu no AiPri - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_142a95572230638dbd481709c69c8958.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/13/",
+      "publicado_en_origen": "2024-08-19 18:10:07"
+    },
+    {
+      "id_origen": 58592,
+      "numero": 14,
+      "titulo": "Himitsu no AiPri - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9b300ffd0daa9c58a5360610855622e.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/14/",
+      "publicado_en_origen": "2024-08-19 18:10:07"
+    },
+    {
+      "id_origen": 58593,
+      "numero": 15,
+      "titulo": "Himitsu no AiPri - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_358871579953b70c0abde6a4dc2957b6.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/15/",
+      "publicado_en_origen": "2024-08-19 18:10:07"
+    },
+    {
+      "id_origen": 58594,
+      "numero": 16,
+      "titulo": "Himitsu no AiPri - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a073c62d749fb7d312258d314605b1cb.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/16/",
+      "publicado_en_origen": "2024-08-19 18:10:07"
+    },
+    {
+      "id_origen": 58595,
+      "numero": 17,
+      "titulo": "Himitsu no AiPri - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c3672859c91ccaf7650e564eb05a529.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/17/",
+      "publicado_en_origen": "2024-08-19 18:10:07"
+    },
+    {
+      "id_origen": 58596,
+      "numero": 18,
+      "titulo": "Himitsu no AiPri - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d43a2c9dad5f3830aefb4119dcdbcda3.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/18/",
+      "publicado_en_origen": "2024-08-19 18:10:07"
+    },
+    {
+      "id_origen": 58597,
+      "numero": 19,
+      "titulo": "Himitsu no AiPri - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2256fa23ecdb9e80d957dd9d3b34aa19.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/19/",
+      "publicado_en_origen": "2024-08-19 18:10:07"
+    },
+    {
+      "id_origen": 58598,
+      "numero": 20,
+      "titulo": "Himitsu no AiPri - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54fc45aa922847c951a35c825255e9b6.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/20/",
+      "publicado_en_origen": "2024-08-19 18:10:07"
+    },
+    {
+      "id_origen": 58599,
+      "numero": 21,
+      "titulo": "Himitsu no AiPri - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1b9b0fc10f9effb5ef10f1ad9eb2196.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/21/",
+      "publicado_en_origen": "2024-08-29 18:10:07"
+    },
+    {
+      "id_origen": 62350,
+      "numero": 22,
+      "titulo": "Himitsu no AiPri - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_868b643f6f3c07dd97e50e228dd866cb.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/22/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62351,
+      "numero": 23,
+      "titulo": "Himitsu no AiPri - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c7707101dd1139c4a00752b8bf16e4f.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/23/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62352,
+      "numero": 24,
+      "titulo": "Himitsu no AiPri - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf1ca3924379eaf1b92e0a78778fe132.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/24/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62353,
+      "numero": 25,
+      "titulo": "Himitsu no AiPri - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a4a1f0b4a887eba419286f4ae60ad94.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/25/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62354,
+      "numero": 26,
+      "titulo": "Himitsu no AiPri - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c52ea266ea45d78af18d9a47a4316a31.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/26/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62355,
+      "numero": 27,
+      "titulo": "Himitsu no AiPri - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5620dc525e196bb4223f7113459b4db.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/27/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62356,
+      "numero": 28,
+      "titulo": "Himitsu no AiPri - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c719acec4fa7a7dabb4b74a0de9a8288.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/28/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62357,
+      "numero": 29,
+      "titulo": "Himitsu no AiPri - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0ca82386f82979e978f1490c728b686.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/29/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62358,
+      "numero": 30,
+      "titulo": "Himitsu no AiPri - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39991df836778b9232d2e816c09139d8.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/30/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62359,
+      "numero": 31,
+      "titulo": "Himitsu no AiPri - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb75339aaf599f4aca9c03d77107558b.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/31/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62360,
+      "numero": 32,
+      "titulo": "Himitsu no AiPri - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e027eeee5d7aef1c89971acc787a4eb.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/32/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62361,
+      "numero": 33,
+      "titulo": "Himitsu no AiPri - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4857b70c478933ceb71fbd419b8fc1fe.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/33/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62362,
+      "numero": 34,
+      "titulo": "Himitsu no AiPri - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46e42a5d99b2f8250675ec374f2c21b0.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/34/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62363,
+      "numero": 35,
+      "titulo": "Himitsu no AiPri - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f0bbf87d52bd513795b29eb863e2079.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/35/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62364,
+      "numero": 36,
+      "titulo": "Himitsu no AiPri - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_911c269cd64538be32688e60d1ee67cf.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/36/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62365,
+      "numero": 37,
+      "titulo": "Himitsu no AiPri - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e0c60d25387a5457fd99d48bce17847.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/37/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62366,
+      "numero": 38,
+      "titulo": "Himitsu no AiPri - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_559f7e7a1c429f1a323d37494c80b88e.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/38/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62367,
+      "numero": 39,
+      "titulo": "Himitsu no AiPri - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11010d7eda4adab400afdb7d32a3ef6b.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/39/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62368,
+      "numero": 40,
+      "titulo": "Himitsu no AiPri - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a27dc27020dc15355d593a6d4952eb4b.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/40/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62369,
+      "numero": 41,
+      "titulo": "Himitsu no AiPri - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75d5ca2d1d4c4e558646a3f2ec5fb4d4.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/41/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62370,
+      "numero": 42,
+      "titulo": "Himitsu no AiPri - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_984cabd9c93616100f16985e80a312c3.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/42/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62371,
+      "numero": 43,
+      "titulo": "Himitsu no AiPri - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8f254f99e2b2328ba37e86fedb602ab.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/43/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62372,
+      "numero": 44,
+      "titulo": "Himitsu no AiPri - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_240e6ccdcb4f03dde3dddafd5e560725.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/44/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62373,
+      "numero": 45,
+      "titulo": "Himitsu no AiPri - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad3c7de9f44ca5bd69c7c61dcc9d1951.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/45/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62374,
+      "numero": 46,
+      "titulo": "Himitsu no AiPri - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f79f25145e702459562027ffda25054.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/46/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62375,
+      "numero": 47,
+      "titulo": "Himitsu no AiPri - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59c7e6df8243079769a3f7cd6a4975c5.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/47/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62376,
+      "numero": 48,
+      "titulo": "Himitsu no AiPri - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f6a227d56886490afe68f9bb3b9742c.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/48/",
+      "publicado_en_origen": "2025-03-20 12:06:41"
+    },
+    {
+      "id_origen": 62418,
+      "numero": 49,
+      "titulo": "Himitsu no AiPri - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_918dfa43ca263dd3a17d827b678288b2.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/49/",
+      "publicado_en_origen": "2025-03-22 18:57:31"
+    },
+    {
+      "id_origen": 62460,
+      "numero": 50,
+      "titulo": "Himitsu no AiPri - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6716e90dc5ac5e85c698272caf190ba.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/50/",
+      "publicado_en_origen": "2025-03-26 17:02:31"
+    },
+    {
+      "id_origen": 62539,
+      "numero": 51,
+      "titulo": "Himitsu no AiPri - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d670b30f343054aa555fcbf07a3a99c.jpg",
+      "url_origen": "https://jkanime.net/himitsu-no-aipri/51/",
+      "publicado_en_origen": "2025-04-03 10:35:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:36+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3725",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:30:49+00:00"
+}

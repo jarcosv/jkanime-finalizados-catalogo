@@ -1,0 +1,69 @@
+{
+  "id_origen": 856,
+  "slug": "yuyushiki-specials",
+  "titulo": "Yuyushiki: Nyanyashiki",
+  "titulo_corto": "Yuyushiki: Nyanyashiki",
+  "sinopsis": "Especiales incluídos en los BD/DVD.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yuyushiki-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yuyushiki-specials/",
+  "episodios": [
+    {
+      "id_origen": 29334,
+      "numero": 1,
+      "titulo": "Yuyushiki Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45a9c220aa008c10a0e581f44c0627e9.jpg",
+      "url_origen": "https://jkanime.net/yuyushiki-specials/1/",
+      "publicado_en_origen": "2015-09-10 22:50:27"
+    },
+    {
+      "id_origen": 29335,
+      "numero": 2,
+      "titulo": "Yuyushiki Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c5bdd15468ef4803adc665552a3c95e.jpg",
+      "url_origen": "https://jkanime.net/yuyushiki-specials/2/",
+      "publicado_en_origen": "2015-09-10 22:50:27"
+    },
+    {
+      "id_origen": 29336,
+      "numero": 3,
+      "titulo": "Yuyushiki Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b40618056727dc8f47cace725976a26a.jpg",
+      "url_origen": "https://jkanime.net/yuyushiki-specials/3/",
+      "publicado_en_origen": "2015-09-10 22:50:27"
+    },
+    {
+      "id_origen": 29337,
+      "numero": 4,
+      "titulo": "Yuyushiki Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ffcb5b752250faafdbeed38ec2cbcc4.jpg",
+      "url_origen": "https://jkanime.net/yuyushiki-specials/4/",
+      "publicado_en_origen": "2015-09-10 22:50:27"
+    },
+    {
+      "id_origen": 29338,
+      "numero": 5,
+      "titulo": "Yuyushiki Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7dcb383d6623119ecdde0537f3a7f974.jpg",
+      "url_origen": "https://jkanime.net/yuyushiki-specials/5/",
+      "publicado_en_origen": "2015-09-10 22:50:27"
+    },
+    {
+      "id_origen": 29339,
+      "numero": 6,
+      "titulo": "Yuyushiki Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecd1ee3d15163fbe981b58a1e88d86bf.jpg",
+      "url_origen": "https://jkanime.net/yuyushiki-specials/6/",
+      "publicado_en_origen": "2015-09-10 22:50:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "856",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:53:43+00:00"
+}

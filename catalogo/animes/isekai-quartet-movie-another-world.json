@@ -1,0 +1,29 @@
+{
+  "id_origen": 4594,
+  "slug": "isekai-quartet-movie-another-world",
+  "titulo": "Isekai Quartet Movie: Another World",
+  "titulo_corto": "Isekai Quartet Movie: Another ...",
+  "sinopsis": "La clase llega a otro mundo y se encuentra con un entorno desolado dominado por un autómata mágico desenfrenado.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/isekai-quartet-movie-another-world.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/isekai-quartet-movie-another-world/",
+  "episodios": [
+    {
+      "id_origen": 70703,
+      "numero": 1,
+      "titulo": "Isekai Quartet Movie: Another World",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23b2a32348d0867121a31e8b9687cba1.jpg",
+      "url_origen": "https://jkanime.net/isekai-quartet-movie-another-world/1/",
+      "publicado_en_origen": "2026-01-07 19:11:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4594",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:32:14+00:00"
+}

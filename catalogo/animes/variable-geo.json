@@ -1,0 +1,45 @@
+{
+  "id_origen": 4494,
+  "slug": "variable-geo",
+  "titulo": "Variable Geo",
+  "titulo_corto": "Variable Geo",
+  "sinopsis": "El especial del día es Variable Geo, una brutal batalla entre camareras que sirven generosas raciones de energía y despiadadas guarniciones de mortíferas artes marciales.\r\n\r\nPara las bellezas musculosas que ganan menos del salario mínimo, VG es la forma perfecta de ganar dinero rápido. Las vencedoras se llevan millones, y las derrotadas lo pierden todo (es decir, toda su ropa).\r\n\r\nPero este deporte de alto riesgo tiene fuerzas oscuras y prácticas dudosas detrás de la diversión y los juegos. Las inyecciones letales hacen que los esteroides parezcan vitaminas. En lugar de oraciones en equipo, hay posesiones demoníacas. Los patrocinadores deportivos son corporaciones malévolas con una agenda más aterradora que el aumento de la cuota de mercado. Todo es parte del juego.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/variable-geo.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/variable-geo/",
+  "episodios": [
+    {
+      "id_origen": 69855,
+      "numero": 1,
+      "titulo": "Variable Geo - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe355cfb38d0c37522deb10403302cb9.jpg",
+      "url_origen": "https://jkanime.net/variable-geo/1/",
+      "publicado_en_origen": "2025-12-11 01:44:03"
+    },
+    {
+      "id_origen": 69856,
+      "numero": 2,
+      "titulo": "Variable Geo - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abcc26f7df3065e548d74d177744fc49.jpg",
+      "url_origen": "https://jkanime.net/variable-geo/2/",
+      "publicado_en_origen": "2025-12-11 01:44:03"
+    },
+    {
+      "id_origen": 69857,
+      "numero": 3,
+      "titulo": "Variable Geo - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72b3b06ea02d7faf553ad5cf200fecae.jpg",
+      "url_origen": "https://jkanime.net/variable-geo/3/",
+      "publicado_en_origen": "2025-12-11 01:44:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4494",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:51:30+00:00"
+}

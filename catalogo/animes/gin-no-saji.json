@@ -1,0 +1,109 @@
+{
+  "id_origen": 922,
+  "slug": "gin-no-saji",
+  "titulo": "Gin no Saji",
+  "titulo_corto": "Gin no Saji",
+  "sinopsis": "La Escuela de Capacitación Agraria de Oezo se encuentra en un paraje idílico, ubicado en plena naturaleza. Allí estudia Yugo Hachiken. Allí vive. Allí se encuentra en su salsa. ¡Está a punto de brotar una historia labrada sobre la tierra con sudor y lágrimas!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gin-no-saji/",
+  "episodios": [
+    {
+      "id_origen": 21047,
+      "numero": 1,
+      "titulo": "Gin no Saji - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3545e60f4ffbd11070bdb7991ba3782.jpg",
+      "url_origen": "https://jkanime.net/gin-no-saji/1/",
+      "publicado_en_origen": "2013-07-11 14:51:18"
+    },
+    {
+      "id_origen": 21101,
+      "numero": 2,
+      "titulo": "Gin no Saji - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fa49450b98696c6c042357d73674657.jpg",
+      "url_origen": "https://jkanime.net/gin-no-saji/2/",
+      "publicado_en_origen": "2013-07-18 14:55:02"
+    },
+    {
+      "id_origen": 21145,
+      "numero": 3,
+      "titulo": "Gin no Saji - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_307d1094c1f5857935838964f2ae4db4.jpg",
+      "url_origen": "https://jkanime.net/gin-no-saji/3/",
+      "publicado_en_origen": "2013-07-25 14:57:36"
+    },
+    {
+      "id_origen": 21191,
+      "numero": 4,
+      "titulo": "Gin no Saji - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d81df16fca504b6fb9280b11d2b0ae0.jpg",
+      "url_origen": "https://jkanime.net/gin-no-saji/4/",
+      "publicado_en_origen": "2013-08-01 14:52:11"
+    },
+    {
+      "id_origen": 21237,
+      "numero": 5,
+      "titulo": "Gin no Saji - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4effc08cc893c51a48f840e0b6e8e2b8.jpg",
+      "url_origen": "https://jkanime.net/gin-no-saji/5/",
+      "publicado_en_origen": "2013-08-08 14:50:54"
+    },
+    {
+      "id_origen": 21284,
+      "numero": 6,
+      "titulo": "Gin no Saji - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85d52e4d4b40d62fa159037686630a7c.jpg",
+      "url_origen": "https://jkanime.net/gin-no-saji/6/",
+      "publicado_en_origen": "2013-08-15 15:00:17"
+    },
+    {
+      "id_origen": 21331,
+      "numero": 7,
+      "titulo": "Gin no Saji - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7815a62bc723a1c2884807eefd6640c5.jpg",
+      "url_origen": "https://jkanime.net/gin-no-saji/7/",
+      "publicado_en_origen": "2013-08-22 14:55:36"
+    },
+    {
+      "id_origen": 21378,
+      "numero": 8,
+      "titulo": "Gin no Saji - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47aad7688350fbfd9a9109e8ee88f0f4.jpg",
+      "url_origen": "https://jkanime.net/gin-no-saji/8/",
+      "publicado_en_origen": "2013-08-29 14:54:16"
+    },
+    {
+      "id_origen": 21430,
+      "numero": 9,
+      "titulo": "Gin no Saji - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_feafb280b99f47d2e75d6008f73c15a3.jpg",
+      "url_origen": "https://jkanime.net/gin-no-saji/9/",
+      "publicado_en_origen": "2013-09-05 14:53:33"
+    },
+    {
+      "id_origen": 21476,
+      "numero": 10,
+      "titulo": "Gin no Saji - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9eec67a7083de7ce59a9e898049a065e.jpg",
+      "url_origen": "https://jkanime.net/gin-no-saji/10/",
+      "publicado_en_origen": "2013-09-12 15:14:04"
+    },
+    {
+      "id_origen": 21523,
+      "numero": 11,
+      "titulo": "Gin no Saji - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b407fe27007acc2f931c53a3569f689.jpg",
+      "url_origen": "https://jkanime.net/gin-no-saji/11/",
+      "publicado_en_origen": "2013-09-19 14:52:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "922",
+  "cantidad_episodios_declarada": 11,
+  "detalle_extraido_en": "2026-08-26T18:28:16+00:00"
+}

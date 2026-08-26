@@ -1,0 +1,53 @@
+{
+  "id_origen": 1530,
+  "slug": "futari-ecchi",
+  "titulo": "Futari Ecchi",
+  "titulo_corto": "Futari Ecchi",
+  "sinopsis": "Makoto y Yura tienen 25 años y son marido y mujer. Lo malo de su matrimonio es que estaba ya pactado. Sin embargo, ellos deciden repetir todo el proceso romántico desde el principio, desde la primera cita hasta la primera noche. Pero el problema es que Yura es \"vírgen\" y Makoto es un \"pipiolo\" a sus 25 años... Ninguno de los dos tiene experiencia en \"ya sabéis qué\", así que Makoto y Yura deciden resolver su problema a toda costa...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/futari-ecchi.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/futari-ecchi/",
+  "episodios": [
+    {
+      "id_origen": 27407,
+      "numero": 1,
+      "titulo": "Futari Ecchi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffec51567543679f01ce65724adca743.jpg",
+      "url_origen": "https://jkanime.net/futari-ecchi/1/",
+      "publicado_en_origen": "2015-04-06 18:36:00"
+    },
+    {
+      "id_origen": 27408,
+      "numero": 2,
+      "titulo": "Futari Ecchi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4eb92c689e6b9728cd42db83ed02bfa.jpg",
+      "url_origen": "https://jkanime.net/futari-ecchi/2/",
+      "publicado_en_origen": "2015-04-06 18:36:01"
+    },
+    {
+      "id_origen": 27409,
+      "numero": 3,
+      "titulo": "Futari Ecchi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60cef0d656aee7be7b64d3f973a8bc8b.jpg",
+      "url_origen": "https://jkanime.net/futari-ecchi/3/",
+      "publicado_en_origen": "2015-04-06 18:36:01"
+    },
+    {
+      "id_origen": 27410,
+      "numero": 4,
+      "titulo": "Futari Ecchi - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53b884037039b8150835431dd7ed95b0.jpg",
+      "url_origen": "https://jkanime.net/futari-ecchi/4/",
+      "publicado_en_origen": "2015-04-06 18:36:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1530",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:27:32+00:00"
+}

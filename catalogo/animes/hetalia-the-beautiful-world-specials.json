@@ -1,0 +1,53 @@
+{
+  "id_origen": 1562,
+  "slug": "hetalia-the-beautiful-world-specials",
+  "titulo": "Hetalia: The Beautiful World Specials",
+  "titulo_corto": "Hetalia: The Beautiful World S...",
+  "sinopsis": "Especiales incluidos en los BD/DVDs de Hetalia: The Beautiful World",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hetalia-the-beautiful-world-specials.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hetalia-the-beautiful-world-specials/",
+  "episodios": [
+    {
+      "id_origen": 28456,
+      "numero": 1,
+      "titulo": "Hetalia: The Beautiful World Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1f8643fbc2b43ef133eec4e483b3565.jpg",
+      "url_origen": "https://jkanime.net/hetalia-the-beautiful-world-specials/1/",
+      "publicado_en_origen": "2015-06-15 22:08:37"
+    },
+    {
+      "id_origen": 28457,
+      "numero": 2,
+      "titulo": "Hetalia: The Beautiful World Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34437adb80c38b197974f5105052609a.jpg",
+      "url_origen": "https://jkanime.net/hetalia-the-beautiful-world-specials/2/",
+      "publicado_en_origen": "2015-06-15 22:08:37"
+    },
+    {
+      "id_origen": 28458,
+      "numero": 3,
+      "titulo": "Hetalia: The Beautiful World Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d0d4779bbefa4ccc9dfb920a110f05a.jpg",
+      "url_origen": "https://jkanime.net/hetalia-the-beautiful-world-specials/3/",
+      "publicado_en_origen": "2015-06-15 22:08:37"
+    },
+    {
+      "id_origen": 28459,
+      "numero": 4,
+      "titulo": "Hetalia: The Beautiful World Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2247fd8e28edeb7365e8eb85e206487b.jpg",
+      "url_origen": "https://jkanime.net/hetalia-the-beautiful-world-specials/4/",
+      "publicado_en_origen": "2015-06-15 22:08:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1562",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:30:22+00:00"
+}

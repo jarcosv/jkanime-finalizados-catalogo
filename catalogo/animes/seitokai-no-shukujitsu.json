@@ -1,0 +1,29 @@
+{
+  "id_origen": 953,
+  "slug": "seitokai-no-shukujitsu",
+  "titulo": "Seitokai no Shukujitsu",
+  "titulo_corto": "Seitokai no Shukujitsu",
+  "sinopsis": "OVA incluida en el octavo volumen de la novela de la serie Seitokai",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/seitokai-no-shukujitsu.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/seitokai-no-shukujitsu/",
+  "episodios": [
+    {
+      "id_origen": 21558,
+      "numero": 1,
+      "titulo": "Seitokai no Shukujitsu",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fc19681d9d74f31286a182d200b9e7f.jpg",
+      "url_origen": "https://jkanime.net/seitokai-no-shukujitsu/1/",
+      "publicado_en_origen": "2013-09-24 14:11:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:01+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "953",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:45:22+00:00"
+}

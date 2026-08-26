@@ -1,0 +1,29 @@
+{
+  "id_origen": 927,
+  "slug": "mangirl-asobu-henshuu-girl",
+  "titulo": "Mangirl!: Asobu Henshuu Girl",
+  "titulo_corto": "Mangirl!: Asobu Henshuu Girl",
+  "sinopsis": "Episodio no transmitido en Tv. Incluido como extra en los BD/DVD de la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mangirl-asobu-henshuu-girl.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mangirl-asobu-henshuu-girl/",
+  "episodios": [
+    {
+      "id_origen": 21087,
+      "numero": 1,
+      "titulo": "Mangirl!: Asobu Henshuu Girl",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mangirl-asobu-henshuu-girl.jpg",
+      "url_origen": "https://jkanime.net/mangirl-asobu-henshuu-girl/1/",
+      "publicado_en_origen": "2013-07-15 21:13:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "927",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:37:50+00:00"
+}

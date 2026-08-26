@@ -1,0 +1,29 @@
+{
+  "id_origen": 4872,
+  "slug": "kodomo-no-omocha",
+  "titulo": "Kodomo no Omocha",
+  "titulo_corto": "Kodomo no Omocha",
+  "sinopsis": "El OVA de «Kodomo No Omocha» es un vídeo de animación de treinta minutos que se realizó antes de la serie de televisión. Abarca el primer volumen del manga, por lo que equivale a los episodios 1 a 6 de la serie. Narra los problemas de Sana con Hayama en el colegio a raíz de la situación del «oyakodon baka» y culmina cuando el padre y la hermana de Hayama se dan cuenta de sus errores gracias a los esfuerzos de Sana.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kodomo-no-omocha.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kodomo-no-omocha/",
+  "episodios": [
+    {
+      "id_origen": 75294,
+      "numero": 1,
+      "titulo": "Kodomo no Omocha",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb26ee7fed59ad105b97600a502c9b70.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha/1/",
+      "publicado_en_origen": "2026-07-20 02:48:16"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4872",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:35:16+00:00"
+}

@@ -1,0 +1,101 @@
+{
+  "id_origen": 1203,
+  "slug": "kuroshitsuji-book-of-circus",
+  "titulo": "Kuroshitsuji: Book of Circus",
+  "titulo_corto": "Kuroshitsuji: Book of Circus",
+  "sinopsis": "La serie de televisión se adaptará al Circo El Arca de Noé, recogiendo la historia del manga una copia de seguridad desde el punto en el que se separaron. Este arco sigue inmediatamente al  Concurso Curry Arco en el manga, que finalizó en el episodio 15 de la primera temporada del anime.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kuroshitsuji-book-of-circus.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kuroshitsuji-book-of-circus/",
+  "episodios": [
+    {
+      "id_origen": 23958,
+      "numero": 1,
+      "titulo": "Kuroshitsuji: Book of Circus - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5990653da56b4075bff360efcc52383f.jpg",
+      "url_origen": "https://jkanime.net/kuroshitsuji-book-of-circus/1/",
+      "publicado_en_origen": "2014-07-10 15:52:16"
+    },
+    {
+      "id_origen": 24020,
+      "numero": 2,
+      "titulo": "Kuroshitsuji: Book of Circus - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03b059d4abd989c7cc2d79e8fc008cea.jpg",
+      "url_origen": "https://jkanime.net/kuroshitsuji-book-of-circus/2/",
+      "publicado_en_origen": "2014-07-17 15:35:31"
+    },
+    {
+      "id_origen": 24086,
+      "numero": 3,
+      "titulo": "Kuroshitsuji: Book of Circus - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a55dbdc6c16615070050599ef141d44.jpg",
+      "url_origen": "https://jkanime.net/kuroshitsuji-book-of-circus/3/",
+      "publicado_en_origen": "2014-07-24 15:35:26"
+    },
+    {
+      "id_origen": 24151,
+      "numero": 4,
+      "titulo": "Kuroshitsuji: Book of Circus - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff2182172c8da2d80ebf6d0a22b749f2.jpg",
+      "url_origen": "https://jkanime.net/kuroshitsuji-book-of-circus/4/",
+      "publicado_en_origen": "2014-07-31 16:36:12"
+    },
+    {
+      "id_origen": 24214,
+      "numero": 5,
+      "titulo": "Kuroshitsuji: Book of Circus - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52f0ab576a3efd4c9e6f71fcab5ecdba.jpg",
+      "url_origen": "https://jkanime.net/kuroshitsuji-book-of-circus/5/",
+      "publicado_en_origen": "2014-08-07 18:23:00"
+    },
+    {
+      "id_origen": 24434,
+      "numero": 6,
+      "titulo": "Kuroshitsuji: Book of Circus - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6774b084b4e8c3189c507afa8a861a2d.jpg",
+      "url_origen": "https://jkanime.net/kuroshitsuji-book-of-circus/6/",
+      "publicado_en_origen": "2014-08-14 14:36:37"
+    },
+    {
+      "id_origen": 24507,
+      "numero": 7,
+      "titulo": "Kuroshitsuji: Book of Circus - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_246b2082679966bc7030b5dbc2e63b60.jpg",
+      "url_origen": "https://jkanime.net/kuroshitsuji-book-of-circus/7/",
+      "publicado_en_origen": "2014-08-21 14:51:16"
+    },
+    {
+      "id_origen": 24571,
+      "numero": 8,
+      "titulo": "Kuroshitsuji: Book of Circus - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e18455e21cdc9ba50c301e0bc99b56e7.jpg",
+      "url_origen": "https://jkanime.net/kuroshitsuji-book-of-circus/8/",
+      "publicado_en_origen": "2014-08-28 14:36:32"
+    },
+    {
+      "id_origen": 24642,
+      "numero": 9,
+      "titulo": "Kuroshitsuji: Book of Circus - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e17759324a651d0ae7f35e7cc00ddee5.jpg",
+      "url_origen": "https://jkanime.net/kuroshitsuji-book-of-circus/9/",
+      "publicado_en_origen": "2014-09-04 14:42:04"
+    },
+    {
+      "id_origen": 24738,
+      "numero": 10,
+      "titulo": "Kuroshitsuji: Book of Circus - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3e981dfbe712bd8f93f170e8c0a2c0d.jpg",
+      "url_origen": "https://jkanime.net/kuroshitsuji-book-of-circus/10/",
+      "publicado_en_origen": "2014-09-11 14:38:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1203",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:36:03+00:00"
+}

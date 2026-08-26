@@ -1,0 +1,45 @@
+{
+  "id_origen": 1529,
+  "slug": "futari-ecchi-2014",
+  "titulo": "Futari Ecchi 2014",
+  "titulo_corto": "Futari Ecchi 2014",
+  "sinopsis": "OVAs de Futari Ecchi incluidas con el Premium DVD Box.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/futari-ecchi-2014.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/futari-ecchi-2014/",
+  "episodios": [
+    {
+      "id_origen": 27404,
+      "numero": 1,
+      "titulo": "Futari Ecchi 2014 - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90e4db0760fd77aa660c00369aef0ff6.jpg",
+      "url_origen": "https://jkanime.net/futari-ecchi-2014/1/",
+      "publicado_en_origen": "2015-04-06 18:17:30"
+    },
+    {
+      "id_origen": 27405,
+      "numero": 2,
+      "titulo": "Futari Ecchi 2014 - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e828ce64a721c868278f5cec8f0684e.jpg",
+      "url_origen": "https://jkanime.net/futari-ecchi-2014/2/",
+      "publicado_en_origen": "2015-04-06 18:19:24"
+    },
+    {
+      "id_origen": 27406,
+      "numero": 3,
+      "titulo": "Futari Ecchi 2014 - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4879f4e698b7b6932923077a78898fa.jpg",
+      "url_origen": "https://jkanime.net/futari-ecchi-2014/3/",
+      "publicado_en_origen": "2015-04-06 18:20:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1529",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:27:32+00:00"
+}

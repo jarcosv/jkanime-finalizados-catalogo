@@ -1,0 +1,29 @@
+{
+  "id_origen": 1871,
+  "slug": "boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi",
+  "titulo": "Naruto ga Hokage ni Natta Hi",
+  "titulo_corto": "Naruto ga Hokage ni Natta Hi",
+  "sinopsis": "Incluído con el DVD/BD de edición limitada de la película de Boruto.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi/",
+  "episodios": [
+    {
+      "id_origen": 32236,
+      "numero": 1,
+      "titulo": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4700f244723a6277a576f50af1d387b.jpg",
+      "url_origen": "https://jkanime.net/boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi/1/",
+      "publicado_en_origen": "2016-07-06 18:01:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1871",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:49+00:00"
+}

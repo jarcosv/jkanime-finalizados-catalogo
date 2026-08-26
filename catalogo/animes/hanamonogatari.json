@@ -1,0 +1,61 @@
+{
+  "id_origen": 1237,
+  "slug": "hanamonogatari",
+  "titulo": "Hanamonogatari",
+  "titulo_corto": "Hanamonogatari",
+  "sinopsis": "Kanbaru Suruga, quien creía estar totalmente alejada del incidente del brazo de demonio, es arrastrada a un problema mucho más grande: Akuma-sama está recolectando todas las partes de aquel demonio y debe ser detenido antes de que sea demasiado tarde.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hanamonogatari.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hanamonogatari/",
+  "episodios": [
+    {
+      "id_origen": 24467,
+      "numero": 1,
+      "titulo": "Hanamonogatari - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b3a8f76ca145c9db850d0d318d381a6.jpg",
+      "url_origen": "https://jkanime.net/hanamonogatari/1/",
+      "publicado_en_origen": "2014-08-17 20:20:24"
+    },
+    {
+      "id_origen": 24470,
+      "numero": 2,
+      "titulo": "Hanamonogatari - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37b47bc2fe01ddcb1c4673a4419c7e13.jpg",
+      "url_origen": "https://jkanime.net/hanamonogatari/2/",
+      "publicado_en_origen": "2014-08-18 11:11:38"
+    },
+    {
+      "id_origen": 24478,
+      "numero": 3,
+      "titulo": "Hanamonogatari - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a633795cebee6473d1aae96d5a28df15.jpg",
+      "url_origen": "https://jkanime.net/hanamonogatari/3/",
+      "publicado_en_origen": "2014-08-18 20:37:19"
+    },
+    {
+      "id_origen": 24487,
+      "numero": 4,
+      "titulo": "Hanamonogatari - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83928e326e22e7694ca4aca076d81bb5.jpg",
+      "url_origen": "https://jkanime.net/hanamonogatari/4/",
+      "publicado_en_origen": "2014-08-19 20:41:38"
+    },
+    {
+      "id_origen": 24488,
+      "numero": 5,
+      "titulo": "Hanamonogatari - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85b69add5be1d3b636552fc2ae8f51f3.jpg",
+      "url_origen": "https://jkanime.net/hanamonogatari/5/",
+      "publicado_en_origen": "2014-08-19 21:03:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1237",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:29:44+00:00"
+}

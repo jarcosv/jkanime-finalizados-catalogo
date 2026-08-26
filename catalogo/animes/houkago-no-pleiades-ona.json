@@ -1,0 +1,53 @@
+{
+  "id_origen": 1466,
+  "slug": "houkago-no-pleiades-ona",
+  "titulo": "Houkago no Pleiades ONA",
+  "titulo_corto": "Houkago no Pleiades ONA",
+  "sinopsis": "Subaru es una chica que un buen día descubre que su mejor amiga Aoi forma parte de un grupo de Magical Girls. Siguiendo la recomendación del muñequito jefe pleyadiano, decide convertirse en Magical Girl y ayudarle a regresar a su planeta.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/houkago-no-pleiades-ona.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/houkago-no-pleiades-ona/",
+  "episodios": [
+    {
+      "id_origen": 27139,
+      "numero": 1,
+      "titulo": "Houkago no Pleiades ONA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a4a467e968ac32c4f328e6fb2d211f6.jpg",
+      "url_origen": "https://jkanime.net/houkago-no-pleiades-ona/1/",
+      "publicado_en_origen": "2015-03-19 03:39:18"
+    },
+    {
+      "id_origen": 27140,
+      "numero": 2,
+      "titulo": "Houkago no Pleiades ONA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03fbe3c1e895d92e60a544f6cba85914.jpg",
+      "url_origen": "https://jkanime.net/houkago-no-pleiades-ona/2/",
+      "publicado_en_origen": "2015-03-19 03:39:23"
+    },
+    {
+      "id_origen": 27141,
+      "numero": 3,
+      "titulo": "Houkago no Pleiades ONA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab0e8f1ae39d10783b04998b643a1444.jpg",
+      "url_origen": "https://jkanime.net/houkago-no-pleiades-ona/3/",
+      "publicado_en_origen": "2015-03-19 03:39:23"
+    },
+    {
+      "id_origen": 27142,
+      "numero": 4,
+      "titulo": "Houkago no Pleiades ONA - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cbec8eedb31409d6743850ebd69dd63.jpg",
+      "url_origen": "https://jkanime.net/houkago-no-pleiades-ona/4/",
+      "publicado_en_origen": "2015-03-19 03:39:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1466",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:31:07+00:00"
+}

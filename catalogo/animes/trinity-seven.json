@@ -1,0 +1,117 @@
+{
+  "id_origen": 1307,
+  "slug": "trinity-seven",
+  "titulo": "Trinity Seven",
+  "titulo_corto": "Trinity Seven",
+  "sinopsis": "Orgullo, envidia, ira, pereza, avaricia, gula, lujuria. Estos son los siete pecados capitales que personifican siete chicas que gobieran la Academia Biblia. Para retomar el mundo, el muchacho decide que ha de controlar esos pecados... Su nombre es Arata Kasuga, vive en un mundo e el que se ha dado un misterioso fenómeno y su primo Hijiri desaparece en otra dimensión. Para comprender qué fue el fenómeno y recuperar a su primo, llega a la Academia Biblia. Allí se encuentra con las siete chicas y sus pecados.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/trinity-seven.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/trinity-seven/",
+  "episodios": [
+    {
+      "id_origen": 25021,
+      "numero": 1,
+      "titulo": "Trinity Seven - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a6691c609e4d04769c91b4b6f2d5358.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven/1/",
+      "publicado_en_origen": "2014-10-07 12:44:31"
+    },
+    {
+      "id_origen": 25083,
+      "numero": 2,
+      "titulo": "Trinity Seven - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0513535543a50eb3038a8e06541be1d.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven/2/",
+      "publicado_en_origen": "2014-10-14 12:51:04"
+    },
+    {
+      "id_origen": 25154,
+      "numero": 3,
+      "titulo": "Trinity Seven - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d21555f006e86254e92c2b77463def4f.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven/3/",
+      "publicado_en_origen": "2014-10-21 12:45:35"
+    },
+    {
+      "id_origen": 25221,
+      "numero": 4,
+      "titulo": "Trinity Seven - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fc4698a9539a70b368c5aa9736c49eb.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven/4/",
+      "publicado_en_origen": "2014-10-28 12:43:57"
+    },
+    {
+      "id_origen": 25299,
+      "numero": 5,
+      "titulo": "Trinity Seven - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8631f219500638a09ee08a3033f25f43.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven/5/",
+      "publicado_en_origen": "2014-11-04 13:47:15"
+    },
+    {
+      "id_origen": 25366,
+      "numero": 6,
+      "titulo": "Trinity Seven - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d1e0d602ebcba3dec4cff58832c7181.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven/6/",
+      "publicado_en_origen": "2014-11-11 14:05:13"
+    },
+    {
+      "id_origen": 25496,
+      "numero": 7,
+      "titulo": "Trinity Seven - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18cd1cd589e0558e181846f152da973f.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven/7/",
+      "publicado_en_origen": "2014-11-18 13:49:23"
+    },
+    {
+      "id_origen": 25565,
+      "numero": 8,
+      "titulo": "Trinity Seven - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05b755ace5b49029e32c3b90fb494edc.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven/8/",
+      "publicado_en_origen": "2014-11-25 13:46:54"
+    },
+    {
+      "id_origen": 25640,
+      "numero": 9,
+      "titulo": "Trinity Seven - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d52545723cdb94f70adc8e8801419d55.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven/9/",
+      "publicado_en_origen": "2014-12-02 13:52:09"
+    },
+    {
+      "id_origen": 25728,
+      "numero": 10,
+      "titulo": "Trinity Seven - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a42cee5beade943c792c4a9f5fe2a63.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven/10/",
+      "publicado_en_origen": "2014-12-09 13:45:22"
+    },
+    {
+      "id_origen": 25834,
+      "numero": 11,
+      "titulo": "Trinity Seven - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b7d57fcc92d7f0da6abcb760754e269.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven/11/",
+      "publicado_en_origen": "2014-12-16 14:02:44"
+    },
+    {
+      "id_origen": 25937,
+      "numero": 12,
+      "titulo": "Trinity Seven - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5adb85581aa66bbf34bd34f6c45699c.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven/12/",
+      "publicado_en_origen": "2014-12-23 13:50:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1307",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:50:12+00:00"
+}

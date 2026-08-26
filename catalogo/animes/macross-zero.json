@@ -1,0 +1,61 @@
+{
+  "id_origen": 443,
+  "slug": "macross-zero",
+  "titulo": "Macross Zero",
+  "titulo_corto": "Macross Zero",
+  "sinopsis": "Es la precuela del anime The Super Dimension Fortress Macross. La historia se desarrolla 9 años después de la caída de una nave alienígena en la tierra (SDF-1 Macross) y un año antes de la primera guerra contra los Zentraedi. La trama se centra en un joven de nombre Shin Kudō, piloto de un F-14 de la U.N, cuyo avión es derribado por un misterioso caza, con la capacidad de transformarse en un humanoide cayendo sobre una isla conocida como Mayan ahi conoce a Sara y a Mao iniciando un triangulo amoroso , junto a la lucha contra las prototopos de VF.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/macross-zero.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/macross-zero/",
+  "episodios": [
+    {
+      "id_origen": 13022,
+      "numero": 1,
+      "titulo": "Macross Zero - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_250202b148644c266354b266afe7b9d6.jpg",
+      "url_origen": "https://jkanime.net/macross-zero/1/",
+      "publicado_en_origen": "2011-10-29 13:07:54"
+    },
+    {
+      "id_origen": 13023,
+      "numero": 2,
+      "titulo": "Macross Zero - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e593c72c99d0926835c128741499c53.jpg",
+      "url_origen": "https://jkanime.net/macross-zero/2/",
+      "publicado_en_origen": "2011-10-29 13:07:54"
+    },
+    {
+      "id_origen": 13024,
+      "numero": 3,
+      "titulo": "Macross Zero - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa2274da762c785b62434386a4e80f6d.jpg",
+      "url_origen": "https://jkanime.net/macross-zero/3/",
+      "publicado_en_origen": "2011-10-29 13:07:54"
+    },
+    {
+      "id_origen": 13025,
+      "numero": 4,
+      "titulo": "Macross Zero - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58426cf937eb05143f82b6d41e8968bd.jpg",
+      "url_origen": "https://jkanime.net/macross-zero/4/",
+      "publicado_en_origen": "2011-10-29 13:07:54"
+    },
+    {
+      "id_origen": 13026,
+      "numero": 5,
+      "titulo": "Macross Zero - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14ee3cfc17b13a0f35bc3c22476ff77f.jpg",
+      "url_origen": "https://jkanime.net/macross-zero/5/",
+      "publicado_en_origen": "2011-10-29 13:07:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "443",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:37:03+00:00"
+}

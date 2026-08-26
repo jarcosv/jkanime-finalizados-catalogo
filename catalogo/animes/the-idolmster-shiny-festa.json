@@ -1,0 +1,45 @@
+{
+  "id_origen": 1363,
+  "slug": "the-idolmster-shiny-festa",
+  "titulo": "The iDOLM@STER: Shiny Festa",
+  "titulo_corto": "The iDOLM@STER: Shiny Festa",
+  "sinopsis": "Nuevos episodios de anime liberados con cada uno de los tres juegos Idolmaster Shiny Festa PSP (Honey Sound, Funky Note, and Groovy Tune).",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/the-idolmster-shiny-festa.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/the-idolmster-shiny-festa/",
+  "episodios": [
+    {
+      "id_origen": 25775,
+      "numero": 1,
+      "titulo": "The iDOLM@STER: Shiny Festa - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/the-idolmster-shiny-festa.jpg",
+      "url_origen": "https://jkanime.net/the-idolmster-shiny-festa/1/",
+      "publicado_en_origen": "2014-12-11 18:14:27"
+    },
+    {
+      "id_origen": 25776,
+      "numero": 2,
+      "titulo": "The iDOLM@STER: Shiny Festa - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/the-idolmster-shiny-festa.jpg",
+      "url_origen": "https://jkanime.net/the-idolmster-shiny-festa/2/",
+      "publicado_en_origen": "2014-12-11 18:14:27"
+    },
+    {
+      "id_origen": 25777,
+      "numero": 3,
+      "titulo": "The iDOLM@STER: Shiny Festa - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/the-idolmster-shiny-festa.jpg",
+      "url_origen": "https://jkanime.net/the-idolmster-shiny-festa/3/",
+      "publicado_en_origen": "2014-12-11 18:14:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1363",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:49:23+00:00"
+}

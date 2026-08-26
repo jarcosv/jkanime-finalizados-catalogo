@@ -1,0 +1,69 @@
+{
+  "id_origen": 2381,
+  "slug": "zoku-owarimonogatari",
+  "titulo": "Zoku Owarimonogatari",
+  "titulo_corto": "Zoku Owarimonogatari",
+  "sinopsis": "Ultima adaptación por parte de Shaft de las novelas de Monogatari, escritas por Nishio Ishin.\nOcurre posterior a los sucesos de Owarimonogatari parte 2. Araragi Koyomi, el día siguiente a su graduación, se encuentra en una especie de limbo al darse cuenta de que ya no es ni estudiante de preparatoria ni de universidad. Luego de mirarse al espejo se da cuenta que su reflejo lo está observando, aun después de que este bajo su cara. Al intentar tocar el espejo ocurre algo extraño. Araragi entra a un mundo bastante peculiar, con una Karen más baja de lo normal, una Ononoki expresiva, una Hachikuji adulta, etc.\n Un mundo reflexivo, un mundo que refleja los arrepentimientos de los personajes… Es la continuación del fin de la historia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/zoku-owarimonogatari.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/zoku-owarimonogatari/",
+  "episodios": [
+    {
+      "id_origen": 39057,
+      "numero": 1,
+      "titulo": "Zoku Owarimonogatari - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_655acbb5e441e03f9662509d41e4c74e.jpg",
+      "url_origen": "https://jkanime.net/zoku-owarimonogatari/1/",
+      "publicado_en_origen": "2019-03-02 04:15:15"
+    },
+    {
+      "id_origen": 39192,
+      "numero": 2,
+      "titulo": "Zoku Owarimonogatari - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e25bf3c43cedb0dc08164d55cdff9f01.jpg",
+      "url_origen": "https://jkanime.net/zoku-owarimonogatari/2/",
+      "publicado_en_origen": "2019-03-07 20:24:40"
+    },
+    {
+      "id_origen": 39193,
+      "numero": 3,
+      "titulo": "Zoku Owarimonogatari - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98a64c8df299f3ea153b18fa25977625.jpg",
+      "url_origen": "https://jkanime.net/zoku-owarimonogatari/3/",
+      "publicado_en_origen": "2019-03-07 20:24:49"
+    },
+    {
+      "id_origen": 39443,
+      "numero": 4,
+      "titulo": "Zoku Owarimonogatari - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c5cf32a0d6a4060b380af168158a146.jpg",
+      "url_origen": "https://jkanime.net/zoku-owarimonogatari/4/",
+      "publicado_en_origen": "2019-03-30 01:48:33"
+    },
+    {
+      "id_origen": 39444,
+      "numero": 5,
+      "titulo": "Zoku Owarimonogatari - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d821f9d210b3b0ec98f18bf84253c0f.jpg",
+      "url_origen": "https://jkanime.net/zoku-owarimonogatari/5/",
+      "publicado_en_origen": "2019-03-30 01:48:40"
+    },
+    {
+      "id_origen": 39445,
+      "numero": 6,
+      "titulo": "Zoku Owarimonogatari - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_935e35865cbae77d52ea3dfd33edb576.jpg",
+      "url_origen": "https://jkanime.net/zoku-owarimonogatari/6/",
+      "publicado_en_origen": "2019-03-30 01:48:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2381",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:54:04+00:00"
+}

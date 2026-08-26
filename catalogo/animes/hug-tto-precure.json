@@ -1,0 +1,413 @@
+{
+  "id_origen": 4610,
+  "slug": "hug-tto-precure",
+  "titulo": "Hug tto! Precure",
+  "titulo_corto": "Hug tto! Precure",
+  "sinopsis": "Es su primer día en una nueva escuela, y la alegre Hana Nono está lista para empezar de cero, soñando con convertirse en una persona madura y responsable, muy diferente de su habitual yo infantil. Aunque causa una pésima primera impresión, Hana pronto se hace amiga de dos de sus compañeras de clase: la amable y estudiosa delegada de la clase, Saaya Yakushiji, y una chica misteriosa y tranquila, Homare Kagayaki.\r\n\r\nEsa noche, un bebé mágico cae del cielo directamente al balcón de Hana. Ella se enamora inmediatamente de ella y la llama Hug-tan. Junto a Hug-tan hay un hámster sarcástico que habla, Hariham Harry, que murmura que Hana «no es la elegida» antes de desaparecer con el bebé.\r\n\r\nAl día siguiente, Hana cree que el encuentro ha sido un sueño, hasta que la gente de toda la ciudad comienza a desmayarse y aparece un monstruo gigante que se alimenta de su energía. Mientras Hana huye, ve a Hug-tan y Harry siendo atacados. Para protegerlos, ella y Hug-tan brillan de repente con energía y se forma una gema en forma de corazón.\r\n\r\nCon el poder del cristal, Hana se transforma en una heroína llamada «Cure Yell» y derrota al monstruo. Sorprendido por el poder de Hana, Harry le explica que él y Hug-tan provienen de un futuro congelado en el tiempo por la Corporación Criasu, la misma organización que creó al monstruo. Solo los Cristales del Futuro, manifestaciones de las esperanzas y los sueños de cada uno, y las Precure que crean tienen la posibilidad de derrotar a Criasu y salvar el futuro.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hug-tto-precure.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hug-tto-precure/",
+  "episodios": [
+    {
+      "id_origen": 71253,
+      "numero": 1,
+      "titulo": "Hug tto! Precure - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5276cebb5571b040cdac51ace5f0efb6.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/1/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71254,
+      "numero": 2,
+      "titulo": "Hug tto! Precure - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b460d9f0a0706193b4269e3e96f56eb5.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/2/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71255,
+      "numero": 3,
+      "titulo": "Hug tto! Precure - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bef0a959a8cd20866bb6e151c62dfdc.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/3/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71256,
+      "numero": 4,
+      "titulo": "Hug tto! Precure - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2586d8e41ad7fd62b9151017019d9345.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/4/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71257,
+      "numero": 5,
+      "titulo": "Hug tto! Precure - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_642316b5b857bb2d4a0f508de28b833f.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/5/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71258,
+      "numero": 6,
+      "titulo": "Hug tto! Precure - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a0961388291500081fbd38c1ff711ee.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/6/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71259,
+      "numero": 7,
+      "titulo": "Hug tto! Precure - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3da1f66daa05a714c6883991d1555f3.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/7/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71260,
+      "numero": 8,
+      "titulo": "Hug tto! Precure - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50769ed72afcc7152a16bd2e77c2c9cd.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/8/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71261,
+      "numero": 9,
+      "titulo": "Hug tto! Precure - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17106dc59a36e0895a05653db496707a.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/9/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71262,
+      "numero": 10,
+      "titulo": "Hug tto! Precure - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7666de86004b5db2946dbe334f67e09f.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/10/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71263,
+      "numero": 11,
+      "titulo": "Hug tto! Precure - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d0cdda5ffeac809753506708979ef02.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/11/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71264,
+      "numero": 12,
+      "titulo": "Hug tto! Precure - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fcd14eb0ace209fd631d9f0b06eb9b8.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/12/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71265,
+      "numero": 13,
+      "titulo": "Hug tto! Precure - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbf7733347c26d6fd849d7a2e2fd67c9.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/13/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71266,
+      "numero": 14,
+      "titulo": "Hug tto! Precure - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_117bfae6c4903d95d0ed1bbfe4fce6d5.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/14/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71267,
+      "numero": 15,
+      "titulo": "Hug tto! Precure - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b570280a1dd94d6414ba635d5a87bd85.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/15/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71268,
+      "numero": 16,
+      "titulo": "Hug tto! Precure - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37975fd9042a719992368b823144b136.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/16/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71269,
+      "numero": 17,
+      "titulo": "Hug tto! Precure - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da1f018c59796f10824986039dd00613.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/17/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71270,
+      "numero": 18,
+      "titulo": "Hug tto! Precure - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21c2409713d8a3ec6e489b8fa0741315.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/18/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71271,
+      "numero": 19,
+      "titulo": "Hug tto! Precure - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26220ef36f1c8e10ecd207d36a520e67.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/19/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71272,
+      "numero": 20,
+      "titulo": "Hug tto! Precure - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bcfc2a3c1f518c2e29f1f8ca9f42ad3.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/20/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71273,
+      "numero": 21,
+      "titulo": "Hug tto! Precure - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8b5de9e85ffc4d7c61309e53c1e00aa.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/21/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71274,
+      "numero": 22,
+      "titulo": "Hug tto! Precure - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0ab27421a30952fff3b6e05aa56404a.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/22/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71275,
+      "numero": 23,
+      "titulo": "Hug tto! Precure - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a233c674a0809f36da7e6ac425ec0e4.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/23/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71276,
+      "numero": 24,
+      "titulo": "Hug tto! Precure - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e037f987960912f79b0ede5a5c79dec1.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/24/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71277,
+      "numero": 25,
+      "titulo": "Hug tto! Precure - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a336694eabc1d07e90b1b9c5b7e793cb.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/25/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71278,
+      "numero": 26,
+      "titulo": "Hug tto! Precure - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b9c7c33839e3baa1924c949b5f3f019.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/26/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71279,
+      "numero": 27,
+      "titulo": "Hug tto! Precure - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5aa634859e18d074723b82abe7328e5b.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/27/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71280,
+      "numero": 28,
+      "titulo": "Hug tto! Precure - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1217d45546b322de6a1e7acae6915572.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/28/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71281,
+      "numero": 29,
+      "titulo": "Hug tto! Precure - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_659c5407ef6bfd4bc773fc4318611bc9.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/29/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71282,
+      "numero": 30,
+      "titulo": "Hug tto! Precure - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddaa222d26a181a0016da574060d5feb.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/30/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71283,
+      "numero": 31,
+      "titulo": "Hug tto! Precure - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7bf5719022d2ce03e71fe5d4b7824b3.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/31/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71284,
+      "numero": 32,
+      "titulo": "Hug tto! Precure - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ed20868f0da3e535e8ea1e5f2e8fff7.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/32/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71285,
+      "numero": 33,
+      "titulo": "Hug tto! Precure - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7681893ac9b6aa0a47a8a9d517623a7.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/33/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71286,
+      "numero": 34,
+      "titulo": "Hug tto! Precure - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f3bce1b6af4a7c136daa9463b136eff.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/34/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71287,
+      "numero": 35,
+      "titulo": "Hug tto! Precure - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71590a698957fe5982d08a0d49f3743e.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/35/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71288,
+      "numero": 36,
+      "titulo": "Hug tto! Precure - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_027d9e3dc8b92fb4c1788e22853309ac.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/36/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71289,
+      "numero": 37,
+      "titulo": "Hug tto! Precure - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c6d976bfbf4732488d2363d1e7ba4b5.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/37/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71290,
+      "numero": 38,
+      "titulo": "Hug tto! Precure - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ffd323b57cdc7f89680475b3e282a4d.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/38/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71291,
+      "numero": 39,
+      "titulo": "Hug tto! Precure - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa85c307c001a944e8d7bcb303b95565.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/39/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71292,
+      "numero": 40,
+      "titulo": "Hug tto! Precure - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8f2fc5c01299fe32a82db868933c7e2.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/40/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71293,
+      "numero": 41,
+      "titulo": "Hug tto! Precure - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59e1944e9b92ea71a687a62f5d6d745e.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/41/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71294,
+      "numero": 42,
+      "titulo": "Hug tto! Precure - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2efd4e4afa82bc1d3880e30db870dc84.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/42/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71295,
+      "numero": 43,
+      "titulo": "Hug tto! Precure - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e8eea35bb614501842cc7ef6268bbf8.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/43/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71296,
+      "numero": 44,
+      "titulo": "Hug tto! Precure - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24f6bf9b054f921f3562ff845ca47ed7.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/44/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71297,
+      "numero": 45,
+      "titulo": "Hug tto! Precure - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fd2a443ff9bbb7adb82ca20d69916ed.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/45/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71298,
+      "numero": 46,
+      "titulo": "Hug tto! Precure - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ebb8938543d91d9ef2257a5ce9ad740.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/46/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71299,
+      "numero": 47,
+      "titulo": "Hug tto! Precure - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6640eb5586aa3c94504a3c90f0b5a4cb.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/47/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71300,
+      "numero": 48,
+      "titulo": "Hug tto! Precure - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84c31ea3d20d44c5d60ffa900b798f7f.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/48/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    },
+    {
+      "id_origen": 71301,
+      "numero": 49,
+      "titulo": "Hug tto! Precure - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ab1aae26f774c0b452e0bda68d7d4b1.jpg",
+      "url_origen": "https://jkanime.net/hug-tto-precure/49/",
+      "publicado_en_origen": "2026-02-05 15:06:45"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:19+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4610",
+  "cantidad_episodios_declarada": 49,
+  "detalle_extraido_en": "2026-08-26T18:31:15+00:00"
+}

@@ -1,0 +1,101 @@
+{
+  "id_origen": 1499,
+  "slug": "ghost-in-the-shell-arise-alternative-architecture",
+  "titulo": "Ghost in the Shell: Arise - Alternative Architecture",
+  "titulo_corto": "Ghost in the Shell: Arise - Al...",
+  "sinopsis": "La historia se sitúa en el año 2027, justo un año después de la Cuarta Guerra Mundial.\n\nEnmarcado dentro de un ambiente futurista, los seres humanos han sido capaces de incorporar implantes cibernéticos en su cuerpo y con esto logran aumentar sus capacidades naturales. La cibernetización y los robots son algo común y muy habitual en este ámbito netamente cyber-punk. La Mayor Motoko Kusanagi, se verá involucrada en una investigación criminal cibernética.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ghost-in-the-shell-arise-alternative-architecture.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ghost-in-the-shell-arise-alternative-architecture/",
+  "episodios": [
+    {
+      "id_origen": 27398,
+      "numero": 1,
+      "titulo": "Ghost in the Shell: Arise - Alternative Architecture - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01cb0cfa4ce10d2c3af203bc2bf8cc32.jpg",
+      "url_origen": "https://jkanime.net/ghost-in-the-shell-arise-alternative-architecture/1/",
+      "publicado_en_origen": "2015-04-05 18:35:55"
+    },
+    {
+      "id_origen": 27468,
+      "numero": 2,
+      "titulo": "Ghost in the Shell: Arise - Alternative Architecture - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b2c7855c5faccdeff256f74eb0ca58b.jpg",
+      "url_origen": "https://jkanime.net/ghost-in-the-shell-arise-alternative-architecture/2/",
+      "publicado_en_origen": "2015-04-12 12:08:46"
+    },
+    {
+      "id_origen": 27538,
+      "numero": 3,
+      "titulo": "Ghost in the Shell: Arise - Alternative Architecture - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_509ea0c1f4a210534eb004d35c10aa2d.jpg",
+      "url_origen": "https://jkanime.net/ghost-in-the-shell-arise-alternative-architecture/3/",
+      "publicado_en_origen": "2015-04-19 12:14:19"
+    },
+    {
+      "id_origen": 27609,
+      "numero": 4,
+      "titulo": "Ghost in the Shell: Arise - Alternative Architecture - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0dbcc22a131326b8056b0c26d845dda3.jpg",
+      "url_origen": "https://jkanime.net/ghost-in-the-shell-arise-alternative-architecture/4/",
+      "publicado_en_origen": "2015-04-26 19:38:59"
+    },
+    {
+      "id_origen": 27664,
+      "numero": 5,
+      "titulo": "Ghost in the Shell: Arise - Alternative Architecture - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8af7aa91dea57ef40a8a11afea500470.jpg",
+      "url_origen": "https://jkanime.net/ghost-in-the-shell-arise-alternative-architecture/5/",
+      "publicado_en_origen": "2015-05-03 11:37:38"
+    },
+    {
+      "id_origen": 27726,
+      "numero": 6,
+      "titulo": "Ghost in the Shell: Arise - Alternative Architecture - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98a81153211bc18454fd5747da413e57.jpg",
+      "url_origen": "https://jkanime.net/ghost-in-the-shell-arise-alternative-architecture/6/",
+      "publicado_en_origen": "2015-05-10 11:37:00"
+    },
+    {
+      "id_origen": 27791,
+      "numero": 7,
+      "titulo": "Ghost in the Shell: Arise - Alternative Architecture - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_653408ba8d3fe565f0b8a4b8aa123012.jpg",
+      "url_origen": "https://jkanime.net/ghost-in-the-shell-arise-alternative-architecture/7/",
+      "publicado_en_origen": "2015-05-17 11:47:15"
+    },
+    {
+      "id_origen": 27857,
+      "numero": 8,
+      "titulo": "Ghost in the Shell: Arise - Alternative Architecture - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42261fcdb3fa72a280e5adbb43bda240.jpg",
+      "url_origen": "https://jkanime.net/ghost-in-the-shell-arise-alternative-architecture/8/",
+      "publicado_en_origen": "2015-05-24 12:19:16"
+    },
+    {
+      "id_origen": 27977,
+      "numero": 9,
+      "titulo": "Ghost in the Shell: Arise - Alternative Architecture - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2178a85d98105125bd097efba25a803b.jpg",
+      "url_origen": "https://jkanime.net/ghost-in-the-shell-arise-alternative-architecture/9/",
+      "publicado_en_origen": "2015-06-07 11:39:52"
+    },
+    {
+      "id_origen": 28372,
+      "numero": 10,
+      "titulo": "Ghost in the Shell: Arise - Alternative Architecture - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd2cc2088b77d344f7b5ec13e6ff4922.jpg",
+      "url_origen": "https://jkanime.net/ghost-in-the-shell-arise-alternative-architecture/10/",
+      "publicado_en_origen": "2015-06-14 11:37:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1499",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:28:10+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1384,
+  "slug": "naruto-shippuuden-movie-7-the-last",
+  "titulo": "Naruto: Shippuuden Movie 7 - The Last",
+  "titulo_corto": "Naruto: Shippuuden Movie 7 - T...",
+  "sinopsis": "La luna está empezando a caer, y al ritmo que va , esta condenada a caer en la Tierra . La cuenta atrás para la supervivencia del planeta comienza . Entre el caos , la hermana menor de Hinata Hanabi es capturado por el enemigo misterioso , Toneri Ootsutsuki",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/naruto-shippuuden-movie-7-the-last.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/naruto-shippuuden-movie-7-the-last/",
+  "episodios": [
+    {
+      "id_origen": 28801,
+      "numero": 1,
+      "titulo": "Naruto: Shippuuden Movie 7 - The Last - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd675b153ecc803a1bac6aad641085c5.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuuden-movie-7-the-last/1/",
+      "publicado_en_origen": "2015-07-23 16:05:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1384",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:58+00:00"
+}

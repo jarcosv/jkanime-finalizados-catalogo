@@ -1,0 +1,117 @@
+{
+  "id_origen": 2740,
+  "slug": "guraburu",
+  "titulo": "Guraburu!",
+  "titulo_corto": "Guraburu!",
+  "sinopsis": "Adaptación al anime de Guraburu !, que es manga 4-koma de Granblue Fantasy.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/guraburu.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/guraburu/",
+  "episodios": [
+    {
+      "id_origen": 43678,
+      "numero": 1,
+      "titulo": "Guraburu! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51bb254d1af7e6d9c5c43be0f7aeabca.jpg",
+      "url_origen": "https://jkanime.net/guraburu/1/",
+      "publicado_en_origen": "2020-10-08 13:18:33"
+    },
+    {
+      "id_origen": 43728,
+      "numero": 2,
+      "titulo": "Guraburu! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f965c065283291a0e230fa53cd94e242.jpg",
+      "url_origen": "https://jkanime.net/guraburu/2/",
+      "publicado_en_origen": "2020-10-15 09:51:31"
+    },
+    {
+      "id_origen": 43785,
+      "numero": 3,
+      "titulo": "Guraburu! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50265c271897a3399857d05aee3df4f5.jpg",
+      "url_origen": "https://jkanime.net/guraburu/3/",
+      "publicado_en_origen": "2020-10-22 10:31:41"
+    },
+    {
+      "id_origen": 43845,
+      "numero": 4,
+      "titulo": "Guraburu! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1306c03a55fa10ba20fa30bc3b098338.jpg",
+      "url_origen": "https://jkanime.net/guraburu/4/",
+      "publicado_en_origen": "2020-10-29 13:25:04"
+    },
+    {
+      "id_origen": 43901,
+      "numero": 5,
+      "titulo": "Guraburu! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_295ade13c3d8aa09b542b332336a852d.jpg",
+      "url_origen": "https://jkanime.net/guraburu/5/",
+      "publicado_en_origen": "2020-11-06 08:48:08"
+    },
+    {
+      "id_origen": 43953,
+      "numero": 6,
+      "titulo": "Guraburu! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8164aef00b1608446b1770236e5e6032.jpg",
+      "url_origen": "https://jkanime.net/guraburu/6/",
+      "publicado_en_origen": "2020-11-13 11:27:35"
+    },
+    {
+      "id_origen": 44052,
+      "numero": 7,
+      "titulo": "Guraburu! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_009ff90f082aaa9fcd6e14caf65c7cc6.jpg",
+      "url_origen": "https://jkanime.net/guraburu/7/",
+      "publicado_en_origen": "2020-11-26 11:10:53"
+    },
+    {
+      "id_origen": 44106,
+      "numero": 8,
+      "titulo": "Guraburu! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af510bf0d85300a0865178e3cd99e6c3.jpg",
+      "url_origen": "https://jkanime.net/guraburu/8/",
+      "publicado_en_origen": "2020-12-03 11:08:01"
+    },
+    {
+      "id_origen": 44114,
+      "numero": 9,
+      "titulo": "Guraburu! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e4bb9409318b6d3303cb415a351674f.jpg",
+      "url_origen": "https://jkanime.net/guraburu/9/",
+      "publicado_en_origen": "2020-12-04 11:04:33"
+    },
+    {
+      "id_origen": 44169,
+      "numero": 10,
+      "titulo": "Guraburu! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8520871e749a7ea9fb362d1805f28be.jpg",
+      "url_origen": "https://jkanime.net/guraburu/10/",
+      "publicado_en_origen": "2020-12-10 14:31:37"
+    },
+    {
+      "id_origen": 44225,
+      "numero": 11,
+      "titulo": "Guraburu! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3ce42e434c7ec5146e8d29336ee393e.jpg",
+      "url_origen": "https://jkanime.net/guraburu/11/",
+      "publicado_en_origen": "2020-12-17 10:22:32"
+    },
+    {
+      "id_origen": 44349,
+      "numero": 12,
+      "titulo": "Guraburu! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec2951e5afb60d72a4a3e0be6d3e9c0a.jpg",
+      "url_origen": "https://jkanime.net/guraburu/12/",
+      "publicado_en_origen": "2021-01-09 00:29:46"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:03+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2740",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:29:20+00:00"
+}

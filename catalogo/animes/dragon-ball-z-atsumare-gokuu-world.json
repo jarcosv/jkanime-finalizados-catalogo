@@ -1,0 +1,29 @@
+{
+  "id_origen": 4739,
+  "slug": "dragon-ball-z-atsumare-gokuu-world",
+  "titulo": "Dragon Ball Z: Atsumare! Gokuu World",
+  "titulo_corto": "Dragon Ball Z: Atsumare! Gokuu...",
+  "sinopsis": "Dragon Ball Z: ¡Reúnanse! El mundo de Goku es un videojuego de Terebikko. En este OVA, Goku y sus amigos plantean preguntas a los espectadores sobre la serie Dragon Ball.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-z-atsumare-gokuu-world.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-z-atsumare-gokuu-world/",
+  "episodios": [
+    {
+      "id_origen": 73503,
+      "numero": 1,
+      "titulo": "Dragon Ball Z: Atsumare! Gokuu World",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c49184f0b2e0983d9d6bd41970c9ac2d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z-atsumare-gokuu-world/1/",
+      "publicado_en_origen": "2026-05-28 18:08:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4739",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:51+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1722,
+  "slug": "aoharu-x-kikanjuu-special",
+  "titulo": "Aoharu x Kikanjuu Special",
+  "titulo_corto": "Aoharu x Kikanjuu Special",
+  "sinopsis": "Treceavo Episodio de Aoharu x Kikanjuu",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/aoharu-x-kikanjuu-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/aoharu-x-kikanjuu-special/",
+  "episodios": [
+    {
+      "id_origen": 30468,
+      "numero": 1,
+      "titulo": "Aoharu x Kikanjuu Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3ccd20199b9c2d6faa5eb83259a84cd.jpg",
+      "url_origen": "https://jkanime.net/aoharu-x-kikanjuu-special/1/",
+      "publicado_en_origen": "2015-12-28 17:46:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1722",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:17:10+00:00"
+}

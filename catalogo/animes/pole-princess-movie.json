@@ -1,0 +1,29 @@
+{
+  "id_origen": 4021,
+  "slug": "pole-princess-movie",
+  "titulo": "Pole Princess!! Movie",
+  "titulo_corto": "Pole Princess!! Movie",
+  "sinopsis": "La historia se centra en la competición «Pole Dance Japan Cup», donde la protagonista Hinano Hoshikita y sus amigas competirán como las Princesas Galaxy. Competirán con el equipo cuatro veces campeón de la competición, Aile d'Ange.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pole-princess-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pole-princess-movie/",
+  "episodios": [
+    {
+      "id_origen": 62138,
+      "numero": 1,
+      "titulo": "Pole Princess!! Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50f10693be3313fb5b23b1132b865dcd.jpg",
+      "url_origen": "https://jkanime.net/pole-princess-movie/1/",
+      "publicado_en_origen": "2025-03-02 13:12:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4021",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:42:41+00:00"
+}

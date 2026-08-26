@@ -1,0 +1,125 @@
+{
+  "id_origen": 4382,
+  "slug": "tensei-akujo-no-kuro-rekishi",
+  "titulo": "Tensei Akujo no Kuro Rekishi",
+  "titulo_corto": "Tensei Akujo no Kuro Rekishi",
+  "sinopsis": "Konoha Satou tiene un pasado oscuro. Después de todo, pasó su adolescencia escribiendo relatos románticos fantásticos autoindulgentes, como su Dark History. Pero desde que se ha convertido en su villana más despreciable, recordar hasta el último detalle es ahora una cuestión de vida o muerte. Tras haber evitado las primeras señales de muerte, Satou se ve de repente sumida en la oscuridad cuando un misterioso desconocido regresa del Reino de Lily, un personaje que no recuerda haber escrito en el guion original. Aunque Yomi afirma ser su aliado, ¿puede Satou confiar realmente en un personaje del que no sabe nada en un mundo tan peligroso?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tensei-akujo-no-kuro-rekishi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/",
+  "episodios": [
+    {
+      "id_origen": 67895,
+      "numero": 1,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b6d9a15292d3cf7f2098467f6e703fb.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/1/",
+      "publicado_en_origen": "2025-10-08 16:31:58"
+    },
+    {
+      "id_origen": 68055,
+      "numero": 2,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76ab2275a5b1000dc46310d1f7128880.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/2/",
+      "publicado_en_origen": "2025-10-15 17:15:53"
+    },
+    {
+      "id_origen": 68178,
+      "numero": 3,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f57cd5deaba9a17da56f75a78cd5d088.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/3/",
+      "publicado_en_origen": "2025-10-22 17:16:13"
+    },
+    {
+      "id_origen": 68391,
+      "numero": 4,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f35729990218785192227a76d4a5c3d.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/4/",
+      "publicado_en_origen": "2025-10-29 16:53:12"
+    },
+    {
+      "id_origen": 68528,
+      "numero": 5,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b400f431110855c1c0aced0650ae731c.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/5/",
+      "publicado_en_origen": "2025-11-05 16:08:05"
+    },
+    {
+      "id_origen": 68699,
+      "numero": 6,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d8be8558d306c2ce843794a8eadbcc0.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/6/",
+      "publicado_en_origen": "2025-11-12 17:48:48"
+    },
+    {
+      "id_origen": 68832,
+      "numero": 7,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59621b8c2ae16d95c8d164f55d6afea5.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/7/",
+      "publicado_en_origen": "2025-11-19 17:28:04"
+    },
+    {
+      "id_origen": 68946,
+      "numero": 8,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f48e316731b98c54e1197b44fee62db.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/8/",
+      "publicado_en_origen": "2025-11-26 18:11:58"
+    },
+    {
+      "id_origen": 69475,
+      "numero": 9,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9c2652e70803cfdfb3177a92c3ada80.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/9/",
+      "publicado_en_origen": "2025-12-03 16:45:50"
+    },
+    {
+      "id_origen": 69838,
+      "numero": 10,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa645d69a4def0a43952a345d40623d5.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/10/",
+      "publicado_en_origen": "2025-12-10 16:21:56"
+    },
+    {
+      "id_origen": 70131,
+      "numero": 11,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b109322f47113d76ce5e6fc9140d1c7d.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/11/",
+      "publicado_en_origen": "2025-12-17 17:50:48"
+    },
+    {
+      "id_origen": 70319,
+      "numero": 12,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b52ebbda16724e9646de9c1899fb23f0.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/12/",
+      "publicado_en_origen": "2025-12-24 17:07:06"
+    },
+    {
+      "id_origen": 72397,
+      "numero": 13,
+      "titulo": "Tensei Akujo no Kuro Rekishi - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2114c2f35d32cdcc6f8572fddb3664aa.jpg",
+      "url_origen": "https://jkanime.net/tensei-akujo-no-kuro-rekishi/13/",
+      "publicado_en_origen": "2026-04-04 16:23:56"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:23+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4382",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:48:58+00:00"
+}

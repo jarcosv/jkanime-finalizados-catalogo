@@ -1,0 +1,37 @@
+{
+  "id_origen": 1256,
+  "slug": "blade-soul-specials",
+  "titulo": "Blade & Soul Specials",
+  "titulo_corto": "Blade & Soul Specials",
+  "sinopsis": "Pequeños especiales incluidos en los Blu-rays y DVDs de Blade and Soul",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/blade-soul-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/blade-soul-specials/",
+  "episodios": [
+    {
+      "id_origen": 24743,
+      "numero": 1,
+      "titulo": "Blade & Soul Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/blade-soul-specials.jpg",
+      "url_origen": "https://jkanime.net/blade-soul-specials/1/",
+      "publicado_en_origen": "2014-09-12 17:00:10"
+    },
+    {
+      "id_origen": 24744,
+      "numero": 2,
+      "titulo": "Blade & Soul Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/blade-soul-specials.jpg",
+      "url_origen": "https://jkanime.net/blade-soul-specials/2/",
+      "publicado_en_origen": "2014-09-12 17:00:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1256",
+  "cantidad_episodios_declarada": 7,
+  "detalle_extraido_en": "2026-08-26T18:20:14+00:00"
+}

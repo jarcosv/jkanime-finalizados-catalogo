@@ -1,0 +1,29 @@
+{
+  "id_origen": 993,
+  "slug": "is-infinite-stratos-2-hitonatsu-no-omoide",
+  "titulo": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
+  "titulo_corto": "IS: Infinite Stratos 2 - Hiton...",
+  "sinopsis": "Version Extendida del primer episodio de la segunda temporada, el cual lleva el mismo titulo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/is-infinite-stratos-2-hitonatsu-no-omoide.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/is-infinite-stratos-2-hitonatsu-no-omoide/",
+  "episodios": [
+    {
+      "id_origen": 21951,
+      "numero": 1,
+      "titulo": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae8bddcb177c34849249800dc684ac2c.jpg",
+      "url_origen": "https://jkanime.net/is-infinite-stratos-2-hitonatsu-no-omoide/1/",
+      "publicado_en_origen": "2013-11-12 13:06:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "993",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:32:04+00:00"
+}

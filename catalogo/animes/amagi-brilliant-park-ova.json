@@ -1,0 +1,29 @@
+{
+  "id_origen": 1573,
+  "slug": "amagi-brilliant-park-ova",
+  "titulo": "Amagi Brilliant Park OVA",
+  "titulo_corto": "Amagi Brilliant Park OVA",
+  "sinopsis": "OVA valida como episodio 14 incluido en el Blu-ray/DVD de Amagi Brilliant Park.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/amagi-brilliant-park-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/amagi-brilliant-park-ova/",
+  "episodios": [
+    {
+      "id_origen": 28554,
+      "numero": 1,
+      "titulo": "Amagi Brilliant Park OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_123f7670babac5a92883d9a7afb4262e.jpg",
+      "url_origen": "https://jkanime.net/amagi-brilliant-park-ova/1/",
+      "publicado_en_origen": "2015-06-25 12:57:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1573",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:16:19+00:00"
+}

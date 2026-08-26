@@ -1,0 +1,29 @@
+{
+  "id_origen": 632,
+  "slug": "persona-4-the-animation-no-one-is-alone",
+  "titulo": "Persona 4 The Animation: No One is Alone",
+  "titulo_corto": "Persona 4 The Animation: No On...",
+  "sinopsis": "Nuevo episodio, incluido como extra en el 10mo. Release de Blu-rays y DVDs de la Serie de Tv, Mostrando el verdadero final, adaptado del juego de PS2.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/persona-4-the-animation-no-one-is-alone.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/persona-4-the-animation-no-one-is-alone/",
+  "episodios": [
+    {
+      "id_origen": 16928,
+      "numero": 1,
+      "titulo": "Persona 4 The Animation: True Ending",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f042fe2d8c2e42a80c9cb8ffc652d914.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-animation-no-one-is-alone/1/",
+      "publicado_en_origen": "2012-08-31 15:25:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "632",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:42:05+00:00"
+}

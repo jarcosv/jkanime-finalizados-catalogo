@@ -1,0 +1,93 @@
+{
+  "id_origen": 65,
+  "slug": "rec",
+  "titulo": "Rec",
+  "titulo_corto": "Rec",
+  "sinopsis": "La historia narra las dificultades por las que pasa Onda Aka (aprendiz de actriz de doblaje) y Matsumaru Fumihiko un hombre común y corriente que trabaja como publicista en una empresa de comida.  Ambos se conocen por casualidad, y después de un incidente desagradable para Onda Matsumaru decide que viviran juntos; a partir de ese momento sus vidas cambian totalmente ya que ninguno de los dos antes había tenido algo de éxito en su vida profesional y es a partir de aquí que empiezan a ver la vida de otro modo, pero eso si, nadie puede descubrir que ambos viven juntos bajo el mismo techo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rec.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/rec/",
+  "episodios": [
+    {
+      "id_origen": 1335,
+      "numero": 1,
+      "titulo": "REC 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cb67ffb59554ab1dabb65bcb370ddd9.jpg",
+      "url_origen": "https://jkanime.net/rec/1/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1336,
+      "numero": 2,
+      "titulo": "REC 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d779cae2d46cf6a8a99a35ba4167977.jpg",
+      "url_origen": "https://jkanime.net/rec/2/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1337,
+      "numero": 3,
+      "titulo": "REC 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e48e13207341b6bffb7fb1622282247b.jpg",
+      "url_origen": "https://jkanime.net/rec/3/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1338,
+      "numero": 4,
+      "titulo": "REC 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05311655a15b75fab86956663e1819cd.jpg",
+      "url_origen": "https://jkanime.net/rec/4/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1339,
+      "numero": 5,
+      "titulo": "REC 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d10ec7c16cbe9de8fbb1c42787c3ec26.jpg",
+      "url_origen": "https://jkanime.net/rec/5/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1340,
+      "numero": 6,
+      "titulo": "REC 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f87658ef0de194413056248a00ce009.jpg",
+      "url_origen": "https://jkanime.net/rec/6/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1341,
+      "numero": 7,
+      "titulo": "REC 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33ebd5b07dc7e407752fe773eed20635.jpg",
+      "url_origen": "https://jkanime.net/rec/7/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1342,
+      "numero": 8,
+      "titulo": "REC 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e1b18c4c6a6d31695acbae3fd70ecc6.jpg",
+      "url_origen": "https://jkanime.net/rec/8/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1343,
+      "numero": 9,
+      "titulo": "REC 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_674bfc5f6b72706fb769f5e93667bd23.jpg",
+      "url_origen": "https://jkanime.net/rec/9/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "65",
+  "cantidad_episodios_declarada": 9,
+  "detalle_extraido_en": "2026-08-26T18:43:42+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 646,
+  "slug": "dragon-ball-z-movie-04-lord-slug",
+  "titulo": "Dragon Ball Z Movie 04: Lord Slug",
+  "titulo_corto": "Dragon Ball Z Movie 04: Lord S...",
+  "sinopsis": "Slug, un habitante del planeta Namek que reniega de su raza pacifista, llega a la tierra con intención de conquistarla y lo que para él es más importante, conseguir las esferas del dragón para desear la juventud eterna y así recuperar la fuerza que tenía antaño.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-z-movie-04-lord-slug.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-z-movie-04-lord-slug/",
+  "episodios": [
+    {
+      "id_origen": 17241,
+      "numero": 1,
+      "titulo": "Dragon Ball Z Movie 04: Lord Slug",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33f310507cba3f92ef26e1a311998f5d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z-movie-04-lord-slug/1/",
+      "publicado_en_origen": "2012-09-18 04:18:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "646",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:45+00:00"
+}

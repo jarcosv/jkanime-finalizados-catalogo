@@ -1,0 +1,37 @@
+{
+  "id_origen": 1963,
+  "slug": "pocket-monsters-xyz-specials",
+  "titulo": "Pocket Monsters XY&Z Specials",
+  "titulo_corto": "Pocket Monsters XY&Z Specials",
+  "sinopsis": "Episodios especiales de Pokemon XY&Z",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pocket-monsters-xyz-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pocket-monsters-xyz-specials/",
+  "episodios": [
+    {
+      "id_origen": 33251,
+      "numero": 1,
+      "titulo": "Pocket Monsters XY&Z Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3edd466842655ec6dc7ac0590baf52d.jpg",
+      "url_origen": "https://jkanime.net/pocket-monsters-xyz-specials/1/",
+      "publicado_en_origen": "2016-11-04 16:36:17"
+    },
+    {
+      "id_origen": 33309,
+      "numero": 2,
+      "titulo": "Pocket Monsters XY&Z Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c9ec71f040ae43b350159093c4401bd.jpg",
+      "url_origen": "https://jkanime.net/pocket-monsters-xyz-specials/2/",
+      "publicado_en_origen": "2016-11-10 14:44:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1963",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:42:20+00:00"
+}

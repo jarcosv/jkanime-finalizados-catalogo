@@ -1,0 +1,37 @@
+{
+  "id_origen": 1239,
+  "slug": "terra-formars-ova",
+  "titulo": "Terra Formars OVA",
+  "titulo_corto": "Terra Formars OVA",
+  "sinopsis": "Situada en el año 2577. Decadas atras, la humanidad inicia \"TERRAFORMACION\" del planeta Marte, primero introduce vegetación sencilla y luego cucarachas, el proyecto tiene éxito. Es enviada una tripulación para iniciar la colonización del planeta, cuando descubren que la cucarachas evolucionaron en algo mas. Seres humanoides, brutales, que no aceptan a los humanos. Pero nuestra especie, tiene un as bajo la manga, la transformación insecto, humanos con genes de insecto, se transforman en feroces luchadores. Una lucha de dos especies comienza.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/terra-formars-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/terra-formars-ova/",
+  "episodios": [
+    {
+      "id_origen": 24485,
+      "numero": 1,
+      "titulo": "Terra Formars OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9f8941c38b7d49a586adf043f2acf21.jpg",
+      "url_origen": "https://jkanime.net/terra-formars-ova/1/",
+      "publicado_en_origen": "2014-08-19 18:01:17"
+    },
+    {
+      "id_origen": 25504,
+      "numero": 2,
+      "titulo": "Terra Formars OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eecd53e5e1ffd09c417b2aad6caaa3f3.jpg",
+      "url_origen": "https://jkanime.net/terra-formars-ova/2/",
+      "publicado_en_origen": "2014-11-19 23:16:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1239",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:49:09+00:00"
+}

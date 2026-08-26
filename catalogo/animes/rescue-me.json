@@ -1,0 +1,29 @@
+{
+  "id_origen": 920,
+  "slug": "rescue-me",
+  "titulo": "Rescue Me!",
+  "titulo_corto": "Rescue Me!",
+  "sinopsis": "La historia se centra en Mizutani Masayuki, un chico normal de preparatoria. Su compañera Shimizu Sayaka vive en su casa como una sirvienta llevando a situaciones incómodas subidas de tono",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rescue-me.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/rescue-me/",
+  "episodios": [
+    {
+      "id_origen": 21045,
+      "numero": 1,
+      "titulo": "Rescue Me!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e81285f8a20c333002a35aaec157225.jpg",
+      "url_origen": "https://jkanime.net/rescue-me/1/",
+      "publicado_en_origen": "2013-07-11 00:31:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "920",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:43:50+00:00"
+}

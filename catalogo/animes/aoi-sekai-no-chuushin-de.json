@@ -1,0 +1,45 @@
+{
+  "id_origen": 697,
+  "slug": "aoi-sekai-no-chuushin-de",
+  "titulo": "Aoi Sekai no Chuushin de",
+  "titulo_corto": "Aoi Sekai no Chuushin de",
+  "sinopsis": "El Reino de Segua ha ido perdiendo la guerra contra el Imperio de Ninterdo pero la situación ha cambiado con la aparición de un chico llamado Gear. Todos los personajes son parodias de protas de videojuegos de Nintendo y Sega respectivamente, como los son Sonic the Hedgehog, Super Mario Bros., The Legend of Zelda, etc.\n\nEpisodios confirmados:\nEpisodio 1: Octubre 20, 2012\nEpisodio 2: Diciembre 27, 2012\nEpisodio 3: Abril 4, 2013\n\nLa emisión finalizo con 3 episodios.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/aoi-sekai-no-chuushin-de.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/aoi-sekai-no-chuushin-de/",
+  "episodios": [
+    {
+      "id_origen": 17993,
+      "numero": 1,
+      "titulo": "Aoi Sekai no Chuushin de - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b972beaf37e2de7dbe066961a5d5c1c.jpg",
+      "url_origen": "https://jkanime.net/aoi-sekai-no-chuushin-de/1/",
+      "publicado_en_origen": "2012-10-21 02:07:34"
+    },
+    {
+      "id_origen": 18788,
+      "numero": 2,
+      "titulo": "Aoi Sekai no Chuushin de - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fae01d4ee6963b74a037e46b2cf436cf.jpg",
+      "url_origen": "https://jkanime.net/aoi-sekai-no-chuushin-de/2/",
+      "publicado_en_origen": "2012-12-27 11:17:57"
+    },
+    {
+      "id_origen": 20043,
+      "numero": 3,
+      "titulo": "Aoi sekai no chuushin de 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1cea227cb2ca29383f916aef863a2dd8.jpg",
+      "url_origen": "https://jkanime.net/aoi-sekai-no-chuushin-de/3/",
+      "publicado_en_origen": "2013-04-04 10:16:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "697",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:17:12+00:00"
+}

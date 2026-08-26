@@ -1,0 +1,29 @@
+{
+  "id_origen": 2202,
+  "slug": "no-game-no-life-zero",
+  "titulo": "No Game No Life: Zero",
+  "titulo_corto": "No Game No Life: Zero",
+  "sinopsis": "Seis mil años antes de que Sora y Shiro fuesen un parpadeo en la historia de Disboard, la guerra consumio la tierra, desgarrando los cielos, destruyendo las estrellas y amenazando con acabar con la raza humana. En medio del caos y la destruccion, un joven llamado Riku conduce a la humanidad hacia el mañana en que creia su corazon. Un dia, en las ruinas de una ciudad de los elfos, conoce a Schwi, una exiliada androide ex-machina exiliada que le pide que le enseñe significa tener un corazon humano.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/no-game-no-life-zero.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/no-game-no-life-zero/",
+  "episodios": [
+    {
+      "id_origen": 36738,
+      "numero": 1,
+      "titulo": "No Game No Life: Zero",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/no-game-no-life-zero.jpg",
+      "url_origen": "https://jkanime.net/no-game-no-life-zero/1/",
+      "publicado_en_origen": "2018-02-27 03:09:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:23+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2202",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:33+00:00"
+}

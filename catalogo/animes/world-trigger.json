@@ -1,0 +1,605 @@
+{
+  "id_origen": 1296,
+  "slug": "world-trigger",
+  "titulo": "World Trigger",
+  "titulo_corto": "World Trigger",
+  "sinopsis": "Un día, se abre un portal a otra dimensión, y de él emergen unas criaturas invencibles y gigantescas que amenazan con acabar con toda la humanidad. La única línea de defensa de la Tierra es un grupo de guerreros que se han adaptado a la tecnología alienígena para poder contraatacar.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/world-trigger.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/world-trigger/",
+  "episodios": [
+    {
+      "id_origen": 24990,
+      "numero": 1,
+      "titulo": "World Trigger - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2b6d861d66fa14bb7cf8c6112d13e0d.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/1/",
+      "publicado_en_origen": "2014-10-04 17:37:29"
+    },
+    {
+      "id_origen": 25058,
+      "numero": 2,
+      "titulo": "World Trigger - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50467f677bd420dcfdd3f978a2a7171b.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/2/",
+      "publicado_en_origen": "2014-10-11 17:34:45"
+    },
+    {
+      "id_origen": 25127,
+      "numero": 3,
+      "titulo": "World Trigger - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d92ea9b81f514a1f8c2330f1b579bf21.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/3/",
+      "publicado_en_origen": "2014-10-18 17:36:52"
+    },
+    {
+      "id_origen": 25268,
+      "numero": 4,
+      "titulo": "World Trigger - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b027466c3ca21b6d1a1d594d6820833.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/4/",
+      "publicado_en_origen": "2014-11-01 17:40:05"
+    },
+    {
+      "id_origen": 25340,
+      "numero": 5,
+      "titulo": "World Trigger - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78ade5b560946211ce63652717b37aea.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/5/",
+      "publicado_en_origen": "2014-11-08 17:36:30"
+    },
+    {
+      "id_origen": 25446,
+      "numero": 6,
+      "titulo": "World Trigger - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db6040c329c81f77c902cc63b2b74aca.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/6/",
+      "publicado_en_origen": "2014-11-15 17:38:15"
+    },
+    {
+      "id_origen": 25532,
+      "numero": 7,
+      "titulo": "World Trigger - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c56b7becfe4383d3ef77d68c78a5d2bd.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/7/",
+      "publicado_en_origen": "2014-11-22 17:33:13"
+    },
+    {
+      "id_origen": 25611,
+      "numero": 8,
+      "titulo": "World Trigger - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d13756f0b7adfeb6c08b99a3eb8ebddc.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/8/",
+      "publicado_en_origen": "2014-11-29 17:36:01"
+    },
+    {
+      "id_origen": 25698,
+      "numero": 9,
+      "titulo": "World Trigger - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_366df1b8e50a1333365dd6854469b56e.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/9/",
+      "publicado_en_origen": "2014-12-06 18:30:54"
+    },
+    {
+      "id_origen": 25799,
+      "numero": 10,
+      "titulo": "World Trigger - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f355056f055d7c1eabc82fdf1b71419.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/10/",
+      "publicado_en_origen": "2014-12-13 17:39:04"
+    },
+    {
+      "id_origen": 25906,
+      "numero": 11,
+      "titulo": "World Trigger - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3df9f63b70bff498764b4daa10ce8f6a.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/11/",
+      "publicado_en_origen": "2014-12-20 17:36:20"
+    },
+    {
+      "id_origen": 26020,
+      "numero": 12,
+      "titulo": "World Trigger - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2def1efe40fa99d473546860a5e699b.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/12/",
+      "publicado_en_origen": "2014-12-27 17:27:59"
+    },
+    {
+      "id_origen": 26358,
+      "numero": 13,
+      "titulo": "World Trigger - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87dc59c69fc99cd1ad09d4777f5b4c13.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/13/",
+      "publicado_en_origen": "2015-01-10 17:28:28"
+    },
+    {
+      "id_origen": 26416,
+      "numero": 14,
+      "titulo": "World Trigger - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bcab3b9a2e9eb0628cfd9d237578f913.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/14/",
+      "publicado_en_origen": "2015-01-17 17:38:04"
+    },
+    {
+      "id_origen": 26475,
+      "numero": 15,
+      "titulo": "World Trigger - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_471f23c944fc170279354fb74ece7ce4.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/15/",
+      "publicado_en_origen": "2015-01-24 17:30:35"
+    },
+    {
+      "id_origen": 26620,
+      "numero": 16,
+      "titulo": "World Trigger - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_441694bca94ce6bfd816d7a73ad020ec.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/16/",
+      "publicado_en_origen": "2015-02-07 17:34:00"
+    },
+    {
+      "id_origen": 26742,
+      "numero": 17,
+      "titulo": "World Trigger - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_497e5e9501f2ffbc07b4db02c8c5421e.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/17/",
+      "publicado_en_origen": "2015-02-14 17:25:35"
+    },
+    {
+      "id_origen": 26808,
+      "numero": 18,
+      "titulo": "World Trigger - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b191b91cbd52c3fcff21b16d6aafa259.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/18/",
+      "publicado_en_origen": "2015-02-21 17:40:47"
+    },
+    {
+      "id_origen": 26932,
+      "numero": 19,
+      "titulo": "World Trigger - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d79b641ddd329ff7f410ff8af526b4ae.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/19/",
+      "publicado_en_origen": "2015-02-28 17:41:12"
+    },
+    {
+      "id_origen": 26990,
+      "numero": 20,
+      "titulo": "World Trigger - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72417e4a6ce410ee495dc2978c405084.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/20/",
+      "publicado_en_origen": "2015-03-07 17:38:45"
+    },
+    {
+      "id_origen": 27048,
+      "numero": 21,
+      "titulo": "World Trigger - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e9da216f3bfda8c024b94938291ebec.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/21/",
+      "publicado_en_origen": "2015-03-14 17:43:19"
+    },
+    {
+      "id_origen": 27197,
+      "numero": 22,
+      "titulo": "World Trigger - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f597ee5f14dee9340c148ac17e772d5.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/22/",
+      "publicado_en_origen": "2015-03-21 17:24:26"
+    },
+    {
+      "id_origen": 27262,
+      "numero": 23,
+      "titulo": "World Trigger - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7abe7d1372d2d2d0c15f1410e699b25.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/23/",
+      "publicado_en_origen": "2015-03-28 17:29:12"
+    },
+    {
+      "id_origen": 27386,
+      "numero": 24,
+      "titulo": "World Trigger - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e61d2ed0329c7be9a1cc46faed9b9a27.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/24/",
+      "publicado_en_origen": "2015-04-04 17:35:55"
+    },
+    {
+      "id_origen": 27460,
+      "numero": 25,
+      "titulo": "World Trigger - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec67ec14e2f01a4baeb2464a044aaec1.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/25/",
+      "publicado_en_origen": "2015-04-11 17:26:29"
+    },
+    {
+      "id_origen": 27529,
+      "numero": 26,
+      "titulo": "World Trigger - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c386cba5332d11385672ee52d036e8c1.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/26/",
+      "publicado_en_origen": "2015-04-18 17:28:30"
+    },
+    {
+      "id_origen": 27597,
+      "numero": 27,
+      "titulo": "World Trigger - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34ac42f166aab43ce18d720c21903cda.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/27/",
+      "publicado_en_origen": "2015-04-25 17:29:45"
+    },
+    {
+      "id_origen": 27659,
+      "numero": 28,
+      "titulo": "World Trigger - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fea24d4edf999326dfa6c1d6f887b99.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/28/",
+      "publicado_en_origen": "2015-05-02 17:28:15"
+    },
+    {
+      "id_origen": 27721,
+      "numero": 29,
+      "titulo": "World Trigger - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f920f9d2c5e7ae3befa151a32244b6cc.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/29/",
+      "publicado_en_origen": "2015-05-09 17:27:40"
+    },
+    {
+      "id_origen": 27783,
+      "numero": 30,
+      "titulo": "World Trigger - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8aafebe10781ddaa12b4c873fd4e546e.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/30/",
+      "publicado_en_origen": "2015-05-16 17:27:31"
+    },
+    {
+      "id_origen": 27847,
+      "numero": 31,
+      "titulo": "World Trigger - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3708d4192ec0d016f3da6cc2871131ce.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/31/",
+      "publicado_en_origen": "2015-05-23 17:25:58"
+    },
+    {
+      "id_origen": 27912,
+      "numero": 32,
+      "titulo": "World Trigger - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81dd4df7529a4765132f4425191d1715.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/32/",
+      "publicado_en_origen": "2015-05-30 17:25:04"
+    },
+    {
+      "id_origen": 27971,
+      "numero": 33,
+      "titulo": "World Trigger - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c6c8cbaba5894074d4ce2e7b748a206.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/33/",
+      "publicado_en_origen": "2015-06-06 17:26:17"
+    },
+    {
+      "id_origen": 28367,
+      "numero": 34,
+      "titulo": "World Trigger - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_660b8ee3ee61ba666dd389fa64766b2d.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/34/",
+      "publicado_en_origen": "2015-06-13 17:28:36"
+    },
+    {
+      "id_origen": 28519,
+      "numero": 35,
+      "titulo": "World Trigger - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8595663aca75cac5588e45a0b8602baa.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/35/",
+      "publicado_en_origen": "2015-06-20 17:27:25"
+    },
+    {
+      "id_origen": 28582,
+      "numero": 36,
+      "titulo": "World Trigger - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59349d7c8145846439782da8c2d78754.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/36/",
+      "publicado_en_origen": "2015-06-27 17:32:36"
+    },
+    {
+      "id_origen": 28631,
+      "numero": 37,
+      "titulo": "World Trigger - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e11c5d19204c3c8e967811d54adbede.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/37/",
+      "publicado_en_origen": "2015-07-04 17:51:51"
+    },
+    {
+      "id_origen": 28760,
+      "numero": 38,
+      "titulo": "World Trigger - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f00a8929c259e8ea8bde168c76aff2b.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/38/",
+      "publicado_en_origen": "2015-07-18 17:22:32"
+    },
+    {
+      "id_origen": 28829,
+      "numero": 39,
+      "titulo": "World Trigger - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b11d57a6dd02023e6acdd5174baae917.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/39/",
+      "publicado_en_origen": "2015-07-25 17:23:42"
+    },
+    {
+      "id_origen": 28893,
+      "numero": 40,
+      "titulo": "World Trigger - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e0b4ddb9f9bea023d5e1074b1d1ca82.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/40/",
+      "publicado_en_origen": "2015-08-01 17:27:55"
+    },
+    {
+      "id_origen": 28951,
+      "numero": 41,
+      "titulo": "World Trigger - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_110eed2c630aab0f3fa87d6473926732.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/41/",
+      "publicado_en_origen": "2015-08-08 17:23:30"
+    },
+    {
+      "id_origen": 29019,
+      "numero": 42,
+      "titulo": "World Trigger - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9b5c1aceaf0491b0c041bca34418f07.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/42/",
+      "publicado_en_origen": "2015-08-15 17:38:06"
+    },
+    {
+      "id_origen": 29083,
+      "numero": 43,
+      "titulo": "World Trigger - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80f5c854f86f7ecdd80a84b2973a9b08.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/43/",
+      "publicado_en_origen": "2015-08-22 17:41:45"
+    },
+    {
+      "id_origen": 29156,
+      "numero": 44,
+      "titulo": "World Trigger - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16a0720adefe16db0df9b9023e733639.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/44/",
+      "publicado_en_origen": "2015-08-29 17:21:45"
+    },
+    {
+      "id_origen": 29219,
+      "numero": 45,
+      "titulo": "World Trigger - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2667dd894062c9ca2a4602cb4718f52.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/45/",
+      "publicado_en_origen": "2015-09-05 17:36:07"
+    },
+    {
+      "id_origen": 29610,
+      "numero": 46,
+      "titulo": "World Trigger - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a0b9d091283b31708a6e8dec004bd6e.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/46/",
+      "publicado_en_origen": "2015-09-19 17:22:20"
+    },
+    {
+      "id_origen": 29667,
+      "numero": 47,
+      "titulo": "World Trigger - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58f5494e7f958bdb46d4f26821bf1106.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/47/",
+      "publicado_en_origen": "2015-09-26 17:50:26"
+    },
+    {
+      "id_origen": 29709,
+      "numero": 48,
+      "titulo": "World Trigger - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f581475b3b03d3686c8868d35352e20b.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/48/",
+      "publicado_en_origen": "2015-10-03 17:36:20"
+    },
+    {
+      "id_origen": 29783,
+      "numero": 49,
+      "titulo": "World Trigger - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8bb2c536d0fb580ce30b60ca38f773dd.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/49/",
+      "publicado_en_origen": "2015-10-10 17:21:46"
+    },
+    {
+      "id_origen": 29846,
+      "numero": 50,
+      "titulo": "World Trigger - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65742cafb273e12fc7bb968b5fca065e.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/50/",
+      "publicado_en_origen": "2015-10-17 17:20:27"
+    },
+    {
+      "id_origen": 29907,
+      "numero": 51,
+      "titulo": "World Trigger - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0f42953e6ac78566f36c5824c795c7f.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/51/",
+      "publicado_en_origen": "2015-10-24 17:23:30"
+    },
+    {
+      "id_origen": 29976,
+      "numero": 52,
+      "titulo": "World Trigger - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f8dbc56f1117ef240cbb653bb721a42.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/52/",
+      "publicado_en_origen": "2015-10-31 17:37:11"
+    },
+    {
+      "id_origen": 30030,
+      "numero": 53,
+      "titulo": "World Trigger - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e05baf3e0c3214593c5ee81af5917770.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/53/",
+      "publicado_en_origen": "2015-11-07 18:00:42"
+    },
+    {
+      "id_origen": 30087,
+      "numero": 54,
+      "titulo": "World Trigger - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e31003304da364867f1dce3be564fb7a.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/54/",
+      "publicado_en_origen": "2015-11-14 17:24:02"
+    },
+    {
+      "id_origen": 30150,
+      "numero": 55,
+      "titulo": "World Trigger - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_983379e5eacf56a55f44720792d81bc2.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/55/",
+      "publicado_en_origen": "2015-11-21 17:36:55"
+    },
+    {
+      "id_origen": 30211,
+      "numero": 56,
+      "titulo": "World Trigger - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fb14adee231d12b0f1465448626e6f7.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/56/",
+      "publicado_en_origen": "2015-11-28 17:23:45"
+    },
+    {
+      "id_origen": 30275,
+      "numero": 57,
+      "titulo": "World Trigger - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5131f6caead4314643b671b624714d94.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/57/",
+      "publicado_en_origen": "2015-12-05 17:21:59"
+    },
+    {
+      "id_origen": 30334,
+      "numero": 58,
+      "titulo": "World Trigger - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5dc8ea060c77adbb077e106f83cb2e1.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/58/",
+      "publicado_en_origen": "2015-12-12 17:28:02"
+    },
+    {
+      "id_origen": 30391,
+      "numero": 59,
+      "titulo": "World Trigger - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3be0a55f6361e9a215d06fe83166945.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/59/",
+      "publicado_en_origen": "2015-12-19 17:25:37"
+    },
+    {
+      "id_origen": 30456,
+      "numero": 60,
+      "titulo": "World Trigger - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6b50ff60e962a4d29e02759470b2d79.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/60/",
+      "publicado_en_origen": "2015-12-26 20:55:27"
+    },
+    {
+      "id_origen": 30531,
+      "numero": 61,
+      "titulo": "World Trigger - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5813e9d052631ab78e26d6c5ca31202d.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/61/",
+      "publicado_en_origen": "2016-01-09 18:40:44"
+    },
+    {
+      "id_origen": 30587,
+      "numero": 62,
+      "titulo": "World Trigger - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98d0c2a2816ff30684a55980833a7316.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/62/",
+      "publicado_en_origen": "2016-01-16 18:19:26"
+    },
+    {
+      "id_origen": 30648,
+      "numero": 63,
+      "titulo": "World Trigger - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80f36a558ab7295d37bc67fbb7737963.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/63/",
+      "publicado_en_origen": "2016-01-23 18:35:32"
+    },
+    {
+      "id_origen": 30714,
+      "numero": 64,
+      "titulo": "World Trigger - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b3678e568c812fa368f74671eaac799.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/64/",
+      "publicado_en_origen": "2016-01-30 18:33:44"
+    },
+    {
+      "id_origen": 30776,
+      "numero": 65,
+      "titulo": "World Trigger - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1a90e1c055459c26e3280c607f8fe5e.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/65/",
+      "publicado_en_origen": "2016-02-06 21:03:05"
+    },
+    {
+      "id_origen": 30832,
+      "numero": 66,
+      "titulo": "World Trigger - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9db91a33f7c9b95eeb17aa5d3cdef5c.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/66/",
+      "publicado_en_origen": "2016-02-13 21:43:50"
+    },
+    {
+      "id_origen": 30893,
+      "numero": 67,
+      "titulo": "World Trigger - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa37b70bbe5a37d659bf67dee2ca9492.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/67/",
+      "publicado_en_origen": "2016-02-20 21:13:18"
+    },
+    {
+      "id_origen": 30954,
+      "numero": 68,
+      "titulo": "World Trigger - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_272eb64a1ed0103ccc0bf44e8cdf6770.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/68/",
+      "publicado_en_origen": "2016-02-27 21:08:23"
+    },
+    {
+      "id_origen": 31023,
+      "numero": 69,
+      "titulo": "World Trigger - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_085fc1406248327158619fb1326434cc.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/69/",
+      "publicado_en_origen": "2016-03-05 21:09:21"
+    },
+    {
+      "id_origen": 31100,
+      "numero": 70,
+      "titulo": "World Trigger - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77c33d0fb152118e33778d34ae8a0473.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/70/",
+      "publicado_en_origen": "2016-03-12 21:18:43"
+    },
+    {
+      "id_origen": 31159,
+      "numero": 71,
+      "titulo": "World Trigger - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfd6bb38a2386fbab71d56ecdb552b42.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/71/",
+      "publicado_en_origen": "2016-03-19 21:01:27"
+    },
+    {
+      "id_origen": 31220,
+      "numero": 72,
+      "titulo": "World Trigger - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_398fe2ec0161a64eb0ce33ece464fc06.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/72/",
+      "publicado_en_origen": "2016-03-26 20:55:40"
+    },
+    {
+      "id_origen": 31267,
+      "numero": 73,
+      "titulo": "World Trigger - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8cb984778464a4dabc3bdccdb3c60bde.jpg",
+      "url_origen": "https://jkanime.net/world-trigger/73/",
+      "publicado_en_origen": "2016-04-02 21:13:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1296",
+  "cantidad_episodios_declarada": 73,
+  "detalle_extraido_en": "2026-08-26T18:52:15+00:00"
+}

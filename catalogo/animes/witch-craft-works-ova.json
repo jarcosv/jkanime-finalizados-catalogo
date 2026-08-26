@@ -1,0 +1,29 @@
+{
+  "id_origen": 1417,
+  "slug": "witch-craft-works-ova",
+  "titulo": "Witch Craft Works OVA",
+  "titulo_corto": "Witch Craft Works OVA",
+  "sinopsis": "OVA de Witch Craft Works incluida con el volumen 8 del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/witch-craft-works-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/witch-craft-works-ova/",
+  "episodios": [
+    {
+      "id_origen": 26324,
+      "numero": 1,
+      "titulo": "Witch Craft Works OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_deabeaf0bc00589d890fa81d23f56bf5.jpg",
+      "url_origen": "https://jkanime.net/witch-craft-works-ova/1/",
+      "publicado_en_origen": "2015-01-06 15:12:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:48+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1417",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:52:01+00:00"
+}

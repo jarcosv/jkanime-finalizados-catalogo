@@ -1,0 +1,205 @@
+{
+  "id_origen": 25,
+  "slug": "clannad",
+  "titulo": "Clannad",
+  "titulo_corto": "Clannad",
+  "sinopsis": "Tomoya Okazaki es un joven de tercer año de instituto que parece importarle poco su desempeño escolar, y sumada a su actitud conflictiva originada por problemas familiares, es marcado como “delincuente” en su escuela por la gran mayoría de sus compañeros que están más ocupados pensando en lo que harán una vez acaben la escuela. Tomoya, sin amigos, oficio ni beneficio; conoce providencialmente a Nagisa Furukawa, una chica enfermiza algo lenta en los estudios que se quedó sin amigos puesto que todos ellos ya se habían graduado. Poco a poco ambos entablan amistad y mientras el joven empieza a descubrir que su escuela no era tan mal como aparentaba, empieza a conocer a mas chicas. Sin embargo, a pesar de todo, el muchacho y sus amigas guardan secretos, sueños y deseos que iran entrecruzandose.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/clannad.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/clannad/",
+  "episodios": [
+    {
+      "id_origen": 14505,
+      "numero": 1,
+      "titulo": "Clannad - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c82c42719365742090eb207695a1055.jpg",
+      "url_origen": "https://jkanime.net/clannad/1/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14506,
+      "numero": 2,
+      "titulo": "Clannad - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a914e5c38172ae9b61780ffbd0b2f90.jpg",
+      "url_origen": "https://jkanime.net/clannad/2/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14507,
+      "numero": 3,
+      "titulo": "Clannad - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_700fe688ff2970d633ff04c9b7f7cdd4.jpg",
+      "url_origen": "https://jkanime.net/clannad/3/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14508,
+      "numero": 4,
+      "titulo": "Clannad - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffb72475a81de0e95b910ffad039f5c2.jpg",
+      "url_origen": "https://jkanime.net/clannad/4/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14509,
+      "numero": 5,
+      "titulo": "Clannad - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_153541c160234d5f9029608e65329ad0.jpg",
+      "url_origen": "https://jkanime.net/clannad/5/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14510,
+      "numero": 6,
+      "titulo": "Clannad - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd4e9ea43d04220d6f90db0e66758a51.jpg",
+      "url_origen": "https://jkanime.net/clannad/6/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14511,
+      "numero": 7,
+      "titulo": "Clannad - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bde7b6425042bc526f895b0ddf422ae9.jpg",
+      "url_origen": "https://jkanime.net/clannad/7/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14512,
+      "numero": 8,
+      "titulo": "Clannad - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f589a241141007eb225cd68eed7bc06c.jpg",
+      "url_origen": "https://jkanime.net/clannad/8/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14513,
+      "numero": 9,
+      "titulo": "Clannad - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc22f6d44314e4501d867451048a5cf9.jpg",
+      "url_origen": "https://jkanime.net/clannad/9/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14514,
+      "numero": 10,
+      "titulo": "Clannad - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_907ee68e550f498a93ec82d228135c00.jpg",
+      "url_origen": "https://jkanime.net/clannad/10/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14515,
+      "numero": 11,
+      "titulo": "Clannad - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a1a998465d96b216610e8bf342343bb.jpg",
+      "url_origen": "https://jkanime.net/clannad/11/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14516,
+      "numero": 12,
+      "titulo": "Clannad - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4776da547036453f71ab92aad7c727bd.jpg",
+      "url_origen": "https://jkanime.net/clannad/12/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14517,
+      "numero": 13,
+      "titulo": "Clannad - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30293457191c29e0d0d7a715d26041bd.jpg",
+      "url_origen": "https://jkanime.net/clannad/13/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14518,
+      "numero": 14,
+      "titulo": "Clannad - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1357bcf2d4321bb322e9ae46a462ef4a.jpg",
+      "url_origen": "https://jkanime.net/clannad/14/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14519,
+      "numero": 15,
+      "titulo": "Clannad - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d10de96803114d3a4784f01785ecaf9.jpg",
+      "url_origen": "https://jkanime.net/clannad/15/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14520,
+      "numero": 16,
+      "titulo": "Clannad - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6070d2e578e07843c2206e1a323311cb.jpg",
+      "url_origen": "https://jkanime.net/clannad/16/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14521,
+      "numero": 17,
+      "titulo": "Clannad - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03e0d5f0c8b9b7b78532779f6ca94209.jpg",
+      "url_origen": "https://jkanime.net/clannad/17/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14522,
+      "numero": 18,
+      "titulo": "Clannad - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67efdede8d7c74d27adc98e6d165ef29.jpg",
+      "url_origen": "https://jkanime.net/clannad/18/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14523,
+      "numero": 19,
+      "titulo": "Clannad - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44f455185e5ae730f5e12534aaaa5e02.jpg",
+      "url_origen": "https://jkanime.net/clannad/19/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14524,
+      "numero": 20,
+      "titulo": "Clannad - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fbb2c2ee065c77a193d0057aab8fa11.jpg",
+      "url_origen": "https://jkanime.net/clannad/20/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14525,
+      "numero": 21,
+      "titulo": "Clannad - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bd97cb91b8d57dad18542081fb8f2b1.jpg",
+      "url_origen": "https://jkanime.net/clannad/21/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14526,
+      "numero": 22,
+      "titulo": "Clannad - 22 Final",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18fb150bb65a5825c83969a59f3febc1.jpg",
+      "url_origen": "https://jkanime.net/clannad/22/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    },
+    {
+      "id_origen": 14527,
+      "numero": 23,
+      "titulo": "Clannad - 23 Extra",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5be40437b695b83e1356be1ac5724c50.jpg",
+      "url_origen": "https://jkanime.net/clannad/23/",
+      "publicado_en_origen": "2012-01-13 02:15:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:26+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "25",
+  "cantidad_episodios_declarada": 23,
+  "detalle_extraido_en": "2026-08-26T18:23:49+00:00"
+}

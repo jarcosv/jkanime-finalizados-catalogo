@@ -1,0 +1,421 @@
+{
+  "id_origen": 366,
+  "slug": "ashita-no-nadja",
+  "titulo": "Ashita no Nadja",
+  "titulo_corto": "Ashita no Nadja",
+  "sinopsis": "Nadia es una joven aparentemente huérfana que descubre que su madre aun vive, por lo que decide viajar con un circo ambulante llamado Dandalion en búsqueda de nuevas aventuras y de su madre perdida. Durante este viaje vive encuentros amorosos, dificultades y conoce mucha gente interesante.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ashita-no-nadja.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ashita-no-nadja/",
+  "episodios": [
+    {
+      "id_origen": 10054,
+      "numero": 1,
+      "titulo": "Ashita No Nadja 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bef4d169d8bddd17d68303877a3ea945.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/1/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10055,
+      "numero": 2,
+      "titulo": "Ashita No Nadja 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4191d610537305de1d294adb121b513.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/2/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10056,
+      "numero": 3,
+      "titulo": "Ashita No Nadja 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b59c21a078fde074a6750e91ed19fb21.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/3/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10057,
+      "numero": 4,
+      "titulo": "Ashita No Nadja 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27bc42aaeb1540e87949a69ebeb4eb4c.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/4/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10058,
+      "numero": 5,
+      "titulo": "Ashita No Nadja 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_999df4ce78b966de17aee1dc87111044.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/5/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10059,
+      "numero": 6,
+      "titulo": "Ashita No Nadja 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7ba053d8ba932b77348b3987ea0e40b.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/6/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10060,
+      "numero": 7,
+      "titulo": "Ashita No Nadja 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e64928412aae022e2c27456df62dda09.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/7/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10061,
+      "numero": 8,
+      "titulo": "Ashita No Nadja 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fe3d16a83f683a0a7f1c029536bebe7.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/8/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10062,
+      "numero": 9,
+      "titulo": "Ashita No Nadja 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f892447540d0e840049183faa3109b1b.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/9/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10063,
+      "numero": 10,
+      "titulo": "Ashita No Nadja 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9f2f917078bd2db12f23c3b413d9cba.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/10/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10064,
+      "numero": 11,
+      "titulo": "Ashita No Nadja 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41bacf567aefc61b3076c74d8925128f.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/11/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10065,
+      "numero": 12,
+      "titulo": "Ashita No Nadja 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffa4eb0e32349ae57f7a0ee8c7cd7c11.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/12/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10066,
+      "numero": 13,
+      "titulo": "Ashita No Nadja 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_955fd82131e15e7b5199cbc8f983306a.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/13/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10067,
+      "numero": 14,
+      "titulo": "Ashita No Nadja 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_792dd774336314c3c27a04bb260cf2cf.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/14/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10068,
+      "numero": 15,
+      "titulo": "Ashita No Nadja 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4982cba8b4cbeb32a439f0367273fc8.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/15/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10069,
+      "numero": 16,
+      "titulo": "Ashita No Nadja 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_530ad673015b98fcf4cdd5a68cb93d6c.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/16/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10070,
+      "numero": 17,
+      "titulo": "Ashita No Nadja 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1aab7baa714e14868fe9eac65fcbd315.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/17/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10071,
+      "numero": 18,
+      "titulo": "Ashita No Nadja 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4910fcdaedc2be5c5f05533b7a9cb8c2.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/18/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10072,
+      "numero": 19,
+      "titulo": "Ashita No Nadja 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc2b1ba0368ccd98d5bed7e2e97b4bb0.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/19/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10073,
+      "numero": 20,
+      "titulo": "Ashita No Nadja 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_657e31ff3231b847d7604f6647a2dfc9.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/20/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10074,
+      "numero": 21,
+      "titulo": "Ashita No Nadja 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e0ff37942c2de60cbcbd27041196ce3.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/21/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10075,
+      "numero": 22,
+      "titulo": "Ashita No Nadja 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e5050938e0df629a2f2c5ff24fe66c6.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/22/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10076,
+      "numero": 23,
+      "titulo": "Ashita No Nadja 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11ed516444b2593eaba7f2c2bb63483e.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/23/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10077,
+      "numero": 24,
+      "titulo": "Ashita No Nadja 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70803c1acb1ee113c07ec6bddc4929bd.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/24/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10078,
+      "numero": 25,
+      "titulo": "Ashita No Nadja 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2754518221cfbc8d25c13a06a4cb8421.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/25/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10079,
+      "numero": 26,
+      "titulo": "Ashita No Nadja 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96e76211d21b66fbdaf1a05498b4417a.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/26/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10080,
+      "numero": 27,
+      "titulo": "Ashita No Nadja 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebd774c929a7f6c7e5df19e355f61e23.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/27/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10081,
+      "numero": 28,
+      "titulo": "Ashita No Nadja 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_725215ed82ab6306919b485b81ff9615.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/28/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10082,
+      "numero": 29,
+      "titulo": "Ashita No Nadja 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b22a40256b079f338827b0ff1f4792b.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/29/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10083,
+      "numero": 30,
+      "titulo": "Ashita No Nadja 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5f79d384b8024d5adddb872f9651f38.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/30/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10084,
+      "numero": 31,
+      "titulo": "Ashita No Nadja 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1aff6753244c6ee93d489992b51f012.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/31/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10085,
+      "numero": 32,
+      "titulo": "Ashita No Nadja 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e62c1998206e0110459a6143546fe2e.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/32/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10086,
+      "numero": 33,
+      "titulo": "Ashita No Nadja 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6412121cbb2dc2cb9e460cfee7046be2.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/33/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10087,
+      "numero": 34,
+      "titulo": "Ashita No Nadja 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afc2637129ad904485e07d2c0e6b0688.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/34/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10088,
+      "numero": 35,
+      "titulo": "Ashita No Nadja 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42edd1ec1dc5f5c1f11fd74a959e96c9.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/35/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10089,
+      "numero": 36,
+      "titulo": "Ashita No Nadja 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69f8ea31de0c00502b2ae571fbab1f95.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/36/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10090,
+      "numero": 37,
+      "titulo": "Ashita No Nadja 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4392e631da381761421d5e1e0c3de25f.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/37/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10091,
+      "numero": 38,
+      "titulo": "Ashita No Nadja 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b219f59c2dd596abfadbcecfc2277659.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/38/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10092,
+      "numero": 39,
+      "titulo": "Ashita No Nadja 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0c3a9fb8385d8e03a46adadde9af3bf.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/39/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10093,
+      "numero": 40,
+      "titulo": "Ashita No Nadja 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee51fce06e2c58e0cac874de44b57035.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/40/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10094,
+      "numero": 41,
+      "titulo": "Ashita No Nadja 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_018a1b6ccd2ec81361657e259155895a.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/41/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10095,
+      "numero": 42,
+      "titulo": "Ashita No Nadja 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_253d812cbfbb77c03b910f9897e9487d.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/42/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10096,
+      "numero": 43,
+      "titulo": "Ashita No Nadja 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee4117572afbc0cf760f70714af0ec52.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/43/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10097,
+      "numero": 44,
+      "titulo": "Ashita No Nadja 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23b702c4c421ddb2d023fee968c0d839.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/44/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10098,
+      "numero": 45,
+      "titulo": "Ashita No Nadja 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c876914f82ce54cb533b186afd41166e.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/45/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10099,
+      "numero": 46,
+      "titulo": "Ashita No Nadja 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_995ca733e3657ff9f5f3c823d73371e1.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/46/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10100,
+      "numero": 47,
+      "titulo": "Ashita No Nadja 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac2d43ef3f26cc74de242202e822ecb0.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/47/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10101,
+      "numero": 48,
+      "titulo": "Ashita No Nadja 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6dfc35c47756e962ef055d1049f1f8ec.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/48/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10102,
+      "numero": 49,
+      "titulo": "Ashita No Nadja 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_696b0709b9a2d7d9e2c25b71476ec255.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/49/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 10103,
+      "numero": 50,
+      "titulo": "Ashita No Nadja 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f53eb4122d5e2ce81a12093f8f9ce922.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-nadja/50/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "366",
+  "cantidad_episodios_declarada": 50,
+  "detalle_extraido_en": "2026-08-26T18:17:56+00:00"
+}

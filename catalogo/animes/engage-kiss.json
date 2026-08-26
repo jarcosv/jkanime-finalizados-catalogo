@@ -1,0 +1,125 @@
+{
+  "id_origen": 3168,
+  "slug": "engage-kiss",
+  "titulo": "Engage Kiss",
+  "titulo_corto": "Engage Kiss",
+  "sinopsis": "En una metrópolis artificial se desarrolla una complicada relación entre tres personas. Shuu es un joven que tiene un negocio pequeño en el área, pero gasta más dinero de lo que gana. Y en su vida están Kisara y Ayame, dos chicas que se preocupan por él, ¿pero bajo qué premisa? ¿Quieren algo más de Shuu?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/engage-kiss.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/engage-kiss/",
+  "episodios": [
+    {
+      "id_origen": 49781,
+      "numero": 1,
+      "titulo": "Engage Kiss - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a755057d303c5940729a029d9d002a0.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/1/",
+      "publicado_en_origen": "2022-07-02 15:59:15"
+    },
+    {
+      "id_origen": 49829,
+      "numero": 2,
+      "titulo": "Engage Kiss - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_412af48b7b1c607ca1df7912c18eb308.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/2/",
+      "publicado_en_origen": "2022-07-09 13:13:01"
+    },
+    {
+      "id_origen": 49884,
+      "numero": 3,
+      "titulo": "Engage Kiss - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_668a9c336f76c9018fdf3dfb09315dcf.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/3/",
+      "publicado_en_origen": "2022-07-16 13:49:39"
+    },
+    {
+      "id_origen": 49940,
+      "numero": 4,
+      "titulo": "Engage Kiss - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_362d2d615527fd7e1ba8213dbdab6cb8.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/4/",
+      "publicado_en_origen": "2022-07-23 13:06:40"
+    },
+    {
+      "id_origen": 49993,
+      "numero": 5,
+      "titulo": "Engage Kiss - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_300e660efc40b0f0f424f83c7bb9483b.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/5/",
+      "publicado_en_origen": "2022-07-30 13:10:47"
+    },
+    {
+      "id_origen": 50065,
+      "numero": 6,
+      "titulo": "Engage Kiss - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa5e5e1c0d65538bc902f531bb37c2bd.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/6/",
+      "publicado_en_origen": "2022-08-06 13:20:24"
+    },
+    {
+      "id_origen": 50178,
+      "numero": 7,
+      "titulo": "Engage Kiss - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3dac549c34cabc7b02e423842e102020.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/7/",
+      "publicado_en_origen": "2022-08-13 14:02:55"
+    },
+    {
+      "id_origen": 50242,
+      "numero": 8,
+      "titulo": "Engage Kiss - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_598d5a94ae606039cefc8a75a88789dd.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/8/",
+      "publicado_en_origen": "2022-08-20 15:05:45"
+    },
+    {
+      "id_origen": 50356,
+      "numero": 9,
+      "titulo": "Engage Kiss - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a98a3be6a56286b57540ce77b8aceab5.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/9/",
+      "publicado_en_origen": "2022-08-27 13:25:14"
+    },
+    {
+      "id_origen": 50426,
+      "numero": 10,
+      "titulo": "Engage Kiss - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54b82fe371d03231b49a114e848e405d.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/10/",
+      "publicado_en_origen": "2022-09-03 13:23:17"
+    },
+    {
+      "id_origen": 50520,
+      "numero": 11,
+      "titulo": "Engage Kiss - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91b167ea699de4ae36e5a1a3621092dc.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/11/",
+      "publicado_en_origen": "2022-09-10 13:05:39"
+    },
+    {
+      "id_origen": 50578,
+      "numero": 12,
+      "titulo": "Engage Kiss - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29e57e7d449970eab91b683edcc237e1.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/12/",
+      "publicado_en_origen": "2022-09-17 14:25:39"
+    },
+    {
+      "id_origen": 50638,
+      "numero": 13,
+      "titulo": "Engage Kiss - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b1131c0ffd8e28e73219b3a968e63af.jpg",
+      "url_origen": "https://jkanime.net/engage-kiss/13/",
+      "publicado_en_origen": "2022-09-24 13:50:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3168",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:26:20+00:00"
+}

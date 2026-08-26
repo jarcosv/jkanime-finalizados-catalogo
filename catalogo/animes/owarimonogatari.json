@@ -1,0 +1,117 @@
+{
+  "id_origen": 1655,
+  "slug": "owarimonogatari",
+  "titulo": "Owarimonogatari",
+  "titulo_corto": "Owarimonogatari",
+  "sinopsis": "Durante el mes de octubre de su tercer año en la escuela secundaria se presento a un estudiante de intercambio llamado Ougi Oshino. \nOugi le dice a Araragi que ella tiene algo que desea consultarle. Cuando dibuja el mapa de Naoestu High School, ella encuentra algo peculiar en el mapa de Naoetsu.\nEste descubrimiento revela una historia que no estaba destinado a ser contada, y esto hace la vida escolar de Araragi totalmente diferente. \nEsta es la historia que revela el \"principio\" de todo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/owarimonogatari.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/owarimonogatari/",
+  "episodios": [
+    {
+      "id_origen": 29704,
+      "numero": 1,
+      "titulo": "Owarimonogatari - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5e04ccb6be7fab8ccb9df005a075cc2.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari/1/",
+      "publicado_en_origen": "2015-10-03 12:28:24"
+    },
+    {
+      "id_origen": 29775,
+      "numero": 2,
+      "titulo": "Owarimonogatari - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf3df6fa1165f1ceaa6c246e9d7d0492.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari/2/",
+      "publicado_en_origen": "2015-10-10 11:35:30"
+    },
+    {
+      "id_origen": 29839,
+      "numero": 3,
+      "titulo": "Owarimonogatari - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34c9857f8eaa71063a6db763f5c9ff73.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari/3/",
+      "publicado_en_origen": "2015-10-17 11:35:35"
+    },
+    {
+      "id_origen": 29900,
+      "numero": 4,
+      "titulo": "Owarimonogatari - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bf3fa859c48493f5f2606ccaaa0f20e.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari/4/",
+      "publicado_en_origen": "2015-10-24 11:36:13"
+    },
+    {
+      "id_origen": 29968,
+      "numero": 5,
+      "titulo": "Owarimonogatari - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6ad337fad5d5dcaac313e78183ebf61.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari/5/",
+      "publicado_en_origen": "2015-10-31 11:35:10"
+    },
+    {
+      "id_origen": 30024,
+      "numero": 6,
+      "titulo": "Owarimonogatari - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d2bc6fd77be0fa8ef1216f473ef9437.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari/6/",
+      "publicado_en_origen": "2015-11-07 11:39:37"
+    },
+    {
+      "id_origen": 30081,
+      "numero": 7,
+      "titulo": "Owarimonogatari - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_596f13d0466c69130d1cf0951e189df3.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari/7/",
+      "publicado_en_origen": "2015-11-14 11:36:28"
+    },
+    {
+      "id_origen": 30144,
+      "numero": 8,
+      "titulo": "Owarimonogatari - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a70f6138de778744f7b767b618b5d52d.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari/8/",
+      "publicado_en_origen": "2015-11-21 11:36:08"
+    },
+    {
+      "id_origen": 30205,
+      "numero": 9,
+      "titulo": "Owarimonogatari - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_122fb7b4ed45d1a1489232864c606b4d.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari/9/",
+      "publicado_en_origen": "2015-11-28 11:37:34"
+    },
+    {
+      "id_origen": 30270,
+      "numero": 10,
+      "titulo": "Owarimonogatari - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5e988012e8de1972afaae235744bd1d.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari/10/",
+      "publicado_en_origen": "2015-12-05 11:38:04"
+    },
+    {
+      "id_origen": 30328,
+      "numero": 11,
+      "titulo": "Owarimonogatari - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3569ced5d21506feef9e1ce0cd9e0178.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari/11/",
+      "publicado_en_origen": "2015-12-12 11:36:36"
+    },
+    {
+      "id_origen": 30384,
+      "numero": 12,
+      "titulo": "Owarimonogatari - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9b42240909f825c24ca520d8d28255e.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari/12/",
+      "publicado_en_origen": "2015-12-19 11:36:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1655",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:41:55+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 3920,
+  "slug": "elf-san-wa-yaserarenai-specials",
+  "titulo": "Elf-san wa Yaserarenai. Specials",
+  "titulo_corto": "Elf-san wa Yaserarenai. Specia...",
+  "sinopsis": "Especiales incluidos en el lanzamiento en Blu-ray de Elf-san wa Yaserarenai.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/elf-san-wa-yaserarenai-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/elf-san-wa-yaserarenai-specials/",
+  "episodios": [
+    {
+      "id_origen": 60149,
+      "numero": 1,
+      "titulo": "Elf-san wa Yaserarenai. Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a27c61ee809a4c9ac5edf44b636d73df.jpg",
+      "url_origen": "https://jkanime.net/elf-san-wa-yaserarenai-specials/1/",
+      "publicado_en_origen": "2024-10-05 13:36:51"
+    },
+    {
+      "id_origen": 60306,
+      "numero": 2,
+      "titulo": "Elf-san wa Yaserarenai. Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ace2562392bb7aeee655e8c80f73b7a1.jpg",
+      "url_origen": "https://jkanime.net/elf-san-wa-yaserarenai-specials/2/",
+      "publicado_en_origen": "2024-10-19 12:13:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3920",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:26:16+00:00"
+}

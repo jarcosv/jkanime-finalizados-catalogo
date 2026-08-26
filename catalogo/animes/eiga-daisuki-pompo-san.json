@@ -1,0 +1,29 @@
+{
+  "id_origen": 4455,
+  "slug": "eiga-daisuki-pompo-san",
+  "titulo": "Eiga Daisuki Pompo-san",
+  "titulo_corto": "Eiga Daisuki Pompo-san",
+  "sinopsis": "Joelle Davidovich Pomponette, más conocida simplemente como «Pompo», es una productora cinematográfica de gran talento que ha heredado los contactos y el ojo cinematográfico de su abuelo. A pesar de su prometedor futuro, Pompo se niega a producir nada que no sean películas de serie B de mala calidad. Eso es así hasta que le entrega a su asistente, Gene Fini, el guion de una ambiciosa película sobre la vida de un compositor y le anuncia que se ha ganado su primer crédito como director.Decidido a hacer que la película brille, Gene se entrega por completo a su trabajo. Sin embargo, con una carga de trabajo abrumadora y una fecha límite a solo unos días, el aspirante a director se debate entre lo que debe sacrificar en nombre de la creación.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/eiga-daisuki-pompo-san.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/eiga-daisuki-pompo-san/",
+  "episodios": [
+    {
+      "id_origen": 68906,
+      "numero": 1,
+      "titulo": "Eiga Daisuki Pompo-san",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae746d60d13a769369d9e671921d1ca7.jpg",
+      "url_origen": "https://jkanime.net/eiga-daisuki-pompo-san/1/",
+      "publicado_en_origen": "2025-11-25 19:23:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4455",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:13+00:00"
+}

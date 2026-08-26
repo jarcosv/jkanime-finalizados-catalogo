@@ -1,0 +1,45 @@
+{
+  "id_origen": 4895,
+  "slug": "rockman-hoshi-ni-negai-wo",
+  "titulo": "Rockman Hoshi ni Negai wo",
+  "titulo_corto": "Rockman Hoshi ni Negai wo",
+  "sinopsis": "«Este anime (el episodio 2, para ser exactos), en el que Rockman viaja del mundo de los videojuegos al mundo real para conocer algunas diferencias culturales de Japón, estaba pensado como un episodio especial de la serie original de dibujos animados de Mega Man, producida por Ruby-Spears, que se emitió alrededor de 1995 en Estados Unidos.\r\nAl parecer, el especial se terminó antes de que Ruby-Spears decidiera rehacer toda la serie con un diseño completamente nuevo, más adecuado para el público estadounidense.\r\nPor lo tanto, al no encajar ya en el nuevo estilo, nunca se incluyó en la serie. Aun así, un poco más tarde se produjeron dos episodios más sobre la misma historia, esta vez bajo el título principal «Rockman» (a diferencia del episodio 2, donde se le llama Mega Man, incluso en el doblaje japonés).\r\n\r\nSe desconoce si estos tres episodios llegaron a tener un lanzamiento oficial, hasta que en 2002 Capcom de Japón decidió finalmente (re)lanzarlos en DVD con motivo del 15.º aniversario de Rockman (todos ellos con doblaje en japonés e inglés, pero sin subtítulos).\r\n\r\nSe desconoce si existen más obras animadas secretas de la serie original de videojuegos de Rockman.»",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rockman-hoshi-ni-negai-wo.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/rockman-hoshi-ni-negai-wo/",
+  "episodios": [
+    {
+      "id_origen": 75839,
+      "numero": 1,
+      "titulo": "Rockman Hoshi ni Negai wo - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c072620f0697efcccca165c7d2f1bb3.jpg",
+      "url_origen": "https://jkanime.net/rockman-hoshi-ni-negai-wo/1/",
+      "publicado_en_origen": "2026-08-01 13:10:12"
+    },
+    {
+      "id_origen": 75840,
+      "numero": 2,
+      "titulo": "Rockman Hoshi ni Negai wo - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e2b98132e99d72b61553434c58d2476.jpg",
+      "url_origen": "https://jkanime.net/rockman-hoshi-ni-negai-wo/2/",
+      "publicado_en_origen": "2026-08-01 13:10:12"
+    },
+    {
+      "id_origen": 75841,
+      "numero": 3,
+      "titulo": "Rockman Hoshi ni Negai wo - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_499bf70544d2c93740bf80eca529f461.jpg",
+      "url_origen": "https://jkanime.net/rockman-hoshi-ni-negai-wo/3/",
+      "publicado_en_origen": "2026-08-01 13:10:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4895",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:44:04+00:00"
+}

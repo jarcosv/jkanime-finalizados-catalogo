@@ -1,0 +1,29 @@
+{
+  "id_origen": 1225,
+  "slug": "non-non-biyori-ova",
+  "titulo": "Non Non Biyori OVA",
+  "titulo_corto": "Non Non Biyori OVA",
+  "sinopsis": "OVA incluida con el 7mo volumen del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/non-non-biyori-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/non-non-biyori-ova/",
+  "episodios": [
+    {
+      "id_origen": 24077,
+      "numero": 1,
+      "titulo": "Non Non Biyori OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c183cc9f054941affeb40a2029fa871.jpg",
+      "url_origen": "https://jkanime.net/non-non-biyori-ova/1/",
+      "publicado_en_origen": "2014-07-24 07:11:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1225",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:45+00:00"
+}

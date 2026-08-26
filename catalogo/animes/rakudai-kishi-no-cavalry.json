@@ -1,0 +1,117 @@
+{
+  "id_origen": 1658,
+  "slug": "rakudai-kishi-no-cavalry",
+  "titulo": "Rakudai Kishi no Cavalry",
+  "titulo_corto": "Rakudai Kishi no Cavalry",
+  "sinopsis": "La historia gira en torno a los Caballeros Mágicos, usuarios modernos de la magia que luchan con sus propias almas convertidas en armas. Ikki Kurogane asiste al colegio de estos caballeros, pero recibe el nombre de \"caballero fallido\" o \"el peor caballero\" debido a sus múltiples fracasos por su baja habilidad mágica. Sin embargo, un día, Stella, una princesa extranjera y la estudiante número uno del colegio, decide retarlo a un duelo. En este duelo, \"el perdedor ha de jurar obediencia ante el ganador para el resto de su vida\".",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rakudai-kishi-no-cavalry.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/",
+  "episodios": [
+    {
+      "id_origen": 29706,
+      "numero": 1,
+      "titulo": "Rakudai Kishi no Cavalry - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb4ea12f999f3e1c0df45ab2983be5df.jpg",
+      "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/1/",
+      "publicado_en_origen": "2015-10-03 13:43:13"
+    },
+    {
+      "id_origen": 29777,
+      "numero": 2,
+      "titulo": "Rakudai Kishi no Cavalry - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5932e1bc9bc30711f71a60a3d5c965c.jpg",
+      "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/2/",
+      "publicado_en_origen": "2015-10-10 12:57:03"
+    },
+    {
+      "id_origen": 29842,
+      "numero": 3,
+      "titulo": "Rakudai Kishi no Cavalry - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18b30c4ac2b116fdb322b3a7f749979e.jpg",
+      "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/3/",
+      "publicado_en_origen": "2015-10-17 12:44:25"
+    },
+    {
+      "id_origen": 29901,
+      "numero": 4,
+      "titulo": "Rakudai Kishi no Cavalry - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_077bc03b8e133cac8e16533bc79c673c.jpg",
+      "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/4/",
+      "publicado_en_origen": "2015-10-24 12:30:51"
+    },
+    {
+      "id_origen": 29970,
+      "numero": 5,
+      "titulo": "Rakudai Kishi no Cavalry - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46c4e6a9d4e1392f1f86747329e15ab0.jpg",
+      "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/5/",
+      "publicado_en_origen": "2015-10-31 12:29:20"
+    },
+    {
+      "id_origen": 30026,
+      "numero": 6,
+      "titulo": "Rakudai Kishi no Cavalry - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d36227478a774fb5cf1b188eb483da1.jpg",
+      "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/6/",
+      "publicado_en_origen": "2015-11-07 13:56:45"
+    },
+    {
+      "id_origen": 30083,
+      "numero": 7,
+      "titulo": "Rakudai Kishi no Cavalry - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bd106ffe5e8ef167227db73267a1011.jpg",
+      "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/7/",
+      "publicado_en_origen": "2015-11-14 13:12:51"
+    },
+    {
+      "id_origen": 30145,
+      "numero": 8,
+      "titulo": "Rakudai Kishi no Cavalry - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20350ae97d3380ae78f158aca7089b23.jpg",
+      "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/8/",
+      "publicado_en_origen": "2015-11-21 12:05:25"
+    },
+    {
+      "id_origen": 30206,
+      "numero": 9,
+      "titulo": "Rakudai Kishi no Cavalry - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6de3681d8f3827433a7f8c54bbd5a81.jpg",
+      "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/9/",
+      "publicado_en_origen": "2015-11-28 12:07:37"
+    },
+    {
+      "id_origen": 30271,
+      "numero": 10,
+      "titulo": "Rakudai Kishi no Cavalry - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_076e1a66a92e6b769ea87b2944cbc5d9.jpg",
+      "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/10/",
+      "publicado_en_origen": "2015-12-05 12:37:21"
+    },
+    {
+      "id_origen": 30331,
+      "numero": 11,
+      "titulo": "Rakudai Kishi no Cavalry - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7757f31d887b1ef82d67308fc850bf5a.jpg",
+      "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/11/",
+      "publicado_en_origen": "2015-12-12 13:16:06"
+    },
+    {
+      "id_origen": 30385,
+      "numero": 12,
+      "titulo": "Rakudai Kishi no Cavalry - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47b4388afbc65310d3ba617913e81d27.jpg",
+      "url_origen": "https://jkanime.net/rakudai-kishi-no-cavalry/12/",
+      "publicado_en_origen": "2015-12-19 12:36:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1658",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:43:31+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id_origen": 4464,
+  "slug": "hanaukyou-maid-tai-ova",
+  "titulo": "Hanaukyou Maid-tai OVA",
+  "titulo_corto": "Hanaukyou Maid-tai OVA",
+  "sinopsis": "En esta OVA de tres episodios, Taro descubre más cosas sobre la vida de Cynthia como ella misma y como su alter ego Grace. También se somete a un entrenamiento con su guardaespaldas Konoe. Y, por último, Ikuyo engaña a Taro para que pase todo un día disfrazado de sirvienta.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hanaukyou-maid-tai-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hanaukyou-maid-tai-ova/",
+  "episodios": [
+    {
+      "id_origen": 69092,
+      "numero": 1,
+      "titulo": "Hanaukyou Maid-tai OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8e52b8cc620b11b1e9a23754a383219.jpg",
+      "url_origen": "https://jkanime.net/hanaukyou-maid-tai-ova/1/",
+      "publicado_en_origen": "2025-11-27 22:32:58"
+    },
+    {
+      "id_origen": 69093,
+      "numero": 2,
+      "titulo": "Hanaukyou Maid-tai OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ff559d0c7838463a494c643672e59a2.jpg",
+      "url_origen": "https://jkanime.net/hanaukyou-maid-tai-ova/2/",
+      "publicado_en_origen": "2025-11-27 22:32:58"
+    },
+    {
+      "id_origen": 69094,
+      "numero": 3,
+      "titulo": "Hanaukyou Maid-tai OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03d3e243f1ecde6d89f7b010cef62f2e.jpg",
+      "url_origen": "https://jkanime.net/hanaukyou-maid-tai-ova/3/",
+      "publicado_en_origen": "2025-11-27 22:32:58"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4464",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:29:47+00:00"
+}

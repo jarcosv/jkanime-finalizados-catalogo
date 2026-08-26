@@ -1,0 +1,29 @@
+{
+  "id_origen": 4852,
+  "slug": "doraemon-movie-01-nobita-no-kyouryuu",
+  "titulo": "Doraemon Movie 01: Nobita no Kyouryuu",
+  "titulo_corto": "Doraemon Movie 01: Nobita no K...",
+  "sinopsis": "Nobita encuentra por casualidad un huevo de dinosaurio fosilizado y, con la ayuda de los artilugios de Doraemon, lo incuban y empiezan a criar al dinosaurio. Consciente de que no pueden quedarse con el dinosaurio para siempre, Nobita se ve obligado a devolverlo a la prehistoria, donde un grupo de cazadores del futuro amenaza con poner en peligro a los dinosaurios. Decididos a salvar a los dinosaurios de las garras de los cazadores, Doraemon y la pandilla regresan al pasado y se embarcan en una aventura prehistórica.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/doraemon-movie-01-nobita-no-kyouryuu.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/doraemon-movie-01-nobita-no-kyouryuu/",
+  "episodios": [
+    {
+      "id_origen": 74836,
+      "numero": 1,
+      "titulo": "Doraemon Movie 01: Nobita no Kyouryuu",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7e8236f6d70feeaaf01f2f59ff3dd0c.jpg",
+      "url_origen": "https://jkanime.net/doraemon-movie-01-nobita-no-kyouryuu/1/",
+      "publicado_en_origen": "2026-07-05 04:54:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4852",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:20+00:00"
+}

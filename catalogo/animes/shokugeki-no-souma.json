@@ -1,0 +1,213 @@
+{
+  "id_origen": 1489,
+  "slug": "shokugeki-no-souma",
+  "titulo": "Food Wars: Shokugeki no Soma",
+  "titulo_corto": "Food Wars: Shokugeki no Soma",
+  "sinopsis": "Desde que tiene uso de razón, el sueño de Yukihira Soma ha sido trabajar como cocinero en el restaurante de su padre, Jouichirou, y superarle. Sin embargo, cuando el joven se gradúa en el instituto y ya está preparado para empezar a trabajar... ¡su padre cierra el restaurante para irse a trabajar a Europa!\n\nA pesar de ello, Jouichirou le plantea un reto a su hijo antes de partir: sobrevivir a la Academia Culinaria Tōtsuki, un centro de élite en la que sólo el 10% de sus asistentes logran graduarse.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shokugeki-no-souma.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shokugeki-no-souma/",
+  "episodios": [
+    {
+      "id_origen": 27365,
+      "numero": 1,
+      "titulo": "Food Wars: Shokugeki no Soma - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7ca76a7d3fb6b5b78b4106b70b2fc03.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/1/",
+      "publicado_en_origen": "2015-04-03 14:32:23"
+    },
+    {
+      "id_origen": 27442,
+      "numero": 2,
+      "titulo": "Food Wars: Shokugeki no Soma - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6ecac22311ccb4c6370be154552f3e5.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/2/",
+      "publicado_en_origen": "2015-04-10 14:34:24"
+    },
+    {
+      "id_origen": 27507,
+      "numero": 3,
+      "titulo": "Food Wars: Shokugeki no Soma - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_666108a9094a0ec0f62ca61a2eb74538.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/3/",
+      "publicado_en_origen": "2015-04-17 14:32:42"
+    },
+    {
+      "id_origen": 27577,
+      "numero": 4,
+      "titulo": "Food Wars: Shokugeki no Soma - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d0344aed203945f2dc1912d5c27752e.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/4/",
+      "publicado_en_origen": "2015-04-24 14:35:11"
+    },
+    {
+      "id_origen": 27641,
+      "numero": 5,
+      "titulo": "Food Wars: Shokugeki no Soma - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c447dec4c6828275655416d3ceebc18f.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/5/",
+      "publicado_en_origen": "2015-05-01 14:33:46"
+    },
+    {
+      "id_origen": 27702,
+      "numero": 6,
+      "titulo": "Food Wars: Shokugeki no Soma - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_174fa28f35090a13aa4bab118835a571.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/6/",
+      "publicado_en_origen": "2015-05-08 14:36:40"
+    },
+    {
+      "id_origen": 27763,
+      "numero": 7,
+      "titulo": "Food Wars: Shokugeki no Soma - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f894de0e96476139a9bd8386cfa2527d.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/7/",
+      "publicado_en_origen": "2015-05-15 14:32:29"
+    },
+    {
+      "id_origen": 27829,
+      "numero": 8,
+      "titulo": "Food Wars: Shokugeki no Soma - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b992723f9bc784bf46907eee25f6c9f.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/8/",
+      "publicado_en_origen": "2015-05-22 14:32:37"
+    },
+    {
+      "id_origen": 27892,
+      "numero": 9,
+      "titulo": "Food Wars: Shokugeki no Soma - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b9b987df093605d39c7aa0e30771742.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/9/",
+      "publicado_en_origen": "2015-05-29 14:33:50"
+    },
+    {
+      "id_origen": 27955,
+      "numero": 10,
+      "titulo": "Food Wars: Shokugeki no Soma - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e57a30d42233829bb65aab0262e463b.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/10/",
+      "publicado_en_origen": "2015-06-05 14:34:11"
+    },
+    {
+      "id_origen": 28251,
+      "numero": 11,
+      "titulo": "Food Wars: Shokugeki no Soma - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dfbac99bfb6d351efe1814d7339e9d9.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/11/",
+      "publicado_en_origen": "2015-06-12 14:34:38"
+    },
+    {
+      "id_origen": 28498,
+      "numero": 12,
+      "titulo": "Food Wars: Shokugeki no Soma - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7425da72a486e6097524b74f9f242765.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/12/",
+      "publicado_en_origen": "2015-06-19 14:34:08"
+    },
+    {
+      "id_origen": 28567,
+      "numero": 13,
+      "titulo": "Food Wars: Shokugeki no Soma - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b634a18d05447cdccf5f9012450904f2.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/13/",
+      "publicado_en_origen": "2015-06-26 14:34:09"
+    },
+    {
+      "id_origen": 28611,
+      "numero": 14,
+      "titulo": "Food Wars: Shokugeki no Soma - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fea42d70f2e3905853625e0e9762120f.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/14/",
+      "publicado_en_origen": "2015-07-03 14:33:29"
+    },
+    {
+      "id_origen": 28742,
+      "numero": 15,
+      "titulo": "Food Wars: Shokugeki no Soma - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9828cb4d004ea22ddad5fb03c84a2379.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/15/",
+      "publicado_en_origen": "2015-07-17 14:33:50"
+    },
+    {
+      "id_origen": 28813,
+      "numero": 16,
+      "titulo": "Food Wars: Shokugeki no Soma - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1a64a0e360d5ddaf0a3b33c67e3c016.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/16/",
+      "publicado_en_origen": "2015-07-24 14:30:28"
+    },
+    {
+      "id_origen": 28879,
+      "numero": 17,
+      "titulo": "Food Wars: Shokugeki no Soma - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2063161b3a5a50a05bec1772b798591a.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/17/",
+      "publicado_en_origen": "2015-07-31 14:32:50"
+    },
+    {
+      "id_origen": 28939,
+      "numero": 18,
+      "titulo": "Food Wars: Shokugeki no Soma - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21c3b4a7e53f44b1e09f2702f50e775b.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/18/",
+      "publicado_en_origen": "2015-08-07 14:34:17"
+    },
+    {
+      "id_origen": 29006,
+      "numero": 19,
+      "titulo": "Food Wars: Shokugeki no Soma - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11a5b5ef81cff76a0a1f3d042f635df3.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/19/",
+      "publicado_en_origen": "2015-08-14 14:40:31"
+    },
+    {
+      "id_origen": 29068,
+      "numero": 20,
+      "titulo": "Food Wars: Shokugeki no Soma - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c37f52f0de5fb6ee4ee1d8cb7a0b085.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/20/",
+      "publicado_en_origen": "2015-08-21 14:34:06"
+    },
+    {
+      "id_origen": 29140,
+      "numero": 21,
+      "titulo": "Food Wars: Shokugeki no Soma - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d7a236fafc9dbdf27697fadd7ff14cc.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/21/",
+      "publicado_en_origen": "2015-08-28 14:33:37"
+    },
+    {
+      "id_origen": 29204,
+      "numero": 22,
+      "titulo": "Food Wars: Shokugeki no Soma - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d57c3910d36def0f811078b484fd8530.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/22/",
+      "publicado_en_origen": "2015-09-04 14:35:40"
+    },
+    {
+      "id_origen": 29347,
+      "numero": 23,
+      "titulo": "Food Wars: Shokugeki no Soma - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5896580fef0fba59f84ab5a2f3d3664d.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/23/",
+      "publicado_en_origen": "2015-09-11 14:32:01"
+    },
+    {
+      "id_origen": 29653,
+      "numero": 24,
+      "titulo": "Food Wars: Shokugeki no Soma - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7567e4dd48114e82ef45702ccbc06c5.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma/24/",
+      "publicado_en_origen": "2015-09-25 14:30:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1489",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:27:08+00:00"
+}

@@ -1,0 +1,533 @@
+{
+  "id_origen": 380,
+  "slug": "fullmetal-alchemist-brotherhood",
+  "titulo": "Fullmetal Alchemist: Brotherhood",
+  "titulo_corto": "Fullmetal Alchemist: Brotherho...",
+  "sinopsis": "La historia se centra en dos hermanos, Edward Elric y Alphonse Elric que rompieron el mayor tabú de la alquimia, la trasmutación humana al tratar de revivir a su fallecida madre; en consecuencia Edward pierde su pierna izquierda y Alphonse pierde todo su cuerpo, Edward para salvar a su hermano sella su alma en una gran armadura de hierro a cambio de su brazo derecho; ahora los dos con un nuevo objetivo buscan desesperadamente la piedra filosofal para poder regresar sus cuerpos a la normalidad...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fullmetal-alchemist-brotherhood.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/",
+  "episodios": [
+    {
+      "id_origen": 14022,
+      "numero": 1,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87c527cac12268901c64a3f56902fe6b.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/1/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14023,
+      "numero": 2,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a37887d2b55c87ad45dabf3ceb968b0.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/2/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14024,
+      "numero": 3,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_723bd01f65708dcab0548d00d78b0741.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/3/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14025,
+      "numero": 4,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3af6a013ffca8b7e22ce57d00090b754.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/4/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14026,
+      "numero": 5,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3f22264dbacb7ea850f2108d0b8bdf3.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/5/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14027,
+      "numero": 6,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e394c4fcf4858aeb877a99486c9c9418.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/6/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14028,
+      "numero": 7,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_097a266326991a991c77d203160c8563.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/7/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14029,
+      "numero": 8,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38dc1cfbbc29336d6e9dc76e9475d4e6.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/8/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14030,
+      "numero": 9,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd33a21f7b5d1e39ae66b67be7a6d253.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/9/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14031,
+      "numero": 10,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b16d68771e66bcf6386df99368154934.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/10/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14032,
+      "numero": 11,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2950b6afd1a54045c0659ae2368893c8.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/11/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14033,
+      "numero": 12,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_951ff4e98728489ab3949b77a11507e2.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/12/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14034,
+      "numero": 13,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8db7b8a002edf0b81837b1d347a3657c.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/13/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14035,
+      "numero": 14,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5cc5786888fcd29fead92651a9ddd9c1.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/14/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14036,
+      "numero": 15,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a767b1393860de7db35a9954b1aa2f9d.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/15/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14037,
+      "numero": 16,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43e0f65fa19829c2ba10cc1e04f6b147.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/16/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14038,
+      "numero": 17,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dec69fd432365f7affe596a50965e29.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/17/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14039,
+      "numero": 18,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_181cf41ce37cf9128e1d95896661c5c9.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/18/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14040,
+      "numero": 19,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8cde262fa88618f09747e11735d0bc09.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/19/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14041,
+      "numero": 20,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4a39d2dae0a618f4ff46d348b9eedb7.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/20/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14042,
+      "numero": 21,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45efa623f6111a5e410641c6b86c85ea.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/21/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14043,
+      "numero": 22,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_999c6838f46b9a572fc823ee0590dd15.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/22/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14044,
+      "numero": 23,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2cb1e384e0906033e91c4795c75ae6fb.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/23/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14045,
+      "numero": 24,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39e9d130e6936441d85e8b7e28860823.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/24/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14046,
+      "numero": 25,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_050553d40196ef109fff37cbb40aaf28.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/25/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14047,
+      "numero": 26,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c14d9e1250da76981b5fac734227f0a.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/26/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14048,
+      "numero": 27,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_445448cfb89afd8e924daec8a53ddd16.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/27/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14049,
+      "numero": 28,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ef93f7f477aa4674324b551ee68529f.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/28/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14050,
+      "numero": 29,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64088ac40459322f5faa65ecafcd77cf.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/29/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14051,
+      "numero": 30,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66894012670fbc5532ca44f2f87ef848.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/30/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14052,
+      "numero": 31,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_818e9b09babdd65d130adad9a4ca9274.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/31/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14053,
+      "numero": 32,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_249b96bd669d584de425cc8761d2ca9f.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/32/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14054,
+      "numero": 33,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_872fb3fb0971627bd1e3eb852900a177.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/33/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14055,
+      "numero": 34,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f9d7d036be82e3c8c373b3646d3ff8e.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/34/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14056,
+      "numero": 35,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39a1dafc5f8576b47d615f12de932e09.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/35/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14057,
+      "numero": 36,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9becb4fc983a43a91e182c79cc5e99c.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/36/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14058,
+      "numero": 37,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91836ea292e688863d5165ae32aef8ff.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/37/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14059,
+      "numero": 38,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b87a374bf05212831dde204637f56cb.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/38/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14060,
+      "numero": 39,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fd48905c01efe57e06cef04e3d71038.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/39/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14061,
+      "numero": 40,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9dab015b5ebf6fce8c88e0d387c057d.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/40/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14062,
+      "numero": 41,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e775a20f0553c08010a113c9c67de544.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/41/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14063,
+      "numero": 42,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a62026e6b035b51682672932876a119.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/42/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14064,
+      "numero": 43,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae852ba7ae75fa4c5c7d186a61fcce92.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/43/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14065,
+      "numero": 44,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7dc648573025e45ad653e535fabfd1ae.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/44/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14066,
+      "numero": 45,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_972494a2e9aa540c53cdadab0caa401c.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/45/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14067,
+      "numero": 46,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4cfab7920e9cb176ab3b4e324d85f63.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/46/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14068,
+      "numero": 47,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab394288aed46588bdc90bf4b541ec0d.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/47/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14069,
+      "numero": 48,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75144d9c8780608425dd34bfaf7b96f0.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/48/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14070,
+      "numero": 49,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ee7811d398ae2240f5d3f0684ecb8d3.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/49/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14071,
+      "numero": 50,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cccb7ec704e828b99068ec1b9cf1fc03.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/50/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14072,
+      "numero": 51,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87beda256fb458032e2ca68974cc3acc.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/51/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14073,
+      "numero": 52,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2723158d0ff85a73b387df5e2809f0bc.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/52/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14074,
+      "numero": 53,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da1e732bc2b7ce5dafda6bfc58a4b5ec.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/53/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14075,
+      "numero": 54,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69ee114722e3e7df044c4eaec11ff77c.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/54/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14076,
+      "numero": 55,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f2798418e4bad12ef063cb9300805bd.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/55/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14077,
+      "numero": 56,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2a95f085fcfbe679d6915921ce6603f.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/56/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14078,
+      "numero": 57,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_803ae237d2df8bdde7bcbd872396d192.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/57/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14079,
+      "numero": 58,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e64caaff8e5c0399ab73c9fe1e37bd79.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/58/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14080,
+      "numero": 59,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c04a5ed0320644d5aa85fd487dc6f3b0.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/59/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14081,
+      "numero": 60,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_037a15f03246f075193b2a295ba4c466.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/60/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14082,
+      "numero": 61,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee0f827fe45c91c956bacfd78d91d47b.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/61/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14083,
+      "numero": 62,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e671ed4fbb952426558443e0827b7ea9.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/62/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14084,
+      "numero": 63,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9edfa99c15e2845965b91b38e2b1311c.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/63/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    },
+    {
+      "id_origen": 14085,
+      "numero": 64,
+      "titulo": "Fullmetal Alchemist: Brotherhood - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80c7c407281e2ea672696a0147d9fb12.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-brotherhood/64/",
+      "publicado_en_origen": "2011-12-22 18:55:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "380",
+  "cantidad_episodios_declarada": 64,
+  "detalle_extraido_en": "2026-08-26T18:27:26+00:00"
+}

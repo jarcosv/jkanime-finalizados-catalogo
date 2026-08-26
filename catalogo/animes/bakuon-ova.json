@@ -1,0 +1,29 @@
+{
+  "id_origen": 1777,
+  "slug": "bakuon-ova",
+  "titulo": "Bakuon!! OVA",
+  "titulo_corto": "Bakuon!! OVA",
+  "sinopsis": "OVA incluída en el séptimo volumen del manga.\nHane Sakura es una chica que parece una cabeza-hueca, quien mientras sube a una colina en su bicicleta se encuentra con una chica llamada Onsa Amano que está manejado una motocicleta. A partir de ahí, Sakura se comienza a interesar por las motocicletas, uniéndose junto con Onsa al club de motocicletas en su escuela. Posteriormente Sakura se dispone a conseguir su licencia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bakuon-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bakuon-ova/",
+  "episodios": [
+    {
+      "id_origen": 31180,
+      "numero": 1,
+      "titulo": "Bakuon!! OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_869984f8baf167efc8123bf85fc1ccb4.jpg",
+      "url_origen": "https://jkanime.net/bakuon-ova/1/",
+      "publicado_en_origen": "2016-03-22 01:24:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:36+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1777",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:18:53+00:00"
+}

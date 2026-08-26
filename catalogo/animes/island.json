@@ -1,0 +1,117 @@
+{
+  "id_origen": 2245,
+  "slug": "island",
+  "titulo": "Island",
+  "titulo_corto": "Island",
+  "sinopsis": "Urashima, es una isla bastante alejada flotando en el océano.\n\nUrashima es vista como un paraíso, llena de naturaleza. Sin embargo, un pasado extraño y costumbres establecidas mantienen a su población prisionera de la isla.\n\nLos residentes de esta isla han aceptado que han sido abandonados por los habitantes de la tierra firme quienes los han olvidado gradualmente. Entonces, un día, un joven llega perdido a la isla, y se refiere a sí mismo como un “viajero del tiempo” de nombre Setsuna.\n\nSetsuna no tiene ninguna memoria, solo la sensación de que está en una misión la cual debe completar. Luego él conoce a tres chicas llamadas Rinne, Karen y Sara. Es allí donde él comienza a cambiar el futuro de la isla.\n\nEsta es la historia de un chico, tres chicas, y una misteriosa isla llena de misterio y costumbres extrañas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/island.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/island/",
+  "episodios": [
+    {
+      "id_origen": 37458,
+      "numero": 1,
+      "titulo": "Island - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2001061d7ff8025aeabbfa078359b49d.jpg",
+      "url_origen": "https://jkanime.net/island/1/",
+      "publicado_en_origen": "2018-07-04 04:11:47"
+    },
+    {
+      "id_origen": 37494,
+      "numero": 2,
+      "titulo": "Island - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1ef7d0e1dc5ef444f75d5bdc591a9a7.jpg",
+      "url_origen": "https://jkanime.net/island/2/",
+      "publicado_en_origen": "2018-07-21 06:05:35"
+    },
+    {
+      "id_origen": 37495,
+      "numero": 3,
+      "titulo": "Island - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_817a5acf77700c5f189851e8deacd22c.jpg",
+      "url_origen": "https://jkanime.net/island/3/",
+      "publicado_en_origen": "2018-07-21 06:07:11"
+    },
+    {
+      "id_origen": 37505,
+      "numero": 4,
+      "titulo": "Island - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87d353c0dee92eaa06692d4f6ae2078a.jpg",
+      "url_origen": "https://jkanime.net/island/4/",
+      "publicado_en_origen": "2018-07-22 20:32:36"
+    },
+    {
+      "id_origen": 37558,
+      "numero": 5,
+      "titulo": "Island - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_510c7d0be8906391133aa81683f4ce2f.jpg",
+      "url_origen": "https://jkanime.net/island/5/",
+      "publicado_en_origen": "2018-07-29 13:47:40"
+    },
+    {
+      "id_origen": 37590,
+      "numero": 6,
+      "titulo": "Island - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_030a77a5a055e21b0f71060aeeaca368.jpg",
+      "url_origen": "https://jkanime.net/island/6/",
+      "publicado_en_origen": "2018-08-05 15:31:47"
+    },
+    {
+      "id_origen": 37618,
+      "numero": 7,
+      "titulo": "Island - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7ea7cb6398ac7cd568a1dcdb7cdf5e7.jpg",
+      "url_origen": "https://jkanime.net/island/7/",
+      "publicado_en_origen": "2018-08-12 21:53:22"
+    },
+    {
+      "id_origen": 37664,
+      "numero": 8,
+      "titulo": "Island - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3faefac225341e6c3ea0b8a2b59821ea.jpg",
+      "url_origen": "https://jkanime.net/island/8/",
+      "publicado_en_origen": "2018-08-19 16:05:13"
+    },
+    {
+      "id_origen": 37691,
+      "numero": 9,
+      "titulo": "Island - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62726dd6010ec676276d3e66a52ae5d6.jpg",
+      "url_origen": "https://jkanime.net/island/9/",
+      "publicado_en_origen": "2018-08-27 18:23:00"
+    },
+    {
+      "id_origen": 37740,
+      "numero": 10,
+      "titulo": "Island - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6a88dfc188ba5548572029ca1d0d273.jpg",
+      "url_origen": "https://jkanime.net/island/10/",
+      "publicado_en_origen": "2018-09-02 13:11:09"
+    },
+    {
+      "id_origen": 37812,
+      "numero": 11,
+      "titulo": "Island - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67170e68b57b735f4fe2052e6b68772a.jpg",
+      "url_origen": "https://jkanime.net/island/11/",
+      "publicado_en_origen": "2018-09-09 13:21:36"
+    },
+    {
+      "id_origen": 37869,
+      "numero": 12,
+      "titulo": "Island - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3314823b3e76de2f99ab14830e4e2e1.jpg",
+      "url_origen": "https://jkanime.net/island/12/",
+      "publicado_en_origen": "2018-09-16 14:21:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2245",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:32:20+00:00"
+}

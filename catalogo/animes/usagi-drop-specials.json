@@ -1,0 +1,53 @@
+{
+  "id_origen": 444,
+  "slug": "usagi-drop-specials",
+  "titulo": "Usagi Drop Specials",
+  "titulo_corto": "Usagi Drop Specials",
+  "sinopsis": "Cuatro episodios cortos incluidos en el DVD/Blu-Ray. \nVol.1: Episodio 2.5 \nVol.2: Episodio 3.5 \nVol.3: Episodio 6.5 \nVol.4: Episodio 8.5",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/usagi-drop-specials/",
+  "episodios": [
+    {
+      "id_origen": 13044,
+      "numero": 1,
+      "titulo": "Usagi Drop Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop-specials.jpg",
+      "url_origen": "https://jkanime.net/usagi-drop-specials/1/",
+      "publicado_en_origen": "2011-11-02 16:44:13"
+    },
+    {
+      "id_origen": 13410,
+      "numero": 2,
+      "titulo": "Usagi Drop Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop-specials.jpg",
+      "url_origen": "https://jkanime.net/usagi-drop-specials/2/",
+      "publicado_en_origen": "2011-12-07 01:29:45"
+    },
+    {
+      "id_origen": 14536,
+      "numero": 3,
+      "titulo": "Usagi Drop Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop-specials.jpg",
+      "url_origen": "https://jkanime.net/usagi-drop-specials/3/",
+      "publicado_en_origen": "2012-01-15 10:17:31"
+    },
+    {
+      "id_origen": 15057,
+      "numero": 4,
+      "titulo": "Usagi Drop Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop-specials.jpg",
+      "url_origen": "https://jkanime.net/usagi-drop-specials/4/",
+      "publicado_en_origen": "2012-02-22 00:37:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:11+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "444",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:51:15+00:00"
+}

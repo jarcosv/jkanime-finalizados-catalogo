@@ -1,0 +1,117 @@
+{
+  "id_origen": 1498,
+  "slug": "hello-kiniro-mosaic",
+  "titulo": "Hello!! Kiniro Mosaic",
+  "titulo_corto": "Hello!! Kiniro Mosaic",
+  "sinopsis": "Segunda temporada de Kiniro Mosaic.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hello-kiniro-mosaic.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hello-kiniro-mosaic/",
+  "episodios": [
+    {
+      "id_origen": 27395,
+      "numero": 1,
+      "titulo": "Hello!! Kiniro Mosaic - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed4d7ad8af25336d87dc92371f38918f.jpg",
+      "url_origen": "https://jkanime.net/hello-kiniro-mosaic/1/",
+      "publicado_en_origen": "2015-04-05 11:42:35"
+    },
+    {
+      "id_origen": 27466,
+      "numero": 2,
+      "titulo": "Hello!! Kiniro Mosaic - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67317d6dcc4cb778aeb9219565f5456b.jpg",
+      "url_origen": "https://jkanime.net/hello-kiniro-mosaic/2/",
+      "publicado_en_origen": "2015-04-12 11:38:33"
+    },
+    {
+      "id_origen": 27537,
+      "numero": 3,
+      "titulo": "Hello!! Kiniro Mosaic - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d012c46243d7e2391b64b221dfcc18e3.jpg",
+      "url_origen": "https://jkanime.net/hello-kiniro-mosaic/3/",
+      "publicado_en_origen": "2015-04-19 11:37:01"
+    },
+    {
+      "id_origen": 27605,
+      "numero": 4,
+      "titulo": "Hello!! Kiniro Mosaic - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c46aa3e64c16b0ecf6bf60161a1e1c76.jpg",
+      "url_origen": "https://jkanime.net/hello-kiniro-mosaic/4/",
+      "publicado_en_origen": "2015-04-26 11:40:11"
+    },
+    {
+      "id_origen": 27666,
+      "numero": 5,
+      "titulo": "Hello!! Kiniro Mosaic - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_344fbbdb875272b916352c8040207bd6.jpg",
+      "url_origen": "https://jkanime.net/hello-kiniro-mosaic/5/",
+      "publicado_en_origen": "2015-05-03 11:40:12"
+    },
+    {
+      "id_origen": 27729,
+      "numero": 6,
+      "titulo": "Hello!! Kiniro Mosaic - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7462d4179056e65bcd3f2b8bcedc7277.jpg",
+      "url_origen": "https://jkanime.net/hello-kiniro-mosaic/6/",
+      "publicado_en_origen": "2015-05-10 11:51:03"
+    },
+    {
+      "id_origen": 27790,
+      "numero": 7,
+      "titulo": "Hello!! Kiniro Mosaic - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01efe0c4fb62ade937afa0bdf2ea0844.jpg",
+      "url_origen": "https://jkanime.net/hello-kiniro-mosaic/7/",
+      "publicado_en_origen": "2015-05-17 11:41:38"
+    },
+    {
+      "id_origen": 27854,
+      "numero": 8,
+      "titulo": "Hello!! Kiniro Mosaic - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e36f0c740bb07ffe60a85e7e5816afba.jpg",
+      "url_origen": "https://jkanime.net/hello-kiniro-mosaic/8/",
+      "publicado_en_origen": "2015-05-24 11:39:08"
+    },
+    {
+      "id_origen": 27919,
+      "numero": 9,
+      "titulo": "Hello!! Kiniro Mosaic - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e6c70cda1988d563aba2fa39bc65169.jpg",
+      "url_origen": "https://jkanime.net/hello-kiniro-mosaic/9/",
+      "publicado_en_origen": "2015-05-31 11:39:02"
+    },
+    {
+      "id_origen": 27978,
+      "numero": 10,
+      "titulo": "Hello!! Kiniro Mosaic - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e90a598324002f2bee63f39b95a52ff1.jpg",
+      "url_origen": "https://jkanime.net/hello-kiniro-mosaic/10/",
+      "publicado_en_origen": "2015-06-07 11:40:41"
+    },
+    {
+      "id_origen": 28373,
+      "numero": 11,
+      "titulo": "Hello!! Kiniro Mosaic - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fd04fbeeb9aabf2f029c8133c4bf881.jpg",
+      "url_origen": "https://jkanime.net/hello-kiniro-mosaic/11/",
+      "publicado_en_origen": "2015-06-14 11:38:31"
+    },
+    {
+      "id_origen": 28527,
+      "numero": 12,
+      "titulo": "Hello!! Kiniro Mosaic - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6e8c5451a2f2a81cf2dc6a7ca9903ea.jpg",
+      "url_origen": "https://jkanime.net/hello-kiniro-mosaic/12/",
+      "publicado_en_origen": "2015-06-21 11:41:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1498",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:30:14+00:00"
+}

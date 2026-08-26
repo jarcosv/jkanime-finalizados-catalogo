@@ -1,0 +1,117 @@
+{
+  "id_origen": 903,
+  "slug": "fantasista-doll",
+  "titulo": "Fantasista Doll",
+  "titulo_corto": "Fantasista Doll",
+  "sinopsis": "Fantasista Doll gira en torno a una chica de secundaria ordinaria, Uzume Uno, cuyo destino cambia un día, cuando se encuentra con unas misteriosas cartas que contienen muñecas con poderes especiales. Hace un contrato con las muñecas y se converte en la \"Master Card\", Uzume pronto se encuentra luchando no sólo por su pueblo, sino para salvar al mundo entero!.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fantasista-doll.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fantasista-doll/",
+  "episodios": [
+    {
+      "id_origen": 21029,
+      "numero": 1,
+      "titulo": "Fantasista Doll - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_366971226c73b87ab69e87918b9338a5.jpg",
+      "url_origen": "https://jkanime.net/fantasista-doll/1/",
+      "publicado_en_origen": "2013-07-07 17:16:12"
+    },
+    {
+      "id_origen": 21080,
+      "numero": 2,
+      "titulo": "Fantasista Doll - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96b6715edb4b085b70f0cff47d43a1ed.jpg",
+      "url_origen": "https://jkanime.net/fantasista-doll/2/",
+      "publicado_en_origen": "2013-07-14 21:59:35"
+    },
+    {
+      "id_origen": 21127,
+      "numero": 3,
+      "titulo": "Fantasista Doll - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c766cb374fd37fb59517aac231dafc81.jpg",
+      "url_origen": "https://jkanime.net/fantasista-doll/3/",
+      "publicado_en_origen": "2013-07-21 18:51:16"
+    },
+    {
+      "id_origen": 21174,
+      "numero": 4,
+      "titulo": "Fantasista Doll - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_548951f3b74ba7e6ee69f915953b0e44.jpg",
+      "url_origen": "https://jkanime.net/fantasista-doll/4/",
+      "publicado_en_origen": "2013-07-28 20:20:18"
+    },
+    {
+      "id_origen": 21219,
+      "numero": 5,
+      "titulo": "Fantasista Doll - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67ec81b79e603104769e55b6febbe4f1.jpg",
+      "url_origen": "https://jkanime.net/fantasista-doll/5/",
+      "publicado_en_origen": "2013-08-04 19:06:48"
+    },
+    {
+      "id_origen": 21314,
+      "numero": 6,
+      "titulo": "Fantasista Doll - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc05a22fa14faf0bd230a08b658b156d.jpg",
+      "url_origen": "https://jkanime.net/fantasista-doll/6/",
+      "publicado_en_origen": "2013-08-18 19:44:48"
+    },
+    {
+      "id_origen": 21360,
+      "numero": 7,
+      "titulo": "Fantasista Doll - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78106a0fa774284d86ec3585a5112ca5.jpg",
+      "url_origen": "https://jkanime.net/fantasista-doll/7/",
+      "publicado_en_origen": "2013-08-25 20:51:36"
+    },
+    {
+      "id_origen": 21407,
+      "numero": 8,
+      "titulo": "Fantasista Doll - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_954c42feaba402a134e4d89ae31cc766.jpg",
+      "url_origen": "https://jkanime.net/fantasista-doll/8/",
+      "publicado_en_origen": "2013-09-01 21:49:41"
+    },
+    {
+      "id_origen": 21457,
+      "numero": 9,
+      "titulo": "Fantasista Doll - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6a141f631618325c81115ed35c32ff5.jpg",
+      "url_origen": "https://jkanime.net/fantasista-doll/9/",
+      "publicado_en_origen": "2013-09-08 20:32:51"
+    },
+    {
+      "id_origen": 21504,
+      "numero": 10,
+      "titulo": "Fantasista Doll - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19f3ca179d09e8518d25a28d8e4e443f.jpg",
+      "url_origen": "https://jkanime.net/fantasista-doll/10/",
+      "publicado_en_origen": "2013-09-15 19:26:11"
+    },
+    {
+      "id_origen": 21549,
+      "numero": 11,
+      "titulo": "Fantasista Doll - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7da76bcce3c566843ea0b3e722ef22ee.jpg",
+      "url_origen": "https://jkanime.net/fantasista-doll/11/",
+      "publicado_en_origen": "2013-09-22 18:36:13"
+    },
+    {
+      "id_origen": 21585,
+      "numero": 12,
+      "titulo": "Fantasista Doll - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_feb31e0af2ca1ebde5c5c4f73a57fef8.jpg",
+      "url_origen": "https://jkanime.net/fantasista-doll/12/",
+      "publicado_en_origen": "2013-09-29 18:51:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:01+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "903",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:26:44+00:00"
+}

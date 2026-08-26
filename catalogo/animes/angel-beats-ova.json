@@ -1,0 +1,37 @@
+{
+  "id_origen": 488,
+  "slug": "angel-beats-ova",
+  "titulo": "Angel Beats! OVA",
+  "titulo_corto": "Angel Beats! OVA",
+  "sinopsis": "Episodio 1 : Incluido en el 7mo volumen de DVD/BD. Yuri Nakamura y sus SSS, se empeñan en desatar el caos en la escuela y despertar el interés de Tenshi, comportándose cómo si de verdad les gustara las tareas escolares. \n\nEpisodio 2 : Incluido en el Blu-ray Box de Angel Beats!, con el titulo de Hell's Kitchen.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/angel-beats-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/angel-beats-ova/",
+  "episodios": [
+    {
+      "id_origen": 14530,
+      "numero": 1,
+      "titulo": "Angel Beats!: Stairway to Heaven",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f701e22c252a24d9449e829b0c21666.jpg",
+      "url_origen": "https://jkanime.net/angel-beats-ova/1/",
+      "publicado_en_origen": "2012-01-13 21:12:14"
+    },
+    {
+      "id_origen": 28545,
+      "numero": 2,
+      "titulo": "Angel Beats! OVA 2 Hell's Kitchen",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02f838984bfa7e26567a1e06dd2728b5.jpg",
+      "url_origen": "https://jkanime.net/angel-beats-ova/2/",
+      "publicado_en_origen": "2015-06-24 13:59:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:15+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "488",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:16:34+00:00"
+}

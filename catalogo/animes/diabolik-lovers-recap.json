@@ -1,0 +1,29 @@
+{
+  "id_origen": 992,
+  "slug": "diabolik-lovers-recap",
+  "titulo": "Diabolik Lovers Recap",
+  "titulo_corto": "Diabolik Lovers Recap",
+  "sinopsis": "Episodio especial resumen 1-6 con nueva narracion.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/diabolik-lovers-recap.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/diabolik-lovers-recap/",
+  "episodios": [
+    {
+      "id_origen": 21842,
+      "numero": 1,
+      "titulo": "Diabolik Lovers 6.5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4c0565355a8fbf03916d0bd025e02c8.jpg",
+      "url_origen": "https://jkanime.net/diabolik-lovers-recap/1/",
+      "publicado_en_origen": "2013-10-28 15:35:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "992",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:54+00:00"
+}

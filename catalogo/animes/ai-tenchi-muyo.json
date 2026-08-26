@@ -1,0 +1,501 @@
+{
+  "id_origen": 1306,
+  "slug": "ai-tenchi-muyo",
+  "titulo": "Ai Tenchi Muyo!",
+  "titulo_corto": "Ai Tenchi Muyo!",
+  "sinopsis": "El mundo vuelve a estar en peligro por tanto ajetreo de Washu, la científica más grande que el universo ha conocido, según ella misma dice. Para salvar la situación, Tenchi se infiltra en un instituto femenino como profesor. Sin embargo, los problemas no harán sino empezar para él.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ai-tenchi-muyo.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ai-tenchi-muyo/",
+  "episodios": [
+    {
+      "id_origen": 25012,
+      "numero": 1,
+      "titulo": "Ai Tenchi Muyo! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b71faf915b91184a5c4dc56c7d6262da.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/1/",
+      "publicado_en_origen": "2014-10-06 13:42:34"
+    },
+    {
+      "id_origen": 25023,
+      "numero": 2,
+      "titulo": "Ai Tenchi Muyo! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fee1993d2ce16bae4945e3090b9feef.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/2/",
+      "publicado_en_origen": "2014-10-07 23:22:19"
+    },
+    {
+      "id_origen": 25031,
+      "numero": 3,
+      "titulo": "Ai Tenchi Muyo! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52c2edca4131f0eeaff48a3f9a99bce0.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/3/",
+      "publicado_en_origen": "2014-10-08 16:50:45"
+    },
+    {
+      "id_origen": 25039,
+      "numero": 4,
+      "titulo": "Ai Tenchi Muyo! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4197c77706a5d5610d83f009209b00fe.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/4/",
+      "publicado_en_origen": "2014-10-09 16:52:05"
+    },
+    {
+      "id_origen": 25046,
+      "numero": 5,
+      "titulo": "Ai Tenchi Muyo! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47faaa86a0f77d1d93bdc57e86cfd6c6.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/5/",
+      "publicado_en_origen": "2014-10-10 15:29:35"
+    },
+    {
+      "id_origen": 25080,
+      "numero": 6,
+      "titulo": "Ai Tenchi Muyo! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0bad21adb7b77a1503abfc43a27f934.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/6/",
+      "publicado_en_origen": "2014-10-13 16:28:35"
+    },
+    {
+      "id_origen": 25084,
+      "numero": 7,
+      "titulo": "Ai Tenchi Muyo! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed0eebbaa23beae2d9fcb2fd70cd6feb.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/7/",
+      "publicado_en_origen": "2014-10-14 16:58:15"
+    },
+    {
+      "id_origen": 25091,
+      "numero": 8,
+      "titulo": "Ai Tenchi Muyo! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b7314ae41df37842b9d4e5e279caec1.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/8/",
+      "publicado_en_origen": "2014-10-15 15:21:06"
+    },
+    {
+      "id_origen": 25107,
+      "numero": 9,
+      "titulo": "Ai Tenchi Muyo! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b76226c0b9542b5fa7c4ff56ff755802.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/9/",
+      "publicado_en_origen": "2014-10-16 18:10:40"
+    },
+    {
+      "id_origen": 25114,
+      "numero": 10,
+      "titulo": "Ai Tenchi Muyo! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89ada874a8dffb56920a557a3909f827.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/10/",
+      "publicado_en_origen": "2014-10-17 16:25:03"
+    },
+    {
+      "id_origen": 25149,
+      "numero": 11,
+      "titulo": "Ai Tenchi Muyo! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2354ec2849bd2954df8dd2f2199d58a2.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/11/",
+      "publicado_en_origen": "2014-10-20 15:12:11"
+    },
+    {
+      "id_origen": 25156,
+      "numero": 12,
+      "titulo": "Ai Tenchi Muyo! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9dbfcad63c454a4e096bbe334b8e45d.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/12/",
+      "publicado_en_origen": "2014-10-21 16:47:23"
+    },
+    {
+      "id_origen": 25167,
+      "numero": 13,
+      "titulo": "Ai Tenchi Muyo! - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25485df232e188a3f3e514ee1c9de020.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/13/",
+      "publicado_en_origen": "2014-10-22 14:50:08"
+    },
+    {
+      "id_origen": 25179,
+      "numero": 14,
+      "titulo": "Ai Tenchi Muyo! - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64bac3ef8a6e27b02dc9d6d972b03795.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/14/",
+      "publicado_en_origen": "2014-10-23 15:40:18"
+    },
+    {
+      "id_origen": 25187,
+      "numero": 15,
+      "titulo": "Ai Tenchi Muyo! - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43a4d135b5225238f2adbf88dc810a6b.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/15/",
+      "publicado_en_origen": "2014-10-24 15:20:04"
+    },
+    {
+      "id_origen": 25216,
+      "numero": 16,
+      "titulo": "Ai Tenchi Muyo! - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbe6d597571bb896e706cc540d4027d9.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/16/",
+      "publicado_en_origen": "2014-10-27 13:35:14"
+    },
+    {
+      "id_origen": 25223,
+      "numero": 17,
+      "titulo": "Ai Tenchi Muyo! - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f34c1c12d462e8df1728610c4485db59.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/17/",
+      "publicado_en_origen": "2014-10-28 16:31:27"
+    },
+    {
+      "id_origen": 25234,
+      "numero": 18,
+      "titulo": "Ai Tenchi Muyo! - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e56dbe0f3e1c9cecf699a16e06a98cae.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/18/",
+      "publicado_en_origen": "2014-10-29 15:21:57"
+    },
+    {
+      "id_origen": 25246,
+      "numero": 19,
+      "titulo": "Ai Tenchi Muyo! - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_873111dfe6a0f5f2008f00687567e5d8.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/19/",
+      "publicado_en_origen": "2014-10-30 14:31:37"
+    },
+    {
+      "id_origen": 25257,
+      "numero": 20,
+      "titulo": "Ai Tenchi Muyo! - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_689e751a255f8518cd7ff4ec204377ca.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/20/",
+      "publicado_en_origen": "2014-10-31 15:33:26"
+    },
+    {
+      "id_origen": 25291,
+      "numero": 21,
+      "titulo": "Ai Tenchi Muyo! - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b17d006a2ed6f12f07c7ea60b8002b5.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/21/",
+      "publicado_en_origen": "2014-11-03 15:57:25"
+    },
+    {
+      "id_origen": 25300,
+      "numero": 22,
+      "titulo": "Ai Tenchi Muyo! - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_049251c63a428a409b576d20a86ec031.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/22/",
+      "publicado_en_origen": "2014-11-04 15:31:28"
+    },
+    {
+      "id_origen": 25309,
+      "numero": 23,
+      "titulo": "Ai Tenchi Muyo! - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_064363da823e3069feb824121581dd76.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/23/",
+      "publicado_en_origen": "2014-11-05 16:13:21"
+    },
+    {
+      "id_origen": 25321,
+      "numero": 24,
+      "titulo": "Ai Tenchi Muyo! - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a30b36cd9c2e0343ae527b263a7b0abb.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/24/",
+      "publicado_en_origen": "2014-11-06 15:55:33"
+    },
+    {
+      "id_origen": 25329,
+      "numero": 25,
+      "titulo": "Ai Tenchi Muyo! - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a639c52538fd7bb3e1186724afbe9b2.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/25/",
+      "publicado_en_origen": "2014-11-07 18:47:14"
+    },
+    {
+      "id_origen": 25362,
+      "numero": 26,
+      "titulo": "Ai Tenchi Muyo! - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04678698d4bd6a8a5b775ec3ac878191.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/26/",
+      "publicado_en_origen": "2014-11-10 18:20:03"
+    },
+    {
+      "id_origen": 25368,
+      "numero": 27,
+      "titulo": "Ai Tenchi Muyo! - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b51e4564bcafee1b797c2ef510e0f989.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/27/",
+      "publicado_en_origen": "2014-11-11 16:17:23"
+    },
+    {
+      "id_origen": 25390,
+      "numero": 28,
+      "titulo": "Ai Tenchi Muyo! - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93dd84d3f9b0cc34957a3d9166d2d75e.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/28/",
+      "publicado_en_origen": "2014-11-12 22:45:18"
+    },
+    {
+      "id_origen": 25401,
+      "numero": 29,
+      "titulo": "Ai Tenchi Muyo! - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_278308daa55d994df716e2ef196c0fbd.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/29/",
+      "publicado_en_origen": "2014-11-13 18:58:35"
+    },
+    {
+      "id_origen": 25460,
+      "numero": 30,
+      "titulo": "Ai Tenchi Muyo! - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0243062e292cce3284a1cd9a8e30300.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/30/",
+      "publicado_en_origen": "2014-11-17 09:55:41"
+    },
+    {
+      "id_origen": 25472,
+      "numero": 31,
+      "titulo": "Ai Tenchi Muyo! - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f75f02d15ae1f6ed96adc5761351562.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/31/",
+      "publicado_en_origen": "2014-11-17 17:20:41"
+    },
+    {
+      "id_origen": 25497,
+      "numero": 32,
+      "titulo": "Ai Tenchi Muyo! - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfaadb09eb2d1eb21b7b5f1eac3ea902.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/32/",
+      "publicado_en_origen": "2014-11-18 17:26:19"
+    },
+    {
+      "id_origen": 25553,
+      "numero": 33,
+      "titulo": "Ai Tenchi Muyo! - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_203090164fb9e5062261f0713cfd1a9c.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/33/",
+      "publicado_en_origen": "2014-11-24 12:28:35"
+    },
+    {
+      "id_origen": 25554,
+      "numero": 34,
+      "titulo": "Ai Tenchi Muyo! - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66e59e173c4f52d4f061e7037fa19c46.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/34/",
+      "publicado_en_origen": "2014-11-24 12:45:31"
+    },
+    {
+      "id_origen": 25560,
+      "numero": 35,
+      "titulo": "Ai Tenchi Muyo! - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab8d69582f285942fdd5ccd29a678476.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/35/",
+      "publicado_en_origen": "2014-11-24 19:30:00"
+    },
+    {
+      "id_origen": 25561,
+      "numero": 36,
+      "titulo": "Ai Tenchi Muyo! - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd652bf1e9b66171ef77f1e0db2e9c1e.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/36/",
+      "publicado_en_origen": "2014-11-24 19:36:57"
+    },
+    {
+      "id_origen": 25567,
+      "numero": 37,
+      "titulo": "Ai Tenchi Muyo! - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd38184ee56f9f286f9a4e649a740e42.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/37/",
+      "publicado_en_origen": "2014-11-25 18:38:13"
+    },
+    {
+      "id_origen": 25579,
+      "numero": 38,
+      "titulo": "Ai Tenchi Muyo! - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86f77fb5fa5b26fbcb103e7de206d2f4.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/38/",
+      "publicado_en_origen": "2014-11-26 18:22:36"
+    },
+    {
+      "id_origen": 25593,
+      "numero": 39,
+      "titulo": "Ai Tenchi Muyo! - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0006dd05ea1e999ddaa041a7091b7b36.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/39/",
+      "publicado_en_origen": "2014-11-28 01:04:47"
+    },
+    {
+      "id_origen": 25599,
+      "numero": 40,
+      "titulo": "Ai Tenchi Muyo! - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51b68f5195a2b629640c55358cd4a7f5.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/40/",
+      "publicado_en_origen": "2014-11-28 17:08:46"
+    },
+    {
+      "id_origen": 25636,
+      "numero": 41,
+      "titulo": "Ai Tenchi Muyo! - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90256d5c6119498ae5e11944224ee417.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/41/",
+      "publicado_en_origen": "2014-12-01 17:02:05"
+    },
+    {
+      "id_origen": 25642,
+      "numero": 42,
+      "titulo": "Ai Tenchi Muyo! - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89a183c0c11d6d0ca7830f9d530a3097.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/42/",
+      "publicado_en_origen": "2014-12-02 18:54:50"
+    },
+    {
+      "id_origen": 25654,
+      "numero": 43,
+      "titulo": "Ai Tenchi Muyo! - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb9866cabf57950faff6a0f8c26c9e0c.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/43/",
+      "publicado_en_origen": "2014-12-03 18:25:55"
+    },
+    {
+      "id_origen": 25679,
+      "numero": 44,
+      "titulo": "Ai Tenchi Muyo! - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18c746a0e715b82e90f0b63ba322576f.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/44/",
+      "publicado_en_origen": "2014-12-05 12:23:17"
+    },
+    {
+      "id_origen": 25685,
+      "numero": 45,
+      "titulo": "Ai Tenchi Muyo! - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2439bea046c7d9a2a716954e44d361d3.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/45/",
+      "publicado_en_origen": "2014-12-05 18:02:24"
+    },
+    {
+      "id_origen": 25725,
+      "numero": 46,
+      "titulo": "Ai Tenchi Muyo! - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30075533571c1a82bb8f1b810203cd57.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/46/",
+      "publicado_en_origen": "2014-12-08 22:24:37"
+    },
+    {
+      "id_origen": 25757,
+      "numero": 47,
+      "titulo": "Ai Tenchi Muyo! - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d59940f728eff0da111dd90376b439e.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/47/",
+      "publicado_en_origen": "2014-12-10 01:27:39"
+    },
+    {
+      "id_origen": 25763,
+      "numero": 48,
+      "titulo": "Ai Tenchi Muyo! - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e04a9a2d51029f73f5c3b7a085de91ee.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/48/",
+      "publicado_en_origen": "2014-12-10 19:19:31"
+    },
+    {
+      "id_origen": 25774,
+      "numero": 49,
+      "titulo": "Ai Tenchi Muyo! - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f6fc587ba2a036b38affbb8c0a42008.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/49/",
+      "publicado_en_origen": "2014-12-11 18:02:47"
+    },
+    {
+      "id_origen": 25801,
+      "numero": 50,
+      "titulo": "Ai Tenchi Muyo! - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b243b78ebe97b9313128868aff49aeb.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/50/",
+      "publicado_en_origen": "2014-12-13 18:55:44"
+    },
+    {
+      "id_origen": 25831,
+      "numero": 51,
+      "titulo": "Ai Tenchi Muyo! - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4efa2dce0e842cbc488548530dd8bf01.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/51/",
+      "publicado_en_origen": "2014-12-16 04:27:57"
+    },
+    {
+      "id_origen": 25835,
+      "numero": 52,
+      "titulo": "Ai Tenchi Muyo! - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8200e2e850224e4cea691cdc3ad0da2d.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/52/",
+      "publicado_en_origen": "2014-12-16 20:43:29"
+    },
+    {
+      "id_origen": 25841,
+      "numero": 53,
+      "titulo": "Ai Tenchi Muyo! - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e667fbfbd97792f460f4c60557ab349.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/53/",
+      "publicado_en_origen": "2014-12-17 18:36:55"
+    },
+    {
+      "id_origen": 25852,
+      "numero": 54,
+      "titulo": "Ai Tenchi Muyo! - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc43ae19277e37478bca2828bc6dffd3.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/54/",
+      "publicado_en_origen": "2014-12-18 18:27:17"
+    },
+    {
+      "id_origen": 25902,
+      "numero": 55,
+      "titulo": "Ai Tenchi Muyo! - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60a5a506e99d3b76a199c91aaf28c181.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/55/",
+      "publicado_en_origen": "2014-12-20 14:30:48"
+    },
+    {
+      "id_origen": 25934,
+      "numero": 56,
+      "titulo": "Ai Tenchi Muyo! - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89148408d209b6fc7dcc7ac44daf70aa.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/56/",
+      "publicado_en_origen": "2014-12-22 18:35:35"
+    },
+    {
+      "id_origen": 25941,
+      "numero": 57,
+      "titulo": "Ai Tenchi Muyo! - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2a3c1459a5e98694b1f8ce495a9906c.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/57/",
+      "publicado_en_origen": "2014-12-23 23:09:20"
+    },
+    {
+      "id_origen": 25950,
+      "numero": 58,
+      "titulo": "Ai Tenchi Muyo! - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca8a2575f96034775c7dc00162fcc27f.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/58/",
+      "publicado_en_origen": "2014-12-24 16:52:47"
+    },
+    {
+      "id_origen": 25959,
+      "numero": 59,
+      "titulo": "Ai Tenchi Muyo! - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2e939d15e4f4d852c246293137196be.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/59/",
+      "publicado_en_origen": "2014-12-25 19:01:13"
+    },
+    {
+      "id_origen": 26019,
+      "numero": 60,
+      "titulo": "Ai Tenchi Muyo! - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42aca308383ef9a5e38b0ab32b542dd5.jpg",
+      "url_origen": "https://jkanime.net/ai-tenchi-muyo/60/",
+      "publicado_en_origen": "2014-12-27 16:02:44"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1306",
+  "cantidad_episodios_declarada": 50,
+  "detalle_extraido_en": "2026-08-26T18:15:29+00:00"
+}

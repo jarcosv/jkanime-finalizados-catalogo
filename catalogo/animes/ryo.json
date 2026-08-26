@@ -1,0 +1,29 @@
+{
+  "id_origen": 3471,
+  "slug": "ryo",
+  "titulo": "Ryo",
+  "titulo_corto": "Ryo",
+  "sinopsis": "Ryo nos traslada al 1866, una época en la que Japón era un nido de tumultos propiciados por el choque de multitud de ideologías diferentes, incluyendo los que pedían el derrocamiento del shogunato de Tokugawa. Un joven llamado Ryo descubrirá un nuevo sentido a su vida en su camino para convertirse en espadachín.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ryo.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ryo/",
+  "episodios": [
+    {
+      "id_origen": 53271,
+      "numero": 1,
+      "titulo": "Ryo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc76d39b1424558101dd18c38a327f79.jpg",
+      "url_origen": "https://jkanime.net/ryo/1/",
+      "publicado_en_origen": "2023-06-29 17:03:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3471",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:44:17+00:00"
+}

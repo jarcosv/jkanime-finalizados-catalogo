@@ -1,0 +1,421 @@
+{
+  "id_origen": 1549,
+  "slug": "mobile-suit-zeta-gundam",
+  "titulo": "Mobile Suit Zeta Gundam",
+  "titulo_corto": "Mobile Suit Zeta Gundam",
+  "sinopsis": "Tras ser definitivo el término de la guerra de un año, UC 0087. Siete años después, la libertad aun se escucha en voz alta por parte de los pobladores de las colonias, exigiendo justicia y libertad pero parece no importarle el tema a la corrupta Federación Terrestre, haciendo todo lo contrario enviando a sus fuerzas llamados 'Titans' para reprimirlos con violencia. Esto hace que un grupo de rebeldes cobre fuerza llamados AEUG quienes ya se encuentran listos para combatir. Lanzado el primer ataque por parte de los 'AEUG' sobre el cuartel de los 'Titans' esto se convierte en una guerra civil dejando de ser un tema exclusivamente político. Un intrépido joven se une al conflicto, Camille Bidan que se convertirá en el piloto 'Gundam' de una nueva era.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mobile-suit-zeta-gundam.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/",
+  "episodios": [
+    {
+      "id_origen": 28055,
+      "numero": 1,
+      "titulo": "Mobile Suit Zeta Gundam - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9a4268367a43297ba960eb5bd78155c.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/1/",
+      "publicado_en_origen": "2015-06-11 07:38:28"
+    },
+    {
+      "id_origen": 28056,
+      "numero": 2,
+      "titulo": "Mobile Suit Zeta Gundam - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_006779a19c6d62dfc183f9366936fe85.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/2/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28057,
+      "numero": 3,
+      "titulo": "Mobile Suit Zeta Gundam - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea4a443e06d41e745b22a06c25aff7ab.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/3/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28058,
+      "numero": 4,
+      "titulo": "Mobile Suit Zeta Gundam - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88877c02a17a70356ccf94a415c454ff.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/4/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28059,
+      "numero": 5,
+      "titulo": "Mobile Suit Zeta Gundam - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90e6fd2326550c6b260ad136e5585003.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/5/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28060,
+      "numero": 6,
+      "titulo": "Mobile Suit Zeta Gundam - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc38d019366c0aa622caceb53f7f7a60.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/6/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28061,
+      "numero": 7,
+      "titulo": "Mobile Suit Zeta Gundam - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30875cf3491d376f2b9815c231b3e1a5.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/7/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28062,
+      "numero": 8,
+      "titulo": "Mobile Suit Zeta Gundam - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a6ad41f086b7d5700c2cc9e937bd348.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/8/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28063,
+      "numero": 9,
+      "titulo": "Mobile Suit Zeta Gundam - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76ef690583787dbd1405245dc8d9d72a.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/9/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28064,
+      "numero": 10,
+      "titulo": "Mobile Suit Zeta Gundam - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9c317d06906da03e3d4798fe5824e31.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/10/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28065,
+      "numero": 11,
+      "titulo": "Mobile Suit Zeta Gundam - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad01564d8f0f4da5627726cc96f717d6.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/11/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28066,
+      "numero": 12,
+      "titulo": "Mobile Suit Zeta Gundam - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5f69a36d50c3cb60dc35e49a62f4f24.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/12/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28067,
+      "numero": 13,
+      "titulo": "Mobile Suit Zeta Gundam - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f414bbf6be1465190eff64bba29de004.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/13/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28068,
+      "numero": 14,
+      "titulo": "Mobile Suit Zeta Gundam - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5a49fecbf7846824c273eff3c8513ee.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/14/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28069,
+      "numero": 15,
+      "titulo": "Mobile Suit Zeta Gundam - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe9592afe24c33559773fd2f6e46c2fb.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/15/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28070,
+      "numero": 16,
+      "titulo": "Mobile Suit Zeta Gundam - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45d7b08e7df25c39795b6d0b7cb71ebe.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/16/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28071,
+      "numero": 17,
+      "titulo": "Mobile Suit Zeta Gundam - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cec635e58838ff3c8907acbe1bda1191.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/17/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28072,
+      "numero": 18,
+      "titulo": "Mobile Suit Zeta Gundam - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_967f6256e28b8b65c2afb0d0532a311b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/18/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28073,
+      "numero": 19,
+      "titulo": "Mobile Suit Zeta Gundam - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95d2e07a0caa3ad6abc065d1ac24ab25.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/19/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28074,
+      "numero": 20,
+      "titulo": "Mobile Suit Zeta Gundam - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8dda35ae49b8bce604b98729e2a5b424.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/20/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28075,
+      "numero": 21,
+      "titulo": "Mobile Suit Zeta Gundam - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a621f7ab8fd0eae3805566885dda4a25.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/21/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28076,
+      "numero": 22,
+      "titulo": "Mobile Suit Zeta Gundam - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_163e836b057fa98808f41048cba1195f.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/22/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28077,
+      "numero": 23,
+      "titulo": "Mobile Suit Zeta Gundam - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1271475706211e282089b789f5f73b24.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/23/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28078,
+      "numero": 24,
+      "titulo": "Mobile Suit Zeta Gundam - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97ac043e24f12ce6b09bb8817efce982.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/24/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28079,
+      "numero": 25,
+      "titulo": "Mobile Suit Zeta Gundam - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7cf67a2def04352826be6914e1bb5405.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/25/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28080,
+      "numero": 26,
+      "titulo": "Mobile Suit Zeta Gundam - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c596cd46b0e3eac0e2fa9b23590a60ab.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/26/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28081,
+      "numero": 27,
+      "titulo": "Mobile Suit Zeta Gundam - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be7c20a83fb93c62352414aa58e525c2.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/27/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28082,
+      "numero": 28,
+      "titulo": "Mobile Suit Zeta Gundam - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebd915aa666c3c541d16253342ab39c4.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/28/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28083,
+      "numero": 29,
+      "titulo": "Mobile Suit Zeta Gundam - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3678d7c62c8fb66cf6b7946dc16a20e.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/29/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28084,
+      "numero": 30,
+      "titulo": "Mobile Suit Zeta Gundam - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f501d2693c06f905f4c210b495748a79.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/30/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28085,
+      "numero": 31,
+      "titulo": "Mobile Suit Zeta Gundam - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf95b1669852932f77dc04f5ee405b7b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/31/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28086,
+      "numero": 32,
+      "titulo": "Mobile Suit Zeta Gundam - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5497d34aeeed8c74dc8146b00c1ed489.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/32/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28087,
+      "numero": 33,
+      "titulo": "Mobile Suit Zeta Gundam - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c15a8669f594397efb3fa90138fffaae.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/33/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28088,
+      "numero": 34,
+      "titulo": "Mobile Suit Zeta Gundam - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c3f3db53ca4d872f79d87ec33c8c5fd.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/34/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28089,
+      "numero": 35,
+      "titulo": "Mobile Suit Zeta Gundam - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ed82a7e645e45584d3aabab834eef35.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/35/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28090,
+      "numero": 36,
+      "titulo": "Mobile Suit Zeta Gundam - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fe47dbb289a999610c8c5ab9aeb2107.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/36/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28091,
+      "numero": 37,
+      "titulo": "Mobile Suit Zeta Gundam - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_068bcdad6accbee0b2adc53cb82eb533.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/37/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28092,
+      "numero": 38,
+      "titulo": "Mobile Suit Zeta Gundam - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7ae036c695ff77ff4bd82e015a2f624.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/38/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28093,
+      "numero": 39,
+      "titulo": "Mobile Suit Zeta Gundam - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e5bd82a90466d9434c270b85ddf187c.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/39/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28094,
+      "numero": 40,
+      "titulo": "Mobile Suit Zeta Gundam - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d348d11f7f80d82e49a05e3c2269d373.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/40/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28095,
+      "numero": 41,
+      "titulo": "Mobile Suit Zeta Gundam - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4caf9e04a0d4f83565449f2cce9d5d5.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/41/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28096,
+      "numero": 42,
+      "titulo": "Mobile Suit Zeta Gundam - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e607b9b80358410a2bcdcbc7e9978ce1.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/42/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28097,
+      "numero": 43,
+      "titulo": "Mobile Suit Zeta Gundam - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3090f54f8d8eecd6469c3a9eb3ddb48a.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/43/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28098,
+      "numero": 44,
+      "titulo": "Mobile Suit Zeta Gundam - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82166899aa3db47b87226f5e2abfbca7.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/44/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28099,
+      "numero": 45,
+      "titulo": "Mobile Suit Zeta Gundam - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a688ad7351b2e3cfec7ee3112206e6b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/45/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28100,
+      "numero": 46,
+      "titulo": "Mobile Suit Zeta Gundam - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa6753f1f7962a29a43ffa397473774f.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/46/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28101,
+      "numero": 47,
+      "titulo": "Mobile Suit Zeta Gundam - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dd3ecb6819c19341cce4399afa2c7dd.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/47/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28102,
+      "numero": 48,
+      "titulo": "Mobile Suit Zeta Gundam - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6a81a05f0dc6797d195dfb9aad909bb.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/48/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28103,
+      "numero": 49,
+      "titulo": "Mobile Suit Zeta Gundam - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc0d9865e5284b52347fc0417b99b0c8.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/49/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    },
+    {
+      "id_origen": 28104,
+      "numero": 50,
+      "titulo": "Mobile Suit Zeta Gundam - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8702581b10fc44c8ee9021a967744624.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-zeta-gundam/50/",
+      "publicado_en_origen": "2015-06-11 07:38:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1549",
+  "cantidad_episodios_declarada": 50,
+  "detalle_extraido_en": "2026-08-26T18:39:05+00:00"
+}

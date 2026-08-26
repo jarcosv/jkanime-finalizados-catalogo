@@ -1,0 +1,29 @@
+{
+  "id_origen": 546,
+  "slug": "11eyes-ova",
+  "titulo": "11eyes OVA",
+  "titulo_corto": "11eyes OVA",
+  "sinopsis": "Ova de 11 eyes",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/11eyes-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/11eyes-ova/",
+  "episodios": [
+    {
+      "id_origen": 15427,
+      "numero": 1,
+      "titulo": "11eyes OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07b95840d88e2f1c033865fba89f624b.jpg",
+      "url_origen": "https://jkanime.net/11eyes-ova/1/",
+      "publicado_en_origen": "2012-04-05 22:16:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "546",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:14:33+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 4020,
+  "slug": "100-nichikan-ikita-wani",
+  "titulo": "100-nichikan Ikita Wani",
+  "titulo_corto": "100-nichikan Ikita Wani",
+  "sinopsis": "La historia se centra en un cocodrilo que lleva una vida normal, sin saber que va a morir dentro de 100 días. El cocodrilo pasa los días normales con sus compañeros animales.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/100-nichikan-ikita-wani.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/100-nichikan-ikita-wani/",
+  "episodios": [
+    {
+      "id_origen": 62137,
+      "numero": 1,
+      "titulo": "100-nichikan Ikita Wani",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11bb783a1e3cfb7dc94a9f88d1e219fc.jpg",
+      "url_origen": "https://jkanime.net/100-nichikan-ikita-wani/1/",
+      "publicado_en_origen": "2025-03-02 13:12:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:57+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4020",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:14:32+00:00"
+}

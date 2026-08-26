@@ -1,0 +1,29 @@
+{
+  "id_origen": 4307,
+  "slug": "mary-to-majo-no-hana",
+  "titulo": "Mary to Majo no Hana",
+  "titulo_corto": "Mary to Majo no Hana",
+  "sinopsis": "Mary es una niña que vive con su tía abuela Charlotte en el campo, donde no pasa casi nada. Un día sigue a un misterioso gato hasta el bosque y descubre un viejo palo de escoba y una extraña flor que sólo florece cada siete años en ese mismo bosque. El palo de escoba y la flor llevarán a Mary por encima de las nubes hasta Endor College, una escuela de magia dirigida por Madam Mumblechook y el brillante Doctor Dee. Pero allí suceden cosas extrañas y Mary tendrá que arriesgar su vida para que todo vaya bien.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mary-to-majo-no-hana.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mary-to-majo-no-hana/",
+  "episodios": [
+    {
+      "id_origen": 66480,
+      "numero": 1,
+      "titulo": "Mary to Majo no Hana",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2668fdf60d44d50909e90dd4af4da4ab.jpg",
+      "url_origen": "https://jkanime.net/mary-to-majo-no-hana/1/",
+      "publicado_en_origen": "2025-08-12 20:07:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4307",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:38:01+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1634,
+  "slug": "isuca-gokuraku",
+  "titulo": "Isuca OVA",
+  "titulo_corto": "Isuca OVA",
+  "sinopsis": "Ova incluida con el 7mo volumen del manga.\nEl capitulo se desarrolla en la playa.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/isuca-gokuraku.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/isuca-gokuraku/",
+  "episodios": [
+    {
+      "id_origen": 29133,
+      "numero": 1,
+      "titulo": "Isuca OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93f97410020f1aeb261aa376df54f44d.jpg",
+      "url_origen": "https://jkanime.net/isuca-gokuraku/1/",
+      "publicado_en_origen": "2015-08-27 22:00:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1634",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:32:21+00:00"
+}

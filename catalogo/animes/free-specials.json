@@ -1,0 +1,45 @@
+{
+  "id_origen": 941,
+  "slug": "free-specials",
+  "titulo": "Free! Specials",
+  "titulo_corto": "Free! Specials",
+  "sinopsis": "Especiales incluídos en los DVD/BDs",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/free-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/free-specials/",
+  "episodios": [
+    {
+      "id_origen": 21472,
+      "numero": 1,
+      "titulo": "Free! Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_faad1b29c35021dbd2bb8ef59d3c70c6.jpg",
+      "url_origen": "https://jkanime.net/free-specials/1/",
+      "publicado_en_origen": "2013-09-11 23:28:41"
+    },
+    {
+      "id_origen": 21910,
+      "numero": 2,
+      "titulo": "Free! Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8625af362985c33b7525678f3536b1b1.jpg",
+      "url_origen": "https://jkanime.net/free-specials/2/",
+      "publicado_en_origen": "2013-11-07 14:00:54"
+    },
+    {
+      "id_origen": 22461,
+      "numero": 3,
+      "titulo": "Free! Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c182dc5c90dc87dfee9cd309c33f19b3.jpg",
+      "url_origen": "https://jkanime.net/free-specials/3/",
+      "publicado_en_origen": "2014-01-17 15:00:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "941",
+  "cantidad_episodios_declarada": 7,
+  "detalle_extraido_en": "2026-08-26T18:27:11+00:00"
+}

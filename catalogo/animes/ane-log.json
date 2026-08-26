@@ -1,0 +1,45 @@
+{
+  "id_origen": 1336,
+  "slug": "ane-log",
+  "titulo": "Ane Log",
+  "titulo_corto": "Ane Log",
+  "sinopsis": "Cuando Konoe Moyako y su hermano menor, Akira, eran jóvenes, él dijo que quería casarse con ella. Naturalmente, Moyako decidió que su hermano pequeño era un pervertido completamente y que estaba obsesionado con ella. Ahora que ambos son adolescentes, Moyako está convencida de que necesita de ella para rehabilitarlo.\nSin embargo, parece que la perversión está totalmente en su imaginación, y que no ayuda el hecho de convertir en espeluznantes sus inocentes situaciones.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ane-log.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ane-log/",
+  "episodios": [
+    {
+      "id_origen": 25290,
+      "numero": 1,
+      "titulo": "Ane Log - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44f95c37a24495521a98b63f0bbf4268.jpg",
+      "url_origen": "https://jkanime.net/ane-log/1/",
+      "publicado_en_origen": "2014-11-03 14:31:04"
+    },
+    {
+      "id_origen": 25905,
+      "numero": 2,
+      "titulo": "Ane Log - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65c96426005efcd873dd2a5fd00d3c36.jpg",
+      "url_origen": "https://jkanime.net/ane-log/2/",
+      "publicado_en_origen": "2014-12-20 17:16:49"
+    },
+    {
+      "id_origen": 27530,
+      "numero": 3,
+      "titulo": "Ane Log - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f6667b99574125f65ba90c88d3c6cc3.jpg",
+      "url_origen": "https://jkanime.net/ane-log/3/",
+      "publicado_en_origen": "2015-04-18 21:13:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1336",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:16:31+00:00"
+}

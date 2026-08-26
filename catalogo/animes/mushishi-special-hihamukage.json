@@ -1,0 +1,29 @@
+{
+  "id_origen": 1034,
+  "slug": "mushishi-special-hihamukage",
+  "titulo": "Mushishi Special: Hihamukage",
+  "titulo_corto": "Mushishi Special: Hihamukage",
+  "sinopsis": "Nuevo especial de una hora que adapta el capitulo dos del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mushishi-special-hihamukage.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mushishi-special-hihamukage/",
+  "episodios": [
+    {
+      "id_origen": 22356,
+      "numero": 1,
+      "titulo": "Mushishi Special: Hihamukage",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db93e1f9860b074ef224878a047a5407.jpg",
+      "url_origen": "https://jkanime.net/mushishi-special-hihamukage/1/",
+      "publicado_en_origen": "2014-01-04 12:40:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:57+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1034",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:26+00:00"
+}

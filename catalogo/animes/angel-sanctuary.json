@@ -1,0 +1,45 @@
+{
+  "id_origen": 485,
+  "slug": "angel-sanctuary",
+  "titulo": "Angel Sanctuary",
+  "titulo_corto": "Angel Sanctuary",
+  "sinopsis": "Dios esta muerto, y el fin llegara a menos que el angel caido Alexiel pueda reencarnar y prevenirlo. Pero hace años, el cuerpo de Alexiel fue encerrado en un cristal, mientras su alma esta continuamente reencarnando como un humano que morirá en una pronta y violenta muerte, una vez tras otra, como fuera de la sociedad --marginado y rechazado. Esta vez el alma de Alexiel se ha reencarnado dentro de un joven delincuente llamado Setsuna Mudou -- el Messiah profetizó que salvaría la humanidad en el Libro Negro de la Revelación. Aunque Setsuna no conoce por la batalla que vendrá entre el cielo y el infierno pero solo por su amor... su hermana Sara Mudou. Empezara la historia de ángeles, demonios y un dios perdido.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/angel-sanctuary.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/angel-sanctuary/",
+  "episodios": [
+    {
+      "id_origen": 14484,
+      "numero": 1,
+      "titulo": "Angel Sanctuary - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_feae21bb32b7b4aa690fab151b60b598.jpg",
+      "url_origen": "https://jkanime.net/angel-sanctuary/1/",
+      "publicado_en_origen": "2012-01-11 20:10:49"
+    },
+    {
+      "id_origen": 14485,
+      "numero": 2,
+      "titulo": "Angel Sanctuary - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f27e0f4118efff145aeecd8367fbb37.jpg",
+      "url_origen": "https://jkanime.net/angel-sanctuary/2/",
+      "publicado_en_origen": "2012-01-11 20:10:49"
+    },
+    {
+      "id_origen": 14486,
+      "numero": 3,
+      "titulo": "Angel Sanctuary - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa8cb12cf9bdaf4c309614e7a427b480.jpg",
+      "url_origen": "https://jkanime.net/angel-sanctuary/3/",
+      "publicado_en_origen": "2012-01-11 20:10:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "485",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:16:34+00:00"
+}

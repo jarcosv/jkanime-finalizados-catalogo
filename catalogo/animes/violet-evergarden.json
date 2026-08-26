@@ -1,0 +1,125 @@
+{
+  "id_origen": 2185,
+  "slug": "violet-evergarden",
+  "titulo": "Violet Evergarden",
+  "titulo_corto": "Violet Evergarden",
+  "sinopsis": "Las protagonistas de Violet Evergarden son las Auto Memory Dolls, unos autómatas creados por un científico que deseaba ayudar a su esposa ciega a escribir sus novelas. Y aunque el inicio de estas “muñecas” fue servir de asistentes y facilitar la vida de las personas, las empresas no dudarán en ampliar su uso.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/violet-evergarden.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/violet-evergarden/",
+  "episodios": [
+    {
+      "id_origen": 36383,
+      "numero": 1,
+      "titulo": "Violet Evergarden - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a8f8b227be2d04a675082cc9d51c127.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/1/",
+      "publicado_en_origen": "2018-01-10 17:02:09"
+    },
+    {
+      "id_origen": 36430,
+      "numero": 2,
+      "titulo": "Violet Evergarden - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a027b5846a74c3fb736171e1139bc312.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/2/",
+      "publicado_en_origen": "2018-01-17 16:50:33"
+    },
+    {
+      "id_origen": 36474,
+      "numero": 3,
+      "titulo": "Violet Evergarden - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f282242afef97d009d90f7c360fb1882.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/3/",
+      "publicado_en_origen": "2018-01-24 20:03:33"
+    },
+    {
+      "id_origen": 36521,
+      "numero": 4,
+      "titulo": "Violet Evergarden - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12d8aa143e766d84ff3a170a1e1a3aef.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/4/",
+      "publicado_en_origen": "2018-01-31 18:48:16"
+    },
+    {
+      "id_origen": 36577,
+      "numero": 5,
+      "titulo": "Violet Evergarden - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_262bd18683960ff68734a3b887fb76da.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/5/",
+      "publicado_en_origen": "2018-02-07 20:55:07"
+    },
+    {
+      "id_origen": 36631,
+      "numero": 6,
+      "titulo": "Violet Evergarden - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee1a417b3a31db5c55b724e416209d27.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/6/",
+      "publicado_en_origen": "2018-02-14 19:43:12"
+    },
+    {
+      "id_origen": 36702,
+      "numero": 7,
+      "titulo": "Violet Evergarden - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f063d53aa3a5c845e1b246dcdd0772fa.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/7/",
+      "publicado_en_origen": "2018-02-21 22:05:02"
+    },
+    {
+      "id_origen": 36746,
+      "numero": 8,
+      "titulo": "Violet Evergarden - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6ffaac38ed312f11d34e2982604fe94.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/8/",
+      "publicado_en_origen": "2018-02-28 20:18:48"
+    },
+    {
+      "id_origen": 36792,
+      "numero": 9,
+      "titulo": "Violet Evergarden - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cfffd9d89fc1775025d89fdc8ea98e5.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/9/",
+      "publicado_en_origen": "2018-03-07 19:34:44"
+    },
+    {
+      "id_origen": 36835,
+      "numero": 10,
+      "titulo": "Violet Evergarden - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de47a34c1c843aecabacc452bc5dbd21.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/10/",
+      "publicado_en_origen": "2018-03-14 17:47:27"
+    },
+    {
+      "id_origen": 36883,
+      "numero": 11,
+      "titulo": "Violet Evergarden - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83489af06c221ea5ab18edbe7cb56944.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/11/",
+      "publicado_en_origen": "2018-03-21 17:06:51"
+    },
+    {
+      "id_origen": 36933,
+      "numero": 12,
+      "titulo": "Violet Evergarden - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_171061605226364f27c0a15445307397.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/12/",
+      "publicado_en_origen": "2018-03-28 19:30:48"
+    },
+    {
+      "id_origen": 37007,
+      "numero": 13,
+      "titulo": "Violet Evergarden - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3e1842e0ce3687d21d6a2292b4ad7cd.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden/13/",
+      "publicado_en_origen": "2018-04-08 19:16:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:20+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2185",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:51:34+00:00"
+}

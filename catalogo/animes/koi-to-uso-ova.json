@@ -1,0 +1,29 @@
+{
+  "id_origen": 2362,
+  "slug": "koi-to-uso-ova",
+  "titulo": "Koi to Uso OVA",
+  "titulo_corto": "Koi to Uso OVA",
+  "sinopsis": "OVA de Koit To Uso.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koi-to-uso-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/koi-to-uso-ova/",
+  "episodios": [
+    {
+      "id_origen": 38688,
+      "numero": 1,
+      "titulo": "Koi to Uso OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18c968e3898f39820946387c9e8aa5c8.jpg",
+      "url_origen": "https://jkanime.net/koi-to-uso-ova/1/",
+      "publicado_en_origen": "2019-01-17 17:04:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:12+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2362",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:35:18+00:00"
+}

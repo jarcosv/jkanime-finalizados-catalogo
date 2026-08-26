@@ -1,0 +1,29 @@
+{
+  "id_origen": 3257,
+  "slug": "dragon-ball-super-super-hero",
+  "titulo": "Dragon Ball Super: Super Hero",
+  "titulo_corto": "Dragon Ball Super: Super Hero",
+  "sinopsis": "El Ejército de la Cinta Roja fue una vez destruido por Goku. Las personas que continúan con su espíritu han creado los androides definitivos, Gamma 1 y Gamma 2. Estos dos androides se llaman a sí mismos Superhéroes. Comienzan a atacar a Piccolo y Gohan. ¿Cuál es el objetivo? Frente al peligro que se aproxima, es hora de despertar.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-super-super-hero.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-super-super-hero/",
+  "episodios": [
+    {
+      "id_origen": 51310,
+      "numero": 1,
+      "titulo": "Dragon Ball Super: Super Hero",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_938ac0b1e2496ca092c338d9e83b8a9a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-super-super-hero/1/",
+      "publicado_en_origen": "2022-12-08 23:15:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3257",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:42+00:00"
+}

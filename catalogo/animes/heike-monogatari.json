@@ -1,0 +1,109 @@
+{
+  "id_origen": 2924,
+  "slug": "heike-monogatari",
+  "titulo": "Heike Monogatari",
+  "titulo_corto": "Heike Monogatari",
+  "sinopsis": "El anime muestra los eventos de la guerra a través de la perspectiva de Biwa, una joven que se gana la vida como músico ambulante. Aunque es ciego, Biwa tiene la capacidad de ver el futuro. Conoce a Taira no Shigemori, uno de los patriarcas de la poderosa familia Taira, y le cuenta sobre la profecía que puede cambiar el futuro de su clan.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heike-monogatari.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/heike-monogatari/",
+  "episodios": [
+    {
+      "id_origen": 46670,
+      "numero": 1,
+      "titulo": "Heike Monogatari - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bf34276f574f0770eaf9c5d8c7bd511.jpg",
+      "url_origen": "https://jkanime.net/heike-monogatari/1/",
+      "publicado_en_origen": "2021-09-15 13:27:08"
+    },
+    {
+      "id_origen": 46732,
+      "numero": 2,
+      "titulo": "Heike Monogatari - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a75361ce50e67179d38f7082d687b571.jpg",
+      "url_origen": "https://jkanime.net/heike-monogatari/2/",
+      "publicado_en_origen": "2021-09-22 12:12:02"
+    },
+    {
+      "id_origen": 46781,
+      "numero": 3,
+      "titulo": "Heike Monogatari - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8de6774e62a2984bc1c5e2dd52ff23ea.jpg",
+      "url_origen": "https://jkanime.net/heike-monogatari/3/",
+      "publicado_en_origen": "2021-09-29 11:41:08"
+    },
+    {
+      "id_origen": 46829,
+      "numero": 4,
+      "titulo": "Heike Monogatari - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75aab46f2247643e6b53799b70f140c5.jpg",
+      "url_origen": "https://jkanime.net/heike-monogatari/4/",
+      "publicado_en_origen": "2021-10-06 12:52:21"
+    },
+    {
+      "id_origen": 46902,
+      "numero": 5,
+      "titulo": "Heike Monogatari - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94b7cee526e7478a1d4c97340d74b467.jpg",
+      "url_origen": "https://jkanime.net/heike-monogatari/5/",
+      "publicado_en_origen": "2021-10-13 23:23:05"
+    },
+    {
+      "id_origen": 46963,
+      "numero": 6,
+      "titulo": "Heike Monogatari - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da83de465da915d1a29901fa144735a9.jpg",
+      "url_origen": "https://jkanime.net/heike-monogatari/6/",
+      "publicado_en_origen": "2021-10-20 12:41:00"
+    },
+    {
+      "id_origen": 47038,
+      "numero": 7,
+      "titulo": "Heike Monogatari - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e5f535f48653b0a40d7f232a6d6830e.jpg",
+      "url_origen": "https://jkanime.net/heike-monogatari/7/",
+      "publicado_en_origen": "2021-10-27 12:16:56"
+    },
+    {
+      "id_origen": 47098,
+      "numero": 8,
+      "titulo": "Heike Monogatari - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e50fd217106608d335736327e4ef617c.jpg",
+      "url_origen": "https://jkanime.net/heike-monogatari/8/",
+      "publicado_en_origen": "2021-11-03 11:48:42"
+    },
+    {
+      "id_origen": 47170,
+      "numero": 9,
+      "titulo": "Heike Monogatari - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf911f83947bf6be88b36a02b5512288.jpg",
+      "url_origen": "https://jkanime.net/heike-monogatari/9/",
+      "publicado_en_origen": "2021-11-10 12:58:01"
+    },
+    {
+      "id_origen": 47235,
+      "numero": 10,
+      "titulo": "Heike Monogatari - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_307ff87c3d21fb547787c584c5c9e957.jpg",
+      "url_origen": "https://jkanime.net/heike-monogatari/10/",
+      "publicado_en_origen": "2021-11-17 11:58:02"
+    },
+    {
+      "id_origen": 47343,
+      "numero": 11,
+      "titulo": "Heike Monogatari - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f93c6b06973fcb6c973f776382a3a2fb.jpg",
+      "url_origen": "https://jkanime.net/heike-monogatari/11/",
+      "publicado_en_origen": "2021-11-24 12:51:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2924",
+  "cantidad_episodios_declarada": 11,
+  "detalle_extraido_en": "2026-08-26T18:30:12+00:00"
+}

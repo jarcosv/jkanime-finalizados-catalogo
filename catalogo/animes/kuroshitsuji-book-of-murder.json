@@ -1,0 +1,37 @@
+{
+  "id_origen": 1439,
+  "slug": "kuroshitsuji-book-of-murder",
+  "titulo": "Kuroshitsuji: Book of Murder",
+  "titulo_corto": "Kuroshitsuji: Book of Murder",
+  "sinopsis": "OVA 1 - El caso de asesinato en la mansión Phantomhive",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kuroshitsuji-book-of-murder.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kuroshitsuji-book-of-murder/",
+  "episodios": [
+    {
+      "id_origen": 26642,
+      "numero": 1,
+      "titulo": "Kuroshitsuji: Book of Murder - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08c7bab8988c8f289a3e47c2700dac52.jpg",
+      "url_origen": "https://jkanime.net/kuroshitsuji-book-of-murder/1/",
+      "publicado_en_origen": "2015-02-10 17:15:27"
+    },
+    {
+      "id_origen": 26992,
+      "numero": 2,
+      "titulo": "Kuroshitsuji: Book of Murder - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd9b678088106ac518f68cc9756d4801.jpg",
+      "url_origen": "https://jkanime.net/kuroshitsuji-book-of-murder/2/",
+      "publicado_en_origen": "2015-03-07 19:02:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1439",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:36:04+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1021,
+  "slug": "ansatsu-kyoushitsu",
+  "titulo": "Ansatsu Kyoushitsu",
+  "titulo_corto": "Ansatsu Kyoushitsu",
+  "sinopsis": "Especial emitido en el Jump Super Anime Tour 2013. Los estudiantes de la clase 3-E de la secundaria kunugigaoka, un grupo de alumnos marginados por sus bajas notas y terrible desempeño académico repentinamente se ven involucrados en una situación bastante peculiar, tienen que acabar con la vida de su nuevo maestro un ser que ha destruido gran parte de la luna y planea hacer lo mismo con la tierra a menos que alguno de sus alumnos pueda matarle. Ahora comienza la difícil tarea de estos chicos, asesinar a su nuevo profesor mientras reciben clases del él y de esta forma poder salvar sus vidas y las de sus familiares, pero no les será nada fácil.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ansatsu-kyoushitsu.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ansatsu-kyoushitsu/",
+  "episodios": [
+    {
+      "id_origen": 22328,
+      "numero": 1,
+      "titulo": "Ansatsu Kyoushitsu",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf9286ea3ff7def873076ec1ecaa0d2b.jpg",
+      "url_origen": "https://jkanime.net/ansatsu-kyoushitsu/1/",
+      "publicado_en_origen": "2013-12-31 04:35:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1021",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:16:49+00:00"
+}

@@ -1,0 +1,117 @@
+{
+  "id_origen": 3431,
+  "slug": "watashi-no-shiawase-na-kekkon",
+  "titulo": "Watashi no Shiawase na Kekkon",
+  "titulo_corto": "Watashi no Shiawase na Kekkon",
+  "sinopsis": "Nacida en una familia noble, Miyo es casada con Kiyoka, un soldado tan despiadado que sus prometidas anteriores huyeron. Sin ningún lugar adonde ir, Miyo comienza lentamente a abrir su corazón a su frío futuro esposo... ¿Podría ser esto amor?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/watashi-no-shiawase-na-kekkon.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/",
+  "episodios": [
+    {
+      "id_origen": 53311,
+      "numero": 1,
+      "titulo": "Watashi no Shiawase na Kekkon - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75bab8f93d9d875fb33d672bb33b9221.jpg",
+      "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/1/",
+      "publicado_en_origen": "2023-07-05 13:14:48"
+    },
+    {
+      "id_origen": 53385,
+      "numero": 2,
+      "titulo": "Watashi no Shiawase na Kekkon - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12ced8534557648f0d8b40216cf00deb.jpg",
+      "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/2/",
+      "publicado_en_origen": "2023-07-12 11:55:41"
+    },
+    {
+      "id_origen": 53473,
+      "numero": 3,
+      "titulo": "Watashi no Shiawase na Kekkon - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4f5c4e55edc424e8a28da62b69bd4a1.jpg",
+      "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/3/",
+      "publicado_en_origen": "2023-07-19 14:08:33"
+    },
+    {
+      "id_origen": 53549,
+      "numero": 4,
+      "titulo": "Watashi no Shiawase na Kekkon - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df4f272bcdcfbefe9b3e4ec397067c45.jpg",
+      "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/4/",
+      "publicado_en_origen": "2023-07-26 12:00:34"
+    },
+    {
+      "id_origen": 53636,
+      "numero": 5,
+      "titulo": "Watashi no Shiawase na Kekkon - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5cdd5b0c0bf2194f285eff3ce264c9b.jpg",
+      "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/5/",
+      "publicado_en_origen": "2023-08-02 12:06:28"
+    },
+    {
+      "id_origen": 53691,
+      "numero": 6,
+      "titulo": "Watashi no Shiawase na Kekkon - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_256c5e84dda023b145b22968c6e95595.jpg",
+      "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/6/",
+      "publicado_en_origen": "2023-08-09 12:57:52"
+    },
+    {
+      "id_origen": 53749,
+      "numero": 7,
+      "titulo": "Watashi no Shiawase na Kekkon - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c215174cedcc2ca74470c4665c2075a1.jpg",
+      "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/7/",
+      "publicado_en_origen": "2023-08-16 11:51:14"
+    },
+    {
+      "id_origen": 53850,
+      "numero": 8,
+      "titulo": "Watashi no Shiawase na Kekkon - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_455289a93c80c3bac1d76254b00357b4.jpg",
+      "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/8/",
+      "publicado_en_origen": "2023-08-23 12:02:41"
+    },
+    {
+      "id_origen": 53928,
+      "numero": 9,
+      "titulo": "Watashi no Shiawase na Kekkon - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9cbee154843fa0ec00b24c0be41793b.jpg",
+      "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/9/",
+      "publicado_en_origen": "2023-08-30 11:58:30"
+    },
+    {
+      "id_origen": 54006,
+      "numero": 10,
+      "titulo": "Watashi no Shiawase na Kekkon - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_630749a499af97b19474529770b84514.jpg",
+      "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/10/",
+      "publicado_en_origen": "2023-09-06 11:35:13"
+    },
+    {
+      "id_origen": 54090,
+      "numero": 11,
+      "titulo": "Watashi no Shiawase na Kekkon - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed9915336c625936fa19ab113107ff46.jpg",
+      "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/11/",
+      "publicado_en_origen": "2023-09-13 11:38:29"
+    },
+    {
+      "id_origen": 54169,
+      "numero": 12,
+      "titulo": "Watashi no Shiawase na Kekkon - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4d09cebe45b7a078bd61a34a00c330f.jpg",
+      "url_origen": "https://jkanime.net/watashi-no-shiawase-na-kekkon/12/",
+      "publicado_en_origen": "2023-09-20 12:00:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3431",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:51:54+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 843,
+  "slug": "sket-dance-ova",
+  "titulo": "SKET Dance OVA",
+  "titulo_corto": "SKET Dance OVA",
+  "sinopsis": "OVA de Sket dance, incluído en el volumen 29 del manga",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sket-dance-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sket-dance-ova/",
+  "episodios": [
+    {
+      "id_origen": 20130,
+      "numero": 1,
+      "titulo": "SKET Dance OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6147246665001872dd5a886d418f990c.jpg",
+      "url_origen": "https://jkanime.net/sket-dance-ova/1/",
+      "publicado_en_origen": "2013-04-16 21:48:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "843",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:07+00:00"
+}

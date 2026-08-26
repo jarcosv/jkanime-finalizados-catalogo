@@ -1,0 +1,29 @@
+{
+  "id_origen": 1385,
+  "slug": "cardcaptor-sakura-the-movie-1",
+  "titulo": "Cardcaptor Sakura: The Movie",
+  "titulo_corto": "Cardcaptor Sakura: The Movie",
+  "sinopsis": "Todo comienza cuando Sakura en una ocasión, se gana el premio mayor de un sorteo el cual consiste en un viaje con todos los gastos pagados a Hong Kong. Una vez allí, Sakura (acompañada de su hermano, de Yukito de Kero y de Tomoyo) conoce a la familia de Shaoran, pero esto genera dudas en Kero quien se pregunta si este viaje fue pura suerte o estaba arreglado. Sus respuestas pronto se dejan ver cuando tras ver como Sakura experimenta una situación paranormal, se da cuenta que este viaje fue planeado por el espiritu de una antigua rival del mago Clow.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/cardcaptor-sakura-the-movie-1.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/cardcaptor-sakura-the-movie-1/",
+  "episodios": [
+    {
+      "id_origen": 26036,
+      "numero": 1,
+      "titulo": "Cardcaptor Sakura: The Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93fb03efcd98ca5aa136ff9f761c9c2d.jpg",
+      "url_origen": "https://jkanime.net/cardcaptor-sakura-the-movie-1/1/",
+      "publicado_en_origen": "2014-12-28 23:39:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1385",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:22:48+00:00"
+}

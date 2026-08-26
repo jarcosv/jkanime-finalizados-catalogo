@@ -1,0 +1,37 @@
+{
+  "id_origen": 2327,
+  "slug": "persona-5-the-animation-dark-sun",
+  "titulo": "Persona 5 the Animation: Dark Sun",
+  "titulo_corto": "Persona 5 the Animation: Dark ...",
+  "sinopsis": "Quedan muchos detalles por saber sobre la muerte de Joker y la implicación de Akechi en el gran plan de Shido.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/persona-5-the-animation-dark-sun.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/persona-5-the-animation-dark-sun/",
+  "episodios": [
+    {
+      "id_origen": 38588,
+      "numero": 1,
+      "titulo": "Persona 5 the Animation: Dark Sun - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bed5823a2b7b72cceb2f90ba9097ff67.jpg",
+      "url_origen": "https://jkanime.net/persona-5-the-animation-dark-sun/1/",
+      "publicado_en_origen": "2018-12-31 14:44:12"
+    },
+    {
+      "id_origen": 39379,
+      "numero": 2,
+      "titulo": "Persona 5 the Animation: Dark Sun - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b8aee8bdeb2553cbbd0f1a4cfada7ec.jpg",
+      "url_origen": "https://jkanime.net/persona-5-the-animation-dark-sun/2/",
+      "publicado_en_origen": "2019-03-23 13:09:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2327",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:42:07+00:00"
+}

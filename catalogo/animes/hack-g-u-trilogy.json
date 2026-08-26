@@ -1,0 +1,29 @@
+{
+  "id_origen": 463,
+  "slug": "hack-g-u-trilogy",
+  "titulo": ".hack//G.U. Trilogy",
+  "titulo_corto": ".hack//G.U. Trilogy",
+  "sinopsis": "La trama sigue centrándose en Haseo, quien ya se dio cuenta de que \"The World R:2\" no es un juego común y corriente, ya que el fenómeno del \"AIDA\" afecta a los jugadores en la vida real de forma peligrosa. Para salvar a su amiga Shino, Haseo tratara de encontrar alguna respuesta pero solo se topara con mas misterios que rodean a este popular mundo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hack-g-u-trilogy.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hack-g-u-trilogy/",
+  "episodios": [
+    {
+      "id_origen": 14112,
+      "numero": 1,
+      "titulo": ".hack//G.U. Trilogy",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_107387d5d48032f826cb8b095753b055.jpg",
+      "url_origen": "https://jkanime.net/hack-g-u-trilogy/1/",
+      "publicado_en_origen": "2011-12-30 13:49:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "463",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:14:26+00:00"
+}

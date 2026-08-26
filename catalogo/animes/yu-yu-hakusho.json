@@ -1,0 +1,917 @@
+{
+  "id_origen": 389,
+  "slug": "yu-yu-hakusho",
+  "titulo": "Yu Yu Hakusho",
+  "titulo_corto": "Yu Yu Hakusho",
+  "sinopsis": "Yusuke Urameshi, un chico de catorce años un poco gamberro es atropellado por un coche cuando intentaba salvar la vida de un niño pequeño. Al ser atropellado, no sobrevive y muere. Entonces es cuando Botan le dice que su muerte no estaba prevista asi que no va ni al cielo ni al infierno, por lo cual se queda en la tierra como fantasma. Botan le dice de hacer una prueba para volver a la vida, la consigue superar y entonces es cuando le encomiendan la tarea de ser detective espiritual, con lo cual tendrá que resolver varios casos utilizando poderes espirituales que le dan.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-yu-hakusho.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yu-yu-hakusho/",
+  "episodios": [
+    {
+      "id_origen": 10529,
+      "numero": 1,
+      "titulo": "Yuyu Hakusho 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24a29a235c0678859695b10896513b3d.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/1/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10530,
+      "numero": 2,
+      "titulo": "Yuyu Hakusho 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3e0eb8f4ae5f3afd35b5e4b6e5a2d78.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/2/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10531,
+      "numero": 3,
+      "titulo": "Yuyu Hakusho 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b84a25d15d9d44f58640a485c1387df8.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/3/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10532,
+      "numero": 4,
+      "titulo": "Yuyu Hakusho 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e28943943dbed3c7f82fc05f269947a.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/4/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10533,
+      "numero": 5,
+      "titulo": "Yuyu Hakusho 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f05da679342107f92111ad9d65959cd3.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/5/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10534,
+      "numero": 6,
+      "titulo": "Yuyu Hakusho 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_731b03008e834f92a03085ef47061c4a.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/6/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10535,
+      "numero": 7,
+      "titulo": "Yuyu Hakusho 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3e6cd9f66f2c1d3840ade4161cf7406.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/7/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10536,
+      "numero": 8,
+      "titulo": "Yuyu Hakusho 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e2500c59ab4ea1d914ac27cec5ae528.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/8/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10537,
+      "numero": 9,
+      "titulo": "Yuyu Hakusho 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5dc2596e6bd8d9a511a4af7e6d1fef81.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/9/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10538,
+      "numero": 10,
+      "titulo": "Yuyu Hakusho 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95cbe1e1f1fa3d8cd5bbcefd8a59191f.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/10/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10539,
+      "numero": 11,
+      "titulo": "Yuyu Hakusho 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f85bd553b37ed73e571f8140dc519e0d.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/11/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10540,
+      "numero": 12,
+      "titulo": "Yuyu Hakusho 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dd16e049becf4d5087c90a83fea403b.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/12/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10541,
+      "numero": 13,
+      "titulo": "Yuyu Hakusho 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_274895fd4fa237a59a5a2f2aab135e5e.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/13/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10542,
+      "numero": 14,
+      "titulo": "Yuyu Hakusho 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44e207aecc63505eb828d442de03f2e9.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/14/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10543,
+      "numero": 15,
+      "titulo": "Yuyu Hakusho 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0169cf885f882efd795951253db5cdfb.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/15/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10544,
+      "numero": 16,
+      "titulo": "Yuyu Hakusho 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbbb18efb6e9789c7b1476058c231bd5.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/16/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10545,
+      "numero": 17,
+      "titulo": "Yuyu Hakusho 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e76d88aeab47da20d61b1b489af1a281.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/17/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10546,
+      "numero": 18,
+      "titulo": "Yuyu Hakusho 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_013c17ae3d8adf097f5ddd872096b8fe.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/18/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10547,
+      "numero": 19,
+      "titulo": "Yuyu Hakusho 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7180ee78abc8c4401d89f708582062e4.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/19/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10548,
+      "numero": 20,
+      "titulo": "Yuyu Hakusho 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_722a7c7bd524abea0323c6ee7e2f8dcf.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/20/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10549,
+      "numero": 21,
+      "titulo": "Yuyu Hakusho 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_752eaf975d0a06d11f32a62f37e2101a.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/21/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10550,
+      "numero": 22,
+      "titulo": "Yuyu Hakusho 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5324d3d389537bc820a1e2d02f055dfe.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/22/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10551,
+      "numero": 23,
+      "titulo": "Yuyu Hakusho 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3804bff92df360b252a43180009510c7.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/23/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10552,
+      "numero": 24,
+      "titulo": "Yuyu Hakusho 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4a981880e538a69cf3c60d98a6f2a65.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/24/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10553,
+      "numero": 25,
+      "titulo": "Yuyu Hakusho 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5fa03e167322e220e109b176733be8b.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/25/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10554,
+      "numero": 26,
+      "titulo": "Yuyu Hakusho 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1419302db9c022ab1d48681b13d5f8b.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/26/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10555,
+      "numero": 27,
+      "titulo": "Yuyu Hakusho 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a62a015d7642877c86d50c266a38b636.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/27/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10556,
+      "numero": 28,
+      "titulo": "Yuyu Hakusho 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bae6e6182d08d4cb16f87505dcb60ca.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/28/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10557,
+      "numero": 29,
+      "titulo": "Yuyu Hakusho 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c8aa9ae1ab630196ed047f0ed2ee15c.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/29/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10558,
+      "numero": 30,
+      "titulo": "Yuyu Hakusho 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_129062814faa8bf423948596f415072b.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/30/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10559,
+      "numero": 31,
+      "titulo": "Yuyu Hakusho 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a20fd764fa23d34b52bd85bf5cb49a6.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/31/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10560,
+      "numero": 32,
+      "titulo": "Yuyu Hakusho 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18064d61b6f93dab8681a460779b8429.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/32/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10561,
+      "numero": 33,
+      "titulo": "Yuyu Hakusho 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69c418c33ec2e1a4267fa9bb77fa1428.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/33/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10562,
+      "numero": 34,
+      "titulo": "Yuyu Hakusho 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a5a2994bba00e071d152145344b741d.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/34/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10563,
+      "numero": 35,
+      "titulo": "Yuyu Hakusho 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f2b8183cd1e469ad3a7ad1eadce49d1.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/35/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10564,
+      "numero": 36,
+      "titulo": "Yuyu Hakusho 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bae876e53dab654a3d9d9768b1b7b91a.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/36/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10565,
+      "numero": 37,
+      "titulo": "Yuyu Hakusho 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c41a15ffb0c1a4b2e9e47c4ac441bec.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/37/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10566,
+      "numero": 38,
+      "titulo": "Yuyu Hakusho 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0db7643410e1a667d5e01868827a9af.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/38/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10567,
+      "numero": 39,
+      "titulo": "Yuyu Hakusho 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aeea73be8c3967e626f871de617d508c.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/39/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10568,
+      "numero": 40,
+      "titulo": "Yuyu Hakusho 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fe500898e3183422bebc8325bfc9515.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/40/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10569,
+      "numero": 41,
+      "titulo": "Yuyu Hakusho 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8c6ba1577afdf09f6ca0ea7fb987590.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/41/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10570,
+      "numero": 42,
+      "titulo": "Yuyu Hakusho 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b2f1de75dcb0dc79ef2b50af850de6f.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/42/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10571,
+      "numero": 43,
+      "titulo": "Yuyu Hakusho 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_447664a3141eb12771bd889d6d4e1bdb.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/43/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10572,
+      "numero": 44,
+      "titulo": "Yuyu Hakusho 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_411fac00c3df193cf777bc45f7d444d4.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/44/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10573,
+      "numero": 45,
+      "titulo": "Yuyu Hakusho 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17446a8ae7dbf7e2c2535ba49340b4b9.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/45/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10574,
+      "numero": 46,
+      "titulo": "Yuyu Hakusho 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1cf2a082126bf02de0b307778ce73a7.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/46/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10575,
+      "numero": 47,
+      "titulo": "Yuyu Hakusho 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41e62300a7b58ef9cbf36de8af092959.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/47/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10576,
+      "numero": 48,
+      "titulo": "Yuyu Hakusho 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_433f3eb6c5b7bd3fb4a2d0e8756c6836.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/48/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10577,
+      "numero": 49,
+      "titulo": "Yuyu Hakusho 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be89ae8f13cb396cf3ad1f20355b5ea7.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/49/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10578,
+      "numero": 50,
+      "titulo": "Yuyu Hakusho 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_138fe4f85c216a7648d1518f17a77637.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/50/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10579,
+      "numero": 51,
+      "titulo": "Yuyu Hakusho 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24bea84d52e6a1f8025e313c2ffff50a.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/51/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10580,
+      "numero": 52,
+      "titulo": "Yuyu Hakusho 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bd4cddb7692ab6e39732c404f093a2a.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/52/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10581,
+      "numero": 53,
+      "titulo": "Yuyu Hakusho 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73601bc3bd5a961a61a973e92e29f169.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/53/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10582,
+      "numero": 54,
+      "titulo": "Yuyu Hakusho 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_106fac81e07001e1825eadbb39fcde11.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/54/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10583,
+      "numero": 55,
+      "titulo": "Yuyu Hakusho 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b141c19b8516ff9a26065d66ecd7146.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/55/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10584,
+      "numero": 56,
+      "titulo": "Yuyu Hakusho 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf372cbe6eae54c6a6dfb3ebbcdc3404.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/56/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10585,
+      "numero": 57,
+      "titulo": "Yuyu Hakusho 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a576eafbce762079f7d1f77fca1c5cc2.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/57/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10586,
+      "numero": 58,
+      "titulo": "Yuyu Hakusho 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b77b4b5156dc11dec152c6c71481565.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/58/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 15663,
+      "numero": 59,
+      "titulo": "Yu Yu Hakusho - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c2c53e1f9d33713f16353b09a8bfbe6.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/59/",
+      "publicado_en_origen": "2012-05-29 11:14:30"
+    },
+    {
+      "id_origen": 10587,
+      "numero": 60,
+      "titulo": "Yuyu Hakusho 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_244c14ea3d510ea640df31ff78b3158a.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/60/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10588,
+      "numero": 61,
+      "titulo": "Yuyu Hakusho 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d9e4a04afb9f3608ccc76c1ffa7573e.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/61/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10589,
+      "numero": 62,
+      "titulo": "Yuyu Hakusho 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f74e95cf0ef6ccd85c791b5d351aa327.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/62/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10590,
+      "numero": 63,
+      "titulo": "Yuyu Hakusho 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_236522d75c8164f90a85448456e1d1aa.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/63/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10591,
+      "numero": 64,
+      "titulo": "Yuyu Hakusho 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd4729902a3476b2bc9675e3530a852c.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/64/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10592,
+      "numero": 65,
+      "titulo": "Yuyu Hakusho 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6c2a0c4b566bc99d596e58638e342b0.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/65/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10593,
+      "numero": 66,
+      "titulo": "Yuyu Hakusho 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d530d454337fb09964237fecb4bea6ce.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/66/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10594,
+      "numero": 67,
+      "titulo": "Yuyu Hakusho 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86c68e91153da429d0930c9ad13d1311.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/67/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10595,
+      "numero": 68,
+      "titulo": "Yuyu Hakusho 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f15805708a114ef82febede1e7419ac.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/68/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10596,
+      "numero": 69,
+      "titulo": "Yuyu Hakusho 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68bd22864919297c8c8a8c32378e89b4.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/69/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10597,
+      "numero": 70,
+      "titulo": "Yuyu Hakusho 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2a23af417a2344fe3a23e652924091f.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/70/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10598,
+      "numero": 71,
+      "titulo": "Yuyu Hakusho 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6fa05c07b144b6ff4d1fd1cd2bbb244.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/71/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10599,
+      "numero": 72,
+      "titulo": "Yuyu Hakusho 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed169960635ad981cb7b65edf84b3f8f.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/72/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10600,
+      "numero": 73,
+      "titulo": "Yuyu Hakusho 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bb585ea00014b0e3ebe4c6dd165a358.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/73/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10601,
+      "numero": 74,
+      "titulo": "Yuyu Hakusho 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1aa4de654d4e502b4ef4136466b13fcc.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/74/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10602,
+      "numero": 75,
+      "titulo": "Yuyu Hakusho 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e92b755eb0d8800175a02a35c2bf44fe.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/75/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10603,
+      "numero": 76,
+      "titulo": "Yuyu Hakusho 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9dd7e3c6ee87a48cb35b729caf61eb5.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/76/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10604,
+      "numero": 77,
+      "titulo": "Yuyu Hakusho 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75c6b2d6319e12f37ff421834ad22fa8.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/77/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 15664,
+      "numero": 78,
+      "titulo": "Yu Yu Hakusho - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e36078a8311f5fb8c4d43f2853552d04.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/78/",
+      "publicado_en_origen": "2012-05-29 11:14:31"
+    },
+    {
+      "id_origen": 10605,
+      "numero": 79,
+      "titulo": "Yuyu Hakusho 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9306b519cdfe94d2c8fc0e733b0b8842.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/79/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10606,
+      "numero": 80,
+      "titulo": "Yuyu Hakusho 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e51dc91e1459243933b9ac53a8c953f.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/80/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10607,
+      "numero": 81,
+      "titulo": "Yuyu Hakusho 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4379cf00e1a95a97a33dac10ce454ca4.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/81/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10608,
+      "numero": 82,
+      "titulo": "Yuyu Hakusho 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_689041c2baed0f6d91050495d632d6e0.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/82/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10609,
+      "numero": 83,
+      "titulo": "Yuyu Hakusho 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c974b58d1b0df79a20503c23e67cea69.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/83/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10610,
+      "numero": 84,
+      "titulo": "Yuyu Hakusho 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b708c065dfab38528050a84d852bf13.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/84/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10611,
+      "numero": 85,
+      "titulo": "Yuyu Hakusho 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_101345ba77f8222dfe153e06123def94.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/85/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10612,
+      "numero": 86,
+      "titulo": "Yuyu Hakusho 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5dd0e4351a65a23e2a13bf0483fe8cc.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/86/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10613,
+      "numero": 87,
+      "titulo": "Yuyu Hakusho 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e69ccd834405b002add6e2ff6664496d.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/87/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 15665,
+      "numero": 88,
+      "titulo": "Yu Yu Hakusho - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f828f1f06bbc62fe4540cdcc823d401f.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/88/",
+      "publicado_en_origen": "2012-05-29 11:14:31"
+    },
+    {
+      "id_origen": 10614,
+      "numero": 89,
+      "titulo": "Yuyu Hakusho 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a73d9b34d6f7c322fa3e34c633b1297d.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/89/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10615,
+      "numero": 90,
+      "titulo": "Yuyu Hakusho 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21327ba33b3689e713cdff1641128004.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/90/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10616,
+      "numero": 91,
+      "titulo": "Yuyu Hakusho 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca529f0fe8b0c42a40d52288a30bd915.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/91/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10617,
+      "numero": 92,
+      "titulo": "Yuyu Hakusho 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a5a0ae9dc9f6e54fca5f0f61b0e9b5b.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/92/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10618,
+      "numero": 93,
+      "titulo": "Yuyu Hakusho 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39b1b0fc4a4f43d604bbb161072120b9.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/93/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10619,
+      "numero": 94,
+      "titulo": "Yuyu Hakusho 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd88a7eb7d215fa5f79498d0a69a1db2.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/94/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10620,
+      "numero": 95,
+      "titulo": "Yuyu Hakusho 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89fee0513b6668e555959f5dc23238e9.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/95/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10621,
+      "numero": 96,
+      "titulo": "Yuyu Hakusho 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb76c4a54e67598df815abe79dda4b97.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/96/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10622,
+      "numero": 97,
+      "titulo": "Yuyu Hakusho 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a3a60ca2371a13fd1e84043f75f2f31.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/97/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10623,
+      "numero": 98,
+      "titulo": "Yuyu Hakusho 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28538c394c36e4d5ea8ff5ad60562a93.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/98/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10624,
+      "numero": 99,
+      "titulo": "Yuyu Hakusho 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d65b5ac1f4ec80b9a7309311f4f9b13.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/99/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10625,
+      "numero": 100,
+      "titulo": "Yuyu Hakusho 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_40b8498f89a8b101cd6fc6bb690231f9.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/100/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10626,
+      "numero": 101,
+      "titulo": "Yuyu Hakusho 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c6ee860dfb322d0fc5dbbf5a2aa0b39.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/101/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10627,
+      "numero": 102,
+      "titulo": "Yuyu Hakusho 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_346401548fda241720bfad6c7f671255.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/102/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10628,
+      "numero": 103,
+      "titulo": "Yuyu Hakusho 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_066ca7bf90807fcd8e4f1eaef4e4e8f7.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/103/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10629,
+      "numero": 104,
+      "titulo": "Yuyu Hakusho 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acf068d3e5e1ab3b6ae7d718587f654e.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/104/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10630,
+      "numero": 105,
+      "titulo": "Yuyu Hakusho 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_547e254ad67a3f2b4cd98de28e663293.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/105/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10631,
+      "numero": 106,
+      "titulo": "Yuyu Hakusho 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e8c3b36784c572ea4d560578eec954b.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/106/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10632,
+      "numero": 107,
+      "titulo": "Yuyu Hakusho 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2eeb0ca3f02a275d5179f3b6d9e86e7d.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/107/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10633,
+      "numero": 108,
+      "titulo": "Yuyu Hakusho 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d8c34ed1d91e42e80ccda0c6dd0b027.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/108/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 15666,
+      "numero": 109,
+      "titulo": "Yu Yu Hakusho - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_569b9e02209e3bb5f1798f51e078102c.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/109/",
+      "publicado_en_origen": "2012-05-29 11:14:31"
+    },
+    {
+      "id_origen": 15667,
+      "numero": 110,
+      "titulo": "Yu Yu Hakusho - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e584bd1926df576b6c47ef4a319e432f.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/110/",
+      "publicado_en_origen": "2012-05-29 11:14:31"
+    },
+    {
+      "id_origen": 10634,
+      "numero": 111,
+      "titulo": "Yuyu Hakusho 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a22c0238589078fb10b606ab62015744.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/111/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10635,
+      "numero": 112,
+      "titulo": "Yuyu Hakusho 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_184cb48a11bd10712686ebd5611812af.jpg",
+      "url_origen": "https://jkanime.net/yu-yu-hakusho/112/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "389",
+  "cantidad_episodios_declarada": 112,
+  "detalle_extraido_en": "2026-08-26T18:53:22+00:00"
+}

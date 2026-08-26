@@ -1,0 +1,37 @@
+{
+  "id_origen": 1705,
+  "slug": "strike-the-blood-valkyria-no-oukoku-hen",
+  "titulo": "Strike the Blood: Valkyria no Oukoku-hen",
+  "titulo_corto": "Strike the Blood: Valkyria no ...",
+  "sinopsis": "OVAS de Strike the blood, basadas en una historia original de Gakuto Mikumo",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/strike-the-blood-valkyria-no-oukoku-hen.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/strike-the-blood-valkyria-no-oukoku-hen/",
+  "episodios": [
+    {
+      "id_origen": 30172,
+      "numero": 1,
+      "titulo": "Strike the Blood: Valkyria no Oukoku-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df624627466cdd1d24cd7604d38a73b7.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-valkyria-no-oukoku-hen/1/",
+      "publicado_en_origen": "2015-11-24 17:44:50"
+    },
+    {
+      "id_origen": 30412,
+      "numero": 2,
+      "titulo": "Strike the Blood: Valkyria no Oukoku-hen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_667e73abb11a09bfac437b5479ce6552.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-valkyria-no-oukoku-hen/2/",
+      "publicado_en_origen": "2015-12-22 18:43:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1705",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:47:53+00:00"
+}

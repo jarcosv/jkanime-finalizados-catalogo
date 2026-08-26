@@ -1,0 +1,45 @@
+{
+  "id_origen": 1045,
+  "slug": "mou-hitotsu-no-mirai-wo",
+  "titulo": "Mou Hitotsu no Mirai wo.",
+  "titulo_corto": "Mou Hitotsu no Mirai wo.",
+  "sinopsis": "El corto toma lugar en el Laboratorio KDDI R&D, donde cientificos estan creando un telefono que puede llamar al futuro, pero un incidente ocurre cuando estan usando el telefono.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mou-hitotsu-no-mirai-wo.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mou-hitotsu-no-mirai-wo/",
+  "episodios": [
+    {
+      "id_origen": 22362,
+      "numero": 1,
+      "titulo": "Mou Hitotsu no Mirai wo. - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0378944aa0da95a0e9bf1edcf0f447ee.jpg",
+      "url_origen": "https://jkanime.net/mou-hitotsu-no-mirai-wo/1/",
+      "publicado_en_origen": "2014-01-04 23:33:29"
+    },
+    {
+      "id_origen": 23229,
+      "numero": 2,
+      "titulo": "Mou Hitotsu no Mirai wo. - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e1daf7c8796af0fb9827612e600a219.jpg",
+      "url_origen": "https://jkanime.net/mou-hitotsu-no-mirai-wo/2/",
+      "publicado_en_origen": "2014-04-16 21:54:57"
+    },
+    {
+      "id_origen": 23303,
+      "numero": 3,
+      "titulo": "Mou Hitotsu no Mirai wo. - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41f3df50f91a705c3b3adbcd96afa2cc.jpg",
+      "url_origen": "https://jkanime.net/mou-hitotsu-no-mirai-wo/3/",
+      "publicado_en_origen": "2014-04-24 12:15:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1045",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:39:16+00:00"
+}

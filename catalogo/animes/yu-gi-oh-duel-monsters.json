@@ -1,0 +1,1813 @@
+{
+  "id_origen": 75,
+  "slug": "yu-gi-oh-duel-monsters",
+  "titulo": "Yu-Gi-Oh! Duel Monsters",
+  "titulo_corto": "Yu-Gi-Oh! Duel Monsters",
+  "sinopsis": "Yu-Gi-Oh (Significa Rey de los Juegos), Su personaje principal Yugi Muto en compañía de sus mejores amigos Katsuya Jonouchi (Joseph Wheeler), Anzu Mazaki (Tea Gardner), y Hiroto Honda (Tristán Taylor), pero también tiene la compañía de un espíritu de un Antiguo Faraón \"Atem\"; tienen aventuras que están estrechamente ligadas a un juego de cartas \"Duelo de Monstruos\", un juego ligado con el pasado de egipto el cual se jugaba en tiempos antiguos y que es descubierto por Pegasus J. Crawford (maximilian Pegasus), este es el creador de el Juego \"Duelo de Monstruos\" tomando como base lo que paso en egipto hace mucho tiempo. Del juego se crean torneos y campeonatos nacionales e internacionales, participando Yugi Mūtō obteniendo el titulo de \"Rey de los Juegos\". Yugi Mūtō y su contraparte el Antiguo Faraón \"Atem\" se enfrentan a muchas vicisitudes ocasionadas por enemigos en su mayoia del pasado de el faraon, teniendo el faron con la ayuda de Yugi la labor de detenerlos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-duel-monsters.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/",
+  "episodios": [
+    {
+      "id_origen": 1535,
+      "numero": 1,
+      "titulo": "Yu Gi oH! 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_748ba69d3e8d1af87f84fee909eef339.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1536,
+      "numero": 2,
+      "titulo": "Yu Gi oH! 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5a1fc2085986034e448d2ccc5bb9703.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1537,
+      "numero": 3,
+      "titulo": "Yu Gi oH! 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1a69640d53a32a9fb13e93d1c8f3104.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1538,
+      "numero": 4,
+      "titulo": "Yu Gi oH! 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b60c5ab647a27045b462934977ccad9a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1539,
+      "numero": 5,
+      "titulo": "Yu Gi oH! 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17e23e50bedc63b4095e3d8204ce063b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1540,
+      "numero": 6,
+      "titulo": "Yu Gi oH! 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cda72177eba360ff16b7f836e2754370.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1541,
+      "numero": 7,
+      "titulo": "Yu Gi oH! 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1373b284bc381890049e92d324f56de0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/7/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1542,
+      "numero": 8,
+      "titulo": "Yu Gi oH! 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d010396ca8abf6ead8cacc2c2f2f26c7.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/8/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1543,
+      "numero": 9,
+      "titulo": "Yu Gi oH! 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_819c9fbfb075d62a16393b9fe4fcbaa5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/9/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1544,
+      "numero": 10,
+      "titulo": "Yu Gi oH! 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f337d999d9ad116a7b4f3d409fcc6480.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/10/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1545,
+      "numero": 11,
+      "titulo": "Yu Gi oH! 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89ae0fe22c47d374bc9350ef99e01685.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/11/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1546,
+      "numero": 12,
+      "titulo": "Yu Gi oH! 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aff0a6a4521232970b2c1cf539ad0a19.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/12/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1547,
+      "numero": 13,
+      "titulo": "Yu Gi oH! 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_204da255aea2cd4a75ace6018fad6b4d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/13/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1548,
+      "numero": 14,
+      "titulo": "Yu Gi oH! 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35464c848f410e55a13bb9d78e7fddd0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/14/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1549,
+      "numero": 15,
+      "titulo": "Yu Gi oH! 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c88d8d0a6097754525e02c2246d8d27f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/15/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1550,
+      "numero": 16,
+      "titulo": "Yu Gi oH! 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b8eba43551742214453411664a0dcc8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/16/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1551,
+      "numero": 17,
+      "titulo": "Yu Gi oH! 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e6cd95227cb0c280e99a195be5f6615.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/17/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1552,
+      "numero": 18,
+      "titulo": "Yu Gi oH! 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_351b33587c5fdd93bd42ef7ac9995a28.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/18/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1553,
+      "numero": 19,
+      "titulo": "Yu Gi oH! 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18ead4c77c3f40dabf9735432ac9d97a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/19/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1554,
+      "numero": 20,
+      "titulo": "Yu Gi oH! 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98986c005e5def2da341b4e0627d4712.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/20/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1555,
+      "numero": 21,
+      "titulo": "Yu Gi oH! 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2dd140336c9df867c087a29b2e66034.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/21/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1556,
+      "numero": 22,
+      "titulo": "Yu Gi oH! 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e9cec1f583056459111d63e24f3b8ef.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/22/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1557,
+      "numero": 23,
+      "titulo": "Yu Gi oH! 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_596f713f9a7376fe90a62abaaedecc2d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/23/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1558,
+      "numero": 24,
+      "titulo": "Yu Gi oH! 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29921001f2f04bd3baee84a12e98098f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/24/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1559,
+      "numero": 25,
+      "titulo": "Yu Gi oH! 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_020c8bfac8de160d4c5543b96d1fdede.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/25/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1560,
+      "numero": 26,
+      "titulo": "Yu Gi oH! 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a20f62a0af1aa152670bab3c602feed.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/26/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1561,
+      "numero": 27,
+      "titulo": "Yu Gi oH! 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b132ecc1609bfcf302615847c1caa69a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/27/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1562,
+      "numero": 28,
+      "titulo": "Yu Gi oH! 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92af93f73faf3cefc129b6bc55a748a9.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/28/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1563,
+      "numero": 29,
+      "titulo": "Yu Gi oH! 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d6e4749289c4ec58c0063a90deb3964.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/29/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1564,
+      "numero": 30,
+      "titulo": "Yu Gi oH! 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_facf9f743b083008a894eee7baa16469.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/30/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1565,
+      "numero": 31,
+      "titulo": "Yu Gi oH! 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d961e9f236177d65d21100592edb0769.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/31/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1566,
+      "numero": 32,
+      "titulo": "Yu Gi oH! 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be53ee61104935234b174e62a07e53cf.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/32/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1567,
+      "numero": 33,
+      "titulo": "Yu Gi oH! 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18d10dc6e666eab6de9215ae5b3d54df.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/33/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1568,
+      "numero": 34,
+      "titulo": "Yu Gi oH! 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfa92d8f817e5b08fcaafb50d03763cf.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/34/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1569,
+      "numero": 35,
+      "titulo": "Yu Gi oH! 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_655ea4bd3b5736d88afc30c9212ccddf.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/35/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1570,
+      "numero": 36,
+      "titulo": "Yu Gi oH! 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7949e456002b28988d38185bd30e77fd.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/36/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1571,
+      "numero": 37,
+      "titulo": "Yu Gi oH! 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bd28f15a49d5e5848d6ec70e584e625.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/37/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1572,
+      "numero": 38,
+      "titulo": "Yu Gi oH! 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_452bf208bf901322968557227b8f6efe.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/38/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1573,
+      "numero": 39,
+      "titulo": "Yu Gi oH! 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1afc58c6ca9540d057299ec3016d726.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/39/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1574,
+      "numero": 40,
+      "titulo": "Yu Gi oH! 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d4f4805c36dc6853edfa4c7e1638b48.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/40/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1575,
+      "numero": 41,
+      "titulo": "Yu Gi oH! 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70efba66d3d8d53194fb1a8446ae07fa.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/41/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1576,
+      "numero": 42,
+      "titulo": "Yu Gi oH! 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af5afd7f7c807171981d443ad4f4f648.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/42/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1577,
+      "numero": 43,
+      "titulo": "Yu Gi oH! 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e1d842d0f7ee600116ffc6b2d87d83f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/43/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1578,
+      "numero": 44,
+      "titulo": "Yu Gi oH! 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95d309f0b035d97f69902e7972c2b2e6.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/44/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1579,
+      "numero": 45,
+      "titulo": "Yu Gi oH! 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed4227734ed75d343320b6a5fd16ce57.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/45/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1580,
+      "numero": 46,
+      "titulo": "Yu Gi oH! 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc5c768b5dc76a084531934b34601977.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/46/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1581,
+      "numero": 47,
+      "titulo": "Yu Gi oH! 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88a199611ac2b85bd3f76e8ee7e55650.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/47/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1582,
+      "numero": 48,
+      "titulo": "Yu Gi oH! 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b710915795b9e9c02cf10d6d2bdb688c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/48/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1583,
+      "numero": 49,
+      "titulo": "Yu Gi oH! 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_076023edc9187cf1ac1f1163470e479a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/49/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1584,
+      "numero": 50,
+      "titulo": "Yu Gi oH! 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_277281aada22045c03945dcb2ca6f2ec.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/50/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1585,
+      "numero": 51,
+      "titulo": "Yu Gi oH! 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_228499b55310264a8ea0e27b6e7c6ab6.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/51/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1586,
+      "numero": 52,
+      "titulo": "Yu Gi oH! 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f19793b2671094e63a15ab883d50137.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/52/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1587,
+      "numero": 53,
+      "titulo": "Yu Gi oH! 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49af6c4e558a7569d80eee2e035e2bd7.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/53/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1588,
+      "numero": 54,
+      "titulo": "Yu Gi oH! 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_894b77f805bd94d292574c38c5d628d5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/54/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1589,
+      "numero": 55,
+      "titulo": "Yu Gi oH! 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dca5672ff3444c7e997aa9a2c4eb2094.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/55/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1590,
+      "numero": 56,
+      "titulo": "Yu Gi oH! 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bcb41ccdc4363c6848a1d760f26c28a0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/56/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 12028,
+      "numero": 57,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb13de2e50ac695aad8fbfe59e1ba869.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/57/",
+      "publicado_en_origen": "2011-09-14 15:38:49"
+    },
+    {
+      "id_origen": 1591,
+      "numero": 58,
+      "titulo": "Yu Gi oH! 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5129a5ddcd0dcd755232baa04c231698.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/58/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1592,
+      "numero": 59,
+      "titulo": "Yu Gi oH! 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d72fbbccd9fe64c3a14f85d225a046f4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/59/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1593,
+      "numero": 60,
+      "titulo": "Yu Gi oH! 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06a81a4fb98d149f2d31c68828fa6eb2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/60/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 12029,
+      "numero": 61,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6d71413617dfba7a5ff5b9a7180c007.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/61/",
+      "publicado_en_origen": "2011-09-14 15:38:49"
+    },
+    {
+      "id_origen": 1594,
+      "numero": 62,
+      "titulo": "Yu Gi oH! 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ebcc77dc72360d0eb8e9504c78d38bd.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/62/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1595,
+      "numero": 63,
+      "titulo": "Yu Gi oH! 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d88518acbcc3d08d1f18da62f9bb26ec.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/63/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 12030,
+      "numero": 64,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_496cd8b01b0600a185e6156487bf96ed.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/64/",
+      "publicado_en_origen": "2011-09-14 15:38:49"
+    },
+    {
+      "id_origen": 1596,
+      "numero": 65,
+      "titulo": "Yu Gi oH! 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_309fee4e541e51de2e41f21bebb342aa.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/65/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1597,
+      "numero": 66,
+      "titulo": "Yu Gi oH! 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87ec2f451208df97228105657edb717f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/66/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1598,
+      "numero": 67,
+      "titulo": "Yu Gi oH! 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c19a2aa1d84e04b0bd4bc888792bd1e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/67/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1599,
+      "numero": 68,
+      "titulo": "Yu Gi oH! 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83e8ef518174e1eb6be4a0778d050c9d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/68/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1600,
+      "numero": 69,
+      "titulo": "Yu Gi oH! 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e984c108157cea74c894b5cf34efc44.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/69/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1601,
+      "numero": 70,
+      "titulo": "Yu Gi oH! 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c559da2ba967eb820766939a658022c8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/70/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1602,
+      "numero": 71,
+      "titulo": "Yu Gi oH! 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bc0249a6412ef49b07fe6f62e6dc8de.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/71/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1603,
+      "numero": 72,
+      "titulo": "Yu Gi oH! 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3173935ed8ac4bf073c1bcd63171f8a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/72/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1604,
+      "numero": 73,
+      "titulo": "Yu Gi oH! 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a368b0de8b91cfb3f91892fbf1ebd4b2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/73/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1605,
+      "numero": 74,
+      "titulo": "Yu Gi oH! 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f18a6d1cde4b205199de8729a6637b42.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/74/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1606,
+      "numero": 75,
+      "titulo": "Yu Gi oH! 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_495dabfd0ca768a3c3abd672079f48b6.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/75/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1607,
+      "numero": 76,
+      "titulo": "Yu Gi oH! 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9597353e41e6957b5e7aa79214fcb256.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/76/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1608,
+      "numero": 77,
+      "titulo": "Yu Gi oH! 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_faafda66202d234463057972460c04f5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/77/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1609,
+      "numero": 78,
+      "titulo": "Yu Gi oH! 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2cc63e065705fe938a4dda49092966f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/78/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1610,
+      "numero": 79,
+      "titulo": "Yu Gi oH! 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a14ac55a4f27472c5d894ec1c3c743d2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/79/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1611,
+      "numero": 80,
+      "titulo": "Yu Gi oH! 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a6a74cbe87bc60030a4bd041dd47b78.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/80/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1612,
+      "numero": 81,
+      "titulo": "Yu Gi oH! 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52947e0ade57a09e4a1386d08f17b656.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/81/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1613,
+      "numero": 82,
+      "titulo": "Yu Gi oH! 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69d658d0b2859e32cd4dc3b970c8496c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/82/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1614,
+      "numero": 83,
+      "titulo": "Yu Gi oH! 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9fd7c2c6623306db59b6aef5c0d5cac.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/83/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1615,
+      "numero": 84,
+      "titulo": "Yu Gi oH! 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71a58e8cb75904f24cde464161c3e766.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/84/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1616,
+      "numero": 85,
+      "titulo": "Yu Gi oH! 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_962e56a8a0b0420d87272a682bfd1e53.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/85/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1617,
+      "numero": 86,
+      "titulo": "Yu Gi oH! 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_297fa7777981f402dbba17e9f29e292d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/86/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1618,
+      "numero": 87,
+      "titulo": "Yu Gi oH! 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f60bb6bb4c96d4df93c51bd69dcc15a0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/87/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1619,
+      "numero": 88,
+      "titulo": "Yu Gi oH! 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1dc3a8270a6f9394f88847d7f0050cf.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/88/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1620,
+      "numero": 89,
+      "titulo": "Yu Gi oH! 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_806beafe154032a5b818e97b4420ad98.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/89/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1621,
+      "numero": 90,
+      "titulo": "Yu Gi oH! 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4462bf0ddbe0d0da40e1e828ebebeb11.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/90/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 12031,
+      "numero": 91,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f539471127c904e22309f6fa599e98f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/91/",
+      "publicado_en_origen": "2011-09-14 15:38:49"
+    },
+    {
+      "id_origen": 12032,
+      "numero": 92,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7104a226fe65be03fecf10f5bceff8a6.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/92/",
+      "publicado_en_origen": "2011-09-14 15:38:49"
+    },
+    {
+      "id_origen": 12033,
+      "numero": 93,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78f41579c50b633ec3c475380260fb61.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/93/",
+      "publicado_en_origen": "2011-09-14 15:38:49"
+    },
+    {
+      "id_origen": 12034,
+      "numero": 94,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f45ab3a13b96528881ffe7a63b547e79.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/94/",
+      "publicado_en_origen": "2011-09-14 15:38:49"
+    },
+    {
+      "id_origen": 12035,
+      "numero": 95,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a9e0b75eccc318e8e449b34f0a56462.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/95/",
+      "publicado_en_origen": "2011-09-14 15:38:49"
+    },
+    {
+      "id_origen": 12036,
+      "numero": 96,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37241d744c96e57d29332979a23b8c5c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/96/",
+      "publicado_en_origen": "2011-09-14 15:38:49"
+    },
+    {
+      "id_origen": 12037,
+      "numero": 97,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f4059dbdef515f7ddf25d1888ec1704.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/97/",
+      "publicado_en_origen": "2011-09-14 15:38:49"
+    },
+    {
+      "id_origen": 12038,
+      "numero": 98,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22d0c530efd7037118d2011a68444823.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/98/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12039,
+      "numero": 99,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00b682284a10bdccd33c429ec31f4bec.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/99/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12040,
+      "numero": 100,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6db812399de3afc15a13018a77f70aed.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/100/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12041,
+      "numero": 101,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa1f5f73327ba40d47ebce155e785aaf.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/101/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12042,
+      "numero": 102,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8585939e10dc0d11d37aa63cdeaecdf8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/102/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12043,
+      "numero": 103,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_422f010441436ae9511d3e04a6d0d186.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/103/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12044,
+      "numero": 104,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e50acc98850803aaa6ab6860f14b84d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/104/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12045,
+      "numero": 105,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb598cb494b6e98253995d800fab908d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/105/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12046,
+      "numero": 106,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc60305c9e5e6f19c6be173b9dd7b448.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/106/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12047,
+      "numero": 107,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e99298b28ed320343949b7631bebe7e5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/107/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12048,
+      "numero": 108,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e4df576d1ed58e5990f70848d933758.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/108/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12049,
+      "numero": 109,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd1095d744e5a2ba86ca7a9870aa6730.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/109/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12050,
+      "numero": 110,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a79c879d28c5c8a4707d52bbaa57607f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/110/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12051,
+      "numero": 111,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50e1781e60d725365a74d585a2734062.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/111/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12052,
+      "numero": 112,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be929a31e71b3acf2b3dd3b71c858614.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/112/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12053,
+      "numero": 113,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b8f66308ee7c3ad5d1031a5721f0753.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/113/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12054,
+      "numero": 114,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db33fd3fae645e90637fd0d498958c41.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/114/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12055,
+      "numero": 115,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_723e8f97fde15f7a8d5ff8d558ea3f16.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/115/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12056,
+      "numero": 116,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18c3714df31f8ad15df9a76f18179fc5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/116/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12057,
+      "numero": 117,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b910e56415eb6bd1037b46e6e619c58.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/117/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12058,
+      "numero": 118,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de56596363329673fab1b93be2210df7.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/118/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12059,
+      "numero": 119,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d95935d7d6fbe4895b69f61eaebfc247.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/119/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12060,
+      "numero": 120,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16d8a58d14a62420c9a1cbc088035e31.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/120/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12061,
+      "numero": 121,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25d0a45ccd9e33b6b1ef8760801b6841.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/121/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12062,
+      "numero": 122,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60be21f3ebf28ff7b8a692a752d92cf8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/122/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12063,
+      "numero": 123,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_887c5a2b0d1bcf5b169ac8d63806bd13.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/123/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12064,
+      "numero": 124,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a159b2e2c6b3cb7bf0e92eb43fe27bdd.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/124/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12065,
+      "numero": 125,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1d4643376bf11b37c51f5c76fcaff79.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/125/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12066,
+      "numero": 126,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a94eea42ecd117d87eb79c61bdd656e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/126/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12067,
+      "numero": 127,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_366c97caa1e66d39a0c21edb8fdc9caf.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/127/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12068,
+      "numero": 128,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d50c67063c0736612686f397a294fa4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/128/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12069,
+      "numero": 129,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee6db9134a1add4f17b85c426b019a0d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/129/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12070,
+      "numero": 130,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5125298703cf51ccf35408683be9055c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/130/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12071,
+      "numero": 131,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c333bad2a8b45d3c30902945bd98f699.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/131/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12072,
+      "numero": 132,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c54c1353a13f0caf7c9d6fbbf57999f7.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/132/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12073,
+      "numero": 133,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4fce05b7e6af04c39a65a97418bb529.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/133/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12074,
+      "numero": 134,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44d88dac3da240ef83bff8bdfd61b9aa.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/134/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12075,
+      "numero": 135,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7495bfe3bcb0defae0b795cb11c19e13.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/135/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12076,
+      "numero": 136,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d9bffd3b6ec26412982e430b6665605.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/136/",
+      "publicado_en_origen": "2011-09-14 15:42:19"
+    },
+    {
+      "id_origen": 12077,
+      "numero": 137,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c35a4c435947597d8ba9718c4d7d6643.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/137/",
+      "publicado_en_origen": "2011-09-14 15:42:20"
+    },
+    {
+      "id_origen": 12078,
+      "numero": 138,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a41acbd3ffd616b5fd306761bb865d23.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/138/",
+      "publicado_en_origen": "2011-09-14 15:42:20"
+    },
+    {
+      "id_origen": 12079,
+      "numero": 139,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62752c5f9ee3bf051713cd8db0961616.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/139/",
+      "publicado_en_origen": "2011-09-14 15:42:20"
+    },
+    {
+      "id_origen": 12080,
+      "numero": 140,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d73b94a1b27fbac9fcf22ed243127e3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/140/",
+      "publicado_en_origen": "2011-09-14 15:42:20"
+    },
+    {
+      "id_origen": 12081,
+      "numero": 141,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7cecfe41e1394109d7b8620ca3926166.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/141/",
+      "publicado_en_origen": "2011-09-14 15:42:20"
+    },
+    {
+      "id_origen": 12082,
+      "numero": 142,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1831d62b4cb431cfd25f0df9d4c8724f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/142/",
+      "publicado_en_origen": "2011-09-14 15:42:20"
+    },
+    {
+      "id_origen": 12083,
+      "numero": 143,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c1192a2afb55fdee2a326ef8de8a3a0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/143/",
+      "publicado_en_origen": "2011-09-14 15:42:20"
+    },
+    {
+      "id_origen": 12084,
+      "numero": 144,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8caa4453ee0a54b9cc35641a1044b3ca.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/144/",
+      "publicado_en_origen": "2011-09-14 15:42:20"
+    },
+    {
+      "id_origen": 12085,
+      "numero": 145,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19aa6c6fb4ba9fcf39e893ff1fd5b5bd.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/145/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12086,
+      "numero": 146,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42a1aa5d08ca708ab153b9bd5429a670.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/146/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12087,
+      "numero": 147,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca07544bf48826672810e8afd6575408.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/147/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12088,
+      "numero": 148,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 148",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c71530d016b3475579da8af971f7ca6c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/148/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12089,
+      "numero": 149,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 149",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75e0d8c653ea7377eb3a4c55234c6a43.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/149/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12090,
+      "numero": 150,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 150",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b285f0192e689b14171efa16647d7170.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/150/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12091,
+      "numero": 151,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 151",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_845c31a2fbc3d2e14ecb17d48dcc65a4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/151/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12092,
+      "numero": 152,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 152",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_397d6b4c83c91021fe928a8c4220386b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/152/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12093,
+      "numero": 153,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 153",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8864b99db2b2651e51dbd14fde0e361e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/153/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12094,
+      "numero": 154,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 154",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f7ed8ecfca9e17696ff654508efd86a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/154/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12123,
+      "numero": 155,
+      "titulo": "Yu-Gi-Oh! Duel Monsters 155",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0acf03f408f90ea0dcba786d300620db.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/155/",
+      "publicado_en_origen": "2011-09-14 15:44:38"
+    },
+    {
+      "id_origen": 12095,
+      "numero": 156,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 156",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7eb41294abbe2078d74593a0a16951e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/156/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12096,
+      "numero": 157,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 157",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cea0c0b601708bb928f7633a41db56d5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/157/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12097,
+      "numero": 158,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 158",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed47814023c35e43f950a4ef2c8437f2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/158/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12098,
+      "numero": 159,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 159",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f73c2c536908327c3e7ab819ea778560.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/159/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12099,
+      "numero": 160,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 160",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84c230a5b1bc3495046ef916957c7238.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/160/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12100,
+      "numero": 161,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 161",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8829bcfb9c1d89b93f14dee9add8a0b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/161/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12101,
+      "numero": 162,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 162",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba01e0390d0c58ab871d3fd682bbf613.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/162/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12102,
+      "numero": 163,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 163",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c728615c8a166f73ec481b345cac1e84.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/163/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12103,
+      "numero": 164,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 164",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_751f879c2408105e969d31617d31fbf5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/164/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12104,
+      "numero": 165,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 165",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2976a6e4f9f094965adb965397c96dcf.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/165/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12105,
+      "numero": 166,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 166",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca279b8542ab30bd43469423ce703e66.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/166/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12106,
+      "numero": 167,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 167",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59378da7650a0c665518961273af6b05.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/167/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12107,
+      "numero": 168,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 168",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d65862e5c9c83c81bb456b82791a198c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/168/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12108,
+      "numero": 169,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 169",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_786fc80896b25422b5324cb6e57b701c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/169/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12109,
+      "numero": 170,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 170",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b8e84dcae97ad25234484e38615c570.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/170/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12110,
+      "numero": 171,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 171",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36597855fca55b54f30f55d8820a2f8b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/171/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12111,
+      "numero": 172,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 172",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94d2a3c6dd19337f2511cdf8b4bf907e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/172/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12124,
+      "numero": 173,
+      "titulo": "Yu-Gi-Oh! Duel Monsters 173",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_964d1775b722eff11b8ecd9e9ed5bd9e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/173/",
+      "publicado_en_origen": "2011-09-14 15:44:55"
+    },
+    {
+      "id_origen": 12112,
+      "numero": 174,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 174",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e022c20ad33354cbec77cc9709996dd1.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/174/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12113,
+      "numero": 175,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 175",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7d81336a1915eff69e6eb7f32cf1e77.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/175/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12114,
+      "numero": 176,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 176",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2eff4694dc9b370d5464f920c0fbb7ba.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/176/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12115,
+      "numero": 177,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 177",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1764183ef03fc7324eb58c3842bd9a57.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/177/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12116,
+      "numero": 178,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 178",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9df2afabcdd08dbe0db7a49e509403c9.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/178/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12117,
+      "numero": 179,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 179",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e29b722e35040b88678e25a1ec032a21.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/179/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12118,
+      "numero": 180,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 180",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5407aabf833278d35792a23092982caa.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/180/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12119,
+      "numero": 181,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 181",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f29450d2eb58feb555078bdefe28aa5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/181/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12120,
+      "numero": 182,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 182",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccbb0d2d7248a094aac08e8ea02fc5b0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/182/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12121,
+      "numero": 183,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 183",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de872154ffbf91a5dcc0e539dd2d5106.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/183/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12122,
+      "numero": 184,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 184",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d388729fedebe69bea4a1c795f49026.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/184/",
+      "publicado_en_origen": "2011-09-14 15:44:09"
+    },
+    {
+      "id_origen": 12125,
+      "numero": 185,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 185",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46f6341ce05f71416cddc3e42a76102c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/185/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12126,
+      "numero": 186,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 186",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bdb6179647296e518bd72e62d3bf5c1.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/186/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12127,
+      "numero": 187,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 187",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e06db73b5702b904f41ccd406ac8f4ba.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/187/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12128,
+      "numero": 188,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 188",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d620ec78d3291c35fc5c59d91cf2548.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/188/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12129,
+      "numero": 189,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 189",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37160db944a57234ac9bf1ea9e99ae58.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/189/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12130,
+      "numero": 190,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 190",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a2bd3e7515b99c88006a6956bc284e9.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/190/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12131,
+      "numero": 191,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 191",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a6322d4cd522986abfc17e6f73ef4ab.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/191/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12132,
+      "numero": 192,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 192",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a523f7353bfa6bd1dca95624748e712.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/192/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12133,
+      "numero": 193,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 193",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37e01843867c460c5db02b0e58a6f236.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/193/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12134,
+      "numero": 194,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 194",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14f9518c8b937874621f29425161acec.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/194/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12135,
+      "numero": 195,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 195",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7a91347fb30ee340b07e4baf04be7e8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/195/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12136,
+      "numero": 196,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 196",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f59bced6cb38237762e1d2b8cd4e086.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/196/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12137,
+      "numero": 197,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 197",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63566593593fddb72f294a2d7e84ae13.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/197/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12138,
+      "numero": 198,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 198",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4163634d39ec5b1d3e126f44619243b2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/198/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12139,
+      "numero": 199,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 199",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5c548e462f63499be7e59ff9f3d8e40.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/199/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12140,
+      "numero": 200,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 200",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8bff390dadc80bbeca7bc73193de2355.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/200/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12141,
+      "numero": 201,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 201",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae8bb42b9a0f7d84a7879ec8da8a4a36.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/201/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12142,
+      "numero": 202,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 202",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87ca4eb840b6f78e3b6d6b418c0fef40.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/202/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12143,
+      "numero": 203,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 203",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c1e35c59823910dbfca717fc02096e7.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/203/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12144,
+      "numero": 204,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 204",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f3dafd630cc5868d035f85198214167.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/204/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12145,
+      "numero": 205,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 205",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6be79387cf426fe3b783ad30bf234677.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/205/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12146,
+      "numero": 206,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 206",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d74bf8864f7a59c6f96db6eb5a59289.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/206/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12147,
+      "numero": 207,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 207",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e98b5bd0bbf74acaf5035694a954a5e4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/207/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12148,
+      "numero": 208,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 208",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd9b0b4fe7c7d2f2c932c8d279ddb529.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/208/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12149,
+      "numero": 209,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 209",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_885fd739d31951206a8c4f0d6472fcf0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/209/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12150,
+      "numero": 210,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 210",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a66cd1b3045b820efd42dbf18eb28e1.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/210/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12151,
+      "numero": 211,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 211",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43413ceafd2ea8d4a5e17d21c4840d9e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/211/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12152,
+      "numero": 212,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 212",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6e31529675d0ef99d777d729c423382.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/212/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12153,
+      "numero": 213,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 213",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb5d9e209ebda9ab6556a31639190622.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/213/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12154,
+      "numero": 214,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 214",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48c0b3cf0c62e40eeff5a9b07a63d953.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/214/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12155,
+      "numero": 215,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 215",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d969817eda63ba5eb9f49ea11f0b5ae.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/215/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12156,
+      "numero": 216,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 216",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4756c77f32f14b12aa71e976505e02b5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/216/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12157,
+      "numero": 217,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 217",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5a4fecffcf98386694f96c74b302131.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/217/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12158,
+      "numero": 218,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 218",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f23775b54b9e62e2d15498c3b9418630.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/218/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12159,
+      "numero": 219,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 219",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e58478453181d060df81288ac2012452.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/219/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12160,
+      "numero": 220,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 220",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa0f9de3c3f38177051c3c8741dac037.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/220/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12161,
+      "numero": 221,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 221",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14b75c2d38d88b747c19de8ea5509d16.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/221/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12162,
+      "numero": 222,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 222",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c58ec9af29371058432c2c0ddf1f3c9a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/222/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12163,
+      "numero": 223,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 223",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b5e669dd84003f7a70da7724e5cba93.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/223/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    },
+    {
+      "id_origen": 12164,
+      "numero": 224,
+      "titulo": "Yu-Gi-Oh! Duel Monsters - 224",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d76fd0a4809a5be8a22e43e33bdc649e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-duel-monsters/224/",
+      "publicado_en_origen": "2011-09-14 15:46:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "75",
+  "cantidad_episodios_declarada": 224,
+  "detalle_extraido_en": "2026-08-26T18:53:30+00:00"
+}

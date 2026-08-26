@@ -1,0 +1,109 @@
+{
+  "id_origen": 1607,
+  "slug": "million-doll",
+  "titulo": "Million Doll",
+  "titulo_corto": "Million Doll",
+  "sinopsis": "La historia original está protagonizada por Suko, una hikikomori fan de las idols con una habilidad muy particular: Hacer popular a cualquier idol a base del poder de los blogs. Un día le llama la atención Itorio, una idol de Fukuoka, e intenta hacer que venda más, pero se lo impiden la carismática idol Ryusan y la idol underground Mariko.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/million-doll.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/million-doll/",
+  "episodios": [
+    {
+      "id_origen": 28645,
+      "numero": 1,
+      "titulo": "Million Doll - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15bffa22eafc325bb53266ecefb25d5c.jpg",
+      "url_origen": "https://jkanime.net/million-doll/1/",
+      "publicado_en_origen": "2015-07-06 15:08:51"
+    },
+    {
+      "id_origen": 28704,
+      "numero": 2,
+      "titulo": "Million Doll - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89bdedf8c38bda669ba5aba697d7703b.jpg",
+      "url_origen": "https://jkanime.net/million-doll/2/",
+      "publicado_en_origen": "2015-07-13 12:48:36"
+    },
+    {
+      "id_origen": 28776,
+      "numero": 3,
+      "titulo": "Million Doll - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75055e7261261adfc923e0e5434455bd.jpg",
+      "url_origen": "https://jkanime.net/million-doll/3/",
+      "publicado_en_origen": "2015-07-20 13:18:58"
+    },
+    {
+      "id_origen": 28842,
+      "numero": 4,
+      "titulo": "Million Doll - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abd146bcead71b89b0d035473288f07a.jpg",
+      "url_origen": "https://jkanime.net/million-doll/4/",
+      "publicado_en_origen": "2015-07-27 12:48:56"
+    },
+    {
+      "id_origen": 28908,
+      "numero": 5,
+      "titulo": "Million Doll - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3603599ee31fce12be0faf0958263356.jpg",
+      "url_origen": "https://jkanime.net/million-doll/5/",
+      "publicado_en_origen": "2015-08-03 13:17:43"
+    },
+    {
+      "id_origen": 29031,
+      "numero": 6,
+      "titulo": "Million Doll - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3aa5bcc51a5e92cb51f514cc51391d4e.jpg",
+      "url_origen": "https://jkanime.net/million-doll/6/",
+      "publicado_en_origen": "2015-08-17 12:49:00"
+    },
+    {
+      "id_origen": 29098,
+      "numero": 7,
+      "titulo": "Million Doll - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85ad02a7b97b3ebeaacc7cb3bf321405.jpg",
+      "url_origen": "https://jkanime.net/million-doll/7/",
+      "publicado_en_origen": "2015-08-24 12:53:50"
+    },
+    {
+      "id_origen": 29171,
+      "numero": 8,
+      "titulo": "Million Doll - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a21c55a1bc5e866aac9b2bf95ed42d9.jpg",
+      "url_origen": "https://jkanime.net/million-doll/8/",
+      "publicado_en_origen": "2015-08-31 12:51:27"
+    },
+    {
+      "id_origen": 29289,
+      "numero": 9,
+      "titulo": "Million Doll - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43e479a1f5b0070f4beb3e3335efcb27.jpg",
+      "url_origen": "https://jkanime.net/million-doll/9/",
+      "publicado_en_origen": "2015-09-07 12:51:20"
+    },
+    {
+      "id_origen": 29375,
+      "numero": 10,
+      "titulo": "Million Doll - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9625fdcfdf80c49a86c36dcc39ff7e92.jpg",
+      "url_origen": "https://jkanime.net/million-doll/10/",
+      "publicado_en_origen": "2015-09-14 12:48:42"
+    },
+    {
+      "id_origen": 29625,
+      "numero": 11,
+      "titulo": "Million Doll - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b03d078b859d32d6b12b3e491acaf978.jpg",
+      "url_origen": "https://jkanime.net/million-doll/11/",
+      "publicado_en_origen": "2015-09-21 12:48:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1607",
+  "cantidad_episodios_declarada": 11,
+  "detalle_extraido_en": "2026-08-26T18:38:36+00:00"
+}

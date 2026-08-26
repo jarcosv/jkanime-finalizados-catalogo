@@ -1,0 +1,61 @@
+{
+  "id_origen": 1633,
+  "slug": "grisaia-no-rakuen-specials",
+  "titulo": "Grisaia no Rakuen Specials",
+  "titulo_corto": "Grisaia no Rakuen Specials",
+  "sinopsis": "Especiales incluidos en los Blu-ray/DVD de Grisaia no Rakuen.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/grisaia-no-rakuen-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/grisaia-no-rakuen-specials/",
+  "episodios": [
+    {
+      "id_origen": 29111,
+      "numero": 1,
+      "titulo": "Grisaia no Rakuen Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad041f9b96370d724c8a8400350276ed.jpg",
+      "url_origen": "https://jkanime.net/grisaia-no-rakuen-specials/1/",
+      "publicado_en_origen": "2015-08-25 15:08:32"
+    },
+    {
+      "id_origen": 29580,
+      "numero": 2,
+      "titulo": "Grisaia no Rakuen Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_060381704cad174497ca51d13c40b98a.jpg",
+      "url_origen": "https://jkanime.net/grisaia-no-rakuen-specials/2/",
+      "publicado_en_origen": "2015-09-17 14:32:16"
+    },
+    {
+      "id_origen": 29925,
+      "numero": 3,
+      "titulo": "Grisaia no Rakuen Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc89fc920377c87391a39567f6166676.jpg",
+      "url_origen": "https://jkanime.net/grisaia-no-rakuen-specials/3/",
+      "publicado_en_origen": "2015-10-26 13:05:10"
+    },
+    {
+      "id_origen": 30182,
+      "numero": 4,
+      "titulo": "Grisaia no Rakuen Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c42af68f28d516c05caf4ef35a6c4b0c.jpg",
+      "url_origen": "https://jkanime.net/grisaia-no-rakuen-specials/4/",
+      "publicado_en_origen": "2015-11-26 11:01:15"
+    },
+    {
+      "id_origen": 30451,
+      "numero": 5,
+      "titulo": "Grisaia no Rakuen Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3af7e700968700884b9da655b280a267.jpg",
+      "url_origen": "https://jkanime.net/grisaia-no-rakuen-specials/5/",
+      "publicado_en_origen": "2015-12-26 15:41:45"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1633",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:29:08+00:00"
+}

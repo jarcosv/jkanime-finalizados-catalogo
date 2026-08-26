@@ -1,0 +1,29 @@
+{
+  "id_origen": 382,
+  "slug": "brave-story",
+  "titulo": "Brave Story",
+  "titulo_corto": "Brave Story",
+  "sinopsis": "Brave Story narra la historia de Wataru, un niño de once años que se introduce en un mundo fantástico llamado Vision, donde inicia la búsqueda de la Diosa del destino para que le conceda cualquier deseo, pero para ello deberá evocar toda su valentía para luchar contra demonios, sus propios amigos e incluso contra sí mismo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/brave-story.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/brave-story/",
+  "episodios": [
+    {
+      "id_origen": 14117,
+      "numero": 1,
+      "titulo": "Brave Story",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04b0fdd6e57a35a2aaa0374e159a7f9f.jpg",
+      "url_origen": "https://jkanime.net/brave-story/1/",
+      "publicado_en_origen": "2011-12-30 20:04:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "382",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:21:39+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id_origen": 2436,
+  "slug": "wotaku-ni-koi-wa-muzukashii-youth",
+  "titulo": "Wotaku ni Koi wa Muzukashii: Youth",
+  "titulo_corto": "Wotaku ni Koi wa Muzukashii: Y...",
+  "sinopsis": "Incluido con el septimo volumen del manga Wotaku ni Koi wa Muzukashii.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/wotaku-ni-koi-wa-muzukashii-youth.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/wotaku-ni-koi-wa-muzukashii-youth/",
+  "episodios": [
+    {
+      "id_origen": 39895,
+      "numero": 1,
+      "titulo": "Wotaku ni Koi wa Muzukashii: Youth - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26dd1a5da58ce465bd88b083747df5c6.jpg",
+      "url_origen": "https://jkanime.net/wotaku-ni-koi-wa-muzukashii-youth/1/",
+      "publicado_en_origen": "2019-05-17 02:44:49"
+    },
+    {
+      "id_origen": 44984,
+      "numero": 2,
+      "titulo": "Wotaku ni Koi wa Muzukashii: Youth - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_003d859bbd84a526b9e06340ce7d185f.jpg",
+      "url_origen": "https://jkanime.net/wotaku-ni-koi-wa-muzukashii-youth/2/",
+      "publicado_en_origen": "2021-03-15 22:23:35"
+    },
+    {
+      "id_origen": 47082,
+      "numero": 3,
+      "titulo": "Wotaku ni Koi wa Muzukashii: Youth - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d29a8d2929a392319e84dcc21046ca9d.jpg",
+      "url_origen": "https://jkanime.net/wotaku-ni-koi-wa-muzukashii-youth/3/",
+      "publicado_en_origen": "2021-10-31 15:58:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2436",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:52:14+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 842,
+  "slug": "one-piece-film-z",
+  "titulo": "One Piece Film Z",
+  "titulo_corto": "One Piece Film Z",
+  "sinopsis": "La película se situará ya en el New World, Luffy y la tripulación pirata de la serie tendrán que enfrentarse a “Z”, el mayor enemigo al que se haya tenido que enfrentar jamás. El núcleo de la película será la “heroica batalla” entre Luffy y Z.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece-film-z.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-piece-film-z/",
+  "episodios": [
+    {
+      "id_origen": 20120,
+      "numero": 1,
+      "titulo": "One Piece Film Z",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b86521fb429633d44697456d41ac4e5.jpg",
+      "url_origen": "https://jkanime.net/one-piece-film-z/1/",
+      "publicado_en_origen": "2013-04-14 16:59:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "842",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:05+00:00"
+}

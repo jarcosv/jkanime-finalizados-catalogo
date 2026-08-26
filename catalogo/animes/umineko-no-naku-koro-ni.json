@@ -1,0 +1,229 @@
+{
+  "id_origen": 154,
+  "slug": "umineko-no-naku-koro-ni",
+  "titulo": "Umineko no Naku Koro ni",
+  "titulo_corto": "Umineko no Naku Koro ni",
+  "sinopsis": "Umineko no naku koro ni (うみねこのなく頃に, lit. Cuando las Gaviotas Lloran) es el tercer titulo de la saga \"When they Cry\", precedida por \"Higurashi no naku koro ni\" y \"Higurashi no naku koro ni Kai\". Esta Historia transcurre en el año 1986, durante el plazo de tiempo del 4 de octubre y el 5 de octubre en una isla aislada llamada Rokkenjima (六軒島). El jefe de una familia acaudalada, Kinzo Ushiromiya, está cerca de la muerte y sus familiares llegan a la isla para hablar de como la herencia será dividida una vez que él muera. Poco después de su arribo, un tifón los deja incomunicados con el exterior, y una serie de misteriosas muertes comienzan a ocurrir... ¿Son actos humanos o de alguna fuerza sobrenatural?  Producida por: Studio Deen Director: Chiaki Kon.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/umineko-no-naku-koro-ni.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/",
+  "episodios": [
+    {
+      "id_origen": 3856,
+      "numero": 1,
+      "titulo": "Umineko no Naku Koro ni 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c2e5eaae9152079b9e95845750bb9ab.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/1/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3857,
+      "numero": 2,
+      "titulo": "Umineko no Naku Koro ni 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f269cb7796c3319c9aa4d146b52139e6.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/2/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3858,
+      "numero": 3,
+      "titulo": "Umineko no Naku Koro ni 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50dd7100bcbd98c41b1179143a2325a4.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/3/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3859,
+      "numero": 4,
+      "titulo": "Umineko no Naku Koro ni 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7171e95248ff768e1ebee3edde01ea7a.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/4/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3860,
+      "numero": 5,
+      "titulo": "Umineko no Naku Koro ni 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a5eab21ca2a8fef4af5e35709ecca15.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/5/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3861,
+      "numero": 6,
+      "titulo": "Umineko no Naku Koro ni 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6197a578fe7778e8d49a95ac425bcfc.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/6/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3862,
+      "numero": 7,
+      "titulo": "Umineko no Naku Koro ni 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_533fa796b43291fc61a9e812a50c3fb6.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/7/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3863,
+      "numero": 8,
+      "titulo": "Umineko no Naku Koro ni 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4d2ce3f3ebb5393a77c33c0cd95dc93.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/8/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3864,
+      "numero": 9,
+      "titulo": "Umineko no Naku Koro ni 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f8bc5ac1dc2b49434efe9e72f183de8.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/9/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3865,
+      "numero": 10,
+      "titulo": "Umineko no Naku Koro ni 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_866d90e0921ac7b024b47d672445a086.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/10/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3866,
+      "numero": 11,
+      "titulo": "Umineko no Naku Koro ni 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9df2255ad642b923d95503b9a7958d8.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/11/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3867,
+      "numero": 12,
+      "titulo": "Umineko no Naku Koro ni 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e54d6b523b279543ac12a0f7333cd3c.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/12/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3868,
+      "numero": 13,
+      "titulo": "Umineko no Naku Koro ni 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70162fe655ec381ac6312ebf026aac54.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/13/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3869,
+      "numero": 14,
+      "titulo": "Umineko no Naku Koro ni 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c620a8c232f32aa9e7dcbc90102b253.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/14/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3870,
+      "numero": 15,
+      "titulo": "Umineko no Naku Koro ni 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c255c05246a081654a0267cbb725f5a7.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/15/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3871,
+      "numero": 16,
+      "titulo": "Umineko no Naku Koro ni 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_551cb238f4895024b98d1943b708de7c.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/16/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3872,
+      "numero": 17,
+      "titulo": "Umineko no Naku Koro ni 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d35b05a832e2bb91f110d54e34e2da79.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/17/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3873,
+      "numero": 18,
+      "titulo": "Umineko no Naku Koro ni 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db346ccb62d491029b590bbbf0f5c412.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/18/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3874,
+      "numero": 19,
+      "titulo": "Umineko no Naku Koro ni 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ed80f6311c1825feb854d78fa969d34.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/19/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3875,
+      "numero": 20,
+      "titulo": "Umineko no Naku Koro ni 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccc81a97c1535f9a631b9db584a264e4.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/20/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3876,
+      "numero": 21,
+      "titulo": "Umineko no Naku Koro ni 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_834a3bd235bca0caa53141f2ebc30438.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/21/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3877,
+      "numero": 22,
+      "titulo": "Umineko no Naku Koro ni 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d9a6e908ed2b731fb96151d9bb94d49.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/22/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3878,
+      "numero": 23,
+      "titulo": "Umineko no Naku Koro ni 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9854d7afce413aa13cd0a1d39d0bcec5.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/23/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3879,
+      "numero": 24,
+      "titulo": "Umineko no Naku Koro ni 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc58f7abf0b0cf2d5ac95ab60e4f14e9.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/24/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3880,
+      "numero": 25,
+      "titulo": "Umineko no Naku Koro ni 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0dd1bc593a91620daecf7723d2235624.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/25/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3881,
+      "numero": 26,
+      "titulo": "Umineko no Naku Koro ni 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1c5aff9679455a233086e26b72b9a06.jpg",
+      "url_origen": "https://jkanime.net/umineko-no-naku-koro-ni/26/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "154",
+  "cantidad_episodios_declarada": 26,
+  "detalle_extraido_en": "2026-08-26T18:51:07+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 1243,
+  "slug": "ao-haru-ride-unwritten",
+  "titulo": "Ao Haru Ride OVA",
+  "titulo_corto": "Ao Haru Ride OVA",
+  "sinopsis": "OVA 1 incluida en el 11 volumen del manga Ao Haru Ride. Episodio acerca de Futaba y Kou en la escuela media. Basado en el capitulo llamado Unwritten. tambien conocido como el capitulo 0 o Prologo \n\nOva 2 incluida en el 12 volumen del manga valida como episodio 13 PAGE.13 de Ao Haru Ride",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ao-haru-ride-unwritten.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ao-haru-ride-unwritten/",
+  "episodios": [
+    {
+      "id_origen": 24570,
+      "numero": 1,
+      "titulo": "Ao Haru Ride: Unwritten",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49abc8446790de821277fd78a4e41bb9.jpg",
+      "url_origen": "https://jkanime.net/ao-haru-ride-unwritten/1/",
+      "publicado_en_origen": "2014-08-28 14:21:11"
+    },
+    {
+      "id_origen": 25903,
+      "numero": 2,
+      "titulo": "Ao Haru Ride OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06fcc10b4a95f17133ee992810735a01.jpg",
+      "url_origen": "https://jkanime.net/ao-haru-ride-unwritten/2/",
+      "publicado_en_origen": "2014-12-20 16:02:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1243",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:16:56+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "id_origen": 1776,
+  "slug": "digimon-adventure-tri-2-ketsui",
+  "titulo": "Digimon Adventure tri. 2: Ketsui",
+  "titulo_corto": "Digimon Adventure tri. 2: Kets...",
+  "sinopsis": "Tras lo ocurrido en Digimon Adventure tri: Reunión, los Niños Elegidos disfrutan de un viaje a unas aguas termales cercanas con sus nuevas incorporaciones: Meiko Mochizuki y Meicoomon. Mientras tanto, Joe está cada vez más distante debido a su lucha por mantener el nivel en el competitivo mundo de los estudios y cumplir su deber como Niño Elegido. Cuando los daños causados por Alphamon se están reparando poco a poco, otro Digimon infectado, Ogremon, aparece repentinamente, y aunque los protagonistas solo tienen buenas intenciones, sus decisiones tendrán consecuencias imprevisibles.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-adventure-tri-2-ketsui.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/digimon-adventure-tri-2-ketsui/",
+  "episodios": [
+    {
+      "id_origen": 31074,
+      "numero": 1,
+      "titulo": "Digimon Adventure tri. 2: Ketsui - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_004acbc8eefec9fe0629b15f52b94bcf.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-2-ketsui/1/",
+      "publicado_en_origen": "2016-03-11 15:34:13"
+    },
+    {
+      "id_origen": 31075,
+      "numero": 2,
+      "titulo": "Digimon Adventure tri. 2: Ketsui - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e80a5fcb147d23edaed26cc0c74f47ab.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-2-ketsui/2/",
+      "publicado_en_origen": "2016-03-11 15:43:43"
+    },
+    {
+      "id_origen": 31076,
+      "numero": 3,
+      "titulo": "Digimon Adventure tri. 2: Ketsui - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d4c864bca956a5d20efbe942d6cf993.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-2-ketsui/3/",
+      "publicado_en_origen": "2016-03-11 15:58:02"
+    },
+    {
+      "id_origen": 31077,
+      "numero": 4,
+      "titulo": "Digimon Adventure tri. 2: Ketsui - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5cfb8cbfcd2fdd60665099993430d6b.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-2-ketsui/4/",
+      "publicado_en_origen": "2016-03-11 16:11:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:36+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1776",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:04+00:00"
+}

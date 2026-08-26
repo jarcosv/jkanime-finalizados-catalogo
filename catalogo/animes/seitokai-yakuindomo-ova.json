@@ -1,0 +1,85 @@
+{
+  "id_origen": 473,
+  "slug": "seitokai-yakuindomo-ova",
+  "titulo": "Seitokai Yakuindomo OVA",
+  "titulo_corto": "Seitokai Yakuindomo OVA",
+  "sinopsis": "OVAs de Seitokai Yakuindomo que se incluye con la edición limitada de los volúmenes 5, 6, 7 y 8 del manga.\n\nEs el comienzo del segundo año Takatoshi Tsuda como el vicepresidente del consejo estudiantil donde su hermana Kotomi entra al primer año de la escuela. Nuevos amigos y muchos dobles sentidos se harán nuevamente!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/seitokai-yakuindomo-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/seitokai-yakuindomo-ova/",
+  "episodios": [
+    {
+      "id_origen": 14286,
+      "numero": 1,
+      "titulo": "Seitokai Yakuindomo OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a87c42972dfb55ff9cdb144a3ba5cc3.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-ova/1/",
+      "publicado_en_origen": "2011-04-16 02:02:43"
+    },
+    {
+      "id_origen": 14287,
+      "numero": 2,
+      "titulo": "Seitokai Yakuindomo OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2d6b7f8db832c0be60251cf412e35c5.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-ova/2/",
+      "publicado_en_origen": "2012-01-06 04:03:21"
+    },
+    {
+      "id_origen": 15619,
+      "numero": 3,
+      "titulo": "Seitokai Yakuindomo OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9563122a75eef032c2a1681289515325.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-ova/3/",
+      "publicado_en_origen": "2012-05-22 11:03:45"
+    },
+    {
+      "id_origen": 17151,
+      "numero": 4,
+      "titulo": "Seitokai Yakuindomo OVA - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c44cc3a1dafb37ba0bec93b81ee3796a.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-ova/4/",
+      "publicado_en_origen": "2012-09-12 18:32:13"
+    },
+    {
+      "id_origen": 19405,
+      "numero": 5,
+      "titulo": "Seitokai Yakuindomo OVA - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05c0ae7c6b605732401aa102a62970b3.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-ova/5/",
+      "publicado_en_origen": "2013-02-23 02:33:53"
+    },
+    {
+      "id_origen": 20478,
+      "numero": 6,
+      "titulo": "Seitokai Yakuindomo OVA - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e001afac15fd6f035c71ff45c396b7b1.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-ova/6/",
+      "publicado_en_origen": "2013-05-13 23:11:24"
+    },
+    {
+      "id_origen": 21090,
+      "numero": 7,
+      "titulo": "Seitokai Yakuindomo OVA - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30b6b8f7a8e3dba528fe76dec93d773a.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-ova/7/",
+      "publicado_en_origen": "2013-07-16 10:42:37"
+    },
+    {
+      "id_origen": 21898,
+      "numero": 8,
+      "titulo": "Seitokai Yakuindomo OVA - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_981322808aba8a036b138c0b669d826c.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-ova/8/",
+      "publicado_en_origen": "2013-11-05 02:15:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "473",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:45:24+00:00"
+}

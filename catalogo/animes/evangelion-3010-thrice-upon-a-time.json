@@ -1,0 +1,29 @@
+{
+  "id_origen": 2920,
+  "slug": "evangelion-3010-thrice-upon-a-time",
+  "titulo": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+  "titulo_corto": "Evangelion: 3.0+1.0 Thrice Upo...",
+  "sinopsis": "Shinji Ikari todavía está a la deriva después de perder las ganas de vivir, pero el lugar al que llega le enseña lo que significa tener esperanza. Finalmente, el Proyecto de Instrumentalidad se pone en marcha y Wille hace una última y agotadora resistencia para evitar el Impacto Final.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/evangelion-3010-thrice-upon-a-time.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/evangelion-3010-thrice-upon-a-time/",
+  "episodios": [
+    {
+      "id_origen": 46269,
+      "numero": 1,
+      "titulo": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43e84a9d17d1d8816411305bd1bc2b1b.jpg",
+      "url_origen": "https://jkanime.net/evangelion-3010-thrice-upon-a-time/1/",
+      "publicado_en_origen": "2021-08-13 12:07:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2920",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:28+00:00"
+}

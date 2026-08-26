@@ -1,0 +1,101 @@
+{
+  "id_origen": 1135,
+  "slug": "date-a-live-ii",
+  "titulo": "Date A Live II",
+  "titulo_corto": "Date A Live II",
+  "sinopsis": "Segunda Temporada de Date A Live.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/date-a-live-ii.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/date-a-live-ii/",
+  "episodios": [
+    {
+      "id_origen": 23186,
+      "numero": 1,
+      "titulo": "Date A Live II - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99932f26d3cd5ee34eea395bef353677.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-ii/1/",
+      "publicado_en_origen": "2014-04-11 18:14:24"
+    },
+    {
+      "id_origen": 23247,
+      "numero": 2,
+      "titulo": "Date A Live II - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2fbd6324c519b0e1271d104bd6885bff.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-ii/2/",
+      "publicado_en_origen": "2014-04-18 16:27:36"
+    },
+    {
+      "id_origen": 23322,
+      "numero": 3,
+      "titulo": "Date A Live II - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e940a3ba6df738388b772344a8a112e4.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-ii/3/",
+      "publicado_en_origen": "2014-04-25 16:46:11"
+    },
+    {
+      "id_origen": 23381,
+      "numero": 4,
+      "titulo": "Date A Live II - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb72d013ce941d098d78e1ed837a7b92.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-ii/4/",
+      "publicado_en_origen": "2014-05-02 16:23:58"
+    },
+    {
+      "id_origen": 23438,
+      "numero": 5,
+      "titulo": "Date A Live II - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15d81ef95dd64458c70c72fce3f193f3.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-ii/5/",
+      "publicado_en_origen": "2014-05-09 15:58:35"
+    },
+    {
+      "id_origen": 23494,
+      "numero": 6,
+      "titulo": "Date A Live II - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0f65e2f1ebf696b7e868b2a06ee51cf.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-ii/6/",
+      "publicado_en_origen": "2014-05-16 16:02:57"
+    },
+    {
+      "id_origen": 23552,
+      "numero": 7,
+      "titulo": "Date A Live II - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9338acdf75d9aba376431a59973effaa.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-ii/7/",
+      "publicado_en_origen": "2014-05-23 16:08:41"
+    },
+    {
+      "id_origen": 23614,
+      "numero": 8,
+      "titulo": "Date A Live II - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1acd383fa742f09b2222f5f08b1e57f0.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-ii/8/",
+      "publicado_en_origen": "2014-05-30 16:38:09"
+    },
+    {
+      "id_origen": 23674,
+      "numero": 9,
+      "titulo": "Date A Live II - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57ed2a56d827a1db93294f32c443b57c.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-ii/9/",
+      "publicado_en_origen": "2014-06-06 16:00:57"
+    },
+    {
+      "id_origen": 23731,
+      "numero": 10,
+      "titulo": "Date A Live II - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7aa0c0a3e9f181bc2dd0e35ecae62dd9.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-ii/10/",
+      "publicado_en_origen": "2014-06-13 15:48:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1135",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:24:34+00:00"
+}

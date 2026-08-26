@@ -1,0 +1,29 @@
+{
+  "id_origen": 586,
+  "slug": "love-hina-spring-special",
+  "titulo": "Love Hina Spring Special",
+  "titulo_corto": "Love Hina Spring Special",
+  "sinopsis": "Las pruebas han llegado, y Keitaro sólo espera tener éxito. Sin embargo, en el tramo final, fracasa miserablemente y sueños a través de la prueba. Suponiendo que se ha fallado, se escapa, por lo que el resto del elenco le persigue en una isla desierta para traerlo de vuelta.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/love-hina-spring-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/love-hina-spring-special/",
+  "episodios": [
+    {
+      "id_origen": 15976,
+      "numero": 1,
+      "titulo": "Love Hina Spring Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e5164986e9d24fee7a16513e29c4088.jpg",
+      "url_origen": "https://jkanime.net/love-hina-spring-special/1/",
+      "publicado_en_origen": "2012-06-20 03:22:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "586",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:36:41+00:00"
+}

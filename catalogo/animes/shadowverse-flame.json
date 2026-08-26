@@ -1,0 +1,421 @@
+{
+  "id_origen": 3080,
+  "slug": "shadowverse-flame",
+  "titulo": "Shadowverse Flame",
+  "titulo_corto": "Shadowverse Flame",
+  "sinopsis": "Hiiro Ryugasaki es un estudiante de la Academia Tensei que un día se encuentra un misterioso smartphone que ya tiene instalado el popular juego de cartas Shadowverse, ¡ese al que juegan todos sus compañeros y él estaba deseando poder probar! Hiiro conocerá a rivales, forjará vínculos, participará en torneos, y vivirá todo tipo de experiencias gracias a Shadowverse para \"evolucionar\".",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shadowverse-flame.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shadowverse-flame/",
+  "episodios": [
+    {
+      "id_origen": 48833,
+      "numero": 1,
+      "titulo": "Shadowverse Flame - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0916f1db3e9e09d43a82ea0a0d88eb8c.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/1/",
+      "publicado_en_origen": "2022-04-05 09:29:34"
+    },
+    {
+      "id_origen": 48868,
+      "numero": 2,
+      "titulo": "Shadowverse Flame - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49e1ed7b49f9a99380daed2233ae4f63.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/2/",
+      "publicado_en_origen": "2022-04-09 00:54:45"
+    },
+    {
+      "id_origen": 49017,
+      "numero": 3,
+      "titulo": "Shadowverse Flame - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a5db3d6ce6a75fb53c80498ad253377.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/3/",
+      "publicado_en_origen": "2022-04-23 02:19:17"
+    },
+    {
+      "id_origen": 49018,
+      "numero": 4,
+      "titulo": "Shadowverse Flame - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a10f542e6f79265c34a405dbc928e37.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/4/",
+      "publicado_en_origen": "2022-04-23 02:19:20"
+    },
+    {
+      "id_origen": 49676,
+      "numero": 5,
+      "titulo": "Shadowverse Flame - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4763b9bfa82920fb73fae8eb2a3aaa83.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/5/",
+      "publicado_en_origen": "2022-06-18 11:01:17"
+    },
+    {
+      "id_origen": 49677,
+      "numero": 6,
+      "titulo": "Shadowverse Flame - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9862297a25e02691222854365a478f4.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/6/",
+      "publicado_en_origen": "2022-06-18 11:01:19"
+    },
+    {
+      "id_origen": 49678,
+      "numero": 7,
+      "titulo": "Shadowverse Flame - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dcf26f46e051cdc4ea8abef8d2f4b07.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/7/",
+      "publicado_en_origen": "2022-06-18 11:01:22"
+    },
+    {
+      "id_origen": 49679,
+      "numero": 8,
+      "titulo": "Shadowverse Flame - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7a0532472fe0ddfa03c2a0340d62625.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/8/",
+      "publicado_en_origen": "2022-06-18 11:01:26"
+    },
+    {
+      "id_origen": 49680,
+      "numero": 9,
+      "titulo": "Shadowverse Flame - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7daf4aadedc09d48eb9902ad787c90f.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/9/",
+      "publicado_en_origen": "2022-06-18 11:01:28"
+    },
+    {
+      "id_origen": 49681,
+      "numero": 10,
+      "titulo": "Shadowverse Flame - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff47908aafddd72d4e655016520d277e.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/10/",
+      "publicado_en_origen": "2022-06-18 11:01:31"
+    },
+    {
+      "id_origen": 49682,
+      "numero": 11,
+      "titulo": "Shadowverse Flame - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1ddc99e9dc5764d06fd365cbf09afd4.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/11/",
+      "publicado_en_origen": "2022-06-18 11:01:34"
+    },
+    {
+      "id_origen": 49683,
+      "numero": 12,
+      "titulo": "Shadowverse Flame - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22c44a63f274abc2e8830f318036673a.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/12/",
+      "publicado_en_origen": "2022-06-18 11:01:38"
+    },
+    {
+      "id_origen": 49724,
+      "numero": 13,
+      "titulo": "Shadowverse Flame - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56c39666a7bf2e5028d5419fc903e52d.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/13/",
+      "publicado_en_origen": "2022-06-25 02:28:49"
+    },
+    {
+      "id_origen": 49767,
+      "numero": 14,
+      "titulo": "Shadowverse Flame - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ca8af014f442c49c77bfe9cd39a2912.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/14/",
+      "publicado_en_origen": "2022-07-02 01:34:34"
+    },
+    {
+      "id_origen": 49820,
+      "numero": 15,
+      "titulo": "Shadowverse Flame - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fad461322a57008faf513d7949a777d1.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/15/",
+      "publicado_en_origen": "2022-07-09 00:39:43"
+    },
+    {
+      "id_origen": 49876,
+      "numero": 16,
+      "titulo": "Shadowverse Flame - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5ae06d9595284c4bfc1b8a304145723.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/16/",
+      "publicado_en_origen": "2022-07-15 23:09:23"
+    },
+    {
+      "id_origen": 49931,
+      "numero": 17,
+      "titulo": "Shadowverse Flame - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_837cc517f1e782842b7dd57621b1794e.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/17/",
+      "publicado_en_origen": "2022-07-23 02:55:25"
+    },
+    {
+      "id_origen": 49988,
+      "numero": 18,
+      "titulo": "Shadowverse Flame - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a8262b977bfc76e6d7e20030bae68b2.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/18/",
+      "publicado_en_origen": "2022-07-30 11:36:28"
+    },
+    {
+      "id_origen": 50115,
+      "numero": 19,
+      "titulo": "Shadowverse Flame - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f187d211472b87c03bf3b0a794e0d23e.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/19/",
+      "publicado_en_origen": "2022-08-12 22:55:53"
+    },
+    {
+      "id_origen": 50116,
+      "numero": 20,
+      "titulo": "Shadowverse Flame - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea48ffefaaa082413afb8ccadd3363ad.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/20/",
+      "publicado_en_origen": "2022-08-12 22:55:58"
+    },
+    {
+      "id_origen": 50231,
+      "numero": 21,
+      "titulo": "Shadowverse Flame - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7feb76dde36796d8c0554bb1f1ad16c.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/21/",
+      "publicado_en_origen": "2022-08-20 01:23:45"
+    },
+    {
+      "id_origen": 50346,
+      "numero": 22,
+      "titulo": "Shadowverse Flame - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_724a29d2d1ad0d3e6cb8fcd364e085ca.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/22/",
+      "publicado_en_origen": "2022-08-27 01:12:45"
+    },
+    {
+      "id_origen": 50431,
+      "numero": 23,
+      "titulo": "Shadowverse Flame - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_caa298a5b6ab06f6df751474cdde9f4f.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/23/",
+      "publicado_en_origen": "2022-09-03 21:38:48"
+    },
+    {
+      "id_origen": 50508,
+      "numero": 24,
+      "titulo": "Shadowverse Flame - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4abf5c3c5a9d3013391beeb54603719d.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/24/",
+      "publicado_en_origen": "2022-09-10 01:49:39"
+    },
+    {
+      "id_origen": 50567,
+      "numero": 25,
+      "titulo": "Shadowverse Flame - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64f9a0683a102d906f52adfeeb58bff7.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/25/",
+      "publicado_en_origen": "2022-09-16 23:55:57"
+    },
+    {
+      "id_origen": 50630,
+      "numero": 26,
+      "titulo": "Shadowverse Flame - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b49de4a146f33e6549db871f1b617f00.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/26/",
+      "publicado_en_origen": "2022-09-24 10:50:17"
+    },
+    {
+      "id_origen": 50724,
+      "numero": 27,
+      "titulo": "Shadowverse Flame - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b781ca612d7f7fac93089632ae76ed8.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/27/",
+      "publicado_en_origen": "2022-10-08 02:24:20"
+    },
+    {
+      "id_origen": 50783,
+      "numero": 28,
+      "titulo": "Shadowverse Flame - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f304c2b24a4ace0fc526cde50fc593cf.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/28/",
+      "publicado_en_origen": "2022-10-14 23:02:22"
+    },
+    {
+      "id_origen": 50843,
+      "numero": 29,
+      "titulo": "Shadowverse Flame - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee689adad375ac656efa3a6784979b90.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/29/",
+      "publicado_en_origen": "2022-10-21 23:17:45"
+    },
+    {
+      "id_origen": 50915,
+      "numero": 30,
+      "titulo": "Shadowverse Flame - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bfdadf5cd35ce9fa8dc26fc0f09974c.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/30/",
+      "publicado_en_origen": "2022-10-29 01:07:48"
+    },
+    {
+      "id_origen": 50983,
+      "numero": 31,
+      "titulo": "Shadowverse Flame - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef6f9d0c179f578bb651112f8cfe84fe.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/31/",
+      "publicado_en_origen": "2022-11-04 23:11:23"
+    },
+    {
+      "id_origen": 51036,
+      "numero": 32,
+      "titulo": "Shadowverse Flame - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfe5d8073c7a21cf46a75cb13c6f6acc.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/32/",
+      "publicado_en_origen": "2022-11-12 09:29:23"
+    },
+    {
+      "id_origen": 51095,
+      "numero": 33,
+      "titulo": "Shadowverse Flame - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da3b1324bee3d21beb52c37f3e60f891.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/33/",
+      "publicado_en_origen": "2022-11-19 00:17:44"
+    },
+    {
+      "id_origen": 51147,
+      "numero": 34,
+      "titulo": "Shadowverse Flame - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98cb92f8db02e5fd38226c8c5b9f9a2a.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/34/",
+      "publicado_en_origen": "2022-11-26 08:53:27"
+    },
+    {
+      "id_origen": 51265,
+      "numero": 35,
+      "titulo": "Shadowverse Flame - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1b9f1de37d481f026db15f34f89aa69.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/35/",
+      "publicado_en_origen": "2022-12-03 01:18:01"
+    },
+    {
+      "id_origen": 51316,
+      "numero": 36,
+      "titulo": "Shadowverse Flame - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9a44bd657266464886f3fd3e1aac28d.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/36/",
+      "publicado_en_origen": "2022-12-10 09:44:57"
+    },
+    {
+      "id_origen": 51374,
+      "numero": 37,
+      "titulo": "Shadowverse Flame - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39d82d9354988c4edc1ab6f4a1b17041.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/37/",
+      "publicado_en_origen": "2022-12-17 00:26:13"
+    },
+    {
+      "id_origen": 51432,
+      "numero": 38,
+      "titulo": "Shadowverse Flame - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11deb3e7b239d3a7edeaf2ba1823ba48.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/38/",
+      "publicado_en_origen": "2022-12-24 10:38:37"
+    },
+    {
+      "id_origen": 51505,
+      "numero": 39,
+      "titulo": "Shadowverse Flame - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a749510e14a4d822154ac6b94afdb5f4.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/39/",
+      "publicado_en_origen": "2023-01-07 09:49:00"
+    },
+    {
+      "id_origen": 51572,
+      "numero": 40,
+      "titulo": "Shadowverse Flame - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1848b8b2dede8186686fcfa26d4484c2.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/40/",
+      "publicado_en_origen": "2023-01-14 10:04:17"
+    },
+    {
+      "id_origen": 51714,
+      "numero": 41,
+      "titulo": "Shadowverse Flame - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffcfb029961716f8be224269d1795074.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/41/",
+      "publicado_en_origen": "2023-01-28 10:33:02"
+    },
+    {
+      "id_origen": 51715,
+      "numero": 42,
+      "titulo": "Shadowverse Flame - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_628fe1ab72c1bda013712b34c304e9db.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/42/",
+      "publicado_en_origen": "2023-01-28 10:33:05"
+    },
+    {
+      "id_origen": 51785,
+      "numero": 43,
+      "titulo": "Shadowverse Flame - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89056dfaf039a616906b4cb3e7eee41b.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/43/",
+      "publicado_en_origen": "2023-02-04 12:14:28"
+    },
+    {
+      "id_origen": 51852,
+      "numero": 44,
+      "titulo": "Shadowverse Flame - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf43ed1a6e5bbba2a22e381cd35b9745.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/44/",
+      "publicado_en_origen": "2023-02-11 00:49:50"
+    },
+    {
+      "id_origen": 51921,
+      "numero": 45,
+      "titulo": "Shadowverse Flame - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5c70be0ed7735ed069e2d578e6d99fc.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/45/",
+      "publicado_en_origen": "2023-02-17 09:51:32"
+    },
+    {
+      "id_origen": 51979,
+      "numero": 46,
+      "titulo": "Shadowverse Flame - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99e6121fd1e3e9bdb8eeea944b2c29c4.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/46/",
+      "publicado_en_origen": "2023-02-25 01:12:16"
+    },
+    {
+      "id_origen": 52039,
+      "numero": 47,
+      "titulo": "Shadowverse Flame - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_799487b0e06c8717c251c57443fc8977.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/47/",
+      "publicado_en_origen": "2023-03-04 00:45:58"
+    },
+    {
+      "id_origen": 52115,
+      "numero": 48,
+      "titulo": "Shadowverse Flame - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed6d5e003e1648281b778188ab379f6e.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/48/",
+      "publicado_en_origen": "2023-03-11 10:58:05"
+    },
+    {
+      "id_origen": 52178,
+      "numero": 49,
+      "titulo": "Shadowverse Flame - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shadowverse-flame.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/49/",
+      "publicado_en_origen": "2023-03-18 07:50:18"
+    },
+    {
+      "id_origen": 52237,
+      "numero": 50,
+      "titulo": "Shadowverse Flame - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_908924d7253ff5c3628f79884be4b106.jpg",
+      "url_origen": "https://jkanime.net/shadowverse-flame/50/",
+      "publicado_en_origen": "2023-03-25 08:52:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3080",
+  "cantidad_episodios_declarada": 50,
+  "detalle_extraido_en": "2026-08-26T18:45:53+00:00"
+}

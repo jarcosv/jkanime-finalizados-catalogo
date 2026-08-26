@@ -1,0 +1,117 @@
+{
+  "id_origen": 3305,
+  "slug": "nijiyon-animation",
+  "titulo": "Nijiyon Animation",
+  "titulo_corto": "Nijiyon Animation",
+  "sinopsis": "Anime corto basado en la serie 4-koma que ilustra la vida cotidiana de los miembros del Nijigasaki High School Idol Club.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nijiyon-animation.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nijiyon-animation/",
+  "episodios": [
+    {
+      "id_origen": 51500,
+      "numero": 1,
+      "titulo": "Nijiyon Animation - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_657b190207ffbc6ee546ad91662036c7.jpg",
+      "url_origen": "https://jkanime.net/nijiyon-animation/1/",
+      "publicado_en_origen": "2023-01-06 11:12:37"
+    },
+    {
+      "id_origen": 51567,
+      "numero": 2,
+      "titulo": "Nijiyon Animation - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8505568cc6df5adad95a3fbb276ebaaf.jpg",
+      "url_origen": "https://jkanime.net/nijiyon-animation/2/",
+      "publicado_en_origen": "2023-01-13 16:51:46"
+    },
+    {
+      "id_origen": 51653,
+      "numero": 3,
+      "titulo": "Nijiyon Animation - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07bd9f3da07e171e9478ec11b3af7c39.jpg",
+      "url_origen": "https://jkanime.net/nijiyon-animation/3/",
+      "publicado_en_origen": "2023-01-21 19:22:12"
+    },
+    {
+      "id_origen": 51708,
+      "numero": 4,
+      "titulo": "Nijiyon Animation - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d90a51d9ad24fbcaf6ad4f55f3e38585.jpg",
+      "url_origen": "https://jkanime.net/nijiyon-animation/4/",
+      "publicado_en_origen": "2023-01-27 15:40:04"
+    },
+    {
+      "id_origen": 51771,
+      "numero": 5,
+      "titulo": "Nijiyon Animation - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_617fcfeff9b87af7e919c29671e9af9b.jpg",
+      "url_origen": "https://jkanime.net/nijiyon-animation/5/",
+      "publicado_en_origen": "2023-02-03 16:02:09"
+    },
+    {
+      "id_origen": 51844,
+      "numero": 6,
+      "titulo": "Nijiyon Animation - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdf382f85eb555a3ef0097670be0f58b.jpg",
+      "url_origen": "https://jkanime.net/nijiyon-animation/6/",
+      "publicado_en_origen": "2023-02-10 13:52:12"
+    },
+    {
+      "id_origen": 51911,
+      "numero": 7,
+      "titulo": "Nijiyon Animation - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a180968ef541b37cea01d2e4a74e9d63.jpg",
+      "url_origen": "https://jkanime.net/nijiyon-animation/7/",
+      "publicado_en_origen": "2023-02-17 10:32:46"
+    },
+    {
+      "id_origen": 51971,
+      "numero": 8,
+      "titulo": "Nijiyon Animation - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9bf9cfa3c5162f80b91f86760f9f3b4.jpg",
+      "url_origen": "https://jkanime.net/nijiyon-animation/8/",
+      "publicado_en_origen": "2023-02-24 10:30:25"
+    },
+    {
+      "id_origen": 52030,
+      "numero": 9,
+      "titulo": "Nijiyon Animation - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a509dbd5e552a9b1f92ef5f94fb8a25c.jpg",
+      "url_origen": "https://jkanime.net/nijiyon-animation/9/",
+      "publicado_en_origen": "2023-03-03 13:17:46"
+    },
+    {
+      "id_origen": 52108,
+      "numero": 10,
+      "titulo": "Nijiyon Animation - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d8e2c887a1767c00bdcfc30f0d67179.jpg",
+      "url_origen": "https://jkanime.net/nijiyon-animation/10/",
+      "publicado_en_origen": "2023-03-10 10:32:20"
+    },
+    {
+      "id_origen": 52171,
+      "numero": 11,
+      "titulo": "Nijiyon Animation - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bcb940261659cec48db0919e03bc8973.jpg",
+      "url_origen": "https://jkanime.net/nijiyon-animation/11/",
+      "publicado_en_origen": "2023-03-17 10:53:41"
+    },
+    {
+      "id_origen": 52229,
+      "numero": 12,
+      "titulo": "Nijiyon Animation - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dde45e9bd1792184af15f8b6e1fa8da0.jpg",
+      "url_origen": "https://jkanime.net/nijiyon-animation/12/",
+      "publicado_en_origen": "2023-03-24 09:51:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3305",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:40:25+00:00"
+}

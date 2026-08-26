@@ -1,0 +1,117 @@
+{
+  "id_origen": 2062,
+  "slug": "room-mate",
+  "titulo": "Room Mate",
+  "titulo_corto": "Room Mate",
+  "sinopsis": "Tras One Room, donde las protagonistas eran chicas, Room Mate tiene de personajes principales a tres chicos que interactúan en distintas historias con chicas a las que no podemos ver. Historias de chico conoce a chica en donde todo sucede alrededor del punto de vista del espectador.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/room-mate.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/room-mate/",
+  "episodios": [
+    {
+      "id_origen": 34530,
+      "numero": 1,
+      "titulo": "Room Mate - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fd45b2ea4e5e54b553ba47f6460585a.jpg",
+      "url_origen": "https://jkanime.net/room-mate/1/",
+      "publicado_en_origen": "2017-04-12 15:35:13"
+    },
+    {
+      "id_origen": 34588,
+      "numero": 2,
+      "titulo": "Room Mate - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13c8eb07b2dc376126e669fbc4a57f73.jpg",
+      "url_origen": "https://jkanime.net/room-mate/2/",
+      "publicado_en_origen": "2017-04-19 13:58:54"
+    },
+    {
+      "id_origen": 34643,
+      "numero": 3,
+      "titulo": "Room Mate - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa9462ba01ad26f19535be3c4c462a5e.jpg",
+      "url_origen": "https://jkanime.net/room-mate/3/",
+      "publicado_en_origen": "2017-04-26 13:54:55"
+    },
+    {
+      "id_origen": 34696,
+      "numero": 4,
+      "titulo": "Room Mate - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_681e38a876f8eb9fd9822b8f56545438.jpg",
+      "url_origen": "https://jkanime.net/room-mate/4/",
+      "publicado_en_origen": "2017-05-03 14:01:49"
+    },
+    {
+      "id_origen": 34747,
+      "numero": 5,
+      "titulo": "Room Mate - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9339be1158aa50c53147b3b53bf0f259.jpg",
+      "url_origen": "https://jkanime.net/room-mate/5/",
+      "publicado_en_origen": "2017-05-10 13:55:46"
+    },
+    {
+      "id_origen": 34797,
+      "numero": 6,
+      "titulo": "Room Mate - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59c53d894d899733cf74c51da615234c.jpg",
+      "url_origen": "https://jkanime.net/room-mate/6/",
+      "publicado_en_origen": "2017-05-17 14:01:51"
+    },
+    {
+      "id_origen": 34847,
+      "numero": 7,
+      "titulo": "Room Mate - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2c2de6e423321db2aed69be2da62c9b.jpg",
+      "url_origen": "https://jkanime.net/room-mate/7/",
+      "publicado_en_origen": "2017-05-24 13:55:20"
+    },
+    {
+      "id_origen": 34901,
+      "numero": 8,
+      "titulo": "Room Mate - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6203f1dde486c7e691c5438115e54e0e.jpg",
+      "url_origen": "https://jkanime.net/room-mate/8/",
+      "publicado_en_origen": "2017-05-31 14:14:10"
+    },
+    {
+      "id_origen": 34952,
+      "numero": 9,
+      "titulo": "Room Mate - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a203425cc5577f1757e7431522aa119d.jpg",
+      "url_origen": "https://jkanime.net/room-mate/9/",
+      "publicado_en_origen": "2017-06-07 14:09:05"
+    },
+    {
+      "id_origen": 35003,
+      "numero": 10,
+      "titulo": "Room Mate - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c94b9c32bee1951814f79c9646777742.jpg",
+      "url_origen": "https://jkanime.net/room-mate/10/",
+      "publicado_en_origen": "2017-06-14 13:55:05"
+    },
+    {
+      "id_origen": 35054,
+      "numero": 11,
+      "titulo": "Room Mate - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96ecbfadac55a39b8909822f91399f00.jpg",
+      "url_origen": "https://jkanime.net/room-mate/11/",
+      "publicado_en_origen": "2017-06-21 13:58:37"
+    },
+    {
+      "id_origen": 35097,
+      "numero": 12,
+      "titulo": "Room Mate - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b316a99012373fd2d8de3048a22fcf41.jpg",
+      "url_origen": "https://jkanime.net/room-mate/12/",
+      "publicado_en_origen": "2017-06-28 15:12:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2062",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:44:08+00:00"
+}

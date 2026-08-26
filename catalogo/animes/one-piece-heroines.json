@@ -1,0 +1,29 @@
+{
+  "id_origen": 4859,
+  "slug": "one-piece-heroines",
+  "titulo": "One Piece: Heroines",
+  "titulo_corto": "One Piece: Heroines",
+  "sinopsis": "¡Acompaña a Nami, el icono de la moda, entre bastidores mientras protagoniza un desfile que le cambiará la vida; observa a la sabia Robin mientras ayuda a descifrar una tablilla antigua junto a Koala y Sabo; descubre cómo la solemne princesa Vivi recibe una carta de amor de un admirador inesperado, y no te pierdas la batalla de la princesa fantasma Perona por la última botella de vino junto a Zoro y Mihawk!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece-heroines.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-piece-heroines/",
+  "episodios": [
+    {
+      "id_origen": 74957,
+      "numero": 1,
+      "titulo": "One Piece: Heroines",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_441ea8b820705e9851382f835542f48c.jpg",
+      "url_origen": "https://jkanime.net/one-piece-heroines/1/",
+      "publicado_en_origen": "2026-07-10 13:57:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:19+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4859",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:10+00:00"
+}

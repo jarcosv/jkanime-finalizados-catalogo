@@ -1,0 +1,213 @@
+{
+  "id_origen": 232,
+  "slug": "higurashi-no-naku-koro-ni-kai",
+  "titulo": "Higurashi no Naku Koro ni Kai",
+  "titulo_corto": "Higurashi no Naku Koro ni Kai",
+  "sinopsis": "Continuando con la primera serie, Higurashi no Naku Koro ni Kai comienza a arrojar alguna luz sobre los oscuros misterios frecuente en la temporada anterior. El grupo de jovenes amigos en la ciudad de Hinamizawa seguir para entrar en conflictos terribles con otros en el verano sin fin de 1983, que a menudo termina con el brutal asesinato de uno de sus números. Furude Rika, con la ayuda de su amigo espiritual Hanyuu, aborda los desafíos y otra vez, haciendo todo lo posible para mantener su vida de llegar a un final trágico. Sin un final a la tortura a la vista, Rika debe llamar a los lazos de amistad y confianza entre sus amigos para descubrir el verdadero villano de esta eterna junio",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/higurashi-no-naku-koro-ni-kai.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/",
+  "episodios": [
+    {
+      "id_origen": 72603,
+      "numero": 1,
+      "titulo": "Higurashi no Naku Koro ni Kai - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc5d17e512a6f8050d5d4867c6d271aa.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/1/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72604,
+      "numero": 2,
+      "titulo": "Higurashi no Naku Koro ni Kai - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9320ad6cad5604921732d4fb26b81af3.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/2/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72605,
+      "numero": 3,
+      "titulo": "Higurashi no Naku Koro ni Kai - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60ad7df5fa49b1824cbb8f6d0b081c04.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/3/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72606,
+      "numero": 4,
+      "titulo": "Higurashi no Naku Koro ni Kai - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b0363ee8c567cb0591dc676fb28387e.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/4/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72607,
+      "numero": 5,
+      "titulo": "Higurashi no Naku Koro ni Kai - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2734f1134a330d4e8e4cdc064047b05.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/5/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72608,
+      "numero": 6,
+      "titulo": "Higurashi no Naku Koro ni Kai - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c826ba8add328efb68d2ee04c7e62a6.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/6/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72609,
+      "numero": 7,
+      "titulo": "Higurashi no Naku Koro ni Kai - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dce5bf4c6898fd35d7718be5e058ab88.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/7/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72610,
+      "numero": 8,
+      "titulo": "Higurashi no Naku Koro ni Kai - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7f268a6ec3771d9f522a90811322c7a.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/8/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72611,
+      "numero": 9,
+      "titulo": "Higurashi no Naku Koro ni Kai - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_532ea5b87982a791427b0900d77d0d15.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/9/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72612,
+      "numero": 10,
+      "titulo": "Higurashi no Naku Koro ni Kai - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2574bdad37e7dc8caf747ffcb0f07094.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/10/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72613,
+      "numero": 11,
+      "titulo": "Higurashi no Naku Koro ni Kai - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e6b4babbbb5bea3d5dab51fd808e986.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/11/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72614,
+      "numero": 12,
+      "titulo": "Higurashi no Naku Koro ni Kai - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d563b7ce72076a5a6c61bb3f274b2334.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/12/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72615,
+      "numero": 13,
+      "titulo": "Higurashi no Naku Koro ni Kai - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2401656ec461bc1325a89e1e81ac0fda.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/13/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72616,
+      "numero": 14,
+      "titulo": "Higurashi no Naku Koro ni Kai - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4730b34896005e798f1808970938537f.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/14/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72617,
+      "numero": 15,
+      "titulo": "Higurashi no Naku Koro ni Kai - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_557e52df927189a289585be68b581567.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/15/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72618,
+      "numero": 16,
+      "titulo": "Higurashi no Naku Koro ni Kai - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad24c17c300927ee05bf7c79cfd113db.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/16/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72619,
+      "numero": 17,
+      "titulo": "Higurashi no Naku Koro ni Kai - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5409a9ce1028e0a0192dc9b41ca98dec.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/17/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72620,
+      "numero": 18,
+      "titulo": "Higurashi no Naku Koro ni Kai - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91c01db7cd700764a64da79fc821db25.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/18/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72621,
+      "numero": 19,
+      "titulo": "Higurashi no Naku Koro ni Kai - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bf75ebc7278d0fce5378f2f6c8913ad.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/19/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72622,
+      "numero": 20,
+      "titulo": "Higurashi no Naku Koro ni Kai - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15c46454a5b97a1e8c42bdf6179124d1.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/20/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72623,
+      "numero": 21,
+      "titulo": "Higurashi no Naku Koro ni Kai - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7b2910487928eb1567dd9b1ef9097fe.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/21/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72624,
+      "numero": 22,
+      "titulo": "Higurashi no Naku Koro ni Kai - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1badf1a299537c17dd191677002a52d9.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/22/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72625,
+      "numero": 23,
+      "titulo": "Higurashi no Naku Koro ni Kai - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b99e59d38b069e8478c07f32810043b2.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/23/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    },
+    {
+      "id_origen": 72626,
+      "numero": 24,
+      "titulo": "Higurashi no Naku Koro ni Kai - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b421e1f05c3d0051804037f1faeda6e8.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kai/24/",
+      "publicado_en_origen": "2026-04-18 13:19:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:26+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "232",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:30:38+00:00"
+}

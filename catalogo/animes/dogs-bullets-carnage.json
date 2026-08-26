@@ -1,0 +1,53 @@
+{
+  "id_origen": 19,
+  "slug": "dogs-bullets-carnage",
+  "titulo": "Dogs: Bullets & Carnage",
+  "titulo_corto": "Dogs: Bullets & Carnage",
+  "sinopsis": "DOGS se desarrolla en un escenario destopico, un mundo sin ley y de violencia extrema, que aparentemente está en una edad de hielo y en el que aún se encuentran los vestigios de \"la edad dorada\" (gente con los genes alterados artificialmente o con capacidades sobrehumanas). La historia se centra en cuatro protagonistas que viven en una ciudad subterránea sobre otra ciudad y su relación con un piso inferior a esa ciudad conocido como el inframundo. También en la ciudad de arriba se muestra que hay una especie de obelisco pero (según Bado) nadie sabe nada de él.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dogs-bullets-carnage.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dogs-bullets-carnage/",
+  "episodios": [
+    {
+      "id_origen": 294,
+      "numero": 1,
+      "titulo": "Dogs: Bullets and Carnage 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6883966fd8f918a4aa29be29d2c386fb.jpg",
+      "url_origen": "https://jkanime.net/dogs-bullets-carnage/1/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 295,
+      "numero": 2,
+      "titulo": "Dogs: Bullets and Carnage 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49182f81e6a13cf5eaa496d51fea6406.jpg",
+      "url_origen": "https://jkanime.net/dogs-bullets-carnage/2/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 296,
+      "numero": 3,
+      "titulo": "Dogs: Bullets and Carnage 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d296c101daa88a51f6ca8cfc1ac79b50.jpg",
+      "url_origen": "https://jkanime.net/dogs-bullets-carnage/3/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 297,
+      "numero": 4,
+      "titulo": "Dogs: Bullets and Carnage 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fd81843ad7f202f26c1a174c7357585.jpg",
+      "url_origen": "https://jkanime.net/dogs-bullets-carnage/4/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "19",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:25:15+00:00"
+}

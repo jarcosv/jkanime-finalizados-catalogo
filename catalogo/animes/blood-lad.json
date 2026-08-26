@@ -1,0 +1,101 @@
+{
+  "id_origen": 912,
+  "slug": "blood-lad",
+  "titulo": "Blood Lad",
+  "titulo_corto": "Blood Lad",
+  "sinopsis": "Staz es el vampiro jefe de una sección del mundo demoníaco, aunque la sangre humana no le interesa lo más mínimo. A él lo que le gusta es la cultura japonesa, y cuando una adolescente japonesa llamada Yanagi Fuyumi acaba en la ciudad demoníaca, decide no perder la ocasión de conocerla y aprender más del país que tanto le apasiona. Sin embargo, de camino a encontrarse con la muchacha se encuentra con problemas y otro monstruo acaba con la vida de Fuyumi, quedando la muchacha convertida en un fantasma errante. Staz se caga en su maldita suerte y decide encontrar una forma de devolverla a la vida.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/blood-lad.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/blood-lad/",
+  "episodios": [
+    {
+      "id_origen": 21030,
+      "numero": 1,
+      "titulo": "Blood Lad - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3ed9e3df6007d59a203f7b692880796.jpg",
+      "url_origen": "https://jkanime.net/blood-lad/1/",
+      "publicado_en_origen": "2013-07-07 18:03:26"
+    },
+    {
+      "id_origen": 21079,
+      "numero": 2,
+      "titulo": "Blood Lad - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cef5524641d35342a138832d05ffe4e9.jpg",
+      "url_origen": "https://jkanime.net/blood-lad/2/",
+      "publicado_en_origen": "2013-07-14 18:44:20"
+    },
+    {
+      "id_origen": 21125,
+      "numero": 3,
+      "titulo": "Blood Lad - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ed7d66a7373aab4a4ff4258e9b1c51f.jpg",
+      "url_origen": "https://jkanime.net/blood-lad/3/",
+      "publicado_en_origen": "2013-07-21 17:13:59"
+    },
+    {
+      "id_origen": 21175,
+      "numero": 4,
+      "titulo": "Blood Lad - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61d11278e40c04c1a4b014546772dcf8.jpg",
+      "url_origen": "https://jkanime.net/blood-lad/4/",
+      "publicado_en_origen": "2013-07-28 20:25:40"
+    },
+    {
+      "id_origen": 21220,
+      "numero": 5,
+      "titulo": "Blood Lad - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38838371c3a50f059b8c4894a59c745d.jpg",
+      "url_origen": "https://jkanime.net/blood-lad/5/",
+      "publicado_en_origen": "2013-08-04 23:42:03"
+    },
+    {
+      "id_origen": 21267,
+      "numero": 6,
+      "titulo": "Blood Lad - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_befa3b5d70e5d2e3ddf42758d16554ab.jpg",
+      "url_origen": "https://jkanime.net/blood-lad/6/",
+      "publicado_en_origen": "2013-08-11 18:35:42"
+    },
+    {
+      "id_origen": 21316,
+      "numero": 7,
+      "titulo": "Blood Lad - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_121f6f951ebe28c187c975e6c17c081d.jpg",
+      "url_origen": "https://jkanime.net/blood-lad/7/",
+      "publicado_en_origen": "2013-08-18 21:33:09"
+    },
+    {
+      "id_origen": 21358,
+      "numero": 8,
+      "titulo": "Blood Lad - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdf8cce6a4faee958d05df52054add74.jpg",
+      "url_origen": "https://jkanime.net/blood-lad/8/",
+      "publicado_en_origen": "2013-08-25 15:44:54"
+    },
+    {
+      "id_origen": 21405,
+      "numero": 9,
+      "titulo": "Blood Lad - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6943317304e0f076bc8f12dc02c48e9b.jpg",
+      "url_origen": "https://jkanime.net/blood-lad/9/",
+      "publicado_en_origen": "2013-09-01 15:52:24"
+    },
+    {
+      "id_origen": 21455,
+      "numero": 10,
+      "titulo": "Blood Lad - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42afdcd383ddd4cbf623792bafdbd6ab.jpg",
+      "url_origen": "https://jkanime.net/blood-lad/10/",
+      "publicado_en_origen": "2013-09-08 15:13:45"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:01+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "912",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:20:28+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1997,
+  "slug": "one-piece-film-gold",
+  "titulo": "One Piece Film: Gold",
+  "titulo_corto": "One Piece Film: Gold",
+  "sinopsis": "La película trata sobre un barco de 10 km, considerado por el Gobierno Mundial como una nación independiente, que alberga la ciudad de entretenimiento más grande del mundo gobernada por Gild Tesoro, poseedor de la fruta Goru Goru no Mi (Fruta Oro-Oro), que le proporciona habilidades relacionadas con el oro. La banda de Sombrero De Paja es invitada a dicho barco para divertirse, pero se acaban torciendo las cosas...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece-film-gold.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-piece-film-gold/",
+  "episodios": [
+    {
+      "id_origen": 33782,
+      "numero": 1,
+      "titulo": "One Piece Film: Gold",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95276ef6535840ec6e432a7fc28688cb.jpg",
+      "url_origen": "https://jkanime.net/one-piece-film-gold/1/",
+      "publicado_en_origen": "2017-01-04 15:04:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1997",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:05+00:00"
+}

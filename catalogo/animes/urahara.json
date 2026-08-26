@@ -1,0 +1,117 @@
+{
+  "id_origen": 2128,
+  "slug": "urahara",
+  "titulo": "Urahara",
+  "titulo_corto": "Urahara",
+  "sinopsis": "En un futuro, las grandes ciudades han sido destruidas por criaturas de otro planeta. Su próximo objeto es… ¡el famoso distrito de Harajuku de Tokio! Solo un trío de chicas que tiene una tieda de cazatesoros podrán salvarlo. Pero primero, ¿tienen lo que hace falta para convertirse en miembros del PARK Harajuku: Crisis Team?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/urahara/",
+  "episodios": [
+    {
+      "id_origen": 35749,
+      "numero": 1,
+      "titulo": "Urahara - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+      "url_origen": "https://jkanime.net/urahara/1/",
+      "publicado_en_origen": "2017-10-04 11:35:52"
+    },
+    {
+      "id_origen": 35807,
+      "numero": 2,
+      "titulo": "Urahara - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+      "url_origen": "https://jkanime.net/urahara/2/",
+      "publicado_en_origen": "2017-10-11 09:56:39"
+    },
+    {
+      "id_origen": 35858,
+      "numero": 3,
+      "titulo": "Urahara - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+      "url_origen": "https://jkanime.net/urahara/3/",
+      "publicado_en_origen": "2017-10-18 10:07:40"
+    },
+    {
+      "id_origen": 35910,
+      "numero": 4,
+      "titulo": "Urahara - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+      "url_origen": "https://jkanime.net/urahara/4/",
+      "publicado_en_origen": "2017-10-25 14:45:29"
+    },
+    {
+      "id_origen": 35960,
+      "numero": 5,
+      "titulo": "Urahara - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+      "url_origen": "https://jkanime.net/urahara/5/",
+      "publicado_en_origen": "2017-11-01 15:28:58"
+    },
+    {
+      "id_origen": 36012,
+      "numero": 6,
+      "titulo": "Urahara - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+      "url_origen": "https://jkanime.net/urahara/6/",
+      "publicado_en_origen": "2017-11-08 11:05:46"
+    },
+    {
+      "id_origen": 36063,
+      "numero": 7,
+      "titulo": "Urahara - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+      "url_origen": "https://jkanime.net/urahara/7/",
+      "publicado_en_origen": "2017-11-15 11:29:01"
+    },
+    {
+      "id_origen": 36109,
+      "numero": 8,
+      "titulo": "Urahara - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+      "url_origen": "https://jkanime.net/urahara/8/",
+      "publicado_en_origen": "2017-11-22 11:43:30"
+    },
+    {
+      "id_origen": 36163,
+      "numero": 9,
+      "titulo": "Urahara - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+      "url_origen": "https://jkanime.net/urahara/9/",
+      "publicado_en_origen": "2017-11-29 14:12:25"
+    },
+    {
+      "id_origen": 36204,
+      "numero": 10,
+      "titulo": "Urahara - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+      "url_origen": "https://jkanime.net/urahara/10/",
+      "publicado_en_origen": "2017-12-06 12:52:58"
+    },
+    {
+      "id_origen": 36239,
+      "numero": 11,
+      "titulo": "Urahara - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+      "url_origen": "https://jkanime.net/urahara/11/",
+      "publicado_en_origen": "2017-12-13 13:35:29"
+    },
+    {
+      "id_origen": 36287,
+      "numero": 12,
+      "titulo": "Urahara - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/urahara.jpg",
+      "url_origen": "https://jkanime.net/urahara/12/",
+      "publicado_en_origen": "2017-12-20 15:00:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:22+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2128",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:51:11+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 4338,
+  "slug": "mononoke-hime",
+  "titulo": "Mononoke Hime",
+  "titulo_corto": "Mononoke Hime",
+  "sinopsis": "Cuando una aldea Emishi es atacada por un feroz jabalí demoníaco, el joven príncipe Ashitaka arriesga su vida para defender a su tribu. Con su último aliento, la bestia maldice el brazo del príncipe, otorgándole poderes demoníacos mientras le va quitando poco a poco la vida. Siguiendo las instrucciones de los ancianos de la aldea de viajar hacia el oeste en busca de una cura, Ashitaka llega a Tatara, la ciudad del hierro, donde se ve envuelto en un feroz conflicto: Lady Eboshi de Tatara, que promueve la deforestación constante, se enfrenta a la princesa San y a los espíritus sagrados del bosque, que están furiosos por la destrucción causada por los humanos. Mientras las fuerzas opuestas de la naturaleza y la humanidad comienzan a enfrentarse en una lucha desesperada por la supervivencia, Ashitaka intenta buscar la armonía entre ambas, al tiempo que lucha contra el demonio latente que hay en su interior. La princesa Mononoke es un cuento que describe la conexión entre la tecnología y la naturaleza, al tiempo que muestra el camino hacia la armonía que se puede alcanzar mediante la aceptación mutua.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mononoke-hime.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mononoke-hime/",
+  "episodios": [
+    {
+      "id_origen": 67124,
+      "numero": 1,
+      "titulo": "Mononoke Hime",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_144ca4ae3c88323d1a61055aafd3de0a.jpg",
+      "url_origen": "https://jkanime.net/mononoke-hime/1/",
+      "publicado_en_origen": "2025-08-28 18:00:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4338",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:10+00:00"
+}

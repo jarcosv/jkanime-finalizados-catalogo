@@ -1,0 +1,29 @@
+{
+  "id_origen": 654,
+  "slug": "k-on-movie",
+  "titulo": "K-On! (Movie)",
+  "titulo_corto": "K-On! (Movie)",
+  "sinopsis": "Después de los sucesos de la 1º y 2º temporada del anime; Mio, Ritsu, Yui, Mugi y Azusa hacen un viaje a Inglaterra para celebrar la graduación de las primeras cuatro y su ingreso a la universidad. Durante su viaje hay nostalgia por ser la ultima vez que Azusa estará con el resto del grupo como HTT (Houkago Tea Time) y también estará lleno confusiones al no saber comunicarse bien en un país que no conocen.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/k-on-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/k-on-movie/",
+  "episodios": [
+    {
+      "id_origen": 17258,
+      "numero": 1,
+      "titulo": "K-On! (Movie)",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42dac78c17149caac83296b32af38f59.jpg",
+      "url_origen": "https://jkanime.net/k-on-movie/1/",
+      "publicado_en_origen": "2012-09-21 03:39:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:11+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "654",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:33:07+00:00"
+}

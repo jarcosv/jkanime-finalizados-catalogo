@@ -1,0 +1,37 @@
+{
+  "id_origen": 557,
+  "slug": "maken-ki-ova",
+  "titulo": "Maken-Ki! OVA",
+  "titulo_corto": "Maken-Ki! OVA",
+  "sinopsis": "Esta es la continuación de la gran aventura de Oyama Takeru un joven de secundaria que quiere controlar su maken y viaja con el equipo Tenbi a una isla a entrenar pero resultan ser unas grandes vacaciones",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/maken-ki-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/maken-ki-ova/",
+  "episodios": [
+    {
+      "id_origen": 15514,
+      "numero": 1,
+      "titulo": "Maken-Ki! OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3284b792f98b28e27b5264d87bc77f36.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-ova/1/",
+      "publicado_en_origen": "2012-04-21 00:02:09"
+    },
+    {
+      "id_origen": 21711,
+      "numero": 2,
+      "titulo": "Maken-Ki! OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d73ce2a7a702db385aa9056c7a0ff13.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-ova/2/",
+      "publicado_en_origen": "2013-10-11 13:19:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "557",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:37:46+00:00"
+}

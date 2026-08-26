@@ -1,0 +1,69 @@
+{
+  "id_origen": 771,
+  "slug": "onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials",
+  "titulo": "OniAi Specials",
+  "titulo_corto": "OniAi Specials",
+  "sinopsis": "Especiales cortos incluidos en el BD DVD de Onii-chan Dakedo Ai Sae Areba Kankeinai Yo Ne",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/",
+  "episodios": [
+    {
+      "id_origen": 19370,
+      "numero": 1,
+      "titulo": "OniAi Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_623040922099375a93bfbd8b3234d997.jpg",
+      "url_origen": "https://jkanime.net/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/1/",
+      "publicado_en_origen": "2013-02-18 02:45:05"
+    },
+    {
+      "id_origen": 19983,
+      "numero": 2,
+      "titulo": "OniAi Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da45319d138c6021b9e4a45ede074ffd.jpg",
+      "url_origen": "https://jkanime.net/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/2/",
+      "publicado_en_origen": "2013-03-30 17:05:18"
+    },
+    {
+      "id_origen": 20562,
+      "numero": 3,
+      "titulo": "OniAi Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a9507ccbb6be14e614c0c61cb485c83.jpg",
+      "url_origen": "https://jkanime.net/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/3/",
+      "publicado_en_origen": "2013-05-30 17:03:58"
+    },
+    {
+      "id_origen": 20633,
+      "numero": 4,
+      "titulo": "OniAi Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0681c9100584bf1c44945df5c3167fe.jpg",
+      "url_origen": "https://jkanime.net/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/4/",
+      "publicado_en_origen": "2013-06-11 21:12:16"
+    },
+    {
+      "id_origen": 21032,
+      "numero": 5,
+      "titulo": "OniAi Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fba6c96d44ce830a1d5886fab5a15fa5.jpg",
+      "url_origen": "https://jkanime.net/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/5/",
+      "publicado_en_origen": "2013-07-08 01:12:02"
+    },
+    {
+      "id_origen": 21033,
+      "numero": 6,
+      "titulo": "OniAi Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9ce1073ab925d72782e22228ac4e2b7.jpg",
+      "url_origen": "https://jkanime.net/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/6/",
+      "publicado_en_origen": "2013-07-08 01:16:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "771",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:41:18+00:00"
+}

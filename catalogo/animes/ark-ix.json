@@ -1,0 +1,29 @@
+{
+  "id_origen": 1221,
+  "slug": "ark-ix",
+  "titulo": "Ark IX",
+  "titulo_corto": "Ark IX",
+  "sinopsis": "La serie se sitúan 150 años después de que la humnanidad perdiese la mitad del planeta debido a una misteriosa niebla negra. Para contener la niebla negra, se levantaron muros de 3.000 metros para dividir el mundo, y la mitad de la población mundial que sobrevivió vive ahora en ciudades llamadas arcas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ark-ix.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ark-ix/",
+  "episodios": [
+    {
+      "id_origen": 23999,
+      "numero": 1,
+      "titulo": "Ark IX",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efc7667564c801b723843a81b5b10ab5.jpg",
+      "url_origen": "https://jkanime.net/ark-ix/1/",
+      "publicado_en_origen": "2014-07-15 12:51:36"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1221",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:17:35+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 3495,
+  "slug": "azur-lane-queens-orders",
+  "titulo": "Azur Lane: Queen's Orders",
+  "titulo_corto": "Azur Lane: Queen's Orders",
+  "sinopsis": "Debido a la fatiga y el agotamiento severos, el comandante del Azur Lane colapsa y entra en coma. Para evitar que estallen el malestar y la ansiedad, el barco secretario Queen Elizabeth decide sustituir al comandante en secreto junto a su viejo amigo Warspite y unos pocos elegidos.\n\nSin embargo, la reina Isabel pronto se da cuenta de que asumir el papel de líder no es una tarea fácil. Mientras se esfuerza por asegurarse de que todo vaya bien y mantener la verdad oculta, la situación empeora gradualmente y más marineros comienzan a sospechar del paradero del comandante.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/azur-lane-queens-orders.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/azur-lane-queens-orders/",
+  "episodios": [
+    {
+      "id_origen": 53924,
+      "numero": 1,
+      "titulo": "Azur Lane: Queen's Orders - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b899eacbc14f02caf10cfaf01dc67df.jpg",
+      "url_origen": "https://jkanime.net/azur-lane-queens-orders/1/",
+      "publicado_en_origen": "2023-08-29 23:55:15"
+    },
+    {
+      "id_origen": 53925,
+      "numero": 2,
+      "titulo": "Azur Lane: Queen's Orders - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9aee039ece79900fc53f4d9c6d5990f.jpg",
+      "url_origen": "https://jkanime.net/azur-lane-queens-orders/2/",
+      "publicado_en_origen": "2023-08-29 23:55:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3495",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:18:18+00:00"
+}

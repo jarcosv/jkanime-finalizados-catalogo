@@ -1,0 +1,29 @@
+{
+  "id_origen": 565,
+  "slug": "another-ova",
+  "titulo": "Another OVA",
+  "titulo_corto": "Another OVA",
+  "sinopsis": "Episodio 0, incluida en el manga de edición limitada de Another.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/another-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/another-ova/",
+  "episodios": [
+    {
+      "id_origen": 66931,
+      "numero": 1,
+      "titulo": "Another OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8be889204971402d233b4c9b299b84e9.jpg",
+      "url_origen": "https://jkanime.net/another-ova/1/",
+      "publicado_en_origen": "2025-08-17 07:39:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "565",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:16:48+00:00"
+}

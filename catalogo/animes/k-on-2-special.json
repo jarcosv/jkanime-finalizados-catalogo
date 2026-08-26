@@ -1,0 +1,29 @@
+{
+  "id_origen": 454,
+  "slug": "k-on-2-special",
+  "titulo": "K-ON!! Second Season Special",
+  "titulo_corto": "K-ON!! Second Season Special",
+  "sinopsis": "Un episodio no emitido de la segunda temporada publicado en el noveno volumen de Blu-ray y DVD. Nuestras chicas planean un viaje al extranjero e ir a la oficina para solicitar pasaportes.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/k-on-2-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/k-on-2-special/",
+  "episodios": [
+    {
+      "id_origen": 13335,
+      "numero": 1,
+      "titulo": "Planificación",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82d7f56432e27700a4f968ccc1d65038.jpg",
+      "url_origen": "https://jkanime.net/k-on-2-special/1/",
+      "publicado_en_origen": "2011-11-29 02:25:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "454",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:33:08+00:00"
+}

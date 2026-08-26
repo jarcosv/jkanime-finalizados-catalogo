@@ -1,0 +1,29 @@
+{
+  "id_origen": 3585,
+  "slug": "gridman-universe",
+  "titulo": "Gridman Universe",
+  "titulo_corto": "Gridman Universe",
+  "sinopsis": "Ha pasado un año desde los sucesos de SSSS.Gridman. El mundo está en paz y nadie, salvo Rikka y Utsumi, recuerda al kaiju, a Gridman o a Akane Shinjou. Esto incluye a Yuuta, que a pesar de ser el anfitrión de Gridman, no recuerda los momentos más importantes de su vida. Por eso, cuando aparece un nuevo kaiju, aprovecha la oportunidad de demostrarse a sí mismo que él también puede ser el héroe fusionándose con Gridman una vez más.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gridman-universe.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gridman-universe/",
+  "episodios": [
+    {
+      "id_origen": 55118,
+      "numero": 1,
+      "titulo": "Gridman Universe",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db092f40cfb91ea466cb8432d4ab97b1.jpg",
+      "url_origen": "https://jkanime.net/gridman-universe/1/",
+      "publicado_en_origen": "2023-12-01 15:31:58"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3585",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:29:04+00:00"
+}

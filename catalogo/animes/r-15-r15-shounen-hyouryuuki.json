@@ -1,0 +1,29 @@
+{
+  "id_origen": 4843,
+  "slug": "r-15-r15-shounen-hyouryuuki",
+  "titulo": "R-15: R15 Shounen Hyouryuuki",
+  "titulo_corto": "R-15: R15 Shounen Hyouryuuki",
+  "sinopsis": "Según Kadokawa, el décimo volumen de la novela incluirá un OVA de R-15.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/r-15-r15-shounen-hyouryuuki.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/r-15-r15-shounen-hyouryuuki/",
+  "episodios": [
+    {
+      "id_origen": 74713,
+      "numero": 1,
+      "titulo": "R-15: R15 Shounen Hyouryuuki",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0d9c23291e62e2e93bde21f0c0a46cd.jpg",
+      "url_origen": "https://jkanime.net/r-15-r15-shounen-hyouryuuki/1/",
+      "publicado_en_origen": "2026-06-27 13:57:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4843",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:43:26+00:00"
+}

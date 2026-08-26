@@ -1,0 +1,93 @@
+{
+  "id_origen": 2548,
+  "slug": "high-score-girl-ii",
+  "titulo": "High Score Girl II",
+  "titulo_corto": "High Score Girl II",
+  "sinopsis": "segunda temporada de high score girl",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/high-score-girl-ii.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/high-score-girl-ii/",
+  "episodios": [
+    {
+      "id_origen": 41352,
+      "numero": 1,
+      "titulo": "High Score Girl II - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f8220b83d0c19865aadc651efca8d6b.jpg",
+      "url_origen": "https://jkanime.net/high-score-girl-ii/1/",
+      "publicado_en_origen": "2019-10-25 18:47:20"
+    },
+    {
+      "id_origen": 41410,
+      "numero": 2,
+      "titulo": "High Score Girl II - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0d5b283cb5fc43b41097fc63ce92b17.jpg",
+      "url_origen": "https://jkanime.net/high-score-girl-ii/2/",
+      "publicado_en_origen": "2019-11-02 16:33:49"
+    },
+    {
+      "id_origen": 41461,
+      "numero": 3,
+      "titulo": "High Score Girl II - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f0033672b5d798d3367020fa452b7e3.jpg",
+      "url_origen": "https://jkanime.net/high-score-girl-ii/3/",
+      "publicado_en_origen": "2019-11-08 20:13:28"
+    },
+    {
+      "id_origen": 41517,
+      "numero": 4,
+      "titulo": "High Score Girl II - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8e7bf81e2bc2a1832617ebaa73df373.jpg",
+      "url_origen": "https://jkanime.net/high-score-girl-ii/4/",
+      "publicado_en_origen": "2019-11-15 19:17:04"
+    },
+    {
+      "id_origen": 41570,
+      "numero": 5,
+      "titulo": "High Score Girl II - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c678b0576f9b98b734c11d7c4f7683f.jpg",
+      "url_origen": "https://jkanime.net/high-score-girl-ii/5/",
+      "publicado_en_origen": "2019-11-22 22:36:54"
+    },
+    {
+      "id_origen": 41622,
+      "numero": 6,
+      "titulo": "High Score Girl II - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0379400a99a4caea5e45dc886da7f1df.jpg",
+      "url_origen": "https://jkanime.net/high-score-girl-ii/6/",
+      "publicado_en_origen": "2019-11-29 20:43:11"
+    },
+    {
+      "id_origen": 41673,
+      "numero": 7,
+      "titulo": "High Score Girl II - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4441b26d19e25f5cfd65538bc280df52.jpg",
+      "url_origen": "https://jkanime.net/high-score-girl-ii/7/",
+      "publicado_en_origen": "2019-12-06 18:19:52"
+    },
+    {
+      "id_origen": 41729,
+      "numero": 8,
+      "titulo": "High Score Girl II - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2daeba9b5d09c2ebd5ad42e5477e5d8f.jpg",
+      "url_origen": "https://jkanime.net/high-score-girl-ii/8/",
+      "publicado_en_origen": "2019-12-13 19:30:39"
+    },
+    {
+      "id_origen": 41783,
+      "numero": 9,
+      "titulo": "High Score Girl II - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35a721419aeeb9779f69359d946fcb41.jpg",
+      "url_origen": "https://jkanime.net/high-score-girl-ii/9/",
+      "publicado_en_origen": "2019-12-20 23:36:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2548",
+  "cantidad_episodios_declarada": 9,
+  "detalle_extraido_en": "2026-08-26T18:30:33+00:00"
+}

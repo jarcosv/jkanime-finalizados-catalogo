@@ -1,0 +1,37 @@
+{
+  "id_origen": 3041,
+  "slug": "tales-of-luminaria-the-fateful-crossroad",
+  "titulo": "Tales of Luminaria: The Fateful Crossroad",
+  "titulo_corto": "Tales of Luminaria: The Fatefu...",
+  "sinopsis": "Hace mucho tiempo, esta tierra fue el hogar de bestias del tamaño de montañas que ahora se han petrificado. Mana se desbordó de sus restos, atrayendo a personas que buscaban su poder, y surgieron civilizaciones. La gente llegó a reverenciar a estas criaturas productoras de maná, a las que llamaron 'Bestias primordiales'. Ellos construyeron sus vidas alrededor de ellos. Así comenzó la adoración de las Bestias Primordiales.\n\nEl tiempo siguió fluyendo hasta el día de hoy... Estalla la guerra entre la Federación Jerle, una alianza de países que adoran a las Bestias Primordiales, y el Imperio Gildllan, que ha disfrutado de un desarrollo explosivo gracias a la tecnología avanzada. Los fuegos de la guerra arden cada vez más.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tales-of-luminaria-the-fateful-crossroad.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tales-of-luminaria-the-fateful-crossroad/",
+  "episodios": [
+    {
+      "id_origen": 48028,
+      "numero": 1,
+      "titulo": "Tales of Luminaria: The Fateful Crossroad - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01021c638c5f1920e5e9a5f9e43f6e5e.jpg",
+      "url_origen": "https://jkanime.net/tales-of-luminaria-the-fateful-crossroad/1/",
+      "publicado_en_origen": "2022-01-21 13:21:33"
+    },
+    {
+      "id_origen": 48029,
+      "numero": 2,
+      "titulo": "Tales of Luminaria: The Fateful Crossroad - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ce46e16e28e2ff305109bfc295a481a.jpg",
+      "url_origen": "https://jkanime.net/tales-of-luminaria-the-fateful-crossroad/2/",
+      "publicado_en_origen": "2022-01-21 13:21:36"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3041",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:48:28+00:00"
+}

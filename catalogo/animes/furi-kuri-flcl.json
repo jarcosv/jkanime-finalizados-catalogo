@@ -1,0 +1,69 @@
+{
+  "id_origen": 100,
+  "slug": "furi-kuri-flcl",
+  "titulo": "FLCL",
+  "titulo_corto": "FLCL",
+  "sinopsis": "Naota Nandaba es un joven que vive una vida completamente normal y aburrida, todos los días se reúne con Mamimi Samejima la ex-novia de su hermano Tasuku quien se fue a Estados Unidos para jugar Baseball.  Pero todo esto cambia una vez Haruko Haruhara entra en su vida y la normalidad y aburrimiento es sustituida por extraños eventos que involucran a su familia, amistades y su ciudad además de los constantes ataques por parte de robots que salen de su cabeza.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/furi-kuri-flcl.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/furi-kuri-flcl/",
+  "episodios": [
+    {
+      "id_origen": 2252,
+      "numero": 1,
+      "titulo": "Furi Kuri FLCL 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_635440afdfc39fe37995fed127d7df4f.jpg",
+      "url_origen": "https://jkanime.net/furi-kuri-flcl/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2253,
+      "numero": 2,
+      "titulo": "Furi Kuri FLCL 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce6c92303f38d297e263c7180f03d402.jpg",
+      "url_origen": "https://jkanime.net/furi-kuri-flcl/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2254,
+      "numero": 3,
+      "titulo": "Furi Kuri FLCL 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38651c4450f87348fcbe1f992746a954.jpg",
+      "url_origen": "https://jkanime.net/furi-kuri-flcl/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2255,
+      "numero": 4,
+      "titulo": "Furi Kuri FLCL 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2ba1bc54b239208cb37b901c0d3b363.jpg",
+      "url_origen": "https://jkanime.net/furi-kuri-flcl/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2256,
+      "numero": 5,
+      "titulo": "Furi Kuri FLCL 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6c79f4af478638c39b206ec30ab166b.jpg",
+      "url_origen": "https://jkanime.net/furi-kuri-flcl/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2257,
+      "numero": 6,
+      "titulo": "Furi Kuri FLCL 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6288499d0083cc34e60a077b7c4b3e1.jpg",
+      "url_origen": "https://jkanime.net/furi-kuri-flcl/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "100",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:27:06+00:00"
+}

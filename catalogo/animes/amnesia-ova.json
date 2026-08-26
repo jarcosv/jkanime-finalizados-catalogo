@@ -1,0 +1,29 @@
+{
+  "id_origen": 1161,
+  "slug": "amnesia-ova",
+  "titulo": "Amnesia OVA",
+  "titulo_corto": "Amnesia OVA",
+  "sinopsis": "OVA de Amnesia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/amnesia-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/amnesia-ova/",
+  "episodios": [
+    {
+      "id_origen": 23650,
+      "numero": 1,
+      "titulo": "Amnesia OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51cb8efc21e2f073d9261b4d059ed96d.jpg",
+      "url_origen": "https://jkanime.net/amnesia-ova/1/",
+      "publicado_en_origen": "2014-06-03 13:39:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1161",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:16:30+00:00"
+}

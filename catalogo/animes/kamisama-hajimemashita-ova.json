@@ -1,0 +1,29 @@
+{
+  "id_origen": 936,
+  "slug": "kamisama-hajimemashita-ova",
+  "titulo": "Kamisama Hajimemashita OVA",
+  "titulo_corto": "Kamisama Hajimemashita OVA",
+  "sinopsis": "Dos episodios en uno de Kamisama Hajimemashita\n\nParte 1 - Basado en el volumen 15 del manga\nParte 2 - Historia original.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kamisama-hajimemashita-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kamisama-hajimemashita-ova/",
+  "episodios": [
+    {
+      "id_origen": 21371,
+      "numero": 1,
+      "titulo": "Kamisama Hajimemashita OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a921dee1e83e119429ce64b6d26ecc99.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita-ova/1/",
+      "publicado_en_origen": "2013-08-28 14:32:59"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "936",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:33:42+00:00"
+}

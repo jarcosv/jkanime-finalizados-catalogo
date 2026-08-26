@@ -1,0 +1,53 @@
+{
+  "id_origen": 867,
+  "slug": "saki-achiga-hen-episode-of-side-a-specials",
+  "titulo": "Saki: Achiga-hen - Episode of Side-A Specials",
+  "titulo_corto": "Saki: Achiga-hen - Episode of ...",
+  "sinopsis": "Cuatro episodios finales de Saki: Achiga-hen - Episode of Side-A.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saki-achiga-hen-episode-of-side-a-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/saki-achiga-hen-episode-of-side-a-specials/",
+  "episodios": [
+    {
+      "id_origen": 20856,
+      "numero": 1,
+      "titulo": "Saki: Achiga-hen - Episode of Side-A Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saki-achiga-hen-episode-of-side-a-specials.jpg",
+      "url_origen": "https://jkanime.net/saki-achiga-hen-episode-of-side-a-specials/1/",
+      "publicado_en_origen": "2013-06-27 03:57:57"
+    },
+    {
+      "id_origen": 20857,
+      "numero": 2,
+      "titulo": "Saki: Achiga-hen - Episode of Side-A Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saki-achiga-hen-episode-of-side-a-specials.jpg",
+      "url_origen": "https://jkanime.net/saki-achiga-hen-episode-of-side-a-specials/2/",
+      "publicado_en_origen": "2013-06-27 03:57:57"
+    },
+    {
+      "id_origen": 20858,
+      "numero": 3,
+      "titulo": "Saki: Achiga-hen - Episode of Side-A Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saki-achiga-hen-episode-of-side-a-specials.jpg",
+      "url_origen": "https://jkanime.net/saki-achiga-hen-episode-of-side-a-specials/3/",
+      "publicado_en_origen": "2013-06-27 03:57:57"
+    },
+    {
+      "id_origen": 20859,
+      "numero": 4,
+      "titulo": "Saki: Achiga-hen - Episode of Side-A Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saki-achiga-hen-episode-of-side-a-specials.jpg",
+      "url_origen": "https://jkanime.net/saki-achiga-hen-episode-of-side-a-specials/4/",
+      "publicado_en_origen": "2013-06-27 03:57:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "867",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:44:50+00:00"
+}

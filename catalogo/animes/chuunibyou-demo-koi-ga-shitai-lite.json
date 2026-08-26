@@ -1,0 +1,69 @@
+{
+  "id_origen": 671,
+  "slug": "chuunibyou-demo-koi-ga-shitai-lite",
+  "titulo": "Chuu-ni Byou! Lite",
+  "titulo_corto": "Chuu-ni Byou! Lite",
+  "sinopsis": "Pequeños cortos online de Chuunibyou demo Koi ga Shitai!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/chuunibyou-demo-koi-ga-shitai-lite.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/chuunibyou-demo-koi-ga-shitai-lite/",
+  "episodios": [
+    {
+      "id_origen": 17593,
+      "numero": 1,
+      "titulo": "Chuunibyou demo Koi ga Shitai! Lite - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4e21b9d9df296ee17ddab3dbbc851f5.jpg",
+      "url_origen": "https://jkanime.net/chuunibyou-demo-koi-ga-shitai-lite/1/",
+      "publicado_en_origen": "2012-09-28 19:45:48"
+    },
+    {
+      "id_origen": 17691,
+      "numero": 2,
+      "titulo": "Chuunibyou demo Koi ga Shitai! Lite - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ec31eeaba1b784b650382236495532d.jpg",
+      "url_origen": "https://jkanime.net/chuunibyou-demo-koi-ga-shitai-lite/2/",
+      "publicado_en_origen": "2012-10-11 18:19:42"
+    },
+    {
+      "id_origen": 17742,
+      "numero": 3,
+      "titulo": "Chuu-ni Byou! Lite - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43e546371f8128e1e37bc52d5b200213.jpg",
+      "url_origen": "https://jkanime.net/chuunibyou-demo-koi-ga-shitai-lite/3/",
+      "publicado_en_origen": "2012-10-11 23:25:12"
+    },
+    {
+      "id_origen": 17982,
+      "numero": 4,
+      "titulo": "Chuu-ni Byou! Lite - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c3508c6e86bfc75fabd0d0b54eef7a1.jpg",
+      "url_origen": "https://jkanime.net/chuunibyou-demo-koi-ga-shitai-lite/4/",
+      "publicado_en_origen": "2012-10-19 12:28:27"
+    },
+    {
+      "id_origen": 18102,
+      "numero": 5,
+      "titulo": "Chuu-ni Byou! Lite - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cdacdba0a3e4bf931fbe577ee4f94f7.jpg",
+      "url_origen": "https://jkanime.net/chuunibyou-demo-koi-ga-shitai-lite/5/",
+      "publicado_en_origen": "2012-10-25 15:03:06"
+    },
+    {
+      "id_origen": 18213,
+      "numero": 6,
+      "titulo": "Chuu-ni Byou! Lite - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0120ec28bc96b5b1ce1ba1999ce204b0.jpg",
+      "url_origen": "https://jkanime.net/chuunibyou-demo-koi-ga-shitai-lite/6/",
+      "publicado_en_origen": "2012-11-01 12:32:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "671",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:23:39+00:00"
+}

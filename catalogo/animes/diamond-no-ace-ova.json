@@ -1,0 +1,29 @@
+{
+  "id_origen": 1348,
+  "slug": "diamond-no-ace-ova",
+  "titulo": "Diamond no Ace OVA",
+  "titulo_corto": "Diamond no Ace OVA",
+  "sinopsis": "Incluida a partir del volumen 44 del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/diamond-no-ace-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/diamond-no-ace-ova/",
+  "episodios": [
+    {
+      "id_origen": 25558,
+      "numero": 1,
+      "titulo": "Diamond no Ace OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d571ef48d7c44ec949687e28abcdf30.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace-ova/1/",
+      "publicado_en_origen": "2014-11-24 16:32:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1348",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:24:55+00:00"
+}

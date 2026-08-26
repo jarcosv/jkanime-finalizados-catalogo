@@ -1,0 +1,69 @@
+{
+  "id_origen": 1069,
+  "slug": "hori-san-to-miyamura-kun",
+  "titulo": "Hori-san to Miyamura-kun",
+  "titulo_corto": "Hori-san to Miyamura-kun",
+  "sinopsis": "Basada en la agridulce adolescencia de una chica llamada Kyouko Hori y de un chico llamado Izumi Miyamura. Ambos se conocen cierto dia que Miyamura encuentra herido al hermano de Hori, y a partir de ahí comenzarán una relación.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hori-san-to-miyamura-kun.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hori-san-to-miyamura-kun/",
+  "episodios": [
+    {
+      "id_origen": 71009,
+      "numero": 1,
+      "titulo": "Hori-san to Miyamura-kun - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_373a70f357bfddcf79cf7f148314abab.jpg",
+      "url_origen": "https://jkanime.net/hori-san-to-miyamura-kun/1/",
+      "publicado_en_origen": "2026-01-24 11:34:55"
+    },
+    {
+      "id_origen": 71010,
+      "numero": 2,
+      "titulo": "Hori-san to Miyamura-kun - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5489be1fc116ee8db0ddd9d2ffeb57a1.jpg",
+      "url_origen": "https://jkanime.net/hori-san-to-miyamura-kun/2/",
+      "publicado_en_origen": "2026-01-24 11:34:55"
+    },
+    {
+      "id_origen": 71011,
+      "numero": 3,
+      "titulo": "Hori-san to Miyamura-kun - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5716bf5606f4b85566395f8eba99ee0.jpg",
+      "url_origen": "https://jkanime.net/hori-san-to-miyamura-kun/3/",
+      "publicado_en_origen": "2026-01-24 11:34:55"
+    },
+    {
+      "id_origen": 71012,
+      "numero": 4,
+      "titulo": "Hori-san to Miyamura-kun - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf171ff09a2045d7b19cc369cfeba1a0.jpg",
+      "url_origen": "https://jkanime.net/hori-san-to-miyamura-kun/4/",
+      "publicado_en_origen": "2026-01-24 11:34:55"
+    },
+    {
+      "id_origen": 71013,
+      "numero": 5,
+      "titulo": "Hori-san to Miyamura-kun - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a34bfcad7b80337ac3602badb4366a91.jpg",
+      "url_origen": "https://jkanime.net/hori-san-to-miyamura-kun/5/",
+      "publicado_en_origen": "2026-01-24 11:34:55"
+    },
+    {
+      "id_origen": 71014,
+      "numero": 6,
+      "titulo": "Hori-san to Miyamura-kun - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c92cd5fed1bb892eaa3452a08c82d3a1.jpg",
+      "url_origen": "https://jkanime.net/hori-san-to-miyamura-kun/6/",
+      "publicado_en_origen": "2026-01-24 11:34:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1069",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:31:04+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id_origen": 2714,
+  "slug": "burn-the-witch",
+  "titulo": "Burn the Witch",
+  "titulo_corto": "Burn the Witch",
+  "sinopsis": "Históricamente, el 72% de las muertes de London tienen relación con los dragones, seres fantásticos que son invisibles para la gran mayoría de la población. Aunque la mayoría ni siquiera conoce a estos dragones, hay un grupo de personas que les planta cara. Solo los habitantes de Reverse London, aquellos que viven en el oculto \"reverso\" de la ciudad, pueden ver a los dragones. Y entre ellos, solo unos pocos tienen las habilidades necesarias para convertirse en brujas o hechiceros, quienes pueden entrar en contacto directo con dichos seres",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/burn-the-witch.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/burn-the-witch/",
+  "episodios": [
+    {
+      "id_origen": 43641,
+      "numero": 1,
+      "titulo": "Burn the Witch - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5db413912b703e46bc1aaee48504bfae.jpg",
+      "url_origen": "https://jkanime.net/burn-the-witch/1/",
+      "publicado_en_origen": "2020-10-02 01:58:08"
+    },
+    {
+      "id_origen": 43642,
+      "numero": 2,
+      "titulo": "Burn the Witch - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae1a83fe550530355c270367859ea866.jpg",
+      "url_origen": "https://jkanime.net/burn-the-witch/2/",
+      "publicado_en_origen": "2020-10-02 01:58:10"
+    },
+    {
+      "id_origen": 43643,
+      "numero": 3,
+      "titulo": "Burn the Witch - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd1e1971f70705af958fce3debc479dd.jpg",
+      "url_origen": "https://jkanime.net/burn-the-witch/3/",
+      "publicado_en_origen": "2020-10-02 01:58:16"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:03+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2714",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:22:10+00:00"
+}

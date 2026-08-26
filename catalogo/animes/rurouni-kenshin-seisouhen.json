@@ -1,0 +1,37 @@
+{
+  "id_origen": 456,
+  "slug": "rurouni-kenshin-seisouhen",
+  "titulo": "Rurouni Kenshin: Seisouhen",
+  "titulo_corto": "Rurouni Kenshin: Seisouhen",
+  "sinopsis": "\"Seisouhen\" puede traducirse más o menos como \"los años que han pasado\". La historia tiene su punto de partida después de varios años desde que Kenshin decidió no esgrimir más su espada y decidió no volver a luchar. Otros personajes conocidos toman parte en esta parte, como Yahiko, que ha crecido hasta convertirse en un adulto. Kenshin y Kaoru se han casado y tienen un hijo llamado Kenji.\n\nLa conclusión de la historia de Kenshin, en la cual acosado por una grave enfermedad, toma la desición de dejar su familia para ir en una misión para redimirse de sus pecados como asesino.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rurouni-kenshin-seisouhen.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/rurouni-kenshin-seisouhen/",
+  "episodios": [
+    {
+      "id_origen": 13344,
+      "numero": 1,
+      "titulo": "Rurouni Kenshin: Seisouhen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d481fbe55e77099eef411a60f2d36fca.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin-seisouhen/1/",
+      "publicado_en_origen": "2011-12-03 01:35:30"
+    },
+    {
+      "id_origen": 13345,
+      "numero": 2,
+      "titulo": "Rurouni Kenshin: Seisouhen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57ed1337fe4fdf9c65ddaf8555a9a1bb.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin-seisouhen/2/",
+      "publicado_en_origen": "2011-12-03 01:35:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "456",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:44:15+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id_origen": 1645,
+  "slug": "akatsuki-no-yona-ova",
+  "titulo": "Akatsuki no Yona OVA",
+  "titulo_corto": "Akatsuki no Yona OVA",
+  "sinopsis": "Adapta dos capítulos de bonificación de volumen del 12 de manga, la historia sigue a un incidente en un hotel de aguas termales, mientras que Kija describe el pasado de Hakuryuu Kija.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/akatsuki-no-yona-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/akatsuki-no-yona-ova/",
+  "episodios": [
+    {
+      "id_origen": 29629,
+      "numero": 1,
+      "titulo": "Akatsuki no Yona OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35614900676f6c9858e0d34bfda57f56.jpg",
+      "url_origen": "https://jkanime.net/akatsuki-no-yona-ova/1/",
+      "publicado_en_origen": "2015-09-21 15:19:01"
+    },
+    {
+      "id_origen": 33769,
+      "numero": 2,
+      "titulo": "Akatsuki no Yona OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7d71ade2798157258a02f85221648e3.jpg",
+      "url_origen": "https://jkanime.net/akatsuki-no-yona-ova/2/",
+      "publicado_en_origen": "2016-12-27 13:23:55"
+    },
+    {
+      "id_origen": 33771,
+      "numero": 3,
+      "titulo": "Akatsuki no Yona OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7cffa284a0d3d40546080317906c45eb.jpg",
+      "url_origen": "https://jkanime.net/akatsuki-no-yona-ova/3/",
+      "publicado_en_origen": "2016-12-27 14:06:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1645",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:15:53+00:00"
+}

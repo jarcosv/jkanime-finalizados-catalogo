@@ -1,0 +1,29 @@
+{
+  "id_origen": 4596,
+  "slug": "kaibutsu-oujo-konsui-oujo",
+  "titulo": "Kaibutsu Oujo: Konsui Oujo",
+  "titulo_corto": "Kaibutsu Oujo: Konsui Oujo",
+  "sinopsis": "Episodio 26 incluido en el noveno volumen DVD de Kaibutsu Oujo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kaibutsu-oujo-konsui-oujo.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kaibutsu-oujo-konsui-oujo/",
+  "episodios": [
+    {
+      "id_origen": 70739,
+      "numero": 1,
+      "titulo": "Kaibutsu Oujo: Konsui Oujo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92fe01a739d69106f1bc66526172df1b.jpg",
+      "url_origen": "https://jkanime.net/kaibutsu-oujo-konsui-oujo/1/",
+      "publicado_en_origen": "2026-01-09 12:26:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4596",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:33:20+00:00"
+}

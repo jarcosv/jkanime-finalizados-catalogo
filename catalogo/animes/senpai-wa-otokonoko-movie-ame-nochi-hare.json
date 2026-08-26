@@ -1,0 +1,29 @@
+{
+  "id_origen": 4346,
+  "slug": "senpai-wa-otokonoko-movie-ame-nochi-hare",
+  "titulo": "Senpai wa Otokonoko Movie: Ame Nochi Hare",
+  "titulo_corto": "Senpai wa Otokonoko Movie: Ame...",
+  "sinopsis": "Pelicula Secuela de Senpai wa Otokonoko.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/senpai-wa-otokonoko-movie-ame-nochi-hare.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/senpai-wa-otokonoko-movie-ame-nochi-hare/",
+  "episodios": [
+    {
+      "id_origen": 67261,
+      "numero": 1,
+      "titulo": "Senpai wa Otokonoko Movie: Ame Nochi Hare",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12966d14b13651028351163654c804b4.jpg",
+      "url_origen": "https://jkanime.net/senpai-wa-otokonoko-movie-ame-nochi-hare/1/",
+      "publicado_en_origen": "2025-08-29 17:21:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4346",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:45:39+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1080,
+  "slug": "kara-no-kyoukai-mirai-fukuin",
+  "titulo": "Kara no Kyoukai: Mirai Fukuin",
+  "titulo_corto": "Kara no Kyoukai: Mirai Fukuin",
+  "sinopsis": "Kara no Kyoukai: Mirai Fukuin, dividida en dos historias cortas. Möbius ring: Protagonizada por dos físicos llamados Seo Shizune y Kuramitsu Meruka que pueden ver el futuro. Möbius link: Se desarrolla diez años después de Kara no Kyoukai y donde conocemos a Mana Ryougi, hija de Shiki, que se pasa el día con Kamekura Mitsuru.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kara-no-kyoukai-mirai-fukuin.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kara-no-kyoukai-mirai-fukuin/",
+  "episodios": [
+    {
+      "id_origen": 22890,
+      "numero": 1,
+      "titulo": "Kara no Kyoukai: Mirai Fukuin",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11f2a3ff355c975cb1e3a6e538fdf9bc.jpg",
+      "url_origen": "https://jkanime.net/kara-no-kyoukai-mirai-fukuin/1/",
+      "publicado_en_origen": "2014-03-07 01:00:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1080",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:34:00+00:00"
+}

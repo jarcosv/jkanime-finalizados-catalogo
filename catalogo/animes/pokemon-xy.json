@@ -1,0 +1,765 @@
+{
+  "id_origen": 989,
+  "slug": "pokemon-xy",
+  "titulo": "Pokemon XY",
+  "titulo_corto": "Pokemon XY",
+  "sinopsis": "Satoshi y Pikachu se dirigen a Miare ciudad en el centro de la region Kalos. Allí encontrara un Pokémon que nunca antes lo ha vistos y tambien conocera nuevos amigos. Así empieza esta nueva aventura como Satoshi se enfrenta a la Liga Kalos",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-xy.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pokemon-xy/",
+  "episodios": [
+    {
+      "id_origen": 21869,
+      "numero": 0,
+      "titulo": "Pokemon XY - 0",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2009556541dfee38d822cf642d80b8c.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/0/",
+      "publicado_en_origen": "2013-11-01 12:56:48"
+    },
+    {
+      "id_origen": 21769,
+      "numero": 1,
+      "titulo": "Pokemon XY - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4aa4ea2242e37a3ccc67f8516fb21ecd.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/1/",
+      "publicado_en_origen": "2013-10-18 18:16:22"
+    },
+    {
+      "id_origen": 21773,
+      "numero": 2,
+      "titulo": "Pokemon XY - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_def2faa67d054cf3fa30ba0648eccb34.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/2/",
+      "publicado_en_origen": "2013-10-19 13:06:11"
+    },
+    {
+      "id_origen": 21816,
+      "numero": 3,
+      "titulo": "Pokemon XY - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a93e014eafe8cbab4f4d54ee030ad66.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/3/",
+      "publicado_en_origen": "2013-10-25 05:02:59"
+    },
+    {
+      "id_origen": 21886,
+      "numero": 4,
+      "titulo": "Pokemon XY - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_009b43fb969ff1c89f0a919d33b70ecf.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/4/",
+      "publicado_en_origen": "2013-11-03 13:22:02"
+    },
+    {
+      "id_origen": 21928,
+      "numero": 5,
+      "titulo": "Pokemon XY - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d903dac23bd0b6d6566a702fe7f96f84.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/5/",
+      "publicado_en_origen": "2013-11-09 13:45:23"
+    },
+    {
+      "id_origen": 21974,
+      "numero": 6,
+      "titulo": "Pokemon XY - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6a2c4d36d6a52cadca1dfeca545afb0.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/6/",
+      "publicado_en_origen": "2013-11-15 19:46:12"
+    },
+    {
+      "id_origen": 22031,
+      "numero": 7,
+      "titulo": "Pokemon XY - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb4ccb5a339da7a1f01b8f9688896b65.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/7/",
+      "publicado_en_origen": "2013-11-23 13:19:20"
+    },
+    {
+      "id_origen": 22087,
+      "numero": 8,
+      "titulo": "Pokemon XY - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e1ddc294fde5896865dd30b1912c8a0.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/8/",
+      "publicado_en_origen": "2013-11-30 23:39:19"
+    },
+    {
+      "id_origen": 22150,
+      "numero": 9,
+      "titulo": "Pokemon XY - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60ba700c9dd92b672db59eb30bf91896.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/9/",
+      "publicado_en_origen": "2013-12-08 22:58:02"
+    },
+    {
+      "id_origen": 22206,
+      "numero": 10,
+      "titulo": "Pokemon XY - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21f8d34ed55cc8487885b771aec87f50.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/10/",
+      "publicado_en_origen": "2013-12-15 15:20:06"
+    },
+    {
+      "id_origen": 22249,
+      "numero": 11,
+      "titulo": "Pokemon XY - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_700bd04bff3c163ba03a7c2ac16bb560.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/11/",
+      "publicado_en_origen": "2013-12-20 23:26:58"
+    },
+    {
+      "id_origen": 22403,
+      "numero": 12,
+      "titulo": "Pokemon XY - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2051430a15d3d44d5dd81ef133b61908.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/12/",
+      "publicado_en_origen": "2014-01-11 00:27:45"
+    },
+    {
+      "id_origen": 22463,
+      "numero": 13,
+      "titulo": "Pokemon XY - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59bf3958a6ff253e596c3a9bb9ecd1f2.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/13/",
+      "publicado_en_origen": "2014-01-17 16:05:15"
+    },
+    {
+      "id_origen": 22578,
+      "numero": 14,
+      "titulo": "Pokemon XY - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e6a4217e8a7391fdc7e89a120fe5d86.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/14/",
+      "publicado_en_origen": "2014-01-31 13:46:19"
+    },
+    {
+      "id_origen": 22654,
+      "numero": 15,
+      "titulo": "Pokemon XY - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5e48462a4b1598a5ad81fbdac50ed23.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/15/",
+      "publicado_en_origen": "2014-02-08 20:32:26"
+    },
+    {
+      "id_origen": 22708,
+      "numero": 16,
+      "titulo": "Pokemon XY - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aab9221ab2571018f276769b93ddcb60.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/16/",
+      "publicado_en_origen": "2014-02-14 07:49:37"
+    },
+    {
+      "id_origen": 22771,
+      "numero": 17,
+      "titulo": "Pokemon XY - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93340b9f07438b9d11154ca439351b16.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/17/",
+      "publicado_en_origen": "2014-02-22 00:00:50"
+    },
+    {
+      "id_origen": 22837,
+      "numero": 18,
+      "titulo": "Pokemon XY - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b162dd99a6b956cd87749ccccc279373.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/18/",
+      "publicado_en_origen": "2014-03-01 09:25:46"
+    },
+    {
+      "id_origen": 22955,
+      "numero": 19,
+      "titulo": "Pokemon XY - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8132c4bd0e503a33e9f5139f216d4c82.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/19/",
+      "publicado_en_origen": "2014-03-14 12:14:49"
+    },
+    {
+      "id_origen": 23037,
+      "numero": 20,
+      "titulo": "Pokemon XY - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c2aeb849fab47239887f8bf9c8e6278.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/20/",
+      "publicado_en_origen": "2014-03-22 09:06:45"
+    },
+    {
+      "id_origen": 23092,
+      "numero": 21,
+      "titulo": "Pokemon XY - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f418185daf34ef61913e33895a0f8996.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/21/",
+      "publicado_en_origen": "2014-03-28 23:19:14"
+    },
+    {
+      "id_origen": 23189,
+      "numero": 22,
+      "titulo": "Pokemon XY - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e02c190c1158d58c19ba6dceb02a5b8.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/22/",
+      "publicado_en_origen": "2014-04-11 20:41:44"
+    },
+    {
+      "id_origen": 23244,
+      "numero": 23,
+      "titulo": "Pokemon XY - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f566d40129873e5c1fccede4a4e0a92.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/23/",
+      "publicado_en_origen": "2014-04-18 13:35:54"
+    },
+    {
+      "id_origen": 25516,
+      "numero": 24,
+      "titulo": "Pokemon XY - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_902b29421f11bea0bec33126f1c34112.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/24/",
+      "publicado_en_origen": "2014-11-20 22:07:02"
+    },
+    {
+      "id_origen": 23315,
+      "numero": 25,
+      "titulo": "Pokemon XY - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f95b0d66a5c300fb374e8af7a3e651f2.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/25/",
+      "publicado_en_origen": "2014-04-25 00:39:59"
+    },
+    {
+      "id_origen": 23443,
+      "numero": 26,
+      "titulo": "Pokemon XY - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f92f63172a3f74ff5261c053eb025d5e.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/26/",
+      "publicado_en_origen": "2014-05-10 11:45:59"
+    },
+    {
+      "id_origen": 23495,
+      "numero": 27,
+      "titulo": "Pokemon XY - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_658291350529ba8278ee3c743f7fcd95.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/27/",
+      "publicado_en_origen": "2014-05-16 16:06:01"
+    },
+    {
+      "id_origen": 23560,
+      "numero": 28,
+      "titulo": "Pokemon XY - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_befa130dcb31961fa251d61e1e6ba0e1.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/28/",
+      "publicado_en_origen": "2014-05-24 11:41:13"
+    },
+    {
+      "id_origen": 23655,
+      "numero": 29,
+      "titulo": "Pokemon XY - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64055d56367c68545b1ad9b86faee20c.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/29/",
+      "publicado_en_origen": "2014-06-03 16:24:23"
+    },
+    {
+      "id_origen": 23661,
+      "numero": 30,
+      "titulo": "Pokemon XY - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71774466490cfece06c4c11b345dc5b2.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/30/",
+      "publicado_en_origen": "2014-06-04 22:45:56"
+    },
+    {
+      "id_origen": 23725,
+      "numero": 31,
+      "titulo": "Pokemon XY - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ace141f8779c77b60cdc66fa22da900.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/31/",
+      "publicado_en_origen": "2014-06-12 16:27:04"
+    },
+    {
+      "id_origen": 23760,
+      "numero": 32,
+      "titulo": "Pokemon XY - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bd90fed98b9f7f1e9024b13e758c45a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/32/",
+      "publicado_en_origen": "2014-06-16 23:56:15"
+    },
+    {
+      "id_origen": 23789,
+      "numero": 33,
+      "titulo": "Pokemon XY - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70c278e66c9bc7683f0ad2748f694b43.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/33/",
+      "publicado_en_origen": "2014-06-20 23:03:52"
+    },
+    {
+      "id_origen": 23883,
+      "numero": 34,
+      "titulo": "Pokemon XY - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8bb6fe84b8bba85343f415936f15e878.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/34/",
+      "publicado_en_origen": "2014-07-05 12:31:09"
+    },
+    {
+      "id_origen": 23963,
+      "numero": 35,
+      "titulo": "Pokemon XY - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0958560bd45062d115debadb6bca3183.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/35/",
+      "publicado_en_origen": "2014-07-11 17:52:57"
+    },
+    {
+      "id_origen": 24094,
+      "numero": 36,
+      "titulo": "Pokemon XY - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c3af53f6554ac306d481a872a47fb83.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/36/",
+      "publicado_en_origen": "2014-07-26 07:17:46"
+    },
+    {
+      "id_origen": 24169,
+      "numero": 37,
+      "titulo": "Pokemon XY - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e59dbe69c119b5d59e91b9b630dadc05.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/37/",
+      "publicado_en_origen": "2014-08-02 23:08:02"
+    },
+    {
+      "id_origen": 24246,
+      "numero": 38,
+      "titulo": "Pokemon XY - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10546c16ec9ebc986df26bfb41045e87.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/38/",
+      "publicado_en_origen": "2014-08-08 14:29:30"
+    },
+    {
+      "id_origen": 24437,
+      "numero": 39,
+      "titulo": "Pokemon XY - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49de3763a2a8e2ce3d9ff78447e3d5a9.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/39/",
+      "publicado_en_origen": "2014-08-14 22:27:22"
+    },
+    {
+      "id_origen": 24532,
+      "numero": 40,
+      "titulo": "Pokemon XY - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb28374f4802e292833308d4ce74b69f.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/40/",
+      "publicado_en_origen": "2014-08-24 12:13:53"
+    },
+    {
+      "id_origen": 24587,
+      "numero": 41,
+      "titulo": "Pokemon XY - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbe2b7e940f999dbd70a13eb1da19ea1.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/41/",
+      "publicado_en_origen": "2014-08-30 16:31:51"
+    },
+    {
+      "id_origen": 24653,
+      "numero": 42,
+      "titulo": "Pokemon XY - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7d830edc4a6aeedf2cb507fef77ec8d.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/42/",
+      "publicado_en_origen": "2014-09-05 19:27:15"
+    },
+    {
+      "id_origen": 24806,
+      "numero": 43,
+      "titulo": "Pokemon XY - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59af62180b0d04edd54a5f5ace7fb433.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/43/",
+      "publicado_en_origen": "2014-09-19 14:39:23"
+    },
+    {
+      "id_origen": 24913,
+      "numero": 44,
+      "titulo": "Pokemon XY - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76156affbdaee88e92d5a2f7b57ada1d.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/44/",
+      "publicado_en_origen": "2014-09-25 20:18:25"
+    },
+    {
+      "id_origen": 24977,
+      "numero": 45,
+      "titulo": "Pokemon XY - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c114c9bb7c90c3ffbfb1ddd86ab9cda.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/45/",
+      "publicado_en_origen": "2014-10-03 15:20:57"
+    },
+    {
+      "id_origen": 25049,
+      "numero": 46,
+      "titulo": "Pokemon XY - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8e603d849ea18c9269c090d2f0541b4.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/46/",
+      "publicado_en_origen": "2014-10-10 23:34:37"
+    },
+    {
+      "id_origen": 25116,
+      "numero": 47,
+      "titulo": "Pokemon XY - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f22e82f3d2c279d57c76a0513276abb.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/47/",
+      "publicado_en_origen": "2014-10-17 17:57:37"
+    },
+    {
+      "id_origen": 25188,
+      "numero": 48,
+      "titulo": "Pokemon XY - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50ccd9ce8ab9c878d0de43f569416343.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/48/",
+      "publicado_en_origen": "2014-10-24 21:00:57"
+    },
+    {
+      "id_origen": 25256,
+      "numero": 49,
+      "titulo": "Pokemon XY - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbadca995530ba3c915c375b8a110b77.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/49/",
+      "publicado_en_origen": "2014-10-31 15:03:32"
+    },
+    {
+      "id_origen": 25408,
+      "numero": 50,
+      "titulo": "Pokemon XY - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ed1be6891233bdf909b1290a1550ba9.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/50/",
+      "publicado_en_origen": "2014-11-14 17:40:33"
+    },
+    {
+      "id_origen": 25597,
+      "numero": 51,
+      "titulo": "Pokemon XY - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c89723a453df9b658bda9530b3b8f2f0.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/51/",
+      "publicado_en_origen": "2014-11-28 14:16:53"
+    },
+    {
+      "id_origen": 25796,
+      "numero": 52,
+      "titulo": "Pokemon XY - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f94dc570a5b16dc8e85fe4bdd0b8099.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/52/",
+      "publicado_en_origen": "2014-12-13 14:17:50"
+    },
+    {
+      "id_origen": 25854,
+      "numero": 53,
+      "titulo": "Pokemon XY - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b82e68e6366d4177332acdf3fa4d1e3a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/53/",
+      "publicado_en_origen": "2014-12-18 22:42:06"
+    },
+    {
+      "id_origen": 26015,
+      "numero": 54,
+      "titulo": "Pokemon XY - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b606c5849811a2d8b92b8f4e6391fd7.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/54/",
+      "publicado_en_origen": "2014-12-26 23:54:39"
+    },
+    {
+      "id_origen": 26345,
+      "numero": 55,
+      "titulo": "Pokemon XY - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04ab1f885b52adc7a11278073b3c4f74.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/55/",
+      "publicado_en_origen": "2015-01-09 23:46:08"
+    },
+    {
+      "id_origen": 26395,
+      "numero": 56,
+      "titulo": "Pokemon XY - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58a3c88f8354d4464ad552a6ab7ce400.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/56/",
+      "publicado_en_origen": "2015-01-15 19:34:54"
+    },
+    {
+      "id_origen": 26454,
+      "numero": 57,
+      "titulo": "Pokemon XY - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cae15bbdd73dc7a84ee786318022fc8.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/57/",
+      "publicado_en_origen": "2015-01-23 00:51:54"
+    },
+    {
+      "id_origen": 26542,
+      "numero": 58,
+      "titulo": "Pokemon XY - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf577c93108e7dcf27f7905e65933d18.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/58/",
+      "publicado_en_origen": "2015-01-30 00:59:12"
+    },
+    {
+      "id_origen": 26600,
+      "numero": 59,
+      "titulo": "Pokemon XY - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_958bb6bd458626ce4add509077f3c5df.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/59/",
+      "publicado_en_origen": "2015-02-05 22:53:10"
+    },
+    {
+      "id_origen": 26723,
+      "numero": 60,
+      "titulo": "Pokemon XY - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_254025c5ad2d9f37b70367cb14bf5428.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/60/",
+      "publicado_en_origen": "2015-02-13 11:25:39"
+    },
+    {
+      "id_origen": 26786,
+      "numero": 61,
+      "titulo": "Pokemon XY - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a38c30b2766c4353d929a8afe1f2e831.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/61/",
+      "publicado_en_origen": "2015-02-20 10:27:09"
+    },
+    {
+      "id_origen": 26915,
+      "numero": 62,
+      "titulo": "Pokemon XY - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1533e368c21be061fac64ad083b5f8c1.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/62/",
+      "publicado_en_origen": "2015-02-26 23:17:53"
+    },
+    {
+      "id_origen": 26969,
+      "numero": 63,
+      "titulo": "Pokemon XY - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e26fef09eac8c8bc6d5e0a783a1cf45b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/63/",
+      "publicado_en_origen": "2015-03-05 22:27:34"
+    },
+    {
+      "id_origen": 27031,
+      "numero": 64,
+      "titulo": "Pokemon XY - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ecc65c44282f1ad4bfa9ca7bf4d0a37.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/64/",
+      "publicado_en_origen": "2015-03-12 23:56:42"
+    },
+    {
+      "id_origen": 27237,
+      "numero": 65,
+      "titulo": "Pokemon XY - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62cd381bcb4bf2191c555395945e4c09.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/65/",
+      "publicado_en_origen": "2015-03-26 19:55:38"
+    },
+    {
+      "id_origen": 27358,
+      "numero": 66,
+      "titulo": "Pokemon XY - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9dea138c163d3848eb62fc0804c8738.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/66/",
+      "publicado_en_origen": "2015-04-02 22:54:54"
+    },
+    {
+      "id_origen": 27430,
+      "numero": 67,
+      "titulo": "Pokemon XY - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bd6a2a0403d0b5c3157bae3ac4fc601.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/67/",
+      "publicado_en_origen": "2015-04-09 16:10:01"
+    },
+    {
+      "id_origen": 27498,
+      "numero": 68,
+      "titulo": "Pokemon XY - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_273e78ede0ff68fcf04aa41a3dd8d36b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/68/",
+      "publicado_en_origen": "2015-04-16 14:28:08"
+    },
+    {
+      "id_origen": 27565,
+      "numero": 69,
+      "titulo": "Pokemon XY - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c73b2ece3c47d44d3579a75ece205595.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/69/",
+      "publicado_en_origen": "2015-04-23 13:49:30"
+    },
+    {
+      "id_origen": 27634,
+      "numero": 70,
+      "titulo": "Pokemon XY - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e8d386863a55823db6767a73dcdd8f6.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/70/",
+      "publicado_en_origen": "2015-04-30 17:39:23"
+    },
+    {
+      "id_origen": 27695,
+      "numero": 71,
+      "titulo": "Pokemon XY - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c57857bd7e842ed47c5102720ab3db8.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/71/",
+      "publicado_en_origen": "2015-05-07 16:37:54"
+    },
+    {
+      "id_origen": 27752,
+      "numero": 72,
+      "titulo": "Pokemon XY - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f816fdcb111b79750431ce758e283ead.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/72/",
+      "publicado_en_origen": "2015-05-14 15:05:21"
+    },
+    {
+      "id_origen": 27819,
+      "numero": 73,
+      "titulo": "Pokemon XY - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e10bb16c9fc310f560d696ca955e9e03.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/73/",
+      "publicado_en_origen": "2015-05-21 15:19:33"
+    },
+    {
+      "id_origen": 27887,
+      "numero": 74,
+      "titulo": "Pokemon XY - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d382a5fec7012c843c1bdfb0935c9a6.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/74/",
+      "publicado_en_origen": "2015-05-28 17:42:30"
+    },
+    {
+      "id_origen": 27948,
+      "numero": 75,
+      "titulo": "Pokemon XY - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2320cc311e948c73c192f8b63d1ffab1.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/75/",
+      "publicado_en_origen": "2015-06-04 18:04:50"
+    },
+    {
+      "id_origen": 28208,
+      "numero": 76,
+      "titulo": "Pokemon XY - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a47878d8262fec7042a338488ccb1b4a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/76/",
+      "publicado_en_origen": "2015-06-11 14:14:13"
+    },
+    {
+      "id_origen": 28485,
+      "numero": 77,
+      "titulo": "Pokemon XY - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1046b70c80e922db36d9b2d6f733ce52.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/77/",
+      "publicado_en_origen": "2015-06-18 17:17:15"
+    },
+    {
+      "id_origen": 28561,
+      "numero": 78,
+      "titulo": "Pokemon XY - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b29c5090440079d0121f4973000eeba5.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/78/",
+      "publicado_en_origen": "2015-06-25 17:19:08"
+    },
+    {
+      "id_origen": 28603,
+      "numero": 79,
+      "titulo": "Pokemon XY - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b32107d42e4b4f4b0ebb1e4ed1d7c28.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/79/",
+      "publicado_en_origen": "2015-07-02 15:04:50"
+    },
+    {
+      "id_origen": 28669,
+      "numero": 80,
+      "titulo": "Pokemon XY - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2210bc8c8682f678d552ff7add41b418.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/80/",
+      "publicado_en_origen": "2015-07-09 15:14:40"
+    },
+    {
+      "id_origen": 28802,
+      "numero": 81,
+      "titulo": "Pokemon XY - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb08c37d8dfe48bda56f8b6c1c96b955.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/81/",
+      "publicado_en_origen": "2015-07-23 16:37:09"
+    },
+    {
+      "id_origen": 28868,
+      "numero": 82,
+      "titulo": "Pokemon XY - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2679bd294eecba09a5de65ee3621198f.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/82/",
+      "publicado_en_origen": "2015-07-30 17:40:39"
+    },
+    {
+      "id_origen": 28991,
+      "numero": 83,
+      "titulo": "Pokemon XY - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ec3d867002e7da0e75c898a89bc4097.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/83/",
+      "publicado_en_origen": "2015-08-13 17:09:21"
+    },
+    {
+      "id_origen": 29057,
+      "numero": 84,
+      "titulo": "Pokemon XY - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8f656b73252c75518351df0289a43cc.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/84/",
+      "publicado_en_origen": "2015-08-20 16:08:44"
+    },
+    {
+      "id_origen": 29129,
+      "numero": 85,
+      "titulo": "Pokemon XY - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55f16320eb523947f12d2e94d9630c6e.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/85/",
+      "publicado_en_origen": "2015-08-27 17:33:16"
+    },
+    {
+      "id_origen": 29340,
+      "numero": 86,
+      "titulo": "Pokemon XY - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49129551dac6241eb7d1f601f058679b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/86/",
+      "publicado_en_origen": "2015-09-10 23:59:28"
+    },
+    {
+      "id_origen": 29584,
+      "numero": 87,
+      "titulo": "Pokemon XY - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95e38e97a6e3ae6c4098033e4d83abf9.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/87/",
+      "publicado_en_origen": "2015-09-17 17:14:51"
+    },
+    {
+      "id_origen": 29676,
+      "numero": 88,
+      "titulo": "Pokemon XY - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dba595edc1e3c2214ed62c128944c932.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/88/",
+      "publicado_en_origen": "2015-09-28 12:46:22"
+    },
+    {
+      "id_origen": 29688,
+      "numero": 89,
+      "titulo": "Pokemon XY - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_967d1576e70c8f8649702b974e035744.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/89/",
+      "publicado_en_origen": "2015-10-01 15:52:53"
+    },
+    {
+      "id_origen": 29754,
+      "numero": 90,
+      "titulo": "Pokemon XY - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ab50f2d01ea2c3fa94e6faeb2142de3.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/90/",
+      "publicado_en_origen": "2015-10-08 15:58:13"
+    },
+    {
+      "id_origen": 29819,
+      "numero": 91,
+      "titulo": "Pokemon XY - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc18000b67cb813af111404b90b21019.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/91/",
+      "publicado_en_origen": "2015-10-15 17:10:59"
+    },
+    {
+      "id_origen": 29881,
+      "numero": 92,
+      "titulo": "Pokemon XY - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_197410d59aa228e0c9af78e1950d2381.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy/92/",
+      "publicado_en_origen": "2015-10-22 15:55:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "989",
+  "cantidad_episodios_declarada": 93,
+  "detalle_extraido_en": "2026-08-26T18:42:38+00:00"
+}

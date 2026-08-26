@@ -1,0 +1,61 @@
+{
+  "id_origen": 3310,
+  "slug": "gokushufudou-season-2",
+  "titulo": "Gokushufudou Season 2",
+  "titulo_corto": "Gokushufudou Season 2",
+  "sinopsis": "Segunda temporada de Gokushufudou",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gokushufudou-season-2.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gokushufudou-season-2/",
+  "episodios": [
+    {
+      "id_origen": 51488,
+      "numero": 1,
+      "titulo": "Gokushufudou Season 2 - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63baaf2ab8866b79cd3950f5ff6d4d70.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou-season-2/1/",
+      "publicado_en_origen": "2023-01-04 22:31:36"
+    },
+    {
+      "id_origen": 51489,
+      "numero": 2,
+      "titulo": "Gokushufudou Season 2 - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b987db6cd0118c059072675e973929e0.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou-season-2/2/",
+      "publicado_en_origen": "2023-01-04 22:31:40"
+    },
+    {
+      "id_origen": 51490,
+      "numero": 3,
+      "titulo": "Gokushufudou Season 2 - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55609994a504a016db606bcd5533b969.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou-season-2/3/",
+      "publicado_en_origen": "2023-01-04 22:31:43"
+    },
+    {
+      "id_origen": 51491,
+      "numero": 4,
+      "titulo": "Gokushufudou Season 2 - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c870b0bc35fcff123bfd6fbb2cf37c26.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou-season-2/4/",
+      "publicado_en_origen": "2023-01-04 22:31:46"
+    },
+    {
+      "id_origen": 51492,
+      "numero": 5,
+      "titulo": "Gokushufudou Season 2 - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3dd8cc1e1c3a72f3c09d867c3bb2f72e.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou-season-2/5/",
+      "publicado_en_origen": "2023-01-04 22:31:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3310",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:28:51+00:00"
+}

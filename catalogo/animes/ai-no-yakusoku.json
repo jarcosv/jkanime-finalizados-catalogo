@@ -1,0 +1,29 @@
+{
+  "id_origen": 4877,
+  "slug": "ai-no-yakusoku",
+  "titulo": "Ai no Yakusoku",
+  "titulo_corto": "Ai no Yakusoku",
+  "sinopsis": "La historia sigue a un joven que termina atrapado en un lugar mágico e inmortal. Este misterioso entorno está habitado únicamente por una solitaria bruja. A medida que interactúan, se desarrolla un profundo vínculo emocional y una promesa entre ambos. Sin embargo, la trama oculta un gran secreto sobre el origen de ese mundo, cerrando con un giro argumental inesperado que obliga a reevaluar todo lo que se ha visto",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ai-no-yakusoku.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ai-no-yakusoku/",
+  "episodios": [
+    {
+      "id_origen": 75387,
+      "numero": 1,
+      "titulo": "Ai no Yakusoku",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7724c0fa89c18f72b0f1af710a892a5f.jpg",
+      "url_origen": "https://jkanime.net/ai-no-yakusoku/1/",
+      "publicado_en_origen": "2026-07-24 16:49:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:32+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4877",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:15:25+00:00"
+}

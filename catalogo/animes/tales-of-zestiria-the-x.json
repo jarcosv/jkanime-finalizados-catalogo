@@ -1,0 +1,125 @@
+{
+  "id_origen": 1851,
+  "slug": "tales-of-zestiria-the-x",
+  "titulo": "Tales of Zestiria the X",
+  "titulo_corto": "Tales of Zestiria the X",
+  "sinopsis": "En Tales of Zestiria the X el protagonista es un Pastor que tiene el sueño de que humanos y serafines vivan en armonía. También posee una importante misión: borrar todas las calamidades de la faz de la tierra. Él adquiere este compromiso tras quitar de una piedra una legendaria espada.\n\nEl grupo de aventuras de Sorey está compuesto por un serafín llamado Mikleo, una princesa de nombre Alisha, una guerrera llamada Rose, entre otros personajes que se destacan en el videojuego.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tales-of-zestiria-the-x.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/",
+  "episodios": [
+    {
+      "id_origen": 31961,
+      "numero": 1,
+      "titulo": "Tales of Zestiria the X - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8069a0ddc3a9e6fbcce919955738fc73.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/1/",
+      "publicado_en_origen": "2016-07-03 14:27:41"
+    },
+    {
+      "id_origen": 32269,
+      "numero": 2,
+      "titulo": "Tales of Zestiria the X - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8158fa3e4de806e614f7ff02e7b22fde.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/2/",
+      "publicado_en_origen": "2016-07-10 13:54:37"
+    },
+    {
+      "id_origen": 32323,
+      "numero": 3,
+      "titulo": "Tales of Zestiria the X - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f6eb0809f31e88067e51bfd2bb0c50e.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/3/",
+      "publicado_en_origen": "2016-07-17 13:20:44"
+    },
+    {
+      "id_origen": 32381,
+      "numero": 4,
+      "titulo": "Tales of Zestiria the X - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc95aa39a060194468cf78fa7dc1cb99.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/4/",
+      "publicado_en_origen": "2016-07-24 13:17:59"
+    },
+    {
+      "id_origen": 32439,
+      "numero": 5,
+      "titulo": "Tales of Zestiria the X - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b4e82cb855801d7098534835e2ca260.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/5/",
+      "publicado_en_origen": "2016-07-31 13:14:38"
+    },
+    {
+      "id_origen": 32496,
+      "numero": 6,
+      "titulo": "Tales of Zestiria the X - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3116cab8fe07b8045c68492c5f43682.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/6/",
+      "publicado_en_origen": "2016-08-07 13:46:28"
+    },
+    {
+      "id_origen": 32547,
+      "numero": 7,
+      "titulo": "Tales of Zestiria the X - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8423dd87983400be28badfcfaed92b99.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/7/",
+      "publicado_en_origen": "2016-08-14 13:24:47"
+    },
+    {
+      "id_origen": 32602,
+      "numero": 8,
+      "titulo": "Tales of Zestiria the X - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e143deaaa05532392f9ab5ca2af8fd2c.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/8/",
+      "publicado_en_origen": "2016-08-21 13:21:41"
+    },
+    {
+      "id_origen": 32655,
+      "numero": 9,
+      "titulo": "Tales of Zestiria the X - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87fdd4edd5d7ca54f73bb1844e7ef7b5.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/9/",
+      "publicado_en_origen": "2016-08-28 13:13:53"
+    },
+    {
+      "id_origen": 32710,
+      "numero": 10,
+      "titulo": "Tales of Zestiria the X - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2611fdd1a2a998be4d3af1466d41d9d1.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/10/",
+      "publicado_en_origen": "2016-09-04 13:33:03"
+    },
+    {
+      "id_origen": 32766,
+      "numero": 11,
+      "titulo": "Tales of Zestiria the X - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2704910c10c56a7b11432fb3c698f10c.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/11/",
+      "publicado_en_origen": "2016-09-11 13:18:11"
+    },
+    {
+      "id_origen": 32816,
+      "numero": 12,
+      "titulo": "Tales of Zestiria the X - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a27685d602a50fe587c4ab6cfb07d90.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/12/",
+      "publicado_en_origen": "2016-09-18 13:39:52"
+    },
+    {
+      "id_origen": 32879,
+      "numero": 13,
+      "titulo": "Tales of Zestiria the X - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb57ba36db3faf9723fcfeade897b7fb.jpg",
+      "url_origen": "https://jkanime.net/tales-of-zestiria-the-x/13/",
+      "publicado_en_origen": "2016-09-25 14:14:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1851",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:48:30+00:00"
+}

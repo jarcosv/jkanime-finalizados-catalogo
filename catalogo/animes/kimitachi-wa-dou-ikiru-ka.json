@@ -1,0 +1,29 @@
+{
+  "id_origen": 3814,
+  "slug": "kimitachi-wa-dou-ikiru-ka",
+  "titulo": "Kimitachi wa Dou Ikiru ka",
+  "titulo_corto": "Kimitachi wa Dou Ikiru ka",
+  "sinopsis": "Mahito, un chico de 12 años, lucha por asentarse en una nueva ciudad tras la muerte de su madre. Sin embargo, cuando una garza parlante informa a Mahito de que su madre sigue viva, entra en una torre abandonada en su búsqueda y llega a otro mundo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimitachi-wa-dou-ikiru-ka.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimitachi-wa-dou-ikiru-ka/",
+  "episodios": [
+    {
+      "id_origen": 57772,
+      "numero": 1,
+      "titulo": "Kimitachi wa Dou Ikiru ka",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb0bc4856089e1a21c5ae44e355ba9bd.jpg",
+      "url_origen": "https://jkanime.net/kimitachi-wa-dou-ikiru-ka/1/",
+      "publicado_en_origen": "2024-07-01 11:21:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3814",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:34:50+00:00"
+}

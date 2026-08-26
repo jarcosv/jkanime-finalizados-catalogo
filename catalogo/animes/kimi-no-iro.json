@@ -1,0 +1,29 @@
+{
+  "id_origen": 4434,
+  "slug": "kimi-no-iro",
+  "titulo": "Kimi no Iro",
+  "titulo_corto": "Kimi no Iro",
+  "sinopsis": "Totsuko es una estudiante de secundaria con la capacidad de ver los «colores» de los demás. Colores de felicidad, emoción y serenidad, además de un color que ella atesora como su favorito. Kimi, una compañera de clase de su escuela, emite el color más hermoso de todos. Aunque no toca ningún instrumento, Totsuko forma una banda con Kimi y Rui, un tranquilo entusiasta de la música que conocen en una librería de segunda mano en un rincón alejado de la ciudad. Mientras ensayan en una antigua iglesia de una isla remota, la música las une, forjando amistades y despertando afectos. ¿Descubrirán sus verdaderos colores?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimi-no-iro.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimi-no-iro/",
+  "episodios": [
+    {
+      "id_origen": 68495,
+      "numero": 1,
+      "titulo": "Kimi no Iro",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5838fd80751a8085295326c649e1c00.jpg",
+      "url_origen": "https://jkanime.net/kimi-no-iro/1/",
+      "publicado_en_origen": "2025-11-05 00:37:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4434",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:34:41+00:00"
+}

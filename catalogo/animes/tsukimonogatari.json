@@ -1,0 +1,53 @@
+{
+  "id_origen": 1390,
+  "slug": "tsukimonogatari",
+  "titulo": "Tsukimonogatari",
+  "titulo_corto": "Tsukimonogatari",
+  "sinopsis": "Después de los acontecimientos de Hitagi End, Araragi está tratando de centrarse en el estudio para el examen de ingreso a la universidad. Una mañana, mirando el espejo en el baño, Araragi descubre que no puede ver su reflejo en el espejo, un fenómeno que sólo los verdaderos vampiros tienen. Él habla con Shinobu sobre este problema y ella sugiere preguntar al experto que se especializa en excentricidades inmortales, Kagenui Yozuru y su familiar Ononoki Yotsugi.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tsukimonogatari.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tsukimonogatari/",
+  "episodios": [
+    {
+      "id_origen": 26177,
+      "numero": 1,
+      "titulo": "Tsukimonogatari - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4fd263bb699f424cdb6a662af0049b2.jpg",
+      "url_origen": "https://jkanime.net/tsukimonogatari/1/",
+      "publicado_en_origen": "2014-12-31 13:32:57"
+    },
+    {
+      "id_origen": 26178,
+      "numero": 2,
+      "titulo": "Tsukimonogatari - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9548a849d4020dd032ed0e00301d240f.jpg",
+      "url_origen": "https://jkanime.net/tsukimonogatari/2/",
+      "publicado_en_origen": "2014-12-31 14:43:14"
+    },
+    {
+      "id_origen": 26179,
+      "numero": 3,
+      "titulo": "Tsukimonogatari - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5872043836c3d79e59d2ad6886918bfd.jpg",
+      "url_origen": "https://jkanime.net/tsukimonogatari/3/",
+      "publicado_en_origen": "2014-12-31 15:43:46"
+    },
+    {
+      "id_origen": 26180,
+      "numero": 4,
+      "titulo": "Tsukimonogatari - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cb2c784110fa31d56c0d67b36d19cab.jpg",
+      "url_origen": "https://jkanime.net/tsukimonogatari/4/",
+      "publicado_en_origen": "2014-12-31 16:34:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:48+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1390",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:50:43+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 4883,
+  "slug": "omoide-poroporo",
+  "titulo": "Omoide Poroporo",
+  "titulo_corto": "Omoide Poroporo",
+  "sinopsis": "Taeko Okajima es una mujer independiente de 27 años que ha pasado toda su vida en Tokio. Con ganas de desconectar del ajetreo de la gran ciudad, decide visitar a su familia en el campo para echarles una mano durante la cosecha.\r\n\r\nEn el tren que la lleva hasta allí, Taeko rememora vívidamente sus recuerdos de cuando era una colegiala en los primeros años de la pubertad, como si estuviera de viaje con su yo infantil. Un joven granjero llamado Toshio la recoge en la estación y enseguida entablan amistad. Durante su estancia, Taeko establece fuertes lazos con su familia y amigos, y descubre los contrastes entre la vida urbana y la rural, así como las dificultades y las alegrías del trabajo en el campo.\r\n\r\nNostálgica y agridulce, Omoide Poroporo narra el viaje de Taeko como mujer adulta que se reconcilia con sus sueños de infancia y con la persona en la que se ha convertido hoy en día.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/omoide-poroporo.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/omoide-poroporo/",
+  "episodios": [
+    {
+      "id_origen": 75501,
+      "numero": 1,
+      "titulo": "Omoide Poroporo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eaefda9ae035e9f662f6d7c05b30ccad.jpg",
+      "url_origen": "https://jkanime.net/omoide-poroporo/1/",
+      "publicado_en_origen": "2026-07-28 15:39:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4883",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:04+00:00"
+}

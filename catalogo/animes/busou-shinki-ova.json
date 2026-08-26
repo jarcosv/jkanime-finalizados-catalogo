@@ -1,0 +1,29 @@
+{
+  "id_origen": 937,
+  "slug": "busou-shinki-ova",
+  "titulo": "Busou Shinki OVA",
+  "titulo_corto": "Busou Shinki OVA",
+  "sinopsis": "Episodio no transmitido por TV",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/busou-shinki-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/busou-shinki-ova/",
+  "episodios": [
+    {
+      "id_origen": 21414,
+      "numero": 1,
+      "titulo": "Busou Shinki OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0881bf5a7895640b88372a784a7eec4.jpg",
+      "url_origen": "https://jkanime.net/busou-shinki-ova/1/",
+      "publicado_en_origen": "2013-09-02 18:10:16"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "937",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:22:18+00:00"
+}

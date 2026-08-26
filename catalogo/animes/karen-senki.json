@@ -1,0 +1,109 @@
+{
+  "id_origen": 1266,
+  "slug": "karen-senki",
+  "titulo": "Karen Senki",
+  "titulo_corto": "Karen Senki",
+  "sinopsis": "En un escenario post-apocalíptico tras una guerra entre las máquinas y sus creadores, las máquinas gobiernan a los humanos mientras estos viven en un estado de servidumbre absoluta. Karen, la protagonista de la serie, lidera el Grupo de la Resistencia 11, un grupo variopinto formado por humanos que han decidido luchar por su vida y a los cuales los robots dan caza. ¿Será el fin de la humanidad? ¿Luchan una batalla perdida?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/karen-senki.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/karen-senki/",
+  "episodios": [
+    {
+      "id_origen": 24926,
+      "numero": 1,
+      "titulo": "Karen Senki - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e913bfa37964c7073c81c32a6d750b99.jpg",
+      "url_origen": "https://jkanime.net/karen-senki/1/",
+      "publicado_en_origen": "2014-09-27 10:08:50"
+    },
+    {
+      "id_origen": 24985,
+      "numero": 2,
+      "titulo": "Karen Senki - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3062c61fcdbab5937095c1629b71d05.jpg",
+      "url_origen": "https://jkanime.net/karen-senki/2/",
+      "publicado_en_origen": "2014-10-04 10:07:46"
+    },
+    {
+      "id_origen": 25052,
+      "numero": 3,
+      "titulo": "Karen Senki - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d9f790e48d1c2850cc47db8af965495.jpg",
+      "url_origen": "https://jkanime.net/karen-senki/3/",
+      "publicado_en_origen": "2014-10-11 10:04:16"
+    },
+    {
+      "id_origen": 25121,
+      "numero": 4,
+      "titulo": "Karen Senki - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37fd913e3ae9a65bc011675868062827.jpg",
+      "url_origen": "https://jkanime.net/karen-senki/4/",
+      "publicado_en_origen": "2014-10-18 10:05:49"
+    },
+    {
+      "id_origen": 25193,
+      "numero": 5,
+      "titulo": "Karen Senki - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc88b6a16db5ef98acdee40975d9af0f.jpg",
+      "url_origen": "https://jkanime.net/karen-senki/5/",
+      "publicado_en_origen": "2014-10-25 10:05:42"
+    },
+    {
+      "id_origen": 25263,
+      "numero": 6,
+      "titulo": "Karen Senki - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12b865d68061b0c406c140adf7076aee.jpg",
+      "url_origen": "https://jkanime.net/karen-senki/6/",
+      "publicado_en_origen": "2014-11-01 10:04:49"
+    },
+    {
+      "id_origen": 25335,
+      "numero": 7,
+      "titulo": "Karen Senki - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6aa899171430d12d1ed53cc8c02dc3d6.jpg",
+      "url_origen": "https://jkanime.net/karen-senki/7/",
+      "publicado_en_origen": "2014-11-08 11:05:25"
+    },
+    {
+      "id_origen": 25441,
+      "numero": 8,
+      "titulo": "Karen Senki - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16f0fd52ff1008af716ba556886e37d0.jpg",
+      "url_origen": "https://jkanime.net/karen-senki/8/",
+      "publicado_en_origen": "2014-11-15 11:21:37"
+    },
+    {
+      "id_origen": 25526,
+      "numero": 9,
+      "titulo": "Karen Senki - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e59bed9538a7a165e0d2a1c34335a4ab.jpg",
+      "url_origen": "https://jkanime.net/karen-senki/9/",
+      "publicado_en_origen": "2014-11-22 11:07:44"
+    },
+    {
+      "id_origen": 25604,
+      "numero": 10,
+      "titulo": "Karen Senki - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9c42040716c5ec592a0cd1735e596ff.jpg",
+      "url_origen": "https://jkanime.net/karen-senki/10/",
+      "publicado_en_origen": "2014-11-29 11:10:41"
+    },
+    {
+      "id_origen": 25690,
+      "numero": 11,
+      "titulo": "Karen Senki - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_507779fbc52283f223fb8cc6bb9e6d2e.jpg",
+      "url_origen": "https://jkanime.net/karen-senki/11/",
+      "publicado_en_origen": "2014-12-06 11:11:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1266",
+  "cantidad_episodios_declarada": 11,
+  "detalle_extraido_en": "2026-08-26T18:34:05+00:00"
+}

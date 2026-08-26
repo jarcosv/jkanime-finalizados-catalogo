@@ -1,0 +1,69 @@
+{
+  "id_origen": 731,
+  "slug": "girls-und-panzer-shoukai-shimasu",
+  "titulo": "Girls und Panzer: Shoukai Shimasu!",
+  "titulo_corto": "Girls und Panzer: Shoukai Shim...",
+  "sinopsis": "los primeros dos son los Especiales transmitidos entre los episodios 5 y 6 (5.5) además de 10 y 11 (10.5).\n\na partir del tercero son episodios especiales del Rincón del Tanque de Akiyama Yukari",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/girls-und-panzer-shoukai-shimasu.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/girls-und-panzer-shoukai-shimasu/",
+  "episodios": [
+    {
+      "id_origen": 18789,
+      "numero": 1,
+      "titulo": "Girls und Panzer: Shoukai Shimasu! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06f16510fb0dc706bb81d01ff33df729.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-shoukai-shimasu/1/",
+      "publicado_en_origen": "2012-12-27 19:28:21"
+    },
+    {
+      "id_origen": 18790,
+      "numero": 2,
+      "titulo": "Girls und Panzer: Shoukai Shimasu! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbb686245ece57c9827c4bc0d0654a8e.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-shoukai-shimasu/2/",
+      "publicado_en_origen": "2012-12-27 19:28:21"
+    },
+    {
+      "id_origen": 20022,
+      "numero": 3,
+      "titulo": "Girls und Panzer: Shoukai Shimasu! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39458c39f6951df4f647321c79c993c8.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-shoukai-shimasu/3/",
+      "publicado_en_origen": "2013-04-02 14:30:40"
+    },
+    {
+      "id_origen": 20045,
+      "numero": 4,
+      "titulo": "Girls und Panzer especial - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_745c7d75786602f3105a69845316ff61.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-shoukai-shimasu/4/",
+      "publicado_en_origen": "2013-04-04 19:20:03"
+    },
+    {
+      "id_origen": 20122,
+      "numero": 5,
+      "titulo": "Rincón del Tanque",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fa94bd27600d8fc326e8c9cc285847e.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-shoukai-shimasu/5/",
+      "publicado_en_origen": "2013-04-14 21:54:25"
+    },
+    {
+      "id_origen": 21337,
+      "numero": 6,
+      "titulo": "Rincón del Tanque de Akiyama Yukari - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc6e1826a881c674f2400c75e79bdfbb.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-shoukai-shimasu/6/",
+      "publicado_en_origen": "2013-08-23 14:51:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "731",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:28:38+00:00"
+}

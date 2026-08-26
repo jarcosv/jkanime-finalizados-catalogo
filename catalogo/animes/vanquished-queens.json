@@ -1,0 +1,53 @@
+{
+  "id_origen": 1308,
+  "slug": "vanquished-queens",
+  "titulo": "Vanquished Queens",
+  "titulo_corto": "Vanquished Queens",
+  "sinopsis": "Las OVAS Queen's Blade Vanquished (Vanquished Queens) representaran nuevas historias acerca de las derrotas de varios personajes de Queen's Blade, independientemente de la terminación de la tercera temporada de la televisión y otras historias secundarias.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/vanquished-queens.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/vanquished-queens/",
+  "episodios": [
+    {
+      "id_origen": 25013,
+      "numero": 1,
+      "titulo": "Vanquished Queens - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7dac0f8f86afc0db7f7854d370346127.jpg",
+      "url_origen": "https://jkanime.net/vanquished-queens/1/",
+      "publicado_en_origen": "2014-10-06 14:30:16"
+    },
+    {
+      "id_origen": 25014,
+      "numero": 2,
+      "titulo": "Vanquished Queens - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad4064ed89c079795893aed6055c1a90.jpg",
+      "url_origen": "https://jkanime.net/vanquished-queens/2/",
+      "publicado_en_origen": "2014-10-06 14:50:25"
+    },
+    {
+      "id_origen": 25015,
+      "numero": 3,
+      "titulo": "Vanquished Queens - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05204fdf0a9a07a4eac25ec99af7ae24.jpg",
+      "url_origen": "https://jkanime.net/vanquished-queens/3/",
+      "publicado_en_origen": "2014-10-06 14:56:57"
+    },
+    {
+      "id_origen": 25147,
+      "numero": 4,
+      "titulo": "Vanquished Queens - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18318da7dae61a542729d9da994161be.jpg",
+      "url_origen": "https://jkanime.net/vanquished-queens/4/",
+      "publicado_en_origen": "2014-10-20 13:08:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:03+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1308",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:51:29+00:00"
+}

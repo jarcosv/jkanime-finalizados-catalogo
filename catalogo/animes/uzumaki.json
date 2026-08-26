@@ -1,0 +1,53 @@
+{
+  "id_origen": 3905,
+  "slug": "uzumaki",
+  "titulo": "Uzumaki",
+  "titulo_corto": "Uzumaki",
+  "sinopsis": "En la ciudad de Kurouzu-cho, Kirie Goshima lleva una vida bastante normal con su familia. Un día, mientras se dirige a la estación de tren para encontrarse con su novio, Shuuichi Saito, ve al padre de éste mirando una concha de caracol en un callejón. Sin darle importancia, le cuenta el incidente a Shuuichi, que le dice que su padre está raro últimamente. Shuuichi revela a Kirie su creciente deseo de abandonar la ciudad, diciendo que ésta está infectada de espirales.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/uzumaki.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/uzumaki/",
+  "episodios": [
+    {
+      "id_origen": 60086,
+      "numero": 1,
+      "titulo": "Uzumaki - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dcdec911186f5df99fe689dff85429ec.jpg",
+      "url_origen": "https://jkanime.net/uzumaki/1/",
+      "publicado_en_origen": "2024-09-29 10:46:18"
+    },
+    {
+      "id_origen": 60169,
+      "numero": 2,
+      "titulo": "Uzumaki - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_278edaaf24b287c79f19250ca841e625.jpg",
+      "url_origen": "https://jkanime.net/uzumaki/2/",
+      "publicado_en_origen": "2024-10-06 12:15:53"
+    },
+    {
+      "id_origen": 60247,
+      "numero": 3,
+      "titulo": "Uzumaki - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2b21ebdac9273ce2034510fd0f3adf3.jpg",
+      "url_origen": "https://jkanime.net/uzumaki/3/",
+      "publicado_en_origen": "2024-10-13 10:04:42"
+    },
+    {
+      "id_origen": 60327,
+      "numero": 4,
+      "titulo": "Uzumaki - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c52651e782d350e41681e078ad2c7b5.jpg",
+      "url_origen": "https://jkanime.net/uzumaki/4/",
+      "publicado_en_origen": "2024-10-20 15:34:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:32+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3905",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:51:24+00:00"
+}

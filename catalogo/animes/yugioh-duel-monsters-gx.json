@@ -1,0 +1,1461 @@
+{
+  "id_origen": 1644,
+  "slug": "yugioh-duel-monsters-gx",
+  "titulo": "Yu Gi Oh!: Duel Monsters GX",
+  "titulo_corto": "Yu Gi Oh!: Duel Monsters GX",
+  "sinopsis": "Yu-Gi-Oh! GX cuenta la historia de Judai Yuki, un chico normal que ingresa en la Academia de Duelos fundada por Seto Kaiba. Una vez allí, Judai conoce a Syrus Truesdale y a Chumley Huffington, quienes a partir de entonces se convierten en sus amigos inseparables. Para poder ganar el derecho de estar en la academia, Judai, como había llegado tarde había tenido que enfrentarse con Vellian Crowler, y una vez que lo hubo vencido había quedado en el dormitorio Slifer Rojo, el cual es para los duelistas más débiles. El Ra Amarillo para los prometedores y el Obelisk Blue es para los estudiantes privilegiados. Más tarde, Judai tiene que enfrentarse a numerosos oponentes con ayuda de sus amigos para poder salvar al mundo de la destrucción.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yugioh-duel-monsters-gx.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/",
+  "episodios": [
+    {
+      "id_origen": 29382,
+      "numero": 1,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_338231d03b74dff1aed6a83b0a7c680c.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/1/",
+      "publicado_en_origen": "2015-09-15 00:07:32"
+    },
+    {
+      "id_origen": 29383,
+      "numero": 2,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf787e7b5f9346fe81658c708ca68c61.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/2/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29384,
+      "numero": 3,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16048eecd03aa5bc6c1614ccd3f2b423.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/3/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29385,
+      "numero": 4,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0b2c99d6e66d1ea44a8588c7bc4a016.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/4/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29386,
+      "numero": 5,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5558e56d737512c66be1e01ecf091b54.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/5/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29387,
+      "numero": 6,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f2f91391d575e5368cfe9ad4048eeea.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/6/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29388,
+      "numero": 7,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_882c920a157abf020705a45788ba568f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/7/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29389,
+      "numero": 8,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31882dbf700c4b88a999f391ec520665.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/8/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29390,
+      "numero": 9,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d76803aaf883a0a289d3b4075901d298.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/9/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29391,
+      "numero": 10,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_801f7c385478d949ce0cdc2640450f89.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/10/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29392,
+      "numero": 11,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f68c0c30731d9296528efb588279e83d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/11/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29393,
+      "numero": 12,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34d7ece1f805d89e526991b282388e5a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/12/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29394,
+      "numero": 13,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14fd9fb569a4f7693950b8a7f2e66699.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/13/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29395,
+      "numero": 14,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65bc6b569d41780546eeb0d5b63626f2.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/14/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29396,
+      "numero": 15,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dcb72788ee48cf08faca5dd9ea45513a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/15/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29397,
+      "numero": 16,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a15f2c706072346e7638d0ed6de09eb.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/16/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29398,
+      "numero": 17,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eae24a2ae37a194a8564bc9bd921cc07.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/17/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29399,
+      "numero": 18,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9c41b10ece8463fc7398b7a283f00f9.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/18/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29400,
+      "numero": 19,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_393a0f103dfdc3798cf1cfc2e7bdbc1f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/19/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29401,
+      "numero": 20,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf76c4cd2c8f67fea31b8c15d16ca3bc.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/20/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29402,
+      "numero": 21,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5989fd7934c8b2000d3f83cfb75cdb47.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/21/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29403,
+      "numero": 22,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25c9aca781eb787df5a01a7345b8ba36.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/22/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29404,
+      "numero": 23,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43a79adb808fd4b155b3d2b18304b7ed.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/23/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29405,
+      "numero": 24,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d364a623a35bc2f4768a568638aff687.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/24/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29406,
+      "numero": 25,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c71f0a8c36a3212e6569e6186febd41.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/25/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29407,
+      "numero": 26,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70bf777cc83dea60cec264b23ad4d34a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/26/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29408,
+      "numero": 27,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c11a6c8821cdb24676ff61d9b59c10a0.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/27/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29409,
+      "numero": 28,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b67ff5862eb652ed35b0554cb7f62f2.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/28/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29410,
+      "numero": 29,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f65c233d57a4b31b1e4edbaa79bf6ca.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/29/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29411,
+      "numero": 30,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0da43734b3ba823109bb5a29ae4cec9.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/30/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29412,
+      "numero": 31,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4f0f0806b7338733b81d7745499dd4b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/31/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29413,
+      "numero": 32,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b929e1af82b7db73f9138d685a4ed68.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/32/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29414,
+      "numero": 33,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b214389fac101bf39d422494db14302.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/33/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29415,
+      "numero": 34,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a10118110deab18a25a4a3cb5cae6bb5.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/34/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29416,
+      "numero": 35,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd6b4b8075b32ba75ffe0c9694d2f9af.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/35/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29417,
+      "numero": 36,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb5c505e43f84a12f3e8340a2b679567.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/36/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29418,
+      "numero": 37,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_928d86171c65a039d2eb1789fd1bf49f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/37/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29419,
+      "numero": 38,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_559a625353723964777aeaeb47124a7f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/38/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29420,
+      "numero": 39,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78cb7fa4cd7b891a867134cf4885e1f5.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/39/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29421,
+      "numero": 40,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be0bbb0f90bc9a8c1124eb992bae98f9.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/40/",
+      "publicado_en_origen": "2015-09-15 00:07:36"
+    },
+    {
+      "id_origen": 29429,
+      "numero": 41,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8301854f418d355675f6366dc08573f6.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/41/",
+      "publicado_en_origen": "2015-09-15 20:25:15"
+    },
+    {
+      "id_origen": 29430,
+      "numero": 42,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53afd7ab97449cdbb682b6b7e335c524.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/42/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29431,
+      "numero": 43,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac358cbed52f811a87ccf33be3e5b5bb.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/43/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29432,
+      "numero": 44,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f06110ef2e1e1ae119cbacf71dd17732.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/44/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29433,
+      "numero": 45,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c15e1bfe1ac5ed47bec025ca88301b3f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/45/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29434,
+      "numero": 46,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b084182f10cd8031300234c7551ef710.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/46/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29435,
+      "numero": 47,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08afe31e80612e5ea99ac4daea3b666b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/47/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29436,
+      "numero": 48,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12bf6e4ef656f8d8a5b2ee769c747c77.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/48/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29437,
+      "numero": 49,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a20bed5c13fede5cbd98c2f68461a27b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/49/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29438,
+      "numero": 50,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7711010121e869ead8a928fa035b48df.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/50/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29439,
+      "numero": 51,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc9d42fcee61388f6d4634deb12d5b48.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/51/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29440,
+      "numero": 52,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84c87f842d01e3bf469827b469dcacec.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/52/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29441,
+      "numero": 53,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29ac0835a14c551405ff79715374bd05.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/53/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29442,
+      "numero": 54,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91a8884b0dc5d0c47cf772bd1942a5af.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/54/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29443,
+      "numero": 55,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59893fe5a442e62984d00a242eefc32d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/55/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29444,
+      "numero": 56,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d3b870a10ac880f27c0b5b69756e749.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/56/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29445,
+      "numero": 57,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd882239782e46c81f650fc5a6136d2e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/57/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29446,
+      "numero": 58,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2c9a31f724a08b5a42210bed4a04263.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/58/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29447,
+      "numero": 59,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96021734e7ee66275cb9995123834c72.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/59/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29448,
+      "numero": 60,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c2140d1a64d146fbd15082b3a34130c.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/60/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29449,
+      "numero": 61,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9f38a0177f16dcaa0d96bcd5b6d2440.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/61/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29450,
+      "numero": 62,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f450f46df1e06c6737e4ac25603c02a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/62/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29451,
+      "numero": 63,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21b0c70a1e91a5eb8f3d772cc0e64967.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/63/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29452,
+      "numero": 64,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7a06751be7509743d8d3ead1e63423d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/64/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29453,
+      "numero": 65,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a291eb7ce8c6c27ed798151c4a0741bc.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/65/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29454,
+      "numero": 66,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29579d096935b2f86a4d4f1be47cb69c.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/66/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29455,
+      "numero": 67,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8301f99aa26536037481546bf5543536.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/67/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29456,
+      "numero": 68,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bc9f4ac200719ade62cf70b5dba1e9b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/68/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29457,
+      "numero": 69,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f8d8411ff393c9cb54249e010b017b4.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/69/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29458,
+      "numero": 70,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea30a83f57dabc455488ad906feaf213.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/70/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29459,
+      "numero": 71,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f78614f061c508c892c4dfe0abdf27e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/71/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29460,
+      "numero": 72,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d62b664e0111db219783a71ed8225336.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/72/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29461,
+      "numero": 73,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aea5525e5aa202e1efd5895c330110bd.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/73/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29462,
+      "numero": 74,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a393c9ba3c7ae3aaf2905af1d8dcbb85.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/74/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29463,
+      "numero": 75,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13e28b82b739928c070be77afbc668ea.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/75/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29464,
+      "numero": 76,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eacbec704544fb3e45efadf8eedbf9c8.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/76/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29465,
+      "numero": 77,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fe38ee1a1a9c6bd953a5c27a5ca9258.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/77/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29466,
+      "numero": 78,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57ce0427b9e3b1b777b3efcf5684452e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/78/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29467,
+      "numero": 79,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_194ab129b5581d9742c84478cd6fed04.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/79/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29468,
+      "numero": 80,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8606adb6620707257e0d5cb386f095b7.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/80/",
+      "publicado_en_origen": "2015-09-15 20:25:20"
+    },
+    {
+      "id_origen": 29469,
+      "numero": 81,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96d28c0ad055bfa813e0865ba0a4103a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/81/",
+      "publicado_en_origen": "2015-09-15 21:01:09"
+    },
+    {
+      "id_origen": 29470,
+      "numero": 82,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14515b66c19dfb745f5a2fccc8f1393f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/82/",
+      "publicado_en_origen": "2015-09-15 21:01:12"
+    },
+    {
+      "id_origen": 29471,
+      "numero": 83,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3e3c0a35c97936cb58c8f7ff4e3976a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/83/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29472,
+      "numero": 84,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddd21fdd3158de79052d4dd683573113.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/84/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29473,
+      "numero": 85,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c519d2a456ff3844afd6966f7707100b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/85/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29474,
+      "numero": 86,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1dfbce13aca4cfcf41ba6dd986d1c09.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/86/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29475,
+      "numero": 87,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_965a47ae8db4e74124149fbb7780af21.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/87/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29476,
+      "numero": 88,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c219c46862037687b97c645d0eee717.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/88/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29477,
+      "numero": 89,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39ec84a99221f244f1eb7e01c2231d38.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/89/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29478,
+      "numero": 90,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24ae629798230875e231302d66669cdb.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/90/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29479,
+      "numero": 91,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ff05a64903144f55ccc88f0b760ad11.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/91/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29480,
+      "numero": 92,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d78043c049296797611186012ff5628.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/92/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29481,
+      "numero": 93,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96c02df55c33801fa8bed40ce44b9a89.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/93/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29482,
+      "numero": 94,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45c11ca9cfd3c6959188a848c2c64a94.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/94/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29483,
+      "numero": 95,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f68b5a44fdcb800076afc2ea0fe16305.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/95/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29484,
+      "numero": 96,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6c07dc0686f5f5bca5c9794e8c44ffc.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/96/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29485,
+      "numero": 97,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e23e46056151350cebccdd50d7419f84.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/97/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29486,
+      "numero": 98,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74093e762e3747d3965126f98cbe4e57.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/98/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29487,
+      "numero": 99,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_371f5bb6b80541e62f0ecf7341293e2d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/99/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29488,
+      "numero": 100,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_120672f9e76e495098e5dff24830d169.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/100/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29489,
+      "numero": 101,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1b2bbc102904120c225e2e80b60d0fe.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/101/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29490,
+      "numero": 102,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59ab1a1d1f2c0ebde93ec1634e28a102.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/102/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29491,
+      "numero": 103,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b81c4f46d031aa280f8293efa226a9b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/103/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29492,
+      "numero": 104,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aaa702ad82cae1cc1dbe409a738daaba.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/104/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29493,
+      "numero": 105,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47e3711856579ea4c53625d15fcc306d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/105/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29494,
+      "numero": 106,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_539c294351032d5473dbcfcc619ff021.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/106/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29495,
+      "numero": 107,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7a1b53e91a3344e9eb9db2a6fa4eae2.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/107/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29496,
+      "numero": 108,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5cd338743288fdb62b74ee279d51bf93.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/108/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29497,
+      "numero": 109,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8aeb83caeb3c20e2823a7ab62d31141.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/109/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29498,
+      "numero": 110,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ad07f2a37ad05f4ce6c53e0af0bc0e3.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/110/",
+      "publicado_en_origen": "2015-09-15 21:01:13"
+    },
+    {
+      "id_origen": 29499,
+      "numero": 111,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eeb50c25084a234f1efc530be0857d35.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/111/",
+      "publicado_en_origen": "2015-09-15 21:20:03"
+    },
+    {
+      "id_origen": 29500,
+      "numero": 112,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cdb497dee6acf5f571d685740fc6327.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/112/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29501,
+      "numero": 113,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53a04eaf216f3b354d10a6d4d1721532.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/113/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29502,
+      "numero": 114,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c85dd21d383a016b4549624c7f4d55b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/114/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29503,
+      "numero": 115,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9fa461a6fb17006b5dd1a4e3741d829.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/115/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29504,
+      "numero": 116,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_011175def4ce3e14d32df3fc20f74fb6.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/116/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29505,
+      "numero": 117,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a79e60cce2641f20b34acb72cd287d7.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/117/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29506,
+      "numero": 118,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e340862bc3c1549012646f7abdc2e155.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/118/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29507,
+      "numero": 119,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d06a5452ab3aed1d1437a600ef438afa.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/119/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29508,
+      "numero": 120,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_556db02d592d6762904be04584decfa4.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/120/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29509,
+      "numero": 121,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e195c8d9639740a0e9118526e45d4389.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/121/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29510,
+      "numero": 122,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41d934b57541fa144f6b6b585312a7e3.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/122/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29511,
+      "numero": 123,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a46841c7df6435e8df5644f4867a987.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/123/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29512,
+      "numero": 124,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_424ab970cad62b90ca3eee3e832920ba.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/124/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29513,
+      "numero": 125,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53fa2bb31e7b9c5afebcd5bc6212c09d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/125/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29514,
+      "numero": 126,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e9857752ba7f46d8d36021825e60441.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/126/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29515,
+      "numero": 127,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e5966412bd897dfd9b77ffae75eef1a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/127/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29516,
+      "numero": 128,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bcc50194b786db40c548a9ced33a34b8.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/128/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29517,
+      "numero": 129,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1927a57de5c455d3bb1e6cdae59fab5.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/129/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29518,
+      "numero": 130,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b081b509da27866728d73c3f5d75ccaf.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/130/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29519,
+      "numero": 131,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32e22c26cece29777049a84adf05f465.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/131/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29520,
+      "numero": 132,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90b32332345d20d6cd130fc0cc820386.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/132/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29521,
+      "numero": 133,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bc2d171e7cff7fa3c2c4bd0bf5dabc4.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/133/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29522,
+      "numero": 134,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd823d6e1e3a88daf0873b36aa204369.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/134/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29523,
+      "numero": 135,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3ca9f305782d831cfe65fdf7b980b51.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/135/",
+      "publicado_en_origen": "2015-09-15 21:20:06"
+    },
+    {
+      "id_origen": 29524,
+      "numero": 136,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18dc2aa306574480d292c7b0210f7545.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/136/",
+      "publicado_en_origen": "2015-09-15 21:52:42"
+    },
+    {
+      "id_origen": 29525,
+      "numero": 137,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5723aa963dd4fc65b5ebce3950d57fb4.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/137/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29526,
+      "numero": 138,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3eb4c11722507eae902e13a8f202e947.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/138/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29527,
+      "numero": 139,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fec94f6ddfed4722eb7e4746084eba1.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/139/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29528,
+      "numero": 140,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cfc948fc40dd345b6e12298c5c40ba13.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/140/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29529,
+      "numero": 141,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7502098036174eed238449e4bf4a5df4.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/141/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29530,
+      "numero": 142,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56620d45f773d0080554b694a21e5ba7.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/142/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29531,
+      "numero": 143,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_256c6f5b61473aaaf1fe73f571b4b28b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/143/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29532,
+      "numero": 144,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13bfa3b0c77bec4598bc7fe923d12972.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/144/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29533,
+      "numero": 145,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8396e81a648b3b78745e1f08579e0bb0.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/145/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29534,
+      "numero": 146,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41c0fb7d37adb58e9cc4b4a82e8a0f46.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/146/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29535,
+      "numero": 147,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bde1d613c4e7839d1baac6aea8357e7d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/147/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29536,
+      "numero": 148,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 148",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_246fd89796299b9af42e8093e81cc124.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/148/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29537,
+      "numero": 149,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 149",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b43a306ca1e27299a57727ff5c0d4998.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/149/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29538,
+      "numero": 150,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 150",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ce629476d3d9bb6519cd146973a27ec.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/150/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29539,
+      "numero": 151,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 151",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_badc93fe6e7962936c7f7d5ad32f69e4.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/151/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29540,
+      "numero": 152,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 152",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b851cb30a3604f1a03c679a79b0a443d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/152/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29541,
+      "numero": 153,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 153",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd14fcb4232caeda4d922db41d6174df.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/153/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29542,
+      "numero": 154,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 154",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0496c088275cca21054077df4d52bdcd.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/154/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29543,
+      "numero": 155,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 155",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fa1b2338942dacb0f7c2a1fbfae628a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/155/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29544,
+      "numero": 156,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 156",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d44ea21d9f3f0734cb163b5fe8168cac.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/156/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29545,
+      "numero": 157,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 157",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e1a510b91b3f7306a4eb02c65adb290.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/157/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29546,
+      "numero": 158,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 158",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ee2b82af4bb59ba0c5773d149146e05.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/158/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29547,
+      "numero": 159,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 159",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a7c99a3533327252cbd93ad6be0b1fb.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/159/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29548,
+      "numero": 160,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 160",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d33589e1de94c978c3c54d3d22f42c48.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/160/",
+      "publicado_en_origen": "2015-09-15 21:52:45"
+    },
+    {
+      "id_origen": 29549,
+      "numero": 161,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 161",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af20aa8cc361a5498fb417683dfd8488.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/161/",
+      "publicado_en_origen": "2015-09-15 21:52:46"
+    },
+    {
+      "id_origen": 29550,
+      "numero": 162,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 162",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_baf00f206054a125267743f710215406.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/162/",
+      "publicado_en_origen": "2015-09-15 21:52:46"
+    },
+    {
+      "id_origen": 29551,
+      "numero": 163,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 163",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d60a385a8f1a095e0999b065bc14bc8.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/163/",
+      "publicado_en_origen": "2015-09-15 21:52:46"
+    },
+    {
+      "id_origen": 29552,
+      "numero": 164,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 164",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_407c81ae411f5e0a5c4a5b62c0ca9770.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/164/",
+      "publicado_en_origen": "2015-09-15 21:52:46"
+    },
+    {
+      "id_origen": 29553,
+      "numero": 165,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 165",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38a44c258ac6985bb71726a37252d313.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/165/",
+      "publicado_en_origen": "2015-09-15 21:52:46"
+    },
+    {
+      "id_origen": 29561,
+      "numero": 166,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 166",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fd4b00af024dc168d3d955414ceb8e9.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/166/",
+      "publicado_en_origen": "2015-09-16 21:49:47"
+    },
+    {
+      "id_origen": 29562,
+      "numero": 167,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 167",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd24bf1f94c244e91a4a783a50f36b6f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/167/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29563,
+      "numero": 168,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 168",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b13c4b2504158972122bb5cbeda135b2.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/168/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29564,
+      "numero": 169,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 169",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23a741fa2f45791cd3462521042150b2.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/169/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29565,
+      "numero": 170,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 170",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_391c5f953a77f6ddf639b5e62bb75c3e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/170/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29566,
+      "numero": 171,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 171",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_790006230e91dd6279a42a814bf5965a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/171/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29567,
+      "numero": 172,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 172",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb25605bb7380864f4af64b7d4b493f0.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/172/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29568,
+      "numero": 173,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 173",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bdbb7b82339a6700741e6dd665b8a993.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/173/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29569,
+      "numero": 174,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 174",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e7e22b67764ffd727da564826610ecb.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/174/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29570,
+      "numero": 175,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 175",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0cba95d2999ca566c986fb793e7ecc7.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/175/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29571,
+      "numero": 176,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 176",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de8a3ed278e460fbf67355f99a6a865f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/176/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29572,
+      "numero": 177,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 177",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca2de931da459a1e23803a3182e55686.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/177/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29573,
+      "numero": 178,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 178",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e22d5796509ba2c7f8221b419bbe1d11.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/178/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29574,
+      "numero": 179,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 179",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d75741b309bf39d3ef6be3b23990eeaf.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/179/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    },
+    {
+      "id_origen": 29575,
+      "numero": 180,
+      "titulo": "Yu Gi Oh!: Duel Monsters GX - 180",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fae41f41823dafacc197c3f5121128e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-duel-monsters-gx/180/",
+      "publicado_en_origen": "2015-09-16 21:49:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1644",
+  "cantidad_episodios_declarada": 180,
+  "detalle_extraido_en": "2026-08-26T18:53:26+00:00"
+}

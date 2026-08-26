@@ -1,0 +1,101 @@
+{
+  "id_origen": 1431,
+  "slug": "isuca",
+  "titulo": "Isuca",
+  "titulo_corto": "Isuca",
+  "sinopsis": "La historia se centra en Shinichirou, un estudiante pobre como las ratas que, para poder pagar el alquiler, busca trabajo como limpiador en casas ajenas. Resulta que el pobre muchacho acaba siendo contratado por Sakuya, una exorcista de criaturas sobrenaturales y, por error, Shinichirou libera una de ellas. Así comienza su nueva vida mientras Sakuya y otras muchas chicas se le insinúan de las maneras más guarrindongas en esta comedia romántica.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/isuca.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/isuca/",
+  "episodios": [
+    {
+      "id_origen": 26458,
+      "numero": 1,
+      "titulo": "Isuca - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f82b2a73a3f905eb4679a24495a79ee3.jpg",
+      "url_origen": "https://jkanime.net/isuca/1/",
+      "publicado_en_origen": "2015-01-23 14:06:47"
+    },
+    {
+      "id_origen": 26548,
+      "numero": 2,
+      "titulo": "Isuca - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d0ca152a941f960431082ec429f6f11.jpg",
+      "url_origen": "https://jkanime.net/isuca/2/",
+      "publicado_en_origen": "2015-01-30 14:10:18"
+    },
+    {
+      "id_origen": 26606,
+      "numero": 3,
+      "titulo": "Isuca - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd4378fa6376a85a4cafc940fbc289f0.jpg",
+      "url_origen": "https://jkanime.net/isuca/3/",
+      "publicado_en_origen": "2015-02-06 14:13:05"
+    },
+    {
+      "id_origen": 26727,
+      "numero": 4,
+      "titulo": "Isuca - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4376b1e16378bd96b9ca18a1efb03a8.jpg",
+      "url_origen": "https://jkanime.net/isuca/4/",
+      "publicado_en_origen": "2015-02-13 14:14:16"
+    },
+    {
+      "id_origen": 26790,
+      "numero": 5,
+      "titulo": "Isuca - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4ae8c1adb5ae04ae5ba30e9c7d249f7.jpg",
+      "url_origen": "https://jkanime.net/isuca/5/",
+      "publicado_en_origen": "2015-02-20 14:09:28"
+    },
+    {
+      "id_origen": 26918,
+      "numero": 6,
+      "titulo": "Isuca - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3385637859c7e1bf875c127272934a6.jpg",
+      "url_origen": "https://jkanime.net/isuca/6/",
+      "publicado_en_origen": "2015-02-27 14:06:57"
+    },
+    {
+      "id_origen": 26973,
+      "numero": 7,
+      "titulo": "Isuca - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_679a55e13acf1a9769c193fa010d5934.jpg",
+      "url_origen": "https://jkanime.net/isuca/7/",
+      "publicado_en_origen": "2015-03-06 14:06:29"
+    },
+    {
+      "id_origen": 27034,
+      "numero": 8,
+      "titulo": "Isuca - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2fecdeaa123ef60a82894a45c5a7ae26.jpg",
+      "url_origen": "https://jkanime.net/isuca/8/",
+      "publicado_en_origen": "2015-03-13 13:06:20"
+    },
+    {
+      "id_origen": 27157,
+      "numero": 9,
+      "titulo": "Isuca - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf4298addd63275b043eb83dc27f0ed3.jpg",
+      "url_origen": "https://jkanime.net/isuca/9/",
+      "publicado_en_origen": "2015-03-20 13:12:13"
+    },
+    {
+      "id_origen": 27245,
+      "numero": 10,
+      "titulo": "Isuca - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e96b520d898c746f81549b11832d7424.jpg",
+      "url_origen": "https://jkanime.net/isuca/10/",
+      "publicado_en_origen": "2015-03-27 13:14:46"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1431",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:32:21+00:00"
+}

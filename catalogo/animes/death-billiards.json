@@ -1,0 +1,29 @@
+{
+  "id_origen": 824,
+  "slug": "death-billiards",
+  "titulo": "Death Billiards",
+  "titulo_corto": "Death Billiards",
+  "sinopsis": "Death Billiards es una de las cuatro obras de anime que cada uno recibió 38 millones de yenes de la Agencia del gobierno japonés de Asuntos Culturales, y se distribuyen la mayor parte de esos fondos para estudios que capacitan a jóvenes animadores en el puesto de trabajo. En esta especial veremos un juego en el cual sus destinos dependerán del resultado.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/death-billiards.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/death-billiards/",
+  "episodios": [
+    {
+      "id_origen": 20046,
+      "numero": 1,
+      "titulo": "Death Billiards",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47248f6127fcae1dd2b9a47d43aa4c9d.jpg",
+      "url_origen": "https://jkanime.net/death-billiards/1/",
+      "publicado_en_origen": "2013-04-04 19:36:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "824",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:41+00:00"
+}

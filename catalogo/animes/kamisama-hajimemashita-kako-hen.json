@@ -1,0 +1,53 @@
+{
+  "id_origen": 1638,
+  "slug": "kamisama-hajimemashita-kako-hen",
+  "titulo": "Kamisama Hajimemashita: Kako-hen",
+  "titulo_corto": "Kamisama Hajimemashita: Kako-h...",
+  "sinopsis": "OVAs basadas en el \"arco del pasado\" de la serie, comprende los volumenes 14 al 17 del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kamisama-hajimemashita-kako-hen.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kamisama-hajimemashita-kako-hen/",
+  "episodios": [
+    {
+      "id_origen": 29184,
+      "numero": 1,
+      "titulo": "Kamisama Hajimemashita: Kako-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5810733635b8629df4a4badaaef78f6c.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita-kako-hen/1/",
+      "publicado_en_origen": "2015-09-01 22:08:51"
+    },
+    {
+      "id_origen": 30475,
+      "numero": 2,
+      "titulo": "Kamisama Hajimemashita: Kako-hen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dcb91ad1cd3630601020f83d7b6883e0.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita-kako-hen/2/",
+      "publicado_en_origen": "2016-01-01 15:29:40"
+    },
+    {
+      "id_origen": 31562,
+      "numero": 3,
+      "titulo": "Kamisama Hajimemashita: Kako-hen - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b1905cff5bc8b47ae1c9d92e2c759df.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita-kako-hen/3/",
+      "publicado_en_origen": "2016-05-12 21:17:31"
+    },
+    {
+      "id_origen": 32641,
+      "numero": 4,
+      "titulo": "Kamisama Hajimemashita: Kako-hen - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e9feef0d48ead6730ce88ecc22b34cc.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita-kako-hen/4/",
+      "publicado_en_origen": "2016-08-27 00:51:16"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1638",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:33:42+00:00"
+}

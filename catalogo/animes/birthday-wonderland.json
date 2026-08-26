@@ -1,0 +1,29 @@
+{
+  "id_origen": 2674,
+  "slug": "birthday-wonderland",
+  "titulo": "Birthday Wonderland",
+  "titulo_corto": "Birthday Wonderland",
+  "sinopsis": "Una adaptacion cinematografica del libro infantil de 1981 Chikashitsu kara no Fushigi na Tabi. Una maravillosa y misteriosa aventura de cumpleaños, una que nunca olvidarqs. Mas alla de la puerta del sotano en la tienda de antiguedades de la tia Chi hay un mundo mas alla de tu imaginacion mas salvaje... Akane Uesugi es una timida niña de 6º grado que tiene problemas para decirle a los demas lo que siente. El dia antes de su cumpleaños, su madre, Midori, le envia un recado: ir a buscar su regalo de cumpleaños a la tienda de antigüedades de su tia Chi. Pero un extraño hombre llamado Hipocrates el Alquimista, que la llama la \"Diosa Verde\", junto con el hada Pipo, la lleva en un viaje al \"Mundo del Mas Alla\" desde una puerta en el sotano. Alli, el agua se ha secado y los arboles estan perdiendo su color. ¿Podra salvarla con la ayuda de su tia Chi, la severa Hipocrates, y su aprendiz Pipo?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/birthday-wonderland.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/birthday-wonderland/",
+  "episodios": [
+    {
+      "id_origen": 42930,
+      "numero": 1,
+      "titulo": "Birthday Wonderland - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e4d9cf7b5bcb9d74772fd42206037ab.jpg",
+      "url_origen": "https://jkanime.net/birthday-wonderland/1/",
+      "publicado_en_origen": "2020-05-26 18:17:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2674",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:19:58+00:00"
+}

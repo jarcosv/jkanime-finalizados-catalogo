@@ -1,0 +1,45 @@
+{
+  "id_origen": 1249,
+  "slug": "space-dandy-picture-drama",
+  "titulo": "Space☆Dandy Picture Drama",
+  "titulo_corto": "Space☆Dandy Picture Drama",
+  "sinopsis": "Episodios Picture Drama incluidos con el volumen 4 y 5 de Blu-ray/DVD de Space☆Dandy.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/space-dandy-picture-drama.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/space-dandy-picture-drama/",
+  "episodios": [
+    {
+      "id_origen": 24648,
+      "numero": 1,
+      "titulo": "Space☆Dandy Picture Drama - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/space-dandy-picture-drama.jpg",
+      "url_origen": "https://jkanime.net/space-dandy-picture-drama/1/",
+      "publicado_en_origen": "2014-09-05 12:27:28"
+    },
+    {
+      "id_origen": 24649,
+      "numero": 2,
+      "titulo": "Space☆Dandy Picture Drama - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/space-dandy-picture-drama.jpg",
+      "url_origen": "https://jkanime.net/space-dandy-picture-drama/2/",
+      "publicado_en_origen": "2014-09-05 12:30:26"
+    },
+    {
+      "id_origen": 26174,
+      "numero": 3,
+      "titulo": "Space☆Dandy Picture Drama - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/space-dandy-picture-drama.jpg",
+      "url_origen": "https://jkanime.net/space-dandy-picture-drama/3/",
+      "publicado_en_origen": "2014-12-30 16:56:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1249",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:47:37+00:00"
+}

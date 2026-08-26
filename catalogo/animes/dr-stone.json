@@ -1,0 +1,213 @@
+{
+  "id_origen": 2456,
+  "slug": "dr-stone",
+  "titulo": "Dr. Stone",
+  "titulo_corto": "Dr. Stone",
+  "sinopsis": "Senku es un joven extremadamente inteligente con un gran don para la ciencia y una acida personalidad, y su mejor amigo es Taiju, que es muy buena persona pero mas apto para usar los musculos que para pensar. Cuando tras cierto incidente toda la humanidad acaba convertida en piedra, ellos logran despertarse en un mundo miles de años despues, con la civilizacion humana completamente desaparecida y con toda la humanidad congelada en piedra como ellos estuvieron. Ahora es su obligacion rescatar a la gente y crear un nuevo mundo",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dr-stone.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dr-stone/",
+  "episodios": [
+    {
+      "id_origen": 40399,
+      "numero": 1,
+      "titulo": "Dr. Stone - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9971bf4009012efdc5a9cb7ed7417e90.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/1/",
+      "publicado_en_origen": "2019-07-05 16:35:48"
+    },
+    {
+      "id_origen": 40476,
+      "numero": 2,
+      "titulo": "Dr. Stone - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f53f5d7325787f8abdbac3b186e80c1.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/2/",
+      "publicado_en_origen": "2019-07-12 19:11:34"
+    },
+    {
+      "id_origen": 40519,
+      "numero": 3,
+      "titulo": "Dr. Stone - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89a91ae5c1052557adb140f0cca9f0d0.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/3/",
+      "publicado_en_origen": "2019-07-19 14:44:16"
+    },
+    {
+      "id_origen": 40561,
+      "numero": 4,
+      "titulo": "Dr. Stone - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc8cfbf74da8fdd0156a05eaf7edfa82.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/4/",
+      "publicado_en_origen": "2019-07-26 14:49:06"
+    },
+    {
+      "id_origen": 40617,
+      "numero": 5,
+      "titulo": "Dr. Stone - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73695d0bcc7a89845ab2f7e3a5b3c0c9.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/5/",
+      "publicado_en_origen": "2019-08-02 14:00:37"
+    },
+    {
+      "id_origen": 40667,
+      "numero": 6,
+      "titulo": "Dr. Stone - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_807288f81a9916731097e87fcd150282.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/6/",
+      "publicado_en_origen": "2019-08-09 13:11:43"
+    },
+    {
+      "id_origen": 40737,
+      "numero": 7,
+      "titulo": "Dr. Stone - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0849659c26c77c8aac41bed0133fa88c.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/7/",
+      "publicado_en_origen": "2019-08-16 14:04:59"
+    },
+    {
+      "id_origen": 40783,
+      "numero": 8,
+      "titulo": "Dr. Stone - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a552e1db6a1c7dbac243c72a8d3140bb.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/8/",
+      "publicado_en_origen": "2019-08-23 13:55:45"
+    },
+    {
+      "id_origen": 40841,
+      "numero": 9,
+      "titulo": "Dr. Stone - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c99d191b82af960a7bfab48a035d2f8b.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/9/",
+      "publicado_en_origen": "2019-08-30 13:17:45"
+    },
+    {
+      "id_origen": 40890,
+      "numero": 10,
+      "titulo": "Dr. Stone - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_078fbc1d65812e5859c6382f0eb1bb5e.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/10/",
+      "publicado_en_origen": "2019-09-06 13:12:25"
+    },
+    {
+      "id_origen": 41030,
+      "numero": 11,
+      "titulo": "Dr. Stone - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_427d99addb45f263ba569a7a2d9c65a3.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/11/",
+      "publicado_en_origen": "2019-09-13 13:21:23"
+    },
+    {
+      "id_origen": 41076,
+      "numero": 12,
+      "titulo": "Dr. Stone - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc5cd6ec5b2df75ead63c98d5963e732.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/12/",
+      "publicado_en_origen": "2019-09-20 13:19:24"
+    },
+    {
+      "id_origen": 41127,
+      "numero": 13,
+      "titulo": "Dr. Stone - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3154b34c13ecddb5ead7d817b058ebc1.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/13/",
+      "publicado_en_origen": "2019-09-27 21:45:22"
+    },
+    {
+      "id_origen": 41165,
+      "numero": 14,
+      "titulo": "Dr. Stone - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2f07227dfe21404a9778b9cc04dd684.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/14/",
+      "publicado_en_origen": "2019-10-04 13:31:32"
+    },
+    {
+      "id_origen": 41229,
+      "numero": 15,
+      "titulo": "Dr. Stone - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53fcf303d2e920fd3c90921ceef16a92.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/15/",
+      "publicado_en_origen": "2019-10-11 13:19:00"
+    },
+    {
+      "id_origen": 41275,
+      "numero": 16,
+      "titulo": "Dr. Stone - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a10765ead0373244d0b92935ed504753.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/16/",
+      "publicado_en_origen": "2019-10-18 13:15:08"
+    },
+    {
+      "id_origen": 41330,
+      "numero": 17,
+      "titulo": "Dr. Stone - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cccf2bb4d830f9b542ac946694c3933.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/17/",
+      "publicado_en_origen": "2019-10-25 14:14:30"
+    },
+    {
+      "id_origen": 41401,
+      "numero": 18,
+      "titulo": "Dr. Stone - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21f201dbabfce0c78e027b5fc9325811.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/18/",
+      "publicado_en_origen": "2019-11-01 14:06:32"
+    },
+    {
+      "id_origen": 41457,
+      "numero": 19,
+      "titulo": "Dr. Stone - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a0ab8d226593870034130c5e2eb6ce8.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/19/",
+      "publicado_en_origen": "2019-11-08 14:44:57"
+    },
+    {
+      "id_origen": 41508,
+      "numero": 20,
+      "titulo": "Dr. Stone - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1404d2d16ab402e5a4b412400ebb2307.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/20/",
+      "publicado_en_origen": "2019-11-15 18:25:55"
+    },
+    {
+      "id_origen": 41561,
+      "numero": 21,
+      "titulo": "Dr. Stone - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30fa273648836083a415ebe0d4662cf5.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/21/",
+      "publicado_en_origen": "2019-11-22 14:14:10"
+    },
+    {
+      "id_origen": 41617,
+      "numero": 22,
+      "titulo": "Dr. Stone - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_debf71dec0a113d324faef063f958166.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/22/",
+      "publicado_en_origen": "2019-11-29 14:39:28"
+    },
+    {
+      "id_origen": 41668,
+      "numero": 23,
+      "titulo": "Dr. Stone - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54a2a6a714d383485e79899dd53e8b24.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/23/",
+      "publicado_en_origen": "2019-12-06 14:27:41"
+    },
+    {
+      "id_origen": 41723,
+      "numero": 24,
+      "titulo": "Dr. Stone - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85ac30828335a92fe694ad583030ea95.jpg",
+      "url_origen": "https://jkanime.net/dr-stone/24/",
+      "publicado_en_origen": "2019-12-13 14:12:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2456",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:25:28+00:00"
+}

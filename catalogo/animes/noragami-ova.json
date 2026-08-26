@@ -1,0 +1,37 @@
+{
+  "id_origen": 1073,
+  "slug": "noragami-ova",
+  "titulo": "Noragami OVA",
+  "titulo_corto": "Noragami OVA",
+  "sinopsis": "Ova de Noragami.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/noragami-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/noragami-ova/",
+  "episodios": [
+    {
+      "id_origen": 22735,
+      "numero": 1,
+      "titulo": "Noragami OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68c8ca7688071d89efeaa2079b2ef661.jpg",
+      "url_origen": "https://jkanime.net/noragami-ova/1/",
+      "publicado_en_origen": "2014-02-17 22:35:32"
+    },
+    {
+      "id_origen": 24009,
+      "numero": 2,
+      "titulo": "Noragami OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ce5f6d8606512ad3b1217e43072b9dc.jpg",
+      "url_origen": "https://jkanime.net/noragami-ova/2/",
+      "publicado_en_origen": "2014-07-16 18:46:07"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1073",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:40:47+00:00"
+}

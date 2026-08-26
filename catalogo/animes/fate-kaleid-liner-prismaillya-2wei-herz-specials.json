@@ -1,0 +1,61 @@
+{
+  "id_origen": 1648,
+  "slug": "fate-kaleid-liner-prismaillya-2wei-herz-specials",
+  "titulo": "Fate/kaleid liner Prisma☆Illya 2wei Herz! Specials",
+  "titulo_corto": "Fate/kaleid liner Prisma☆Illya...",
+  "sinopsis": "Especiales incluidos el BD/DVD de Fate/kaleid liner Prisma Illya 2wei Herz!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fate-kaleid-liner-prismaillya-2wei-herz-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fate-kaleid-liner-prismaillya-2wei-herz-specials/",
+  "episodios": [
+    {
+      "id_origen": 29660,
+      "numero": 1,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 2wei Herz! Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fcee1ea342699e1bf18973b242f9b65.jpg",
+      "url_origen": "https://jkanime.net/fate-kaleid-liner-prismaillya-2wei-herz-specials/1/",
+      "publicado_en_origen": "2015-09-26 09:15:21"
+    },
+    {
+      "id_origen": 29966,
+      "numero": 2,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 2wei Herz! Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_798ec5bb849d8c08c6cc22e0ff196b1d.jpg",
+      "url_origen": "https://jkanime.net/fate-kaleid-liner-prismaillya-2wei-herz-specials/2/",
+      "publicado_en_origen": "2015-10-31 10:26:55"
+    },
+    {
+      "id_origen": 30413,
+      "numero": 3,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 2wei Herz! Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abdcaa8e62fa9a0e2e86a0564d11bde4.jpg",
+      "url_origen": "https://jkanime.net/fate-kaleid-liner-prismaillya-2wei-herz-specials/3/",
+      "publicado_en_origen": "2015-12-22 21:34:11"
+    },
+    {
+      "id_origen": 30429,
+      "numero": 4,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 2wei Herz! Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5ad9ce775f86f2a64e72c7f2c633fe0.jpg",
+      "url_origen": "https://jkanime.net/fate-kaleid-liner-prismaillya-2wei-herz-specials/4/",
+      "publicado_en_origen": "2015-12-24 18:53:40"
+    },
+    {
+      "id_origen": 30848,
+      "numero": 5,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 2wei Herz! Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b80bd6703c274cdb50d8d1fd2a020ab.jpg",
+      "url_origen": "https://jkanime.net/fate-kaleid-liner-prismaillya-2wei-herz-specials/5/",
+      "publicado_en_origen": "2016-02-15 16:32:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1648",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:26:52+00:00"
+}

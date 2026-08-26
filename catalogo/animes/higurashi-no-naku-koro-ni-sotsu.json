@@ -1,0 +1,141 @@
+{
+  "id_origen": 2887,
+  "slug": "higurashi-no-naku-koro-ni-sotsu",
+  "titulo": "Higurashi no Naku Koro ni Sotsu",
+  "titulo_corto": "Higurashi no Naku Koro ni Sots...",
+  "sinopsis": "Secuela de Higurashi no Naku Koro ni Gou.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/higurashi-no-naku-koro-ni-sotsu.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/",
+  "episodios": [
+    {
+      "id_origen": 45979,
+      "numero": 1,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2749cce0a1b785f374a3185a9d0a672.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/1/",
+      "publicado_en_origen": "2021-07-01 16:15:03"
+    },
+    {
+      "id_origen": 45980,
+      "numero": 2,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f648c726ded78a0f14942f50cb519ae1.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/2/",
+      "publicado_en_origen": "2021-07-01 16:15:06"
+    },
+    {
+      "id_origen": 46027,
+      "numero": 3,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbae5e569612b58f7ae726cf94a78a8a.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/3/",
+      "publicado_en_origen": "2021-07-08 13:50:13"
+    },
+    {
+      "id_origen": 46075,
+      "numero": 4,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44ebc4e28c99d8aeaead73b4b70cc5e9.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/4/",
+      "publicado_en_origen": "2021-07-15 12:01:32"
+    },
+    {
+      "id_origen": 46124,
+      "numero": 5,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3a72a1e15a03471808f31ba3172e71c.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/5/",
+      "publicado_en_origen": "2021-07-23 02:02:45"
+    },
+    {
+      "id_origen": 46167,
+      "numero": 6,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_934b94f18de135e7d781b57311c687a0.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/6/",
+      "publicado_en_origen": "2021-07-29 12:31:11"
+    },
+    {
+      "id_origen": 46217,
+      "numero": 7,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c706c2ec1c2d50d5ea2382392dbe1b4b.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/7/",
+      "publicado_en_origen": "2021-08-05 12:14:45"
+    },
+    {
+      "id_origen": 46263,
+      "numero": 8,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2196b8476c66511b2155498ee241e75.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/8/",
+      "publicado_en_origen": "2021-08-12 11:56:05"
+    },
+    {
+      "id_origen": 46316,
+      "numero": 9,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a719fa25b2a1d8f332ce512e145d4e83.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/9/",
+      "publicado_en_origen": "2021-08-19 12:55:14"
+    },
+    {
+      "id_origen": 46373,
+      "numero": 10,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2dd2583d19832103b190bcafc17b307.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/10/",
+      "publicado_en_origen": "2021-08-26 18:19:31"
+    },
+    {
+      "id_origen": 46534,
+      "numero": 11,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a30a29822b9ea4efaa92d60a93c78cb.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/11/",
+      "publicado_en_origen": "2021-09-03 01:33:37"
+    },
+    {
+      "id_origen": 46611,
+      "numero": 12,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c4d541fc68d426aa028bc05f38164d1.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/12/",
+      "publicado_en_origen": "2021-09-09 14:29:20"
+    },
+    {
+      "id_origen": 46676,
+      "numero": 13,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4c38a34e7a5cabb2449a3a281c207bd.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/13/",
+      "publicado_en_origen": "2021-09-16 11:59:58"
+    },
+    {
+      "id_origen": 46741,
+      "numero": 14,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22c0b2a19a05fff19e92fab5a0b7728b.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/14/",
+      "publicado_en_origen": "2021-09-23 12:52:54"
+    },
+    {
+      "id_origen": 46786,
+      "numero": 15,
+      "titulo": "Higurashi no Naku Koro ni Sotsu - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e1b394bdf7237ffacb83e05be8da6a8.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-sotsu/15/",
+      "publicado_en_origen": "2021-09-30 12:12:44"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2887",
+  "cantidad_episodios_declarada": 15,
+  "detalle_extraido_en": "2026-08-26T18:30:39+00:00"
+}

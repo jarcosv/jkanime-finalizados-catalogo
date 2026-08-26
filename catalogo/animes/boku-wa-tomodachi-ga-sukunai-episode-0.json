@@ -1,0 +1,29 @@
+{
+  "id_origen": 666,
+  "slug": "boku-wa-tomodachi-ga-sukunai-episode-0",
+  "titulo": "Boku wa Tomodachi ga Sukunai Episode 0",
+  "titulo_corto": "Boku wa Tomodachi ga Sukunai E...",
+  "sinopsis": "Este OVA esta basado en el capìtulo #0 del Manga,pero es como un adelanto de como esta formado el club.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/boku-wa-tomodachi-ga-sukunai-episode-0.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/boku-wa-tomodachi-ga-sukunai-episode-0/",
+  "episodios": [
+    {
+      "id_origen": 17518,
+      "numero": 1,
+      "titulo": "Boku wa Tomodachi ga Sukunai Episode 0",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73c2bf297c5aec4bcbdeb4435328c335.jpg",
+      "url_origen": "https://jkanime.net/boku-wa-tomodachi-ga-sukunai-episode-0/1/",
+      "publicado_en_origen": "2012-09-26 22:18:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:12+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "666",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:21:12+00:00"
+}

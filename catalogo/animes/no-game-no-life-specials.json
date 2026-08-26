@@ -1,0 +1,69 @@
+{
+  "id_origen": 1184,
+  "slug": "no-game-no-life-specials",
+  "titulo": "No Game No Life Specials",
+  "titulo_corto": "No Game No Life Specials",
+  "sinopsis": "Especiales incluido en el volumen Blu-ray/DVD.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/no-game-no-life-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/no-game-no-life-specials/",
+  "episodios": [
+    {
+      "id_origen": 23864,
+      "numero": 1,
+      "titulo": "No Game No Life Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b6a98d1701494ba253b9995df8c9e6c.jpg",
+      "url_origen": "https://jkanime.net/no-game-no-life-specials/1/",
+      "publicado_en_origen": "2014-07-01 16:36:05"
+    },
+    {
+      "id_origen": 24630,
+      "numero": 2,
+      "titulo": "No Game No Life Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5349b04f18ab7fbe289988507bb1ea35.jpg",
+      "url_origen": "https://jkanime.net/no-game-no-life-specials/2/",
+      "publicado_en_origen": "2014-09-03 23:02:17"
+    },
+    {
+      "id_origen": 24631,
+      "numero": 3,
+      "titulo": "No Game No Life Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb3cee21198139fa6a21866d764cc4b8.jpg",
+      "url_origen": "https://jkanime.net/no-game-no-life-specials/3/",
+      "publicado_en_origen": "2014-09-03 23:05:19"
+    },
+    {
+      "id_origen": 25028,
+      "numero": 4,
+      "titulo": "No Game No Life Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca97f360a1f78cb7e0417131c8b3fc76.jpg",
+      "url_origen": "https://jkanime.net/no-game-no-life-specials/4/",
+      "publicado_en_origen": "2014-10-08 14:52:14"
+    },
+    {
+      "id_origen": 25363,
+      "numero": 5,
+      "titulo": "No Game No Life Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29f6bff5f05251565c618bbb35143c06.jpg",
+      "url_origen": "https://jkanime.net/no-game-no-life-specials/5/",
+      "publicado_en_origen": "2014-11-10 20:46:12"
+    },
+    {
+      "id_origen": 26325,
+      "numero": 6,
+      "titulo": "No Game No Life Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b5bdfc3463973353c96415d45663cc4.jpg",
+      "url_origen": "https://jkanime.net/no-game-no-life-specials/6/",
+      "publicado_en_origen": "2015-01-07 09:27:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1184",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:40:33+00:00"
+}

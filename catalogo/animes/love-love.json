@@ -1,0 +1,93 @@
+{
+  "id_origen": 4326,
+  "slug": "love-love",
+  "titulo": "Love♥Love?",
+  "titulo_corto": "Love♥Love?",
+  "sinopsis": "Naoto Ooizumi es el guionista del programa de televisión CosPrayers, aunque esto es un secreto que solo conoce el productor del programa, Mitsuki Ikuta. Está enamorado de una de las actrices del programa, Natsumi Yagami. A medida que avanza el programa, también lo hace su relación, con muchos giros y vueltas extravagantes por el camino.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/love-love.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/love-love/",
+  "episodios": [
+    {
+      "id_origen": 66859,
+      "numero": 1,
+      "titulo": "Love♥Love? - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_880cd951894c9abe22bb4054a66901d2.jpg",
+      "url_origen": "https://jkanime.net/love-love/1/",
+      "publicado_en_origen": "2025-08-16 23:28:45"
+    },
+    {
+      "id_origen": 66860,
+      "numero": 2,
+      "titulo": "Love♥Love? - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9638c793faa52b528f38d4ea1a440fa8.jpg",
+      "url_origen": "https://jkanime.net/love-love/2/",
+      "publicado_en_origen": "2025-08-16 23:28:45"
+    },
+    {
+      "id_origen": 66861,
+      "numero": 3,
+      "titulo": "Love♥Love? - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_adb77fa2dee91ea64c47a31c05f94702.jpg",
+      "url_origen": "https://jkanime.net/love-love/3/",
+      "publicado_en_origen": "2025-08-16 23:28:45"
+    },
+    {
+      "id_origen": 66862,
+      "numero": 4,
+      "titulo": "Love♥Love? - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfefb5bf7c6f0b546a968cccec7870bf.jpg",
+      "url_origen": "https://jkanime.net/love-love/4/",
+      "publicado_en_origen": "2025-08-16 23:28:45"
+    },
+    {
+      "id_origen": 66863,
+      "numero": 5,
+      "titulo": "Love♥Love? - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14ac5772700f93d7f4878ecc7ad38829.jpg",
+      "url_origen": "https://jkanime.net/love-love/5/",
+      "publicado_en_origen": "2025-08-16 23:28:45"
+    },
+    {
+      "id_origen": 66864,
+      "numero": 6,
+      "titulo": "Love♥Love? - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f187ed1a65a106c83eaf3a1b751e8ef4.jpg",
+      "url_origen": "https://jkanime.net/love-love/6/",
+      "publicado_en_origen": "2025-08-16 23:28:45"
+    },
+    {
+      "id_origen": 66865,
+      "numero": 7,
+      "titulo": "Love♥Love? - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51436b2c152fa820c46b84324a0d2e9e.jpg",
+      "url_origen": "https://jkanime.net/love-love/7/",
+      "publicado_en_origen": "2025-08-16 23:28:45"
+    },
+    {
+      "id_origen": 66866,
+      "numero": 8,
+      "titulo": "Love♥Love? - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_244da51e344a92cd046b94c3863d6882.jpg",
+      "url_origen": "https://jkanime.net/love-love/8/",
+      "publicado_en_origen": "2025-08-16 23:28:45"
+    },
+    {
+      "id_origen": 66867,
+      "numero": 9,
+      "titulo": "Love♥Love? - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6c7c56fcb31d31325326851920000e4.jpg",
+      "url_origen": "https://jkanime.net/love-love/9/",
+      "publicado_en_origen": "2025-08-16 23:28:45"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4326",
+  "cantidad_episodios_declarada": 9,
+  "detalle_extraido_en": "2026-08-26T18:36:49+00:00"
+}

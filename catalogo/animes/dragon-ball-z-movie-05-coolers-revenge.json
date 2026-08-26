@@ -1,0 +1,29 @@
+{
+  "id_origen": 497,
+  "slug": "dragon-ball-z-movie-05-coolers-revenge",
+  "titulo": "Dragon Ball Z Movie 05: Cooler's Revenge",
+  "titulo_corto": "Dragon Ball Z Movie 05: Cooler...",
+  "sinopsis": "Tras enterarse de la muerte de Freezer, Cooler llega a la tierra con la intención de matar a Son Goku, para vengar la muerte de su hermano y así acabar con la raza de los Saiyajin a los cuales Cooler y todos los de su especie odian.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-z-movie-05-coolers-revenge.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-z-movie-05-coolers-revenge/",
+  "episodios": [
+    {
+      "id_origen": 14548,
+      "numero": 1,
+      "titulo": "Dragon Ball Z Movie 05: Cooler's Revenge",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25e95f3f099c48ac55080b306cfd0590.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z-movie-05-coolers-revenge/1/",
+      "publicado_en_origen": "2012-01-16 20:32:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "497",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:45+00:00"
+}

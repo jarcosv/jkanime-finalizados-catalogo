@@ -1,0 +1,221 @@
+{
+  "id_origen": 306,
+  "slug": "pandora-hearts",
+  "titulo": "Pandora Hearts",
+  "titulo_corto": "Pandora Hearts",
+  "sinopsis": "Oz Bezarius, heredero de una de las 4 casas del duque, ha cumplido 15 años. Su vida es de ricos y libre de preocupaciones, obscurecida sólo por la ausencia de su padre. Aunque en la ceremonia de su cumpleaños todo cambia, por ninguna razón que el pueda entender, es llevado a una prisión conocida como Abyss, para ser salvado por un Chain (criaturas originarias del abyss) con forma de un conejo negro manchado de sangre de nombre Alice, para ser integrado aun grupo de nombre Pandora.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pandora-hearts.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pandora-hearts/",
+  "episodios": [
+    {
+      "id_origen": 8545,
+      "numero": 1,
+      "titulo": "Pandora Hearts 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bd53571b97884635d13910db49626bc.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/1/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8546,
+      "numero": 2,
+      "titulo": "Pandora Hearts 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f4059ce1227f021edc5d9c6f0f17dc1.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/2/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8547,
+      "numero": 3,
+      "titulo": "Pandora Hearts 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00989c20ff1386dc386d8124ebcba1a5.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/3/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8548,
+      "numero": 4,
+      "titulo": "Pandora Hearts 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_832688ff5af6c6dfef974773740ef2b5.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/4/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8549,
+      "numero": 5,
+      "titulo": "Pandora Hearts 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3dfe2f633108d604df160cd1b01710db.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/5/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8550,
+      "numero": 6,
+      "titulo": "Pandora Hearts 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e992111e4ab9985366e806733383bd8c.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/6/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8551,
+      "numero": 7,
+      "titulo": "Pandora Hearts 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebeb300882677f350ea818c8f333f5b9.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/7/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8552,
+      "numero": 8,
+      "titulo": "Pandora Hearts 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a563b6d5abbf137175059d6bb14672cc.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/8/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8553,
+      "numero": 9,
+      "titulo": "Pandora Hearts 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b93f11867481fc6d77908aea58ba6198.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/9/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8554,
+      "numero": 10,
+      "titulo": "Pandora Hearts 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be23c41621390a448779ee72409e5f49.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/10/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8555,
+      "numero": 11,
+      "titulo": "Pandora Hearts 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdad3b5b2200b598dfde9517e5b426a8.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/11/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8556,
+      "numero": 12,
+      "titulo": "Pandora Hearts 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf5d232e6c54a84b97769a91adb1642f.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/12/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8557,
+      "numero": 13,
+      "titulo": "Pandora Hearts 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d01c25576ff1c53de58e0e6970a2d510.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/13/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8558,
+      "numero": 14,
+      "titulo": "Pandora Hearts 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9cf46a38a9b05e959f33215e5cdc38a.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/14/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8559,
+      "numero": 15,
+      "titulo": "Pandora Hearts 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0ad6deb373037e7f63f219c850e3396.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/15/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8560,
+      "numero": 16,
+      "titulo": "Pandora Hearts 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc05ca60f2f0d67d0525f41d1d8f8717.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/16/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8561,
+      "numero": 17,
+      "titulo": "Pandora Hearts 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d92c08873b4979b544e7fb64fdb1c6c.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/17/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8562,
+      "numero": 18,
+      "titulo": "Pandora Hearts 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37cfff3c04f95b22bcf166df586cd7a9.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/18/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8563,
+      "numero": 19,
+      "titulo": "Pandora Hearts 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91a575b38c7c4526decc579655a2a49c.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/19/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8564,
+      "numero": 20,
+      "titulo": "Pandora Hearts 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_621eb0b827c09dd1804e87bd74f79383.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/20/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8565,
+      "numero": 21,
+      "titulo": "Pandora Hearts 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7439aebdba054f0d586d486ef2aff185.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/21/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8566,
+      "numero": 22,
+      "titulo": "Pandora Hearts 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbb17c69f51a5950e05e08cc14599b57.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/22/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8567,
+      "numero": 23,
+      "titulo": "Pandora Hearts 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e17a5fd135fcaf4b49f2860c2474c7c.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/23/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8568,
+      "numero": 24,
+      "titulo": "Pandora Hearts 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a336426e09602a4f0118326dd6c72ac.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/24/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8569,
+      "numero": 25,
+      "titulo": "Pandora Hearts 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8cd7775f9129da8b5bf787a063d8426e.jpg",
+      "url_origen": "https://jkanime.net/pandora-hearts/25/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:22+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "306",
+  "cantidad_episodios_declarada": 25,
+  "detalle_extraido_en": "2026-08-26T18:41:58+00:00"
+}

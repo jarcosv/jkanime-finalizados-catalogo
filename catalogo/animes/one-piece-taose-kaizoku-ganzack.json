@@ -1,0 +1,29 @@
+{
+  "id_origen": 614,
+  "slug": "one-piece-taose-kaizoku-ganzack",
+  "titulo": "One Piece: Taose! Kaizoku Ganzack",
+  "titulo_corto": "One Piece: Taose! Kaizoku Ganz...",
+  "sinopsis": "Esta OVA data de 1998, por lo que los personajes que aparecen son Luffy, Zoro y Nami. La trama ocurre cronológicamente después de la batalla con Buggy, comenzando con Luffy y los demás en el bote siendo atacados por un monstruo marino. Tras esto llegan a una isla gobernada por un pirata llamado Ganzack, a quien tienen que vencer para liberar un pueblo. \n\nEste ova no tiene las voces que se usan en la serie porque la hicieron antes de la serie para ver la respuesta del público al anime.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece-taose-kaizoku-ganzack.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-piece-taose-kaizoku-ganzack/",
+  "episodios": [
+    {
+      "id_origen": 16556,
+      "numero": 1,
+      "titulo": "One Piece: Derrota Al Pirata Ganzack!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdd2216bce00598e1d27af72cd761323.jpg",
+      "url_origen": "https://jkanime.net/one-piece-taose-kaizoku-ganzack/1/",
+      "publicado_en_origen": "2012-08-14 02:11:56"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "614",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:11+00:00"
+}

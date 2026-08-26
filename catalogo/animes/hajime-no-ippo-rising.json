@@ -1,0 +1,221 @@
+{
+  "id_origen": 959,
+  "slug": "hajime-no-ippo-rising",
+  "titulo": "Hajime no Ippo: Rising",
+  "titulo_corto": "Hajime no Ippo: Rising",
+  "sinopsis": "Tercera serie de Hajime no Ippo",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hajime-no-ippo-rising.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hajime-no-ippo-rising/",
+  "episodios": [
+    {
+      "id_origen": 21668,
+      "numero": 1,
+      "titulo": "Hajime no Ippo: Rising - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fec16d1d594dae3de2fc1d8536896760.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/1/",
+      "publicado_en_origen": "2013-10-05 14:11:38"
+    },
+    {
+      "id_origen": 21722,
+      "numero": 2,
+      "titulo": "Hajime no Ippo: Rising - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c0592c2f4067cf98dc39a5f0734105d.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/2/",
+      "publicado_en_origen": "2013-10-12 15:36:28"
+    },
+    {
+      "id_origen": 21774,
+      "numero": 3,
+      "titulo": "Hajime no Ippo: Rising - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00f8e7cd652928cc21bad69b97a28a3f.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/3/",
+      "publicado_en_origen": "2013-10-19 14:10:12"
+    },
+    {
+      "id_origen": 21828,
+      "numero": 4,
+      "titulo": "Hajime no Ippo: Rising - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_172542e23fd13f9c57b7fda580df52eb.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/4/",
+      "publicado_en_origen": "2013-10-26 14:08:53"
+    },
+    {
+      "id_origen": 21877,
+      "numero": 5,
+      "titulo": "Hajime no Ippo: Rising - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e778f5c84ed2c8a8dbc05418c90732e3.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/5/",
+      "publicado_en_origen": "2013-11-02 14:10:35"
+    },
+    {
+      "id_origen": 21929,
+      "numero": 6,
+      "titulo": "Hajime no Ippo: Rising - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00e9de08dddfe2521abb83e8fbc041c4.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/6/",
+      "publicado_en_origen": "2013-11-09 15:09:04"
+    },
+    {
+      "id_origen": 21982,
+      "numero": 7,
+      "titulo": "Hajime no Ippo: Rising - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f997c52f51d33af5ee690d9455bb6a90.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/7/",
+      "publicado_en_origen": "2013-11-16 17:06:56"
+    },
+    {
+      "id_origen": 22033,
+      "numero": 8,
+      "titulo": "Hajime no Ippo: Rising - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cdd31af4e1036bd1d21858cbae5fbe5.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/8/",
+      "publicado_en_origen": "2013-11-23 15:09:05"
+    },
+    {
+      "id_origen": 22085,
+      "numero": 9,
+      "titulo": "Hajime no Ippo: Rising - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_314426bd564599865c676dbb6dc198c4.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/9/",
+      "publicado_en_origen": "2013-11-30 16:07:27"
+    },
+    {
+      "id_origen": 22137,
+      "numero": 10,
+      "titulo": "Hajime no Ippo: Rising - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_306be5c84f4338ff865ca4793fb328f3.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/10/",
+      "publicado_en_origen": "2013-12-07 16:37:25"
+    },
+    {
+      "id_origen": 22295,
+      "numero": 11,
+      "titulo": "Hajime no Ippo: Rising - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1c00a2f6954af5c7e8a7ce39fdf37f7.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/11/",
+      "publicado_en_origen": "2013-12-28 16:06:04"
+    },
+    {
+      "id_origen": 22358,
+      "numero": 12,
+      "titulo": "Hajime no Ippo: Rising - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc4c3b5809a65c60642bc8f144321208.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/12/",
+      "publicado_en_origen": "2014-01-04 15:07:28"
+    },
+    {
+      "id_origen": 22359,
+      "numero": 13,
+      "titulo": "Hajime no Ippo: Rising - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b1e2ac88089bded4f4926a74b303bab.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/13/",
+      "publicado_en_origen": "2014-01-04 15:39:32"
+    },
+    {
+      "id_origen": 22411,
+      "numero": 14,
+      "titulo": "Hajime no Ippo: Rising - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca6ed2184e0a73820615ffb7d0795138.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/14/",
+      "publicado_en_origen": "2014-01-11 15:11:23"
+    },
+    {
+      "id_origen": 22473,
+      "numero": 15,
+      "titulo": "Hajime no Ippo: Rising - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4faf133ea46f7ee2eac98fb2c9481c6a.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/15/",
+      "publicado_en_origen": "2014-01-18 15:16:34"
+    },
+    {
+      "id_origen": 22528,
+      "numero": 16,
+      "titulo": "Hajime no Ippo: Rising - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64cd897efd43c51df40b76102911fe53.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/16/",
+      "publicado_en_origen": "2014-01-25 15:17:56"
+    },
+    {
+      "id_origen": 22591,
+      "numero": 17,
+      "titulo": "Hajime no Ippo: Rising - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a8d63122e7a60daa2fc89fb0ab231bb.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/17/",
+      "publicado_en_origen": "2014-02-01 15:10:54"
+    },
+    {
+      "id_origen": 22651,
+      "numero": 18,
+      "titulo": "Hajime no Ippo: Rising - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ec598af99b9d4aaebf70720aac3b5d4.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/18/",
+      "publicado_en_origen": "2014-02-08 15:10:26"
+    },
+    {
+      "id_origen": 22719,
+      "numero": 19,
+      "titulo": "Hajime no Ippo: Rising - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09982e07c27a59881a8bd3d7dddc85fa.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/19/",
+      "publicado_en_origen": "2014-02-15 15:09:52"
+    },
+    {
+      "id_origen": 22777,
+      "numero": 20,
+      "titulo": "Hajime no Ippo: Rising - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49858c651ec3fa4fe935672241871834.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/20/",
+      "publicado_en_origen": "2014-02-22 15:07:22"
+    },
+    {
+      "id_origen": 22841,
+      "numero": 21,
+      "titulo": "Hajime no Ippo: Rising - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5221291cf666b52f47a3f60d8fdc3025.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/21/",
+      "publicado_en_origen": "2014-03-01 15:07:43"
+    },
+    {
+      "id_origen": 22902,
+      "numero": 22,
+      "titulo": "Hajime no Ippo: Rising - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09765ccd8bc43e4778ad91d76f020e15.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/22/",
+      "publicado_en_origen": "2014-03-08 15:11:01"
+    },
+    {
+      "id_origen": 22965,
+      "numero": 23,
+      "titulo": "Hajime no Ippo: Rising - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b236326e0bebcea6064f88b2fe71a080.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/23/",
+      "publicado_en_origen": "2014-03-15 14:11:34"
+    },
+    {
+      "id_origen": 23042,
+      "numero": 24,
+      "titulo": "Hajime no Ippo: Rising - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_723c26b3460897d11db04474db0e0501.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/24/",
+      "publicado_en_origen": "2014-03-22 14:11:49"
+    },
+    {
+      "id_origen": 23097,
+      "numero": 25,
+      "titulo": "Hajime no Ippo: Rising - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51b51df8a3111f3a0cde084b46acf1b6.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo-rising/25/",
+      "publicado_en_origen": "2014-03-29 16:13:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "959",
+  "cantidad_episodios_declarada": 25,
+  "detalle_extraido_en": "2026-08-26T18:29:36+00:00"
+}

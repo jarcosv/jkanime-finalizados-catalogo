@@ -1,0 +1,117 @@
+{
+  "id_origen": 2603,
+  "slug": "227",
+  "titulo": "22/7",
+  "titulo_corto": "22/7",
+  "sinopsis": "Serie de TV Anime para Idol Group 22/7, programada para enero de 2020.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/227.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/227/",
+  "episodios": [
+    {
+      "id_origen": 41911,
+      "numero": 1,
+      "titulo": "22/7 - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_862690c612c4c41a2ddceb9bf7a5c848.jpg",
+      "url_origen": "https://jkanime.net/227/1/",
+      "publicado_en_origen": "2020-01-11 19:58:01"
+    },
+    {
+      "id_origen": 41966,
+      "numero": 2,
+      "titulo": "22/7 - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b44f35d2d7e1ffa2ac7aef78062d9587.jpg",
+      "url_origen": "https://jkanime.net/227/2/",
+      "publicado_en_origen": "2020-01-18 16:53:16"
+    },
+    {
+      "id_origen": 42022,
+      "numero": 3,
+      "titulo": "22/7 - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cb189e9f3764c6b4a0d13c44bd922d8.jpg",
+      "url_origen": "https://jkanime.net/227/3/",
+      "publicado_en_origen": "2020-01-25 15:34:43"
+    },
+    {
+      "id_origen": 42077,
+      "numero": 4,
+      "titulo": "22/7 - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d4b139b99fa4e14170492f54032c321.jpg",
+      "url_origen": "https://jkanime.net/227/4/",
+      "publicado_en_origen": "2020-02-01 16:41:36"
+    },
+    {
+      "id_origen": 42137,
+      "numero": 5,
+      "titulo": "22/7 - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8899121cddf50938e8780e98f23bd1e.jpg",
+      "url_origen": "https://jkanime.net/227/5/",
+      "publicado_en_origen": "2020-02-08 16:20:42"
+    },
+    {
+      "id_origen": 42189,
+      "numero": 6,
+      "titulo": "22/7 - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a07b9dcaf56fd34c1a3a6c1a478d3c1.jpg",
+      "url_origen": "https://jkanime.net/227/6/",
+      "publicado_en_origen": "2020-02-15 15:42:21"
+    },
+    {
+      "id_origen": 42236,
+      "numero": 7,
+      "titulo": "22/7 - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9444fa07bac24944bbdfc42548cdd281.jpg",
+      "url_origen": "https://jkanime.net/227/7/",
+      "publicado_en_origen": "2020-02-22 16:08:07"
+    },
+    {
+      "id_origen": 42289,
+      "numero": 8,
+      "titulo": "22/7 - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a82d667c0d647b93386af011ae26b09c.jpg",
+      "url_origen": "https://jkanime.net/227/8/",
+      "publicado_en_origen": "2020-02-29 16:10:58"
+    },
+    {
+      "id_origen": 42342,
+      "numero": 9,
+      "titulo": "22/7 - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f725650f4fdec0cc8d4099bb7c8b9d4.jpg",
+      "url_origen": "https://jkanime.net/227/9/",
+      "publicado_en_origen": "2020-03-07 23:09:01"
+    },
+    {
+      "id_origen": 42396,
+      "numero": 10,
+      "titulo": "22/7 - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c60e0a0674f9b469a9cbfd26c549f233.jpg",
+      "url_origen": "https://jkanime.net/227/10/",
+      "publicado_en_origen": "2020-03-14 16:16:32"
+    },
+    {
+      "id_origen": 42511,
+      "numero": 11,
+      "titulo": "22/7 - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f77d77a3ccd2278ae5786de7012b816.jpg",
+      "url_origen": "https://jkanime.net/227/11/",
+      "publicado_en_origen": "2020-03-21 15:59:33"
+    },
+    {
+      "id_origen": 42573,
+      "numero": 12,
+      "titulo": "22/7 - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ad0732636df966fa9dbf2ced5eb721d.jpg",
+      "url_origen": "https://jkanime.net/227/12/",
+      "publicado_en_origen": "2020-03-28 19:53:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2603",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:14:39+00:00"
+}

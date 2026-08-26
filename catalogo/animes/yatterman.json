@@ -1,0 +1,501 @@
+{
+  "id_origen": 1449,
+  "slug": "yatterman",
+  "titulo": "Yatterman",
+  "titulo_corto": "Yatterman",
+  "sinopsis": "El trio de villanos, el equipo Doronbo (la bella Doronjo, el \"cerebro\" Boyacky y el fuerte, Tonzlar), estan en la búsqueda de 5 anillos Dokuro que supuestamente al reunirse pueden realizar cualquier deseo, liderados por el misterioso Dokurobey. Pero no contaran con que los Yatterman estaran ahi para impedir sus fechorias, junto con su mecha Yatterwan",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yatterman.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yatterman/",
+  "episodios": [
+    {
+      "id_origen": 26823,
+      "numero": 1,
+      "titulo": "Yatterman - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f96e47253a9f882207e621f642aa2f1.jpg",
+      "url_origen": "https://jkanime.net/yatterman/1/",
+      "publicado_en_origen": "2015-02-22 20:41:32"
+    },
+    {
+      "id_origen": 26824,
+      "numero": 2,
+      "titulo": "Yatterman - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0fbc278c837b35c1f44ee5e2edd8c57.jpg",
+      "url_origen": "https://jkanime.net/yatterman/2/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26825,
+      "numero": 3,
+      "titulo": "Yatterman - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20ab3465d85c1a8a408d7d0897f12cc8.jpg",
+      "url_origen": "https://jkanime.net/yatterman/3/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26826,
+      "numero": 4,
+      "titulo": "Yatterman - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e8f7238ab0896d715cb6b1cc132e687.jpg",
+      "url_origen": "https://jkanime.net/yatterman/4/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26827,
+      "numero": 5,
+      "titulo": "Yatterman - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b03e8bef90a87a63643cb663e2b5bc1c.jpg",
+      "url_origen": "https://jkanime.net/yatterman/5/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26828,
+      "numero": 6,
+      "titulo": "Yatterman - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8aece0882371f438c829bccb995a927.jpg",
+      "url_origen": "https://jkanime.net/yatterman/6/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26829,
+      "numero": 7,
+      "titulo": "Yatterman - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_926ab1fb414d6a7d15f054003772485e.jpg",
+      "url_origen": "https://jkanime.net/yatterman/7/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26830,
+      "numero": 8,
+      "titulo": "Yatterman - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f9d99f598cb439e8e733a3c7bb9892c.jpg",
+      "url_origen": "https://jkanime.net/yatterman/8/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26831,
+      "numero": 9,
+      "titulo": "Yatterman - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_016593245beddeaca1d621d5abdcdabc.jpg",
+      "url_origen": "https://jkanime.net/yatterman/9/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26832,
+      "numero": 10,
+      "titulo": "Yatterman - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c35b2cafc3270e16ca434e74469b06e.jpg",
+      "url_origen": "https://jkanime.net/yatterman/10/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26833,
+      "numero": 11,
+      "titulo": "Yatterman - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_487cf32249fbaaa5a79258e26d54fe19.jpg",
+      "url_origen": "https://jkanime.net/yatterman/11/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26834,
+      "numero": 12,
+      "titulo": "Yatterman - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_980e5ef572c190392a6fe0dd63b3d917.jpg",
+      "url_origen": "https://jkanime.net/yatterman/12/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26835,
+      "numero": 13,
+      "titulo": "Yatterman - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c78bd132fff9eb9d47d4759fb8eda13.jpg",
+      "url_origen": "https://jkanime.net/yatterman/13/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26836,
+      "numero": 14,
+      "titulo": "Yatterman - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_349d1b48b0d3e9eb26198ce1cdc41785.jpg",
+      "url_origen": "https://jkanime.net/yatterman/14/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26837,
+      "numero": 15,
+      "titulo": "Yatterman - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65f76dcdbd789fbe2623a33ab6b35da0.jpg",
+      "url_origen": "https://jkanime.net/yatterman/15/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26838,
+      "numero": 16,
+      "titulo": "Yatterman - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af3de23c3548eaaf65ba6278bacbf607.jpg",
+      "url_origen": "https://jkanime.net/yatterman/16/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26839,
+      "numero": 17,
+      "titulo": "Yatterman - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_085dfc68338d1ed37766086a1aee1934.jpg",
+      "url_origen": "https://jkanime.net/yatterman/17/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26840,
+      "numero": 18,
+      "titulo": "Yatterman - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a371879ae7ae905850d5dee733f303e.jpg",
+      "url_origen": "https://jkanime.net/yatterman/18/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26841,
+      "numero": 19,
+      "titulo": "Yatterman - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b657ef04b82a6d69359b3bc0b3682df.jpg",
+      "url_origen": "https://jkanime.net/yatterman/19/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26842,
+      "numero": 20,
+      "titulo": "Yatterman - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63f6019ca436ea42e23a670f0bca5a8f.jpg",
+      "url_origen": "https://jkanime.net/yatterman/20/",
+      "publicado_en_origen": "2015-02-22 20:41:33"
+    },
+    {
+      "id_origen": 26843,
+      "numero": 21,
+      "titulo": "Yatterman - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_719653e675f24537d4cb647537a2a04f.jpg",
+      "url_origen": "https://jkanime.net/yatterman/21/",
+      "publicado_en_origen": "2015-02-22 21:07:17"
+    },
+    {
+      "id_origen": 26844,
+      "numero": 22,
+      "titulo": "Yatterman - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b599334e079a6a767ca85659336408fc.jpg",
+      "url_origen": "https://jkanime.net/yatterman/22/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26845,
+      "numero": 23,
+      "titulo": "Yatterman - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82aaf51e525fa53f5ba42f99bfb77e5a.jpg",
+      "url_origen": "https://jkanime.net/yatterman/23/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26846,
+      "numero": 24,
+      "titulo": "Yatterman - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bceca960386ff1b9b627b4db3d12bf0e.jpg",
+      "url_origen": "https://jkanime.net/yatterman/24/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26847,
+      "numero": 25,
+      "titulo": "Yatterman - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e959726dba7c579f0a05b0b62597fb0.jpg",
+      "url_origen": "https://jkanime.net/yatterman/25/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26848,
+      "numero": 26,
+      "titulo": "Yatterman - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fc3b24f7a2deb8b63dc3505eb1196f4.jpg",
+      "url_origen": "https://jkanime.net/yatterman/26/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26849,
+      "numero": 27,
+      "titulo": "Yatterman - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba8e2e450af203ab114d338707251486.jpg",
+      "url_origen": "https://jkanime.net/yatterman/27/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26850,
+      "numero": 28,
+      "titulo": "Yatterman - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d9a49f74cd1c1740ce05485e41258b8.jpg",
+      "url_origen": "https://jkanime.net/yatterman/28/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26851,
+      "numero": 29,
+      "titulo": "Yatterman - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50ab6aa42d206917721ed0e79778ab9f.jpg",
+      "url_origen": "https://jkanime.net/yatterman/29/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26852,
+      "numero": 30,
+      "titulo": "Yatterman - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a79a7ede1f5c12290122e93a1331a7e.jpg",
+      "url_origen": "https://jkanime.net/yatterman/30/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26853,
+      "numero": 31,
+      "titulo": "Yatterman - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3a45758fe1e808fd1d41b62d7784a93.jpg",
+      "url_origen": "https://jkanime.net/yatterman/31/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26854,
+      "numero": 32,
+      "titulo": "Yatterman - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_030114f8f0e921e7b452349373998ecf.jpg",
+      "url_origen": "https://jkanime.net/yatterman/32/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26855,
+      "numero": 33,
+      "titulo": "Yatterman - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_918c664336dd5deb4242e350cd718e34.jpg",
+      "url_origen": "https://jkanime.net/yatterman/33/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26856,
+      "numero": 34,
+      "titulo": "Yatterman - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa45ea35cbdcb42012f2bf55012a0624.jpg",
+      "url_origen": "https://jkanime.net/yatterman/34/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26857,
+      "numero": 35,
+      "titulo": "Yatterman - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea9be6ea49c5c752abb11953955c90e4.jpg",
+      "url_origen": "https://jkanime.net/yatterman/35/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26858,
+      "numero": 36,
+      "titulo": "Yatterman - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_680a8d55cea7984805c47e807c854f84.jpg",
+      "url_origen": "https://jkanime.net/yatterman/36/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26859,
+      "numero": 37,
+      "titulo": "Yatterman - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b9f221c0a8ce23d96068fafae80c7ec.jpg",
+      "url_origen": "https://jkanime.net/yatterman/37/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26860,
+      "numero": 38,
+      "titulo": "Yatterman - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_737b0dc5f7113a4a045cd290bc2ae2d9.jpg",
+      "url_origen": "https://jkanime.net/yatterman/38/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26861,
+      "numero": 39,
+      "titulo": "Yatterman - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_542a659782a0b10f3b9bf402455d3169.jpg",
+      "url_origen": "https://jkanime.net/yatterman/39/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26862,
+      "numero": 40,
+      "titulo": "Yatterman - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78cbed4fe8f2183ff46d7fe89d8adc8b.jpg",
+      "url_origen": "https://jkanime.net/yatterman/40/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26863,
+      "numero": 41,
+      "titulo": "Yatterman - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5af545e99254638ce9829ea2329f72d4.jpg",
+      "url_origen": "https://jkanime.net/yatterman/41/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26864,
+      "numero": 42,
+      "titulo": "Yatterman - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_223fa774f48cac82119ba7bbcdd475d2.jpg",
+      "url_origen": "https://jkanime.net/yatterman/42/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26865,
+      "numero": 43,
+      "titulo": "Yatterman - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bfa4291fb5844d8d79e81724c9d853c.jpg",
+      "url_origen": "https://jkanime.net/yatterman/43/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26866,
+      "numero": 44,
+      "titulo": "Yatterman - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d0f68a61e11580c1bb37d4aacd6812b.jpg",
+      "url_origen": "https://jkanime.net/yatterman/44/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26867,
+      "numero": 45,
+      "titulo": "Yatterman - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_715eb56d3f3b71792e230102d1da496d.jpg",
+      "url_origen": "https://jkanime.net/yatterman/45/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26868,
+      "numero": 46,
+      "titulo": "Yatterman - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4dff7cccfc092f41b8170fc6d7dc93c0.jpg",
+      "url_origen": "https://jkanime.net/yatterman/46/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26869,
+      "numero": 47,
+      "titulo": "Yatterman - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_743c11a9f3cb65cda4994bbdfb66c398.jpg",
+      "url_origen": "https://jkanime.net/yatterman/47/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26870,
+      "numero": 48,
+      "titulo": "Yatterman - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a25a6cb241dbe44d927ea9eac5a61172.jpg",
+      "url_origen": "https://jkanime.net/yatterman/48/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26871,
+      "numero": 49,
+      "titulo": "Yatterman - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e055a992677dc62362dc6ceda3245224.jpg",
+      "url_origen": "https://jkanime.net/yatterman/49/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26872,
+      "numero": 50,
+      "titulo": "Yatterman - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36609c3d6cf0d6ca0887852c9d84e57d.jpg",
+      "url_origen": "https://jkanime.net/yatterman/50/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26873,
+      "numero": 51,
+      "titulo": "Yatterman - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fd66c5975077d9f15277a2a720177ef.jpg",
+      "url_origen": "https://jkanime.net/yatterman/51/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26874,
+      "numero": 52,
+      "titulo": "Yatterman - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c471a5a93a3404ab1cfb8c054d2c693.jpg",
+      "url_origen": "https://jkanime.net/yatterman/52/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26875,
+      "numero": 53,
+      "titulo": "Yatterman - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_813b55971c67156836f1bc15e45726d2.jpg",
+      "url_origen": "https://jkanime.net/yatterman/53/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26876,
+      "numero": 54,
+      "titulo": "Yatterman - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_053dccd2601742e2936ae968bbf315a9.jpg",
+      "url_origen": "https://jkanime.net/yatterman/54/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26877,
+      "numero": 55,
+      "titulo": "Yatterman - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6ce7db38187cc8f163c21f26b62879b.jpg",
+      "url_origen": "https://jkanime.net/yatterman/55/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26878,
+      "numero": 56,
+      "titulo": "Yatterman - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_652d3e8f602e98b4536335f978450167.jpg",
+      "url_origen": "https://jkanime.net/yatterman/56/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26879,
+      "numero": 57,
+      "titulo": "Yatterman - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ea1a7505194e632a33246e1c7a1a0ee.jpg",
+      "url_origen": "https://jkanime.net/yatterman/57/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26880,
+      "numero": 58,
+      "titulo": "Yatterman - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4028aad989b92a2aaf6fc94295aaf8ab.jpg",
+      "url_origen": "https://jkanime.net/yatterman/58/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26881,
+      "numero": 59,
+      "titulo": "Yatterman - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c60392079b5d4a6add00946bdfe44e02.jpg",
+      "url_origen": "https://jkanime.net/yatterman/59/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    },
+    {
+      "id_origen": 26882,
+      "numero": 60,
+      "titulo": "Yatterman - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_268babcef5bee84a9b0062daedaf86af.jpg",
+      "url_origen": "https://jkanime.net/yatterman/60/",
+      "publicado_en_origen": "2015-02-22 21:07:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1449",
+  "cantidad_episodios_declarada": 60,
+  "detalle_extraido_en": "2026-08-26T18:52:48+00:00"
+}

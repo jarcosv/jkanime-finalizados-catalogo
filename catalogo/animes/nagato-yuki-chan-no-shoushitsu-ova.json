@@ -1,0 +1,29 @@
+{
+  "id_origen": 1700,
+  "slug": "nagato-yuki-chan-no-shoushitsu-ova",
+  "titulo": "Nagato Yuki-chan no Shoushitsu OVA",
+  "titulo_corto": "Nagato Yuki-chan no Shoushitsu...",
+  "sinopsis": "OVA incluida en el volumen 9 del manga",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nagato-yuki-chan-no-shoushitsu-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nagato-yuki-chan-no-shoushitsu-ova/",
+  "episodios": [
+    {
+      "id_origen": 29893,
+      "numero": 1,
+      "titulo": "Nagato Yuki-chan no Shoushitsu OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nagato-yuki-chan-no-shoushitsu-ova.jpg",
+      "url_origen": "https://jkanime.net/nagato-yuki-chan-no-shoushitsu-ova/1/",
+      "publicado_en_origen": "2015-10-23 16:22:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1700",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:35+00:00"
+}

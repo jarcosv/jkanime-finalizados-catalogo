@@ -1,0 +1,53 @@
+{
+  "id_origen": 1323,
+  "slug": "steins-gate-soumei-eichi-no-cognitive-computing",
+  "titulo": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+  "titulo_corto": "Steins;Gate: Soumei Eichi no C...",
+  "sinopsis": "Cortos creados en colaboración de IBM.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/steins-gate-soumei-eichi-no-cognitive-computing.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/steins-gate-soumei-eichi-no-cognitive-computing/",
+  "episodios": [
+    {
+      "id_origen": 25086,
+      "numero": 1,
+      "titulo": "Steins;Gate: Soumei Eichi no Cognitive Computing - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acb3e29171829ebd25544aa20017060c.jpg",
+      "url_origen": "https://jkanime.net/steins-gate-soumei-eichi-no-cognitive-computing/1/",
+      "publicado_en_origen": "2014-10-15 12:04:12"
+    },
+    {
+      "id_origen": 25162,
+      "numero": 2,
+      "titulo": "Steins;Gate: Soumei Eichi no Cognitive Computing - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53efc88b91116cc2a1c96cb17ddac5cf.jpg",
+      "url_origen": "https://jkanime.net/steins-gate-soumei-eichi-no-cognitive-computing/2/",
+      "publicado_en_origen": "2014-10-22 08:24:54"
+    },
+    {
+      "id_origen": 25302,
+      "numero": 3,
+      "titulo": "Steins;Gate: Soumei Eichi no Cognitive Computing - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b763dcb78dd4c378a4170623a213821.jpg",
+      "url_origen": "https://jkanime.net/steins-gate-soumei-eichi-no-cognitive-computing/3/",
+      "publicado_en_origen": "2014-11-05 11:00:34"
+    },
+    {
+      "id_origen": 25370,
+      "numero": 4,
+      "titulo": "Steins;Gate: Soumei Eichi no Cognitive Computing - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bde05f97317b69f96bc27dc22b3f0d9.jpg",
+      "url_origen": "https://jkanime.net/steins-gate-soumei-eichi-no-cognitive-computing/4/",
+      "publicado_en_origen": "2014-11-12 04:14:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1323",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:47:48+00:00"
+}

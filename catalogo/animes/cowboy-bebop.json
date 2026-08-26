@@ -1,0 +1,229 @@
+{
+  "id_origen": 57,
+  "slug": "cowboy-bebop",
+  "titulo": "Cowboy Bebop",
+  "titulo_corto": "Cowboy Bebop",
+  "sinopsis": "En este anime, el director Shinichiro Watanabe nos narra las aventuras de Spike, Faye, Jet Black, Ed y Ein.Un grupo muy peculiar de caza-recompensas que viaja a través del sistema solar en la nave Bebop. Balas, emoción y diversión se encuentran en cada una de sus sesiones autoconclusivas, las cuales los llevarán a enfrentar a un gran adversario y viejo amigo de Spike.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/cowboy-bebop.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/cowboy-bebop/",
+  "episodios": [
+    {
+      "id_origen": 1209,
+      "numero": 1,
+      "titulo": "Cowboy Bebop 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e7e69ea3384874304911625ac34321c.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/1/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1210,
+      "numero": 2,
+      "titulo": "Cowboy Bebop 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7cade80b7cc92b991cf4d2806d6bd78.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/2/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1211,
+      "numero": 3,
+      "titulo": "Cowboy Bebop 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_285ab9448d2751ee57ece7f762c39095.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/3/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1212,
+      "numero": 4,
+      "titulo": "Cowboy Bebop 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a01610228fe998f515a72dd730294d87.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/4/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1213,
+      "numero": 5,
+      "titulo": "Cowboy Bebop 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33ceb07bf4eeb3da587e268d663aba1a.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/5/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1214,
+      "numero": 6,
+      "titulo": "Cowboy Bebop 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8ba76c279269b1c6bc8a07e38e78fa4.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/6/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1215,
+      "numero": 7,
+      "titulo": "Cowboy Bebop 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4d2f0d23dcc84ce983ff9157f8b7f88.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/7/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1216,
+      "numero": 8,
+      "titulo": "Cowboy Bebop 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3948ead63a9f2944218de038d8934305.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/8/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1217,
+      "numero": 9,
+      "titulo": "Cowboy Bebop 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a61d423d02a1c56250dc23ae7ff12f3.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/9/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1218,
+      "numero": 10,
+      "titulo": "Cowboy Bebop 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f67fd97162d20e6fe27748b5b372509.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/10/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1219,
+      "numero": 11,
+      "titulo": "Cowboy Bebop 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2715518c875999308842e3455eda2fe3.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/11/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1220,
+      "numero": 12,
+      "titulo": "Cowboy Bebop 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b24d516bb65a5a58079f0f3526c87c57.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/12/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1221,
+      "numero": 13,
+      "titulo": "Cowboy Bebop 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d72310edc006dadf2190caad5802983.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/13/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1222,
+      "numero": 14,
+      "titulo": "Cowboy Bebop 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a029f04d76d32e79367c4b3255dda4d.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/14/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1223,
+      "numero": 15,
+      "titulo": "Cowboy Bebop 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43cca4b3de2097b9558efefd0ecc3588.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/15/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1224,
+      "numero": 16,
+      "titulo": "Cowboy Bebop 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68d13cf26c4b4f4f932e3eff990093ba.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/16/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1225,
+      "numero": 17,
+      "titulo": "Cowboy Bebop 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25df35de87aa441b88f22a6c2a830a17.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/17/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1226,
+      "numero": 18,
+      "titulo": "Cowboy Bebop 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3210ddbeaa16948a702b6049b8d9a202.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/18/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1227,
+      "numero": 19,
+      "titulo": "Cowboy Bebop 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4851e8e264415c4094e4e85b0baa7cc.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/19/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1228,
+      "numero": 20,
+      "titulo": "Cowboy Bebop 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb86d510361fc23b59f18c1bc9802cc6.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/20/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1229,
+      "numero": 21,
+      "titulo": "Cowboy Bebop 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_310ce61c90f3a46e340ee8257bc70e93.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/21/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1230,
+      "numero": 22,
+      "titulo": "Cowboy Bebop 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4122cb13c7a474c1976c9706ae36521d.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/22/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1231,
+      "numero": 23,
+      "titulo": "Cowboy Bebop 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c14da109e294d1e8155be8aa4b1ce8e.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/23/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1232,
+      "numero": 24,
+      "titulo": "Cowboy Bebop 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e53a0a2978c28872a4505bdb51db06dc.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/24/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1233,
+      "numero": 25,
+      "titulo": "Cowboy Bebop 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e034fb6b66aacc1d48f445ddfb08da98.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/25/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1234,
+      "numero": 26,
+      "titulo": "Cowboy Bebop 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81dc9bdb52d04dc20036dbd8313ed055.jpg",
+      "url_origen": "https://jkanime.net/cowboy-bebop/26/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "57",
+  "cantidad_episodios_declarada": 26,
+  "detalle_extraido_en": "2026-08-26T18:24:04+00:00"
+}

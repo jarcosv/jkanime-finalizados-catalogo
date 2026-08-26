@@ -1,0 +1,45 @@
+{
+  "id_origen": 4597,
+  "slug": "kaibutsu-oujo-ova",
+  "titulo": "Kaibutsu Oujo (OVA)",
+  "titulo_corto": "Kaibutsu Oujo (OVA)",
+  "sinopsis": "Basado en un manga de Mitsunaga Yasunori, serializado en Monthly Shounen Sirius.\r\n\r\nHiyorimi Hiro se muda a una nueva ciudad para vivir con su hermana mayor, pero muere antes de encontrarla. Entonces despierta a una nueva vida como sirviente de una Princesa del Reino de los Monstruos, quien casualmente emplea a su hermana. Pronto aparecen monstruos que atacan o molestan a la princesa, ya que es la sucesora al trono real, y Hiro debe protegerla con su vida (y con repetidas muertes).",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kaibutsu-oujo-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kaibutsu-oujo-ova/",
+  "episodios": [
+    {
+      "id_origen": 70740,
+      "numero": 1,
+      "titulo": "Kaibutsu Oujo (OVA) - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c919f14ae09fc61ea98868c56e0f45c.jpg",
+      "url_origen": "https://jkanime.net/kaibutsu-oujo-ova/1/",
+      "publicado_en_origen": "2026-01-09 08:43:20"
+    },
+    {
+      "id_origen": 70741,
+      "numero": 2,
+      "titulo": "Kaibutsu Oujo (OVA) - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c82dfb5636f819c4daec79b29fe20b10.jpg",
+      "url_origen": "https://jkanime.net/kaibutsu-oujo-ova/2/",
+      "publicado_en_origen": "2026-01-09 08:43:20"
+    },
+    {
+      "id_origen": 70742,
+      "numero": 3,
+      "titulo": "Kaibutsu Oujo (OVA) - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f10770c7a89da52641f34e64e9ad83b3.jpg",
+      "url_origen": "https://jkanime.net/kaibutsu-oujo-ova/3/",
+      "publicado_en_origen": "2026-01-09 08:43:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:15+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4597",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:33:20+00:00"
+}

@@ -1,0 +1,69 @@
+{
+  "id_origen": 1959,
+  "slug": "masou-gakuen-hxh-special",
+  "titulo": "Masou Gakuen HxH Special",
+  "titulo_corto": "Masou Gakuen HxH Special",
+  "sinopsis": "Especial de Masou Gakuen HxH",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/masou-gakuen-hxh-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/masou-gakuen-hxh-special/",
+  "episodios": [
+    {
+      "id_origen": 33006,
+      "numero": 1,
+      "titulo": "Masou Gakuen HxH Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b225f92ace98bb942488b1996b2d6c27.jpg",
+      "url_origen": "https://jkanime.net/masou-gakuen-hxh-special/1/",
+      "publicado_en_origen": "2016-10-10 14:35:52"
+    },
+    {
+      "id_origen": 33428,
+      "numero": 2,
+      "titulo": "Masou Gakuen HxH Special - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b209bd59025f74b380134f741207b20.jpg",
+      "url_origen": "https://jkanime.net/masou-gakuen-hxh-special/2/",
+      "publicado_en_origen": "2016-11-22 15:20:05"
+    },
+    {
+      "id_origen": 33602,
+      "numero": 3,
+      "titulo": "Masou Gakuen HxH Special - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54e0f485f4daf036e45e7ec3e246ef67.jpg",
+      "url_origen": "https://jkanime.net/masou-gakuen-hxh-special/3/",
+      "publicado_en_origen": "2016-12-09 17:35:10"
+    },
+    {
+      "id_origen": 33946,
+      "numero": 4,
+      "titulo": "Masou Gakuen HxH Special - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_070151fbdb4fa874242f4d03fe75c57c.jpg",
+      "url_origen": "https://jkanime.net/masou-gakuen-hxh-special/4/",
+      "publicado_en_origen": "2017-01-26 14:03:44"
+    },
+    {
+      "id_origen": 48132,
+      "numero": 5,
+      "titulo": "Masou Gakuen HxH Special - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11808b3e0b43d041c106bd845dd04e7b.jpg",
+      "url_origen": "https://jkanime.net/masou-gakuen-hxh-special/5/",
+      "publicado_en_origen": "2022-01-30 20:31:43"
+    },
+    {
+      "id_origen": 48133,
+      "numero": 6,
+      "titulo": "Masou Gakuen HxH Special - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a145993f2368093351db6e20881c53f.jpg",
+      "url_origen": "https://jkanime.net/masou-gakuen-hxh-special/6/",
+      "publicado_en_origen": "2022-01-30 20:31:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1959",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:38:05+00:00"
+}

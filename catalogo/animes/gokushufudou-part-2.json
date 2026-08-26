@@ -1,0 +1,61 @@
+{
+  "id_origen": 3187,
+  "slug": "gokushufudou-part-2",
+  "titulo": "Gokushufudou Part 2",
+  "titulo_corto": "Gokushufudou Part 2",
+  "sinopsis": "Segunda parte de Gokushufudou .",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gokushufudou-part-2.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gokushufudou-part-2/",
+  "episodios": [
+    {
+      "id_origen": 50209,
+      "numero": 1,
+      "titulo": "Gokushufudou Part 2 - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25d7934df0aea411b502be171209d3ea.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou-part-2/1/",
+      "publicado_en_origen": "2022-08-18 01:16:00"
+    },
+    {
+      "id_origen": 50210,
+      "numero": 2,
+      "titulo": "Gokushufudou Part 2 - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85e5e764011ea2422b35f54bc16a9e4d.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou-part-2/2/",
+      "publicado_en_origen": "2022-08-18 01:16:00"
+    },
+    {
+      "id_origen": 50211,
+      "numero": 3,
+      "titulo": "Gokushufudou Part 2 - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f71aa8b88900929c814b46553442168.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou-part-2/3/",
+      "publicado_en_origen": "2022-08-18 01:16:00"
+    },
+    {
+      "id_origen": 50212,
+      "numero": 4,
+      "titulo": "Gokushufudou Part 2 - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2d5e82ed2cfe8774c318335e9fafc7c.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou-part-2/4/",
+      "publicado_en_origen": "2022-08-18 01:16:00"
+    },
+    {
+      "id_origen": 50213,
+      "numero": 5,
+      "titulo": "Gokushufudou Part 2 - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e61448d24461c0f4a3341c645546a2ae.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou-part-2/5/",
+      "publicado_en_origen": "2022-08-18 01:16:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:55+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3187",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:28:50+00:00"
+}

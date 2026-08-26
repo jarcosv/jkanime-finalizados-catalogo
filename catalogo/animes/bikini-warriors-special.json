@@ -1,0 +1,45 @@
+{
+  "id_origen": 1714,
+  "slug": "bikini-warriors-special",
+  "titulo": "Bikini Warriors Special",
+  "titulo_corto": "Bikini Warriors Special",
+  "sinopsis": "episodios que no salieron al aire de Bikini Warriors incluídos en los Bluray.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bikini-warriors-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bikini-warriors-special/",
+  "episodios": [
+    {
+      "id_origen": 30422,
+      "numero": 1,
+      "titulo": "Bikini Warriors Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af9e3a2a6e0b75204cb5f27ac7aa91df.jpg",
+      "url_origen": "https://jkanime.net/bikini-warriors-special/1/",
+      "publicado_en_origen": "2015-12-23 18:13:54"
+    },
+    {
+      "id_origen": 33659,
+      "numero": 2,
+      "titulo": "Bikini Warriors Special - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56f828cd13fd369ee16c728e6c50fb57.jpg",
+      "url_origen": "https://jkanime.net/bikini-warriors-special/2/",
+      "publicado_en_origen": "2016-12-15 15:21:14"
+    },
+    {
+      "id_origen": 33785,
+      "numero": 3,
+      "titulo": "Bikini Warriors Special - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0068416e55804a4dd11b5ebbdde1386b.jpg",
+      "url_origen": "https://jkanime.net/bikini-warriors-special/3/",
+      "publicado_en_origen": "2017-01-05 15:02:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1714",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:19:52+00:00"
+}

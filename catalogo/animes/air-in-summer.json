@@ -1,0 +1,37 @@
+{
+  "id_origen": 547,
+  "slug": "air-in-summer",
+  "titulo": "Air in Summer",
+  "titulo_corto": "Air in Summer",
+  "sinopsis": "Hace mil años existió un soldado de nombre ryuuya  encargado de proteger a una chica con alas llamada Kanna. Kanna solo tenia un sueño… volver a ver a su madre,    Air in summer nos narra la historia del viaje que realizaron Kanna, ryuuya y uraha para encontrar   a la madre de Kanna, las alegrías, las aventuras,  las tristezas ,  y el trágico desenlace de esta travesía.   Si eres fan de air no te puedes perder esta ova..",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/air-in-summer.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/air-in-summer/",
+  "episodios": [
+    {
+      "id_origen": 15428,
+      "numero": 1,
+      "titulo": "Air in Summer - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d4d48d0359e45e4fdf997818d6407fd.jpg",
+      "url_origen": "https://jkanime.net/air-in-summer/1/",
+      "publicado_en_origen": "2012-04-06 00:36:26"
+    },
+    {
+      "id_origen": 15429,
+      "numero": 2,
+      "titulo": "Air in Summer - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08c3f0a75275393e5a8dfeb7c6e32bae.jpg",
+      "url_origen": "https://jkanime.net/air-in-summer/2/",
+      "publicado_en_origen": "2012-04-06 00:36:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "547",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:15:33+00:00"
+}

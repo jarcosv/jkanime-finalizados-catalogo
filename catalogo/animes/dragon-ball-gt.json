@@ -1,0 +1,533 @@
+{
+  "id_origen": 45,
+  "slug": "dragon-ball-gt",
+  "titulo": "Dragon Ball GT",
+  "titulo_corto": "Dragon Ball GT",
+  "sinopsis": "Esta es la etapa final de Dragon Ball, aquí veremos a un Goku un poco mas viejo acompañado de Oob, la reencarnacion de Boo. Ahora Oob, despues de un largo entrenamiento, se ha vuelto muy fuerte junto a Goku. Ahora un nuevo problema se le presenta a Goku, el ha sido convertido en niño por un viejo enemigo, con unas esferas de dragón nunca antes vistas, pero éstas no se esparcen por La Tierra, si no por la galaxia, además, si no encuentran las esferas en un determinado tiempo, La Tierra explotará. Esto llevara a Goku, Trunks y su nieta Pan, a una aventura por toda la galaxia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-gt.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-gt/",
+  "episodios": [
+    {
+      "id_origen": 840,
+      "numero": 1,
+      "titulo": "Dragon Ball GT 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa83a11a198d5a7f0bf77a1987bcd006.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/1/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 841,
+      "numero": 2,
+      "titulo": "Dragon Ball GT 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02a32ad2669e6fe298e607fe7cc0e1a0.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/2/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 842,
+      "numero": 3,
+      "titulo": "Dragon Ball GT 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc3cf452d3da8402bebb765225ce8c0e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/3/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 843,
+      "numero": 4,
+      "titulo": "Dragon Ball GT 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d8e28caf901313a554cebc7d32e67e5.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/4/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 844,
+      "numero": 5,
+      "titulo": "Dragon Ball GT 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e97ee2054defb209c35fe4dc94599061.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/5/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 845,
+      "numero": 6,
+      "titulo": "Dragon Ball GT 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b86e8d03fe992d1b0e19656875ee557c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/6/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 846,
+      "numero": 7,
+      "titulo": "Dragon Ball GT 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84f7e69969dea92a925508f7c1f9579a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/7/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 847,
+      "numero": 8,
+      "titulo": "Dragon Ball GT 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4552671f8909587cf485ea990207f3b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/8/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 848,
+      "numero": 9,
+      "titulo": "Dragon Ball GT 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_362e80d4df43b03ae6d3f8540cd63626.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/9/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 849,
+      "numero": 10,
+      "titulo": "Dragon Ball GT 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe8c15fed5f808006ce95eddb7366e35.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/10/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 850,
+      "numero": 11,
+      "titulo": "Dragon Ball GT 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1efa39bcaec6f3900149160693694536.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/11/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 851,
+      "numero": 12,
+      "titulo": "Dragon Ball GT 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92fb0c6d1758261f10d052e6e2c1123c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/12/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 852,
+      "numero": 13,
+      "titulo": "Dragon Ball GT 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22ac3c5a5bf0b520d281c122d1490650.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/13/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 853,
+      "numero": 14,
+      "titulo": "Dragon Ball GT 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aff1621254f7c1be92f64550478c56e6.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/14/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 854,
+      "numero": 15,
+      "titulo": "Dragon Ball GT 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7e9050c92a851b0016442ab604b0488.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/15/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 855,
+      "numero": 16,
+      "titulo": "Dragon Ball GT 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_addfa9b7e234254d26e9c7f2af1005cb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/16/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 856,
+      "numero": 17,
+      "titulo": "Dragon Ball GT 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c235f89a8143a28a1d6067e959dd858.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/17/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 857,
+      "numero": 18,
+      "titulo": "Dragon Ball GT 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_847cc55b7032108eee6dd897f3bca8a5.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/18/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 858,
+      "numero": 19,
+      "titulo": "Dragon Ball GT 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a67f096809415ca1c9f112d96d27689b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/19/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 859,
+      "numero": 20,
+      "titulo": "Dragon Ball GT 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a084e55c87b1ebcdaad1f62fdbbac8e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/20/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 860,
+      "numero": 21,
+      "titulo": "Dragon Ball GT 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc49306d97602c8ed1be1dfbf0835ead.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/21/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 861,
+      "numero": 22,
+      "titulo": "Dragon Ball GT 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9a40a4780f5e1306c46f1c8daecee3b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/22/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 862,
+      "numero": 23,
+      "titulo": "Dragon Ball GT 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ec91aac30eae62f4140325d09b9afd0.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/23/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 863,
+      "numero": 24,
+      "titulo": "Dragon Ball GT 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19b650660b253761af189682e03501dd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/24/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 864,
+      "numero": 25,
+      "titulo": "Dragon Ball GT 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fc214004c9481e4c8073e85323bfd4b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/25/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 865,
+      "numero": 26,
+      "titulo": "Dragon Ball GT 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b3dbaf68507998acd6a5a5254ab2d76.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/26/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 866,
+      "numero": 27,
+      "titulo": "Dragon Ball GT 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca8155f4d27f205953f9d3d7974bdd70.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/27/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 867,
+      "numero": 28,
+      "titulo": "Dragon Ball GT 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ede7e2b6d13a41ddf9f4bdef84fdc737.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/28/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 868,
+      "numero": 29,
+      "titulo": "Dragon Ball GT 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd45045f8c68db9f54e70c67048d32e8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/29/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 869,
+      "numero": 30,
+      "titulo": "Dragon Ball GT 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49c9adb18e44be0711a94e827042f630.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/30/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 870,
+      "numero": 31,
+      "titulo": "Dragon Ball GT 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22fb0cee7e1f3bde58293de743871417.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/31/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 871,
+      "numero": 32,
+      "titulo": "Dragon Ball GT 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aeb3135b436aa55373822c010763dd54.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/32/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 872,
+      "numero": 33,
+      "titulo": "Dragon Ball GT 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43feaeeecd7b2fe2ae2e26d917b6477d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/33/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 873,
+      "numero": 34,
+      "titulo": "Dragon Ball GT 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98d6f58ab0dafbb86b083a001561bb34.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/34/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 874,
+      "numero": 35,
+      "titulo": "Dragon Ball GT 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51ef186e18dc00c2d31982567235c559.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/35/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 875,
+      "numero": 36,
+      "titulo": "Dragon Ball GT 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b0a59ddf11c58e7446c9df0da541a84.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/36/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 876,
+      "numero": 37,
+      "titulo": "Dragon Ball GT 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67d16d00201083a2b118dd5128dd6f59.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/37/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 877,
+      "numero": 38,
+      "titulo": "Dragon Ball GT 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_352407221afb776e3143e8a1a0577885.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/38/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 878,
+      "numero": 39,
+      "titulo": "Dragon Ball GT 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd8eb9f23fbd362da0e3f4e70b878c16.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/39/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 879,
+      "numero": 40,
+      "titulo": "Dragon Ball GT 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d516b13671a4179d9b7b458a6ebdeb92.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/40/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 880,
+      "numero": 41,
+      "titulo": "Dragon Ball GT 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f50893f80d6830d62765ffad7721742.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/41/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 881,
+      "numero": 42,
+      "titulo": "Dragon Ball GT 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7504adad8bb96320eb3afdd4df6e1f60.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/42/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 882,
+      "numero": 43,
+      "titulo": "Dragon Ball GT 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c3cf77d52820cd0fe646d38bc2145ca.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/43/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 883,
+      "numero": 44,
+      "titulo": "Dragon Ball GT 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_210f760a89db30aa72ca258a3483cc7f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/44/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 884,
+      "numero": 45,
+      "titulo": "Dragon Ball GT 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_170c944978496731ba71f34c25826a34.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/45/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 885,
+      "numero": 46,
+      "titulo": "Dragon Ball GT 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0efe32849d230d7f53049ddc4a4b0c60.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/46/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 886,
+      "numero": 47,
+      "titulo": "Dragon Ball GT 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_704afe073992cbe4813cae2f7715336f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/47/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 887,
+      "numero": 48,
+      "titulo": "Dragon Ball GT 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ce3284b743aefde80ffd9aec500e085.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/48/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 888,
+      "numero": 49,
+      "titulo": "Dragon Ball GT 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a113ef6b61820daa5611c870ed8d5ee.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/49/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 889,
+      "numero": 50,
+      "titulo": "Dragon Ball GT 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07871915a8107172b3b5dc15a6574ad3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/50/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 890,
+      "numero": 51,
+      "titulo": "Dragon Ball GT 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_024d7f84fff11dd7e8d9c510137a2381.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/51/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 891,
+      "numero": 52,
+      "titulo": "Dragon Ball GT 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cfbce4c1d7c425baf21d6b6f2babe6be.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/52/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 892,
+      "numero": 53,
+      "titulo": "Dragon Ball GT 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2aee86157b4a40b78132f1e71a9e6f1.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/53/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 893,
+      "numero": 54,
+      "titulo": "Dragon Ball GT 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d56b9fc4b0f1be8871f5e1c40c0067e7.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/54/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 894,
+      "numero": 55,
+      "titulo": "Dragon Ball GT 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b0250793549726d5c1ea3906726ebfe.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/55/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 895,
+      "numero": 56,
+      "titulo": "Dragon Ball GT 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20aee3a5f4643755a79ee5f6a73050ac.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/56/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 896,
+      "numero": 57,
+      "titulo": "Dragon Ball GT 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_061412e4a03c02f9902576ec55ebbe77.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/57/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 897,
+      "numero": 58,
+      "titulo": "Dragon Ball GT 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5705e1164a8394aace6018e27d20d237.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/58/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 898,
+      "numero": 59,
+      "titulo": "Dragon Ball GT 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a64c94baaf368e1840a1324e839230de.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/59/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 899,
+      "numero": 60,
+      "titulo": "Dragon Ball GT 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01882513d5fa7c329e940dda99b12147.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/60/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 900,
+      "numero": 61,
+      "titulo": "Dragon Ball GT 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acf4b89d3d503d8252c9c4ba75ddbf6d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/61/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 901,
+      "numero": 62,
+      "titulo": "Dragon Ball GT 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_892c91e0a653ba19df81a90f89d99bcd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/62/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 902,
+      "numero": 63,
+      "titulo": "Dragon Ball GT 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6a1085a27ab7bff7550f8a3bd017df8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/63/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 903,
+      "numero": 64,
+      "titulo": "Dragon Ball GT 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa169b49b583a2b5af89203c2b78c67c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-gt/64/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "45",
+  "cantidad_episodios_declarada": 64,
+  "detalle_extraido_en": "2026-08-26T18:25:35+00:00"
+}

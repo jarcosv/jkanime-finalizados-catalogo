@@ -1,0 +1,29 @@
+{
+  "id_origen": 583,
+  "slug": "carnival-phantasm-ilyas-castle",
+  "titulo": "Carnival Phantasm: Ilya's Castle",
+  "titulo_corto": "Carnival Phantasm: Ilya's Cast...",
+  "sinopsis": "Un cómico episodio donde los personajes de Fate/Stay Night actúan como los protagonistas de un videojuego RPG en donde Saber y los otros servants deben superar un peligroso viaje hacia el castillo Einzbern para enfrentarse con Ilya y Berserker.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/carnival-phantasm-ilyas-castle.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/carnival-phantasm-ilyas-castle/",
+  "episodios": [
+    {
+      "id_origen": 15971,
+      "numero": 1,
+      "titulo": "Carnival Phantasm: Ilya's Castle",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02f6c78de6cfde279480ef7b5cccdb17.jpg",
+      "url_origen": "https://jkanime.net/carnival-phantasm-ilyas-castle/1/",
+      "publicado_en_origen": "2012-06-20 01:52:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:11+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "583",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:23:16+00:00"
+}

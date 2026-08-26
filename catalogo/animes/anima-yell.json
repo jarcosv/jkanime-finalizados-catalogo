@@ -1,0 +1,117 @@
+{
+  "id_origen": 2304,
+  "slug": "anima-yell",
+  "titulo": "Anima Yell!",
+  "titulo_corto": "Anima Yell!",
+  "sinopsis": "Kohane Hatogaya se enamora de las animadoras al final de la secundaria, así que cuando llega la preparatoria y no hay club de animadoras, decide crear junto con Hizume Arima y su amiga Uki Saruwatari. ¡Unas chicas muy positivas y animadas que sabrán arrancarte una sonrisa!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/anima-yell.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/anima-yell/",
+  "episodios": [
+    {
+      "id_origen": 38055,
+      "numero": 1,
+      "titulo": "Anima Yell! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_feaa3aa9821868db73534710d1945c9c.jpg",
+      "url_origen": "https://jkanime.net/anima-yell/1/",
+      "publicado_en_origen": "2018-10-09 23:08:54"
+    },
+    {
+      "id_origen": 38092,
+      "numero": 2,
+      "titulo": "Anima Yell! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a6f354f9e977a34a077ed6a0d712996.jpg",
+      "url_origen": "https://jkanime.net/anima-yell/2/",
+      "publicado_en_origen": "2018-10-15 14:32:07"
+    },
+    {
+      "id_origen": 38144,
+      "numero": 3,
+      "titulo": "Anima Yell! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7979ded26be04c42e5f623c4b58ffb5.jpg",
+      "url_origen": "https://jkanime.net/anima-yell/3/",
+      "publicado_en_origen": "2018-10-21 17:13:25"
+    },
+    {
+      "id_origen": 38185,
+      "numero": 4,
+      "titulo": "Anima Yell! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68624a8a1f8dd04e260c0173bad7ee31.jpg",
+      "url_origen": "https://jkanime.net/anima-yell/4/",
+      "publicado_en_origen": "2018-10-28 17:11:17"
+    },
+    {
+      "id_origen": 38231,
+      "numero": 5,
+      "titulo": "Anima Yell! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0d548f7305cd67796e7cd37471d6ac6.jpg",
+      "url_origen": "https://jkanime.net/anima-yell/5/",
+      "publicado_en_origen": "2018-11-04 15:49:12"
+    },
+    {
+      "id_origen": 38297,
+      "numero": 6,
+      "titulo": "Anima Yell! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b912f37f96b3511a694e0a035ffb9ec4.jpg",
+      "url_origen": "https://jkanime.net/anima-yell/6/",
+      "publicado_en_origen": "2018-11-12 13:27:27"
+    },
+    {
+      "id_origen": 38334,
+      "numero": 7,
+      "titulo": "Anima Yell! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5ebe2235651644d7d4c166038960bfa.jpg",
+      "url_origen": "https://jkanime.net/anima-yell/7/",
+      "publicado_en_origen": "2018-11-18 15:54:16"
+    },
+    {
+      "id_origen": 38414,
+      "numero": 8,
+      "titulo": "Anima Yell! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d58e1fefde40ebb954a6791d938890a.jpg",
+      "url_origen": "https://jkanime.net/anima-yell/8/",
+      "publicado_en_origen": "2018-12-05 19:40:05"
+    },
+    {
+      "id_origen": 38415,
+      "numero": 9,
+      "titulo": "Anima Yell! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a233d274515549314aeacfaf2702f25.jpg",
+      "url_origen": "https://jkanime.net/anima-yell/9/",
+      "publicado_en_origen": "2018-12-05 19:46:28"
+    },
+    {
+      "id_origen": 38477,
+      "numero": 10,
+      "titulo": "Anima Yell! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2149347baf196b460776a239583cc183.jpg",
+      "url_origen": "https://jkanime.net/anima-yell/10/",
+      "publicado_en_origen": "2018-12-09 15:46:02"
+    },
+    {
+      "id_origen": 38520,
+      "numero": 11,
+      "titulo": "Anima Yell! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f82ff06c8ce31966b402eb701d2091e.jpg",
+      "url_origen": "https://jkanime.net/anima-yell/11/",
+      "publicado_en_origen": "2018-12-17 14:08:03"
+    },
+    {
+      "id_origen": 38565,
+      "numero": 12,
+      "titulo": "Anima Yell! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_918b69ec3f995b4a6f804b03839f704f.jpg",
+      "url_origen": "https://jkanime.net/anima-yell/12/",
+      "publicado_en_origen": "2018-12-23 16:46:53"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2304",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:16:38+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 1471,
+  "slug": "fantasista-stella",
+  "titulo": "Fantasista Stella",
+  "titulo_corto": "Fantasista Stella",
+  "sinopsis": "Teppei y su compañero Keisuke Honda en su camino para la Copa Mundial de la FIFA Brasil 2014.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fantasista-stella.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fantasista-stella/",
+  "episodios": [
+    {
+      "id_origen": 27224,
+      "numero": 1,
+      "titulo": "Fantasista Stella - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58e7c89cf97a89b2e455a26557093e50.jpg",
+      "url_origen": "https://jkanime.net/fantasista-stella/1/",
+      "publicado_en_origen": "2015-03-25 17:17:57"
+    },
+    {
+      "id_origen": 27225,
+      "numero": 2,
+      "titulo": "Fantasista Stella - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_204febcbbc5ee18b88a7c4680f293c19.jpg",
+      "url_origen": "https://jkanime.net/fantasista-stella/2/",
+      "publicado_en_origen": "2015-03-25 17:18:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1471",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:26:44+00:00"
+}

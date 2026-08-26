@@ -1,0 +1,69 @@
+{
+  "id_origen": 1081,
+  "slug": "sekai-de-ichiban-tsuyoku-naritai-specials",
+  "titulo": "Sekai de Ichiban Tsuyoku Naritai! Specials",
+  "titulo_corto": "Sekai de Ichiban Tsuyoku Narit...",
+  "sinopsis": "Especiales cortos incluidos en los volúmenes BD/DVD de Sekai de Ichiban Tsuyoku Naritai!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sekai-de-ichiban-tsuyoku-naritai-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sekai-de-ichiban-tsuyoku-naritai-specials/",
+  "episodios": [
+    {
+      "id_origen": 22896,
+      "numero": 1,
+      "titulo": "Sekai de Ichiban Tsuyoku Naritai! Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6d0d3c61122345690a19bb8af632db4.jpg",
+      "url_origen": "https://jkanime.net/sekai-de-ichiban-tsuyoku-naritai-specials/1/",
+      "publicado_en_origen": "2014-03-07 19:51:18"
+    },
+    {
+      "id_origen": 22909,
+      "numero": 2,
+      "titulo": "Sekai de Ichiban Tsuyoku Naritai! Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dea279307a9e8db9a1f426e4d0d4886d.jpg",
+      "url_origen": "https://jkanime.net/sekai-de-ichiban-tsuyoku-naritai-specials/2/",
+      "publicado_en_origen": "2014-03-09 11:57:04"
+    },
+    {
+      "id_origen": 22959,
+      "numero": 3,
+      "titulo": "Sekai de Ichiban Tsuyoku Naritai! Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4d6030a34f2d2fe887f570fb64ea8d9.jpg",
+      "url_origen": "https://jkanime.net/sekai-de-ichiban-tsuyoku-naritai-specials/3/",
+      "publicado_en_origen": "2014-03-14 22:00:24"
+    },
+    {
+      "id_origen": 23178,
+      "numero": 4,
+      "titulo": "Sekai de Ichiban Tsuyoku Naritai! Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d572948a93127fa250a9aa8a122a4403.jpg",
+      "url_origen": "https://jkanime.net/sekai-de-ichiban-tsuyoku-naritai-specials/4/",
+      "publicado_en_origen": "2014-04-10 17:31:47"
+    },
+    {
+      "id_origen": 23486,
+      "numero": 5,
+      "titulo": "Sekai de Ichiban Tsuyoku Naritai! Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b03790af6cacbfd6ae0639ab9b8d5b72.jpg",
+      "url_origen": "https://jkanime.net/sekai-de-ichiban-tsuyoku-naritai-specials/5/",
+      "publicado_en_origen": "2014-05-15 14:14:29"
+    },
+    {
+      "id_origen": 23842,
+      "numero": 6,
+      "titulo": "Sekai de Ichiban Tsuyoku Naritai! Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61e93e57223c88f7e75d968443eb49b5.jpg",
+      "url_origen": "https://jkanime.net/sekai-de-ichiban-tsuyoku-naritai-specials/6/",
+      "publicado_en_origen": "2014-06-28 18:52:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1081",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:45:26+00:00"
+}

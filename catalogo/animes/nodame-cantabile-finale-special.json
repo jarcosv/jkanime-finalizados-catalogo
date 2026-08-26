@@ -1,0 +1,29 @@
+{
+  "id_origen": 566,
+  "slug": "nodame-cantabile-finale-special",
+  "titulo": "Nodame Cantabile Finale Special",
+  "titulo_corto": "Nodame Cantabile Finale Specia...",
+  "sinopsis": "Episodio exclusivo del DVD de la serie valido como episodio 0 de Nodame Cantabile Finale",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nodame-cantabile-finale-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nodame-cantabile-finale-special/",
+  "episodios": [
+    {
+      "id_origen": 15660,
+      "numero": 1,
+      "titulo": "Nodame Cantabile Finale Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_306ce8aa58eadd5a9a87e0f348907b59.jpg",
+      "url_origen": "https://jkanime.net/nodame-cantabile-finale-special/1/",
+      "publicado_en_origen": "2012-05-28 23:40:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "566",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:39+00:00"
+}

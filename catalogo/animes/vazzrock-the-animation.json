@@ -1,0 +1,125 @@
+{
+  "id_origen": 3236,
+  "slug": "vazzrock-the-animation",
+  "titulo": "Vazzrock The Animation",
+  "titulo_corto": "Vazzrock The Animation",
+  "sinopsis": "El anime de 13 episodios sigue la vida cotidiana de los 12 miembros de dos grupos mientras se preparan para el show «VAZZROCK LIVE FLAWLESS» en tres meses. Cada episodio se centra en un dúo diferente de personajes y sus relaciones.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/vazzrock-the-animation.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/vazzrock-the-animation/",
+  "episodios": [
+    {
+      "id_origen": 50705,
+      "numero": 1,
+      "titulo": "Vazzrock The Animation - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9afce057692cf5c12e82cfe57d055a87.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/1/",
+      "publicado_en_origen": "2022-10-04 11:03:16"
+    },
+    {
+      "id_origen": 50760,
+      "numero": 2,
+      "titulo": "Vazzrock The Animation - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0240e45b80079d8b594cf2c20a328095.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/2/",
+      "publicado_en_origen": "2022-10-11 11:46:40"
+    },
+    {
+      "id_origen": 50819,
+      "numero": 3,
+      "titulo": "Vazzrock The Animation - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/vazzrock-the-animation.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/3/",
+      "publicado_en_origen": "2022-10-18 11:38:48"
+    },
+    {
+      "id_origen": 50875,
+      "numero": 4,
+      "titulo": "Vazzrock The Animation - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e58c0ba3f5fa6c5ff970438e903c619.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/4/",
+      "publicado_en_origen": "2022-10-25 12:28:32"
+    },
+    {
+      "id_origen": 50946,
+      "numero": 5,
+      "titulo": "Vazzrock The Animation - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f0dd179ca96bd0a9ee5bd157f0376bc.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/5/",
+      "publicado_en_origen": "2022-11-01 11:52:34"
+    },
+    {
+      "id_origen": 51013,
+      "numero": 6,
+      "titulo": "Vazzrock The Animation - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b840f027f62dab63ac3416968c1b4e4.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/6/",
+      "publicado_en_origen": "2022-11-08 12:40:21"
+    },
+    {
+      "id_origen": 51072,
+      "numero": 7,
+      "titulo": "Vazzrock The Animation - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86ec53f239e1fe9b623cd56680e2aabe.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/7/",
+      "publicado_en_origen": "2022-11-15 12:17:34"
+    },
+    {
+      "id_origen": 51126,
+      "numero": 8,
+      "titulo": "Vazzrock The Animation - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec283922cfcf1eaf8a0861ba21ac1ecb.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/8/",
+      "publicado_en_origen": "2022-11-22 13:59:50"
+    },
+    {
+      "id_origen": 51178,
+      "numero": 9,
+      "titulo": "Vazzrock The Animation - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fff9c50e78bbb0134092c747b6114f3.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/9/",
+      "publicado_en_origen": "2022-11-29 13:35:11"
+    },
+    {
+      "id_origen": 51296,
+      "numero": 10,
+      "titulo": "Vazzrock The Animation - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7368157084385bf9b0d5c4b8c1c2f698.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/10/",
+      "publicado_en_origen": "2022-12-06 12:02:27"
+    },
+    {
+      "id_origen": 51352,
+      "numero": 11,
+      "titulo": "Vazzrock The Animation - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d736063fda04b07db79cd8694d137cba.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/11/",
+      "publicado_en_origen": "2022-12-13 15:11:27"
+    },
+    {
+      "id_origen": 51409,
+      "numero": 12,
+      "titulo": "Vazzrock The Animation - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c2b8242647345df5b82655119355900.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/12/",
+      "publicado_en_origen": "2022-12-20 15:20:17"
+    },
+    {
+      "id_origen": 51470,
+      "numero": 13,
+      "titulo": "Vazzrock The Animation - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ab3c7b48d9d0abc952b0002dfd7ca9a.jpg",
+      "url_origen": "https://jkanime.net/vazzrock-the-animation/13/",
+      "publicado_en_origen": "2022-12-27 13:51:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:48+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3236",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:51:31+00:00"
+}

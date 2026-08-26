@@ -1,0 +1,29 @@
+{
+  "id_origen": 1347,
+  "slug": "love-stage-ova",
+  "titulo": "Love Stage!! OVA",
+  "titulo_corto": "Love Stage!! OVA",
+  "sinopsis": "Incluido con el volumen 5 del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/love-stage-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/love-stage-ova/",
+  "episodios": [
+    {
+      "id_origen": 25533,
+      "numero": 1,
+      "titulo": "Love Stage!! OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b48cf6d948c70034f7a239f8e5c566d.jpg",
+      "url_origen": "https://jkanime.net/love-stage-ova/1/",
+      "publicado_en_origen": "2014-11-22 20:14:44"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1347",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:36:48+00:00"
+}

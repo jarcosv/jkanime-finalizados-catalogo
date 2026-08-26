@@ -1,0 +1,77 @@
+{
+  "id_origen": 2316,
+  "slug": "youkoso-japari-park",
+  "titulo": "Youkoso Japari Park",
+  "titulo_corto": "Youkoso Japari Park",
+  "sinopsis": "Una pequeña serie de cortos nos acerca a una época en la que Mirai todavía era guía del Parque Japari y poco a poco conocemos a las Friends y qué son los Ceruleans",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/youkoso-japari-park.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/youkoso-japari-park/",
+  "episodios": [
+    {
+      "id_origen": 38112,
+      "numero": 1,
+      "titulo": "Youkoso Japari Park - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/youkoso-japari-park.jpg",
+      "url_origen": "https://jkanime.net/youkoso-japari-park/1/",
+      "publicado_en_origen": "2018-10-18 19:15:23"
+    },
+    {
+      "id_origen": 38113,
+      "numero": 2,
+      "titulo": "Youkoso Japari Park - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/youkoso-japari-park.jpg",
+      "url_origen": "https://jkanime.net/youkoso-japari-park/2/",
+      "publicado_en_origen": "2018-10-18 19:15:25"
+    },
+    {
+      "id_origen": 38114,
+      "numero": 3,
+      "titulo": "Youkoso Japari Park - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/youkoso-japari-park.jpg",
+      "url_origen": "https://jkanime.net/youkoso-japari-park/3/",
+      "publicado_en_origen": "2018-10-18 19:15:25"
+    },
+    {
+      "id_origen": 38115,
+      "numero": 4,
+      "titulo": "Youkoso Japari Park - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/youkoso-japari-park.jpg",
+      "url_origen": "https://jkanime.net/youkoso-japari-park/4/",
+      "publicado_en_origen": "2018-10-18 19:15:25"
+    },
+    {
+      "id_origen": 38116,
+      "numero": 5,
+      "titulo": "Youkoso Japari Park - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/youkoso-japari-park.jpg",
+      "url_origen": "https://jkanime.net/youkoso-japari-park/5/",
+      "publicado_en_origen": "2018-10-18 19:15:25"
+    },
+    {
+      "id_origen": 38117,
+      "numero": 6,
+      "titulo": "Youkoso Japari Park - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/youkoso-japari-park.jpg",
+      "url_origen": "https://jkanime.net/youkoso-japari-park/6/",
+      "publicado_en_origen": "2018-10-18 19:15:25"
+    },
+    {
+      "id_origen": 38205,
+      "numero": 7,
+      "titulo": "Youkoso Japari Park - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/youkoso-japari-park.jpg",
+      "url_origen": "https://jkanime.net/youkoso-japari-park/7/",
+      "publicado_en_origen": "2018-10-31 19:01:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2316",
+  "cantidad_episodios_declarada": 36,
+  "detalle_extraido_en": "2026-08-26T18:53:05+00:00"
+}

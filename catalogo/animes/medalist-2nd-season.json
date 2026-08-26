@@ -1,0 +1,93 @@
+{
+  "id_origen": 4526,
+  "slug": "medalist-2nd-season",
+  "titulo": "Medalist 2nd Season",
+  "titulo_corto": "Medalist 2nd Season",
+  "sinopsis": "Segunda temporada de Medalist.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/medalist-2nd-season/",
+  "episodios": [
+    {
+      "id_origen": 71018,
+      "numero": 1,
+      "titulo": "Medalist 2nd Season - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01cd1b6be42a1d39b5313aa7a38caafe.jpg",
+      "url_origen": "https://jkanime.net/medalist-2nd-season/1/",
+      "publicado_en_origen": "2026-01-24 19:24:43"
+    },
+    {
+      "id_origen": 71136,
+      "numero": 2,
+      "titulo": "Medalist 2nd Season - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_680c525f86971dc412b5650be9d96fea.jpg",
+      "url_origen": "https://jkanime.net/medalist-2nd-season/2/",
+      "publicado_en_origen": "2026-01-31 18:30:12"
+    },
+    {
+      "id_origen": 71387,
+      "numero": 3,
+      "titulo": "Medalist 2nd Season - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79fd5f4612580ec94cd91b33a5c83ed4.jpg",
+      "url_origen": "https://jkanime.net/medalist-2nd-season/3/",
+      "publicado_en_origen": "2026-02-07 19:20:57"
+    },
+    {
+      "id_origen": 71491,
+      "numero": 4,
+      "titulo": "Medalist 2nd Season - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c0d7ab5de4aa9e77aec151e15c6c514.jpg",
+      "url_origen": "https://jkanime.net/medalist-2nd-season/4/",
+      "publicado_en_origen": "2026-02-15 12:22:43"
+    },
+    {
+      "id_origen": 71749,
+      "numero": 5,
+      "titulo": "Medalist 2nd Season - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a83c6eeeb750d378d66d96d936d3d9aa.jpg",
+      "url_origen": "https://jkanime.net/medalist-2nd-season/5/",
+      "publicado_en_origen": "2026-02-21 19:27:01"
+    },
+    {
+      "id_origen": 71901,
+      "numero": 6,
+      "titulo": "Medalist 2nd Season - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa99b75955b04a6609e077cbf50b6813.jpg",
+      "url_origen": "https://jkanime.net/medalist-2nd-season/6/",
+      "publicado_en_origen": "2026-03-02 01:04:16"
+    },
+    {
+      "id_origen": 71984,
+      "numero": 7,
+      "titulo": "Medalist 2nd Season - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf2b4c2939d506ddddf30050dcc75eac.jpg",
+      "url_origen": "https://jkanime.net/medalist-2nd-season/7/",
+      "publicado_en_origen": "2026-03-07 20:27:07"
+    },
+    {
+      "id_origen": 72101,
+      "numero": 8,
+      "titulo": "Medalist 2nd Season - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa5be13a792c33110274d36bbd4f3fe9.jpg",
+      "url_origen": "https://jkanime.net/medalist-2nd-season/8/",
+      "publicado_en_origen": "2026-03-15 02:06:34"
+    },
+    {
+      "id_origen": 72192,
+      "numero": 9,
+      "titulo": "Medalist 2nd Season - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b66347396e16c207fb26b793f2aec961.jpg",
+      "url_origen": "https://jkanime.net/medalist-2nd-season/9/",
+      "publicado_en_origen": "2026-03-21 17:37:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4526",
+  "cantidad_episodios_declarada": 9,
+  "detalle_extraido_en": "2026-08-26T18:38:14+00:00"
+}

@@ -1,0 +1,69 @@
+{
+  "id_origen": 1542,
+  "slug": "robot-girls-z-plus",
+  "titulo": "Robot Girls Z Plus",
+  "titulo_corto": "Robot Girls Z Plus",
+  "sinopsis": "Robot Girls Z+, el nuevo Robot Girls Z, será emitido con 6 episodios, cada uno de forma mensual",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/robot-girls-z-plus.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/robot-girls-z-plus/",
+  "episodios": [
+    {
+      "id_origen": 27806,
+      "numero": 1,
+      "titulo": "Robot Girls Z Plus - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_800c987b1dabf9b106575da9bb5f15a6.jpg",
+      "url_origen": "https://jkanime.net/robot-girls-z-plus/1/",
+      "publicado_en_origen": "2015-05-20 12:52:29"
+    },
+    {
+      "id_origen": 28491,
+      "numero": 2,
+      "titulo": "Robot Girls Z Plus - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_976deaee3c65cda83c9671a3645f905a.jpg",
+      "url_origen": "https://jkanime.net/robot-girls-z-plus/2/",
+      "publicado_en_origen": "2015-06-19 10:09:41"
+    },
+    {
+      "id_origen": 28767,
+      "numero": 3,
+      "titulo": "Robot Girls Z Plus - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9b3f2e3a02a1a13b91ce5929258df80.jpg",
+      "url_origen": "https://jkanime.net/robot-girls-z-plus/3/",
+      "publicado_en_origen": "2015-07-19 11:55:41"
+    },
+    {
+      "id_origen": 29051,
+      "numero": 4,
+      "titulo": "Robot Girls Z Plus - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc37e65a7707ffd0f78dc0f561c25887.jpg",
+      "url_origen": "https://jkanime.net/robot-girls-z-plus/4/",
+      "publicado_en_origen": "2015-08-20 09:38:10"
+    },
+    {
+      "id_origen": 29601,
+      "numero": 5,
+      "titulo": "Robot Girls Z Plus - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_493c4b304be1e32548b7ad5d5c22ef6b.jpg",
+      "url_origen": "https://jkanime.net/robot-girls-z-plus/5/",
+      "publicado_en_origen": "2015-09-19 10:26:40"
+    },
+    {
+      "id_origen": 29858,
+      "numero": 6,
+      "titulo": "Robot Girls Z Plus - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6533e79009ff4a7c9f4ad85ed45709e.jpg",
+      "url_origen": "https://jkanime.net/robot-girls-z-plus/6/",
+      "publicado_en_origen": "2015-10-19 10:25:59"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1542",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:43:57+00:00"
+}

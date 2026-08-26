@@ -1,0 +1,229 @@
+{
+  "id_origen": 80,
+  "slug": "last-exile",
+  "titulo": "Last Exile",
+  "titulo_corto": "Last Exile",
+  "sinopsis": "Claus y Lavie son amigos huerfanos unidos porque sus padres murieron, viajeros de un Vanship (dejado por sus padres) para entregar correos. En una Entrega se encontraran a una pequeña niña de 8 años llamada Alvis, que tienen que llevar al reconocido y grande nave de Combate El Silvana, Claus y Lavie por su parte se quedaran en el Silvana protegiendo a Alvis mientras que Claus combatira en el Cile con los Vanships de batallas para así poder recuperar el cielo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/last-exile.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/last-exile/",
+  "episodios": [
+    {
+      "id_origen": 1809,
+      "numero": 1,
+      "titulo": "Last Exile 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_645098b086d2f9e1e0e939c27f9f2d6f.jpg",
+      "url_origen": "https://jkanime.net/last-exile/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1810,
+      "numero": 2,
+      "titulo": "Last Exile 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e79ed05baec2754e25b4eac73a332d2.jpg",
+      "url_origen": "https://jkanime.net/last-exile/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1811,
+      "numero": 3,
+      "titulo": "Last Exile 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09b15d48a1514d8209b192a8b8f34e48.jpg",
+      "url_origen": "https://jkanime.net/last-exile/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1812,
+      "numero": 4,
+      "titulo": "Last Exile 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b6ba13f79129a74a3e819b78e36b922.jpg",
+      "url_origen": "https://jkanime.net/last-exile/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1813,
+      "numero": 5,
+      "titulo": "Last Exile 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f542eae1949358e25d8bfeefe5b199f1.jpg",
+      "url_origen": "https://jkanime.net/last-exile/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1814,
+      "numero": 6,
+      "titulo": "Last Exile 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_155fa09596c7e18e50b58eb7e0c6ccb4.jpg",
+      "url_origen": "https://jkanime.net/last-exile/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1815,
+      "numero": 7,
+      "titulo": "Last Exile 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0bbac6fa079f1e00b2c14c1d3c6ccf0.jpg",
+      "url_origen": "https://jkanime.net/last-exile/7/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1816,
+      "numero": 8,
+      "titulo": "Last Exile 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_faacbcd5bf1d018912c116bf2783e9a1.jpg",
+      "url_origen": "https://jkanime.net/last-exile/8/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1817,
+      "numero": 9,
+      "titulo": "Last Exile 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4a4da9aa7eadfd23c7bdb7cf57b3112.jpg",
+      "url_origen": "https://jkanime.net/last-exile/9/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1818,
+      "numero": 10,
+      "titulo": "Last Exile 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5c3dd7514bf620a1b85450d2ae374b1.jpg",
+      "url_origen": "https://jkanime.net/last-exile/10/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1819,
+      "numero": 11,
+      "titulo": "Last Exile 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17c3433fecc21b57000debdf7ad5c930.jpg",
+      "url_origen": "https://jkanime.net/last-exile/11/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1820,
+      "numero": 12,
+      "titulo": "Last Exile 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2d887e01a80e813d9080038decbbabb.jpg",
+      "url_origen": "https://jkanime.net/last-exile/12/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1821,
+      "numero": 13,
+      "titulo": "Last Exile 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_596dedf4498e258e4bdc9fd70df9a859.jpg",
+      "url_origen": "https://jkanime.net/last-exile/13/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1822,
+      "numero": 14,
+      "titulo": "Last Exile 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e087ec55dcbe7b2d7992d6b69b519fb.jpg",
+      "url_origen": "https://jkanime.net/last-exile/14/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1823,
+      "numero": 15,
+      "titulo": "Last Exile 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14cfdb59b5bda1fc245aadae15b1984a.jpg",
+      "url_origen": "https://jkanime.net/last-exile/15/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1824,
+      "numero": 16,
+      "titulo": "Last Exile 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2647c1dba23bc0e0f9cdf75339e120d2.jpg",
+      "url_origen": "https://jkanime.net/last-exile/16/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1825,
+      "numero": 17,
+      "titulo": "Last Exile 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed519dacc89b2bead3f453b0b05a4a8b.jpg",
+      "url_origen": "https://jkanime.net/last-exile/17/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1826,
+      "numero": 18,
+      "titulo": "Last Exile 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f442d33fa06832082290ad8544a8da27.jpg",
+      "url_origen": "https://jkanime.net/last-exile/18/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1827,
+      "numero": 19,
+      "titulo": "Last Exile 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fface8385abbf94b4593a0ed53a0c70f.jpg",
+      "url_origen": "https://jkanime.net/last-exile/19/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1828,
+      "numero": 20,
+      "titulo": "Last Exile 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4496bf24afe7fab6f046bf4923da8de6.jpg",
+      "url_origen": "https://jkanime.net/last-exile/20/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1829,
+      "numero": 21,
+      "titulo": "Last Exile 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa2a77371374094fe9e0bc1de3f94ed9.jpg",
+      "url_origen": "https://jkanime.net/last-exile/21/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1830,
+      "numero": 22,
+      "titulo": "Last Exile 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_069654d5ce089c13f642d19f09a3d1c0.jpg",
+      "url_origen": "https://jkanime.net/last-exile/22/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1831,
+      "numero": 23,
+      "titulo": "Last Exile 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0ab531ec312161511493b002f9be2ee.jpg",
+      "url_origen": "https://jkanime.net/last-exile/23/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1832,
+      "numero": 24,
+      "titulo": "Last Exile 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61b1fb3f59e28c67f3925f3c79be81a1.jpg",
+      "url_origen": "https://jkanime.net/last-exile/24/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1833,
+      "numero": 25,
+      "titulo": "Last Exile 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a1de01f893e0d2551ecbb7ce4dc963e.jpg",
+      "url_origen": "https://jkanime.net/last-exile/25/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1834,
+      "numero": 26,
+      "titulo": "Last Exile 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d757719ed7c2b66dd17dcee2a3cb29f4.jpg",
+      "url_origen": "https://jkanime.net/last-exile/26/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:36+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "80",
+  "cantidad_episodios_declarada": 26,
+  "detalle_extraido_en": "2026-08-26T18:36:22+00:00"
+}

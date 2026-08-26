@@ -1,0 +1,117 @@
+{
+  "id_origen": 2174,
+  "slug": "poputepipikku",
+  "titulo": "Poputepipikku",
+  "titulo_corto": "Poputepipikku",
+  "sinopsis": "Popuko y Pipimi son dos chicas de catorce años que se ven envueltas en las situaciones más absurdas posibles.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/poputepipikku/",
+  "episodios": [
+    {
+      "id_origen": 36361,
+      "numero": 1,
+      "titulo": "Poputepipikku - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+      "url_origen": "https://jkanime.net/poputepipikku/1/",
+      "publicado_en_origen": "2018-01-06 17:19:53"
+    },
+    {
+      "id_origen": 36404,
+      "numero": 2,
+      "titulo": "Poputepipikku - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+      "url_origen": "https://jkanime.net/poputepipikku/2/",
+      "publicado_en_origen": "2018-01-13 16:28:37"
+    },
+    {
+      "id_origen": 36451,
+      "numero": 3,
+      "titulo": "Poputepipikku - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+      "url_origen": "https://jkanime.net/poputepipikku/3/",
+      "publicado_en_origen": "2018-01-20 16:15:50"
+    },
+    {
+      "id_origen": 36497,
+      "numero": 4,
+      "titulo": "Poputepipikku - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+      "url_origen": "https://jkanime.net/poputepipikku/4/",
+      "publicado_en_origen": "2018-01-27 16:57:44"
+    },
+    {
+      "id_origen": 36553,
+      "numero": 5,
+      "titulo": "Poputepipikku - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+      "url_origen": "https://jkanime.net/poputepipikku/5/",
+      "publicado_en_origen": "2018-02-03 16:20:42"
+    },
+    {
+      "id_origen": 36599,
+      "numero": 6,
+      "titulo": "Poputepipikku - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+      "url_origen": "https://jkanime.net/poputepipikku/6/",
+      "publicado_en_origen": "2018-02-10 16:18:22"
+    },
+    {
+      "id_origen": 36654,
+      "numero": 7,
+      "titulo": "Poputepipikku - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+      "url_origen": "https://jkanime.net/poputepipikku/7/",
+      "publicado_en_origen": "2018-02-17 16:13:29"
+    },
+    {
+      "id_origen": 36725,
+      "numero": 8,
+      "titulo": "Poputepipikku - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+      "url_origen": "https://jkanime.net/poputepipikku/8/",
+      "publicado_en_origen": "2018-02-24 16:17:34"
+    },
+    {
+      "id_origen": 36767,
+      "numero": 9,
+      "titulo": "Poputepipikku - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+      "url_origen": "https://jkanime.net/poputepipikku/9/",
+      "publicado_en_origen": "2018-03-03 16:15:54"
+    },
+    {
+      "id_origen": 36814,
+      "numero": 10,
+      "titulo": "Poputepipikku - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+      "url_origen": "https://jkanime.net/poputepipikku/10/",
+      "publicado_en_origen": "2018-03-10 16:22:24"
+    },
+    {
+      "id_origen": 36858,
+      "numero": 11,
+      "titulo": "Poputepipikku - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+      "url_origen": "https://jkanime.net/poputepipikku/11/",
+      "publicado_en_origen": "2018-03-17 18:14:00"
+    },
+    {
+      "id_origen": 36911,
+      "numero": 12,
+      "titulo": "Poputepipikku - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/poputepipikku.jpg",
+      "url_origen": "https://jkanime.net/poputepipikku/12/",
+      "publicado_en_origen": "2018-03-24 16:28:07"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:20+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2174",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:42:43+00:00"
+}

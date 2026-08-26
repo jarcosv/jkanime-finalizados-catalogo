@@ -1,0 +1,397 @@
+{
+  "id_origen": 4159,
+  "slug": "futari-wa-precure-max-heart",
+  "titulo": "Futari wa Precure: Max Heart",
+  "titulo_corto": "Futari wa Precure: Max Heart",
+  "sinopsis": "Poco después de la caída del Rey Malvado, la Reina del Jardín de la Luz perdió la memoria y vino a la Tierra en forma de una niña de 12 años llamada Hikari Kujou. Ahora, ella -con la ayuda de Nagisa y Honoka, dotadas de nuevos trajes y poderes- debe encontrar los 12 Heartiels, que contienen la clave para restaurar los recuerdos perdidos de la Reina. Porque juntas, una vez más, son Pretty Cure.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/futari-wa-precure-max-heart.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/",
+  "episodios": [
+    {
+      "id_origen": 63661,
+      "numero": 1,
+      "titulo": "Futari wa Precure: Max Heart - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c6b15b7e143b0ab6946c769bd816bca.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/1/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63662,
+      "numero": 2,
+      "titulo": "Futari wa Precure: Max Heart - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc49aadfeeae8f830e6633ab3158f388.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/2/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63663,
+      "numero": 3,
+      "titulo": "Futari wa Precure: Max Heart - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2280bb20f8c20588aab2ef4c5472c08.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/3/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63664,
+      "numero": 4,
+      "titulo": "Futari wa Precure: Max Heart - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b75fc0d7184011394c9248d03e6d467.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/4/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63665,
+      "numero": 5,
+      "titulo": "Futari wa Precure: Max Heart - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26ad626641be221467b7f5075db69c70.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/5/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63666,
+      "numero": 6,
+      "titulo": "Futari wa Precure: Max Heart - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e21654f037de240269430f111d27b1b9.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/6/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63667,
+      "numero": 7,
+      "titulo": "Futari wa Precure: Max Heart - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b972b8d6d00e2765162edccbf83b6c4f.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/7/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63668,
+      "numero": 8,
+      "titulo": "Futari wa Precure: Max Heart - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c80d2a29aa8c10905499abe6e8a7428.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/8/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63669,
+      "numero": 9,
+      "titulo": "Futari wa Precure: Max Heart - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba4599ecafe73d53be96f586f1b79a62.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/9/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63670,
+      "numero": 10,
+      "titulo": "Futari wa Precure: Max Heart - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4254c66f414af6b2adcb65d899eb99d5.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/10/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63671,
+      "numero": 11,
+      "titulo": "Futari wa Precure: Max Heart - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_445f2d016ac74258f04e5bff27582ec6.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/11/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63672,
+      "numero": 12,
+      "titulo": "Futari wa Precure: Max Heart - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76807ddf9195d5e327178b7298a1f931.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/12/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63673,
+      "numero": 13,
+      "titulo": "Futari wa Precure: Max Heart - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1632d177ba2006d2e943c40d1d63e51.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/13/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63674,
+      "numero": 14,
+      "titulo": "Futari wa Precure: Max Heart - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be774c9be181bb5690acedfc26b1d675.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/14/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63675,
+      "numero": 15,
+      "titulo": "Futari wa Precure: Max Heart - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d98abc03a20106fb70359794d501eee0.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/15/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63676,
+      "numero": 16,
+      "titulo": "Futari wa Precure: Max Heart - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eef4b46c8a0cf9b26995f4f4ede7aea0.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/16/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63677,
+      "numero": 17,
+      "titulo": "Futari wa Precure: Max Heart - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e03ec37739e88f2781403194e7ebdfd.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/17/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63678,
+      "numero": 18,
+      "titulo": "Futari wa Precure: Max Heart - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fe06840cba9bdb6dfbf0abb62562c46.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/18/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63679,
+      "numero": 19,
+      "titulo": "Futari wa Precure: Max Heart - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_40cb408354c4316933cf63020c4ca355.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/19/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63680,
+      "numero": 20,
+      "titulo": "Futari wa Precure: Max Heart - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a9e714900a53e14a65502ca417b3779.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/20/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63681,
+      "numero": 21,
+      "titulo": "Futari wa Precure: Max Heart - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f09ef1c26c44a0af04425364cc08ff1.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/21/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63682,
+      "numero": 22,
+      "titulo": "Futari wa Precure: Max Heart - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cf0373acfeb9b77981559000fabc7ed.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/22/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63683,
+      "numero": 23,
+      "titulo": "Futari wa Precure: Max Heart - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b364dcb3fefee21caa684ec088f1778.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/23/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63684,
+      "numero": 24,
+      "titulo": "Futari wa Precure: Max Heart - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d88fbfcdb08cd490c18e845f3567b51a.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/24/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63685,
+      "numero": 25,
+      "titulo": "Futari wa Precure: Max Heart - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0768c23ff03c20a6473da9960a55ea99.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/25/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63686,
+      "numero": 26,
+      "titulo": "Futari wa Precure: Max Heart - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82966fb01166d01de8eba8757b074696.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/26/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63687,
+      "numero": 27,
+      "titulo": "Futari wa Precure: Max Heart - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2eb6560a8876850913cd12e9bdca58b.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/27/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63688,
+      "numero": 28,
+      "titulo": "Futari wa Precure: Max Heart - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c40cf58ea807c31b2edca9d02200731f.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/28/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63689,
+      "numero": 29,
+      "titulo": "Futari wa Precure: Max Heart - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9417db2d0ccc4ae812d1da24adc87e10.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/29/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63690,
+      "numero": 30,
+      "titulo": "Futari wa Precure: Max Heart - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e9aafcd62e356e2442ad5aeda24a879.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/30/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63691,
+      "numero": 31,
+      "titulo": "Futari wa Precure: Max Heart - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7c0ce733ed2a898c3f863674a21462b.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/31/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63692,
+      "numero": 32,
+      "titulo": "Futari wa Precure: Max Heart - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc9f12c83239b991f897019b32be8949.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/32/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63693,
+      "numero": 33,
+      "titulo": "Futari wa Precure: Max Heart - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42d9a793ca67a0225fcc56d4149968a1.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/33/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63694,
+      "numero": 34,
+      "titulo": "Futari wa Precure: Max Heart - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94846bdb29dec9eab1fd19f89a082be0.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/34/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63695,
+      "numero": 35,
+      "titulo": "Futari wa Precure: Max Heart - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5d11ece5ea8357ef30094be08836f1a.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/35/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63696,
+      "numero": 36,
+      "titulo": "Futari wa Precure: Max Heart - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0b9854ce53d26d3f4542d0ba1fe2c48.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/36/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63697,
+      "numero": 37,
+      "titulo": "Futari wa Precure: Max Heart - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96741a01c6c270e2a83b7f048add265f.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/37/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63698,
+      "numero": 38,
+      "titulo": "Futari wa Precure: Max Heart - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_145b1ee18a60007c5a8e76e278d8610c.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/38/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63699,
+      "numero": 39,
+      "titulo": "Futari wa Precure: Max Heart - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b958710ce2303390171cb8fa085e0f50.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/39/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63700,
+      "numero": 40,
+      "titulo": "Futari wa Precure: Max Heart - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb874b4ac13a78fdbfb49aa849cc1583.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/40/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63701,
+      "numero": 41,
+      "titulo": "Futari wa Precure: Max Heart - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39f0371109d0770eec56af9d92217844.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/41/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63702,
+      "numero": 42,
+      "titulo": "Futari wa Precure: Max Heart - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_328707c1fac302012ba5cecc29b03341.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/42/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63703,
+      "numero": 43,
+      "titulo": "Futari wa Precure: Max Heart - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0244beadb0db25998d99c7b4e3183454.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/43/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63704,
+      "numero": 44,
+      "titulo": "Futari wa Precure: Max Heart - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4fd878b31a9cd3a6b247c610447418c.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/44/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63705,
+      "numero": 45,
+      "titulo": "Futari wa Precure: Max Heart - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef178b9a7f880836ebfff9bbe31d0480.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/45/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63706,
+      "numero": 46,
+      "titulo": "Futari wa Precure: Max Heart - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0401bdb38906e5400bd8bc203b7abfb.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/46/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    },
+    {
+      "id_origen": 63707,
+      "numero": 47,
+      "titulo": "Futari wa Precure: Max Heart - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1893a89216aab053338625010405c8d9.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-max-heart/47/",
+      "publicado_en_origen": "2025-06-22 14:41:46"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:32+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4159",
+  "cantidad_episodios_declarada": 47,
+  "detalle_extraido_en": "2026-08-26T18:27:36+00:00"
+}

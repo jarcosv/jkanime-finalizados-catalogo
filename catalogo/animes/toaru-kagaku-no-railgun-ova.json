@@ -1,0 +1,29 @@
+{
+  "id_origen": 561,
+  "slug": "toaru-kagaku-no-railgun-ova",
+  "titulo": "Toaru Kagaku no Railgun OVA",
+  "titulo_corto": "Toaru Kagaku no Railgun OVA",
+  "sinopsis": "Después de un incidente de nivel superior, Misaka Mikoto tiene la extraña sensación de que alguien la está mirando. A diferencia de la atención habitual, esta sensación es molesta, una sensación que la hace sentir que la electricidad que fluye demasiado en su cuerpo. Comprometida a ayudar a su compañera de habitación, Kuroko pide a sus amigos en común, Kazari Uiharu y Saten Ruiko, para ayudar a resolver este misterioso caso.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/toaru-kagaku-no-railgun-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/toaru-kagaku-no-railgun-ova/",
+  "episodios": [
+    {
+      "id_origen": 15576,
+      "numero": 1,
+      "titulo": "Toaru Kagaku no Railgun OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b57fac77ca8ccadbcca2335607697701.jpg",
+      "url_origen": "https://jkanime.net/toaru-kagaku-no-railgun-ova/1/",
+      "publicado_en_origen": "2012-05-06 01:43:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:15+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "561",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:49:34+00:00"
+}

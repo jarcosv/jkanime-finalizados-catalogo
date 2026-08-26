@@ -1,0 +1,29 @@
+{
+  "id_origen": 1624,
+  "slug": "psycho-pass-movie",
+  "titulo": "Psycho-Pass Movie",
+  "titulo_corto": "Psycho-Pass Movie",
+  "sinopsis": "PSYCHO-PASS movie transcurre 2 años después de la segunda temporada.\n\nEs el año 2116 y el gobierno japonés ha comenzado a exportar los droides no tripulados y el concepto de Sistema Sibyl a los países que lo requieran y así es como se ha extendido mundialmente el sistema. La unión de países del sudeste de Asia (SEAUn) ha introducido recientemente el Sistema Sibyl y se encuentra en fase experimental y es gracias a ello que la ciudad artificial construida sobre el agua Shambala Float disfruta de días de paz y tranquilidad. Sin embargo, desde SEAUn llegan terroristas a Japón que consiguen birlar el Sistema Sibyl y lanzar una ofensiva al gobierno central. Es entonces cuando la sombra de cierto hombre aparecerá y Akane viajará hasta Shambala Float para descubrir la verdad detrás de la justicia que mueven estos hechos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/psycho-pass-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/psycho-pass-movie/",
+  "episodios": [
+    {
+      "id_origen": 28838,
+      "numero": 1,
+      "titulo": "Psycho-Pass Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57cb497de9bfe069604d4947adb7ddda.jpg",
+      "url_origen": "https://jkanime.net/psycho-pass-movie/1/",
+      "publicado_en_origen": "2015-07-26 23:50:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1624",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:43:08+00:00"
+}

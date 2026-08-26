@@ -1,0 +1,29 @@
+{
+  "id_origen": 1145,
+  "slug": "mikakunin-de-shinkoukei-ova-2",
+  "titulo": "Mikakunin de Shinkoukei OVA 2",
+  "titulo_corto": "Mikakunin de Shinkoukei OVA 2",
+  "sinopsis": "OVA includa con la edicion limitada del volume 5 del manga de Mikakunin de Shinkoukei.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mikakunin-de-shinkoukei-ova-2.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mikakunin-de-shinkoukei-ova-2/",
+  "episodios": [
+    {
+      "id_origen": 23232,
+      "numero": 1,
+      "titulo": "Mikakunin de Shinkoukei OVA 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eac93fc0e5bfbe34e7ec3ab68738f26e.jpg",
+      "url_origen": "https://jkanime.net/mikakunin-de-shinkoukei-ova-2/1/",
+      "publicado_en_origen": "2014-04-17 13:24:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:55+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1145",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:38:34+00:00"
+}

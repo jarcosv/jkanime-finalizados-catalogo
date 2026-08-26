@@ -1,0 +1,125 @@
+{
+  "id_origen": 116,
+  "slug": "amatsuki",
+  "titulo": "Amatsuki",
+  "titulo_corto": "Amatsuki",
+  "sinopsis": "Tokidoki es un estudiante al que la historia se le da francamente mal. Así que para tratar de entender un poco mejor la historia de su país, acude a una impresionante simulación del período Edo en el que gracias a las nuevas tecnologías todo es tan real como si realmente hubiera viajado a esa época. Pero la simulación se vuelve realidad cuando Tokidoki se da cuenta de que ha quedado encerrado en ese mundo y no puede salir.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/amatsuki.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/amatsuki/",
+  "episodios": [
+    {
+      "id_origen": 2600,
+      "numero": 1,
+      "titulo": "Amatsuki 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32b991e5d77ad140559ffb95522992d0.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/1/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2601,
+      "numero": 2,
+      "titulo": "Amatsuki 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e02e27e04fdff967ba7d76fb24b8069d.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/2/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2602,
+      "numero": 3,
+      "titulo": "Amatsuki 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6403675579f6114559c90de0014cd3d6.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/3/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2603,
+      "numero": 4,
+      "titulo": "Amatsuki 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92f54963fc39a9d87c2253186808ea61.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/4/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2604,
+      "numero": 5,
+      "titulo": "Amatsuki 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_880610aa9f9de9ea7c545169c716f477.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/5/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2605,
+      "numero": 6,
+      "titulo": "Amatsuki 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3fad7d3634dbfb61018813546edbccb.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/6/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2606,
+      "numero": 7,
+      "titulo": "Amatsuki 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a431d70133ef6cf688bc4f6093922b48.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/7/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2607,
+      "numero": 8,
+      "titulo": "Amatsuki 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53c6de78244e9f528eb3e1cda69699bb.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/8/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2608,
+      "numero": 9,
+      "titulo": "Amatsuki 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d756d3d2b9dac72449a6a6926534558a.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/9/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2609,
+      "numero": 10,
+      "titulo": "Amatsuki 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_339a18def9898dd60a634b2ad8fbbd58.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/10/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2610,
+      "numero": 11,
+      "titulo": "Amatsuki 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8dc5983b8c4ef1d8fcd5f325f9a65511.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/11/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2611,
+      "numero": 12,
+      "titulo": "Amatsuki 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_321cf86b4c9f5ddd04881a44067c2a5a.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/12/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2612,
+      "numero": 13,
+      "titulo": "Amatsuki 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1175defd049d3301e047ce50d93e9c7a.jpg",
+      "url_origen": "https://jkanime.net/amatsuki/13/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "116",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:16:23+00:00"
+}

@@ -1,0 +1,101 @@
+{
+  "id_origen": 1989,
+  "slug": "spiritpact",
+  "titulo": "Ling Qi",
+  "titulo_corto": "Ling Qi",
+  "sinopsis": "Tras perder a sus padres, el exorcista Keika You se ve sumido en la pobreza, teniendo que sobrevivir como adivino ambulante y recogiendo piezas de ordenador. Y es tan mísera su suerte que se ve envuelto en un accidente de tráfico y acaba convirtiéndose en un fantasma. Será entonces cuando se encuentre con el también exorcista Ki Tanmoku, quien le propondrá luchar juntos contra los espíritus malignos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/spiritpact.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/spiritpact/",
+  "episodios": [
+    {
+      "id_origen": 33799,
+      "numero": 1,
+      "titulo": "Spiritpact - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b67ca4146e15f7e22010924ae0d038c.jpg",
+      "url_origen": "https://jkanime.net/spiritpact/1/",
+      "publicado_en_origen": "2017-01-07 16:05:55"
+    },
+    {
+      "id_origen": 33851,
+      "numero": 2,
+      "titulo": "Spiritpact - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d35295b18abfc4a1c3508b25012fcb5.jpg",
+      "url_origen": "https://jkanime.net/spiritpact/2/",
+      "publicado_en_origen": "2017-01-14 13:12:31"
+    },
+    {
+      "id_origen": 33906,
+      "numero": 3,
+      "titulo": "Spiritpact - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b90b1b71d03d17c8af3e78947fa87a0a.jpg",
+      "url_origen": "https://jkanime.net/spiritpact/3/",
+      "publicado_en_origen": "2017-01-21 13:17:28"
+    },
+    {
+      "id_origen": 33966,
+      "numero": 4,
+      "titulo": "Spiritpact - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79778539c65bffa4a3c2d44d56c16d91.jpg",
+      "url_origen": "https://jkanime.net/spiritpact/4/",
+      "publicado_en_origen": "2017-01-28 13:16:52"
+    },
+    {
+      "id_origen": 34020,
+      "numero": 5,
+      "titulo": "Spiritpact - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef032196a297619992c869476761d197.jpg",
+      "url_origen": "https://jkanime.net/spiritpact/5/",
+      "publicado_en_origen": "2017-02-04 13:17:12"
+    },
+    {
+      "id_origen": 34076,
+      "numero": 6,
+      "titulo": "Spiritpact - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6dcfff2b73388f6307994658463a9341.jpg",
+      "url_origen": "https://jkanime.net/spiritpact/6/",
+      "publicado_en_origen": "2017-02-11 13:11:55"
+    },
+    {
+      "id_origen": 34132,
+      "numero": 7,
+      "titulo": "Spiritpact - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7047653faab87234b4f0d8e9d669fa7c.jpg",
+      "url_origen": "https://jkanime.net/spiritpact/7/",
+      "publicado_en_origen": "2017-02-18 13:26:16"
+    },
+    {
+      "id_origen": 34200,
+      "numero": 8,
+      "titulo": "Spiritpact - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92b1f191dfce9fff64b4effd954ccaab.jpg",
+      "url_origen": "https://jkanime.net/spiritpact/8/",
+      "publicado_en_origen": "2017-02-25 13:12:38"
+    },
+    {
+      "id_origen": 34251,
+      "numero": 9,
+      "titulo": "Spiritpact - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_765be53f0233ac540e58b3a6c1ffdecb.jpg",
+      "url_origen": "https://jkanime.net/spiritpact/9/",
+      "publicado_en_origen": "2017-03-04 13:20:14"
+    },
+    {
+      "id_origen": 34309,
+      "numero": 10,
+      "titulo": "Spiritpact - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b05ed73e73744cd4d6450f331e8581ad.jpg",
+      "url_origen": "https://jkanime.net/spiritpact/10/",
+      "publicado_en_origen": "2017-03-11 13:11:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1989",
+  "cantidad_episodios_declarada": 20,
+  "detalle_extraido_en": "2026-08-26T18:36:29+00:00"
+}

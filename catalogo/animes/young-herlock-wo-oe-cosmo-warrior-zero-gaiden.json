@@ -1,0 +1,37 @@
+{
+  "id_origen": 4191,
+  "slug": "young-herlock-wo-oe-cosmo-warrior-zero-gaiden",
+  "titulo": "Young Herlock wo Oe! Cosmo Warrior Zero Gaiden",
+  "titulo_corto": "Young Herlock wo Oe! Cosmo War...",
+  "sinopsis": "El capitán espacial Warrius Zero, que perdió a su familia a manos de unos malvados cyborgs, libra una batalla contra el capitán Harlock, un rebelde espacial que defiende a los Hombres Máquina.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/young-herlock-wo-oe-cosmo-warrior-zero-gaiden.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/young-herlock-wo-oe-cosmo-warrior-zero-gaiden/",
+  "episodios": [
+    {
+      "id_origen": 64036,
+      "numero": 1,
+      "titulo": "Young Herlock wo Oe! Cosmo Warrior Zero Gaiden - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b2f08b9d6ab75e14f4197426976d364.jpg",
+      "url_origen": "https://jkanime.net/young-herlock-wo-oe-cosmo-warrior-zero-gaiden/1/",
+      "publicado_en_origen": "2025-06-26 15:27:52"
+    },
+    {
+      "id_origen": 64037,
+      "numero": 2,
+      "titulo": "Young Herlock wo Oe! Cosmo Warrior Zero Gaiden - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d716bf03ea697bd529e66fdb2872e1f.jpg",
+      "url_origen": "https://jkanime.net/young-herlock-wo-oe-cosmo-warrior-zero-gaiden/2/",
+      "publicado_en_origen": "2025-06-26 15:27:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4191",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:53:08+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 3191,
+  "slug": "odd-taxi-movie-in-the-woods",
+  "titulo": "Odd Taxi Movie: In the Woods",
+  "titulo_corto": "Odd Taxi Movie: In the Woods",
+  "sinopsis": "La ciudad debería resultarle familiar a Odokawa, un taxista con una vida muy corriente, pero de repente no es así. No tiene familia, no suele quedar con nadie y es una persona algo excéntrica que no habla demasiado. Sus únicas amistades son su doctor, Goriki, y un antiguo compañero de clase, Kakibana.\nEn esta película los personajes nos hablan de su punto de vista de los incidentes ocurridos en la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/odd-taxi-movie-in-the-woods.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/odd-taxi-movie-in-the-woods/",
+  "episodios": [
+    {
+      "id_origen": 50527,
+      "numero": 1,
+      "titulo": "Odd Taxi Movie: In the Woods",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1647f5a703f9c2a3f77fef4f89c52771.jpg",
+      "url_origen": "https://jkanime.net/odd-taxi-movie-in-the-woods/1/",
+      "publicado_en_origen": "2022-09-10 22:50:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3191",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:57+00:00"
+}

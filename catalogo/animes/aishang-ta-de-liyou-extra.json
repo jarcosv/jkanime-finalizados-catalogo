@@ -1,0 +1,29 @@
+{
+  "id_origen": 3664,
+  "slug": "aishang-ta-de-liyou-extra",
+  "titulo": "Aishang Ta de Liyou Extra",
+  "titulo_corto": "Aishang Ta de Liyou Extra",
+  "sinopsis": "extra de Aishang Ta de Liyou",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/aishang-ta-de-liyou-extra.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/aishang-ta-de-liyou-extra/",
+  "episodios": [
+    {
+      "id_origen": 56126,
+      "numero": 1,
+      "titulo": "Aishang Ta de Liyou Extra",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9476a2b1edfabff996994109634a5cd5.jpg",
+      "url_origen": "https://jkanime.net/aishang-ta-de-liyou-extra/1/",
+      "publicado_en_origen": "2024-02-25 11:19:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3664",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:15:38+00:00"
+}

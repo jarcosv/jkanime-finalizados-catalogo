@@ -1,0 +1,37 @@
+{
+  "id_origen": 1778,
+  "slug": "queens-blade-grimoire",
+  "titulo": "Queen's Blade: Grimoire",
+  "titulo_corto": "Queen's Blade: Grimoire",
+  "sinopsis": "La historia se desarrolla después de que finalice el campeonato de la campeona errante Leina. Alicia, maga de la corte real, utiliza magia negra y abre un pasaje a otra dimensión. Desde esa puerta un conejo atrae a Alicia hasta otra dimensión llamada Melfairland, donde se celebra un torneo para premiar a una Queen’s Blade, y Alicia decide participar para encontrar la forma de volver a su mundo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/queens-blade-grimoire.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/queens-blade-grimoire/",
+  "episodios": [
+    {
+      "id_origen": 31182,
+      "numero": 1,
+      "titulo": "Queen's Blade: Grimoire - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3aca25419b5a8e3ac42e17f49c9ef75f.jpg",
+      "url_origen": "https://jkanime.net/queens-blade-grimoire/1/",
+      "publicado_en_origen": "2016-03-22 17:21:26"
+    },
+    {
+      "id_origen": 32948,
+      "numero": 2,
+      "titulo": "Queen's Blade: Grimoire - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d76ad7ae5fb13d95eb34c39c6fb59b0.jpg",
+      "url_origen": "https://jkanime.net/queens-blade-grimoire/2/",
+      "publicado_en_origen": "2016-10-04 21:00:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1778",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:43:23+00:00"
+}

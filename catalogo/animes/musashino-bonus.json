@@ -1,0 +1,29 @@
+{
+  "id_origen": 4332,
+  "slug": "musashino-bonus",
+  "titulo": "Musashino! Bonus",
+  "titulo_corto": "Musashino! Bonus",
+  "sinopsis": "Episodio 13 de Musashino",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/musashino-bonus.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/musashino-bonus/",
+  "episodios": [
+    {
+      "id_origen": 67009,
+      "numero": 1,
+      "titulo": "Musashino! Bonus",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ce8d4a53da677508e07d65299038cbe.jpg",
+      "url_origen": "https://jkanime.net/musashino-bonus/1/",
+      "publicado_en_origen": "2025-08-21 18:22:16"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4332",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:23+00:00"
+}

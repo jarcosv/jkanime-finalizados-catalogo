@@ -1,0 +1,101 @@
+{
+  "id_origen": 2323,
+  "slug": "saint-seiya-saintia-shou",
+  "titulo": "Saint Seiya: Saintia Shou",
+  "titulo_corto": "Saint Seiya: Saintia Shou",
+  "sinopsis": "Todo el Santuario se convirtio en un peligro debido a la guerra civil instigada por el Gemini Gold Saint, Saga. Nuestra historia comienza justo despues del final de esos eventos ... Esta es una historia de las chicas que protegen a Athena. Estos son los registros de amor y luchas feroces que se encuentran mientras se oponen al destino en su camino hacia la madurez ...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saint-seiya-saintia-shou.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/saint-seiya-saintia-shou/",
+  "episodios": [
+    {
+      "id_origen": 38523,
+      "numero": 1,
+      "titulo": "Saint Seiya: Saintia Shou - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15c08959e5e7b1930cb81c503058b4c4.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saintia-shou/1/",
+      "publicado_en_origen": "2018-12-17 15:18:23"
+    },
+    {
+      "id_origen": 38524,
+      "numero": 2,
+      "titulo": "Saint Seiya: Saintia Shou - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_477ad223c8ae57ea56d3c6fd32491578.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saintia-shou/2/",
+      "publicado_en_origen": "2018-12-17 15:18:38"
+    },
+    {
+      "id_origen": 38569,
+      "numero": 3,
+      "titulo": "Saint Seiya: Saintia Shou - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85d451951b74d5024a7b396ec5f250b6.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saintia-shou/3/",
+      "publicado_en_origen": "2018-12-24 18:01:58"
+    },
+    {
+      "id_origen": 38629,
+      "numero": 4,
+      "titulo": "Saint Seiya: Saintia Shou - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0de308304dd71fff33f9cd7275712223.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saintia-shou/4/",
+      "publicado_en_origen": "2019-01-07 14:37:13"
+    },
+    {
+      "id_origen": 38668,
+      "numero": 5,
+      "titulo": "Saint Seiya: Saintia Shou - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b72e2fb16e78d4d8b8b80033f0d7a448.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saintia-shou/5/",
+      "publicado_en_origen": "2019-01-14 14:56:48"
+    },
+    {
+      "id_origen": 38718,
+      "numero": 6,
+      "titulo": "Saint Seiya: Saintia Shou - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54e6004b6582e10b9133900cf885a313.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saintia-shou/6/",
+      "publicado_en_origen": "2019-01-21 14:15:16"
+    },
+    {
+      "id_origen": 38739,
+      "numero": 7,
+      "titulo": "Saint Seiya: Saintia Shou - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8f765cdb2417f2eb44728a0a3d7cfc3.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saintia-shou/7/",
+      "publicado_en_origen": "2019-02-02 17:48:42"
+    },
+    {
+      "id_origen": 38792,
+      "numero": 8,
+      "titulo": "Saint Seiya: Saintia Shou - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aed141f2f5b7c0a505524861b37b5915.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saintia-shou/8/",
+      "publicado_en_origen": "2019-02-04 13:09:28"
+    },
+    {
+      "id_origen": 38855,
+      "numero": 9,
+      "titulo": "Saint Seiya: Saintia Shou - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8aecd51d6d87cc8f1ceed1134cc06934.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saintia-shou/9/",
+      "publicado_en_origen": "2019-02-11 13:58:45"
+    },
+    {
+      "id_origen": 38909,
+      "numero": 10,
+      "titulo": "Saint Seiya: Saintia Shou - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b32cf5537b682f533bad63896c1b7f7f.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-saintia-shou/10/",
+      "publicado_en_origen": "2019-02-18 14:50:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2323",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:44:39+00:00"
+}

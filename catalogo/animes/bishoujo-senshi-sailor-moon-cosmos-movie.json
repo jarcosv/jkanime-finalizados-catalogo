@@ -1,0 +1,37 @@
+{
+  "id_origen": 3657,
+  "slug": "bishoujo-senshi-sailor-moon-cosmos-movie",
+  "titulo": "Bishoujo Senshi Sailor Moon Cosmos Movie",
+  "titulo_corto": "Bishoujo Senshi Sailor Moon Co...",
+  "sinopsis": "Usagi Tsukino es una estudiante normal y una torpe llorona que siempre saca malas notas en sus exámenes. Inesperadamente, su monótona vida da un vuelco cuando salva del peligro a un gato con una luna creciente en la cabeza. La gata, llamada Luna, le revela más tarde que su encuentro no fue un accidente: Usagi está destinada a convertirse en Sailor Moon, una guardiana planetaria con el poder de proteger la Tierra. Con un broche especial que le permite transformarse, debe utilizar sus nuevos poderes para salvar la ciudad de los malvados monstruos que roban energía, enviados por la malévola Reina Beryl del Reino Oscuro. Pero acostumbrarse a sus poderes y luchar contra los villanos no son las únicas cosas de las que tiene que preocuparse. Debe encontrar a la princesa perdida del Reino de la Luna, a las otras Sailor Guardians y al legendario Cristal de Plata para salvar el planeta de la destrucción.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bishoujo-senshi-sailor-moon-cosmos-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bishoujo-senshi-sailor-moon-cosmos-movie/",
+  "episodios": [
+    {
+      "id_origen": 55907,
+      "numero": 1,
+      "titulo": "Bishoujo Senshi Sailor Moon Cosmos Movie - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52c512cf6d6fc00c6e9c20ba877699f8.jpg",
+      "url_origen": "https://jkanime.net/bishoujo-senshi-sailor-moon-cosmos-movie/1/",
+      "publicado_en_origen": "2024-02-08 22:49:21"
+    },
+    {
+      "id_origen": 55908,
+      "numero": 2,
+      "titulo": "Bishoujo Senshi Sailor Moon Cosmos Movie - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b82d226174290251e1ce0ded44a0f2e.jpg",
+      "url_origen": "https://jkanime.net/bishoujo-senshi-sailor-moon-cosmos-movie/2/",
+      "publicado_en_origen": "2024-02-08 22:49:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3657",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:19:58+00:00"
+}

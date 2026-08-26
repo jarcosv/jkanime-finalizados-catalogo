@@ -1,0 +1,413 @@
+{
+  "id_origen": 4158,
+  "slug": "futari-wa-precure",
+  "titulo": "Futari wa Precure",
+  "titulo_corto": "Futari wa Precure",
+  "sinopsis": "Las estudiantes de secundaria Nagisa Misumi y Honoka Yukishiro son el epítome de la disimilitud. Nagisa, popular entre sus compañeros, es la enérgica jugadora estrella de lacrosse de la escuela, mientras que Honoka es la «Reina de la Inteligencia» de voz suave.\r\n\r\nAunque no lo parezcan, Nagisa y Honoka llevan una doble vida como «emisarias de la luz»: Cure Black y Cure White de Pretty Cure. Con la ayuda de dos hadas, Mipple y Mepple, las chicas luchan contra la Zona Dotsuku, una fuerza maligna que ha invadido el Jardín de la Luz. Para evitar que la Zona Dotsuku se apodere también del Jardín de los Arco Iris, las dos deben trabajar juntas para encontrar siete Piedras Prisma y restaurar el Prisma Hopish para expulsar a las fuerzas viles.\r\n\r\nNagisa y Honoka tendrán que enfrentarse a grandes enemigos para aprender a trabajar juntas y aprovechar sus nuevos poderes con el fin de salvar los mundos de una mayor ruina.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/futari-wa-precure.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/futari-wa-precure/",
+  "episodios": [
+    {
+      "id_origen": 63612,
+      "numero": 1,
+      "titulo": "Futari wa Precure - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57640e38dfd51b48099e804029a32240.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/1/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63613,
+      "numero": 2,
+      "titulo": "Futari wa Precure - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b296c33039f92ec1613125dc4ec4422.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/2/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63614,
+      "numero": 3,
+      "titulo": "Futari wa Precure - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd67c06c50d606f9d02e2a233e0c5ceb.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/3/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63615,
+      "numero": 4,
+      "titulo": "Futari wa Precure - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_777bae4986a987d5d50e9ee66c44cbe3.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/4/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63616,
+      "numero": 5,
+      "titulo": "Futari wa Precure - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a2314e17a79c274354e8fb55d9d4219.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/5/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63617,
+      "numero": 6,
+      "titulo": "Futari wa Precure - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d15c4546ce94125955692846ee1dafa.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/6/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63618,
+      "numero": 7,
+      "titulo": "Futari wa Precure - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15d01dd9a66535968b46857778c4aee1.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/7/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63619,
+      "numero": 8,
+      "titulo": "Futari wa Precure - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c439c42f8be33818f4745347ea6ed373.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/8/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63620,
+      "numero": 9,
+      "titulo": "Futari wa Precure - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b31944c32e4551c4cbc2a0a7902b7901.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/9/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63621,
+      "numero": 10,
+      "titulo": "Futari wa Precure - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2639eac292c6376778e49524ab321f58.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/10/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63622,
+      "numero": 11,
+      "titulo": "Futari wa Precure - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01caff7755fa2c0e195b71c10468ce39.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/11/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63623,
+      "numero": 12,
+      "titulo": "Futari wa Precure - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3ca74daa243173b6d75229f4a059de4.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/12/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63624,
+      "numero": 13,
+      "titulo": "Futari wa Precure - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab84d8ad83fef7678e0763ecc42e8334.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/13/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63625,
+      "numero": 14,
+      "titulo": "Futari wa Precure - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbef66f227d618935a5bb2d360466e26.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/14/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63626,
+      "numero": 15,
+      "titulo": "Futari wa Precure - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf9ffaf92e0e27213b768c0a542d6d70.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/15/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63627,
+      "numero": 16,
+      "titulo": "Futari wa Precure - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce269475e973f5aa5b144348c937de3c.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/16/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63628,
+      "numero": 17,
+      "titulo": "Futari wa Precure - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d7065a928da81a64f25cc24b3501349.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/17/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63629,
+      "numero": 18,
+      "titulo": "Futari wa Precure - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85392dd31bfad715d3a8c8f10ed7210f.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/18/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63630,
+      "numero": 19,
+      "titulo": "Futari wa Precure - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbebb3f2c7975b99e240fb65464c0ed6.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/19/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63631,
+      "numero": 20,
+      "titulo": "Futari wa Precure - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e05741f182e2e34b05c98f200ab24e6.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/20/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63632,
+      "numero": 21,
+      "titulo": "Futari wa Precure - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c69a0d76fa0b990fcf99af5204343386.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/21/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63633,
+      "numero": 22,
+      "titulo": "Futari wa Precure - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a01c4408b4dae837788215cffd8ea442.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/22/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63634,
+      "numero": 23,
+      "titulo": "Futari wa Precure - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b411819ee6d25da2fb69091032039d3.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/23/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63635,
+      "numero": 24,
+      "titulo": "Futari wa Precure - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64eaca2f7bb4d8eb77e3fc1848ceb5ce.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/24/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63636,
+      "numero": 25,
+      "titulo": "Futari wa Precure - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4a6c4ca19db9d41b16cbdc7057910c5.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/25/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63637,
+      "numero": 26,
+      "titulo": "Futari wa Precure - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f25f0065e72b3e62ae06a53ef225c0d.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/26/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63638,
+      "numero": 27,
+      "titulo": "Futari wa Precure - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3cb0c3078ae8c59d535bd4f07940ec8.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/27/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63639,
+      "numero": 28,
+      "titulo": "Futari wa Precure - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2131bfff51e3ecee1c6510ebf7478192.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/28/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63640,
+      "numero": 29,
+      "titulo": "Futari wa Precure - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b541cbe2a48d28d034fa60a17a240177.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/29/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63641,
+      "numero": 30,
+      "titulo": "Futari wa Precure - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_694b22d7189b4ff841105b50ff511524.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/30/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63642,
+      "numero": 31,
+      "titulo": "Futari wa Precure - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df09c75300e57d65c6108ec5178cd934.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/31/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63643,
+      "numero": 32,
+      "titulo": "Futari wa Precure - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0cf5068b5628821ca51d1c1dbb8e7b7c.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/32/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63644,
+      "numero": 33,
+      "titulo": "Futari wa Precure - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_787b826c605814601d61d4931c487802.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/33/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63645,
+      "numero": 34,
+      "titulo": "Futari wa Precure - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2ade36002e253dc2e2e2031914753fb.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/34/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63646,
+      "numero": 35,
+      "titulo": "Futari wa Precure - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a24c1808c8bc3b73eee86626a62092b9.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/35/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63647,
+      "numero": 36,
+      "titulo": "Futari wa Precure - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d40e8c033ed806406e1a9d64aa9c86bc.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/36/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63648,
+      "numero": 37,
+      "titulo": "Futari wa Precure - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25d50ec7efe75da51679419809cc554e.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/37/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63649,
+      "numero": 38,
+      "titulo": "Futari wa Precure - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c6ba3d93b862ebfbce5c31a1907574f.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/38/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63650,
+      "numero": 39,
+      "titulo": "Futari wa Precure - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb7a36b98ace44f4103a635b84980b11.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/39/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63651,
+      "numero": 40,
+      "titulo": "Futari wa Precure - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33d8e2f9c57f6ecd20ca50839d0f905d.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/40/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63652,
+      "numero": 41,
+      "titulo": "Futari wa Precure - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad590d537e0880909289bc0ce1419c44.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/41/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63653,
+      "numero": 42,
+      "titulo": "Futari wa Precure - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c2ce705e8e376e3994bab38f0808a19.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/42/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63654,
+      "numero": 43,
+      "titulo": "Futari wa Precure - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18694a113f6b12a2ccf481fe2329428d.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/43/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63655,
+      "numero": 44,
+      "titulo": "Futari wa Precure - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_842f115437789f578c386d1f158f052a.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/44/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63656,
+      "numero": 45,
+      "titulo": "Futari wa Precure - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbc8c4176f77aa63ee6d4f133b393e9c.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/45/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63657,
+      "numero": 46,
+      "titulo": "Futari wa Precure - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb0d8704910d6bf74b45b6d5044694a8.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/46/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63658,
+      "numero": 47,
+      "titulo": "Futari wa Precure - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59266a2157dba49360eff816b74fb72e.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/47/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63659,
+      "numero": 48,
+      "titulo": "Futari wa Precure - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2a37c4b7e06bf085439745a5d2e40eb.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/48/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    },
+    {
+      "id_origen": 63660,
+      "numero": 49,
+      "titulo": "Futari wa Precure - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a7cd4e5283991ee9d23c425d0ca3c40.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure/49/",
+      "publicado_en_origen": "2025-06-22 14:02:59"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4158",
+  "cantidad_episodios_declarada": 49,
+  "detalle_extraido_en": "2026-08-26T18:27:36+00:00"
+}

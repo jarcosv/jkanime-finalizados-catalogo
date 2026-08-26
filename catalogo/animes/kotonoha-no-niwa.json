@@ -1,0 +1,29 @@
+{
+  "id_origen": 853,
+  "slug": "kotonoha-no-niwa",
+  "titulo": "Kotonoha no Niwa",
+  "titulo_corto": "Kotonoha no Niwa",
+  "sinopsis": "Takao, quien está entrenando para convertirse en un zapatero, se salta la escuela para dibujar zapatos en un jardín de estilo japonés, un día se encuentra con una misteriosa mujer, Yukino, que es mayor que él. Los dos se comienzan a ver una y otra vez, pero sólo en días de lluvia. Con el tiempo ellos empiezan a profundizar su relación y a abrirse el uno al otro. Pero el final de la temporada de lluvias está muy cerca...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kotonoha-no-niwa.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kotonoha-no-niwa/",
+  "episodios": [
+    {
+      "id_origen": 20576,
+      "numero": 1,
+      "titulo": "Kotonoha no Niwa",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f5c8acfebc4073ffd8f56522d137223.jpg",
+      "url_origen": "https://jkanime.net/kotonoha-no-niwa/1/",
+      "publicado_en_origen": "2013-06-01 20:43:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "853",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:35:39+00:00"
+}

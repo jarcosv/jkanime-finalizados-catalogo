@@ -1,0 +1,29 @@
+{
+  "id_origen": 4733,
+  "slug": "digimon-adventure-bokura-no-war-game",
+  "titulo": "Digimon Adventure: Bokura no War Game!",
+  "titulo_corto": "Digimon Adventure: Bokura no W...",
+  "sinopsis": "Esta película tiene lugar después de que termine la serie Adventure. Comienza cuando se encuentra un nuevo huevo de Digimon en Internet, y consigue penetrar en casi todos los sistemas informáticos de Japón. Cuando el huevo sale del cascarón, se identifica como un nuevo tipo de Digimon, de tipo Virus. Se mantiene comiendo datos de varios sistemas, y empieza a causar estragos en Japón. A medida que consume más y más datos, sigue evolucionando. Y Taichi y Koushiro deciden que es hora de detenerlo.\r\nSe ponen en marcha, enviando a Agumon y Tentomon a través de Internet para luchar contra este nuevo enemigo. Pero, con el Virus controlando sistemas como el ejército americano, muy pronto, esta amenaza digital puede convertirse en algo demasiado real. Con la ayuda de Yamato y Takeru, esperan poder detener lo que ya ha comenzado, y tal vez salvar este mundo por segunda vez.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-adventure-bokura-no-war-game.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/digimon-adventure-bokura-no-war-game/",
+  "episodios": [
+    {
+      "id_origen": 73263,
+      "numero": 1,
+      "titulo": "Digimon Adventure: Bokura no War Game!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6f319d3d750edd47ea554bd0c6c11a1.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-bokura-no-war-game/1/",
+      "publicado_en_origen": "2026-05-16 17:55:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4733",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:05+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 1379,
+  "slug": "yama-no-susume-2nd-season-special",
+  "titulo": "Yama no Susume 2nd Season Special",
+  "titulo_corto": "Yama no Susume 2nd Season Spec...",
+  "sinopsis": "Episodios incluidos con los volúmenes 2 y 7 de BD/DVD.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yama-no-susume-2nd-season-special.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yama-no-susume-2nd-season-special/",
+  "episodios": [
+    {
+      "id_origen": 25952,
+      "numero": 1,
+      "titulo": "Yama no Susume 2nd Season Special - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_faf8f2d772af73f6c37e91b0f0430cf5.jpg",
+      "url_origen": "https://jkanime.net/yama-no-susume-2nd-season-special/1/",
+      "publicado_en_origen": "2014-12-25 03:52:24"
+    },
+    {
+      "id_origen": 27369,
+      "numero": 2,
+      "titulo": "Yama no Susume 2nd Season Special - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07c0dec6e97ec77c01aa90902a3fc6b5.jpg",
+      "url_origen": "https://jkanime.net/yama-no-susume-2nd-season-special/2/",
+      "publicado_en_origen": "2015-04-03 18:16:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1379",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:52:31+00:00"
+}

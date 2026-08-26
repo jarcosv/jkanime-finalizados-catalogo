@@ -1,0 +1,117 @@
+{
+  "id_origen": 1853,
+  "slug": "new-game",
+  "titulo": "New Game!",
+  "titulo_corto": "New Game!",
+  "sinopsis": "Después de graduarse de la secundaria, Aoba Suzukaze comienza su carrera profesional en la compañía Eagle Jump, una compañía de videojuegos. Rodeada de sus superiores en el departamento de gráficos, incluyendo a su jefe; el diseñador de su juego favorito de la infancia, Aoba comienza a formar su vida como un adulto funcional en la sociedad.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/new-game.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/new-game/",
+  "episodios": [
+    {
+      "id_origen": 32060,
+      "numero": 1,
+      "titulo": "New Game! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abeef011001618f43ad5a5274e7d437c.jpg",
+      "url_origen": "https://jkanime.net/new-game/1/",
+      "publicado_en_origen": "2016-07-05 15:47:35"
+    },
+    {
+      "id_origen": 32284,
+      "numero": 2,
+      "titulo": "New Game! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_285c44427d4b422ed19d9ea061943a12.jpg",
+      "url_origen": "https://jkanime.net/new-game/2/",
+      "publicado_en_origen": "2016-07-12 15:46:28"
+    },
+    {
+      "id_origen": 32339,
+      "numero": 3,
+      "titulo": "New Game! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63b86b88a630f503d6508ebea2945200.jpg",
+      "url_origen": "https://jkanime.net/new-game/3/",
+      "publicado_en_origen": "2016-07-19 15:42:53"
+    },
+    {
+      "id_origen": 32392,
+      "numero": 4,
+      "titulo": "New Game! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15b33319db65d343906d085ba0500783.jpg",
+      "url_origen": "https://jkanime.net/new-game/4/",
+      "publicado_en_origen": "2016-07-25 18:23:49"
+    },
+    {
+      "id_origen": 32445,
+      "numero": 5,
+      "titulo": "New Game! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39aca26227b4762cf59f50e09159ca84.jpg",
+      "url_origen": "https://jkanime.net/new-game/5/",
+      "publicado_en_origen": "2016-08-01 14:11:19"
+    },
+    {
+      "id_origen": 32502,
+      "numero": 6,
+      "titulo": "New Game! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa827be8f6b291a77a8bf45f2bdbac78.jpg",
+      "url_origen": "https://jkanime.net/new-game/6/",
+      "publicado_en_origen": "2016-08-08 14:09:52"
+    },
+    {
+      "id_origen": 32553,
+      "numero": 7,
+      "titulo": "New Game! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e3a7911950eab6a8924acece3960e02.jpg",
+      "url_origen": "https://jkanime.net/new-game/7/",
+      "publicado_en_origen": "2016-08-15 14:25:24"
+    },
+    {
+      "id_origen": 32608,
+      "numero": 8,
+      "titulo": "New Game! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_555ed9de909ff98b3a9de74ed0be9ecf.jpg",
+      "url_origen": "https://jkanime.net/new-game/8/",
+      "publicado_en_origen": "2016-08-22 14:12:16"
+    },
+    {
+      "id_origen": 32662,
+      "numero": 9,
+      "titulo": "New Game! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a451ee22deede109dbb5b96fd7aae4e8.jpg",
+      "url_origen": "https://jkanime.net/new-game/9/",
+      "publicado_en_origen": "2016-08-29 14:17:20"
+    },
+    {
+      "id_origen": 32717,
+      "numero": 10,
+      "titulo": "New Game! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b5ad0c52e58076e34f393efe9019ed2.jpg",
+      "url_origen": "https://jkanime.net/new-game/10/",
+      "publicado_en_origen": "2016-09-05 14:21:18"
+    },
+    {
+      "id_origen": 32771,
+      "numero": 11,
+      "titulo": "New Game! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2d2db7da651df36ea69da7bee48304b.jpg",
+      "url_origen": "https://jkanime.net/new-game/11/",
+      "publicado_en_origen": "2016-09-12 14:16:02"
+    },
+    {
+      "id_origen": 32822,
+      "numero": 12,
+      "titulo": "New Game! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb5099b705cbdf454ab869c32d22f029.jpg",
+      "url_origen": "https://jkanime.net/new-game/12/",
+      "publicado_en_origen": "2016-09-19 14:29:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1853",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:40:17+00:00"
+}

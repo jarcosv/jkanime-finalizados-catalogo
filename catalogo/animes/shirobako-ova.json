@@ -1,0 +1,37 @@
+{
+  "id_origen": 1450,
+  "slug": "shirobako-ova",
+  "titulo": "Shirobako OVA",
+  "titulo_corto": "Shirobako OVA",
+  "sinopsis": "Episodios especiales incluidos en el tercer y septimo volumen de BD/Dvd de Shirobako",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shirobako-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shirobako-ova/",
+  "episodios": [
+    {
+      "id_origen": 26905,
+      "numero": 1,
+      "titulo": "Shirobako OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shirobako-ova.jpg",
+      "url_origen": "https://jkanime.net/shirobako-ova/1/",
+      "publicado_en_origen": "2015-02-26 12:46:19"
+    },
+    {
+      "id_origen": 28866,
+      "numero": 2,
+      "titulo": "Shirobako OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shirobako-ova.jpg",
+      "url_origen": "https://jkanime.net/shirobako-ova/2/",
+      "publicado_en_origen": "2015-07-30 15:20:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1450",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:46:40+00:00"
+}

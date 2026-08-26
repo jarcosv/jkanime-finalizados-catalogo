@@ -1,0 +1,85 @@
+{
+  "id_origen": 3421,
+  "slug": "jian-gu",
+  "titulo": "Jian Gu",
+  "titulo_corto": "Jian Gu",
+  "sinopsis": "Pei Min, es un gran general del Territorio del Norte quien después de hacer grandes hazañas fue ejecutado por cargos falsos. Ning Yi, rescató por casualidad al único sobreviviente, la hija de Pei Min. Desde entonces, los dos luchado por sobrevivir, librando batallas junto a la chica a quien trata como hermana.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/jian-gu.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/jian-gu/",
+  "episodios": [
+    {
+      "id_origen": 53194,
+      "numero": 1,
+      "titulo": "Jian Gu - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da75fe3532dc9ee41aba136495c20262.jpg",
+      "url_origen": "https://jkanime.net/jian-gu/1/",
+      "publicado_en_origen": "2023-06-20 18:05:11"
+    },
+    {
+      "id_origen": 53247,
+      "numero": 2,
+      "titulo": "Jian Gu - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd30e0d824f67eedc8531626c3b41733.jpg",
+      "url_origen": "https://jkanime.net/jian-gu/2/",
+      "publicado_en_origen": "2023-06-27 13:38:01"
+    },
+    {
+      "id_origen": 53248,
+      "numero": 3,
+      "titulo": "Jian Gu - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80cdc611105af69eca69be44d596daa1.jpg",
+      "url_origen": "https://jkanime.net/jian-gu/3/",
+      "publicado_en_origen": "2023-06-27 13:38:05"
+    },
+    {
+      "id_origen": 53249,
+      "numero": 4,
+      "titulo": "Jian Gu - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7db57ef7f0638326a82cf261c347662.jpg",
+      "url_origen": "https://jkanime.net/jian-gu/4/",
+      "publicado_en_origen": "2023-06-27 13:38:08"
+    },
+    {
+      "id_origen": 53250,
+      "numero": 5,
+      "titulo": "Jian Gu - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_137158e1319c51b12eb98afade79901a.jpg",
+      "url_origen": "https://jkanime.net/jian-gu/5/",
+      "publicado_en_origen": "2023-06-27 13:38:10"
+    },
+    {
+      "id_origen": 53251,
+      "numero": 6,
+      "titulo": "Jian Gu - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80af4f4aac539362ef68e021420e9f6e.jpg",
+      "url_origen": "https://jkanime.net/jian-gu/6/",
+      "publicado_en_origen": "2023-06-27 13:38:13"
+    },
+    {
+      "id_origen": 53306,
+      "numero": 7,
+      "titulo": "Jian Gu - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f9a56e988530e278bb9eba66b8d0991.jpg",
+      "url_origen": "https://jkanime.net/jian-gu/7/",
+      "publicado_en_origen": "2023-07-04 12:55:24"
+    },
+    {
+      "id_origen": 53307,
+      "numero": 8,
+      "titulo": "Jian Gu - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f1dfc574da99461069f5f577108571b.jpg",
+      "url_origen": "https://jkanime.net/jian-gu/8/",
+      "publicado_en_origen": "2023-07-04 12:55:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3421",
+  "cantidad_episodios_declarada": 60,
+  "detalle_extraido_en": "2026-08-26T18:32:34+00:00"
+}

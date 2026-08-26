@@ -1,0 +1,117 @@
+{
+  "id_origen": 432,
+  "slug": "c3",
+  "titulo": "C³",
+  "titulo_corto": "C³",
+  "sinopsis": "Un estudiante promedio del instituto, llamado Haruaki Yachi recibe un paquete misterioso y pesado de su padre en el extranjero. Esa noche a Haruaki lo despierta un sonido proveniente de la cocina donde encuentra a una chica desnuda robandole comida. El susto que se lleva Haruaki por esta chica es el primero de muchos que están por venir.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/c3.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/c3/",
+  "episodios": [
+    {
+      "id_origen": 12651,
+      "numero": 1,
+      "titulo": "C³ - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fbb698655e6b0fdd299a543951c27ec.jpg",
+      "url_origen": "https://jkanime.net/c3/1/",
+      "publicado_en_origen": "2011-10-04 02:22:53"
+    },
+    {
+      "id_origen": 12662,
+      "numero": 2,
+      "titulo": "C³ - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e6dfb0bdbd1a0d2591c32e5959e0578.jpg",
+      "url_origen": "https://jkanime.net/c3/2/",
+      "publicado_en_origen": "2011-10-09 17:43:58"
+    },
+    {
+      "id_origen": 12740,
+      "numero": 3,
+      "titulo": "C³ - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6b73239f1c528d79233c34ffe4ccf8b.jpg",
+      "url_origen": "https://jkanime.net/c3/3/",
+      "publicado_en_origen": "2011-10-16 18:43:02"
+    },
+    {
+      "id_origen": 13014,
+      "numero": 4,
+      "titulo": "C³ - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bafd4215ef527cf0e0b2f843ce2ee763.jpg",
+      "url_origen": "https://jkanime.net/c3/4/",
+      "publicado_en_origen": "2011-10-23 23:40:52"
+    },
+    {
+      "id_origen": 13033,
+      "numero": 5,
+      "titulo": "C³ - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_527490f08486bf8af2b8d0bf6e73911b.jpg",
+      "url_origen": "https://jkanime.net/c3/5/",
+      "publicado_en_origen": "2011-10-31 00:04:11"
+    },
+    {
+      "id_origen": 13063,
+      "numero": 6,
+      "titulo": "C³ - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f48ba716a4af57ae9b2e0308c871c00.jpg",
+      "url_origen": "https://jkanime.net/c3/6/",
+      "publicado_en_origen": "2011-11-07 02:10:35"
+    },
+    {
+      "id_origen": 13104,
+      "numero": 7,
+      "titulo": "C³ - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_037c4b89b115a70b50f13db0d6b4da9d.jpg",
+      "url_origen": "https://jkanime.net/c3/7/",
+      "publicado_en_origen": "2011-11-14 13:59:03"
+    },
+    {
+      "id_origen": 13311,
+      "numero": 8,
+      "titulo": "C³ - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a0f86604fa1dc1686a0cad86a808a5c.jpg",
+      "url_origen": "https://jkanime.net/c3/8/",
+      "publicado_en_origen": "2011-11-26 12:15:57"
+    },
+    {
+      "id_origen": 13319,
+      "numero": 9,
+      "titulo": "C³ - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27e5b67fd10a082a605ee7d995f69eca.jpg",
+      "url_origen": "https://jkanime.net/c3/9/",
+      "publicado_en_origen": "2011-11-28 20:13:38"
+    },
+    {
+      "id_origen": 13408,
+      "numero": 10,
+      "titulo": "C³ - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c109426911ae8639359ef7f75eb7c89.jpg",
+      "url_origen": "https://jkanime.net/c3/10/",
+      "publicado_en_origen": "2011-12-06 02:02:15"
+    },
+    {
+      "id_origen": 13693,
+      "numero": 11,
+      "titulo": "C³ - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_455a9ce9e0c8e8a0c7745eecd6a64be4.jpg",
+      "url_origen": "https://jkanime.net/c3/11/",
+      "publicado_en_origen": "2011-12-12 12:13:55"
+    },
+    {
+      "id_origen": 14094,
+      "numero": 12,
+      "titulo": "C³ - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39abd1c6e1d6aa57455adf5eda4325a8.jpg",
+      "url_origen": "https://jkanime.net/c3/12/",
+      "publicado_en_origen": "2011-12-26 21:16:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:11+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "432",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:24:07+00:00"
+}

@@ -1,0 +1,429 @@
+{
+  "id_origen": 203,
+  "slug": "zenki",
+  "titulo": "Kishin Douji Zenki",
+  "titulo_corto": "Kishin Douji Zenki",
+  "sinopsis": "Hace tiempos ancestrales, un demonio llamado Karma intentó destruir el mundo junto a sus semillas del mal, pero gracias a la fuerza de un guerrero guardián llamado Zenki, el mundo volvió a la normalidad tras numerosas batallas. Ozune Enno, maestro del templo Enno en esos años, sello a la bestia guardiana dentro de un pilar debido a su salvajismo, y cuando fuera necesario uno de sus descendientes volvería a convocarlo para que los ayudase.\nPero tras 1.200 años de paz en el mundo, extrañamente las semillas del mal vuelven a aparecer y atacar a las personas de la ciudad de Shikigami-Cho, donde habita Chiaki Enno (conocida en inglés como Cherry), y ella es la única que puede convocar nuevamente al guerrero Zenki para volver a poner las cosas en orden, ya que es uno de los únicos descendientes directos que quedan vivos dentro de la dinastía Enno, y es ayudada por su abuela y su tío abuelo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/zenki.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/zenki/",
+  "episodios": [
+    {
+      "id_origen": 5478,
+      "numero": 1,
+      "titulo": "Zenki 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23712318a400454a2c049f165106d985.jpg",
+      "url_origen": "https://jkanime.net/zenki/1/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5479,
+      "numero": 2,
+      "titulo": "Zenki 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac2460b56866901d732f996b82b69d31.jpg",
+      "url_origen": "https://jkanime.net/zenki/2/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5480,
+      "numero": 3,
+      "titulo": "Zenki 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6e81542b125c36346d9167691b8bd09.jpg",
+      "url_origen": "https://jkanime.net/zenki/3/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5481,
+      "numero": 4,
+      "titulo": "Zenki 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24f2f931f12a4d9149876a5bef93e96a.jpg",
+      "url_origen": "https://jkanime.net/zenki/4/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5482,
+      "numero": 5,
+      "titulo": "Zenki 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4f691ac947fd92b7ab3c33d3f90bfed.jpg",
+      "url_origen": "https://jkanime.net/zenki/5/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5483,
+      "numero": 6,
+      "titulo": "Zenki 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d72a7ed33514158ae5e68ed6d80177b9.jpg",
+      "url_origen": "https://jkanime.net/zenki/6/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 13696,
+      "numero": 7,
+      "titulo": "Zenki 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc264522d8cc7a47fb5e8f606a6013a9.jpg",
+      "url_origen": "https://jkanime.net/zenki/7/",
+      "publicado_en_origen": "2011-12-13 12:51:38"
+    },
+    {
+      "id_origen": 5484,
+      "numero": 8,
+      "titulo": "Zenki 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03b2ceb73723f8b53cd533e4fba898ee.jpg",
+      "url_origen": "https://jkanime.net/zenki/8/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5485,
+      "numero": 9,
+      "titulo": "Zenki 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7b431b1a0cc5f032399870ff4710743.jpg",
+      "url_origen": "https://jkanime.net/zenki/9/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5486,
+      "numero": 10,
+      "titulo": "Zenki 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f5f5b265100daad35b3a491e1c55351.jpg",
+      "url_origen": "https://jkanime.net/zenki/10/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5487,
+      "numero": 11,
+      "titulo": "Zenki 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_139042a4157a773f209847829d80894d.jpg",
+      "url_origen": "https://jkanime.net/zenki/11/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5488,
+      "numero": 12,
+      "titulo": "Zenki 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56c3b2c6ea3a83aaeeff35eeb45d700d.jpg",
+      "url_origen": "https://jkanime.net/zenki/12/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5489,
+      "numero": 13,
+      "titulo": "Zenki 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d902c3ce47124c66ce615d5ad9ba304f.jpg",
+      "url_origen": "https://jkanime.net/zenki/13/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5490,
+      "numero": 14,
+      "titulo": "Zenki 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c900ced7451da79502d29aa37ebb7b60.jpg",
+      "url_origen": "https://jkanime.net/zenki/14/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5491,
+      "numero": 15,
+      "titulo": "Zenki 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bc2029a8851ad344a8d503930dfd7f7.jpg",
+      "url_origen": "https://jkanime.net/zenki/15/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5492,
+      "numero": 16,
+      "titulo": "Zenki 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f01acd85b5e40e93f565627a8bb8bd98.jpg",
+      "url_origen": "https://jkanime.net/zenki/16/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5493,
+      "numero": 17,
+      "titulo": "Zenki 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdbe012e2e11314b96402b32c0df26b7.jpg",
+      "url_origen": "https://jkanime.net/zenki/17/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5494,
+      "numero": 18,
+      "titulo": "Zenki 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85f3375756047fba207ce9b85780313b.jpg",
+      "url_origen": "https://jkanime.net/zenki/18/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 13697,
+      "numero": 19,
+      "titulo": "Zenki 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5a5d1fa6871e3e01b1cb0d41dc5ffce.jpg",
+      "url_origen": "https://jkanime.net/zenki/19/",
+      "publicado_en_origen": "2011-12-13 12:51:38"
+    },
+    {
+      "id_origen": 5495,
+      "numero": 20,
+      "titulo": "Zenki 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b05bf587ec7ce83518b72eb0d011a353.jpg",
+      "url_origen": "https://jkanime.net/zenki/20/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5496,
+      "numero": 21,
+      "titulo": "Zenki 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d47619b92cebc6ebfa07969ab5370ae6.jpg",
+      "url_origen": "https://jkanime.net/zenki/21/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5497,
+      "numero": 22,
+      "titulo": "Zenki 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bdcc41211aa62a8f10f26d1a2d1727bf.jpg",
+      "url_origen": "https://jkanime.net/zenki/22/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5498,
+      "numero": 23,
+      "titulo": "Zenki 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a081c174f5913958ba8c6443bacffcb9.jpg",
+      "url_origen": "https://jkanime.net/zenki/23/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5499,
+      "numero": 24,
+      "titulo": "Zenki 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d149231f39b05ae135fa763edb358064.jpg",
+      "url_origen": "https://jkanime.net/zenki/24/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 13698,
+      "numero": 25,
+      "titulo": "Zenki 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac4ff5e8dcf9daa23c293b96d8ea9ef5.jpg",
+      "url_origen": "https://jkanime.net/zenki/25/",
+      "publicado_en_origen": "2011-12-13 12:51:38"
+    },
+    {
+      "id_origen": 5500,
+      "numero": 26,
+      "titulo": "Zenki 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e923226e43cd6fac7cfe1e13ad000ac.jpg",
+      "url_origen": "https://jkanime.net/zenki/26/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5501,
+      "numero": 27,
+      "titulo": "Zenki 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48db71587df6c7c442e5b76cc723169a.jpg",
+      "url_origen": "https://jkanime.net/zenki/27/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 13699,
+      "numero": 28,
+      "titulo": "Zenki 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30270b7a8f7d456b15e65e299b5bf199.jpg",
+      "url_origen": "https://jkanime.net/zenki/28/",
+      "publicado_en_origen": "2011-12-13 12:51:38"
+    },
+    {
+      "id_origen": 5502,
+      "numero": 29,
+      "titulo": "Zenki 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13d4635deccc230c944e4ff6e03404b5.jpg",
+      "url_origen": "https://jkanime.net/zenki/29/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5503,
+      "numero": 30,
+      "titulo": "Zenki 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b85256c4881edb6c0776df5d81f6236.jpg",
+      "url_origen": "https://jkanime.net/zenki/30/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5504,
+      "numero": 31,
+      "titulo": "Zenki 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdaa09fc5ed18d3226b3a1a00f1bc48c.jpg",
+      "url_origen": "https://jkanime.net/zenki/31/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5505,
+      "numero": 32,
+      "titulo": "Zenki 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07ff46bb6597a4f81eed4f59360ff835.jpg",
+      "url_origen": "https://jkanime.net/zenki/32/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5506,
+      "numero": 33,
+      "titulo": "Zenki 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99b410aa504a6f67da128d333896ecd4.jpg",
+      "url_origen": "https://jkanime.net/zenki/33/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5507,
+      "numero": 34,
+      "titulo": "Zenki 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23e582ad8087f2c03a5a31c125123f9a.jpg",
+      "url_origen": "https://jkanime.net/zenki/34/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5508,
+      "numero": 35,
+      "titulo": "Zenki 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cffb6e2288a630c2a787a64ccc67097c.jpg",
+      "url_origen": "https://jkanime.net/zenki/35/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5509,
+      "numero": 36,
+      "titulo": "Zenki 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eded0708dfe855304a50029fccf1a677.jpg",
+      "url_origen": "https://jkanime.net/zenki/36/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 13700,
+      "numero": 37,
+      "titulo": "Zenki 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccbaefcc48cd5f8ec9309165ea694eb2.jpg",
+      "url_origen": "https://jkanime.net/zenki/37/",
+      "publicado_en_origen": "2011-12-13 13:18:26"
+    },
+    {
+      "id_origen": 5510,
+      "numero": 38,
+      "titulo": "Zenki 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_170f6aa36530c364b77ddf83a84e7351.jpg",
+      "url_origen": "https://jkanime.net/zenki/38/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 13701,
+      "numero": 39,
+      "titulo": "Zenki 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb9caf96076d335da9c6d368c385dcd3.jpg",
+      "url_origen": "https://jkanime.net/zenki/39/",
+      "publicado_en_origen": "2011-12-13 13:18:26"
+    },
+    {
+      "id_origen": 5511,
+      "numero": 40,
+      "titulo": "Zenki 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cc697419ea18cc98d525999665cb94a.jpg",
+      "url_origen": "https://jkanime.net/zenki/40/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5512,
+      "numero": 41,
+      "titulo": "Zenki 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_517f24c02e620d5a4dac1db388664a63.jpg",
+      "url_origen": "https://jkanime.net/zenki/41/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5513,
+      "numero": 42,
+      "titulo": "Zenki 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44e6b86aeefa3eca5832a98043a7b6fa.jpg",
+      "url_origen": "https://jkanime.net/zenki/42/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5514,
+      "numero": 43,
+      "titulo": "Zenki 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b4e9aa703d0bfa11041debaa2d1b633.jpg",
+      "url_origen": "https://jkanime.net/zenki/43/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5515,
+      "numero": 44,
+      "titulo": "Zenki 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00c17237d011cca999f55a43db2ce040.jpg",
+      "url_origen": "https://jkanime.net/zenki/44/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5516,
+      "numero": 45,
+      "titulo": "Zenki 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16de63b2df373d5a9da881c8a1c58794.jpg",
+      "url_origen": "https://jkanime.net/zenki/45/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 13702,
+      "numero": 46,
+      "titulo": "Zenki 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5113fbbf6c62901a412b2d5d24daff63.jpg",
+      "url_origen": "https://jkanime.net/zenki/46/",
+      "publicado_en_origen": "2011-12-13 13:18:26"
+    },
+    {
+      "id_origen": 5517,
+      "numero": 47,
+      "titulo": "Zenki 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c7cd904122e623ce625613d6af337c4.jpg",
+      "url_origen": "https://jkanime.net/zenki/47/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 13703,
+      "numero": 48,
+      "titulo": "Zenki 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_967162a0b2dc0483ad3d0f47dfb1e9ac.jpg",
+      "url_origen": "https://jkanime.net/zenki/48/",
+      "publicado_en_origen": "2011-12-13 13:18:26"
+    },
+    {
+      "id_origen": 5518,
+      "numero": 49,
+      "titulo": "Zenki 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_add5aebfcb33a2206b6497d53bc4f309.jpg",
+      "url_origen": "https://jkanime.net/zenki/49/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5519,
+      "numero": 50,
+      "titulo": "Zenki 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b6982e584636e6a1cda934f1410299c.jpg",
+      "url_origen": "https://jkanime.net/zenki/50/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5520,
+      "numero": 51,
+      "titulo": "Zenki 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3557a86db669836730d946052d988e46.jpg",
+      "url_origen": "https://jkanime.net/zenki/51/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "203",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:35:07+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 4627,
+  "slug": "boku-to-roboko-movie",
+  "titulo": "Boku to Roboko Movie",
+  "titulo_corto": "Boku to Roboko Movie",
+  "sinopsis": "La película de Boku to Roboko.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/boku-to-roboko-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/boku-to-roboko-movie/",
+  "episodios": [
+    {
+      "id_origen": 71833,
+      "numero": 1,
+      "titulo": "Boku to Roboko Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5598cc846e6b515b1f5cc920eae05523.jpg",
+      "url_origen": "https://jkanime.net/boku-to-roboko-movie/1/",
+      "publicado_en_origen": "2026-02-27 01:46:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:26+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4627",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:21:10+00:00"
+}

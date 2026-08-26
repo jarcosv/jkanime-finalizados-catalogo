@@ -1,0 +1,301 @@
+{
+  "id_origen": 1367,
+  "slug": "nihon-animator-mihonichi",
+  "titulo": "Expo de Animadores de Japón",
+  "titulo_corto": "Expo de Animadores de Japón",
+  "sinopsis": "Nihon Animator Mihonichi (Exposición Animadores de Japón) es la vitrina de animaciones producidas por varios directores con dedicación y energía, en el cual muestran sus proyectos originales, proyectos de spin-off, películas promocionales, Música PV, Films VJ, etc...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nihon-animator-mihonichi.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nihon-animator-mihonichi/",
+  "episodios": [
+    {
+      "id_origen": 25825,
+      "numero": 1,
+      "titulo": "The Dragon Dentist",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de447028949b3471aa2617ad9db5a97f.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/1/",
+      "publicado_en_origen": "2014-12-15 19:39:09"
+    },
+    {
+      "id_origen": 25826,
+      "numero": 2,
+      "titulo": "Hill Climb Girl",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_651afc1535248905c191b531d97bd818.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/2/",
+      "publicado_en_origen": "2014-12-15 19:39:12"
+    },
+    {
+      "id_origen": 25827,
+      "numero": 3,
+      "titulo": "Me!Me!Me!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3aba71d83a384212ca58138b5443677.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/3/",
+      "publicado_en_origen": "2014-12-15 19:39:12"
+    },
+    {
+      "id_origen": 25828,
+      "numero": 4,
+      "titulo": "Carnage",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9682cf5a38aabadaefb7c52a5ffaee08.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/4/",
+      "publicado_en_origen": "2014-12-15 19:39:12"
+    },
+    {
+      "id_origen": 25829,
+      "numero": 5,
+      "titulo": "Yoshikazu Yasuhiko & Ichiro Itano",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fdcabbd898d3abe2690b023345adc9a.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/5/",
+      "publicado_en_origen": "2014-12-15 19:39:12"
+    },
+    {
+      "id_origen": 25830,
+      "numero": 6,
+      "titulo": "Nishi-Ogikubo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5edf63bec7d01e1bec2b6f6ec2a47b3a.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/6/",
+      "publicado_en_origen": "2014-12-15 19:39:12"
+    },
+    {
+      "id_origen": 25881,
+      "numero": 7,
+      "titulo": "until You come to me.",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bddad3b16ee4fcc5f24b228a8f78a111.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/7/",
+      "publicado_en_origen": "2014-12-19 03:51:16"
+    },
+    {
+      "id_origen": 26338,
+      "numero": 8,
+      "titulo": "Tomorrow from there",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f7884a41d8cd08c91314fce7f13dd1c.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/8/",
+      "publicado_en_origen": "2015-01-09 01:48:40"
+    },
+    {
+      "id_origen": 26397,
+      "numero": 9,
+      "titulo": "Denkou Choujin Gridman: boys invent great hero",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_125afb06ef365c0991aa632cd76104e1.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/9/",
+      "publicado_en_origen": "2015-01-15 22:48:02"
+    },
+    {
+      "id_origen": 26465,
+      "numero": 10,
+      "titulo": "Yamadeloid",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f5dd3a39f66fa2e54bb98577ffb4ff0.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/10/",
+      "publicado_en_origen": "2015-01-24 03:54:01"
+    },
+    {
+      "id_origen": 26543,
+      "numero": 11,
+      "titulo": "POWER PLANT No. 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae5b201527b188809873d2f108db3a79.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/11/",
+      "publicado_en_origen": "2015-01-30 02:15:50"
+    },
+    {
+      "id_origen": 26601,
+      "numero": 12,
+      "titulo": "evangelion: Another Impact (Confidential)",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8a20bf368f5c21fcc1180f653c8293e.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/12/",
+      "publicado_en_origen": "2015-02-06 03:52:54"
+    },
+    {
+      "id_origen": 27068,
+      "numero": 13,
+      "titulo": "Kanón",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_676fc5678f063b7ba42b7fc9da85989c.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/13/",
+      "publicado_en_origen": "2015-03-16 20:08:04"
+    },
+    {
+      "id_origen": 27161,
+      "numero": 14,
+      "titulo": "Sex and Violence with Mach Speed",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0524bbc7d57d3edbd146cb19bbd4d1f2.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/14/",
+      "publicado_en_origen": "2015-03-20 20:44:26"
+    },
+    {
+      "id_origen": 27249,
+      "numero": 15,
+      "titulo": "Obake-chan",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff99dc2d99ab4c337ff158793b47bee6.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/15/",
+      "publicado_en_origen": "2015-03-27 20:49:20"
+    },
+    {
+      "id_origen": 27370,
+      "numero": 16,
+      "titulo": "Tsukikage no Tokio ~Tokio of the Moon’s Shadow~",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d55a62e8f25f61dee04192481e8fab6.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/16/",
+      "publicado_en_origen": "2015-04-03 18:31:31"
+    },
+    {
+      "id_origen": 27447,
+      "numero": 17,
+      "titulo": "Tres testigos caídos",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19813ce72de2e59f836d858196dabe6f.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/17/",
+      "publicado_en_origen": "2015-04-10 19:17:12"
+    },
+    {
+      "id_origen": 27514,
+      "numero": 18,
+      "titulo": "Ochibi-san no Nikki",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_512dea4132628ddddccdd5b133c3c502.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/18/",
+      "publicado_en_origen": "2015-04-17 19:47:05"
+    },
+    {
+      "id_origen": 27582,
+      "numero": 19,
+      "titulo": "I Can Friday by Day!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a0cc05957ec30e262540e57b8a413ae.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/19/",
+      "publicado_en_origen": "2015-04-24 18:41:55"
+    },
+    {
+      "id_origen": 27636,
+      "numero": 20,
+      "titulo": "ME!ME!ME! CHRONIC",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2692f5522a9bf6fe212e70758d0701b.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/20/",
+      "publicado_en_origen": "2015-05-01 11:12:48"
+    },
+    {
+      "id_origen": 27706,
+      "numero": 21,
+      "titulo": "Iconic Field",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08b4e77837f61d38eaba93efda9397c0.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/21/",
+      "publicado_en_origen": "2015-05-08 18:46:42"
+    },
+    {
+      "id_origen": 27768,
+      "numero": 22,
+      "titulo": "IBUSEKI YORUNI",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b2ae1abc7405fb92168d400454c936c.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/22/",
+      "publicado_en_origen": "2015-05-15 20:50:24"
+    },
+    {
+      "id_origen": 27833,
+      "numero": 23,
+      "titulo": "Recuerdos de caballeros apasionados",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c50eba02bbfa2d21fb54ec0977e952d5.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/23/",
+      "publicado_en_origen": "2015-05-22 20:06:44"
+    },
+    {
+      "id_origen": 27898,
+      "numero": 24,
+      "titulo": "Shinsoku no Rouge",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7577c54ea4b4258f50a4477dbd1bca3a.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/24/",
+      "publicado_en_origen": "2015-05-29 21:02:05"
+    },
+    {
+      "id_origen": 28895,
+      "numero": 25,
+      "titulo": "HAMMERHEAD",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de7e76952411d036ca4b58ffcf37bfe7.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/25/",
+      "publicado_en_origen": "2015-08-01 21:03:53"
+    },
+    {
+      "id_origen": 29071,
+      "numero": 26,
+      "titulo": "Comedy Skit Hitmen 1989",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba9353718aa3b1793b8a23d51e19ef15.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/26/",
+      "publicado_en_origen": "2015-08-21 20:33:51"
+    },
+    {
+      "id_origen": 29072,
+      "numero": 27,
+      "titulo": "BUBU & BUBULINA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed5b4ad21f1090dc8bde85374a049f63.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/27/",
+      "publicado_en_origen": "2015-08-21 20:37:23"
+    },
+    {
+      "id_origen": 29073,
+      "numero": 28,
+      "titulo": "Endless Night",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8443b6213aa517f2d701ebf845fdae4.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/28/",
+      "publicado_en_origen": "2015-08-21 20:42:13"
+    },
+    {
+      "id_origen": 29146,
+      "numero": 29,
+      "titulo": "Departamento de la Proto Sociedad",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_800ca5c1483432d248c8104d60a0db71.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/29/",
+      "publicado_en_origen": "2015-08-28 21:36:41"
+    },
+    {
+      "id_origen": 29208,
+      "numero": 30,
+      "titulo": "The Ultraman",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a01874b1881feb4f498d3f877bd41e62.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/30/",
+      "publicado_en_origen": "2015-09-04 19:43:19"
+    },
+    {
+      "id_origen": 29351,
+      "numero": 31,
+      "titulo": "GIRL",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_767f4c28a2895898b0edab21c1b18ebd.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/31/",
+      "publicado_en_origen": "2015-09-11 19:16:03"
+    },
+    {
+      "id_origen": 29597,
+      "numero": 32,
+      "titulo": "Neon Genesis IMPACTS",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_800f569916f0f5c1e487a9b5e976bdc4.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/32/",
+      "publicado_en_origen": "2015-09-18 16:23:57"
+    },
+    {
+      "id_origen": 29656,
+      "numero": 33,
+      "titulo": "Ragnarok",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89cb339a11bdbd43d54b1307129474f8.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/33/",
+      "publicado_en_origen": "2015-09-25 18:31:15"
+    },
+    {
+      "id_origen": 29701,
+      "numero": 34,
+      "titulo": "Robot en el Camino",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49de010bfd34f149fc319dd839707a36.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/34/",
+      "publicado_en_origen": "2015-10-02 21:47:25"
+    },
+    {
+      "id_origen": 29769,
+      "numero": 35,
+      "titulo": "Cassette Girl",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b31785397bc74c6ff59451d4f410b71.jpg",
+      "url_origen": "https://jkanime.net/nihon-animator-mihonichi/35/",
+      "publicado_en_origen": "2015-10-09 23:41:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1367",
+  "cantidad_episodios_declarada": 35,
+  "detalle_extraido_en": "2026-08-26T18:26:34+00:00"
+}

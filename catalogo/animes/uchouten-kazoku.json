@@ -1,0 +1,125 @@
+{
+  "id_origen": 919,
+  "slug": "uchouten-kazoku",
+  "titulo": "Uchouten Kazoku",
+  "titulo_corto": "Uchouten Kazoku",
+  "sinopsis": "Se sitúa en Kyoto, donde conviven los tanuki, los tengu y los humanos. La historia sigue a la familia Shimogano, una familia de tanukis que vive en el bosque Tadasu no Mori del Templo Shimogamo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/uchouten-kazoku.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/uchouten-kazoku/",
+  "episodios": [
+    {
+      "id_origen": 21027,
+      "numero": 1,
+      "titulo": "Uchouten Kazoku - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_636e4b73ee4f49965cd001bdb75fe1d1.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/1/",
+      "publicado_en_origen": "2013-07-07 11:12:23"
+    },
+    {
+      "id_origen": 21074,
+      "numero": 2,
+      "titulo": "Uchouten Kazoku - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3998932e2e851de8a24b733628c29de.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/2/",
+      "publicado_en_origen": "2013-07-14 11:10:43"
+    },
+    {
+      "id_origen": 21123,
+      "numero": 3,
+      "titulo": "Uchouten Kazoku - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72f9f967c43ce5c44ea12bf78ae63eaf.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/3/",
+      "publicado_en_origen": "2013-07-21 11:14:14"
+    },
+    {
+      "id_origen": 21170,
+      "numero": 4,
+      "titulo": "Uchouten Kazoku - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6d69c1c07b1d8d83b953b28563999ae.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/4/",
+      "publicado_en_origen": "2013-07-28 11:16:00"
+    },
+    {
+      "id_origen": 21214,
+      "numero": 5,
+      "titulo": "Uchouten Kazoku - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b296faad3a199ff1e2c55075e1f544d2.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/5/",
+      "publicado_en_origen": "2013-08-04 11:14:26"
+    },
+    {
+      "id_origen": 21264,
+      "numero": 6,
+      "titulo": "Uchouten Kazoku - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cfa3cd042a8f3e4fef1c323e4496c7d9.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/6/",
+      "publicado_en_origen": "2013-08-11 11:26:59"
+    },
+    {
+      "id_origen": 21311,
+      "numero": 7,
+      "titulo": "Uchouten Kazoku - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acec40d7cb2fc91f4fe388dd0fc29d03.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/7/",
+      "publicado_en_origen": "2013-08-18 11:19:43"
+    },
+    {
+      "id_origen": 21356,
+      "numero": 8,
+      "titulo": "Uchouten Kazoku - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b698ccb9137b9946f50b25962c7cd6a.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/8/",
+      "publicado_en_origen": "2013-08-25 11:16:54"
+    },
+    {
+      "id_origen": 21401,
+      "numero": 9,
+      "titulo": "Uchouten Kazoku - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9a78afdf5be220d8779569e5155eab1.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/9/",
+      "publicado_en_origen": "2013-09-01 11:12:52"
+    },
+    {
+      "id_origen": 21453,
+      "numero": 10,
+      "titulo": "Uchouten Kazoku - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85d6066ab1d290b884a7f171042dc1ca.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/10/",
+      "publicado_en_origen": "2013-09-08 11:12:09"
+    },
+    {
+      "id_origen": 21500,
+      "numero": 11,
+      "titulo": "Uchouten Kazoku - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1956a2516740b92a93bc87e3246de48f.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/11/",
+      "publicado_en_origen": "2013-09-15 11:44:38"
+    },
+    {
+      "id_origen": 21545,
+      "numero": 12,
+      "titulo": "Uchouten Kazoku - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a44a230105ccdbcc59c27720a7982da.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/12/",
+      "publicado_en_origen": "2013-09-22 11:26:32"
+    },
+    {
+      "id_origen": 21582,
+      "numero": 13,
+      "titulo": "Uchouten Kazoku - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_571dea3eb9d4d24c6194ef17c91cda79.jpg",
+      "url_origen": "https://jkanime.net/uchouten-kazoku/13/",
+      "publicado_en_origen": "2013-09-29 13:47:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:01+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "919",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:50:53+00:00"
+}

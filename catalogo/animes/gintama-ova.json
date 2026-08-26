@@ -1,0 +1,29 @@
+{
+  "id_origen": 1523,
+  "slug": "gintama-ova",
+  "titulo": "Gintama 2015",
+  "titulo_corto": "Gintama 2015",
+  "sinopsis": "Incluído en la edición limitada del volumen 58 del manga",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gintama-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gintama-ova/",
+  "episodios": [
+    {
+      "id_origen": 27388,
+      "numero": 1,
+      "titulo": "Gintama OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_294aaff60deaa8b454a370d5952ed8ef.jpg",
+      "url_origen": "https://jkanime.net/gintama-ova/1/",
+      "publicado_en_origen": "2015-04-04 22:34:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1523",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:28:30+00:00"
+}

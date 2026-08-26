@@ -1,0 +1,37 @@
+{
+  "id_origen": 3575,
+  "slug": "idolish7-movie-live-4bit-beyond-the-period",
+  "titulo": "IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD",
+  "titulo_corto": "IDOLiSH7 Movie: LIVE 4bit - BE...",
+  "sinopsis": "¡Una presentación en vivo de IDOLiSH7, TRIGGER, Re:vale y ŹOOĻ, 4 grupos con diferentes encantos, se reunirán en un solo lugar y comenzará el gran entretenimiento en vivo!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/idolish7-movie-live-4bit-beyond-the-period.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/idolish7-movie-live-4bit-beyond-the-period/",
+  "episodios": [
+    {
+      "id_origen": 54736,
+      "numero": 1,
+      "titulo": "IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07ced851cfc23d77a61910f699460260.jpg",
+      "url_origen": "https://jkanime.net/idolish7-movie-live-4bit-beyond-the-period/1/",
+      "publicado_en_origen": "2023-11-03 02:41:22"
+    },
+    {
+      "id_origen": 54737,
+      "numero": 2,
+      "titulo": "IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_659f59fc8f7920b88e3c150f7a52ca89.jpg",
+      "url_origen": "https://jkanime.net/idolish7-movie-live-4bit-beyond-the-period/2/",
+      "publicado_en_origen": "2023-11-03 02:41:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3575",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:31:37+00:00"
+}

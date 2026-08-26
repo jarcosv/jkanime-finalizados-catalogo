@@ -1,0 +1,1629 @@
+{
+  "id_origen": 662,
+  "slug": "gintama",
+  "titulo": "Gintama",
+  "titulo_corto": "Gintama",
+  "sinopsis": "La historia de Gintama nos sitúa en un Japón sometido por unas criaturas alienígenas conocidas como Amantos. Gracias a estos el país goza de avances tecnológicos desmedidos, pero a la vez la especie humana ha sido desprendida de la autoridad de velar sobre su propio planeta. Para evitar revuelas bélicas se ha prohibido por completo el uso y porte de espadas en cualquier circunstancia por parte de los terrícolas,pero aun así en esta nueva era hay personas que se mantienen fieles a sus creencias y convicciones antañas como es el caso del protagonista, Gintoki. Gin, junto con otros dos igualmente estrambóticos personajes crean una tienda conocida como la Yorozuya, en donde se dedican a realizar cualquier tipo de trabajo que se les presente, pero al final rara vez logran obtener algo de dinero decente y tienen problemas incluso para pagar el alquiler del piso.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gintama.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gintama/",
+  "episodios": [
+    {
+      "id_origen": 17301,
+      "numero": 1,
+      "titulo": "Gintama - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3f25f67fa7662dec75e006a97770e6c.jpg",
+      "url_origen": "https://jkanime.net/gintama/1/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17302,
+      "numero": 2,
+      "titulo": "Gintama - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a41c706749e45f3720d5943351717fa3.jpg",
+      "url_origen": "https://jkanime.net/gintama/2/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17303,
+      "numero": 3,
+      "titulo": "Gintama - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68ff0c6ee845a28a756d3f8cf4e2a537.jpg",
+      "url_origen": "https://jkanime.net/gintama/3/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17304,
+      "numero": 4,
+      "titulo": "Gintama - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bf3dbf0c2efd551ca832b9b6800749c.jpg",
+      "url_origen": "https://jkanime.net/gintama/4/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17305,
+      "numero": 5,
+      "titulo": "Gintama - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87dbbcde02455fc1add054b412a87714.jpg",
+      "url_origen": "https://jkanime.net/gintama/5/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17306,
+      "numero": 6,
+      "titulo": "Gintama - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e122d05faf63559ce66ff9d98cb413a4.jpg",
+      "url_origen": "https://jkanime.net/gintama/6/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17307,
+      "numero": 7,
+      "titulo": "Gintama - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f50f73e7e7cab902f8053efa57918bd3.jpg",
+      "url_origen": "https://jkanime.net/gintama/7/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17308,
+      "numero": 8,
+      "titulo": "Gintama - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_134dd796229f80f23b75af20495b8d50.jpg",
+      "url_origen": "https://jkanime.net/gintama/8/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17309,
+      "numero": 9,
+      "titulo": "Gintama - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d80b1c2a094e276f2b422475d8fa5be.jpg",
+      "url_origen": "https://jkanime.net/gintama/9/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17310,
+      "numero": 10,
+      "titulo": "Gintama - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9da6afb4840df51ceee399e5dea42598.jpg",
+      "url_origen": "https://jkanime.net/gintama/10/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17311,
+      "numero": 11,
+      "titulo": "Gintama - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61d8c968f0a66dcf2b05982bdccb484b.jpg",
+      "url_origen": "https://jkanime.net/gintama/11/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17312,
+      "numero": 12,
+      "titulo": "Gintama - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccb8dbcf2c004cbbae8858760e4a22fa.jpg",
+      "url_origen": "https://jkanime.net/gintama/12/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17313,
+      "numero": 13,
+      "titulo": "Gintama - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3057aa0acb6d937295819f3d94f015e9.jpg",
+      "url_origen": "https://jkanime.net/gintama/13/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17314,
+      "numero": 14,
+      "titulo": "Gintama - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_571e4d938fce895f659315a68998b3f9.jpg",
+      "url_origen": "https://jkanime.net/gintama/14/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17315,
+      "numero": 15,
+      "titulo": "Gintama - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5930695d180d30a1b0f358ab79cf115.jpg",
+      "url_origen": "https://jkanime.net/gintama/15/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17316,
+      "numero": 16,
+      "titulo": "Gintama - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b219d75118d8793048bde740a3c9e60.jpg",
+      "url_origen": "https://jkanime.net/gintama/16/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17317,
+      "numero": 17,
+      "titulo": "Gintama - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbf32ab25d093aacdd59dd74587bc0b2.jpg",
+      "url_origen": "https://jkanime.net/gintama/17/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17318,
+      "numero": 18,
+      "titulo": "Gintama - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e89c8c25e96065f551a8ceee258c8e5e.jpg",
+      "url_origen": "https://jkanime.net/gintama/18/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17319,
+      "numero": 19,
+      "titulo": "Gintama - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a5cdf95716ea8fdfcfafa0f545139e0.jpg",
+      "url_origen": "https://jkanime.net/gintama/19/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17320,
+      "numero": 20,
+      "titulo": "Gintama - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e98f2cd4e9f56a133abed423adb51d83.jpg",
+      "url_origen": "https://jkanime.net/gintama/20/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17321,
+      "numero": 21,
+      "titulo": "Gintama - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4ae72ec5374a998c56865d04fb32da5.jpg",
+      "url_origen": "https://jkanime.net/gintama/21/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17322,
+      "numero": 22,
+      "titulo": "Gintama - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82d7316e019b5fbd2889b907e203aa32.jpg",
+      "url_origen": "https://jkanime.net/gintama/22/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17323,
+      "numero": 23,
+      "titulo": "Gintama - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb0a313f554c3a2b6e9944368512bb9b.jpg",
+      "url_origen": "https://jkanime.net/gintama/23/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17324,
+      "numero": 24,
+      "titulo": "Gintama - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd0cf300399ab394be7892d2048f7898.jpg",
+      "url_origen": "https://jkanime.net/gintama/24/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17325,
+      "numero": 25,
+      "titulo": "Gintama - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9f1a83c68c36088e57821bdb90f77f2.jpg",
+      "url_origen": "https://jkanime.net/gintama/25/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17326,
+      "numero": 26,
+      "titulo": "Gintama - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35de7f00bad34f84410705a41b7d90ea.jpg",
+      "url_origen": "https://jkanime.net/gintama/26/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17327,
+      "numero": 27,
+      "titulo": "Gintama - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3de644286aafb7e5b26f58ec57d05d2d.jpg",
+      "url_origen": "https://jkanime.net/gintama/27/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17328,
+      "numero": 28,
+      "titulo": "Gintama - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_259f6be2870132cc7f00ee95bec44681.jpg",
+      "url_origen": "https://jkanime.net/gintama/28/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17329,
+      "numero": 29,
+      "titulo": "Gintama - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d225f07436e0075a13ffd66eae614707.jpg",
+      "url_origen": "https://jkanime.net/gintama/29/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17330,
+      "numero": 30,
+      "titulo": "Gintama - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36dac211003ecc5dd496ab254f06bba6.jpg",
+      "url_origen": "https://jkanime.net/gintama/30/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17331,
+      "numero": 31,
+      "titulo": "Gintama - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95cbccd215b174ddee376b6eb425975a.jpg",
+      "url_origen": "https://jkanime.net/gintama/31/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17332,
+      "numero": 32,
+      "titulo": "Gintama - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2fbe1c703f6893c2bc5066fcbcaa2048.jpg",
+      "url_origen": "https://jkanime.net/gintama/32/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17333,
+      "numero": 33,
+      "titulo": "Gintama - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8c3924a3385b6c14b4420f557b60608.jpg",
+      "url_origen": "https://jkanime.net/gintama/33/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17334,
+      "numero": 34,
+      "titulo": "Gintama - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_968f3d328fce0313aa636ba29c1b1fa9.jpg",
+      "url_origen": "https://jkanime.net/gintama/34/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17335,
+      "numero": 35,
+      "titulo": "Gintama - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6a506d4c5f267df973e248bb91942c0.jpg",
+      "url_origen": "https://jkanime.net/gintama/35/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17336,
+      "numero": 36,
+      "titulo": "Gintama - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e900ad3b2019268e3182123407fda545.jpg",
+      "url_origen": "https://jkanime.net/gintama/36/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17337,
+      "numero": 37,
+      "titulo": "Gintama - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6666c8880a656847a6b36e85cccfd71.jpg",
+      "url_origen": "https://jkanime.net/gintama/37/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17338,
+      "numero": 38,
+      "titulo": "Gintama - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed2c74e394df9bcf67db4c5172c27f96.jpg",
+      "url_origen": "https://jkanime.net/gintama/38/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17339,
+      "numero": 39,
+      "titulo": "Gintama - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_169ea72d893b7bfe6a36b531a78b48af.jpg",
+      "url_origen": "https://jkanime.net/gintama/39/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17340,
+      "numero": 40,
+      "titulo": "Gintama - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7295b8c846b35dfe7da45330e57d3f61.jpg",
+      "url_origen": "https://jkanime.net/gintama/40/",
+      "publicado_en_origen": "2012-09-25 12:59:24"
+    },
+    {
+      "id_origen": 17341,
+      "numero": 41,
+      "titulo": "Gintama - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9dcf2529a5f4bf66234540fbe60b74e.jpg",
+      "url_origen": "https://jkanime.net/gintama/41/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17342,
+      "numero": 42,
+      "titulo": "Gintama - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7df51ba7df696f03c9037d67fabd286.jpg",
+      "url_origen": "https://jkanime.net/gintama/42/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17343,
+      "numero": 43,
+      "titulo": "Gintama - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_474cb9e0d31ee15a396d30623feeea71.jpg",
+      "url_origen": "https://jkanime.net/gintama/43/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17344,
+      "numero": 44,
+      "titulo": "Gintama - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1aa227de516e4617cc72ab9cf456380.jpg",
+      "url_origen": "https://jkanime.net/gintama/44/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17345,
+      "numero": 45,
+      "titulo": "Gintama - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_307f9eb8397a08703db9f7f66fcaf8c3.jpg",
+      "url_origen": "https://jkanime.net/gintama/45/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17346,
+      "numero": 46,
+      "titulo": "Gintama - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92cf20fec778b6ae4fca0c05c154e3a7.jpg",
+      "url_origen": "https://jkanime.net/gintama/46/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17347,
+      "numero": 47,
+      "titulo": "Gintama - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45d77b8a40a2dcc87d0b55ea78dfa4f8.jpg",
+      "url_origen": "https://jkanime.net/gintama/47/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17348,
+      "numero": 48,
+      "titulo": "Gintama - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37953cab902d1f698bfb59b54d5e6369.jpg",
+      "url_origen": "https://jkanime.net/gintama/48/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17349,
+      "numero": 49,
+      "titulo": "Gintama - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a6b81775eca5ee27b72deef7972375a.jpg",
+      "url_origen": "https://jkanime.net/gintama/49/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17350,
+      "numero": 50,
+      "titulo": "Gintama - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f62fe2aabd402d562821460d7d4c72b.jpg",
+      "url_origen": "https://jkanime.net/gintama/50/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17351,
+      "numero": 51,
+      "titulo": "Gintama - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2927189f575caa14640d46a82f7c30d3.jpg",
+      "url_origen": "https://jkanime.net/gintama/51/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17352,
+      "numero": 52,
+      "titulo": "Gintama - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f08ae43ac80bb4d17a04dbd34b10751.jpg",
+      "url_origen": "https://jkanime.net/gintama/52/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17353,
+      "numero": 53,
+      "titulo": "Gintama - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b69ac29d2300c14063391edd38df9910.jpg",
+      "url_origen": "https://jkanime.net/gintama/53/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17354,
+      "numero": 54,
+      "titulo": "Gintama - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fa2bf754c748d931e34e03e032f4e72.jpg",
+      "url_origen": "https://jkanime.net/gintama/54/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17355,
+      "numero": 55,
+      "titulo": "Gintama - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9bcc60258dde4ef7c2b85914046f4c0.jpg",
+      "url_origen": "https://jkanime.net/gintama/55/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17356,
+      "numero": 56,
+      "titulo": "Gintama - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_747579165776fe1ba349237464ae0eed.jpg",
+      "url_origen": "https://jkanime.net/gintama/56/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17357,
+      "numero": 57,
+      "titulo": "Gintama - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6063df220a35953787e65276dfa65404.jpg",
+      "url_origen": "https://jkanime.net/gintama/57/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17358,
+      "numero": 58,
+      "titulo": "Gintama - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ffe81740cade70f9263a9975441c473.jpg",
+      "url_origen": "https://jkanime.net/gintama/58/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17359,
+      "numero": 59,
+      "titulo": "Gintama - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a69e2bdf33aa15664ad3c3cfb4d9453.jpg",
+      "url_origen": "https://jkanime.net/gintama/59/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17360,
+      "numero": 60,
+      "titulo": "Gintama - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98538f596b34bab69a908c8f376983a1.jpg",
+      "url_origen": "https://jkanime.net/gintama/60/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17361,
+      "numero": 61,
+      "titulo": "Gintama - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0ddc27e24c6e49ace5a5dcef6c784eb.jpg",
+      "url_origen": "https://jkanime.net/gintama/61/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17362,
+      "numero": 62,
+      "titulo": "Gintama - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78e47c847242a09b099c9100497a3cb4.jpg",
+      "url_origen": "https://jkanime.net/gintama/62/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17363,
+      "numero": 63,
+      "titulo": "Gintama - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27324bfa32fc43f34ea23a2b279c4992.jpg",
+      "url_origen": "https://jkanime.net/gintama/63/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17364,
+      "numero": 64,
+      "titulo": "Gintama - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2fdddc426480d46ce18affae5e455c82.jpg",
+      "url_origen": "https://jkanime.net/gintama/64/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17365,
+      "numero": 65,
+      "titulo": "Gintama - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5807f0ed140fffaa1f35f16baf72e31b.jpg",
+      "url_origen": "https://jkanime.net/gintama/65/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17366,
+      "numero": 66,
+      "titulo": "Gintama - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f1818a43b894e125d0f8efc144bc2c6.jpg",
+      "url_origen": "https://jkanime.net/gintama/66/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17367,
+      "numero": 67,
+      "titulo": "Gintama - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_099bd586b4f3288eef1b7eb8322f9c8e.jpg",
+      "url_origen": "https://jkanime.net/gintama/67/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17368,
+      "numero": 68,
+      "titulo": "Gintama - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_087f472a3834c0b03466667b67d58982.jpg",
+      "url_origen": "https://jkanime.net/gintama/68/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17369,
+      "numero": 69,
+      "titulo": "Gintama - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c5feb07041100d3cf5e2e86613f8d87.jpg",
+      "url_origen": "https://jkanime.net/gintama/69/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17370,
+      "numero": 70,
+      "titulo": "Gintama - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33db745ffcbd935024b94941e34a25a6.jpg",
+      "url_origen": "https://jkanime.net/gintama/70/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17371,
+      "numero": 71,
+      "titulo": "Gintama - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88208501a921a590548019fa0e64fc4a.jpg",
+      "url_origen": "https://jkanime.net/gintama/71/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17372,
+      "numero": 72,
+      "titulo": "Gintama - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_214f57783cac173e183096a607a408be.jpg",
+      "url_origen": "https://jkanime.net/gintama/72/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17373,
+      "numero": 73,
+      "titulo": "Gintama - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c64551a1336990e09f18dcad9a46fa52.jpg",
+      "url_origen": "https://jkanime.net/gintama/73/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17374,
+      "numero": 74,
+      "titulo": "Gintama - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba1d96789cd23612473b9ddfc6d5fd22.jpg",
+      "url_origen": "https://jkanime.net/gintama/74/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17375,
+      "numero": 75,
+      "titulo": "Gintama - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2a6a5c6ea38cac0864685dffaea8e92.jpg",
+      "url_origen": "https://jkanime.net/gintama/75/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17376,
+      "numero": 76,
+      "titulo": "Gintama - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60b8b65c7b7342a9caa07a07aea0ccac.jpg",
+      "url_origen": "https://jkanime.net/gintama/76/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17377,
+      "numero": 77,
+      "titulo": "Gintama - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gintama.jpg",
+      "url_origen": "https://jkanime.net/gintama/77/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17378,
+      "numero": 78,
+      "titulo": "Gintama - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77dbda525242a07339101a7c6ac73495.jpg",
+      "url_origen": "https://jkanime.net/gintama/78/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17379,
+      "numero": 79,
+      "titulo": "Gintama - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_940af5b63a832bd68ebbc70ee0fe22fe.jpg",
+      "url_origen": "https://jkanime.net/gintama/79/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17380,
+      "numero": 80,
+      "titulo": "Gintama - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9cb54cbc877fe2cf2bc1293d2ec1254.jpg",
+      "url_origen": "https://jkanime.net/gintama/80/",
+      "publicado_en_origen": "2012-09-25 13:07:03"
+    },
+    {
+      "id_origen": 17421,
+      "numero": 81,
+      "titulo": "Gintama - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4afc974d7501498dac2fbcf27de46d34.jpg",
+      "url_origen": "https://jkanime.net/gintama/81/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17422,
+      "numero": 82,
+      "titulo": "Gintama - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d59100468f1e33cb2d178fdef77412d5.jpg",
+      "url_origen": "https://jkanime.net/gintama/82/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17423,
+      "numero": 83,
+      "titulo": "Gintama - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd40463bdad3ce3d82883121161c416e.jpg",
+      "url_origen": "https://jkanime.net/gintama/83/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17424,
+      "numero": 84,
+      "titulo": "Gintama - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8495c2456f8d77f2cf541e54c66f5b3.jpg",
+      "url_origen": "https://jkanime.net/gintama/84/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17425,
+      "numero": 85,
+      "titulo": "Gintama - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_019665ab81a95464a25e2bf069f942f9.jpg",
+      "url_origen": "https://jkanime.net/gintama/85/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17426,
+      "numero": 86,
+      "titulo": "Gintama - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93106f2b3d83f77dbb5a098e014fad40.jpg",
+      "url_origen": "https://jkanime.net/gintama/86/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17427,
+      "numero": 87,
+      "titulo": "Gintama - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1823bc0e5e11ba2f4d521940e45d0be4.jpg",
+      "url_origen": "https://jkanime.net/gintama/87/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17428,
+      "numero": 88,
+      "titulo": "Gintama - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bbeb6ee3bfac6732d2df45227ae0e69.jpg",
+      "url_origen": "https://jkanime.net/gintama/88/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17429,
+      "numero": 89,
+      "titulo": "Gintama - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f91ee142269ec908c23e1cd87286e254.jpg",
+      "url_origen": "https://jkanime.net/gintama/89/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17430,
+      "numero": 90,
+      "titulo": "Gintama - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1082e40d6bd5c5d64f2ccb8f73cea5c.jpg",
+      "url_origen": "https://jkanime.net/gintama/90/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17431,
+      "numero": 91,
+      "titulo": "Gintama - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75e1fde950f70229d6daa97a83587856.jpg",
+      "url_origen": "https://jkanime.net/gintama/91/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17432,
+      "numero": 92,
+      "titulo": "Gintama - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6fb52c108655e3dbb47bfeccce12131.jpg",
+      "url_origen": "https://jkanime.net/gintama/92/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17433,
+      "numero": 93,
+      "titulo": "Gintama - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37af59b4a68791992c064eefe4a1c94d.jpg",
+      "url_origen": "https://jkanime.net/gintama/93/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17434,
+      "numero": 94,
+      "titulo": "Gintama - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_550b19ba01730bcbecf0df2df4812cc8.jpg",
+      "url_origen": "https://jkanime.net/gintama/94/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17435,
+      "numero": 95,
+      "titulo": "Gintama - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_230412c7a68201e0be2f5d4fb9d442b4.jpg",
+      "url_origen": "https://jkanime.net/gintama/95/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17436,
+      "numero": 96,
+      "titulo": "Gintama - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_092cb9ab3aaf99bdd279a89848b54b0b.jpg",
+      "url_origen": "https://jkanime.net/gintama/96/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17437,
+      "numero": 97,
+      "titulo": "Gintama - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d3bd33aee1c465d1234e70714324850.jpg",
+      "url_origen": "https://jkanime.net/gintama/97/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17438,
+      "numero": 98,
+      "titulo": "Gintama - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52fe8f09c95a49a4c296c735c32c8678.jpg",
+      "url_origen": "https://jkanime.net/gintama/98/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17439,
+      "numero": 99,
+      "titulo": "Gintama - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e70de62089437170ecc38a7487295dbb.jpg",
+      "url_origen": "https://jkanime.net/gintama/99/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17440,
+      "numero": 100,
+      "titulo": "Gintama - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df8a6aa94e8b9dafafb2761be5c197c5.jpg",
+      "url_origen": "https://jkanime.net/gintama/100/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17441,
+      "numero": 101,
+      "titulo": "Gintama - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50ac4b2d6257c591a057a922533f77d5.jpg",
+      "url_origen": "https://jkanime.net/gintama/101/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17442,
+      "numero": 102,
+      "titulo": "Gintama - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11ab8d1653073d047c16ede5947fc64d.jpg",
+      "url_origen": "https://jkanime.net/gintama/102/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17443,
+      "numero": 103,
+      "titulo": "Gintama - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gintama.jpg",
+      "url_origen": "https://jkanime.net/gintama/103/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17444,
+      "numero": 104,
+      "titulo": "Gintama - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fb640ea6abe0e849c8c1fd6eea97c22.jpg",
+      "url_origen": "https://jkanime.net/gintama/104/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17445,
+      "numero": 105,
+      "titulo": "Gintama - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bad1243bb55ded10b82e6e9b33321897.jpg",
+      "url_origen": "https://jkanime.net/gintama/105/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17446,
+      "numero": 106,
+      "titulo": "Gintama - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a00d3d0d22df253d3cee0a109084dad.jpg",
+      "url_origen": "https://jkanime.net/gintama/106/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17447,
+      "numero": 107,
+      "titulo": "Gintama - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc0c490aab832307f9cd2ebad8fa114e.jpg",
+      "url_origen": "https://jkanime.net/gintama/107/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17448,
+      "numero": 108,
+      "titulo": "Gintama - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d644c7cbbb1064491c3b1334c99b25c8.jpg",
+      "url_origen": "https://jkanime.net/gintama/108/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17449,
+      "numero": 109,
+      "titulo": "Gintama - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7160fb2765562fd2d35a07dc61c6ec42.jpg",
+      "url_origen": "https://jkanime.net/gintama/109/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17450,
+      "numero": 110,
+      "titulo": "Gintama - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb580da97fdc843019c5d4609038612d.jpg",
+      "url_origen": "https://jkanime.net/gintama/110/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17451,
+      "numero": 111,
+      "titulo": "Gintama - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c83f9d8520b9f5777d146d9e0c4ceaaf.jpg",
+      "url_origen": "https://jkanime.net/gintama/111/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17452,
+      "numero": 112,
+      "titulo": "Gintama - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0f48c8ab1b8e41d825d24714e851659.jpg",
+      "url_origen": "https://jkanime.net/gintama/112/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17453,
+      "numero": 113,
+      "titulo": "Gintama - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71014f3b2f3b8f52e2d6ee2304db7e95.jpg",
+      "url_origen": "https://jkanime.net/gintama/113/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17454,
+      "numero": 114,
+      "titulo": "Gintama - 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_302101902bd9140427edc0c41e139782.jpg",
+      "url_origen": "https://jkanime.net/gintama/114/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17455,
+      "numero": 115,
+      "titulo": "Gintama - 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06d1877c71ba8d3f2f72d1ffc585c463.jpg",
+      "url_origen": "https://jkanime.net/gintama/115/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17456,
+      "numero": 116,
+      "titulo": "Gintama - 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c170720310dba87cccbaebd83ea6ace9.jpg",
+      "url_origen": "https://jkanime.net/gintama/116/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17457,
+      "numero": 117,
+      "titulo": "Gintama - 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_029088a9cfa844b43f1cb39d3377aac6.jpg",
+      "url_origen": "https://jkanime.net/gintama/117/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17458,
+      "numero": 118,
+      "titulo": "Gintama - 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d85753f9fffd5bc75de09475aed5b3f1.jpg",
+      "url_origen": "https://jkanime.net/gintama/118/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17459,
+      "numero": 119,
+      "titulo": "Gintama - 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80c3759420eee7aad4f3b6e9f1d9779b.jpg",
+      "url_origen": "https://jkanime.net/gintama/119/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17460,
+      "numero": 120,
+      "titulo": "Gintama - 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_887d5a5e5026349023b761a2dcfb4e86.jpg",
+      "url_origen": "https://jkanime.net/gintama/120/",
+      "publicado_en_origen": "2012-09-25 14:49:11"
+    },
+    {
+      "id_origen": 17381,
+      "numero": 121,
+      "titulo": "Gintama - 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33681279c167c7fcd2997ed72cfb4c4a.jpg",
+      "url_origen": "https://jkanime.net/gintama/121/",
+      "publicado_en_origen": "2012-09-25 14:26:47"
+    },
+    {
+      "id_origen": 17382,
+      "numero": 122,
+      "titulo": "Gintama - 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_003bed21fddc817050c8fa11897fe660.jpg",
+      "url_origen": "https://jkanime.net/gintama/122/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17383,
+      "numero": 123,
+      "titulo": "Gintama - 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6dce2d065c96e556331c1407a7491c7d.jpg",
+      "url_origen": "https://jkanime.net/gintama/123/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17384,
+      "numero": 124,
+      "titulo": "Gintama - 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e419ad025df62fbc3cc87331f5bf56cd.jpg",
+      "url_origen": "https://jkanime.net/gintama/124/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17385,
+      "numero": 125,
+      "titulo": "Gintama - 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa99ccdbea597263a88f27075bd6eb49.jpg",
+      "url_origen": "https://jkanime.net/gintama/125/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17386,
+      "numero": 126,
+      "titulo": "Gintama - 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c94aac00434f75e46fec31a10de2c0e.jpg",
+      "url_origen": "https://jkanime.net/gintama/126/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17387,
+      "numero": 127,
+      "titulo": "Gintama - 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e53fc2424af041d07a7eef5cd8773505.jpg",
+      "url_origen": "https://jkanime.net/gintama/127/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17388,
+      "numero": 128,
+      "titulo": "Gintama - 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c78174142e326ca62fc0c16d828a2fe.jpg",
+      "url_origen": "https://jkanime.net/gintama/128/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17389,
+      "numero": 129,
+      "titulo": "Gintama - 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36f9d490114303cd7debf20548fc6888.jpg",
+      "url_origen": "https://jkanime.net/gintama/129/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17390,
+      "numero": 130,
+      "titulo": "Gintama - 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4ce44f39a4a99bb1fe0f14e5330e6d4.jpg",
+      "url_origen": "https://jkanime.net/gintama/130/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17391,
+      "numero": 131,
+      "titulo": "Gintama - 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df543abd114ce563a23341c8a0707de6.jpg",
+      "url_origen": "https://jkanime.net/gintama/131/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17392,
+      "numero": 132,
+      "titulo": "Gintama - 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f85394ad7edb90639623e2af567b3963.jpg",
+      "url_origen": "https://jkanime.net/gintama/132/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17393,
+      "numero": 133,
+      "titulo": "Gintama - 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15a676c8852b5e796541c58b5846a1e6.jpg",
+      "url_origen": "https://jkanime.net/gintama/133/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17394,
+      "numero": 134,
+      "titulo": "Gintama - 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4f845d6fdeca6547c012e2b85347ae5.jpg",
+      "url_origen": "https://jkanime.net/gintama/134/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17395,
+      "numero": 135,
+      "titulo": "Gintama - 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41f87c79a2fb369fdb2aa2a1060a9a83.jpg",
+      "url_origen": "https://jkanime.net/gintama/135/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17396,
+      "numero": 136,
+      "titulo": "Gintama - 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4493c8059fa48a771fc96fa18e05df8d.jpg",
+      "url_origen": "https://jkanime.net/gintama/136/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17397,
+      "numero": 137,
+      "titulo": "Gintama - 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_132aea85729bd67ff2e38e5952abfd25.jpg",
+      "url_origen": "https://jkanime.net/gintama/137/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17398,
+      "numero": 138,
+      "titulo": "Gintama - 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be707b06fa79de553a95e394d0045909.jpg",
+      "url_origen": "https://jkanime.net/gintama/138/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17399,
+      "numero": 139,
+      "titulo": "Gintama - 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_612b768cef375638fa5bf6d0e88a9262.jpg",
+      "url_origen": "https://jkanime.net/gintama/139/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17400,
+      "numero": 140,
+      "titulo": "Gintama - 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38616a3812ca4dc2c99d0850ee16c13a.jpg",
+      "url_origen": "https://jkanime.net/gintama/140/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17401,
+      "numero": 141,
+      "titulo": "Gintama - 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56e1930307652e14afbc3e75b8e54bdd.jpg",
+      "url_origen": "https://jkanime.net/gintama/141/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17402,
+      "numero": 142,
+      "titulo": "Gintama - 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbd529c3160b4c800103a27dd102a72a.jpg",
+      "url_origen": "https://jkanime.net/gintama/142/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17403,
+      "numero": 143,
+      "titulo": "Gintama - 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89a26a363b87a87ac6a94277e841b7f4.jpg",
+      "url_origen": "https://jkanime.net/gintama/143/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17404,
+      "numero": 144,
+      "titulo": "Gintama - 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd0577f200e93dca13d0ceaf3d614ea0.jpg",
+      "url_origen": "https://jkanime.net/gintama/144/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17405,
+      "numero": 145,
+      "titulo": "Gintama - 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1394985202ea63bcbc29d6db7df35287.jpg",
+      "url_origen": "https://jkanime.net/gintama/145/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17406,
+      "numero": 146,
+      "titulo": "Gintama - 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2760e894ae70a26f9e0ffb5ebb51dab4.jpg",
+      "url_origen": "https://jkanime.net/gintama/146/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17407,
+      "numero": 147,
+      "titulo": "Gintama - 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0599212ac5b4670c30619bac376c189c.jpg",
+      "url_origen": "https://jkanime.net/gintama/147/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17408,
+      "numero": 148,
+      "titulo": "Gintama - 148",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_721cc4aaaf4e30504cb0ddcb4f756763.jpg",
+      "url_origen": "https://jkanime.net/gintama/148/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17409,
+      "numero": 149,
+      "titulo": "Gintama - 149",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b816e24fbac7e0fcec9dedf31c14ced.jpg",
+      "url_origen": "https://jkanime.net/gintama/149/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17410,
+      "numero": 150,
+      "titulo": "Gintama - 150",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f7650d12288f6e4a44073eb22ee2edb.jpg",
+      "url_origen": "https://jkanime.net/gintama/150/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17411,
+      "numero": 151,
+      "titulo": "Gintama - 151",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58c02631651a8ffcb2632ab4d96a3da2.jpg",
+      "url_origen": "https://jkanime.net/gintama/151/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17412,
+      "numero": 152,
+      "titulo": "Gintama - 152",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_008a0e182c42176b099db8424e01efb9.jpg",
+      "url_origen": "https://jkanime.net/gintama/152/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17413,
+      "numero": 153,
+      "titulo": "Gintama - 153",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc35d16f1f21e67c18ea9f1f9c16775a.jpg",
+      "url_origen": "https://jkanime.net/gintama/153/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17414,
+      "numero": 154,
+      "titulo": "Gintama - 154",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d54a439ba19be7fe2b18622f6e53587e.jpg",
+      "url_origen": "https://jkanime.net/gintama/154/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17415,
+      "numero": 155,
+      "titulo": "Gintama - 155",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79d51f4d7e4d54d54b55519c3b462d00.jpg",
+      "url_origen": "https://jkanime.net/gintama/155/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17416,
+      "numero": 156,
+      "titulo": "Gintama - 156",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_259c22cfdc742412a89fe293b53c6e94.jpg",
+      "url_origen": "https://jkanime.net/gintama/156/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17417,
+      "numero": 157,
+      "titulo": "Gintama - 157",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bcab4942f4f7e074eb4f7b4ecdf4f61.jpg",
+      "url_origen": "https://jkanime.net/gintama/157/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17418,
+      "numero": 158,
+      "titulo": "Gintama - 158",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85e1b8bbda1bd1ec3465c9728f7d7d2e.jpg",
+      "url_origen": "https://jkanime.net/gintama/158/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17419,
+      "numero": 159,
+      "titulo": "Gintama - 159",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08780eb9b58091a2d4b81a1af602b617.jpg",
+      "url_origen": "https://jkanime.net/gintama/159/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17420,
+      "numero": 160,
+      "titulo": "Gintama - 160",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80b912d8d81919969ccab0080ddd8e2f.jpg",
+      "url_origen": "https://jkanime.net/gintama/160/",
+      "publicado_en_origen": "2012-09-25 14:26:48"
+    },
+    {
+      "id_origen": 17461,
+      "numero": 161,
+      "titulo": "Gintama - 161",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aac365f9b7c5ac053a861093dcf0c125.jpg",
+      "url_origen": "https://jkanime.net/gintama/161/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17462,
+      "numero": 162,
+      "titulo": "Gintama - 162",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39da688fbab76d0a5e1f64ddb803ad37.jpg",
+      "url_origen": "https://jkanime.net/gintama/162/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17463,
+      "numero": 163,
+      "titulo": "Gintama - 163",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b01b09edbdae327a17ccc47cc5c6992.jpg",
+      "url_origen": "https://jkanime.net/gintama/163/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17464,
+      "numero": 164,
+      "titulo": "Gintama - 164",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02815b1a3dc973058fd3b2d33a1e5386.jpg",
+      "url_origen": "https://jkanime.net/gintama/164/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17465,
+      "numero": 165,
+      "titulo": "Gintama - 165",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_384b80d8c13ec6884a66ecc6a03fe796.jpg",
+      "url_origen": "https://jkanime.net/gintama/165/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17466,
+      "numero": 166,
+      "titulo": "Gintama - 166",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28d50693bf6468465b80ff533f183d6c.jpg",
+      "url_origen": "https://jkanime.net/gintama/166/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17467,
+      "numero": 167,
+      "titulo": "Gintama - 167",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f29370d9da664c1e143182f37301063.jpg",
+      "url_origen": "https://jkanime.net/gintama/167/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17468,
+      "numero": 168,
+      "titulo": "Gintama - 168",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59a6cd2175a468225a105a7cd7f20ec4.jpg",
+      "url_origen": "https://jkanime.net/gintama/168/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17469,
+      "numero": 169,
+      "titulo": "Gintama - 169",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_058d732557d3b439eb2ffdd074bbf347.jpg",
+      "url_origen": "https://jkanime.net/gintama/169/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17470,
+      "numero": 170,
+      "titulo": "Gintama - 170",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_272a535143aa13813aa08719769281ac.jpg",
+      "url_origen": "https://jkanime.net/gintama/170/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17471,
+      "numero": 171,
+      "titulo": "Gintama - 171",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddc751074ed4db1ce8e65aec173d16e3.jpg",
+      "url_origen": "https://jkanime.net/gintama/171/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17472,
+      "numero": 172,
+      "titulo": "Gintama - 172",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e3a0a9abe898f51ff56c491b528b302.jpg",
+      "url_origen": "https://jkanime.net/gintama/172/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17473,
+      "numero": 173,
+      "titulo": "Gintama - 173",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a87c3e8f9b58723ac1c4f6ab69c0d0c9.jpg",
+      "url_origen": "https://jkanime.net/gintama/173/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17474,
+      "numero": 174,
+      "titulo": "Gintama - 174",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0af07e9885819ecb85897611e758433b.jpg",
+      "url_origen": "https://jkanime.net/gintama/174/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17475,
+      "numero": 175,
+      "titulo": "Gintama - 175",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8742743f35ad13e837cb8fc849f759d.jpg",
+      "url_origen": "https://jkanime.net/gintama/175/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17476,
+      "numero": 176,
+      "titulo": "Gintama - 176",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_669682950cf309c75581fb49f3e2cef2.jpg",
+      "url_origen": "https://jkanime.net/gintama/176/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17477,
+      "numero": 177,
+      "titulo": "Gintama - 177",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_300058cc7d509b418f18870314eb92ac.jpg",
+      "url_origen": "https://jkanime.net/gintama/177/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17478,
+      "numero": 178,
+      "titulo": "Gintama - 178",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9684bb9ec9d685632ee47174ed6f2dd5.jpg",
+      "url_origen": "https://jkanime.net/gintama/178/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17479,
+      "numero": 179,
+      "titulo": "Gintama - 179",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11b028954c6671b7d75743a2b78b2afe.jpg",
+      "url_origen": "https://jkanime.net/gintama/179/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17480,
+      "numero": 180,
+      "titulo": "Gintama - 180",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f63ca18283fce920f258fe42b153b199.jpg",
+      "url_origen": "https://jkanime.net/gintama/180/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17481,
+      "numero": 181,
+      "titulo": "Gintama - 181",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_821fc6911dba0d124d68dd77901923d6.jpg",
+      "url_origen": "https://jkanime.net/gintama/181/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17482,
+      "numero": 182,
+      "titulo": "Gintama - 182",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7228352c63a595de9f77d32037c3e350.jpg",
+      "url_origen": "https://jkanime.net/gintama/182/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17483,
+      "numero": 183,
+      "titulo": "Gintama - 183",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0b1d24f68e3d6a9f855e424c4f0c9b6.jpg",
+      "url_origen": "https://jkanime.net/gintama/183/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17484,
+      "numero": 184,
+      "titulo": "Gintama - 184",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6326390cc3cf594bbd691bc13b6f0ff.jpg",
+      "url_origen": "https://jkanime.net/gintama/184/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17485,
+      "numero": 185,
+      "titulo": "Gintama - 185",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4898db26f9e2d470f0d9931c4fc7b901.jpg",
+      "url_origen": "https://jkanime.net/gintama/185/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17486,
+      "numero": 186,
+      "titulo": "Gintama - 186",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc4eede4a4c7cc9e6fdbb36d5b04c372.jpg",
+      "url_origen": "https://jkanime.net/gintama/186/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17487,
+      "numero": 187,
+      "titulo": "Gintama - 187",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5845b28131e33e1ece69f1a335c807e.jpg",
+      "url_origen": "https://jkanime.net/gintama/187/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17488,
+      "numero": 188,
+      "titulo": "Gintama - 188",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e412306104ba7f5a5a062d02d85e0ce.jpg",
+      "url_origen": "https://jkanime.net/gintama/188/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17489,
+      "numero": 189,
+      "titulo": "Gintama - 189",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06833b73c7b85d172f55b6f38a40b094.jpg",
+      "url_origen": "https://jkanime.net/gintama/189/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17490,
+      "numero": 190,
+      "titulo": "Gintama - 190",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d222914df5cdfd8a9196059965eaa352.jpg",
+      "url_origen": "https://jkanime.net/gintama/190/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17491,
+      "numero": 191,
+      "titulo": "Gintama - 191",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63cf8ae5aa08cb59818f341fefa94618.jpg",
+      "url_origen": "https://jkanime.net/gintama/191/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17492,
+      "numero": 192,
+      "titulo": "Gintama - 192",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23fb42c7ddc1017599541a953efb68bb.jpg",
+      "url_origen": "https://jkanime.net/gintama/192/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17493,
+      "numero": 193,
+      "titulo": "Gintama - 193",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfedb13505585ea91e2eb7edf64282a7.jpg",
+      "url_origen": "https://jkanime.net/gintama/193/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17494,
+      "numero": 194,
+      "titulo": "Gintama - 194",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6f39a1c9403d1b82d0efd85a089c499.jpg",
+      "url_origen": "https://jkanime.net/gintama/194/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17495,
+      "numero": 195,
+      "titulo": "Gintama - 195",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a73d968b6697a4ad1e91bd4ba769a4a0.jpg",
+      "url_origen": "https://jkanime.net/gintama/195/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17496,
+      "numero": 196,
+      "titulo": "Gintama - 196",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8f9c922be3d2559a3b6da1429bc1301.jpg",
+      "url_origen": "https://jkanime.net/gintama/196/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17497,
+      "numero": 197,
+      "titulo": "Gintama - 197",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82d06664f103890e512a109d0b5d1011.jpg",
+      "url_origen": "https://jkanime.net/gintama/197/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17498,
+      "numero": 198,
+      "titulo": "Gintama - 198",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ad874c1df47197ed606592e1a07c230.jpg",
+      "url_origen": "https://jkanime.net/gintama/198/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17499,
+      "numero": 199,
+      "titulo": "Gintama - 199",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cef683681c0db9c2e21e705976d1c886.jpg",
+      "url_origen": "https://jkanime.net/gintama/199/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17500,
+      "numero": 200,
+      "titulo": "Gintama - 200",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_645d8981d8d3547c17119dda7d6c057a.jpg",
+      "url_origen": "https://jkanime.net/gintama/200/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    },
+    {
+      "id_origen": 17501,
+      "numero": 201,
+      "titulo": "Gintama - 201",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ffb18ac57148c50370b1e15a0157af9.jpg",
+      "url_origen": "https://jkanime.net/gintama/201/",
+      "publicado_en_origen": "2012-09-25 15:39:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "662",
+  "cantidad_episodios_declarada": 201,
+  "detalle_extraido_en": "2026-08-26T18:28:36+00:00"
+}

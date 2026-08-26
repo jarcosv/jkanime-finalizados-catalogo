@@ -1,0 +1,29 @@
+{
+  "id_origen": 1011,
+  "slug": "hal",
+  "titulo": "Hal",
+  "titulo_corto": "Hal",
+  "sinopsis": "La historia está protagonizada por Kurumi y Hal, una pareja de enamorados que sufre un accidente de avión estando de viaje. Kurumi sobrevive, pero Hal muere en el accidente. Kurumi ha perdido la ilusión por la vida, y entonces le proporcionan un androide Q01 como “robo Hal” para que le haga compañía. Poco a poco Kurumi va abriéndose al androide, pero…",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hal.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hal/",
+  "episodios": [
+    {
+      "id_origen": 22269,
+      "numero": 1,
+      "titulo": "Hal",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff123d85a4be88e6892cc57e1e73d77f.jpg",
+      "url_origen": "https://jkanime.net/hal/1/",
+      "publicado_en_origen": "2013-12-23 13:47:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1011",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:29:41+00:00"
+}

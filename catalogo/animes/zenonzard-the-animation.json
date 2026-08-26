@@ -1,0 +1,29 @@
+{
+  "id_origen": 2499,
+  "slug": "zenonzard-the-animation",
+  "titulo": "Zenonzard: The Animation",
+  "titulo_corto": "Zenonzard: The Animation",
+  "sinopsis": "Adaptacion del anime al juego de la aplicacion Bandai Zenonzard, considerado el episodio 0 de la adaptacion. Se lanzo en el canal de YouTube Zenonzard el 10 de septiembre y se transmitio por television el 13 de septiembre a medianoche.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/zenonzard-the-animation.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/zenonzard-the-animation/",
+  "episodios": [
+    {
+      "id_origen": 41121,
+      "numero": 1,
+      "titulo": "Zenonzard: The Animation - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dcae238b96cc21b0fd4a1d37ec177a4c.jpg",
+      "url_origen": "https://jkanime.net/zenonzard-the-animation/1/",
+      "publicado_en_origen": "2019-09-25 00:56:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2499",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:53:51+00:00"
+}

@@ -1,0 +1,125 @@
+{
+  "id_origen": 609,
+  "slug": "joshiraku",
+  "titulo": "Joshiraku",
+  "titulo_corto": "Joshiraku",
+  "sinopsis": "Trata sobre la vida diaria de un grupo de chicas que les gusta discutir sobre cosas al azar y por lo general llegan a una conclusión inusual con un toque de humor y terminan con conclusiones finales muy distintas al tema inicial.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/joshiraku.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/joshiraku/",
+  "episodios": [
+    {
+      "id_origen": 16267,
+      "numero": 1,
+      "titulo": "Joshiraku - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1ae47b51f35676b92b963addecbfeb9.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/1/",
+      "publicado_en_origen": "2012-07-11 19:19:58"
+    },
+    {
+      "id_origen": 16399,
+      "numero": 2,
+      "titulo": "Joshiraku - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d57812289771598c8a5e3f9aaae10358.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/2/",
+      "publicado_en_origen": "2012-07-19 10:46:36"
+    },
+    {
+      "id_origen": 16512,
+      "numero": 3,
+      "titulo": "Joshiraku - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41621ff11046c80c435fa90489a3a20d.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/3/",
+      "publicado_en_origen": "2012-08-02 14:36:12"
+    },
+    {
+      "id_origen": 16539,
+      "numero": 4,
+      "titulo": "Joshiraku - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69e1d2d22776ad3db6736247f14f00e6.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/4/",
+      "publicado_en_origen": "2012-08-09 19:54:19"
+    },
+    {
+      "id_origen": 16585,
+      "numero": 5,
+      "titulo": "Joshiraku - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94f317056bfb93ae0c276fa9b1690ba7.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/5/",
+      "publicado_en_origen": "2012-08-21 01:44:04"
+    },
+    {
+      "id_origen": 16656,
+      "numero": 6,
+      "titulo": "Joshiraku - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc7b367cfb9b38b3558bd127ad5c6696.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/6/",
+      "publicado_en_origen": "2012-08-24 02:43:53"
+    },
+    {
+      "id_origen": 16982,
+      "numero": 7,
+      "titulo": "Joshiraku - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f663611ec21e8f820b91da1abf9ad1f.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/7/",
+      "publicado_en_origen": "2012-09-04 18:29:17"
+    },
+    {
+      "id_origen": 17287,
+      "numero": 8,
+      "titulo": "Joshiraku - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f06a642b52d91adfa0168b737bd60db9.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/8/",
+      "publicado_en_origen": "2012-09-25 00:09:44"
+    },
+    {
+      "id_origen": 17607,
+      "numero": 9,
+      "titulo": "Joshiraku - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_40615970e07d91a15cf42214ae5f4847.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/9/",
+      "publicado_en_origen": "2012-10-01 00:21:48"
+    },
+    {
+      "id_origen": 17636,
+      "numero": 10,
+      "titulo": "Joshiraku - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5460f9517da5575f9b99baca6b56628e.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/10/",
+      "publicado_en_origen": "2012-10-05 22:50:30"
+    },
+    {
+      "id_origen": 18155,
+      "numero": 11,
+      "titulo": "Joshiraku - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0abf05b2c2c603eaaa68e9b8526393bc.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/11/",
+      "publicado_en_origen": "2012-10-30 16:04:05"
+    },
+    {
+      "id_origen": 18208,
+      "numero": 12,
+      "titulo": "Joshiraku - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29eb72af70b45ea8994b6d0256b1b97f.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/12/",
+      "publicado_en_origen": "2012-11-01 01:30:07"
+    },
+    {
+      "id_origen": 18429,
+      "numero": 13,
+      "titulo": "Joshiraku - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6492d1f666793d1cdc93b8e76cd1ca8b.jpg",
+      "url_origen": "https://jkanime.net/joshiraku/13/",
+      "publicado_en_origen": "2012-11-13 19:57:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "609",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:32:58+00:00"
+}

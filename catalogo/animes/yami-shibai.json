@@ -1,0 +1,125 @@
+{
+  "id_origen": 1199,
+  "slug": "yami-shibai",
+  "titulo": "Yami Shibai",
+  "titulo_corto": "Yami Shibai",
+  "sinopsis": "Yamishibai es una historia ilustrada cuya tematica son los rumores y las leyendas urbanas que han circulado a lo largo de la historia por Japon y animada mediante la tecnica del \"kamishibai\", o lo que es lo mismo, usando figuras de papel y pergaminos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yami-shibai.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yami-shibai/",
+  "episodios": [
+    {
+      "id_origen": 23902,
+      "numero": 1,
+      "titulo": "Yami Shibai - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64ff30d936f1e1bd373f36684ca4eda4.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/1/",
+      "publicado_en_origen": "2014-07-06 20:39:04"
+    },
+    {
+      "id_origen": 23903,
+      "numero": 2,
+      "titulo": "Yami Shibai - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f073cd45cff903b9a6e8a810ecda129b.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/2/",
+      "publicado_en_origen": "2014-07-06 20:39:06"
+    },
+    {
+      "id_origen": 23904,
+      "numero": 3,
+      "titulo": "Yami Shibai - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b56ed40be5179e21a4e65c6871f61c1.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/3/",
+      "publicado_en_origen": "2014-07-06 20:39:06"
+    },
+    {
+      "id_origen": 23905,
+      "numero": 4,
+      "titulo": "Yami Shibai - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da90fdf234654eb69d7d14654641134f.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/4/",
+      "publicado_en_origen": "2014-07-06 20:39:06"
+    },
+    {
+      "id_origen": 23906,
+      "numero": 5,
+      "titulo": "Yami Shibai - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_735fba15cd27a45a0489108c2a2a70e9.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/5/",
+      "publicado_en_origen": "2014-07-06 20:39:06"
+    },
+    {
+      "id_origen": 23907,
+      "numero": 6,
+      "titulo": "Yami Shibai - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0055a5709f2388ee34e6a39c4719fccb.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/6/",
+      "publicado_en_origen": "2014-07-06 20:39:06"
+    },
+    {
+      "id_origen": 23908,
+      "numero": 7,
+      "titulo": "Yami Shibai - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84f2e494266e3d8bff012509c07be604.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/7/",
+      "publicado_en_origen": "2014-07-06 20:39:06"
+    },
+    {
+      "id_origen": 23909,
+      "numero": 8,
+      "titulo": "Yami Shibai - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ca72f0a1292ede31400ee464c5c6cbe.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/8/",
+      "publicado_en_origen": "2014-07-06 20:39:06"
+    },
+    {
+      "id_origen": 23910,
+      "numero": 9,
+      "titulo": "Yami Shibai - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16f8455ffee11d28c48dca19d52ab537.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/9/",
+      "publicado_en_origen": "2014-07-06 20:39:06"
+    },
+    {
+      "id_origen": 23911,
+      "numero": 10,
+      "titulo": "Yami Shibai - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a1fee2e159e5ba76e1a8b3f54634d19.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/10/",
+      "publicado_en_origen": "2014-07-06 20:39:06"
+    },
+    {
+      "id_origen": 23912,
+      "numero": 11,
+      "titulo": "Yami Shibai - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4e65063168542599d17912de37ec68a.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/11/",
+      "publicado_en_origen": "2014-07-06 20:39:06"
+    },
+    {
+      "id_origen": 23913,
+      "numero": 12,
+      "titulo": "Yami Shibai - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e488eaf07b841e692fc4fe103e7b254.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/12/",
+      "publicado_en_origen": "2014-07-06 20:39:06"
+    },
+    {
+      "id_origen": 23914,
+      "numero": 13,
+      "titulo": "Yami Shibai - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffad672a27161fbee2737a2a1b4ac28f.jpg",
+      "url_origen": "https://jkanime.net/yami-shibai/13/",
+      "publicado_en_origen": "2014-07-06 20:39:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1199",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:52:35+00:00"
+}

@@ -1,0 +1,101 @@
+{
+  "id_origen": 4413,
+  "slug": "uma-musume-cinderella-gray-part-2",
+  "titulo": "Uma Musume: Cinderella Gray Part 2",
+  "titulo_corto": "Uma Musume: Cinderella Gray Pa...",
+  "sinopsis": "segunda parte",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/uma-musume-cinderella-gray-part-2.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/uma-musume-cinderella-gray-part-2/",
+  "episodios": [
+    {
+      "id_origen": 67793,
+      "numero": 1,
+      "titulo": "Uma Musume: Cinderella Gray Part 2 - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b133686f2393911bb6010d8f9ebff2a4.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-cinderella-gray-part-2/1/",
+      "publicado_en_origen": "2025-10-05 15:10:47"
+    },
+    {
+      "id_origen": 68005,
+      "numero": 2,
+      "titulo": "Uma Musume: Cinderella Gray Part 2 - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec58f18589ce8b2931f9e77243abd1e0.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-cinderella-gray-part-2/2/",
+      "publicado_en_origen": "2025-10-12 12:19:18"
+    },
+    {
+      "id_origen": 68115,
+      "numero": 3,
+      "titulo": "Uma Musume: Cinderella Gray Part 2 - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d97de966ca20e8a1c2c5a7651883e00.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-cinderella-gray-part-2/3/",
+      "publicado_en_origen": "2025-10-19 15:06:30"
+    },
+    {
+      "id_origen": 68463,
+      "numero": 4,
+      "titulo": "Uma Musume: Cinderella Gray Part 2 - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb50cdbf785a14f679346095bde15a9f.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-cinderella-gray-part-2/4/",
+      "publicado_en_origen": "2025-11-02 17:15:42"
+    },
+    {
+      "id_origen": 68607,
+      "numero": 5,
+      "titulo": "Uma Musume: Cinderella Gray Part 2 - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8586a62ef85c348225d7ffbff8e6881.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-cinderella-gray-part-2/5/",
+      "publicado_en_origen": "2025-11-09 18:25:03"
+    },
+    {
+      "id_origen": 68882,
+      "numero": 6,
+      "titulo": "Uma Musume: Cinderella Gray Part 2 - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24471f45249c11f346b9adf33e47c9ee.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-cinderella-gray-part-2/6/",
+      "publicado_en_origen": "2025-11-23 15:00:51"
+    },
+    {
+      "id_origen": 69279,
+      "numero": 7,
+      "titulo": "Uma Musume: Cinderella Gray Part 2 - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fe247323ecff8688ee22ca7a489f3e8.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-cinderella-gray-part-2/7/",
+      "publicado_en_origen": "2025-11-30 16:36:51"
+    },
+    {
+      "id_origen": 69740,
+      "numero": 8,
+      "titulo": "Uma Musume: Cinderella Gray Part 2 - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9052639deae9563c14ae51050c1e3070.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-cinderella-gray-part-2/8/",
+      "publicado_en_origen": "2025-12-07 13:46:19"
+    },
+    {
+      "id_origen": 70106,
+      "numero": 9,
+      "titulo": "Uma Musume: Cinderella Gray Part 2 - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_625e901eb0d49da32e5ca808294108d8.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-cinderella-gray-part-2/9/",
+      "publicado_en_origen": "2025-12-14 14:54:30"
+    },
+    {
+      "id_origen": 70260,
+      "numero": 10,
+      "titulo": "Uma Musume: Cinderella Gray Part 2 - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b104a472b4cf930e3f534ccb6a23463c.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-cinderella-gray-part-2/10/",
+      "publicado_en_origen": "2025-12-21 13:40:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:23+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4413",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:51:01+00:00"
+}

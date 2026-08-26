@@ -1,0 +1,37 @@
+{
+  "id_origen": 3323,
+  "slug": "shingeki-no-kyojin-the-final-season-kanketsu-hen",
+  "titulo": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+  "titulo_corto": "Shingeki no Kyojin: The Final ...",
+  "sinopsis": "Secuela de Shingeki no Kyojin: La Temporada Final Parte 2 .",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shingeki-no-kyojin-the-final-season-kanketsu-hen.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shingeki-no-kyojin-the-final-season-kanketsu-hen/",
+  "episodios": [
+    {
+      "id_origen": 52034,
+      "numero": 1,
+      "titulo": "Shingeki no Kyojin: The Final Season - Kanketsu-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42e7f6c4c07608566708f3fcd8f38bb0.jpg",
+      "url_origen": "https://jkanime.net/shingeki-no-kyojin-the-final-season-kanketsu-hen/1/",
+      "publicado_en_origen": "2023-03-03 14:58:00"
+    },
+    {
+      "id_origen": 54764,
+      "numero": 2,
+      "titulo": "Shingeki no Kyojin: The Final Season - Kanketsu-hen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf0c1cff4498e3a259dcbf0cd3eec41d.jpg",
+      "url_origen": "https://jkanime.net/shingeki-no-kyojin-the-final-season-kanketsu-hen/2/",
+      "publicado_en_origen": "2023-11-04 20:23:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3323",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:46:26+00:00"
+}

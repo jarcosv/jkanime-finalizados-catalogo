@@ -1,0 +1,37 @@
+{
+  "id_origen": 3376,
+  "slug": "inu-ni-nattara-suki-na-hito-ni-hirowareta-specials",
+  "titulo": "Inu ni Nattara Suki na Hito ni Hirowareta. Specials",
+  "titulo_corto": "Inu ni Nattara Suki na Hito ni...",
+  "sinopsis": "Episodios no emitidos incluidos en los volúmenes de la caja de Blu-ray.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials/",
+  "episodios": [
+    {
+      "id_origen": 52284,
+      "numero": 1,
+      "titulo": "Inu ni Nattara Suki na Hito ni Hirowareta. Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2296afb693ba265ee0e625a59e71948.jpg",
+      "url_origen": "https://jkanime.net/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials/1/",
+      "publicado_en_origen": "2023-03-29 12:43:51"
+    },
+    {
+      "id_origen": 52339,
+      "numero": 2,
+      "titulo": "Inu ni Nattara Suki na Hito ni Hirowareta. Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d457d6e049710743ff8df1f1138ccd4c.jpg",
+      "url_origen": "https://jkanime.net/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials/2/",
+      "publicado_en_origen": "2023-04-06 21:12:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3376",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:31:54+00:00"
+}

@@ -1,0 +1,437 @@
+{
+  "id_origen": 436,
+  "slug": "medabots",
+  "titulo": "Medabots",
+  "titulo_corto": "Medabots",
+  "sinopsis": "Del siglo XXII, un niño llamado Ikki Tenrio, con su amigo Medabee que participan en Robottallas. Se trata sobre las peleas de un robot contra otro. Ikki y sus amigos debe enfrentar varios obstaculos como detener los planes de la Pandilla de RubberRobo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/medabots.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/medabots/",
+  "episodios": [
+    {
+      "id_origen": 12668,
+      "numero": 1,
+      "titulo": "Medabots - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_354680832fcea7e2b7057a5ac2c489f8.jpg",
+      "url_origen": "https://jkanime.net/medabots/1/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12669,
+      "numero": 2,
+      "titulo": "Medabots - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51b7dae1031b20174cacc7e69d6e4bf0.jpg",
+      "url_origen": "https://jkanime.net/medabots/2/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12670,
+      "numero": 3,
+      "titulo": "Medabots - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_185afe2ab60395b0fb41349aa1469a7f.jpg",
+      "url_origen": "https://jkanime.net/medabots/3/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12671,
+      "numero": 4,
+      "titulo": "Medabots - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7ba7390e92513e12fc5fe070e40ee7e.jpg",
+      "url_origen": "https://jkanime.net/medabots/4/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12672,
+      "numero": 5,
+      "titulo": "Medabots - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5542ec466d3f3446d5be39e42606a61.jpg",
+      "url_origen": "https://jkanime.net/medabots/5/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12673,
+      "numero": 6,
+      "titulo": "Medabots - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fffb8ef15de06d87e6ba6c830f3b6284.jpg",
+      "url_origen": "https://jkanime.net/medabots/6/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12674,
+      "numero": 7,
+      "titulo": "Medabots - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_217ffec3caf17a44bf340fc11d93e8ab.jpg",
+      "url_origen": "https://jkanime.net/medabots/7/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12675,
+      "numero": 8,
+      "titulo": "Medabots - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3d5c779237614a9cef5305b85a28273.jpg",
+      "url_origen": "https://jkanime.net/medabots/8/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12676,
+      "numero": 9,
+      "titulo": "Medabots - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32cfba8a13694631a8418e4d246e55fa.jpg",
+      "url_origen": "https://jkanime.net/medabots/9/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12677,
+      "numero": 10,
+      "titulo": "Medabots - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c0f24a304f10044bcb756fd2ab2370f.jpg",
+      "url_origen": "https://jkanime.net/medabots/10/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12678,
+      "numero": 11,
+      "titulo": "Medabots - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e99ce0cdd4f46110c2497ea4f5ead1f1.jpg",
+      "url_origen": "https://jkanime.net/medabots/11/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12679,
+      "numero": 12,
+      "titulo": "Medabots - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcf059b3a04a642eca4c21bd3fa5e9e3.jpg",
+      "url_origen": "https://jkanime.net/medabots/12/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12680,
+      "numero": 13,
+      "titulo": "Medabots - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78b73d22a1920ea41999e0d9290ce7d1.jpg",
+      "url_origen": "https://jkanime.net/medabots/13/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12681,
+      "numero": 14,
+      "titulo": "Medabots - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9232965e399095e0ef458a3325ba5382.jpg",
+      "url_origen": "https://jkanime.net/medabots/14/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12682,
+      "numero": 15,
+      "titulo": "Medabots - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b79b48dd646ef0af02646b332a92d855.jpg",
+      "url_origen": "https://jkanime.net/medabots/15/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12683,
+      "numero": 16,
+      "titulo": "Medabots - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee77f23899e911ace641794f89c19e1c.jpg",
+      "url_origen": "https://jkanime.net/medabots/16/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12684,
+      "numero": 17,
+      "titulo": "Medabots - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67adf2b28a9bca8c22616cadac7b6b84.jpg",
+      "url_origen": "https://jkanime.net/medabots/17/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12685,
+      "numero": 18,
+      "titulo": "Medabots - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_486f06aa533267bed3c590b52db3d18d.jpg",
+      "url_origen": "https://jkanime.net/medabots/18/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12686,
+      "numero": 19,
+      "titulo": "Medabots - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dd5a4016c624ef51f0542d4ae60e281.jpg",
+      "url_origen": "https://jkanime.net/medabots/19/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12687,
+      "numero": 20,
+      "titulo": "Medabots - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed798eec75807df6e79b0be391f720e4.jpg",
+      "url_origen": "https://jkanime.net/medabots/20/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12688,
+      "numero": 21,
+      "titulo": "Medabots - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a652e914c736dfaf8a6667ae6936f0d6.jpg",
+      "url_origen": "https://jkanime.net/medabots/21/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12689,
+      "numero": 22,
+      "titulo": "Medabots - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a5fa2512d295bc18b5d557fb34a0888.jpg",
+      "url_origen": "https://jkanime.net/medabots/22/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12690,
+      "numero": 23,
+      "titulo": "Medabots - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fa8671d6d5f2796100bbd67eca81450.jpg",
+      "url_origen": "https://jkanime.net/medabots/23/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12691,
+      "numero": 24,
+      "titulo": "Medabots - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edf7f2f34f6b96fae76c68bc2268c128.jpg",
+      "url_origen": "https://jkanime.net/medabots/24/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12692,
+      "numero": 25,
+      "titulo": "Medabots - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8a3b2dde3181c8257e2e45efbd1e8ae.jpg",
+      "url_origen": "https://jkanime.net/medabots/25/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12693,
+      "numero": 26,
+      "titulo": "Medabots - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ec5ba872f1179835987f9028c4cc4df.jpg",
+      "url_origen": "https://jkanime.net/medabots/26/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12694,
+      "numero": 27,
+      "titulo": "Medabots - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26d6e896db39edc7d7bdd357d6984c95.jpg",
+      "url_origen": "https://jkanime.net/medabots/27/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12695,
+      "numero": 28,
+      "titulo": "Medabots - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d869c99656ec60fc9de27338a87b2506.jpg",
+      "url_origen": "https://jkanime.net/medabots/28/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12696,
+      "numero": 29,
+      "titulo": "Medabots - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7852cd2408d9d3205dc75b59a6ce22e.jpg",
+      "url_origen": "https://jkanime.net/medabots/29/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12697,
+      "numero": 30,
+      "titulo": "Medabots - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f204aab71691a8e18c3f6f00872db63b.jpg",
+      "url_origen": "https://jkanime.net/medabots/30/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12698,
+      "numero": 31,
+      "titulo": "Medabots - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b31f0c758bb498b5d56b5fea80f313a7.jpg",
+      "url_origen": "https://jkanime.net/medabots/31/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12699,
+      "numero": 32,
+      "titulo": "Medabots - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_129ccfc1c1a82b0b23d4473a72373a0a.jpg",
+      "url_origen": "https://jkanime.net/medabots/32/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12700,
+      "numero": 33,
+      "titulo": "Medabots - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bdffc7973c9f8f88ab4effb397c59f92.jpg",
+      "url_origen": "https://jkanime.net/medabots/33/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12701,
+      "numero": 34,
+      "titulo": "Medabots - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fc81fd7630f52aca6381ff6df0f6cec.jpg",
+      "url_origen": "https://jkanime.net/medabots/34/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12702,
+      "numero": 35,
+      "titulo": "Medabots - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9e817650f505b7c38f29416dfd0ba69.jpg",
+      "url_origen": "https://jkanime.net/medabots/35/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12703,
+      "numero": 36,
+      "titulo": "Medabots - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7499d9bd5b50edda0c648e455bc5bc1.jpg",
+      "url_origen": "https://jkanime.net/medabots/36/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12704,
+      "numero": 37,
+      "titulo": "Medabots - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f01287d4b412a2b16ec4a40af48d7c69.jpg",
+      "url_origen": "https://jkanime.net/medabots/37/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12705,
+      "numero": 38,
+      "titulo": "Medabots - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0780e8f5d5df0c219dcafae6e0f35043.jpg",
+      "url_origen": "https://jkanime.net/medabots/38/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12706,
+      "numero": 39,
+      "titulo": "Medabots - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_785a4b39ca0768ebd5be9064105f0705.jpg",
+      "url_origen": "https://jkanime.net/medabots/39/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12707,
+      "numero": 40,
+      "titulo": "Medabots - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_373d71f842ca1c1bff5a1d8b1da9f1b2.jpg",
+      "url_origen": "https://jkanime.net/medabots/40/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12708,
+      "numero": 41,
+      "titulo": "Medabots - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad1288236b3a6b1d28115a1f92ab8bb6.jpg",
+      "url_origen": "https://jkanime.net/medabots/41/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12709,
+      "numero": 42,
+      "titulo": "Medabots - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7cd33d1194ce48a10c5b2dce99a3cfc.jpg",
+      "url_origen": "https://jkanime.net/medabots/42/",
+      "publicado_en_origen": "2011-10-14 10:36:19"
+    },
+    {
+      "id_origen": 12710,
+      "numero": 43,
+      "titulo": "Medabots - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b83b4b4fb7dee46fd2e688f76e3f3928.jpg",
+      "url_origen": "https://jkanime.net/medabots/43/",
+      "publicado_en_origen": "2011-10-14 10:36:20"
+    },
+    {
+      "id_origen": 12711,
+      "numero": 44,
+      "titulo": "Medabots - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e18b6f179b6a5a068a01655542f9b6de.jpg",
+      "url_origen": "https://jkanime.net/medabots/44/",
+      "publicado_en_origen": "2011-10-14 10:36:20"
+    },
+    {
+      "id_origen": 12712,
+      "numero": 45,
+      "titulo": "Medabots - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ca90593821a015f234e9a8195ae5582.jpg",
+      "url_origen": "https://jkanime.net/medabots/45/",
+      "publicado_en_origen": "2011-10-14 10:36:20"
+    },
+    {
+      "id_origen": 12713,
+      "numero": 46,
+      "titulo": "Medabots - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4530de238502b5aee3ad8eec65a4a70f.jpg",
+      "url_origen": "https://jkanime.net/medabots/46/",
+      "publicado_en_origen": "2011-10-14 10:36:20"
+    },
+    {
+      "id_origen": 12714,
+      "numero": 47,
+      "titulo": "Medabots - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e69fd6d1c5d1cef75ffbe159c1f322e.jpg",
+      "url_origen": "https://jkanime.net/medabots/47/",
+      "publicado_en_origen": "2011-10-14 10:36:20"
+    },
+    {
+      "id_origen": 12715,
+      "numero": 48,
+      "titulo": "Medabots - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47ba327b57be22b98eee0e5dc3e14711.jpg",
+      "url_origen": "https://jkanime.net/medabots/48/",
+      "publicado_en_origen": "2011-10-14 10:36:20"
+    },
+    {
+      "id_origen": 12716,
+      "numero": 49,
+      "titulo": "Medabots - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ad19a1cd666b3b65b6e46ad4ccc42f5.jpg",
+      "url_origen": "https://jkanime.net/medabots/49/",
+      "publicado_en_origen": "2011-10-14 10:36:20"
+    },
+    {
+      "id_origen": 12717,
+      "numero": 50,
+      "titulo": "Medabots - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_646e058fac455de8d1e52c4c49baac06.jpg",
+      "url_origen": "https://jkanime.net/medabots/50/",
+      "publicado_en_origen": "2011-10-14 10:36:20"
+    },
+    {
+      "id_origen": 12718,
+      "numero": 51,
+      "titulo": "Medabots - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f350848b6612b5249daaa73cec0189b.jpg",
+      "url_origen": "https://jkanime.net/medabots/51/",
+      "publicado_en_origen": "2011-10-14 10:36:20"
+    },
+    {
+      "id_origen": 12719,
+      "numero": 52,
+      "titulo": "Medabots - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5736586058c1336221a695e83618b69d.jpg",
+      "url_origen": "https://jkanime.net/medabots/52/",
+      "publicado_en_origen": "2011-10-14 10:36:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "436",
+  "cantidad_episodios_declarada": 52,
+  "detalle_extraido_en": "2026-08-26T18:38:14+00:00"
+}

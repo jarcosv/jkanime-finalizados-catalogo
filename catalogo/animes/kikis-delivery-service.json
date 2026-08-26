@@ -1,0 +1,29 @@
+{
+  "id_origen": 507,
+  "slug": "kikis-delivery-service",
+  "titulo": "Kiki's Delivery Service",
+  "titulo_corto": "Kiki's Delivery Service",
+  "sinopsis": "Conocida también como Kiki: entregas a domicilio y Nicky, la aprendiz de bruja es una película que cuenta las peripecias de una pequeña bruja de 13 años llamada Nicky (Kiki en la versión original). En esta obra Hayao Miyazaki muestra el comienzo del camino a la edad adulta del personaje, con la responsabilidad que ello conlleva.  Por tradición de las brujas al cumplir los 13 años deben abandonar la casa de los padres y buscar una ciudad donde sus servicios sean requeridos, y quedarse allí durante algún tiempo. De esta manera, Kiki comenzará el camino que la llevará a convertirse definitivamente en bruja. Este viaje lo realiza junto a su amigo Jiji, un gato negro que se encargará de la mayoría de los gags, y montada en su escoba voladora. Su viaje iniciático la llevará a instalarse en una ciudad marítima donde comenzará a conocer el mundo y a conocerse a sí misma.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kikis-delivery-service.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kikis-delivery-service/",
+  "episodios": [
+    {
+      "id_origen": 14567,
+      "numero": 1,
+      "titulo": "Kiki's Delivery Service",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1589515970487c94597dab5c1be44085.jpg",
+      "url_origen": "https://jkanime.net/kikis-delivery-service/1/",
+      "publicado_en_origen": "2012-01-19 13:32:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "507",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:34:32+00:00"
+}

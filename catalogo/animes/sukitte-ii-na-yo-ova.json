@@ -1,0 +1,29 @@
+{
+  "id_origen": 934,
+  "slug": "sukitte-ii-na-yo-ova",
+  "titulo": "Sukitte Ii na yo. OVA",
+  "titulo_corto": "Sukitte Ii na yo. OVA",
+  "sinopsis": "OVA,Incluida con el volumen # 11 del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sukitte-ii-na-yo-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sukitte-ii-na-yo-ova/",
+  "episodios": [
+    {
+      "id_origen": 21324,
+      "numero": 1,
+      "titulo": "Sukitte Ii na yo. OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4537a9e98e90f416dadaedd65c416843.jpg",
+      "url_origen": "https://jkanime.net/sukitte-ii-na-yo-ova/1/",
+      "publicado_en_origen": "2013-08-20 13:59:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "934",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:48:02+00:00"
+}

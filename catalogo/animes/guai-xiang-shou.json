@@ -1,0 +1,85 @@
+{
+  "id_origen": 3833,
+  "slug": "guai-xiang-shou",
+  "titulo": "Guai Xiang Shou",
+  "titulo_corto": "Guai Xiang Shou",
+  "sinopsis": "Yueran, una joven universitaria, es llevada inesperadamente al mundo de fantasía del estado de Dongji por un gato y se queda temporalmente en la tienda dirigida por el gato Yaya, Weird Idea Shop. ¿Qué tipo de efectos extraños completamente diferentes desencadenará un humano?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/guai-xiang-shou.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/guai-xiang-shou/",
+  "episodios": [
+    {
+      "id_origen": 58346,
+      "numero": 1,
+      "titulo": "Guai Xiang Shou - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20b73b8014fac51d13d494e6f4ea2a90.jpg",
+      "url_origen": "https://jkanime.net/guai-xiang-shou/1/",
+      "publicado_en_origen": "2024-08-15 15:15:41"
+    },
+    {
+      "id_origen": 58347,
+      "numero": 2,
+      "titulo": "Guai Xiang Shou - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf5d46f3add1c359f8ebc851e2e9beca.jpg",
+      "url_origen": "https://jkanime.net/guai-xiang-shou/2/",
+      "publicado_en_origen": "2024-08-15 15:15:44"
+    },
+    {
+      "id_origen": 58348,
+      "numero": 3,
+      "titulo": "Guai Xiang Shou - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_494b1c2855f37ad4350dc9a363e58fb9.jpg",
+      "url_origen": "https://jkanime.net/guai-xiang-shou/3/",
+      "publicado_en_origen": "2024-08-15 15:15:46"
+    },
+    {
+      "id_origen": 58486,
+      "numero": 4,
+      "titulo": "Guai Xiang Shou - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_495e69cba3c841d48164edb436457067.jpg",
+      "url_origen": "https://jkanime.net/guai-xiang-shou/4/",
+      "publicado_en_origen": "2024-08-25 20:49:06"
+    },
+    {
+      "id_origen": 58681,
+      "numero": 5,
+      "titulo": "Guai Xiang Shou - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c811b14b21fdecb90a409f0b09863f0.jpg",
+      "url_origen": "https://jkanime.net/guai-xiang-shou/5/",
+      "publicado_en_origen": "2024-09-05 17:04:51"
+    },
+    {
+      "id_origen": 58682,
+      "numero": 6,
+      "titulo": "Guai Xiang Shou - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_889534363edae444eecf7047020c340e.jpg",
+      "url_origen": "https://jkanime.net/guai-xiang-shou/6/",
+      "publicado_en_origen": "2024-09-05 17:04:54"
+    },
+    {
+      "id_origen": 60029,
+      "numero": 7,
+      "titulo": "Guai Xiang Shou - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e51667199ccac41b6c1e2316808f334.jpg",
+      "url_origen": "https://jkanime.net/guai-xiang-shou/7/",
+      "publicado_en_origen": "2024-09-22 21:31:39"
+    },
+    {
+      "id_origen": 60057,
+      "numero": 8,
+      "titulo": "Guai Xiang Shou - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bd4df8f386facee4d06732caff2db5f.jpg",
+      "url_origen": "https://jkanime.net/guai-xiang-shou/8/",
+      "publicado_en_origen": "2024-09-27 10:15:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3833",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:29:09+00:00"
+}

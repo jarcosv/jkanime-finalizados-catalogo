@@ -1,0 +1,29 @@
+{
+  "id_origen": 2325,
+  "slug": "kimi-no-suizou-wo-tabetai",
+  "titulo": "Kimi no Suizou wo Tabetai",
+  "titulo_corto": "Kimi no Suizou wo Tabetai",
+  "sinopsis": "La primavera en abril y el último de los cerezos en flor todavía están en flor. El usualmente distante ratón de biblioteca sin interés en otros encuentra un libro en la sala de espera de un hospital. En la portada están escritas a mano las palabras: \"Vivir con la muerte\". Pronto descubre que es un diario mantenido por su muy popular y genuinamente alegre compañera de clase, Sakura Yamauchi, quien le revela que está sufriendo secretamente una enfermedad pancreática y que solo le queda un tiempo limitado. Es en este momento que gana solo una persona más para compartir su secreto.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimi-no-suizou-wo-tabetai.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimi-no-suizou-wo-tabetai/",
+  "episodios": [
+    {
+      "id_origen": 38572,
+      "numero": 1,
+      "titulo": "Kimi no Suizou wo Tabetai - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9d83f1c395e67e3945f46b2e550b185.jpg",
+      "url_origen": "https://jkanime.net/kimi-no-suizou-wo-tabetai/1/",
+      "publicado_en_origen": "2018-12-24 21:17:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2325",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:34:44+00:00"
+}

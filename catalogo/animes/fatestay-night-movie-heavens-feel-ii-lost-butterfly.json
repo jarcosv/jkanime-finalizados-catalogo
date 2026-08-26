@@ -1,0 +1,29 @@
+{
+  "id_origen": 2493,
+  "slug": "fatestay-night-movie-heavens-feel-ii-lost-butterfly",
+  "titulo": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+  "titulo_corto": "Fate/stay night Movie: Heaven'...",
+  "sinopsis": "La segunda de tres peliculas adaptando la tercera ruta de Fate / stay night.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fatestay-night-movie-heavens-feel-ii-lost-butterfly.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fatestay-night-movie-heavens-feel-ii-lost-butterfly/",
+  "episodios": [
+    {
+      "id_origen": 40835,
+      "numero": 1,
+      "titulo": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4760fdb6f393e3adad5f7eda06a80e5.jpg",
+      "url_origen": "https://jkanime.net/fatestay-night-movie-heavens-feel-ii-lost-butterfly/1/",
+      "publicado_en_origen": "2019-08-28 23:12:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2493",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:57+00:00"
+}

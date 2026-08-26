@@ -1,0 +1,45 @@
+{
+  "id_origen": 3929,
+  "slug": "yuru-camp-season-3-specials",
+  "titulo": "Yuru Camp Season 3 Specials",
+  "titulo_corto": "Yuru Camp Season 3 Specials",
+  "sinopsis": "Especiales de yuru camp season 3",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yuru-camp-season-3-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yuru-camp-season-3-specials/",
+  "episodios": [
+    {
+      "id_origen": 60383,
+      "numero": 1,
+      "titulo": "Yuru Camp Season 3 Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c58364682c31e0e2f4a5fa5e1762a43.jpg",
+      "url_origen": "https://jkanime.net/yuru-camp-season-3-specials/1/",
+      "publicado_en_origen": "2024-10-25 14:45:42"
+    },
+    {
+      "id_origen": 60384,
+      "numero": 2,
+      "titulo": "Yuru Camp Season 3 Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f891e733e668b6f88c0bd45945a2da7.jpg",
+      "url_origen": "https://jkanime.net/yuru-camp-season-3-specials/2/",
+      "publicado_en_origen": "2024-10-25 14:45:49"
+    },
+    {
+      "id_origen": 60385,
+      "numero": 3,
+      "titulo": "Yuru Camp Season 3 Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7cefb6765b4a94745b48746bbae91cf2.jpg",
+      "url_origen": "https://jkanime.net/yuru-camp-season-3-specials/3/",
+      "publicado_en_origen": "2024-10-25 14:45:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3929",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:53:32+00:00"
+}

@@ -1,0 +1,213 @@
+{
+  "id_origen": 665,
+  "slug": "sakurasou-no-pet-na-kanojo",
+  "titulo": "Sakurasou no Pet na Kanojo",
+  "titulo_corto": "Sakurasou no Pet na Kanojo",
+  "sinopsis": "La comedia romántica de instituto gira en torno a un estudiante de secundario llamado Sorata Kanda, el cual vive en el Sakurasou, el dormitorio para chicos problemáticos del instituto. Un día, Mashiro Shiina, una bella chica que además es una brillante artista, se muda a vivir a dicho dormitorio.\n\nSorata decide que debe proteger a la aparentemente frágil Mashiro de la gentuza del Sakurasou, y resulta que no se equivoca: Mashiro no tiene ni idea de cómo cuidar de sí misma.\n\nSe pierde cuando sale a la calle, no sabe doblarse la ropa y tiene la habitación hecho un desastre. Al final los muchachos del Sakurasou consideran a Sorata como el \"dueño\" de Mashiro, y habrán de vivir en el dormitorio bajo la idea de que todos les vean como \"dueño y mascota\".",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sakurasou-no-pet-na-kanojo.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/",
+  "episodios": [
+    {
+      "id_origen": 17676,
+      "numero": 1,
+      "titulo": "Sakurasou no Pet na Kanojo - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8ae6106b51fa41d5f17865c0d958263.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/1/",
+      "publicado_en_origen": "2012-10-09 09:11:22"
+    },
+    {
+      "id_origen": 17817,
+      "numero": 2,
+      "titulo": "Sakurasou no Pet na Kanojo - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9754f4e85b915d1ecb9de2911d9d80cb.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/2/",
+      "publicado_en_origen": "2012-10-16 11:29:56"
+    },
+    {
+      "id_origen": 18067,
+      "numero": 3,
+      "titulo": "Sakurasou no Pet na Kanojo - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95a56499dd2770f5b9093770d7085266.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/3/",
+      "publicado_en_origen": "2012-10-23 11:38:08"
+    },
+    {
+      "id_origen": 18154,
+      "numero": 4,
+      "titulo": "Sakurasou no Pet na Kanojo - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3481ae553dc4bb6b970b151fbc0ec59.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/4/",
+      "publicado_en_origen": "2012-10-30 09:41:03"
+    },
+    {
+      "id_origen": 18276,
+      "numero": 5,
+      "titulo": "Sakurasou no Pet na Kanojo - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98b1e16f65a1500023372d2b362c0991.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/5/",
+      "publicado_en_origen": "2012-11-06 12:41:08"
+    },
+    {
+      "id_origen": 18427,
+      "numero": 6,
+      "titulo": "Sakurasou no Pet na Kanojo - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66980d8dbb15775ee061e7205c90fac8.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/6/",
+      "publicado_en_origen": "2012-11-13 02:26:42"
+    },
+    {
+      "id_origen": 18462,
+      "numero": 7,
+      "titulo": "Sakurasou no Pet na Kanojo - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9246ebba512de14e76283df2772bba5c.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/7/",
+      "publicado_en_origen": "2012-11-20 06:32:31"
+    },
+    {
+      "id_origen": 18533,
+      "numero": 8,
+      "titulo": "Sakurasou no Pet na Kanojo - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7b12758057611429c53e417bf920882.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/8/",
+      "publicado_en_origen": "2012-11-27 07:23:52"
+    },
+    {
+      "id_origen": 18565,
+      "numero": 9,
+      "titulo": "Sakurasou no Pet na Kanojo - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58d07ec4a553036d571ae5d22ca4f5ac.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/9/",
+      "publicado_en_origen": "2012-12-04 12:37:15"
+    },
+    {
+      "id_origen": 18599,
+      "numero": 10,
+      "titulo": "Sakurasou no Pet na Kanojo - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f841c9b91fcd2891b7ffbc612b80934.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/10/",
+      "publicado_en_origen": "2012-12-11 05:55:51"
+    },
+    {
+      "id_origen": 18748,
+      "numero": 11,
+      "titulo": "Sakurasou no Pet na Kanojo - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8e4befbb79fa488a203763d887edb18.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/11/",
+      "publicado_en_origen": "2012-12-18 10:55:37"
+    },
+    {
+      "id_origen": 18784,
+      "numero": 12,
+      "titulo": "Sakurasou no Pet na Kanojo - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1685c2797a550f38312f6037e1809c7e.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/12/",
+      "publicado_en_origen": "2012-12-25 01:08:02"
+    },
+    {
+      "id_origen": 18958,
+      "numero": 13,
+      "titulo": "Sakurasou no Pet na Kanojo - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3347efd591f95b516252b9a131a088ab.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/13/",
+      "publicado_en_origen": "2013-01-08 04:29:20"
+    },
+    {
+      "id_origen": 19032,
+      "numero": 14,
+      "titulo": "Sakurasou no Pet na Kanojo - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d52a77a7e1cfe7d483b6539171b03e64.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/14/",
+      "publicado_en_origen": "2013-01-15 10:06:29"
+    },
+    {
+      "id_origen": 19129,
+      "numero": 15,
+      "titulo": "Sakurasou no Pet na Kanojo - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de3b44f4e0e248b9d56ece385a6c1950.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/15/",
+      "publicado_en_origen": "2013-01-22 01:09:48"
+    },
+    {
+      "id_origen": 19181,
+      "numero": 16,
+      "titulo": "Sakurasou no Pet na Kanojo - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0450daea7115f20818e8c1fcf5787e7.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/16/",
+      "publicado_en_origen": "2013-01-29 01:06:19"
+    },
+    {
+      "id_origen": 19253,
+      "numero": 17,
+      "titulo": "Sakurasou no Pet na Kanojo - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a730579ebe031843c2cda200a47bb67.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/17/",
+      "publicado_en_origen": "2013-02-05 01:05:31"
+    },
+    {
+      "id_origen": 19302,
+      "numero": 18,
+      "titulo": "Sakurasou no Pet na Kanojo - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_476d47ccb574f051730e1718cdbafd93.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/18/",
+      "publicado_en_origen": "2013-02-12 01:07:49"
+    },
+    {
+      "id_origen": 19376,
+      "numero": 19,
+      "titulo": "Sakurasou no Pet na Kanojo - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b219f3b7e193f60d4373862942e52c1.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/19/",
+      "publicado_en_origen": "2013-02-19 01:03:19"
+    },
+    {
+      "id_origen": 19425,
+      "numero": 20,
+      "titulo": "Sakurasou no Pet na Kanojo - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a484acecdafdcfb78cee4ffa615eb258.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/20/",
+      "publicado_en_origen": "2013-02-26 01:46:16"
+    },
+    {
+      "id_origen": 19473,
+      "numero": 21,
+      "titulo": "Sakurasou no Pet na Kanojo - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_878afc3a94e8d373d2d8b7d3fcaba9b9.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/21/",
+      "publicado_en_origen": "2013-03-05 01:41:39"
+    },
+    {
+      "id_origen": 19597,
+      "numero": 22,
+      "titulo": "Sakurasou no Pet na Kanojo - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c730b10822a93522acc2c6918150f60.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/22/",
+      "publicado_en_origen": "2013-03-11 23:09:12"
+    },
+    {
+      "id_origen": 19666,
+      "numero": 23,
+      "titulo": "Sakurasou no Pet na Kanojo - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d40f027dc7db2e6860f88994ac7a265.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/23/",
+      "publicado_en_origen": "2013-03-18 23:02:54"
+    },
+    {
+      "id_origen": 19959,
+      "numero": 24,
+      "titulo": "Sakurasou no Pet na Kanojo - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_762dd577d6ff90976d1269075d4ebae5.jpg",
+      "url_origen": "https://jkanime.net/sakurasou-no-pet-na-kanojo/24/",
+      "publicado_en_origen": "2013-03-25 20:52:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "665",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:44:54+00:00"
+}

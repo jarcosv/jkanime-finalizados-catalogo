@@ -1,0 +1,45 @@
+{
+  "id_origen": 1345,
+  "slug": "yozakura-quartet-hoshi-no-umi",
+  "titulo": "Yozakura Quartet: Hoshi no Umi",
+  "titulo_corto": "Yozakura Quartet: Hoshi no Umi",
+  "sinopsis": "La historia transcurre en la ciudad Sakurashin, una ciudad en la que viven tanto Humanos como Youkai de forma pacífica, pero hay alguien llamado Enjin que quiere acabar con este sistema, nuestros protagonistas estarán dispuestos a no permitir esto y luchar contra Enjin.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yozakura-quartet-hoshi-no-umi.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yozakura-quartet-hoshi-no-umi/",
+  "episodios": [
+    {
+      "id_origen": 25489,
+      "numero": 1,
+      "titulo": "Yozakura Quartet: Hoshi no Umi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_063b7d7ae9cd5ea74e1f879c52a91917.jpg",
+      "url_origen": "https://jkanime.net/yozakura-quartet-hoshi-no-umi/1/",
+      "publicado_en_origen": "2014-11-17 20:55:01"
+    },
+    {
+      "id_origen": 25490,
+      "numero": 2,
+      "titulo": "Yozakura Quartet: Hoshi no Umi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7908b8997139cf07cc59428fc2a89703.jpg",
+      "url_origen": "https://jkanime.net/yozakura-quartet-hoshi-no-umi/2/",
+      "publicado_en_origen": "2014-11-17 20:55:01"
+    },
+    {
+      "id_origen": 25491,
+      "numero": 3,
+      "titulo": "Yozakura Quartet: Hoshi no Umi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec049f278b41470dd0e9ecc9369fc327.jpg",
+      "url_origen": "https://jkanime.net/yozakura-quartet-hoshi-no-umi/3/",
+      "publicado_en_origen": "2014-11-17 20:55:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:15+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1345",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:53:14+00:00"
+}

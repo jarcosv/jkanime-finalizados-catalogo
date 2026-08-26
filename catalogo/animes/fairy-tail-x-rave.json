@@ -1,0 +1,29 @@
+{
+  "id_origen": 935,
+  "slug": "fairy-tail-x-rave",
+  "titulo": "Fairy Tail x Rave",
+  "titulo_corto": "Fairy Tail x Rave",
+  "sinopsis": "Crossover de las series Rave y FT del afamado mangaka Hiro Mashima. Lucy y Elie buscaran a los respectivos protagonistas a los cuales han perdido de vista.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fairy-tail-x-rave.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fairy-tail-x-rave/",
+  "episodios": [
+    {
+      "id_origen": 21348,
+      "numero": 1,
+      "titulo": "Fairy Tail x Rave",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_974665989159e4a9ef2595104007e8f7.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-x-rave/1/",
+      "publicado_en_origen": "2013-08-24 17:22:16"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "935",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:37+00:00"
+}

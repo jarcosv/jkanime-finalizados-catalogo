@@ -1,0 +1,37 @@
+{
+  "id_origen": 1629,
+  "slug": "yuru-yuri-nachuyachumi-plus",
+  "titulo": "Yuru Yuri Nachuyachumi! Plus",
+  "titulo_corto": "Yuru Yuri Nachuyachumi! Plus",
+  "sinopsis": "Episodios extra de Yuru Yuri Nachuyachumi!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yuru-yuri-nachuyachumi-plus.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yuru-yuri-nachuyachumi-plus/",
+  "episodios": [
+    {
+      "id_origen": 29066,
+      "numero": 1,
+      "titulo": "Yuru Yuri Nachuyachumi! Plus - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1452a9dac23cad0697d2d9b76470e234.jpg",
+      "url_origen": "https://jkanime.net/yuru-yuri-nachuyachumi-plus/1/",
+      "publicado_en_origen": "2015-08-21 13:20:26"
+    },
+    {
+      "id_origen": 29620,
+      "numero": 2,
+      "titulo": "Yuru Yuri Nachuyachumi! Plus - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54e634f071ec5bc3571636aa671d7ca2.jpg",
+      "url_origen": "https://jkanime.net/yuru-yuri-nachuyachumi-plus/2/",
+      "publicado_en_origen": "2015-09-21 00:25:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1629",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:53:35+00:00"
+}

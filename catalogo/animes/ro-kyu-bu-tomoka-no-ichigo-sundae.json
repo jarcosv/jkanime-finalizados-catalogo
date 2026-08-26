@@ -1,0 +1,29 @@
+{
+  "id_origen": 861,
+  "slug": "ro-kyu-bu-tomoka-no-ichigo-sundae",
+  "titulo": "Ro-Kyu-Bu!: Tomoka no Ichigo Sundae",
+  "titulo_corto": "Ro-Kyu-Bu!: Tomoka no Ichigo S...",
+  "sinopsis": "Ro-Kyu-Bu! OVA incluida con el juego de PlayStation de Ro-Kyu-Bu!: Himitsu no Otoshimono.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ro-kyu-bu-tomoka-no-ichigo-sundae.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ro-kyu-bu-tomoka-no-ichigo-sundae/",
+  "episodios": [
+    {
+      "id_origen": 20789,
+      "numero": 1,
+      "titulo": "Ro-Kyu-Bu!: Tomoka no Ichigo Sundae",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7396330c6ba8953e267957e1b1fdc7fe.jpg",
+      "url_origen": "https://jkanime.net/ro-kyu-bu-tomoka-no-ichigo-sundae/1/",
+      "publicado_en_origen": "2013-06-26 17:37:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "861",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:43:55+00:00"
+}

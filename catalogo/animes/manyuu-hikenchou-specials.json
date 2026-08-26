@@ -1,0 +1,85 @@
+{
+  "id_origen": 3048,
+  "slug": "manyuu-hikenchou-specials",
+  "titulo": "Manyuu Hikenchou Specials",
+  "titulo_corto": "Manyuu Hikenchou Specials",
+  "sinopsis": "Anime extra corto de los DVD y Blu-rays.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/manyuu-hikenchou-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/manyuu-hikenchou-specials/",
+  "episodios": [
+    {
+      "id_origen": 48156,
+      "numero": 1,
+      "titulo": "Manyuu Hikenchou Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdd41e8e7e609526df11a959b953cc0d.jpg",
+      "url_origen": "https://jkanime.net/manyuu-hikenchou-specials/1/",
+      "publicado_en_origen": "2022-02-01 20:26:57"
+    },
+    {
+      "id_origen": 48157,
+      "numero": 2,
+      "titulo": "Manyuu Hikenchou Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_029a28219b3580d8496e73f1f16fc60c.jpg",
+      "url_origen": "https://jkanime.net/manyuu-hikenchou-specials/2/",
+      "publicado_en_origen": "2022-02-01 20:26:57"
+    },
+    {
+      "id_origen": 48158,
+      "numero": 3,
+      "titulo": "Manyuu Hikenchou Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ebc3880df06d23438edb5fe2c2cab50.jpg",
+      "url_origen": "https://jkanime.net/manyuu-hikenchou-specials/3/",
+      "publicado_en_origen": "2022-02-01 20:26:57"
+    },
+    {
+      "id_origen": 48159,
+      "numero": 4,
+      "titulo": "Manyuu Hikenchou Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fb81e85cec23c84c28f94cc331ba0bb.jpg",
+      "url_origen": "https://jkanime.net/manyuu-hikenchou-specials/4/",
+      "publicado_en_origen": "2022-02-01 20:26:57"
+    },
+    {
+      "id_origen": 48160,
+      "numero": 5,
+      "titulo": "Manyuu Hikenchou Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0df5f890a1147ef1d1852fc6527e9c61.jpg",
+      "url_origen": "https://jkanime.net/manyuu-hikenchou-specials/5/",
+      "publicado_en_origen": "2022-02-01 20:26:57"
+    },
+    {
+      "id_origen": 48161,
+      "numero": 6,
+      "titulo": "Manyuu Hikenchou Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4ed3f6aa2baaced0d790bbd9d7ead15.jpg",
+      "url_origen": "https://jkanime.net/manyuu-hikenchou-specials/6/",
+      "publicado_en_origen": "2022-02-01 20:26:57"
+    },
+    {
+      "id_origen": 48162,
+      "numero": 7,
+      "titulo": "Manyuu Hikenchou Specials - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb6bb1278f020833319dd6e557ca4d88.jpg",
+      "url_origen": "https://jkanime.net/manyuu-hikenchou-specials/7/",
+      "publicado_en_origen": "2022-02-01 20:26:57"
+    },
+    {
+      "id_origen": 48163,
+      "numero": 8,
+      "titulo": "Manyuu Hikenchou Specials - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c16c4407a60fbdfc8930637b47cd2a1a.jpg",
+      "url_origen": "https://jkanime.net/manyuu-hikenchou-specials/8/",
+      "publicado_en_origen": "2022-02-01 20:26:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:11+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3048",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:37:51+00:00"
+}

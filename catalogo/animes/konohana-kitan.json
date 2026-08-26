@@ -1,0 +1,117 @@
+{
+  "id_origen": 2125,
+  "slug": "konohana-kitan",
+  "titulo": "Konohana Kitan",
+  "titulo_corto": "Konohana Kitan",
+  "sinopsis": "Kokohana-tei es un hotel con baños termales situado en una ciudad de descanso entre nuestro mundo y el otro al que van de visita muchas personas. La historia nos muestra la vida de seis espíritus zorro que toman forma humana para trabajar en el hotel.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/konohana-kitan.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/konohana-kitan/",
+  "episodios": [
+    {
+      "id_origen": 35750,
+      "numero": 1,
+      "titulo": "Konohana Kitan - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62e2d6c7039cae71d31bfb49b2226b6a.jpg",
+      "url_origen": "https://jkanime.net/konohana-kitan/1/",
+      "publicado_en_origen": "2017-10-04 11:45:16"
+    },
+    {
+      "id_origen": 35808,
+      "numero": 2,
+      "titulo": "Konohana Kitan - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ace6a07fd1fe1b74ec890247ca3db43.jpg",
+      "url_origen": "https://jkanime.net/konohana-kitan/2/",
+      "publicado_en_origen": "2017-10-11 13:17:43"
+    },
+    {
+      "id_origen": 35859,
+      "numero": 3,
+      "titulo": "Konohana Kitan - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ea5d3c15c91293b398bc81c9c1d42c4.jpg",
+      "url_origen": "https://jkanime.net/konohana-kitan/3/",
+      "publicado_en_origen": "2017-10-18 10:52:37"
+    },
+    {
+      "id_origen": 35911,
+      "numero": 4,
+      "titulo": "Konohana Kitan - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fc019d475d2d5220014dd496524b7d0.jpg",
+      "url_origen": "https://jkanime.net/konohana-kitan/4/",
+      "publicado_en_origen": "2017-10-25 14:51:09"
+    },
+    {
+      "id_origen": 35961,
+      "numero": 5,
+      "titulo": "Konohana Kitan - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f175f6ae224a0d1250a379cd5936448.jpg",
+      "url_origen": "https://jkanime.net/konohana-kitan/5/",
+      "publicado_en_origen": "2017-11-01 15:32:30"
+    },
+    {
+      "id_origen": 36013,
+      "numero": 6,
+      "titulo": "Konohana Kitan - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4041a3f32807041762d6eb27e93031f1.jpg",
+      "url_origen": "https://jkanime.net/konohana-kitan/6/",
+      "publicado_en_origen": "2017-11-08 11:59:04"
+    },
+    {
+      "id_origen": 36064,
+      "numero": 7,
+      "titulo": "Konohana Kitan - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d746dc8f27fa915c65b235c63aedf89.jpg",
+      "url_origen": "https://jkanime.net/konohana-kitan/7/",
+      "publicado_en_origen": "2017-11-15 12:46:22"
+    },
+    {
+      "id_origen": 36110,
+      "numero": 8,
+      "titulo": "Konohana Kitan - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82df15728970ad490703dc812123423b.jpg",
+      "url_origen": "https://jkanime.net/konohana-kitan/8/",
+      "publicado_en_origen": "2017-11-22 11:51:46"
+    },
+    {
+      "id_origen": 36164,
+      "numero": 9,
+      "titulo": "Konohana Kitan - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_703dffbd9a455e472c078ae59ad47528.jpg",
+      "url_origen": "https://jkanime.net/konohana-kitan/9/",
+      "publicado_en_origen": "2017-11-29 14:12:44"
+    },
+    {
+      "id_origen": 36205,
+      "numero": 10,
+      "titulo": "Konohana Kitan - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8311e0d34fa4d88ed1bdc62b32f716bd.jpg",
+      "url_origen": "https://jkanime.net/konohana-kitan/10/",
+      "publicado_en_origen": "2017-12-06 12:59:06"
+    },
+    {
+      "id_origen": 36240,
+      "numero": 11,
+      "titulo": "Konohana Kitan - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8c0c749da5056804a5bfcfe44b778e4.jpg",
+      "url_origen": "https://jkanime.net/konohana-kitan/11/",
+      "publicado_en_origen": "2017-12-13 13:43:49"
+    },
+    {
+      "id_origen": 36288,
+      "numero": 12,
+      "titulo": "Konohana Kitan - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f29f71107b98a4283e9c5af8170ecef6.jpg",
+      "url_origen": "https://jkanime.net/konohana-kitan/12/",
+      "publicado_en_origen": "2017-12-20 15:00:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:22+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2125",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:35:35+00:00"
+}

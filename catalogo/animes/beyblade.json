@@ -1,0 +1,429 @@
+{
+  "id_origen": 698,
+  "slug": "beyblade",
+  "titulo": "Bakuten Shoot Beyblade",
+  "titulo_corto": "Bakuten Shoot Beyblade",
+  "sinopsis": "Beyblade es un anime y manga que trata sobre un grupo de adolescentes que combaten con un beyblade (trompo). Pero que muchos de estos  contienen Bestias Bit, o espíritus legendarios que los ayudan a ganar en los combates, basado en los juguetes hechos por hasbro.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/beyblade.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/beyblade/",
+  "episodios": [
+    {
+      "id_origen": 17998,
+      "numero": 1,
+      "titulo": "Bakuten Shoot Beyblade - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_260e47ef04cdd6f9d4989f12facd3a91.jpg",
+      "url_origen": "https://jkanime.net/beyblade/1/",
+      "publicado_en_origen": "2012-10-21 17:34:39"
+    },
+    {
+      "id_origen": 17999,
+      "numero": 2,
+      "titulo": "Bakuten Shoot Beyblade - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9f65207f2bb46c3dc1e5828a08541b2.jpg",
+      "url_origen": "https://jkanime.net/beyblade/2/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18000,
+      "numero": 3,
+      "titulo": "Bakuten Shoot Beyblade - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c92b26f68689c7af56b0b08721897732.jpg",
+      "url_origen": "https://jkanime.net/beyblade/3/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18001,
+      "numero": 4,
+      "titulo": "Bakuten Shoot Beyblade - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6cbab356d49502660d99ed767604a327.jpg",
+      "url_origen": "https://jkanime.net/beyblade/4/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18002,
+      "numero": 5,
+      "titulo": "Bakuten Shoot Beyblade - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49b8ba8f9e5b7b260a306c25393a4181.jpg",
+      "url_origen": "https://jkanime.net/beyblade/5/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18003,
+      "numero": 6,
+      "titulo": "Bakuten Shoot Beyblade - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6563f4cdc1f2ef1ad710ad6772ea022b.jpg",
+      "url_origen": "https://jkanime.net/beyblade/6/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18004,
+      "numero": 7,
+      "titulo": "Bakuten Shoot Beyblade - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e14f2c0c9152f1c78681652ff1189f2b.jpg",
+      "url_origen": "https://jkanime.net/beyblade/7/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18005,
+      "numero": 8,
+      "titulo": "Bakuten Shoot Beyblade - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1194292054da355d3be4c0d3b69b9d9f.jpg",
+      "url_origen": "https://jkanime.net/beyblade/8/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18006,
+      "numero": 9,
+      "titulo": "Bakuten Shoot Beyblade - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2a0be057e5dde0a3d390d4b78189580.jpg",
+      "url_origen": "https://jkanime.net/beyblade/9/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18007,
+      "numero": 10,
+      "titulo": "Bakuten Shoot Beyblade - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2aaab100e39e5fd93ff0bbb01d4f212.jpg",
+      "url_origen": "https://jkanime.net/beyblade/10/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18008,
+      "numero": 11,
+      "titulo": "Bakuten Shoot Beyblade - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4218470a524ef1991202bb63abee5d72.jpg",
+      "url_origen": "https://jkanime.net/beyblade/11/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18009,
+      "numero": 12,
+      "titulo": "Bakuten Shoot Beyblade - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e25f50c93d321b7fdff05757de426238.jpg",
+      "url_origen": "https://jkanime.net/beyblade/12/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18010,
+      "numero": 13,
+      "titulo": "Bakuten Shoot Beyblade - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d89da36533ed04cba9b134a3a77dd7d.jpg",
+      "url_origen": "https://jkanime.net/beyblade/13/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18011,
+      "numero": 14,
+      "titulo": "Bakuten Shoot Beyblade - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45ebd93b65d907b7f84545b9aed9af8f.jpg",
+      "url_origen": "https://jkanime.net/beyblade/14/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18012,
+      "numero": 15,
+      "titulo": "Bakuten Shoot Beyblade - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae2308e6a29b8ed8d6cac3410fcf3191.jpg",
+      "url_origen": "https://jkanime.net/beyblade/15/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18013,
+      "numero": 16,
+      "titulo": "Bakuten Shoot Beyblade - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87da4431e0eed76ea31c948f8310ca79.jpg",
+      "url_origen": "https://jkanime.net/beyblade/16/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18014,
+      "numero": 17,
+      "titulo": "Bakuten Shoot Beyblade - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c23374db8294de6d286140eee01eb5f.jpg",
+      "url_origen": "https://jkanime.net/beyblade/17/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18015,
+      "numero": 18,
+      "titulo": "Bakuten Shoot Beyblade - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96bcb45a6e30b2b3381934344b10a7ce.jpg",
+      "url_origen": "https://jkanime.net/beyblade/18/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18016,
+      "numero": 19,
+      "titulo": "Bakuten Shoot Beyblade - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ab58ac7f8dbc97557145ef30f1a486a.jpg",
+      "url_origen": "https://jkanime.net/beyblade/19/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18017,
+      "numero": 20,
+      "titulo": "Bakuten Shoot Beyblade - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a561e7ebcac8441387d4fe143fdef87f.jpg",
+      "url_origen": "https://jkanime.net/beyblade/20/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18018,
+      "numero": 21,
+      "titulo": "Bakuten Shoot Beyblade - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abe91e465b7716462b975aa2c7f2b221.jpg",
+      "url_origen": "https://jkanime.net/beyblade/21/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18019,
+      "numero": 22,
+      "titulo": "Bakuten Shoot Beyblade - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2be1f64cae97e3767efd3c0bef7b0779.jpg",
+      "url_origen": "https://jkanime.net/beyblade/22/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18020,
+      "numero": 23,
+      "titulo": "Bakuten Shoot Beyblade - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75f3a8fbbb2af06371e02ea8bce5aa65.jpg",
+      "url_origen": "https://jkanime.net/beyblade/23/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18021,
+      "numero": 24,
+      "titulo": "Bakuten Shoot Beyblade - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9677548ee4ee2f157590053c5c5f56c4.jpg",
+      "url_origen": "https://jkanime.net/beyblade/24/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18022,
+      "numero": 25,
+      "titulo": "Bakuten Shoot Beyblade - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aeb1a5f7eb1d81499e7d93dd105d9430.jpg",
+      "url_origen": "https://jkanime.net/beyblade/25/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18023,
+      "numero": 26,
+      "titulo": "Bakuten Shoot Beyblade - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67850e1842b9a87088817efe86d05e1d.jpg",
+      "url_origen": "https://jkanime.net/beyblade/26/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18024,
+      "numero": 27,
+      "titulo": "Bakuten Shoot Beyblade - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44cfe8d9745f15f8c1534bf55714ad0a.jpg",
+      "url_origen": "https://jkanime.net/beyblade/27/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18025,
+      "numero": 28,
+      "titulo": "Bakuten Shoot Beyblade - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c2298145b05dcbb16dac39a625011c4.jpg",
+      "url_origen": "https://jkanime.net/beyblade/28/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18026,
+      "numero": 29,
+      "titulo": "Bakuten Shoot Beyblade - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8031e8f282c78983bc47cc24ce5d90d3.jpg",
+      "url_origen": "https://jkanime.net/beyblade/29/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18027,
+      "numero": 30,
+      "titulo": "Bakuten Shoot Beyblade - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_305a36410e0226dff92a16e99555ba5f.jpg",
+      "url_origen": "https://jkanime.net/beyblade/30/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18028,
+      "numero": 31,
+      "titulo": "Bakuten Shoot Beyblade - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_999adfe23d3bda876af50397a462f7d8.jpg",
+      "url_origen": "https://jkanime.net/beyblade/31/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18029,
+      "numero": 32,
+      "titulo": "Bakuten Shoot Beyblade - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18a7f966b0a5c8bc7da57ca7a7521c4f.jpg",
+      "url_origen": "https://jkanime.net/beyblade/32/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18030,
+      "numero": 33,
+      "titulo": "Bakuten Shoot Beyblade - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_231182acb75cdce3350df92d900c7f91.jpg",
+      "url_origen": "https://jkanime.net/beyblade/33/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18031,
+      "numero": 34,
+      "titulo": "Bakuten Shoot Beyblade - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a188f3460170e7c988fb9a27034f0f06.jpg",
+      "url_origen": "https://jkanime.net/beyblade/34/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18032,
+      "numero": 35,
+      "titulo": "Bakuten Shoot Beyblade - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84464b3e226fd6b271dd79e4216a5245.jpg",
+      "url_origen": "https://jkanime.net/beyblade/35/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18033,
+      "numero": 36,
+      "titulo": "Bakuten Shoot Beyblade - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80fe651f52abe7a9ea11a3cc79f5a170.jpg",
+      "url_origen": "https://jkanime.net/beyblade/36/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18034,
+      "numero": 37,
+      "titulo": "Bakuten Shoot Beyblade - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_061302bf5f62eaa1ff5b3ff03c19b13b.jpg",
+      "url_origen": "https://jkanime.net/beyblade/37/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18035,
+      "numero": 38,
+      "titulo": "Bakuten Shoot Beyblade - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ae61e77e832062a4e9ce4956b303937.jpg",
+      "url_origen": "https://jkanime.net/beyblade/38/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18036,
+      "numero": 39,
+      "titulo": "Bakuten Shoot Beyblade - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60cab8d25a3d32111c3290219c0b872b.jpg",
+      "url_origen": "https://jkanime.net/beyblade/39/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18037,
+      "numero": 40,
+      "titulo": "Bakuten Shoot Beyblade - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3af7f46272a016915551cac327041001.jpg",
+      "url_origen": "https://jkanime.net/beyblade/40/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18038,
+      "numero": 41,
+      "titulo": "Bakuten Shoot Beyblade - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c2f5f957d2d9711d2fa5d20cfd511e8.jpg",
+      "url_origen": "https://jkanime.net/beyblade/41/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18039,
+      "numero": 42,
+      "titulo": "Bakuten Shoot Beyblade - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62b4521aec8fe13ad75560a2b41b2f95.jpg",
+      "url_origen": "https://jkanime.net/beyblade/42/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18040,
+      "numero": 43,
+      "titulo": "Bakuten Shoot Beyblade - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_152c97a9bb6f2ababc2c73a46cfef7a3.jpg",
+      "url_origen": "https://jkanime.net/beyblade/43/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18041,
+      "numero": 44,
+      "titulo": "Bakuten Shoot Beyblade - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4396f61160d9bfa1ea9114dacd37247.jpg",
+      "url_origen": "https://jkanime.net/beyblade/44/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18042,
+      "numero": 45,
+      "titulo": "Bakuten Shoot Beyblade - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e132d103ce54fda527e88a13a3d1540.jpg",
+      "url_origen": "https://jkanime.net/beyblade/45/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18043,
+      "numero": 46,
+      "titulo": "Bakuten Shoot Beyblade - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_877d85181eb41f6b8db45bd2d29a97b4.jpg",
+      "url_origen": "https://jkanime.net/beyblade/46/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18044,
+      "numero": 47,
+      "titulo": "Bakuten Shoot Beyblade - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ff5042bc9d37fc481ca2b15f46618d7.jpg",
+      "url_origen": "https://jkanime.net/beyblade/47/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18045,
+      "numero": 48,
+      "titulo": "Bakuten Shoot Beyblade - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b3bff7384cfaa945eaf210e4df4692f.jpg",
+      "url_origen": "https://jkanime.net/beyblade/48/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18046,
+      "numero": 49,
+      "titulo": "Bakuten Shoot Beyblade - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fea1a6421a72296a12cd7898b93858e.jpg",
+      "url_origen": "https://jkanime.net/beyblade/49/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18047,
+      "numero": 50,
+      "titulo": "Bakuten Shoot Beyblade - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c7a625d5077d3baab054e3c91323a77.jpg",
+      "url_origen": "https://jkanime.net/beyblade/50/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    },
+    {
+      "id_origen": 18048,
+      "numero": 51,
+      "titulo": "Bakuten Shoot Beyblade - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a42fb391ac55add6aac8811ffaea5f5.jpg",
+      "url_origen": "https://jkanime.net/beyblade/51/",
+      "publicado_en_origen": "2012-10-21 17:34:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "698",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:18:57+00:00"
+}

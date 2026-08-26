@@ -1,0 +1,53 @@
+{
+  "id_origen": 3090,
+  "slug": "strike-the-blood-final",
+  "titulo": "Strike the Blood Final",
+  "titulo_corto": "Strike the Blood Final",
+  "sinopsis": "Quinta temporada de Strike the Blood .",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/strike-the-blood-final.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/strike-the-blood-final/",
+  "episodios": [
+    {
+      "id_origen": 48843,
+      "numero": 1,
+      "titulo": "Strike the Blood Final - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f48379ea32cff607c810d55e03611bf2.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-final/1/",
+      "publicado_en_origen": "2022-04-07 00:56:40"
+    },
+    {
+      "id_origen": 48869,
+      "numero": 2,
+      "titulo": "Strike the Blood Final - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4298f09989a95e881dd3c59e8e9adbe1.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-final/2/",
+      "publicado_en_origen": "2022-04-09 00:54:47"
+    },
+    {
+      "id_origen": 50081,
+      "numero": 3,
+      "titulo": "Strike the Blood Final - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9a883400fe6babcb0f6c255f5675ef7.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-final/3/",
+      "publicado_en_origen": "2022-08-08 12:21:55"
+    },
+    {
+      "id_origen": 50400,
+      "numero": 4,
+      "titulo": "Strike the Blood Final - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_973b4ff3488ac5adbc75f03ff8a96afc.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-final/4/",
+      "publicado_en_origen": "2022-08-31 17:52:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3090",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:47:51+00:00"
+}

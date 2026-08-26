@@ -1,0 +1,117 @@
+{
+  "id_origen": 608,
+  "slug": "oda-nobuna-no-yabou",
+  "titulo": "Oda Nobuna no Yabou",
+  "titulo_corto": "Oda Nobuna no Yabou",
+  "sinopsis": "La historia, una comedia romántica con tintes históricos, nos presenta a un chico de instituto de la era actual llamado Yoshiharu Sagara que acaba siendo transportado a la Era Sengoku, donde descubre que todos los grandes guerreros de la época son mujeres.  Oda Nobuna, una chica monísima que resulta ser un señor de la guerra, se encuentra con Yoshiaru y decide bautizarle como su “mono” para acogerle así bajo su cuidado y que este le ayude en sus planes de conquista.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/oda-nobuna-no-yabou.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/",
+  "episodios": [
+    {
+      "id_origen": 16265,
+      "numero": 1,
+      "titulo": "Oda Nobuna no Yabou - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae714b2895215ee6c844a04374bde7fb.jpg",
+      "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/1/",
+      "publicado_en_origen": "2012-07-10 00:03:08"
+    },
+    {
+      "id_origen": 16291,
+      "numero": 2,
+      "titulo": "Oda Nobuna no Yabou - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f5c0a62b7d3d568f84c2784fc989420.jpg",
+      "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/2/",
+      "publicado_en_origen": "2012-07-17 11:04:11"
+    },
+    {
+      "id_origen": 16414,
+      "numero": 3,
+      "titulo": "Oda Nobuna no Yabou - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6c46d6ccf72dec942de7195f6ab6294.jpg",
+      "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/3/",
+      "publicado_en_origen": "2012-07-22 18:15:46"
+    },
+    {
+      "id_origen": 16488,
+      "numero": 4,
+      "titulo": "Oda Nobuna no Yabou - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d9cde927e0380b0d44ee9dbf5b13d0d.jpg",
+      "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/4/",
+      "publicado_en_origen": "2012-07-29 13:49:44"
+    },
+    {
+      "id_origen": 16524,
+      "numero": 5,
+      "titulo": "Oda Nobuna no Yabou - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_151f5aa4ed74383868fc2640b53f51ad.jpg",
+      "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/5/",
+      "publicado_en_origen": "2012-08-05 12:24:17"
+    },
+    {
+      "id_origen": 16550,
+      "numero": 6,
+      "titulo": "Oda Nobuna no Yabou - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_043c2a4b43e04178cc4d160094980b01.jpg",
+      "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/6/",
+      "publicado_en_origen": "2012-08-12 13:09:39"
+    },
+    {
+      "id_origen": 16578,
+      "numero": 7,
+      "titulo": "Oda Nobuna no Yabou - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c38ecb0aeee229a1d80bccce69afcaf.jpg",
+      "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/7/",
+      "publicado_en_origen": "2012-08-19 12:43:47"
+    },
+    {
+      "id_origen": 16747,
+      "numero": 8,
+      "titulo": "Oda Nobuna no Yabou - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f440bd64078a15691c260eedf190347a.jpg",
+      "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/8/",
+      "publicado_en_origen": "2012-08-26 12:31:14"
+    },
+    {
+      "id_origen": 16973,
+      "numero": 9,
+      "titulo": "Oda Nobuna no Yabou - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88115bc763427b1dcfa06190a8eb1341.jpg",
+      "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/9/",
+      "publicado_en_origen": "2012-09-02 13:32:36"
+    },
+    {
+      "id_origen": 17084,
+      "numero": 10,
+      "titulo": "Oda Nobuna no Yabou - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cadffd77e30ae4576bdeb904445458a.jpg",
+      "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/10/",
+      "publicado_en_origen": "2012-09-09 12:45:35"
+    },
+    {
+      "id_origen": 17232,
+      "numero": 11,
+      "titulo": "Oda Nobuna no Yabou - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42daeb06e6c27e536d07f9acddb8d1f9.jpg",
+      "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/11/",
+      "publicado_en_origen": "2012-09-16 12:24:14"
+    },
+    {
+      "id_origen": 17271,
+      "numero": 12,
+      "titulo": "Oda Nobuna no Yabou - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5cd8270fa6b6f7b7e7ee19ab22b8024a.jpg",
+      "url_origen": "https://jkanime.net/oda-nobuna-no-yabou/12/",
+      "publicado_en_origen": "2012-09-23 12:25:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "608",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:40:56+00:00"
+}

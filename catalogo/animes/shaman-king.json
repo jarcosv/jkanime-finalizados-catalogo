@@ -1,0 +1,533 @@
+{
+  "id_origen": 71,
+  "slug": "shaman-king",
+  "titulo": "Shaman King",
+  "titulo_corto": "Shaman King",
+  "sinopsis": "Una noche de vuelta a casa, Manta Oyamada decide pasar por el cementerio para acortar camino. Es allí donde conoce a Yoh Asakura, un chico de su edad que se presenta como un Shaman, el nexo entre este mundo y el otro. Manta, tras descubrir que puede ver a los espíritus de los muertos, se va corriendo y gritando. Sin embargo, al otro día, llega un chico nuevo a su clase que resulta ser el mismísimo Yoh. A partir de ahi, la historia se desarrolla sobre el Torneo de Shamanes que se hace cada 500 años para elegir al Shaman King.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shaman-king.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shaman-king/",
+  "episodios": [
+    {
+      "id_origen": 1427,
+      "numero": 1,
+      "titulo": "Shaman King 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_970af30e481057c48f87e101b61e6994.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/1/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1428,
+      "numero": 2,
+      "titulo": "Shaman King 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0663a4ddceacb40b095eda264a85f15c.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/2/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1429,
+      "numero": 3,
+      "titulo": "Shaman King 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56352739f59643540a3a6e16985f62c7.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/3/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1430,
+      "numero": 4,
+      "titulo": "Shaman King 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_411ae1bf081d1674ca6091f8c59a266f.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/4/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1431,
+      "numero": 5,
+      "titulo": "Shaman King 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e11943a6031a0e6114ae69c257617980.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/5/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1432,
+      "numero": 6,
+      "titulo": "Shaman King 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56468d5607a5aaf1604ff5e15593b003.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/6/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1433,
+      "numero": 7,
+      "titulo": "Shaman King 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b069b3415151fa7217e870017374de7c.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/7/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1434,
+      "numero": 8,
+      "titulo": "Shaman King 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7895fc13088ee37f511913bac71fa66f.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/8/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1435,
+      "numero": 9,
+      "titulo": "Shaman King 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f3202d820180a39f736f20fce790de8.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/9/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1436,
+      "numero": 10,
+      "titulo": "Shaman King 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eaa32c96f620053cf442ad32258076b9.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/10/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1437,
+      "numero": 11,
+      "titulo": "Shaman King 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8f8f60264024dca151f164729b76c0b.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/11/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1438,
+      "numero": 12,
+      "titulo": "Shaman King 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db6ebd0566994d14a1767f14eb6fba81.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/12/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1439,
+      "numero": 13,
+      "titulo": "Shaman King 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_540ae6b0f6ac6e155062f3dd4f0b2b01.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/13/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1440,
+      "numero": 14,
+      "titulo": "Shaman King 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4a331b7a22d1b237565d8813a34d8ac.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/14/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1441,
+      "numero": 15,
+      "titulo": "Shaman King 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b197ffdef2ddc3308584dce7afa3661b.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/15/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1442,
+      "numero": 16,
+      "titulo": "Shaman King 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f69e505b08403ad2298b9f262659929a.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/16/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1443,
+      "numero": 17,
+      "titulo": "Shaman King 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fb5f8be2aa9d6c64a04e3ab9f63feee.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/17/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1444,
+      "numero": 18,
+      "titulo": "Shaman King 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afe434653a898da20044041262b3ac74.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/18/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1445,
+      "numero": 19,
+      "titulo": "Shaman King 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b265ce60fe4c5384e622b09eb829b8df.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/19/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1446,
+      "numero": 20,
+      "titulo": "Shaman King 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fb21ee7a2207526da55a679f0332de2.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/20/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1447,
+      "numero": 21,
+      "titulo": "Shaman King 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c930eecd01935feef55942cc445f708f.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/21/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1448,
+      "numero": 22,
+      "titulo": "Shaman King 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e94f63f579e05cb49c05c2d050ead9c0.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/22/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1449,
+      "numero": 23,
+      "titulo": "Shaman King 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2dffbc474aa176b6dc957938c15d0c8b.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/23/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1450,
+      "numero": 24,
+      "titulo": "Shaman King 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5cc17e395d3049b03e0f1ccebb02b4d.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/24/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1451,
+      "numero": 25,
+      "titulo": "Shaman King 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80a8155eb153025ea1d513d0b2c4b675.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/25/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1452,
+      "numero": 26,
+      "titulo": "Shaman King 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6786f3c62fbf9021694f6e51cc07fe3c.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/26/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1453,
+      "numero": 27,
+      "titulo": "Shaman King 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_536a76f94cf7535158f66cfbd4b113b6.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/27/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1454,
+      "numero": 28,
+      "titulo": "Shaman King 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bbfdde8842a5c44a0323518eec97cbe.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/28/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1455,
+      "numero": 29,
+      "titulo": "Shaman King 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a1bf96b7165e962e90cb14648c9462d.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/29/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1456,
+      "numero": 30,
+      "titulo": "Shaman King 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e76bef6e019b2541ff53db39f407a98.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/30/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1457,
+      "numero": 31,
+      "titulo": "Shaman King 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01d8bae291b1e4724443375634ccfa0e.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/31/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1458,
+      "numero": 32,
+      "titulo": "Shaman King 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4dcae38ee11d3a6606cc6cd636a3628b.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/32/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1459,
+      "numero": 33,
+      "titulo": "Shaman King 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1abb1e1ea5f481b589da52303b091cbb.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/33/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1460,
+      "numero": 34,
+      "titulo": "Shaman King 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07042ac7d03d3b9911a00da43ce0079a.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/34/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1461,
+      "numero": 35,
+      "titulo": "Shaman King 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95151403b0db4f75bfd8da0b393af853.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/35/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1462,
+      "numero": 36,
+      "titulo": "Shaman King 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad71c82b22f4f65b9398f76d8be4c615.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/36/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1463,
+      "numero": 37,
+      "titulo": "Shaman King 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe70c36866add1572a8e2b96bfede7bf.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/37/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1464,
+      "numero": 38,
+      "titulo": "Shaman King 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c913303f392ffc643f7240b180602652.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/38/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1465,
+      "numero": 39,
+      "titulo": "Shaman King 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_372d3f309fef061977fb2f7ba36d74d2.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/39/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1466,
+      "numero": 40,
+      "titulo": "Shaman King 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d9cb7de5e8ac30bd5e8734bc96a35c1.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/40/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1467,
+      "numero": 41,
+      "titulo": "Shaman King 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0245952ecff55018e2a459517fdb40e3.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/41/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1468,
+      "numero": 42,
+      "titulo": "Shaman King 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cec6f62cfb44b1be110b7bf70c8362d8.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/42/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1469,
+      "numero": 43,
+      "titulo": "Shaman King 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_991de292e76f74f3c285b3f6d57958d5.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/43/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1470,
+      "numero": 44,
+      "titulo": "Shaman King 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42ffcf057e133f94c1b7b5cf543ef3bd.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/44/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1471,
+      "numero": 45,
+      "titulo": "Shaman King 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b0d268963dd0cfb808aac48a549829f.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/45/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1472,
+      "numero": 46,
+      "titulo": "Shaman King 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_daa96d9681a21445772454cbddf0cac1.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/46/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1473,
+      "numero": 47,
+      "titulo": "Shaman King 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac796a52db3f16bbdb6557d3d89d1c5a.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/47/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1474,
+      "numero": 48,
+      "titulo": "Shaman King 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d6044e95a16761171b130dcb476a43e.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/48/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1475,
+      "numero": 49,
+      "titulo": "Shaman King 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_571d3a9420bfd9219f65b643d0003bf4.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/49/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1476,
+      "numero": 50,
+      "titulo": "Shaman King 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97275a23ca44226c9964043c8462be96.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/50/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1477,
+      "numero": 51,
+      "titulo": "Shaman King 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78b9cab19959e4af8ff46156ee460c74.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/51/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1478,
+      "numero": 52,
+      "titulo": "Shaman King 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83cdcec08fbf90370fcf53bdd56604ff.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/52/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1479,
+      "numero": 53,
+      "titulo": "Shaman King 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc09c97fd73d7a324bdbfe7c79525f64.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/53/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1480,
+      "numero": 54,
+      "titulo": "Shaman King 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e816c635cad85a60fabd6b97b03cbcc9.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/54/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1481,
+      "numero": 55,
+      "titulo": "Shaman King 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e8412ad48562e3c9934f45c3e144d48.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/55/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1482,
+      "numero": 56,
+      "titulo": "Shaman King 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab541d874c7bc19ab77642849e02b89f.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/56/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1483,
+      "numero": 57,
+      "titulo": "Shaman King 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bffc98347ee35b3ead06728d6f073c68.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/57/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1484,
+      "numero": 58,
+      "titulo": "Shaman King 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_729c68884bd359ade15d5f163166738a.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/58/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1485,
+      "numero": 59,
+      "titulo": "Shaman King 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fb8ceb3bd59c7956b1df66729296a4c.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/59/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1486,
+      "numero": 60,
+      "titulo": "Shaman King 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86df7dcfd896fcaf2674f757a2463eba.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/60/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1487,
+      "numero": 61,
+      "titulo": "Shaman King 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d3a1e06d6a06349436bc054313b648c.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/61/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1488,
+      "numero": 62,
+      "titulo": "Shaman King 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a146f1a3da4700cbf03cdc55e2daae6.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/62/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1489,
+      "numero": 63,
+      "titulo": "Shaman King 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1baff70e2669e8376347efd3a874a341.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/63/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1490,
+      "numero": 64,
+      "titulo": "Shaman King 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f187a23c3ee681ef6913f31fd6d6446b.jpg",
+      "url_origen": "https://jkanime.net/shaman-king/64/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "71",
+  "cantidad_episodios_declarada": 64,
+  "detalle_extraido_en": "2026-08-26T18:45:59+00:00"
+}

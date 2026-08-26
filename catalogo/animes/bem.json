@@ -1,0 +1,117 @@
+{
+  "id_origen": 2484,
+  "slug": "bem",
+  "titulo": "Bem",
+  "titulo_corto": "Bem",
+  "sinopsis": "Bem, Bela y Belo son feos humanoides youkai que luchan por la justicia. Viven entre los humanos y los protegen del mal youkai. Los tres se encuentran excluidos tanto de los humanos como de otros youkai, pero los tres continuan luchando con la esperanza de que algún dia se conviertan en humanos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bem.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bem/",
+  "episodios": [
+    {
+      "id_origen": 40498,
+      "numero": 1,
+      "titulo": "Bem - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92664de43e5721bc5c0cfd1c31f08f30.jpg",
+      "url_origen": "https://jkanime.net/bem/1/",
+      "publicado_en_origen": "2019-07-15 03:48:30"
+    },
+    {
+      "id_origen": 40537,
+      "numero": 2,
+      "titulo": "Bem - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8426a7e0990d49b465b05a6f508355b4.jpg",
+      "url_origen": "https://jkanime.net/bem/2/",
+      "publicado_en_origen": "2019-07-21 21:36:32"
+    },
+    {
+      "id_origen": 40587,
+      "numero": 3,
+      "titulo": "Bem - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c23287c6dd3acd5f4fae4175be75c7e.jpg",
+      "url_origen": "https://jkanime.net/bem/3/",
+      "publicado_en_origen": "2019-07-28 18:25:34"
+    },
+    {
+      "id_origen": 40805,
+      "numero": 4,
+      "titulo": "Bem - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9fcbba7da26095ce5010a39b8a36509.jpg",
+      "url_origen": "https://jkanime.net/bem/4/",
+      "publicado_en_origen": "2019-08-25 22:02:38"
+    },
+    {
+      "id_origen": 40806,
+      "numero": 5,
+      "titulo": "Bem - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0095d3cd2f747ab23126a366739afb5.jpg",
+      "url_origen": "https://jkanime.net/bem/5/",
+      "publicado_en_origen": "2019-08-25 22:02:47"
+    },
+    {
+      "id_origen": 40863,
+      "numero": 6,
+      "titulo": "Bem - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31482ea3105f2635db24a0077677930f.jpg",
+      "url_origen": "https://jkanime.net/bem/6/",
+      "publicado_en_origen": "2019-09-01 22:06:47"
+    },
+    {
+      "id_origen": 40912,
+      "numero": 7,
+      "titulo": "Bem - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_457ad4752923de991424e3d0f5a6abb6.jpg",
+      "url_origen": "https://jkanime.net/bem/7/",
+      "publicado_en_origen": "2019-09-08 17:11:05"
+    },
+    {
+      "id_origen": 41051,
+      "numero": 8,
+      "titulo": "Bem - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34fc31720ce1b1ab18191a852120231f.jpg",
+      "url_origen": "https://jkanime.net/bem/8/",
+      "publicado_en_origen": "2019-09-15 18:35:38"
+    },
+    {
+      "id_origen": 41097,
+      "numero": 9,
+      "titulo": "Bem - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6324452fb1e7b195a4e6490b60c278f4.jpg",
+      "url_origen": "https://jkanime.net/bem/9/",
+      "publicado_en_origen": "2019-09-22 23:42:30"
+    },
+    {
+      "id_origen": 41144,
+      "numero": 10,
+      "titulo": "Bem - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4dcfeaf97d0aec9f35e384d9c3624b39.jpg",
+      "url_origen": "https://jkanime.net/bem/10/",
+      "publicado_en_origen": "2019-10-01 13:44:23"
+    },
+    {
+      "id_origen": 41192,
+      "numero": 11,
+      "titulo": "Bem - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c6dfa6b68fce0253f547f8dc6646714.jpg",
+      "url_origen": "https://jkanime.net/bem/11/",
+      "publicado_en_origen": "2019-10-06 21:20:38"
+    },
+    {
+      "id_origen": 41250,
+      "numero": 12,
+      "titulo": "Bem - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_211521eb56443380d6a56187203ab1f2.jpg",
+      "url_origen": "https://jkanime.net/bem/12/",
+      "publicado_en_origen": "2019-10-14 03:43:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2484",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:19:30+00:00"
+}

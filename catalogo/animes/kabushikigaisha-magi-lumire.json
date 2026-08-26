@@ -1,0 +1,117 @@
+{
+  "id_origen": 3882,
+  "slug": "kabushikigaisha-magi-lumire",
+  "titulo": "Kabushikigaisha Magi-Lumière",
+  "titulo_corto": "Kabushikigaisha Magi-Lumière",
+  "sinopsis": "La historia se desarrolla en un mundo donde ser una chica mágica es una profesión popular que implica exterminar a misteriosas criaturas llamadas Kaii (怪異). La recién graduada universitaria Kana Sakuragi, que está luchando por encontrar trabajo, puede utilizar su excelente memoria y ayuda a la chica mágica Koshigaya a exterminar a un Kaii en caso de emergencia. Feliz de haber finalmente sido útil, Sakuragi termina convirtiéndose en la segunda chica mágica en Magilumiere, la nueva empresa de chicas mágicas en la que trabaja Koshigaya. Además del prodigio Koshigaya, Magilumiere está compuesta por su presidente Kouji Shigemoto, un hombre de mediana edad que se viste como una chica mágica, Kaede Midorikawa, que trata con los clientes, y el ingeniero mágico Kazuo Nikoyama.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kabushikigaisha-magi-lumire.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/",
+  "episodios": [
+    {
+      "id_origen": 60136,
+      "numero": 1,
+      "titulo": "Kabushikigaisha Magi-Lumière - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b61768c37c2c8321e65f6fcf8a92b1e6.jpg",
+      "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/1/",
+      "publicado_en_origen": "2024-10-04 12:49:13"
+    },
+    {
+      "id_origen": 60220,
+      "numero": 2,
+      "titulo": "Kabushikigaisha Magi-Lumière - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac653c1e1520cd749c10ab9ee0843af9.jpg",
+      "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/2/",
+      "publicado_en_origen": "2024-10-11 12:17:23"
+    },
+    {
+      "id_origen": 60291,
+      "numero": 3,
+      "titulo": "Kabushikigaisha Magi-Lumière - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67bd910a6efbac29d109dee9929191d0.jpg",
+      "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/3/",
+      "publicado_en_origen": "2024-10-18 13:39:36"
+    },
+    {
+      "id_origen": 60378,
+      "numero": 4,
+      "titulo": "Kabushikigaisha Magi-Lumière - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa9ad8c3accae696004b50a0a0ca7f79.jpg",
+      "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/4/",
+      "publicado_en_origen": "2024-10-25 14:26:11"
+    },
+    {
+      "id_origen": 60482,
+      "numero": 5,
+      "titulo": "Kabushikigaisha Magi-Lumière - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e48b71b4efa6050f19c1da37d19c6df.jpg",
+      "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/5/",
+      "publicado_en_origen": "2024-11-01 16:45:49"
+    },
+    {
+      "id_origen": 60571,
+      "numero": 6,
+      "titulo": "Kabushikigaisha Magi-Lumière - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_552c96dad916b40c80ba29ce8bebba80.jpg",
+      "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/6/",
+      "publicado_en_origen": "2024-11-08 13:09:42"
+    },
+    {
+      "id_origen": 60664,
+      "numero": 7,
+      "titulo": "Kabushikigaisha Magi-Lumière - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ae4763475cd7d6e26060152fde292aa.jpg",
+      "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/7/",
+      "publicado_en_origen": "2024-11-15 13:42:40"
+    },
+    {
+      "id_origen": 60743,
+      "numero": 8,
+      "titulo": "Kabushikigaisha Magi-Lumière - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_831b40cf8398a81f2ac00b4a826d5437.jpg",
+      "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/8/",
+      "publicado_en_origen": "2024-11-22 12:45:30"
+    },
+    {
+      "id_origen": 60813,
+      "numero": 9,
+      "titulo": "Kabushikigaisha Magi-Lumière - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6469dbedfdc5af43662eedf8ccf7c84.jpg",
+      "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/9/",
+      "publicado_en_origen": "2024-11-29 12:00:18"
+    },
+    {
+      "id_origen": 60956,
+      "numero": 10,
+      "titulo": "Kabushikigaisha Magi-Lumière - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2bd0e77989ab5e8feafb15f2c5e6e15.jpg",
+      "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/10/",
+      "publicado_en_origen": "2024-12-06 11:50:40"
+    },
+    {
+      "id_origen": 61046,
+      "numero": 11,
+      "titulo": "Kabushikigaisha Magi-Lumière - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_226f65dfdfb3546efd6e757c57eca7fe.jpg",
+      "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/11/",
+      "publicado_en_origen": "2024-12-13 12:03:58"
+    },
+    {
+      "id_origen": 61140,
+      "numero": 12,
+      "titulo": "Kabushikigaisha Magi-Lumière - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf0ed6fca3c1871299db1f06daaf5742.jpg",
+      "url_origen": "https://jkanime.net/kabushikigaisha-magi-lumire/12/",
+      "publicado_en_origen": "2024-12-20 14:46:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3882",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:33:11+00:00"
+}

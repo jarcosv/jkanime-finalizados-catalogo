@@ -1,0 +1,69 @@
+{
+  "id_origen": 1383,
+  "slug": "grisaia-no-kajitsu-specials",
+  "titulo": "Grisaia no Kajitsu Specials",
+  "titulo_corto": "Grisaia no Kajitsu Specials",
+  "sinopsis": "Especiales de Grisaia no Kajitsu",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/grisaia-no-kajitsu-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/grisaia-no-kajitsu-specials/",
+  "episodios": [
+    {
+      "id_origen": 26013,
+      "numero": 1,
+      "titulo": "Grisaia no Kajitsu Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56a2285b5e69db7e2cf98fae11eb7603.jpg",
+      "url_origen": "https://jkanime.net/grisaia-no-kajitsu-specials/1/",
+      "publicado_en_origen": "2014-12-26 20:11:03"
+    },
+    {
+      "id_origen": 26564,
+      "numero": 2,
+      "titulo": "Grisaia no Kajitsu Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d690d0cd274a05efe2a0a58dac0d9461.jpg",
+      "url_origen": "https://jkanime.net/grisaia-no-kajitsu-specials/2/",
+      "publicado_en_origen": "2015-02-01 08:51:46"
+    },
+    {
+      "id_origen": 26892,
+      "numero": 3,
+      "titulo": "Grisaia no Kajitsu Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_daa845e72247bceebbf545aed4737521.jpg",
+      "url_origen": "https://jkanime.net/grisaia-no-kajitsu-specials/3/",
+      "publicado_en_origen": "2015-02-24 19:08:37"
+    },
+    {
+      "id_origen": 27217,
+      "numero": 4,
+      "titulo": "Grisaia no Kajitsu Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea2c6871f6c0a711fe98331e411daa42.jpg",
+      "url_origen": "https://jkanime.net/grisaia-no-kajitsu-specials/4/",
+      "publicado_en_origen": "2015-03-24 15:33:11"
+    },
+    {
+      "id_origen": 27551,
+      "numero": 5,
+      "titulo": "Grisaia no Kajitsu Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f1300af0bebc9d72b7f44b65eb275d9.jpg",
+      "url_origen": "https://jkanime.net/grisaia-no-kajitsu-specials/5/",
+      "publicado_en_origen": "2015-04-21 13:52:29"
+    },
+    {
+      "id_origen": 27871,
+      "numero": 6,
+      "titulo": "Grisaia no Kajitsu Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7cefdcbff0ddf29c3bbaeec362015c30.jpg",
+      "url_origen": "https://jkanime.net/grisaia-no-kajitsu-specials/6/",
+      "publicado_en_origen": "2015-05-27 13:02:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1383",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:29:05+00:00"
+}

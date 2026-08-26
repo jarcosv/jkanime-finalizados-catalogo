@@ -1,0 +1,29 @@
+{
+  "id_origen": 1721,
+  "slug": "boruto-naruto-the-movie",
+  "titulo": "Boruto: Naruto the Movie",
+  "titulo_corto": "Boruto: Naruto the Movie",
+  "sinopsis": "Boruto es el hijo del séptimo Hokage que rechaza completamente a su padre, esto aparentemente porque tiene el deseo de sobrepasar a Naruto, que es respetado como héroe. Él termina encontrándose con el amigo de su padre, Sasuke y le pide que le permita convertirse en su aprendiz.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/boruto-naruto-the-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/boruto-naruto-the-movie/",
+  "episodios": [
+    {
+      "id_origen": 30465,
+      "numero": 1,
+      "titulo": "Boruto: Naruto the Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ed4e13eaa076b56d45dc52578263d65.jpg",
+      "url_origen": "https://jkanime.net/boruto-naruto-the-movie/1/",
+      "publicado_en_origen": "2015-12-27 16:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1721",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:21:26+00:00"
+}

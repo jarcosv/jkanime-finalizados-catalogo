@@ -1,0 +1,37 @@
+{
+  "id_origen": 1446,
+  "slug": "hyakka-ryouran-samurai-after",
+  "titulo": "Hyakka Ryouran: Samurai After",
+  "titulo_corto": "Hyakka Ryouran: Samurai After",
+  "sinopsis": "OVA de Hyakka Ryouran con un nuevo personaje llamado Kagekatsu Uesugi.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hyakka-ryouran-samurai-after.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hyakka-ryouran-samurai-after/",
+  "episodios": [
+    {
+      "id_origen": 26764,
+      "numero": 1,
+      "titulo": "Hyakka Ryouran: Samurai After - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa40d567c94a14b2e9c126c1b043457d.jpg",
+      "url_origen": "https://jkanime.net/hyakka-ryouran-samurai-after/1/",
+      "publicado_en_origen": "2015-02-17 16:00:16"
+    },
+    {
+      "id_origen": 28637,
+      "numero": 2,
+      "titulo": "Hyakka Ryouran: Samurai After - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be4b74cc626578c5fbed9a26c481d8cb.jpg",
+      "url_origen": "https://jkanime.net/hyakka-ryouran-samurai-after/2/",
+      "publicado_en_origen": "2015-07-05 18:32:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1446",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:31:23+00:00"
+}

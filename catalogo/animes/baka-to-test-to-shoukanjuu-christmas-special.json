@@ -1,0 +1,29 @@
+{
+  "id_origen": 568,
+  "slug": "baka-to-test-to-shoukanjuu-christmas-special",
+  "titulo": "Baka to Test to Shoukanjuu: Christmas Special",
+  "titulo_corto": "Baka to Test to Shoukanjuu: Ch...",
+  "sinopsis": "El elenco de Baka to Test juntos nos dicen lo que la Navidad significa para ellos!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/baka-to-test-to-shoukanjuu-christmas-special.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/baka-to-test-to-shoukanjuu-christmas-special/",
+  "episodios": [
+    {
+      "id_origen": 15662,
+      "numero": 1,
+      "titulo": "Baka to Test to Shoukanjuu: Christmas Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8eafcde359d51e3e5386f19516e4ea65.jpg",
+      "url_origen": "https://jkanime.net/baka-to-test-to-shoukanjuu-christmas-special/1/",
+      "publicado_en_origen": "2012-05-29 04:22:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "568",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:18:38+00:00"
+}

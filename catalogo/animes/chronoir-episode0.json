@@ -1,0 +1,29 @@
+{
+  "id_origen": 4908,
+  "slug": "chronoir-episode0",
+  "titulo": "ChroNoiR Episode.0",
+  "titulo_corto": "ChroNoiR Episode.0",
+  "sinopsis": "El anime narra una historia que tuvo lugar hace 150 años en la ciudad de Planie. Una extraña enfermedad que convierte a los humanos en muertos vivientes se ha extendido por toda la región, lo que ha hecho que Planie pase a ser conocida como la ciudad maldita. El sacerdote Kanae vive en una iglesia a las afueras de la ciudad. Desde que llegó a la ciudad, el número de casos de la enfermedad ha disminuido. El destino de la ciudad da un giro cuando un hombre misterioso acompaña a Kanae.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/chronoir-episode0.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/chronoir-episode0/",
+  "episodios": [
+    {
+      "id_origen": 76387,
+      "numero": 1,
+      "titulo": "ChroNoiR Episode.0",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d92246de4b91616eb1d56b72025984c4.jpg",
+      "url_origen": "https://jkanime.net/chronoir-episode0/1/",
+      "publicado_en_origen": "2026-08-14 15:43:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4908",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:23:37+00:00"
+}

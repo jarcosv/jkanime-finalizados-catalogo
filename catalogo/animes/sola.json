@@ -1,0 +1,125 @@
+{
+  "id_origen": 264,
+  "slug": "sola",
+  "titulo": "sola",
+  "titulo_corto": "sola",
+  "sinopsis": "Yorito Morimiya es un aficionado fotógrafo del cielo. Todo comienza en un amanecer en el que Yorito se dispone a tomar una fotografiá del amanecer, de repente escucha a una chica, Matsuri, golpeando una máquina de sodas, por lo que le ayuda sin saber lo que le depara.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sola.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sola/",
+  "episodios": [
+    {
+      "id_origen": 7122,
+      "numero": 1,
+      "titulo": "Sola 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df334b223e699294764c2bb7ae40d8db.jpg",
+      "url_origen": "https://jkanime.net/sola/1/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7123,
+      "numero": 2,
+      "titulo": "Sola 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3a54649aeec04cf1c13907bc6c5c8aa.jpg",
+      "url_origen": "https://jkanime.net/sola/2/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7124,
+      "numero": 3,
+      "titulo": "Sola 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64986d86a17424eeac96b08a6d519059.jpg",
+      "url_origen": "https://jkanime.net/sola/3/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7125,
+      "numero": 4,
+      "titulo": "Sola 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80f7325fa857de62fafe85f7a30273cb.jpg",
+      "url_origen": "https://jkanime.net/sola/4/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7126,
+      "numero": 5,
+      "titulo": "Sola 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb93980bc94a17e36d6de5da28b99785.jpg",
+      "url_origen": "https://jkanime.net/sola/5/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7127,
+      "numero": 6,
+      "titulo": "Sola 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffa1e107c6469dafa0016703450e26ed.jpg",
+      "url_origen": "https://jkanime.net/sola/6/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7128,
+      "numero": 7,
+      "titulo": "Sola 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3019767b1b23f82883c9850356b71d6.jpg",
+      "url_origen": "https://jkanime.net/sola/7/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7129,
+      "numero": 8,
+      "titulo": "Sola 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bcc2bdb799f873f02080ae277f291da1.jpg",
+      "url_origen": "https://jkanime.net/sola/8/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7130,
+      "numero": 9,
+      "titulo": "Sola 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9afbe998374ca7326d35d84180786096.jpg",
+      "url_origen": "https://jkanime.net/sola/9/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7131,
+      "numero": 10,
+      "titulo": "Sola 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50e207ab6946b5d78b377ae0144b9e07.jpg",
+      "url_origen": "https://jkanime.net/sola/10/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7132,
+      "numero": 11,
+      "titulo": "Sola 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32b127307a606effdcc8e51f60a45922.jpg",
+      "url_origen": "https://jkanime.net/sola/11/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7133,
+      "numero": 12,
+      "titulo": "Sola 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_adf7e293599134777339fdc40ddfa818.jpg",
+      "url_origen": "https://jkanime.net/sola/12/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7134,
+      "numero": 13,
+      "titulo": "Sola 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4206e38996fae4028a26d43b24f68d32.jpg",
+      "url_origen": "https://jkanime.net/sola/13/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "264",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:47:16+00:00"
+}

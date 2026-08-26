@@ -1,0 +1,29 @@
+{
+  "id_origen": 2065,
+  "slug": "ao-no-exorcist-ova",
+  "titulo": "Ao no Exorcist OVA",
+  "titulo_corto": "Ao no Exorcist OVA",
+  "sinopsis": "Incluido con el volumen 19 del manga",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ao-no-exorcist-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ao-no-exorcist-ova/",
+  "episodios": [
+    {
+      "id_origen": 34598,
+      "numero": 1,
+      "titulo": "Ao no Exorcist OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45ec4f558dca1921c3f77b0a787b204f.jpg",
+      "url_origen": "https://jkanime.net/ao-no-exorcist-ova/1/",
+      "publicado_en_origen": "2017-04-20 20:58:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2065",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:16:58+00:00"
+}

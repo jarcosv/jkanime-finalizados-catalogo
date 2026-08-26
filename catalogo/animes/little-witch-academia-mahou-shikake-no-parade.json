@@ -1,0 +1,29 @@
+{
+  "id_origen": 1601,
+  "slug": "little-witch-academia-mahou-shikake-no-parade",
+  "titulo": "Little Witch Academia Movie",
+  "titulo_corto": "Little Witch Academia Movie",
+  "sinopsis": "Secuela película de Little Witch Academia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/little-witch-academia-mahou-shikake-no-parade.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/little-witch-academia-mahou-shikake-no-parade/",
+  "episodios": [
+    {
+      "id_origen": 28623,
+      "numero": 1,
+      "titulo": "Little Witch Academia Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_544d86a583c877780b83a3b31e226465.jpg",
+      "url_origen": "https://jkanime.net/little-witch-academia-mahou-shikake-no-parade/1/",
+      "publicado_en_origen": "2015-07-04 12:09:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1601",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:36:32+00:00"
+}

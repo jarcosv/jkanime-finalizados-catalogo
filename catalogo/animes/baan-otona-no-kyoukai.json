@@ -1,0 +1,29 @@
+{
+  "id_origen": 4551,
+  "slug": "baan-otona-no-kyoukai",
+  "titulo": "Baan Otona no Kyoukai",
+  "titulo_corto": "Baan Otona no Kyoukai",
+  "sinopsis": "La historia sigue a dos personas que dejan atrás sus lugares de origen en busca de una nueva vida, viajando a través de un misterioso portal que conecta Japón con el mundo de Euthania. Allí, en una tierra rica en naturaleza y hogar de razas mágicas inspiradas en la mitología del sudeste asiático, se embarcan en un viaje para encontrar un lugar al que realmente pertenecer.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/baan-otona-no-kyoukai.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/baan-otona-no-kyoukai/",
+  "episodios": [
+    {
+      "id_origen": 70261,
+      "numero": 1,
+      "titulo": "Baan Otona no Kyoukai",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f7d1a3fc04ff1f3f842f181537128da.jpg",
+      "url_origen": "https://jkanime.net/baan-otona-no-kyoukai/1/",
+      "publicado_en_origen": "2025-12-21 13:45:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4551",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:18:25+00:00"
+}

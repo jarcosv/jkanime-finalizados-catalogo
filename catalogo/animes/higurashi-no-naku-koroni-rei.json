@@ -1,0 +1,61 @@
+{
+  "id_origen": 283,
+  "slug": "higurashi-no-naku-koroni-rei",
+  "titulo": "Higurashi no Naku Koro ni Rei",
+  "titulo_corto": "Higurashi no Naku Koro ni Rei",
+  "sinopsis": "La historia se sitúa en Agosto de Showa 58 (dos meses tras lo sucedido en el Matsuribayashi-hen). Rika Furude es atropellada por un camión y despertará en una Hinamizawa irreconocible para ella, donde Satoshi no ha desaparecido, Keiichi nunca llega, los padres de Rena no se han divorciado y los padres de Rika no han sido asesinados... es decir, un kakera donde todos son felices, sin embargo, Hanyuu no aparece y el proyecto de la presa del Showa 54 se llevó a cabo sin incidentes y en unos pocos meses Hinamizawa será sumergida. En busca de Hanyuu, Rika entra en el templo de los Furude donde se encuentra una pequeña esfera a través de la cual se comunica con Hanyuu, y ésta la explica que se encuentra en un kakera al cual no puede acceder siendo la única manera para regresar al kakera anterior asesinar a su madre. Rika tendrá que elegir entre vivir en un kakera sin pecados al cual Hanyuu no puede acceder o matar a su madre y volver al mundo que tantos años la costó crear.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/higurashi-no-naku-koroni-rei.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/higurashi-no-naku-koroni-rei/",
+  "episodios": [
+    {
+      "id_origen": 8084,
+      "numero": 1,
+      "titulo": "Higurashi no Naku Koroni Rei 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f82a944b799eac194ea37a388daa8b19.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koroni-rei/1/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8085,
+      "numero": 2,
+      "titulo": "Higurashi no Naku Koroni Rei 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5011bf6d8a37692913fce3a15a51f070.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koroni-rei/2/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8086,
+      "numero": 3,
+      "titulo": "Higurashi no Naku Koroni Rei 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8722c8f495dcee23f39d5519735e1f71.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koroni-rei/3/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8087,
+      "numero": 4,
+      "titulo": "Higurashi no Naku Koroni Rei 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9af08cda54faea9adf40a201794183cf.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koroni-rei/4/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8088,
+      "numero": 5,
+      "titulo": "Higurashi no Naku Koroni Rei 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_172ef5a94b4dd0aa120c6878fc29f70c.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koroni-rei/5/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:22+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "283",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:30:39+00:00"
+}

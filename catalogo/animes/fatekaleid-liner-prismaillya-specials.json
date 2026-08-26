@@ -1,0 +1,61 @@
+{
+  "id_origen": 1033,
+  "slug": "fatekaleid-liner-prismaillya-specials",
+  "titulo": "Fate/kaleid liner Prisma☆Illya Specials",
+  "titulo_corto": "Fate/kaleid liner Prisma☆Illya...",
+  "sinopsis": "5 Especiales o Mini OVAS de corta duración incluidos en los volúmenes de los BD/DVD de la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fatekaleid-liner-prismaillya-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fatekaleid-liner-prismaillya-specials/",
+  "episodios": [
+    {
+      "id_origen": 22348,
+      "numero": 1,
+      "titulo": "Fate/kaleid liner Prisma☆Illya Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1454d28ea121df29e7684f5b7b0d9bd7.jpg",
+      "url_origen": "https://jkanime.net/fatekaleid-liner-prismaillya-specials/1/",
+      "publicado_en_origen": "2014-01-03 12:43:53"
+    },
+    {
+      "id_origen": 22351,
+      "numero": 2,
+      "titulo": "Fate/kaleid liner Prisma☆Illya Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03d8a1edcf4501ab378313b04c24afa2.jpg",
+      "url_origen": "https://jkanime.net/fatekaleid-liner-prismaillya-specials/2/",
+      "publicado_en_origen": "2014-01-04 00:53:35"
+    },
+    {
+      "id_origen": 22352,
+      "numero": 3,
+      "titulo": "Fate/kaleid liner Prisma☆Illya Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0926dc069ff7d2dec4f2554e17e6bdcb.jpg",
+      "url_origen": "https://jkanime.net/fatekaleid-liner-prismaillya-specials/3/",
+      "publicado_en_origen": "2014-01-04 01:24:51"
+    },
+    {
+      "id_origen": 22557,
+      "numero": 4,
+      "titulo": "Fate/kaleid liner Prisma☆Illya Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61dede89ddccbec715c89d7f409658d6.jpg",
+      "url_origen": "https://jkanime.net/fatekaleid-liner-prismaillya-specials/4/",
+      "publicado_en_origen": "2014-01-28 18:36:06"
+    },
+    {
+      "id_origen": 22695,
+      "numero": 5,
+      "titulo": "Fate/kaleid liner Prisma☆Illya Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c54ee454bbd5dc51a72ba78a58ba5bb0.jpg",
+      "url_origen": "https://jkanime.net/fatekaleid-liner-prismaillya-specials/5/",
+      "publicado_en_origen": "2014-02-13 01:41:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1033",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:26:55+00:00"
+}

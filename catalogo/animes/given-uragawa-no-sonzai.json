@@ -1,0 +1,29 @@
+{
+  "id_origen": 2996,
+  "slug": "given-uragawa-no-sonzai",
+  "titulo": "Given: Uragawa no Sonzai",
+  "titulo_corto": "Given: Uragawa no Sonzai",
+  "sinopsis": "El OVA, incluido en la versión de edición especial del séptimo volumen del manga, contará una historia del \"otro lado\" centrada en Mafuyu Satou y Ritsuka Uenoyama que no apareció en la película de Given.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/given-uragawa-no-sonzai.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/given-uragawa-no-sonzai/",
+  "episodios": [
+    {
+      "id_origen": 47790,
+      "numero": 1,
+      "titulo": "Given: Uragawa no Sonzai",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0cc2bf830e3179f40b611271a2befbd6.jpg",
+      "url_origen": "https://jkanime.net/given-uragawa-no-sonzai/1/",
+      "publicado_en_origen": "2021-12-19 21:26:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2996",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:28:40+00:00"
+}

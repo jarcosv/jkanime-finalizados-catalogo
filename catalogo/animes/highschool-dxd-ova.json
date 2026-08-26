@@ -1,0 +1,37 @@
+{
+  "id_origen": 637,
+  "slug": "highschool-dxd-ova",
+  "titulo": "Highschool DxD OVA",
+  "titulo_corto": "Highschool DxD OVA",
+  "sinopsis": "OVAs incluidas en el 13vo y 15vo. volumen de la novela ligera de High School DxD.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/highschool-dxd-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/highschool-dxd-ova/",
+  "episodios": [
+    {
+      "id_origen": 74529,
+      "numero": 1,
+      "titulo": "Highschool DxD OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf05dae023f3d0412e7df294a363dbf6.jpg",
+      "url_origen": "https://jkanime.net/highschool-dxd-ova/1/",
+      "publicado_en_origen": "2026-06-19 22:08:14"
+    },
+    {
+      "id_origen": 74530,
+      "numero": 2,
+      "titulo": "Highschool DxD OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32797947d1db3c0a7b6b9805c7e87f58.jpg",
+      "url_origen": "https://jkanime.net/highschool-dxd-ova/2/",
+      "publicado_en_origen": "2026-06-19 22:08:14"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "637",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:30:35+00:00"
+}

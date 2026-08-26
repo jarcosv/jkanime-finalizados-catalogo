@@ -1,0 +1,29 @@
+{
+  "id_origen": 415,
+  "slug": "onegai-twins-ova",
+  "titulo": "Onegai Twins OVA",
+  "titulo_corto": "Onegai Twins OVA",
+  "sinopsis": "En esta OVA se muestra a los tres adolescentes dos semanas despues de la finalizacion de la serie. Podremos ver a Maiku \"tratando\" de concentrarse en el trabajo, y a sus dos compañeras haciendo de las suyas como siempre",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/onegai-twins-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/onegai-twins-ova/",
+  "episodios": [
+    {
+      "id_origen": 11006,
+      "numero": 1,
+      "titulo": "El verano nunca acaba",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9239be5f9dc4058ec647f14fd04b1290.jpg",
+      "url_origen": "https://jkanime.net/onegai-twins-ova/1/",
+      "publicado_en_origen": "2011-07-19 17:46:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "415",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:17+00:00"
+}

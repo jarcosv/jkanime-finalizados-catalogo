@@ -1,0 +1,117 @@
+{
+  "id_origen": 2586,
+  "slug": "nekopara",
+  "titulo": "Nekopara",
+  "titulo_corto": "Nekopara",
+  "sinopsis": "Se llama nekopara y para quien?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nekopara.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nekopara/",
+  "episodios": [
+    {
+      "id_origen": 41884,
+      "numero": 1,
+      "titulo": "Nekopara - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b466c22d12d52c8a0d3792d2eb44b828.jpg",
+      "url_origen": "https://jkanime.net/nekopara/1/",
+      "publicado_en_origen": "2020-01-09 14:41:38"
+    },
+    {
+      "id_origen": 41944,
+      "numero": 2,
+      "titulo": "Nekopara - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17742c3d43166d898221d20c95db7b1f.jpg",
+      "url_origen": "https://jkanime.net/nekopara/2/",
+      "publicado_en_origen": "2020-01-16 22:55:29"
+    },
+    {
+      "id_origen": 42000,
+      "numero": 3,
+      "titulo": "Nekopara - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1d99ef14bb813e29718b9b4df53de52.jpg",
+      "url_origen": "https://jkanime.net/nekopara/3/",
+      "publicado_en_origen": "2020-01-23 16:30:55"
+    },
+    {
+      "id_origen": 42055,
+      "numero": 4,
+      "titulo": "Nekopara - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_506774f849b3f6f756077ca458da621a.jpg",
+      "url_origen": "https://jkanime.net/nekopara/4/",
+      "publicado_en_origen": "2020-01-30 17:24:57"
+    },
+    {
+      "id_origen": 42116,
+      "numero": 5,
+      "titulo": "Nekopara - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50053b4f369f1912cf45702f90dc2831.jpg",
+      "url_origen": "https://jkanime.net/nekopara/5/",
+      "publicado_en_origen": "2020-02-06 15:13:54"
+    },
+    {
+      "id_origen": 42170,
+      "numero": 6,
+      "titulo": "Nekopara - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77415b528feaea76b34180a6f6412e77.jpg",
+      "url_origen": "https://jkanime.net/nekopara/6/",
+      "publicado_en_origen": "2020-02-14 00:13:15"
+    },
+    {
+      "id_origen": 42217,
+      "numero": 7,
+      "titulo": "Nekopara - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ff7ca9cc8db185788a6054737e03afb.jpg",
+      "url_origen": "https://jkanime.net/nekopara/7/",
+      "publicado_en_origen": "2020-02-20 17:52:21"
+    },
+    {
+      "id_origen": 42268,
+      "numero": 8,
+      "titulo": "Nekopara - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b229154b44b3e48723ec020fb471975f.jpg",
+      "url_origen": "https://jkanime.net/nekopara/8/",
+      "publicado_en_origen": "2020-02-27 14:15:23"
+    },
+    {
+      "id_origen": 42326,
+      "numero": 9,
+      "titulo": "Nekopara - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb2f0fc72f358a3663182913cbcdb32f.jpg",
+      "url_origen": "https://jkanime.net/nekopara/9/",
+      "publicado_en_origen": "2020-03-05 17:36:07"
+    },
+    {
+      "id_origen": 42371,
+      "numero": 10,
+      "titulo": "Nekopara - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46b53cbb77177473117efc5a0c530865.jpg",
+      "url_origen": "https://jkanime.net/nekopara/10/",
+      "publicado_en_origen": "2020-03-12 14:43:28"
+    },
+    {
+      "id_origen": 42456,
+      "numero": 11,
+      "titulo": "Nekopara - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ac3a3cf4e64664b890ff21e58b38d57.jpg",
+      "url_origen": "https://jkanime.net/nekopara/11/",
+      "publicado_en_origen": "2020-03-19 15:18:03"
+    },
+    {
+      "id_origen": 42550,
+      "numero": 12,
+      "titulo": "Nekopara - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17190faf30976fe61afc32bf05d6dd15.jpg",
+      "url_origen": "https://jkanime.net/nekopara/12/",
+      "publicado_en_origen": "2020-03-26 16:27:46"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2586",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:40:11+00:00"
+}

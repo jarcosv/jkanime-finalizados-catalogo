@@ -1,0 +1,29 @@
+{
+  "id_origen": 4893,
+  "slug": "yeon-ui-pyeonji",
+  "titulo": "Yeon-ui Pyeonji",
+  "titulo_corto": "Yeon-ui Pyeonji",
+  "sinopsis": "Lee Sori, una chica educada y honrada, estudia en un instituto en el que el acoso escolar es una lacra. Indignada por las trágicas consecuencias que esto ha tenido para su amiga Kim Julie, decide plantar cara al acoso. Por desgracia, esto solo consigue que los acosadores cambien su objetivo y se centren ahora en Sori.\r\n\r\nConvencida de que un nuevo entorno la libraría de esa situación desesperada, Sori regresa a la ciudad en la que solía vivir y se cambia de colegio. Sin embargo, las experiencias traumáticas que acechan constantemente en su memoria la llevan a aislarse del resto.\r\n\r\nJusto cuando la cruda realidad de la situación de Sori empieza a calar en ella, descubre una misteriosa carta pegada con cinta adhesiva debajo de su pupitre. Aunque el contenido de la carta le intriga, solo la conduce a otra carta. Ahora, siguiendo un rastro de mensajes que parece no tener fin, Sori se embarca en una búsqueda del tesoro para descubrir el verdadero propósito de estas cartas y a la persona anónima que hay detrás de todo ello.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yeon-ui-pyeonji.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yeon-ui-pyeonji/",
+  "episodios": [
+    {
+      "id_origen": 75784,
+      "numero": 1,
+      "titulo": "Yeon-ui Pyeonji",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e79548ad7185ab78e3cde43db9801c1.jpg",
+      "url_origen": "https://jkanime.net/yeon-ui-pyeonji/1/",
+      "publicado_en_origen": "2026-08-01 05:41:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4893",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:52:45+00:00"
+}

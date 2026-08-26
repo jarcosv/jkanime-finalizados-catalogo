@@ -1,0 +1,221 @@
+{
+  "id_origen": 680,
+  "slug": "magi",
+  "titulo": "Magi",
+  "titulo_corto": "Magi",
+  "sinopsis": "Esta historia es sobre la corriente del destino y la lucha para mantener el mundo en el camino correcto. Aladin es un chico que ha estado explorando el mundo luego de haber estado encerrado en una habitación la mayor parte de su vida. Su mejor amigo es una flauta con un Djinn (Genio) llamado Ugo dentro de ella. En poco tiempo Aladin descubre que es un Magi (mago), y que ha nacido para escoger reyes que sigan un camino justo, y que luchen contra aquellos que quieren destruir el destino. Sigue sus aventuras y conoce a otros personajes de “Las Mil y Una Noches”, como Alibaba, Sinbad y sus luchas para mantener el equilibrio del mundo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/magi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/magi/",
+  "episodios": [
+    {
+      "id_origen": 17648,
+      "numero": 1,
+      "titulo": "Magi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fd93cfddc3568482b5eb057efe06f16.jpg",
+      "url_origen": "https://jkanime.net/magi/1/",
+      "publicado_en_origen": "2012-10-07 18:50:45"
+    },
+    {
+      "id_origen": 17814,
+      "numero": 2,
+      "titulo": "Magi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acdc2bed8fba6fc5fa5e433d4fca865c.jpg",
+      "url_origen": "https://jkanime.net/magi/2/",
+      "publicado_en_origen": "2012-10-14 22:32:06"
+    },
+    {
+      "id_origen": 18050,
+      "numero": 3,
+      "titulo": "Magi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e21ec944d904ced4ee44c4b9104e8e4.jpg",
+      "url_origen": "https://jkanime.net/magi/3/",
+      "publicado_en_origen": "2012-10-22 00:29:19"
+    },
+    {
+      "id_origen": 18126,
+      "numero": 4,
+      "titulo": "Magi - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb32c69f88aa347dcb335d47f0c075e7.jpg",
+      "url_origen": "https://jkanime.net/magi/4/",
+      "publicado_en_origen": "2012-10-28 22:50:46"
+    },
+    {
+      "id_origen": 18261,
+      "numero": 5,
+      "titulo": "Magi - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a33528e08076ac4a01b4946fc94ad77.jpg",
+      "url_origen": "https://jkanime.net/magi/5/",
+      "publicado_en_origen": "2012-11-04 21:43:15"
+    },
+    {
+      "id_origen": 18421,
+      "numero": 6,
+      "titulo": "Magi - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dda594513217fac90bbe56e5248d576c.jpg",
+      "url_origen": "https://jkanime.net/magi/6/",
+      "publicado_en_origen": "2012-11-11 18:14:16"
+    },
+    {
+      "id_origen": 18459,
+      "numero": 7,
+      "titulo": "Magi - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a91edecd508cd9e5b3049e1918f0c6eb.jpg",
+      "url_origen": "https://jkanime.net/magi/7/",
+      "publicado_en_origen": "2012-11-18 20:57:19"
+    },
+    {
+      "id_origen": 18527,
+      "numero": 8,
+      "titulo": "Magi - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13dec0385c17ef4b459548218fe37fa8.jpg",
+      "url_origen": "https://jkanime.net/magi/8/",
+      "publicado_en_origen": "2012-11-25 19:34:01"
+    },
+    {
+      "id_origen": 18561,
+      "numero": 9,
+      "titulo": "Magi - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e64e0bc2f9183683031ae010a0a12645.jpg",
+      "url_origen": "https://jkanime.net/magi/9/",
+      "publicado_en_origen": "2012-12-02 23:55:38"
+    },
+    {
+      "id_origen": 18596,
+      "numero": 10,
+      "titulo": "Magi - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_075a0fee1ce99f7dc3290a44d32089bf.jpg",
+      "url_origen": "https://jkanime.net/magi/10/",
+      "publicado_en_origen": "2012-12-09 22:02:02"
+    },
+    {
+      "id_origen": 18743,
+      "numero": 11,
+      "titulo": "Magi - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6e97acfea8d0d3b34ffd456ab9f665c.jpg",
+      "url_origen": "https://jkanime.net/magi/11/",
+      "publicado_en_origen": "2012-12-16 22:11:02"
+    },
+    {
+      "id_origen": 18781,
+      "numero": 12,
+      "titulo": "Magi - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e1c2f13d481c7ccc6673a3ac668799f.jpg",
+      "url_origen": "https://jkanime.net/magi/12/",
+      "publicado_en_origen": "2012-12-24 00:44:46"
+    },
+    {
+      "id_origen": 18953,
+      "numero": 13,
+      "titulo": "Magi - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc1cd298247f3f23db7249e6fc53f83c.jpg",
+      "url_origen": "https://jkanime.net/magi/13/",
+      "publicado_en_origen": "2013-01-06 21:34:13"
+    },
+    {
+      "id_origen": 19024,
+      "numero": 14,
+      "titulo": "Magi - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_685138c78cb1942acc9676a476c59909.jpg",
+      "url_origen": "https://jkanime.net/magi/14/",
+      "publicado_en_origen": "2013-01-14 03:03:44"
+    },
+    {
+      "id_origen": 19123,
+      "numero": 15,
+      "titulo": "Magi - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0519cba56fbfc7adac9c0a3d313b27d.jpg",
+      "url_origen": "https://jkanime.net/magi/15/",
+      "publicado_en_origen": "2013-01-21 11:30:56"
+    },
+    {
+      "id_origen": 19184,
+      "numero": 16,
+      "titulo": "Magi - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d068761b6d5f50870cb0ed6b7f690a56.jpg",
+      "url_origen": "https://jkanime.net/magi/16/",
+      "publicado_en_origen": "2013-01-29 10:21:08"
+    },
+    {
+      "id_origen": 19247,
+      "numero": 17,
+      "titulo": "Magi - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72e0c3840cba5439a1fc242c00f275ff.jpg",
+      "url_origen": "https://jkanime.net/magi/17/",
+      "publicado_en_origen": "2013-02-04 06:46:57"
+    },
+    {
+      "id_origen": 19296,
+      "numero": 18,
+      "titulo": "Magi - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcba6537741bf200fd2d7e965afd9770.jpg",
+      "url_origen": "https://jkanime.net/magi/18/",
+      "publicado_en_origen": "2013-02-11 02:44:04"
+    },
+    {
+      "id_origen": 19371,
+      "numero": 19,
+      "titulo": "Magi - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbd0ff34821a2eecbc2826e03a6809ed.jpg",
+      "url_origen": "https://jkanime.net/magi/19/",
+      "publicado_en_origen": "2013-02-18 07:20:24"
+    },
+    {
+      "id_origen": 19419,
+      "numero": 20,
+      "titulo": "Magi - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91c5307541a803c91d54d05f35a8a464.jpg",
+      "url_origen": "https://jkanime.net/magi/20/",
+      "publicado_en_origen": "2013-02-25 07:13:38"
+    },
+    {
+      "id_origen": 19468,
+      "numero": 21,
+      "titulo": "Magi - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa8f9467196c7f3093d9f020e53e0fe7.jpg",
+      "url_origen": "https://jkanime.net/magi/21/",
+      "publicado_en_origen": "2013-03-04 01:09:42"
+    },
+    {
+      "id_origen": 19603,
+      "numero": 22,
+      "titulo": "Magi - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_110a186a520a14d6ecab41ff9c083741.jpg",
+      "url_origen": "https://jkanime.net/magi/22/",
+      "publicado_en_origen": "2013-03-12 12:29:46"
+    },
+    {
+      "id_origen": 19659,
+      "numero": 23,
+      "titulo": "Magi - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea1c763b8e43c3e5e486e1b79c281e1e.jpg",
+      "url_origen": "https://jkanime.net/magi/23/",
+      "publicado_en_origen": "2013-03-18 04:23:19"
+    },
+    {
+      "id_origen": 19953,
+      "numero": 24,
+      "titulo": "Magi - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b2e864a22f3750ac5d751c90d9a9ef7.jpg",
+      "url_origen": "https://jkanime.net/magi/24/",
+      "publicado_en_origen": "2013-03-25 05:58:32"
+    },
+    {
+      "id_origen": 20011,
+      "numero": 25,
+      "titulo": "Magi - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac09bdc10c90d57bd2d9117485ce3fa7.jpg",
+      "url_origen": "https://jkanime.net/magi/25/",
+      "publicado_en_origen": "2013-04-01 04:25:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "680",
+  "cantidad_episodios_declarada": 25,
+  "detalle_extraido_en": "2026-08-26T18:37:09+00:00"
+}

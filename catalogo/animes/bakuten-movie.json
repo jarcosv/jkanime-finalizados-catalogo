@@ -1,0 +1,29 @@
+{
+  "id_origen": 3402,
+  "slug": "bakuten-movie",
+  "titulo": "Bakuten!! Movie",
+  "titulo_corto": "Bakuten!! Movie",
+  "sinopsis": "Pelicula de Bakuten",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bakuten-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bakuten-movie/",
+  "episodios": [
+    {
+      "id_origen": 52752,
+      "numero": 1,
+      "titulo": "Bakuten!! Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20ec2806d4e7898558a4973fb6d6fa8e.jpg",
+      "url_origen": "https://jkanime.net/bakuten-movie/1/",
+      "publicado_en_origen": "2023-05-13 11:37:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3402",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:19:01+00:00"
+}

@@ -1,0 +1,1109 @@
+{
+  "id_origen": 2559,
+  "slug": "pokemon-2019",
+  "titulo": "Pokemon (2019)",
+  "titulo_corto": "Pokemon (2019)",
+  "sinopsis": "Nueva temporada de Pokemon, titulada como la serie original de 1997.\nLa nueva serie contara con todas las regiones cubiertas en la franquicia hasta el momento, desde la region de Kanto hasta la region de Galar.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-2019.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pokemon-2019/",
+  "episodios": [
+    {
+      "id_origen": 41591,
+      "numero": 1,
+      "titulo": "Pokemon (2019) - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96a100bf82b8d428c843c65d1d4134b7.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/1/",
+      "publicado_en_origen": "2019-11-25 18:11:09"
+    },
+    {
+      "id_origen": 41592,
+      "numero": 2,
+      "titulo": "Pokemon (2019) - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bac41b1c7076448403ae19b730a6da78.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/2/",
+      "publicado_en_origen": "2019-11-25 18:11:15"
+    },
+    {
+      "id_origen": 41640,
+      "numero": 3,
+      "titulo": "Pokemon (2019) - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5f012435b837675c4b4fffa348f0e16.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/3/",
+      "publicado_en_origen": "2019-12-01 19:18:08"
+    },
+    {
+      "id_origen": 41693,
+      "numero": 4,
+      "titulo": "Pokemon (2019) - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99a56ec8f7a32788295776041bac69b8.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/4/",
+      "publicado_en_origen": "2019-12-08 22:26:07"
+    },
+    {
+      "id_origen": 41752,
+      "numero": 5,
+      "titulo": "Pokemon (2019) - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d763cdb506b75d273b864de2ed69058f.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/5/",
+      "publicado_en_origen": "2019-12-16 16:22:13"
+    },
+    {
+      "id_origen": 41800,
+      "numero": 6,
+      "titulo": "Pokemon (2019) - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd0de706cf27e0ceb56ab753d4d0654b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/6/",
+      "publicado_en_origen": "2019-12-22 18:52:28"
+    },
+    {
+      "id_origen": 41839,
+      "numero": 7,
+      "titulo": "Pokemon (2019) - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_456a517146c2c0321b45c98540856387.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/7/",
+      "publicado_en_origen": "2019-12-29 20:53:13"
+    },
+    {
+      "id_origen": 41917,
+      "numero": 8,
+      "titulo": "Pokemon (2019) - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e280321e2be05d52fe110c91ab161bf.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/8/",
+      "publicado_en_origen": "2020-01-12 19:29:34"
+    },
+    {
+      "id_origen": 41973,
+      "numero": 9,
+      "titulo": "Pokemon (2019) - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1c0346fd48738633f88daca7a7f59b6.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/9/",
+      "publicado_en_origen": "2020-01-19 22:18:46"
+    },
+    {
+      "id_origen": 42031,
+      "numero": 10,
+      "titulo": "Pokemon (2019) - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0436fb3d3c9e31c428c82fc3edac9618.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/10/",
+      "publicado_en_origen": "2020-01-27 14:28:34"
+    },
+    {
+      "id_origen": 42094,
+      "numero": 11,
+      "titulo": "Pokemon (2019) - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f5c874f1b337f0728ded0071acf3fcc.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/11/",
+      "publicado_en_origen": "2020-02-02 20:03:26"
+    },
+    {
+      "id_origen": 42149,
+      "numero": 12,
+      "titulo": "Pokemon (2019) - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acbb442d0145ef4921b6dc5cdde84e5b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/12/",
+      "publicado_en_origen": "2020-02-09 22:04:20"
+    },
+    {
+      "id_origen": 42197,
+      "numero": 13,
+      "titulo": "Pokemon (2019) - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a2f2fb4c0f1a290bb83181f4ec029f9.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/13/",
+      "publicado_en_origen": "2020-02-16 23:36:13"
+    },
+    {
+      "id_origen": 42248,
+      "numero": 14,
+      "titulo": "Pokemon (2019) - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33e795cc6df6fdfaf13b99de17a68ec0.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/14/",
+      "publicado_en_origen": "2020-02-24 00:02:24"
+    },
+    {
+      "id_origen": 42295,
+      "numero": 15,
+      "titulo": "Pokemon (2019) - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ceca909dc469546eb2d5cdbe569b4fda.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/15/",
+      "publicado_en_origen": "2020-03-01 22:50:01"
+    },
+    {
+      "id_origen": 42350,
+      "numero": 16,
+      "titulo": "Pokemon (2019) - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b2134c632519e481f1f2eb249d706ce.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/16/",
+      "publicado_en_origen": "2020-03-08 21:37:02"
+    },
+    {
+      "id_origen": 42406,
+      "numero": 17,
+      "titulo": "Pokemon (2019) - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa5fa4e1e9d78c77df2bc11fe495d80d.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/17/",
+      "publicado_en_origen": "2020-03-15 19:33:38"
+    },
+    {
+      "id_origen": 42526,
+      "numero": 18,
+      "titulo": "Pokemon (2019) - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9df28994e8a318d20f4a2598f5f16c8.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/18/",
+      "publicado_en_origen": "2020-03-22 21:28:31"
+    },
+    {
+      "id_origen": 42580,
+      "numero": 19,
+      "titulo": "Pokemon (2019) - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2434bb373d4e0753b959fcbfe307860.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/19/",
+      "publicado_en_origen": "2020-03-29 19:36:03"
+    },
+    {
+      "id_origen": 42620,
+      "numero": 20,
+      "titulo": "Pokemon (2019) - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4d6f152ec84baf228eb36bf424a6aa1.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/20/",
+      "publicado_en_origen": "2020-04-05 21:09:09"
+    },
+    {
+      "id_origen": 42682,
+      "numero": 21,
+      "titulo": "Pokemon (2019) - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a1db1b02d3580d4591f08e140aa9277.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/21/",
+      "publicado_en_origen": "2020-04-12 20:44:53"
+    },
+    {
+      "id_origen": 42727,
+      "numero": 22,
+      "titulo": "Pokemon (2019) - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa71aa74e9991ac6b0425e28bc5e5484.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/22/",
+      "publicado_en_origen": "2020-04-19 19:26:32"
+    },
+    {
+      "id_origen": 43001,
+      "numero": 23,
+      "titulo": "Pokemon (2019) - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_307527f309aa633edcc5f228a5533f25.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/23/",
+      "publicado_en_origen": "2020-06-07 18:32:17"
+    },
+    {
+      "id_origen": 43032,
+      "numero": 24,
+      "titulo": "Pokemon (2019) - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a44140fcbbf55d76a1dc8953ebecd1b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/24/",
+      "publicado_en_origen": "2020-06-14 22:02:35"
+    },
+    {
+      "id_origen": 43067,
+      "numero": 25,
+      "titulo": "Pokemon (2019) - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e039cde871ee92385cac87ca0468af2.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/25/",
+      "publicado_en_origen": "2020-06-21 18:34:54"
+    },
+    {
+      "id_origen": 43085,
+      "numero": 26,
+      "titulo": "Pokemon (2019) - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_769fa2ba6a6ce7c433438803399edc4d.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/26/",
+      "publicado_en_origen": "2020-06-28 22:45:34"
+    },
+    {
+      "id_origen": 43106,
+      "numero": 27,
+      "titulo": "Pokemon (2019) - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ef2130d60a01d28334753fbd7c9df34.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/27/",
+      "publicado_en_origen": "2020-07-05 21:30:19"
+    },
+    {
+      "id_origen": 43142,
+      "numero": 28,
+      "titulo": "Pokemon (2019) - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d690f908a916c953eb7fa4f949b548b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/28/",
+      "publicado_en_origen": "2020-07-13 01:42:05"
+    },
+    {
+      "id_origen": 43176,
+      "numero": 29,
+      "titulo": "Pokemon (2019) - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f070a8b1f1949464a959bfeaef8fbb67.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/29/",
+      "publicado_en_origen": "2020-07-20 00:53:33"
+    },
+    {
+      "id_origen": 43212,
+      "numero": 30,
+      "titulo": "Pokemon (2019) - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d7ae90599d59350ada989519870b0e6.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/30/",
+      "publicado_en_origen": "2020-07-27 01:07:07"
+    },
+    {
+      "id_origen": 43254,
+      "numero": 31,
+      "titulo": "Pokemon (2019) - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94d201f72713f45cdf4ed7257253a636.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/31/",
+      "publicado_en_origen": "2020-08-03 01:03:53"
+    },
+    {
+      "id_origen": 43292,
+      "numero": 32,
+      "titulo": "Pokemon (2019) - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91ae48805e8e96055d454f043054059b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/32/",
+      "publicado_en_origen": "2020-08-10 02:25:53"
+    },
+    {
+      "id_origen": 43330,
+      "numero": 33,
+      "titulo": "Pokemon (2019) - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bf76210b3602105312e1c7f64972acf.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/33/",
+      "publicado_en_origen": "2020-08-16 20:17:50"
+    },
+    {
+      "id_origen": 43371,
+      "numero": 34,
+      "titulo": "Pokemon (2019) - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77564bf7319c01be8616ef37ce799098.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/34/",
+      "publicado_en_origen": "2020-08-23 18:43:15"
+    },
+    {
+      "id_origen": 43420,
+      "numero": 35,
+      "titulo": "Pokemon (2019) - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf3e0df27b04abb4c107ab4df9955b29.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/35/",
+      "publicado_en_origen": "2020-08-30 20:00:47"
+    },
+    {
+      "id_origen": 43479,
+      "numero": 36,
+      "titulo": "Pokemon (2019) - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d41e2a728f38a9616dab93f5c99a3940.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/36/",
+      "publicado_en_origen": "2020-09-07 15:37:30"
+    },
+    {
+      "id_origen": 43516,
+      "numero": 37,
+      "titulo": "Pokemon (2019) - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84938d56e120e9646c900a13a97a8e29.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/37/",
+      "publicado_en_origen": "2020-09-13 21:28:06"
+    },
+    {
+      "id_origen": 43555,
+      "numero": 38,
+      "titulo": "Pokemon (2019) - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_790d8fa56e05ff05080e6e66fae0272a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/38/",
+      "publicado_en_origen": "2020-09-20 21:55:07"
+    },
+    {
+      "id_origen": 43623,
+      "numero": 39,
+      "titulo": "Pokemon (2019) - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a562fd35af2738ce6d88f785ef4eb134.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/39/",
+      "publicado_en_origen": "2020-09-27 22:56:56"
+    },
+    {
+      "id_origen": 43690,
+      "numero": 40,
+      "titulo": "Pokemon (2019) - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_259906fe75ccb82413807004cf730c03.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/40/",
+      "publicado_en_origen": "2020-10-09 20:04:58"
+    },
+    {
+      "id_origen": 43798,
+      "numero": 41,
+      "titulo": "Pokemon (2019) - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f384466a8f3cc12bbd45d984ff77765.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/41/",
+      "publicado_en_origen": "2020-10-23 15:23:12"
+    },
+    {
+      "id_origen": 43801,
+      "numero": 42,
+      "titulo": "Pokemon (2019) - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4807834012f253392148c5bfdcb8020.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/42/",
+      "publicado_en_origen": "2020-10-24 10:00:12"
+    },
+    {
+      "id_origen": 43869,
+      "numero": 43,
+      "titulo": "Pokemon (2019) - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d940b4d40aaccdfdef83b00a4666610.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/43/",
+      "publicado_en_origen": "2020-10-31 14:26:56"
+    },
+    {
+      "id_origen": 43916,
+      "numero": 44,
+      "titulo": "Pokemon (2019) - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3a1f23a07d6b7376ed3aae61d18a7a6.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/44/",
+      "publicado_en_origen": "2020-11-06 16:11:05"
+    },
+    {
+      "id_origen": 43968,
+      "numero": 45,
+      "titulo": "Pokemon (2019) - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a16ba9f18f8c2a7daa2b4af4c814979.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/45/",
+      "publicado_en_origen": "2020-11-13 16:44:12"
+    },
+    {
+      "id_origen": 44015,
+      "numero": 46,
+      "titulo": "Pokemon (2019) - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a50de67f810f5450045a367a19fdb03.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/46/",
+      "publicado_en_origen": "2020-11-21 12:00:51"
+    },
+    {
+      "id_origen": 44072,
+      "numero": 47,
+      "titulo": "Pokemon (2019) - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03c7f28e71151ecf37efa593de96aeaa.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/47/",
+      "publicado_en_origen": "2020-11-27 18:46:14"
+    },
+    {
+      "id_origen": 44125,
+      "numero": 48,
+      "titulo": "Pokemon (2019) - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7aeaa881c9a72b62b4842549c501a8aa.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/48/",
+      "publicado_en_origen": "2020-12-04 18:04:38"
+    },
+    {
+      "id_origen": 44185,
+      "numero": 49,
+      "titulo": "Pokemon (2019) - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d3a5f2d64040a89905d2c1e99ee9bd9.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/49/",
+      "publicado_en_origen": "2020-12-11 17:51:30"
+    },
+    {
+      "id_origen": 44347,
+      "numero": 50,
+      "titulo": "Pokemon (2019) - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3c216d521607da146fa23d65cfcc6b6.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/50/",
+      "publicado_en_origen": "2021-01-08 17:03:17"
+    },
+    {
+      "id_origen": 44411,
+      "numero": 51,
+      "titulo": "Pokemon (2019) - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a2556609a024ce314f6c2c4afd261bc.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/51/",
+      "publicado_en_origen": "2021-01-15 23:16:36"
+    },
+    {
+      "id_origen": 44478,
+      "numero": 52,
+      "titulo": "Pokemon (2019) - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1f2d0d953bfff8ff93a817abbf84939.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/52/",
+      "publicado_en_origen": "2021-01-22 17:59:40"
+    },
+    {
+      "id_origen": 44544,
+      "numero": 53,
+      "titulo": "Pokemon (2019) - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85e43237b3fb87d881c757f44f1b0357.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/53/",
+      "publicado_en_origen": "2021-01-29 15:41:51"
+    },
+    {
+      "id_origen": 44612,
+      "numero": 54,
+      "titulo": "Pokemon (2019) - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d5af8da227605ef5e9a1d0fbd39f412.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/54/",
+      "publicado_en_origen": "2021-02-05 18:52:54"
+    },
+    {
+      "id_origen": 44680,
+      "numero": 55,
+      "titulo": "Pokemon (2019) - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_080cc5a4ec71a747e260e274bdb13b64.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/55/",
+      "publicado_en_origen": "2021-02-12 19:09:10"
+    },
+    {
+      "id_origen": 44746,
+      "numero": 56,
+      "titulo": "Pokemon (2019) - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4433c8475916d6e6ebb8cf4994d2f1d1.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/56/",
+      "publicado_en_origen": "2021-02-19 21:21:50"
+    },
+    {
+      "id_origen": 44821,
+      "numero": 57,
+      "titulo": "Pokemon (2019) - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0851c2a81f3b106242e08d54365233d.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/57/",
+      "publicado_en_origen": "2021-02-26 20:01:25"
+    },
+    {
+      "id_origen": 44884,
+      "numero": 58,
+      "titulo": "Pokemon (2019) - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a244f80bac3293a03b71b032e0e09ce5.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/58/",
+      "publicado_en_origen": "2021-03-06 19:10:50"
+    },
+    {
+      "id_origen": 44954,
+      "numero": 59,
+      "titulo": "Pokemon (2019) - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b889d770c62e331723d5af0f5d917a8.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/59/",
+      "publicado_en_origen": "2021-03-13 00:44:08"
+    },
+    {
+      "id_origen": 45024,
+      "numero": 60,
+      "titulo": "Pokemon (2019) - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85582a8c9ad0b0a0f99cbe219a073187.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/60/",
+      "publicado_en_origen": "2021-03-20 00:21:25"
+    },
+    {
+      "id_origen": 45198,
+      "numero": 61,
+      "titulo": "Pokemon (2019) - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d89c85b46ff0fc0e249569c71d98385.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/61/",
+      "publicado_en_origen": "2021-04-09 22:50:29"
+    },
+    {
+      "id_origen": 45252,
+      "numero": 62,
+      "titulo": "Pokemon (2019) - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac10e665742d961d630f9d86307dd3b5.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/62/",
+      "publicado_en_origen": "2021-04-17 00:29:22"
+    },
+    {
+      "id_origen": 45312,
+      "numero": 63,
+      "titulo": "Pokemon (2019) - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_638c5071774c3ddd8b600c3fe1b13789.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/63/",
+      "publicado_en_origen": "2021-04-23 23:53:33"
+    },
+    {
+      "id_origen": 45368,
+      "numero": 64,
+      "titulo": "Pokemon (2019) - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abe6554dc394ac148a5e3643d984f2a8.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/64/",
+      "publicado_en_origen": "2021-04-30 23:55:50"
+    },
+    {
+      "id_origen": 45431,
+      "numero": 65,
+      "titulo": "Pokemon (2019) - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0955b0c52f0e159e465b110315bd3aa4.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/65/",
+      "publicado_en_origen": "2021-05-07 23:25:04"
+    },
+    {
+      "id_origen": 45490,
+      "numero": 66,
+      "titulo": "Pokemon (2019) - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f3721efabdb38d926d9688f7e1ed28e.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/66/",
+      "publicado_en_origen": "2021-05-14 23:01:21"
+    },
+    {
+      "id_origen": 45546,
+      "numero": 67,
+      "titulo": "Pokemon (2019) - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d276fd6b6eeeb1987e76d0388d813b9f.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/67/",
+      "publicado_en_origen": "2021-05-21 18:49:59"
+    },
+    {
+      "id_origen": 45615,
+      "numero": 68,
+      "titulo": "Pokemon (2019) - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d1633ade7aed302c261f97ee5a8bedd.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/68/",
+      "publicado_en_origen": "2021-05-29 00:53:31"
+    },
+    {
+      "id_origen": 45681,
+      "numero": 69,
+      "titulo": "Pokemon (2019) - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14749bb109fb4d289fd6969319dbce5b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/69/",
+      "publicado_en_origen": "2021-06-05 02:10:08"
+    },
+    {
+      "id_origen": 45748,
+      "numero": 70,
+      "titulo": "Pokemon (2019) - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_415ae4e297c08fd8790a5b1e1ba8482e.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/70/",
+      "publicado_en_origen": "2021-06-11 23:21:50"
+    },
+    {
+      "id_origen": 45875,
+      "numero": 71,
+      "titulo": "Pokemon (2019) - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3ebd784518ba600e0ae288653819b5e.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/71/",
+      "publicado_en_origen": "2021-06-19 08:12:38"
+    },
+    {
+      "id_origen": 45934,
+      "numero": 72,
+      "titulo": "Pokemon (2019) - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c00b11c3cb22593beae7fde07eac8a71.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/72/",
+      "publicado_en_origen": "2021-06-25 20:23:32"
+    },
+    {
+      "id_origen": 46086,
+      "numero": 73,
+      "titulo": "Pokemon (2019) - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83d5aac46c097426773520489cda201c.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/73/",
+      "publicado_en_origen": "2021-07-17 13:19:06"
+    },
+    {
+      "id_origen": 46134,
+      "numero": 74,
+      "titulo": "Pokemon (2019) - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41ccf6d63155cae584db854adffaf830.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/74/",
+      "publicado_en_origen": "2021-07-24 02:11:59"
+    },
+    {
+      "id_origen": 46180,
+      "numero": 75,
+      "titulo": "Pokemon (2019) - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_878c57ac87b8629049a172596fb9a67d.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/75/",
+      "publicado_en_origen": "2021-07-31 01:15:03"
+    },
+    {
+      "id_origen": 46284,
+      "numero": 76,
+      "titulo": "Pokemon (2019) - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2f45a479e61d0cc5e369fee64fb7f72.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/76/",
+      "publicado_en_origen": "2021-08-14 14:36:46"
+    },
+    {
+      "id_origen": 46328,
+      "numero": 77,
+      "titulo": "Pokemon (2019) - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e7fb0a3d658c358b4e5e9561f35099e.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/77/",
+      "publicado_en_origen": "2021-08-21 02:10:07"
+    },
+    {
+      "id_origen": 46422,
+      "numero": 78,
+      "titulo": "Pokemon (2019) - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce8d8333fc3f225ab596b0505fbdb2cf.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/78/",
+      "publicado_en_origen": "2021-08-28 13:15:48"
+    },
+    {
+      "id_origen": 46542,
+      "numero": 79,
+      "titulo": "Pokemon (2019) - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c325a1f2d1226ac996f297052c91a683.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/79/",
+      "publicado_en_origen": "2021-09-04 02:13:15"
+    },
+    {
+      "id_origen": 46620,
+      "numero": 80,
+      "titulo": "Pokemon (2019) - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91d3543ae8bf0dbaf34cf97beeb384b2.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/80/",
+      "publicado_en_origen": "2021-09-10 22:25:26"
+    },
+    {
+      "id_origen": 46686,
+      "numero": 81,
+      "titulo": "Pokemon (2019) - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b54a9f970d7aceab45b6b4e15349fa2.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/81/",
+      "publicado_en_origen": "2021-09-18 01:09:30"
+    },
+    {
+      "id_origen": 46795,
+      "numero": 82,
+      "titulo": "Pokemon (2019) - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36e5cac18a08285cf39432aaed2724ac.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/82/",
+      "publicado_en_origen": "2021-10-02 12:42:42"
+    },
+    {
+      "id_origen": 46849,
+      "numero": 83,
+      "titulo": "Pokemon (2019) - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85cd9809151b311c685be8bc4718b0f3.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/83/",
+      "publicado_en_origen": "2021-10-08 18:50:52"
+    },
+    {
+      "id_origen": 46984,
+      "numero": 84,
+      "titulo": "Pokemon (2019) - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0498053f58d3e4244a3f19e81ebf90d9.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/84/",
+      "publicado_en_origen": "2021-10-22 19:50:42"
+    },
+    {
+      "id_origen": 47059,
+      "numero": 85,
+      "titulo": "Pokemon (2019) - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7e21bd47130fce0c917dda4c3e6e30f.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/85/",
+      "publicado_en_origen": "2021-10-29 18:58:17"
+    },
+    {
+      "id_origen": 47120,
+      "numero": 86,
+      "titulo": "Pokemon (2019) - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0d757928d10391526f903dc027a8b8f.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/86/",
+      "publicado_en_origen": "2021-11-06 02:50:01"
+    },
+    {
+      "id_origen": 47190,
+      "numero": 87,
+      "titulo": "Pokemon (2019) - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72abde3bc8e85397733b3f40f0bb3649.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/87/",
+      "publicado_en_origen": "2021-11-13 01:56:38"
+    },
+    {
+      "id_origen": 47303,
+      "numero": 88,
+      "titulo": "Pokemon (2019) - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ae6ade6f0e2863103a7e19a1abe18d2.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/88/",
+      "publicado_en_origen": "2021-11-19 22:25:15"
+    },
+    {
+      "id_origen": 47463,
+      "numero": 89,
+      "titulo": "Pokemon (2019) - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3921184dc2b75fab4bba27e582607bd.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/89/",
+      "publicado_en_origen": "2021-12-04 02:26:06"
+    },
+    {
+      "id_origen": 47526,
+      "numero": 90,
+      "titulo": "Pokemon (2019) - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d9c2fbfc3aafdd1a143a4d6017064ca.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/90/",
+      "publicado_en_origen": "2021-12-11 11:09:33"
+    },
+    {
+      "id_origen": 47765,
+      "numero": 91,
+      "titulo": "Pokemon (2019) - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3acba2462aedc96a84aa63c995f13572.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/91/",
+      "publicado_en_origen": "2021-12-17 18:53:45"
+    },
+    {
+      "id_origen": 47817,
+      "numero": 92,
+      "titulo": "Pokemon (2019) - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6df0ee5c598338f088fcc8059ddb2e32.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/92/",
+      "publicado_en_origen": "2021-12-25 12:08:21"
+    },
+    {
+      "id_origen": 47968,
+      "numero": 93,
+      "titulo": "Pokemon (2019) - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bc6fd37ca955009b464c9918ada8719.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/93/",
+      "publicado_en_origen": "2022-01-15 00:54:28"
+    },
+    {
+      "id_origen": 48036,
+      "numero": 94,
+      "titulo": "Pokemon (2019) - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d47555e2d193e214c2904138a501e059.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/94/",
+      "publicado_en_origen": "2022-01-22 11:33:56"
+    },
+    {
+      "id_origen": 48111,
+      "numero": 95,
+      "titulo": "Pokemon (2019) - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25a66e13390694e2b55814e888c8d3f0.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/95/",
+      "publicado_en_origen": "2022-01-29 00:21:14"
+    },
+    {
+      "id_origen": 48181,
+      "numero": 96,
+      "titulo": "Pokemon (2019) - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f469935e9c18498f6310397a3f1a73da.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/96/",
+      "publicado_en_origen": "2022-02-05 10:01:42"
+    },
+    {
+      "id_origen": 48244,
+      "numero": 97,
+      "titulo": "Pokemon (2019) - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a15c204653a7a3c7f4d7b5a353761b9.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/97/",
+      "publicado_en_origen": "2022-02-12 11:18:16"
+    },
+    {
+      "id_origen": 48296,
+      "numero": 98,
+      "titulo": "Pokemon (2019) - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f39bb0a3d8e34946b3ad3ce1f9d0f885.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/98/",
+      "publicado_en_origen": "2022-02-19 00:16:19"
+    },
+    {
+      "id_origen": 48342,
+      "numero": 99,
+      "titulo": "Pokemon (2019) - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54007efbb2ae51f02c995466f0738caa.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/99/",
+      "publicado_en_origen": "2022-02-26 00:16:21"
+    },
+    {
+      "id_origen": 48437,
+      "numero": 100,
+      "titulo": "Pokemon (2019) - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6948fe29bc5c515c2c99aac111cbd38c.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/100/",
+      "publicado_en_origen": "2022-03-04 20:56:19"
+    },
+    {
+      "id_origen": 48540,
+      "numero": 101,
+      "titulo": "Pokemon (2019) - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f90a844dcd01c619573d3e783ef867a4.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/101/",
+      "publicado_en_origen": "2022-03-12 11:19:37"
+    },
+    {
+      "id_origen": 48588,
+      "numero": 102,
+      "titulo": "Pokemon (2019) - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a076925b6494fc1ccf0db99d7965203.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/102/",
+      "publicado_en_origen": "2022-03-19 11:48:31"
+    },
+    {
+      "id_origen": 48812,
+      "numero": 103,
+      "titulo": "Pokemon (2019) - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_40025295e30fc6de2015af73793e583b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/103/",
+      "publicado_en_origen": "2022-04-02 11:26:19"
+    },
+    {
+      "id_origen": 48813,
+      "numero": 104,
+      "titulo": "Pokemon (2019) - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41117e4291a10cd6720bc6fe706ed521.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/104/",
+      "publicado_en_origen": "2022-04-02 11:26:24"
+    },
+    {
+      "id_origen": 48867,
+      "numero": 105,
+      "titulo": "Pokemon (2019) - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52421ad78df95e29f0b0f324eb6ba727.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/105/",
+      "publicado_en_origen": "2022-04-09 00:54:43"
+    },
+    {
+      "id_origen": 48963,
+      "numero": 106,
+      "titulo": "Pokemon (2019) - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b91c2fd40be8fef663893c114d1a29e.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/106/",
+      "publicado_en_origen": "2022-04-16 10:15:12"
+    },
+    {
+      "id_origen": 49015,
+      "numero": 107,
+      "titulo": "Pokemon (2019) - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4da9d3f6c8c9a4f46394dae6a353c67a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/107/",
+      "publicado_en_origen": "2022-04-22 21:26:25"
+    },
+    {
+      "id_origen": 49122,
+      "numero": 108,
+      "titulo": "Pokemon (2019) - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68f1b1593fb9c9a9d72235f350541e18.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/108/",
+      "publicado_en_origen": "2022-04-30 12:02:29"
+    },
+    {
+      "id_origen": 49175,
+      "numero": 109,
+      "titulo": "Pokemon (2019) - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce6b01e4cd4166124283f11b1a09fe8a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/109/",
+      "publicado_en_origen": "2022-05-06 18:32:15"
+    },
+    {
+      "id_origen": 49323,
+      "numero": 110,
+      "titulo": "Pokemon (2019) - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea26d7632974b9674121019875916c4b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/110/",
+      "publicado_en_origen": "2022-05-13 18:41:00"
+    },
+    {
+      "id_origen": 49427,
+      "numero": 111,
+      "titulo": "Pokemon (2019) - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d964a58a93323e99de31502ef22e3079.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/111/",
+      "publicado_en_origen": "2022-05-20 18:36:46"
+    },
+    {
+      "id_origen": 49485,
+      "numero": 112,
+      "titulo": "Pokemon (2019) - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83009c6fc799bde69b14954283158163.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/112/",
+      "publicado_en_origen": "2022-05-28 01:36:48"
+    },
+    {
+      "id_origen": 49539,
+      "numero": 113,
+      "titulo": "Pokemon (2019) - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e7d82fb40873235efb87212f67b1181.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/113/",
+      "publicado_en_origen": "2022-06-03 19:42:46"
+    },
+    {
+      "id_origen": 49618,
+      "numero": 114,
+      "titulo": "Pokemon (2019) - 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5572975b6c55e23bb68391acaa8ca141.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/114/",
+      "publicado_en_origen": "2022-06-11 11:26:04"
+    },
+    {
+      "id_origen": 49672,
+      "numero": 115,
+      "titulo": "Pokemon (2019) - 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2fbbc6323c4882fbac23831adefc628a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/115/",
+      "publicado_en_origen": "2022-06-18 00:58:25"
+    },
+    {
+      "id_origen": 49821,
+      "numero": 116,
+      "titulo": "Pokemon (2019) - 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f5f2d4ef2710611a8585943ad2cd5e3.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/116/",
+      "publicado_en_origen": "2022-07-09 00:39:45"
+    },
+    {
+      "id_origen": 49873,
+      "numero": 117,
+      "titulo": "Pokemon (2019) - 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e04ea6bd07f8c1009176650169659c3d.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/117/",
+      "publicado_en_origen": "2022-07-15 17:42:21"
+    },
+    {
+      "id_origen": 49929,
+      "numero": 118,
+      "titulo": "Pokemon (2019) - 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc66875145205345f5e96be1dccbfcac.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/118/",
+      "publicado_en_origen": "2022-07-23 02:42:24"
+    },
+    {
+      "id_origen": 49982,
+      "numero": 119,
+      "titulo": "Pokemon (2019) - 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bdaa146d61ba3b283887497d8190e4a0.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/119/",
+      "publicado_en_origen": "2022-07-30 11:08:29"
+    },
+    {
+      "id_origen": 50059,
+      "numero": 120,
+      "titulo": "Pokemon (2019) - 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2d7db2f724a747dd63fdafa247db6b5.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/120/",
+      "publicado_en_origen": "2022-08-06 12:39:08"
+    },
+    {
+      "id_origen": 50114,
+      "numero": 121,
+      "titulo": "Pokemon (2019) - 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f0ecd288a9a86bf3646fbefc7a35996.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/121/",
+      "publicado_en_origen": "2022-08-12 22:55:52"
+    },
+    {
+      "id_origen": 50345,
+      "numero": 122,
+      "titulo": "Pokemon (2019) - 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c50d86074065fffb7c91eaba64d9b76.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/122/",
+      "publicado_en_origen": "2022-08-26 22:02:31"
+    },
+    {
+      "id_origen": 50416,
+      "numero": 123,
+      "titulo": "Pokemon (2019) - 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_648869de975eb270a8787a861047bf5a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/123/",
+      "publicado_en_origen": "2022-09-03 10:38:13"
+    },
+    {
+      "id_origen": 50509,
+      "numero": 124,
+      "titulo": "Pokemon (2019) - 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d12647f42ce60c0653cf38dc9f996a2.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/124/",
+      "publicado_en_origen": "2022-09-10 01:49:41"
+    },
+    {
+      "id_origen": 50566,
+      "numero": 125,
+      "titulo": "Pokemon (2019) - 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d73ec022085d36f2916eb23134326f86.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/125/",
+      "publicado_en_origen": "2022-09-16 21:55:36"
+    },
+    {
+      "id_origen": 50628,
+      "numero": 126,
+      "titulo": "Pokemon (2019) - 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa3189a97eee8079f070fc061f3d7124.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/126/",
+      "publicado_en_origen": "2022-09-23 18:10:31"
+    },
+    {
+      "id_origen": 50674,
+      "numero": 127,
+      "titulo": "Pokemon (2019) - 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1a8e6949a3c778ec0b951f677edd641.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/127/",
+      "publicado_en_origen": "2022-09-30 20:28:30"
+    },
+    {
+      "id_origen": 50782,
+      "numero": 128,
+      "titulo": "Pokemon (2019) - 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa51ec330300624008ac18daf2d4a2fa.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/128/",
+      "publicado_en_origen": "2022-10-14 22:51:56"
+    },
+    {
+      "id_origen": 50841,
+      "numero": 129,
+      "titulo": "Pokemon (2019) - 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77be2935058900199a59f1891b71e896.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/129/",
+      "publicado_en_origen": "2022-10-21 22:46:53"
+    },
+    {
+      "id_origen": 50914,
+      "numero": 130,
+      "titulo": "Pokemon (2019) - 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d959a4a095656f77fb81ede23f2e596.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/130/",
+      "publicado_en_origen": "2022-10-28 23:21:23"
+    },
+    {
+      "id_origen": 50981,
+      "numero": 131,
+      "titulo": "Pokemon (2019) - 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cde3dd84fdac807181ac9aecfd93b962.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/131/",
+      "publicado_en_origen": "2022-11-04 23:11:20"
+    },
+    {
+      "id_origen": 51034,
+      "numero": 132,
+      "titulo": "Pokemon (2019) - 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ab74862391599bdccef24188ec0d209.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/132/",
+      "publicado_en_origen": "2022-11-11 18:05:01"
+    },
+    {
+      "id_origen": 51148,
+      "numero": 133,
+      "titulo": "Pokemon (2019) - 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00d9030a7a2370f4b9ef98c2dbe4ab41.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/133/",
+      "publicado_en_origen": "2022-11-26 08:53:28"
+    },
+    {
+      "id_origen": 51268,
+      "numero": 134,
+      "titulo": "Pokemon (2019) - 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c8bf3359596d7e67b520c416f5720d4.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/134/",
+      "publicado_en_origen": "2022-12-03 11:19:19"
+    },
+    {
+      "id_origen": 51319,
+      "numero": 135,
+      "titulo": "Pokemon (2019) - 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd05939811d8dce23f83cc99bc892dc5.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/135/",
+      "publicado_en_origen": "2022-12-10 10:11:36"
+    },
+    {
+      "id_origen": 51376,
+      "numero": 136,
+      "titulo": "Pokemon (2019) - 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4134ae807db55b4620e486a50c13e87.jpg",
+      "url_origen": "https://jkanime.net/pokemon-2019/136/",
+      "publicado_en_origen": "2022-12-17 00:26:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2559",
+  "cantidad_episodios_declarada": 136,
+  "detalle_extraido_en": "2026-08-26T18:42:28+00:00"
+}

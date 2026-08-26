@@ -1,0 +1,117 @@
+{
+  "id_origen": 955,
+  "slug": "kyoukai-no-kanata",
+  "titulo": "Kyoukai no Kanata",
+  "titulo_corto": "Kyoukai no Kanata",
+  "sinopsis": "La historia sigue a un muchacho de instituto llamado Akihito Kanbara que aunque parece normal, es un medio yomu, lo que le hace invulnerable a las heridas debido a que se cura muy rápido. Un día Akihito conoce a una novata llamada Mirai Kuriyama cuando esta parece que está a punto de saltar de la azotea del instituto. Mirai se siente sola por su habilidad para manipular la sangre, algo único incluso entre aquellos con poderes sobrenaturales. Tras impedir Akihito que Mirai salte, comienzan a ocurrir extraños eventos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kyoukai-no-kanata.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kyoukai-no-kanata/",
+  "episodios": [
+    {
+      "id_origen": 21598,
+      "numero": 1,
+      "titulo": "Kyoukai no Kanata - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b417c3e4c5f511fc316f75b6df52181a.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata/1/",
+      "publicado_en_origen": "2013-10-02 14:09:17"
+    },
+    {
+      "id_origen": 21700,
+      "numero": 2,
+      "titulo": "Kyoukai no Kanata - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6cf8912022f697ca81e17e33dc2993e6.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata/2/",
+      "publicado_en_origen": "2013-10-09 13:53:44"
+    },
+    {
+      "id_origen": 21751,
+      "numero": 3,
+      "titulo": "Kyoukai no Kanata - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35ce49daeea2bdae89607a6c0a8e8527.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata/3/",
+      "publicado_en_origen": "2013-10-16 14:00:18"
+    },
+    {
+      "id_origen": 21804,
+      "numero": 4,
+      "titulo": "Kyoukai no Kanata - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e78e39ea372dddd546988c1f8e7bd0cb.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata/4/",
+      "publicado_en_origen": "2013-10-23 13:36:18"
+    },
+    {
+      "id_origen": 21857,
+      "numero": 5,
+      "titulo": "Kyoukai no Kanata - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4682ba60cfd9bdbc779fa633fa3218d5.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata/5/",
+      "publicado_en_origen": "2013-10-30 13:53:19"
+    },
+    {
+      "id_origen": 21906,
+      "numero": 6,
+      "titulo": "Kyoukai no Kanata - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78dbe27fdb74c9ae3b0a6c17bffa8b18.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata/6/",
+      "publicado_en_origen": "2013-11-06 14:54:44"
+    },
+    {
+      "id_origen": 21958,
+      "numero": 7,
+      "titulo": "Kyoukai no Kanata - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfead17f4721422bc9e1eaf97556b4a0.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata/7/",
+      "publicado_en_origen": "2013-11-13 14:49:09"
+    },
+    {
+      "id_origen": 22012,
+      "numero": 8,
+      "titulo": "Kyoukai no Kanata - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_455b3cee95ff9200035018456ef17edc.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata/8/",
+      "publicado_en_origen": "2013-11-20 14:47:54"
+    },
+    {
+      "id_origen": 22064,
+      "numero": 9,
+      "titulo": "Kyoukai no Kanata - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c8f9728c5c3be5ef64f32ed3d49f02e.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata/9/",
+      "publicado_en_origen": "2013-11-27 14:37:01"
+    },
+    {
+      "id_origen": 22114,
+      "numero": 10,
+      "titulo": "Kyoukai no Kanata - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb70c5b7a51b1a13deec0dcf7026459d.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata/10/",
+      "publicado_en_origen": "2013-12-04 14:49:26"
+    },
+    {
+      "id_origen": 22167,
+      "numero": 11,
+      "titulo": "Kyoukai no Kanata - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8306d1178a93955f70597d4dd2d06e9.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata/11/",
+      "publicado_en_origen": "2013-12-11 14:43:54"
+    },
+    {
+      "id_origen": 22231,
+      "numero": 12,
+      "titulo": "Kyoukai no Kanata - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3205dec2f92509c7370d3509784d3cf.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata/12/",
+      "publicado_en_origen": "2013-12-18 14:51:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "955",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:36:10+00:00"
+}

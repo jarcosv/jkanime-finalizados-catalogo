@@ -1,0 +1,69 @@
+{
+  "id_origen": 3472,
+  "slug": "tenchi-muyou-gxp-paradise-shidou-hen",
+  "titulo": "Tenchi Muyou! GXP: Paradise Shidou-hen",
+  "titulo_corto": "Tenchi Muyou! GXP: Paradise Sh...",
+  "sinopsis": "Una nueva serie de 6 OVAS de la franquicia Tenchi Muyou!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tenchi-muyou-gxp-paradise-shidou-hen.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tenchi-muyou-gxp-paradise-shidou-hen/",
+  "episodios": [
+    {
+      "id_origen": 53277,
+      "numero": 1,
+      "titulo": "Tenchi Muyou! GXP: Paradise Shidou-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67cb4bad1af1625ae21a7eb48884949d.jpg",
+      "url_origen": "https://jkanime.net/tenchi-muyou-gxp-paradise-shidou-hen/1/",
+      "publicado_en_origen": "2023-07-01 14:01:13"
+    },
+    {
+      "id_origen": 53278,
+      "numero": 2,
+      "titulo": "Tenchi Muyou! GXP: Paradise Shidou-hen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8af2f989ccaefafa1304bf4ebf963cd1.jpg",
+      "url_origen": "https://jkanime.net/tenchi-muyou-gxp-paradise-shidou-hen/2/",
+      "publicado_en_origen": "2023-07-01 14:01:16"
+    },
+    {
+      "id_origen": 53861,
+      "numero": 3,
+      "titulo": "Tenchi Muyou! GXP: Paradise Shidou-hen - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a793b7ee4b64fe7bb947df24b8abc423.jpg",
+      "url_origen": "https://jkanime.net/tenchi-muyou-gxp-paradise-shidou-hen/3/",
+      "publicado_en_origen": "2023-08-25 12:35:16"
+    },
+    {
+      "id_origen": 53862,
+      "numero": 4,
+      "titulo": "Tenchi Muyou! GXP: Paradise Shidou-hen - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fae7ecf159574c1c2ebbb7671db1751.jpg",
+      "url_origen": "https://jkanime.net/tenchi-muyou-gxp-paradise-shidou-hen/4/",
+      "publicado_en_origen": "2023-08-25 12:35:19"
+    },
+    {
+      "id_origen": 54276,
+      "numero": 5,
+      "titulo": "Tenchi Muyou! GXP: Paradise Shidou-hen - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a5fd80b02ee83f104c3c4800151a2f4.jpg",
+      "url_origen": "https://jkanime.net/tenchi-muyou-gxp-paradise-shidou-hen/5/",
+      "publicado_en_origen": "2023-09-29 13:50:18"
+    },
+    {
+      "id_origen": 56452,
+      "numero": 6,
+      "titulo": "Tenchi Muyou! GXP: Paradise Shidou-hen - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c79d842a36efe95dd051b03ee36cec3b.jpg",
+      "url_origen": "https://jkanime.net/tenchi-muyou-gxp-paradise-shidou-hen/6/",
+      "publicado_en_origen": "2024-03-19 11:11:36"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3472",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:48:53+00:00"
+}

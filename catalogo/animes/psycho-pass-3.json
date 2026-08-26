@@ -1,0 +1,85 @@
+{
+  "id_origen": 2544,
+  "slug": "psycho-pass-3",
+  "titulo": "Psycho-Pass 3",
+  "titulo_corto": "Psycho-Pass 3",
+  "sinopsis": "Psycho-Pass 3 sigue a dos nuevos novatos que intentan comprender el Sistema Sybil y buscar la verdad en el mundo en constante cambio de Psycho-Pass.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/psycho-pass-3.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/psycho-pass-3/",
+  "episodios": [
+    {
+      "id_origen": 41322,
+      "numero": 1,
+      "titulo": "Psycho-Pass 3 - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7390570152113f820a3e4068500df41d.jpg",
+      "url_origen": "https://jkanime.net/psycho-pass-3/1/",
+      "publicado_en_origen": "2019-10-24 18:42:46"
+    },
+    {
+      "id_origen": 41397,
+      "numero": 2,
+      "titulo": "Psycho-Pass 3 - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c411ef27c010d81d965f5cc179a33277.jpg",
+      "url_origen": "https://jkanime.net/psycho-pass-3/2/",
+      "publicado_en_origen": "2019-11-01 02:16:08"
+    },
+    {
+      "id_origen": 41453,
+      "numero": 3,
+      "titulo": "Psycho-Pass 3 - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98e91749e0199da4b939761492530d23.jpg",
+      "url_origen": "https://jkanime.net/psycho-pass-3/3/",
+      "publicado_en_origen": "2019-11-08 01:15:16"
+    },
+    {
+      "id_origen": 41506,
+      "numero": 4,
+      "titulo": "Psycho-Pass 3 - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9df8f89419b75c9328447be871147cac.jpg",
+      "url_origen": "https://jkanime.net/psycho-pass-3/4/",
+      "publicado_en_origen": "2019-11-14 23:02:46"
+    },
+    {
+      "id_origen": 41560,
+      "numero": 5,
+      "titulo": "Psycho-Pass 3 - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_298cb17c3d5afee17168371de158f85c.jpg",
+      "url_origen": "https://jkanime.net/psycho-pass-3/5/",
+      "publicado_en_origen": "2019-11-22 00:33:46"
+    },
+    {
+      "id_origen": 41665,
+      "numero": 6,
+      "titulo": "Psycho-Pass 3 - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76128f896de3c07b84f60965327751a3.jpg",
+      "url_origen": "https://jkanime.net/psycho-pass-3/6/",
+      "publicado_en_origen": "2019-12-06 05:56:03"
+    },
+    {
+      "id_origen": 41666,
+      "numero": 7,
+      "titulo": "Psycho-Pass 3 - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a7c2a3144427d8921928f3ab3112bf7.jpg",
+      "url_origen": "https://jkanime.net/psycho-pass-3/7/",
+      "publicado_en_origen": "2019-12-06 05:56:08"
+    },
+    {
+      "id_origen": 41720,
+      "numero": 8,
+      "titulo": "Psycho-Pass 3 - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46a5a92c481d5d4e0478d68bad240fc6.jpg",
+      "url_origen": "https://jkanime.net/psycho-pass-3/8/",
+      "publicado_en_origen": "2019-12-13 04:13:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2544",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:43:07+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1696,
+  "slug": "kyoukai-no-kanata-movie-ill-be-here-mirai-hen",
+  "titulo": "Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen",
+  "titulo_corto": "Kyoukai no Kanata Movie: I'll ...",
+  "sinopsis": "Segunda parte de la primera película. La historia toma lugar una año después de que finaliza la serie",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kyoukai-no-kanata-movie-ill-be-here-mirai-hen.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kyoukai-no-kanata-movie-ill-be-here-mirai-hen/",
+  "episodios": [
+    {
+      "id_origen": 29781,
+      "numero": 1,
+      "titulo": "Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_738602136ff278808f085f26dc8913ad.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata-movie-ill-be-here-mirai-hen/1/",
+      "publicado_en_origen": "2015-10-10 14:26:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1696",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:36:10+00:00"
+}

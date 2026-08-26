@@ -1,0 +1,53 @@
+{
+  "id_origen": 4105,
+  "slug": "umayuru-pretty-gray",
+  "titulo": "Umayuru: Pretty Gray",
+  "titulo_corto": "Umayuru: Pretty Gray",
+  "sinopsis": "pequeños cortos",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/umayuru-pretty-gray.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/umayuru-pretty-gray/",
+  "episodios": [
+    {
+      "id_origen": 62974,
+      "numero": 1,
+      "titulo": "Umayuru: Pretty Gray - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d983c6c3a272464812c75714dbdd50b9.jpg",
+      "url_origen": "https://jkanime.net/umayuru-pretty-gray/1/",
+      "publicado_en_origen": "2025-05-01 12:42:23"
+    },
+    {
+      "id_origen": 63032,
+      "numero": 2,
+      "titulo": "Umayuru: Pretty Gray - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4528b424f6bbd89e23d153be2588f556.jpg",
+      "url_origen": "https://jkanime.net/umayuru-pretty-gray/2/",
+      "publicado_en_origen": "2025-05-05 12:45:02"
+    },
+    {
+      "id_origen": 63036,
+      "numero": 3,
+      "titulo": "Umayuru: Pretty Gray - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e9c8a8ac6fb2fc1b06b440e419b9a22.jpg",
+      "url_origen": "https://jkanime.net/umayuru-pretty-gray/3/",
+      "publicado_en_origen": "2025-05-06 10:15:43"
+    },
+    {
+      "id_origen": 63037,
+      "numero": 4,
+      "titulo": "Umayuru: Pretty Gray - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e377fc3c28de3317b8b1cc341cb648d3.jpg",
+      "url_origen": "https://jkanime.net/umayuru-pretty-gray/4/",
+      "publicado_en_origen": "2025-05-06 10:15:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:26+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4105",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:51:05+00:00"
+}

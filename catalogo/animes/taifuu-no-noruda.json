@@ -1,0 +1,29 @@
+{
+  "id_origen": 1640,
+  "slug": "taifuu-no-noruda",
+  "titulo": "Taifuu no Noruda",
+  "titulo_corto": "Taifuu no Noruda",
+  "sinopsis": "La historia tiene lugar en una isla remota, en la víspera del festival cultural de un instituto. Un chico deja el béisbol después de estar jugando toda su vida y se pelea con su mejor amigo. Es entonces cuando conocen a una misteriosa chica de ojos rojos llamada Noruda, poco antes de que un enorme tifón llegue hasta el instituto.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/taifuu-no-noruda.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/taifuu-no-noruda/",
+  "episodios": [
+    {
+      "id_origen": 29299,
+      "numero": 1,
+      "titulo": "Taifuu no Noruda",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8289b9fbebe7b39698cb1e1899b77810.jpg",
+      "url_origen": "https://jkanime.net/taifuu-no-noruda/1/",
+      "publicado_en_origen": "2015-09-07 19:37:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1640",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:48:21+00:00"
+}

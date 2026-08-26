@@ -1,0 +1,29 @@
+{
+  "id_origen": 1725,
+  "slug": "aria-the-avvenire",
+  "titulo": "Aria The Avvenire",
+  "titulo_corto": "Aria The Avvenire",
+  "sinopsis": "Una Undine novata que trabaja en Orange Planet. Es júnior de Alice, aunque ella tiene una personalidad calmada y amable, pero al mismo tiempo, a veces es espontánea y dice cosas como “¡Desde Siberia!” a cualquier persona que justo acaba de conocer. A veces habla en un tono literario. Al igual que Azusa, la famosa Aria Company tiene gran influencia sobre ella.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/aria-the-avvenire.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/aria-the-avvenire/",
+  "episodios": [
+    {
+      "id_origen": 30470,
+      "numero": 1,
+      "titulo": "Aria The Avvenire - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd50f363001990ee1fe5d798702b1d5b.jpg",
+      "url_origen": "https://jkanime.net/aria-the-avvenire/1/",
+      "publicado_en_origen": "2015-12-28 18:30:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1725",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:17:30+00:00"
+}

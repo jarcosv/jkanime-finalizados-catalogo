@@ -1,0 +1,29 @@
+{
+  "id_origen": 4212,
+  "slug": "kaijuu-8-gou-movie",
+  "titulo": "Kaijuu 8-gou Movie",
+  "titulo_corto": "Kaijuu 8-gou Movie",
+  "sinopsis": "En un Japón repleto de Kaiju, Kafka Hibino trabaja en la eliminación de monstruos. Tras reencontrarse con su amiga de la infancia Mina Ashiro, una estrella emergente de la Fuerza de Defensa anti-Kaiju, decide perseguir su sueño abandonado de unirse a la Fuerza... cuando de repente se transforma en el poderoso «Kaiju nº 8». Con la ayuda de su colega subalterno Reno Ichikawa, Kafka oculta su identidad mientras se esfuerza por alcanzar el sueño de su vida: aprobar el examen de la Fuerza de Defensa y estar al lado de Mina. Pero cuando unos misteriosos Kaiju inteligentes atacan una base de las Fuerzas de Defensa, Kafka se enfrenta a una decisión crucial en una situación desesperada.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kaijuu-8-gou-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kaijuu-8-gou-movie/",
+  "episodios": [
+    {
+      "id_origen": 64480,
+      "numero": 1,
+      "titulo": "Kaijuu 8-gou Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58f40ef64173e9d20c82d3527361cee8.jpg",
+      "url_origen": "https://jkanime.net/kaijuu-8-gou-movie/1/",
+      "publicado_en_origen": "2025-07-13 20:48:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4212",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:33:23+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 722,
+  "slug": "tasogare-otome-x-amnesia-special",
+  "titulo": "Tasogare Otome x Amnesia Special",
+  "titulo_corto": "Tasogare Otome x Amnesia Speci...",
+  "sinopsis": "Episodio no trasmitido en TV incluido en el 6to. release de BD/DVDs.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tasogare-otome-x-amnesia-special.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tasogare-otome-x-amnesia-special/",
+  "episodios": [
+    {
+      "id_origen": 18746,
+      "numero": 1,
+      "titulo": "Tasogare Otome x Amnesia Ova",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e08dfc13a6d106f032f49aca8caa4f2f.jpg",
+      "url_origen": "https://jkanime.net/tasogare-otome-x-amnesia-special/1/",
+      "publicado_en_origen": "2012-12-18 04:13:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "722",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:48:40+00:00"
+}

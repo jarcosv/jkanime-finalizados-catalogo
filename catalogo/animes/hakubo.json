@@ -1,0 +1,29 @@
+{
+  "id_origen": 2708,
+  "slug": "hakubo",
+  "titulo": "Hakubo",
+  "titulo_corto": "Hakubo",
+  "sinopsis": "Sachi Koyama es una chica que vive en Iwaki, Fukushima, y que quedó muy marcada por el terremoto de 2011. Desde aquello, se ha distanciado de amigos y familia, habiendo perdido el interés en la amistad y el amor. Siendo violinista desde muy pequeña, forma parte del club de música de su escuela y practica a diario para el cuarteto de cuerda del festival cultural. Un día la chica conoce a Yuusuke, un joven que se trasladó a Iwaki tras tener que abandonar su hogar tras el terremoto, y ambos conectarán de inmediato",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hakubo.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hakubo/",
+  "episodios": [
+    {
+      "id_origen": 43584,
+      "numero": 1,
+      "titulo": "Hakubo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7720c6892d447539b71d8bd9e4d1ef60.jpg",
+      "url_origen": "https://jkanime.net/hakubo/1/",
+      "publicado_en_origen": "2020-09-21 23:50:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2708",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:29:39+00:00"
+}

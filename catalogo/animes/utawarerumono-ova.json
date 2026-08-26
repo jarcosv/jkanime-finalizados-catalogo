@@ -1,0 +1,45 @@
+{
+  "id_origen": 1642,
+  "slug": "utawarerumono-ova",
+  "titulo": "Utawarerumono OVA",
+  "titulo_corto": "Utawarerumono OVA",
+  "sinopsis": "La historia cubre partes que no se muestran en la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/utawarerumono-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/utawarerumono-ova/",
+  "episodios": [
+    {
+      "id_origen": 29331,
+      "numero": 1,
+      "titulo": "Utawarerumono OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8290b662b6532b5e1635fb338d152a4e.jpg",
+      "url_origen": "https://jkanime.net/utawarerumono-ova/1/",
+      "publicado_en_origen": "2015-09-10 22:44:53"
+    },
+    {
+      "id_origen": 29332,
+      "numero": 2,
+      "titulo": "Utawarerumono OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3293d98701b94267cd995ecf50009b29.jpg",
+      "url_origen": "https://jkanime.net/utawarerumono-ova/2/",
+      "publicado_en_origen": "2015-09-10 22:44:56"
+    },
+    {
+      "id_origen": 29333,
+      "numero": 3,
+      "titulo": "Utawarerumono OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05703941073ea122d5ef6ececa6d0bd4.jpg",
+      "url_origen": "https://jkanime.net/utawarerumono-ova/3/",
+      "publicado_en_origen": "2015-09-10 22:44:56"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1642",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:51:21+00:00"
+}

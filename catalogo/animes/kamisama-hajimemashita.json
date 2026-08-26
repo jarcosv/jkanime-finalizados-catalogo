@@ -1,0 +1,125 @@
+{
+  "id_origen": 683,
+  "slug": "kamisama-hajimemashita",
+  "titulo": "Kamisama Hajimemashita",
+  "titulo_corto": "Kamisama Hajimemashita",
+  "sinopsis": "El padre Momozono Nanami, un hombre con afición por el juego, desapareció después de acumular una gran cantidad de deudas por lo que  su hija fue expulsada de su casa por cobradores. Cuando ayudó a un chico tímido que era perseguido por un perro, este le dijo que le daría su casa. Ella creyó en sus palabras, pero cuando fue a su casa, resultó ser un santuario, en el cual un tipo con orejas de zorro llamado Tomoe apareció. Este esperaba al anterior dueño desde hace unos 20 años; situación que confundió aún más a Nanami.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kamisama-hajimemashita.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kamisama-hajimemashita/",
+  "episodios": [
+    {
+      "id_origen": 17629,
+      "numero": 1,
+      "titulo": "Kamisama Hajimemashita - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b497033de877534e7f783d78c2b78fb6.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/1/",
+      "publicado_en_origen": "2012-10-04 11:30:17"
+    },
+    {
+      "id_origen": 17686,
+      "numero": 2,
+      "titulo": "Kamisama Hajimemashita - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c112115f1c81e4f4b74a738aef045c30.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/2/",
+      "publicado_en_origen": "2012-10-11 00:10:43"
+    },
+    {
+      "id_origen": 17853,
+      "numero": 3,
+      "titulo": "Kamisama Hajimemashita - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_637386e85513e2141b4318825669d5a6.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/3/",
+      "publicado_en_origen": "2012-10-17 03:42:54"
+    },
+    {
+      "id_origen": 18071,
+      "numero": 4,
+      "titulo": "Kamisama Hajimemashita - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbd3de5cb26d714be8c306541e7f3509.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/4/",
+      "publicado_en_origen": "2012-10-24 00:19:05"
+    },
+    {
+      "id_origen": 18158,
+      "numero": 5,
+      "titulo": "Kamisama Hajimemashita - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba00c3e6292cc2a52a34e7b373a4a9eb.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/5/",
+      "publicado_en_origen": "2012-10-31 03:29:49"
+    },
+    {
+      "id_origen": 18355,
+      "numero": 6,
+      "titulo": "Kamisama Hajimemashita - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_943c84b16aaafd25f1c0d243cdd357d6.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/6/",
+      "publicado_en_origen": "2012-11-07 13:53:47"
+    },
+    {
+      "id_origen": 18432,
+      "numero": 7,
+      "titulo": "Kamisama Hajimemashita - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a08c938c1e7c76d8fb83eee1a8b95f02.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/7/",
+      "publicado_en_origen": "2012-11-14 16:37:53"
+    },
+    {
+      "id_origen": 18479,
+      "numero": 8,
+      "titulo": "Kamisama Hajimemashita - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6346d950811d61ce0c94a3db285df5a.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/8/",
+      "publicado_en_origen": "2012-11-21 14:51:57"
+    },
+    {
+      "id_origen": 18535,
+      "numero": 9,
+      "titulo": "Kamisama Hajimemashita - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_879bc75de8d1dba8957dd08033933509.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/9/",
+      "publicado_en_origen": "2012-11-27 17:37:00"
+    },
+    {
+      "id_origen": 18581,
+      "numero": 10,
+      "titulo": "Kamisama Hajimemashita - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75b4f712b9a4860516a726646282d56a.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/10/",
+      "publicado_en_origen": "2012-12-07 18:34:00"
+    },
+    {
+      "id_origen": 18609,
+      "numero": 11,
+      "titulo": "Kamisama Hajimemashita - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bdc7a663219b46189e7858f8bfe8fe41.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/11/",
+      "publicado_en_origen": "2012-12-12 22:20:05"
+    },
+    {
+      "id_origen": 18771,
+      "numero": 12,
+      "titulo": "Kamisama Hajimemashita - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4cc3a85c7cda24dd3e028306403697d.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/12/",
+      "publicado_en_origen": "2012-12-22 22:34:46"
+    },
+    {
+      "id_origen": 18809,
+      "numero": 13,
+      "titulo": "Kamisama Hajimemashita - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8bdcc67bbcdb2b701040f5926b90712.jpg",
+      "url_origen": "https://jkanime.net/kamisama-hajimemashita/13/",
+      "publicado_en_origen": "2012-12-31 10:42:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "683",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:33:41+00:00"
+}

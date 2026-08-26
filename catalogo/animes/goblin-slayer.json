@@ -1,0 +1,117 @@
+{
+  "id_origen": 2301,
+  "slug": "goblin-slayer",
+  "titulo": "Goblin Slayer",
+  "titulo_corto": "Goblin Slayer",
+  "sinopsis": "Una joven sacerdotisa ha formado su primer grupo de aventureros, pero no tardan mucho en verse en serios problemas. Por suerte, quien aparece en su rescate es el Asesino de Goblins, un hombre que ha dedicado su vida a exterminar a todo goblin viviente por los medios que fueran necesarios. Cuando comienzan a circular rumores sobre sus hazañas, no hay forma de saber quién será el próximo en aparecer",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/goblin-slayer.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/goblin-slayer/",
+  "episodios": [
+    {
+      "id_origen": 38045,
+      "numero": 1,
+      "titulo": "Goblin Slayer - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63bad29d7bd81c84cfee6ab8e3890545.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer/1/",
+      "publicado_en_origen": "2018-10-06 15:29:21"
+    },
+    {
+      "id_origen": 38081,
+      "numero": 2,
+      "titulo": "Goblin Slayer - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_224f6f4f54725cad077b4ed22fc90fc6.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer/2/",
+      "publicado_en_origen": "2018-10-13 20:04:40"
+    },
+    {
+      "id_origen": 38134,
+      "numero": 3,
+      "titulo": "Goblin Slayer - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_849dc2aa3a610f5ac8d4080ec9ca7f86.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer/3/",
+      "publicado_en_origen": "2018-10-20 15:57:53"
+    },
+    {
+      "id_origen": 38178,
+      "numero": 4,
+      "titulo": "Goblin Slayer - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41c4601149dbd30948a810b8a7843284.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer/4/",
+      "publicado_en_origen": "2018-10-27 15:10:46"
+    },
+    {
+      "id_origen": 38222,
+      "numero": 5,
+      "titulo": "Goblin Slayer - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc030e12822fd71ae451780a2b21520e.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer/5/",
+      "publicado_en_origen": "2018-11-03 15:21:26"
+    },
+    {
+      "id_origen": 38292,
+      "numero": 6,
+      "titulo": "Goblin Slayer - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b57033143672a1dbfcb95a4ce2e3f42f.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer/6/",
+      "publicado_en_origen": "2018-11-10 15:15:27"
+    },
+    {
+      "id_origen": 38326,
+      "numero": 7,
+      "titulo": "Goblin Slayer - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5148de37b36193bcf588c1bc4a3833c0.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer/7/",
+      "publicado_en_origen": "2018-11-17 15:10:29"
+    },
+    {
+      "id_origen": 38364,
+      "numero": 8,
+      "titulo": "Goblin Slayer - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_858733c1b534a285934141ee2d3253b9.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer/8/",
+      "publicado_en_origen": "2018-11-27 21:01:25"
+    },
+    {
+      "id_origen": 38407,
+      "numero": 9,
+      "titulo": "Goblin Slayer - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99378cd3ab9283c8691cc58b863ccc4d.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer/9/",
+      "publicado_en_origen": "2018-12-01 20:16:21"
+    },
+    {
+      "id_origen": 38472,
+      "numero": 10,
+      "titulo": "Goblin Slayer - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7906284305fc6984edcfdb195191295c.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer/10/",
+      "publicado_en_origen": "2018-12-08 15:09:57"
+    },
+    {
+      "id_origen": 38554,
+      "numero": 11,
+      "titulo": "Goblin Slayer - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f1227c50fcdddb18e869bfdeae65a06.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer/11/",
+      "publicado_en_origen": "2018-12-22 17:07:04"
+    },
+    {
+      "id_origen": 38586,
+      "numero": 12,
+      "titulo": "Goblin Slayer - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cd722cab13298efc26ddcd2dfe93412.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer/12/",
+      "publicado_en_origen": "2018-12-29 15:10:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:15+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2301",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:28:45+00:00"
+}

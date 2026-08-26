@@ -1,0 +1,109 @@
+{
+  "id_origen": 3059,
+  "slug": "fractale",
+  "titulo": "Fractale",
+  "titulo_corto": "Fractale",
+  "sinopsis": "La historia se desarrolla en el futuro, donde la sociedad está dirigida por el \"Sistema Fractale\". En una isla, un chico llamado Clain encuentra una chica herida de nombre Phryne en un acantilado, que desaparece dejando un colgante. Clain emprende un viaje con Nessa, un avatar con forma de niña para buscar a Phryne y descubrir el secreto del Sistema Fractale.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fractale.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fractale/",
+  "episodios": [
+    {
+      "id_origen": 48506,
+      "numero": 1,
+      "titulo": "Fractale - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_042705c9448ec412a9f6ac0ac15d7000.jpg",
+      "url_origen": "https://jkanime.net/fractale/1/",
+      "publicado_en_origen": "2022-03-07 01:53:27"
+    },
+    {
+      "id_origen": 48507,
+      "numero": 2,
+      "titulo": "Fractale - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_181449a8478703241021e2e2557351d2.jpg",
+      "url_origen": "https://jkanime.net/fractale/2/",
+      "publicado_en_origen": "2022-03-07 01:53:27"
+    },
+    {
+      "id_origen": 48508,
+      "numero": 3,
+      "titulo": "Fractale - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f473cce8e1fe128830d36a2c5216b213.jpg",
+      "url_origen": "https://jkanime.net/fractale/3/",
+      "publicado_en_origen": "2022-03-07 01:53:27"
+    },
+    {
+      "id_origen": 48509,
+      "numero": 4,
+      "titulo": "Fractale - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d384b897f79347648744fc818cea2128.jpg",
+      "url_origen": "https://jkanime.net/fractale/4/",
+      "publicado_en_origen": "2022-03-07 01:53:27"
+    },
+    {
+      "id_origen": 48510,
+      "numero": 5,
+      "titulo": "Fractale - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5804a7bec176070ba227bdeaa23c5913.jpg",
+      "url_origen": "https://jkanime.net/fractale/5/",
+      "publicado_en_origen": "2022-03-07 01:53:27"
+    },
+    {
+      "id_origen": 48511,
+      "numero": 6,
+      "titulo": "Fractale - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c51bf93c175bd56cd3b60081377ab356.jpg",
+      "url_origen": "https://jkanime.net/fractale/6/",
+      "publicado_en_origen": "2022-03-07 01:53:27"
+    },
+    {
+      "id_origen": 48512,
+      "numero": 7,
+      "titulo": "Fractale - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4315fce0913a690ba14db3bd46a1c89a.jpg",
+      "url_origen": "https://jkanime.net/fractale/7/",
+      "publicado_en_origen": "2022-03-07 01:53:27"
+    },
+    {
+      "id_origen": 48513,
+      "numero": 8,
+      "titulo": "Fractale - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f72ea1e6ece2fdaf44afdde14a71f5b0.jpg",
+      "url_origen": "https://jkanime.net/fractale/8/",
+      "publicado_en_origen": "2022-03-07 01:53:27"
+    },
+    {
+      "id_origen": 48514,
+      "numero": 9,
+      "titulo": "Fractale - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1dbc648d3cde67e146a2f810ded7bbd.jpg",
+      "url_origen": "https://jkanime.net/fractale/9/",
+      "publicado_en_origen": "2022-03-07 01:53:27"
+    },
+    {
+      "id_origen": 48515,
+      "numero": 10,
+      "titulo": "Fractale - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2458b9316b623d088264b0ca5d0bebfa.jpg",
+      "url_origen": "https://jkanime.net/fractale/10/",
+      "publicado_en_origen": "2022-03-07 01:53:27"
+    },
+    {
+      "id_origen": 48516,
+      "numero": 11,
+      "titulo": "Fractale - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f97d788a22ab92e3acdeb322f96bb335.jpg",
+      "url_origen": "https://jkanime.net/fractale/11/",
+      "publicado_en_origen": "2022-03-07 01:53:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3059",
+  "cantidad_episodios_declarada": 11,
+  "detalle_extraido_en": "2026-08-26T18:27:09+00:00"
+}

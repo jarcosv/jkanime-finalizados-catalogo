@@ -1,0 +1,29 @@
+{
+  "id_origen": 4734,
+  "slug": "chao",
+  "titulo": "ChaO",
+  "titulo_corto": "ChaO",
+  "sinopsis": "En una sociedad futura en la que conviven humanos y sirenas, Stefan trabaja como empleado de oficina en una empresa de construcción naval. Un día, Chao, la princesa del reino de las sirenas, le pide matrimonio de forma inesperada. Acaba viviendo con ella y, con el paso del tiempo, se va sintiendo atraído por el amor puro y sincero de Chao. ¿Qué será de su relación?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/chao.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/chao/",
+  "episodios": [
+    {
+      "id_origen": 73283,
+      "numero": 1,
+      "titulo": "ChaO",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9ef2c68f137312545d92c00be30e596.jpg",
+      "url_origen": "https://jkanime.net/chao/1/",
+      "publicado_en_origen": "2026-05-18 18:19:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4734",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:23:22+00:00"
+}

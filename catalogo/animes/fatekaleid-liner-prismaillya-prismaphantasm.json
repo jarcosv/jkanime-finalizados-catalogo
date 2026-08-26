@@ -1,0 +1,29 @@
+{
+  "id_origen": 2570,
+  "slug": "fatekaleid-liner-prismaillya-prismaphantasm",
+  "titulo": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+  "titulo_corto": "Fate/kaleid liner Prisma☆Illya...",
+  "sinopsis": "Ova Fate/kaleid liner Prisma☆Illya: Prisma Phantasm",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fatekaleid-liner-prismaillya-prismaphantasm.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fatekaleid-liner-prismaillya-prismaphantasm/",
+  "episodios": [
+    {
+      "id_origen": 41849,
+      "numero": 1,
+      "titulo": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d506847947985f1615169e670d9ec3d.jpg",
+      "url_origen": "https://jkanime.net/fatekaleid-liner-prismaillya-prismaphantasm/1/",
+      "publicado_en_origen": "2020-01-04 14:29:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2570",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:55+00:00"
+}

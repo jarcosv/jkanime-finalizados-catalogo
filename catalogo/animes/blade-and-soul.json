@@ -1,0 +1,125 @@
+{
+  "id_origen": 1103,
+  "slug": "blade-and-soul",
+  "titulo": "Blade and Soul",
+  "titulo_corto": "Blade and Soul",
+  "sinopsis": "La historia está protagonizada por Alka, una espadachina que usa un estilo de combate con el que puede partir a sus enemigos en dos con un solo ataque. Ella emprende su viaje para buscar venganza por su maestro, Hon, el cual fue asesinado a manos de Jin Valel, una mujer considerada un monstruo y que arrebata la vida a las personas sin pensárselo dos veces. Sin embargo, siendo de su mismo clan de asesinos, el \"Clan de la espada\", Alka piensa que ambas son muy parecidas. Durante su viaje, Alka conocerá a tres extrañas mujeres: Karen, la maestra de la danza y la canción, Hazuki, la amante de las pistolas y el alcohol, y a Roana, líder de una banda de ladrones.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/blade-and-soul.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/blade-and-soul/",
+  "episodios": [
+    {
+      "id_origen": 23127,
+      "numero": 1,
+      "titulo": "Blade and Soul - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80f36d40ae61e66db4e732fcb1587f3a.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/1/",
+      "publicado_en_origen": "2014-04-04 00:14:56"
+    },
+    {
+      "id_origen": 23176,
+      "numero": 2,
+      "titulo": "Blade and Soul - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34bdff731c6a777c9c6393a9a0a39a0d.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/2/",
+      "publicado_en_origen": "2014-04-10 15:52:09"
+    },
+    {
+      "id_origen": 23236,
+      "numero": 3,
+      "titulo": "Blade and Soul - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdd1938f71bfe82123fa12ace87f83c1.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/3/",
+      "publicado_en_origen": "2014-04-17 15:54:47"
+    },
+    {
+      "id_origen": 23310,
+      "numero": 4,
+      "titulo": "Blade and Soul - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89abe9e791c909544e85a4a55f68ee9d.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/4/",
+      "publicado_en_origen": "2014-04-24 15:59:05"
+    },
+    {
+      "id_origen": 23375,
+      "numero": 5,
+      "titulo": "Blade and Soul - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a7cdeee9c8bba4d2e8dc8fbe67af750.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/5/",
+      "publicado_en_origen": "2014-05-01 15:53:00"
+    },
+    {
+      "id_origen": 23435,
+      "numero": 6,
+      "titulo": "Blade and Soul - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cba2e39793995b3b682da78f854786f2.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/6/",
+      "publicado_en_origen": "2014-05-09 04:23:11"
+    },
+    {
+      "id_origen": 23489,
+      "numero": 7,
+      "titulo": "Blade and Soul - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e68e4a046a5a86de64238ca77d7970d5.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/7/",
+      "publicado_en_origen": "2014-05-15 16:02:30"
+    },
+    {
+      "id_origen": 23546,
+      "numero": 8,
+      "titulo": "Blade and Soul - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1aa157f9e8516370e3345f226ef62fc.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/8/",
+      "publicado_en_origen": "2014-05-22 15:53:17"
+    },
+    {
+      "id_origen": 23609,
+      "numero": 9,
+      "titulo": "Blade and Soul - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_087b1413b8b81559549306f55a01ebc3.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/9/",
+      "publicado_en_origen": "2014-05-29 15:54:32"
+    },
+    {
+      "id_origen": 23670,
+      "numero": 10,
+      "titulo": "Blade and Soul - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_235d345c2ab5e66d05754f2129ed5c06.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/10/",
+      "publicado_en_origen": "2014-06-05 15:54:41"
+    },
+    {
+      "id_origen": 23724,
+      "numero": 11,
+      "titulo": "Blade and Soul - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_409cc060198690137a12782c09282608.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/11/",
+      "publicado_en_origen": "2014-06-12 15:59:40"
+    },
+    {
+      "id_origen": 23779,
+      "numero": 12,
+      "titulo": "Blade and Soul - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cba43dc5d1fc0796ffd171b784487c37.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/12/",
+      "publicado_en_origen": "2014-06-19 15:51:16"
+    },
+    {
+      "id_origen": 23831,
+      "numero": 13,
+      "titulo": "Blade and Soul - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6bbbbb2a10edb63babf298ec360b299b.jpg",
+      "url_origen": "https://jkanime.net/blade-and-soul/13/",
+      "publicado_en_origen": "2014-06-26 17:10:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:55+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1103",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:20:15+00:00"
+}

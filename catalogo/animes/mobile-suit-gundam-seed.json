@@ -1,0 +1,405 @@
+{
+  "id_origen": 1556,
+  "slug": "mobile-suit-gundam-seed",
+  "titulo": "Mobile Suit Gundam Seed",
+  "titulo_corto": "Mobile Suit Gundam Seed",
+  "sinopsis": "Mobile Suit Gundam SEED está ubicada en el año 71 de la Era Cósmica (EC). La trama empieza con una guerra entre la Tierra y las Colonias, similar a la \"Guerra de un Año\" que pudimos ver en la serie original de Gundam. Por un lado está la Alianza Terrestre y por el otro las Colonias Espaciales que conforman la Alianza Zodiacal para un Tratado de Paz (ZAFT, por sus siglas en inglés) La humanidad ha evolucionado en nuevas formas gracias a la ingeniería genética, con lo cual se ha creado un abismo entre los seres humanos normales (\"Naturales\") y los alterados (\"Coordinadores\"). Siguiendo con la tradición de la franquicia, nuevamente un joven civil que odia la guerra se encuentra pilotando un Gundam, y esta vez el héroe es un Coordinador llamado Kira Yamato. Al principio se ve obligado a luchar contra su propia gente, pero ahora se encuentra en medio de una guerra entre dos gobiernos cuyo único objetivo es el genocidio.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mobile-suit-gundam-seed.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/",
+  "episodios": [
+    {
+      "id_origen": 65251,
+      "numero": 1,
+      "titulo": "Mobile Suit Gundam Seed - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9d100369c373e31bce98ec86d60c327.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/1/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65252,
+      "numero": 2,
+      "titulo": "Mobile Suit Gundam Seed - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_844f86618ec2f8bfc12ee52ff1800407.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/2/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65253,
+      "numero": 3,
+      "titulo": "Mobile Suit Gundam Seed - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1419532d2a21396367e9a8074f26db1.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/3/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65254,
+      "numero": 4,
+      "titulo": "Mobile Suit Gundam Seed - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e834a8de4b2b4ebaab18efa0332157b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/4/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65255,
+      "numero": 5,
+      "titulo": "Mobile Suit Gundam Seed - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c286b987c3bd63c85cf7398e0f6384d.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/5/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65256,
+      "numero": 6,
+      "titulo": "Mobile Suit Gundam Seed - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9027e942352911e15ebd5a291dce34c1.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/6/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65257,
+      "numero": 7,
+      "titulo": "Mobile Suit Gundam Seed - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b5a0a7600d839541d9ce1cd2ed2d071.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/7/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65258,
+      "numero": 8,
+      "titulo": "Mobile Suit Gundam Seed - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3c6e6c2057451b6b754ec57816b4142.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/8/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65259,
+      "numero": 9,
+      "titulo": "Mobile Suit Gundam Seed - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_609f6ac7fda8e64f11700f9dde4cf992.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/9/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65260,
+      "numero": 10,
+      "titulo": "Mobile Suit Gundam Seed - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ace181356394d25db165a2ea9793057d.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/10/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65261,
+      "numero": 11,
+      "titulo": "Mobile Suit Gundam Seed - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9ba84607ef5c595c677d5186cff2334.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/11/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65262,
+      "numero": 12,
+      "titulo": "Mobile Suit Gundam Seed - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_339f9d34fbc35f3aadb7d9df71b2a2a4.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/12/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65263,
+      "numero": 13,
+      "titulo": "Mobile Suit Gundam Seed - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a4e7a6375341d17a6cf0755458b976f.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/13/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65264,
+      "numero": 14,
+      "titulo": "Mobile Suit Gundam Seed - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_305c2e673a3cb5cdd08c730d4df93d43.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/14/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65265,
+      "numero": 15,
+      "titulo": "Mobile Suit Gundam Seed - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfddefbb01fd80cbc97af56bf0f9c72b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/15/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65266,
+      "numero": 16,
+      "titulo": "Mobile Suit Gundam Seed - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb9003446626875f1629be07fd87e5c2.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/16/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65267,
+      "numero": 17,
+      "titulo": "Mobile Suit Gundam Seed - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afddd0e3ad42b832abe28600ac5c03b8.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/17/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65268,
+      "numero": 18,
+      "titulo": "Mobile Suit Gundam Seed - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdc9583c16beb92141d43426e1374420.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/18/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65269,
+      "numero": 19,
+      "titulo": "Mobile Suit Gundam Seed - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33d4a9dbc4847833621f2a8fce3fbcbd.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/19/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65270,
+      "numero": 20,
+      "titulo": "Mobile Suit Gundam Seed - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_404ef9fdb29f842a8973a5d8937c05e0.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/20/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65271,
+      "numero": 21,
+      "titulo": "Mobile Suit Gundam Seed - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05daa1000cfca70f38ab7aebd9606b38.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/21/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65272,
+      "numero": 22,
+      "titulo": "Mobile Suit Gundam Seed - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccea53d389dc160e9745cf4b223abc7f.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/22/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65273,
+      "numero": 23,
+      "titulo": "Mobile Suit Gundam Seed - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64e868e97982eadb9a0e4b9dc47f2d59.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/23/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65274,
+      "numero": 24,
+      "titulo": "Mobile Suit Gundam Seed - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4061a8020726c15ac43a8e494259757b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/24/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65275,
+      "numero": 25,
+      "titulo": "Mobile Suit Gundam Seed - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12ca09b613ec2dcf469839d25514deba.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/25/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65276,
+      "numero": 26,
+      "titulo": "Mobile Suit Gundam Seed - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dccede65791a4354faebea32fbfcd15b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/26/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65277,
+      "numero": 27,
+      "titulo": "Mobile Suit Gundam Seed - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2a3ef35f1833c7dbf74a3f40ac67bc6.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/27/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65278,
+      "numero": 28,
+      "titulo": "Mobile Suit Gundam Seed - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cbfbcd39ec0695978b7c5727225cac8.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/28/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65279,
+      "numero": 29,
+      "titulo": "Mobile Suit Gundam Seed - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3a6cc230f2d339e61fdaa122b0b54e8.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/29/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65280,
+      "numero": 30,
+      "titulo": "Mobile Suit Gundam Seed - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00452ce149d1e2ba9dba34efc3a23c2f.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/30/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65281,
+      "numero": 31,
+      "titulo": "Mobile Suit Gundam Seed - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87b79b585bd939c670094c6f18b58a6e.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/31/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65282,
+      "numero": 32,
+      "titulo": "Mobile Suit Gundam Seed - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7b53c7e7ac80947aa68b03cf0ea8eec.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/32/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65283,
+      "numero": 33,
+      "titulo": "Mobile Suit Gundam Seed - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_799a8a752bf7b35409775d28b83a2f44.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/33/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65284,
+      "numero": 34,
+      "titulo": "Mobile Suit Gundam Seed - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce40f31011e20431dce95bf5df08eb29.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/34/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65285,
+      "numero": 35,
+      "titulo": "Mobile Suit Gundam Seed - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_573d97c7e7c018f6c9ea49dca340f635.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/35/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65286,
+      "numero": 36,
+      "titulo": "Mobile Suit Gundam Seed - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6a9ac8919033a07650d7d68ffac0808.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/36/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65287,
+      "numero": 37,
+      "titulo": "Mobile Suit Gundam Seed - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a94c88cbe5c7394f4d4e1ca21aca89b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/37/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65288,
+      "numero": 38,
+      "titulo": "Mobile Suit Gundam Seed - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72497d03af2b679cb5694742a064bd16.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/38/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65289,
+      "numero": 39,
+      "titulo": "Mobile Suit Gundam Seed - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e26005dc71956c1919628573363be9ac.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/39/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65290,
+      "numero": 40,
+      "titulo": "Mobile Suit Gundam Seed - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36df6c4af4bdd0f80515c2da4d593dc1.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/40/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65291,
+      "numero": 41,
+      "titulo": "Mobile Suit Gundam Seed - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c824f4db602ad329175413c2a2b5ea15.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/41/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65292,
+      "numero": 42,
+      "titulo": "Mobile Suit Gundam Seed - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9413cf23f6b61cb0cb0f6612d2225687.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/42/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65293,
+      "numero": 43,
+      "titulo": "Mobile Suit Gundam Seed - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e95dcfd9873d10f44482b13cf4bc58b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/43/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65294,
+      "numero": 44,
+      "titulo": "Mobile Suit Gundam Seed - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c84a511b0244571fe709555be5a4249a.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/44/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65295,
+      "numero": 45,
+      "titulo": "Mobile Suit Gundam Seed - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15d938b51600b7c7391fc6122b67e85f.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/45/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65296,
+      "numero": 46,
+      "titulo": "Mobile Suit Gundam Seed - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11a4126b342acaf7ea50c05dfb0b5ea9.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/46/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65297,
+      "numero": 47,
+      "titulo": "Mobile Suit Gundam Seed - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a3ae436c60498417f6bd2a3d0708d84.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/47/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    },
+    {
+      "id_origen": 65298,
+      "numero": 48,
+      "titulo": "Mobile Suit Gundam Seed - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d281cc894056f36206c0e5978170f168.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed/48/",
+      "publicado_en_origen": "2025-07-24 23:28:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1556",
+  "cantidad_episodios_declarada": 48,
+  "detalle_extraido_en": "2026-08-26T18:38:57+00:00"
+}

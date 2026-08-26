@@ -1,0 +1,37 @@
+{
+  "id_origen": 871,
+  "slug": "rozen-maiden-ouvertre",
+  "titulo": "Rozen Maiden: Ouvertüre",
+  "titulo_corto": "Rozen Maiden: Ouvertüre",
+  "sinopsis": "Jun le compra un broche a Shinku para su vestido, lo que ella rechaza debido a la gran historia que Souseiseki le cuanta a Jun sobre el inicio de la historia de odio de Suiginton y Shinku.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rozen-maiden-ouvertre.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/rozen-maiden-ouvertre/",
+  "episodios": [
+    {
+      "id_origen": 20875,
+      "numero": 1,
+      "titulo": "Rozen Maiden: Ouvertüre - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d787a2fde1f968b1ae639ab6ec28f2b.jpg",
+      "url_origen": "https://jkanime.net/rozen-maiden-ouvertre/1/",
+      "publicado_en_origen": "2013-06-27 04:43:20"
+    },
+    {
+      "id_origen": 20876,
+      "numero": 2,
+      "titulo": "Rozen Maiden: Ouvertüre - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c55cb7a3a57f23c11b3ed80f613e8863.jpg",
+      "url_origen": "https://jkanime.net/rozen-maiden-ouvertre/2/",
+      "publicado_en_origen": "2013-06-27 04:43:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "871",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:44:11+00:00"
+}

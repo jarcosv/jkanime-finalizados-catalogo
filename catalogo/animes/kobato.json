@@ -1,0 +1,213 @@
+{
+  "id_origen": 99,
+  "slug": "kobato",
+  "titulo": "Kobato.",
+  "titulo_corto": "Kobato.",
+  "sinopsis": "Hanato Kobato, quien siempre va acompañada por un perro de peluche (Ioryogi) y lleva consigo una extraña botella de cristal, cual tiene la misión de sanar el corazón de las personas para que esta botella se llegue a llenar. Cuando la botella se llene, Kobato podra ver hecho realidad su deseo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kobato.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kobato/",
+  "episodios": [
+    {
+      "id_origen": 2228,
+      "numero": 1,
+      "titulo": "Kobato 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ae67a7dd7e491f8fb6f9ea0cf25dfdb.jpg",
+      "url_origen": "https://jkanime.net/kobato/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2229,
+      "numero": 2,
+      "titulo": "Kobato 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6cd9313ed34ef58bad3fdd504355e72c.jpg",
+      "url_origen": "https://jkanime.net/kobato/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2230,
+      "numero": 3,
+      "titulo": "Kobato 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_329e6581efbc90bd92a1f22c4ba2103d.jpg",
+      "url_origen": "https://jkanime.net/kobato/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2231,
+      "numero": 4,
+      "titulo": "Kobato 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a8a812400df8963b2e2ac0ed01b07b8.jpg",
+      "url_origen": "https://jkanime.net/kobato/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2232,
+      "numero": 5,
+      "titulo": "Kobato 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e6260b81898beacda3d16db379ed329.jpg",
+      "url_origen": "https://jkanime.net/kobato/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2233,
+      "numero": 6,
+      "titulo": "Kobato 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0f7a4d0ef9b84b83b693bbf3feb8e6e.jpg",
+      "url_origen": "https://jkanime.net/kobato/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2234,
+      "numero": 7,
+      "titulo": "Kobato 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_653ac11ca60b3e021a8c609c7198acfc.jpg",
+      "url_origen": "https://jkanime.net/kobato/7/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2235,
+      "numero": 8,
+      "titulo": "Kobato 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0b79da57b95837f14be95aaa4d54cf8.jpg",
+      "url_origen": "https://jkanime.net/kobato/8/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2236,
+      "numero": 9,
+      "titulo": "Kobato 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3dd9424294b0292b6e89ea2bba2e1144.jpg",
+      "url_origen": "https://jkanime.net/kobato/9/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2237,
+      "numero": 10,
+      "titulo": "Kobato 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b166b57d195370cd41f80dd29ed523d9.jpg",
+      "url_origen": "https://jkanime.net/kobato/10/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2238,
+      "numero": 11,
+      "titulo": "Kobato 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2952351097998ac1240cb2ab7333a3d2.jpg",
+      "url_origen": "https://jkanime.net/kobato/11/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2239,
+      "numero": 12,
+      "titulo": "Kobato 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_487d4c6a324446b3fa45b30cfcee5337.jpg",
+      "url_origen": "https://jkanime.net/kobato/12/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2240,
+      "numero": 13,
+      "titulo": "Kobato 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4dd111a4fd973394238aca5c05bebe3.jpg",
+      "url_origen": "https://jkanime.net/kobato/13/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2241,
+      "numero": 14,
+      "titulo": "Kobato 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6e32320fa6bc5a588b90183b95dc028.jpg",
+      "url_origen": "https://jkanime.net/kobato/14/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2242,
+      "numero": 15,
+      "titulo": "Kobato 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a3f91fead97497b1a96d6104ad339f6.jpg",
+      "url_origen": "https://jkanime.net/kobato/15/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2243,
+      "numero": 16,
+      "titulo": "Kobato 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90aef91f0d9e7c3be322bd7bae41617d.jpg",
+      "url_origen": "https://jkanime.net/kobato/16/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2244,
+      "numero": 17,
+      "titulo": "Kobato 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3147da8ab4a0437c15ef51a5cc7f2dc4.jpg",
+      "url_origen": "https://jkanime.net/kobato/17/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2245,
+      "numero": 18,
+      "titulo": "Kobato 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10907813b97e249163587e6246612e21.jpg",
+      "url_origen": "https://jkanime.net/kobato/18/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2246,
+      "numero": 19,
+      "titulo": "Kobato 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_758a06618c69880a6cee5314ee42d52f.jpg",
+      "url_origen": "https://jkanime.net/kobato/19/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2247,
+      "numero": 20,
+      "titulo": "Kobato 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df1f1d20ee86704251795841e6a9405a.jpg",
+      "url_origen": "https://jkanime.net/kobato/20/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2248,
+      "numero": 21,
+      "titulo": "Kobato 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be6c7b094f88532b6c6b35bbcd525ee8.jpg",
+      "url_origen": "https://jkanime.net/kobato/21/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2249,
+      "numero": 22,
+      "titulo": "Kobato 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_243facb29564e7b448834a7c9d901201.jpg",
+      "url_origen": "https://jkanime.net/kobato/22/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2250,
+      "numero": 23,
+      "titulo": "Kobato 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a07c2f3b3b907aaf8436a26c6d77f0a2.jpg",
+      "url_origen": "https://jkanime.net/kobato/23/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2251,
+      "numero": 24,
+      "titulo": "Kobato 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5e2c0adad503c91f91df240d0cd4e49.jpg",
+      "url_origen": "https://jkanime.net/kobato/24/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:20+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "99",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:35:13+00:00"
+}

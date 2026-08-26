@@ -1,0 +1,29 @@
+{
+  "id_origen": 2483,
+  "slug": "akira",
+  "titulo": "Akira",
+  "titulo_corto": "Akira",
+  "sinopsis": "2019: sobre las ruinas de Tokio se alza la metrópolis de Neo-Tokio, una ciudad opresiva e inhumana donde la violencia, el terrorismo y la droga son problemas cotidianos. Las sectas religiosas y los grupos extremistas, aprovechándose de la insatisfacción de los ciudadanos, cultivan el mito de AKIRA, un \"niño cobaya\" depositario de la \"energía absoluta\" cuya resurrección significaría para Japón el amanecer de una nueva era. El gobierno experimenta sobre niños con poderes psíquicos para represar la ciudad. Mientras la historia se centra en dos motociclistas callejeros, Kaneda y Tetsuo, muy buenos amigos que, cuando Tetsuo sufre un choque contra un niño psíquico en una pelea de bandas, obtiene poderes que poco a poco se incrementan, provocándole alucinaciones y poderes paranormales increíbles. Mientras Tetsuo Libera caos en la ciudad y descontrol total para demostrar sus poderes creyéndose un Dios, Kaneda lo intenta detener antes que sea su fin, o del mismo Neo-Tokio.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/akira.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/akira/",
+  "episodios": [
+    {
+      "id_origen": 40488,
+      "numero": 1,
+      "titulo": "Akira",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48f878c04b5815a87f9421ca27d6b49c.jpg",
+      "url_origen": "https://jkanime.net/akira/1/",
+      "publicado_en_origen": "2019-07-14 02:05:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2483",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:15:59+00:00"
+}

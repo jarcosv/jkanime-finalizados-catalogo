@@ -1,0 +1,37 @@
+{
+  "id_origen": 2701,
+  "slug": "boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren",
+  "titulo": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
+  "titulo_corto": "Boku no Hero Academia: Ikinoko...",
+  "sinopsis": "En esta nueva aventura, algunos estudiantes de Clase 1-A son enviados a perfeccionar sus habilidades de supervivencia en un curso de capacitacion. Como aún no han recibido sus licencias provisionales, estan ansiosos por soltarse y divertirse un poco.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren/",
+  "episodios": [
+    {
+      "id_origen": 43324,
+      "numero": 1,
+      "titulo": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1db37ae750650dfac3ff2a7a911cf8a3.jpg",
+      "url_origen": "https://jkanime.net/boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren/1/",
+      "publicado_en_origen": "2020-08-15 15:45:23"
+    },
+    {
+      "id_origen": 43325,
+      "numero": 2,
+      "titulo": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4af35259e040dfc3e952faa7e78f30cf.jpg",
+      "url_origen": "https://jkanime.net/boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren/2/",
+      "publicado_en_origen": "2020-08-15 15:45:36"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2701",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:21:02+00:00"
+}

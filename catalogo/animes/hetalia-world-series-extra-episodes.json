@@ -1,0 +1,53 @@
+{
+  "id_origen": 1560,
+  "slug": "hetalia-world-series-extra-episodes",
+  "titulo": "Hetalia World Series Extra Episodes",
+  "titulo_corto": "Hetalia World Series Extra Epi...",
+  "sinopsis": "Episodios extra de Hetalia World Series: \n\nHetalia Extra 1: Chatty Nordics\nHetalia Extra 2: Celebrating Halloween\nHetalia Extra 3: Previously in Hetalia\nHetalia Extra 4: Hetalia Fantasia",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hetalia-world-series-extra-episodes.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hetalia-world-series-extra-episodes/",
+  "episodios": [
+    {
+      "id_origen": 28432,
+      "numero": 1,
+      "titulo": "Hetalia World Series Extra Episodes - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hetalia-world-series-extra-episodes.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series-extra-episodes/1/",
+      "publicado_en_origen": "2015-06-15 21:45:29"
+    },
+    {
+      "id_origen": 28433,
+      "numero": 2,
+      "titulo": "Hetalia World Series Extra Episodes - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hetalia-world-series-extra-episodes.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series-extra-episodes/2/",
+      "publicado_en_origen": "2015-06-15 21:45:30"
+    },
+    {
+      "id_origen": 28434,
+      "numero": 3,
+      "titulo": "Hetalia World Series Extra Episodes - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hetalia-world-series-extra-episodes.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series-extra-episodes/3/",
+      "publicado_en_origen": "2015-06-15 21:45:30"
+    },
+    {
+      "id_origen": 28435,
+      "numero": 4,
+      "titulo": "Hetalia World Series Extra Episodes - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hetalia-world-series-extra-episodes.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series-extra-episodes/4/",
+      "publicado_en_origen": "2015-06-15 21:45:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1560",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:30:19+00:00"
+}

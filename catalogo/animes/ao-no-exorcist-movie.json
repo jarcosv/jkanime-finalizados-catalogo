@@ -1,0 +1,29 @@
+{
+  "id_origen": 925,
+  "slug": "ao-no-exorcist-movie",
+  "titulo": "Ao no Exorcist Movie",
+  "titulo_corto": "Ao no Exorcist Movie",
+  "sinopsis": "Veremos a Okumura Rin y sus amigos envueltos en una nueva aventura al conocer a Usamaro un demonio no identificado, durante el Festival que se celebra cada 11 años irán descubriendo poco a poco quien es Usamaro en realidad.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ao-no-exorcist-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ao-no-exorcist-movie/",
+  "episodios": [
+    {
+      "id_origen": 21068,
+      "numero": 1,
+      "titulo": "Ao no Exorcist Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ee3d718e484b7fee862c8d6a7b89c84.jpg",
+      "url_origen": "https://jkanime.net/ao-no-exorcist-movie/1/",
+      "publicado_en_origen": "2013-07-13 23:40:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "925",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:16:58+00:00"
+}

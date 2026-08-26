@@ -1,0 +1,29 @@
+{
+  "id_origen": 700,
+  "slug": "upotte-ova",
+  "titulo": "Upotte!! OVA",
+  "titulo_corto": "Upotte!! OVA",
+  "sinopsis": "Ova incluida con el 4to. volumen del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/upotte-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/upotte-ova/",
+  "episodios": [
+    {
+      "id_origen": 18070,
+      "numero": 1,
+      "titulo": "Upotte!! OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cda79cef5b3d69e47bf881153de40ae2.jpg",
+      "url_origen": "https://jkanime.net/upotte-ova/1/",
+      "publicado_en_origen": "2012-10-23 20:15:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "700",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:51:11+00:00"
+}

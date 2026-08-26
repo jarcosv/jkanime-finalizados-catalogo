@@ -1,0 +1,29 @@
+{
+  "id_origen": 494,
+  "slug": "dragon-ball-z-movie-01-the-deadzone",
+  "titulo": "Dragon Ball Z Movie 01: The Deadzone",
+  "titulo_corto": "Dragon Ball Z Movie 01: The De...",
+  "sinopsis": "Hace muchos siglos, Kamisama compitió con Garlic para ser el sucesor del Dios de la Tierra. Éste les pidió que expulsaran la maldad de sus espíritus, y Kamisama fue el único que lo logró; irritado, Garlic se rebeló contra Dios, pero fue desterrado. Ahora su hijo, Garlic Jr., quien ha vuelto para vengarse, decide reunir las esferas del dragón para desear ser inmortal. Por el camino, secuestra Gohan, y tiene la intención de convertirlo en su discípulo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-z-movie-01-the-deadzone.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-z-movie-01-the-deadzone/",
+  "episodios": [
+    {
+      "id_origen": 14545,
+      "numero": 1,
+      "titulo": "Dragon Ball Z Movie 01: Devuélveme a mi Gohan!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcf70ea0bbeb4edca72cc304e75f4c98.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z-movie-01-the-deadzone/1/",
+      "publicado_en_origen": "2012-01-16 19:58:58"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "494",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:43+00:00"
+}

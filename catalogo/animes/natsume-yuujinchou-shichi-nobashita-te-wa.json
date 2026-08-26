@@ -1,0 +1,29 @@
+{
+  "id_origen": 4433,
+  "slug": "natsume-yuujinchou-shichi-nobashita-te-wa",
+  "titulo": "Natsume Yuujinchou Shichi: Nobashita Te wa",
+  "titulo_corto": "Natsume Yuujinchou Shichi: Nob...",
+  "sinopsis": "Decimotercer episodio de Natsume Yuujinchou Shichi incluido en la edición física.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/natsume-yuujinchou-shichi-nobashita-te-wa.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/natsume-yuujinchou-shichi-nobashita-te-wa/",
+  "episodios": [
+    {
+      "id_origen": 68477,
+      "numero": 1,
+      "titulo": "Natsume Yuujinchou Shichi: Nobashita Te wa",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3373f19711a32b2851e6e009eed56104.jpg",
+      "url_origen": "https://jkanime.net/natsume-yuujinchou-shichi-nobashita-te-wa/1/",
+      "publicado_en_origen": "2025-11-04 16:25:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:26+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4433",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:05+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 789,
+  "slug": "saintonii-san",
+  "titulo": "Saint☆Onii-san",
+  "titulo_corto": "Saint☆Onii-san",
+  "sinopsis": "Primer Ova incluida como extra con el octavo volumen del manga, Segunda OVA incluida como extra con el noveno volumen del manga: Sigue la vida de Jesucristo y Buda, quienes viven en Japón como un par de jóvenes, compañeros de cuarto y mejores amigos. Jesús es un poco holgazán, sin preocupaciones, irresponsable, e impulsivo. Frecuentemente pide \"permiso\" a Buda para hacer o comprar cosas. Buda es calmado, racional, y preocupado por el bienestar de otros. Sin embargo, Buda siempre se asombra por el carácter de Jesús y su comportamiento.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saintonii-san.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/saintonii-san/",
+  "episodios": [
+    {
+      "id_origen": 19654,
+      "numero": 1,
+      "titulo": "Saint☆Onii-san - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bbd4529ac608511bd21e85530061ee0.jpg",
+      "url_origen": "https://jkanime.net/saintonii-san/1/",
+      "publicado_en_origen": "2013-03-17 09:18:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "789",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:44:41+00:00"
+}

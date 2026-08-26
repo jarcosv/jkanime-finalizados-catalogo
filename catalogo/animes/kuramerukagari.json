@@ -1,0 +1,29 @@
+{
+  "id_origen": 3740,
+  "slug": "kuramerukagari",
+  "titulo": "Kuramerukagari",
+  "titulo_corto": "Kuramerukagari",
+  "sinopsis": "Esta es una historia que une a personas y un pueblo. Una ciudad minera de carbón repleta de excavadoras de pequeña escala, comúnmente conocidas como \"Hakoniwa\". En este pueblo que cambia a diario como un laberinto, hay una chica llamada Kagari que dirige un negocio de elaboración de mapas y un chico llamado Yuya que sueña con liberarse de los \"Hakoniwa\". Finalmente, los dos, junto con los singulares residentes del pueblo, se enfrentan a una conspiración que sacude a todo el pueblo. El destino del “Hakoniwa” depende de los dibujos de Kagari en el mapa.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kuramerukagari.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kuramerukagari/",
+  "episodios": [
+    {
+      "id_origen": 56875,
+      "numero": 1,
+      "titulo": "Kuramerukagari",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e68af390098520086dbdc8a94fffa838.jpg",
+      "url_origen": "https://jkanime.net/kuramerukagari/1/",
+      "publicado_en_origen": "2024-04-15 11:02:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3740",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:35:53+00:00"
+}

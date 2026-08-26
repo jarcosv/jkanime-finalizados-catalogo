@@ -1,0 +1,117 @@
+{
+  "id_origen": 2451,
+  "slug": "kanata-no-astra",
+  "titulo": "Kanata no Astra",
+  "titulo_corto": "Kanata no Astra",
+  "sinopsis": "El año es 2061, cuando los viajes espaciales ahora son posibles y comercialmente viables, y los estudiantes de Caird High School se embarcan en su Planet Camp.\nPero poco despues de que el Grupo B5 llego a su sitio de campamento planetario, una misteriosa e imprevista esfera luminosa envuelve a sus 9 miembros en el espacio exterior, dejandolos a 5012 años luz de distancia de su planeta de origen.\nCon el descubrimiento de una vieja nave espacial no tripulada cerca, los estudiantes deben mantenerse fuertes, administrar sus recursos limitados y permanecer unidos en la oscuridad del espacio, para que todos ellos puedan sobrevivir a su largo y probable viaje peligroso de regreso a casa a bordo del Astra.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kanata-no-astra.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kanata-no-astra/",
+  "episodios": [
+    {
+      "id_origen": 40390,
+      "numero": 1,
+      "titulo": "Kanata no Astra - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_861288f2a22d00fd516d7d104c7349da.jpg",
+      "url_origen": "https://jkanime.net/kanata-no-astra/1/",
+      "publicado_en_origen": "2019-07-03 19:07:17"
+    },
+    {
+      "id_origen": 40463,
+      "numero": 2,
+      "titulo": "Kanata no Astra - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57a80e778f3d755b4f2166e6a60826fd.jpg",
+      "url_origen": "https://jkanime.net/kanata-no-astra/2/",
+      "publicado_en_origen": "2019-07-10 17:46:06"
+    },
+    {
+      "id_origen": 40513,
+      "numero": 3,
+      "titulo": "Kanata no Astra - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_643d9e3a6e58bde642a3ee358ff7b63b.jpg",
+      "url_origen": "https://jkanime.net/kanata-no-astra/3/",
+      "publicado_en_origen": "2019-07-17 18:12:32"
+    },
+    {
+      "id_origen": 40555,
+      "numero": 4,
+      "titulo": "Kanata no Astra - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85cef7747c65f4a841426d6fdd329449.jpg",
+      "url_origen": "https://jkanime.net/kanata-no-astra/4/",
+      "publicado_en_origen": "2019-07-25 03:42:57"
+    },
+    {
+      "id_origen": 40608,
+      "numero": 5,
+      "titulo": "Kanata no Astra - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08bdd4ccdfefb4a7ad7757fba080aa28.jpg",
+      "url_origen": "https://jkanime.net/kanata-no-astra/5/",
+      "publicado_en_origen": "2019-08-01 14:04:27"
+    },
+    {
+      "id_origen": 40660,
+      "numero": 6,
+      "titulo": "Kanata no Astra - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ce8717b8496b9d1a1e4c615b7c91d92.jpg",
+      "url_origen": "https://jkanime.net/kanata-no-astra/6/",
+      "publicado_en_origen": "2019-08-07 20:13:57"
+    },
+    {
+      "id_origen": 40706,
+      "numero": 7,
+      "titulo": "Kanata no Astra - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f2f38601e18f8d94fad2b8e237cc1a7.jpg",
+      "url_origen": "https://jkanime.net/kanata-no-astra/7/",
+      "publicado_en_origen": "2019-08-14 23:42:30"
+    },
+    {
+      "id_origen": 40778,
+      "numero": 8,
+      "titulo": "Kanata no Astra - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2dad69202cc3e9f4c44851e6945c04b.jpg",
+      "url_origen": "https://jkanime.net/kanata-no-astra/8/",
+      "publicado_en_origen": "2019-08-21 22:45:32"
+    },
+    {
+      "id_origen": 40831,
+      "numero": 9,
+      "titulo": "Kanata no Astra - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5ae90d57d601201bd8d30dd9d53c076.jpg",
+      "url_origen": "https://jkanime.net/kanata-no-astra/9/",
+      "publicado_en_origen": "2019-08-28 21:43:19"
+    },
+    {
+      "id_origen": 40882,
+      "numero": 10,
+      "titulo": "Kanata no Astra - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cb9c75c1489b79a085eb7f56d82f2bf.jpg",
+      "url_origen": "https://jkanime.net/kanata-no-astra/10/",
+      "publicado_en_origen": "2019-09-04 17:10:34"
+    },
+    {
+      "id_origen": 40931,
+      "numero": 11,
+      "titulo": "Kanata no Astra - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06cdfee73fbb16ea0a84a5a59735c846.jpg",
+      "url_origen": "https://jkanime.net/kanata-no-astra/11/",
+      "publicado_en_origen": "2019-09-11 22:49:08"
+    },
+    {
+      "id_origen": 41069,
+      "numero": 12,
+      "titulo": "Kanata no Astra - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8b687939c2ff82c6cc395c7de783262.jpg",
+      "url_origen": "https://jkanime.net/kanata-no-astra/12/",
+      "publicado_en_origen": "2019-09-19 03:31:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2451",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:33:48+00:00"
+}

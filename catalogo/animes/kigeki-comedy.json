@@ -1,0 +1,61 @@
+{
+  "id_origen": 1470,
+  "slug": "kigeki-comedy",
+  "titulo": "Sweat Punch",
+  "titulo_corto": "Sweat Punch",
+  "sinopsis": "La leyenda habla de un espadachín solitario que vive en el Castillo del Demonio, un castillo en ruinas cerca del Bosque Negro.Este misterioso extranjero sólo acepta libros raros por sus servicios, libros antiguos del pasado.Comedy nos cuenta la historia de una jovencita que desea desesperadamente salvar a su familia y su pueblo de la ira de los soldados ingleses, entregando un preciado libro a cambio de la hazaña.Con sus piernas como unica ayuda, corre hacia el Bosque Negro, esperando llegar a tiempo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kigeki-comedy.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kigeki-comedy/",
+  "episodios": [
+    {
+      "id_origen": 27220,
+      "numero": 1,
+      "titulo": "Sweat Punch - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b3575c997eb8e46e71f91752bdfe41e.jpg",
+      "url_origen": "https://jkanime.net/kigeki-comedy/1/",
+      "publicado_en_origen": "2015-03-25 11:12:15"
+    },
+    {
+      "id_origen": 48893,
+      "numero": 2,
+      "titulo": "Sweat Punch - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5dd6e129b5884dc2ecc98e8e24aa5b6a.jpg",
+      "url_origen": "https://jkanime.net/kigeki-comedy/2/",
+      "publicado_en_origen": "2022-04-12 13:38:34"
+    },
+    {
+      "id_origen": 48894,
+      "numero": 3,
+      "titulo": "Sweat Punch - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbe5b26b5ed29d8c0e1daa96f2a92370.jpg",
+      "url_origen": "https://jkanime.net/kigeki-comedy/3/",
+      "publicado_en_origen": "2022-04-12 13:38:34"
+    },
+    {
+      "id_origen": 48895,
+      "numero": 4,
+      "titulo": "Sweat Punch - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20540c599746e70d0787f05c42f002bb.jpg",
+      "url_origen": "https://jkanime.net/kigeki-comedy/4/",
+      "publicado_en_origen": "2022-04-12 13:38:34"
+    },
+    {
+      "id_origen": 48896,
+      "numero": 5,
+      "titulo": "Sweat Punch - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa4a7618f1125230594d90002a267e66.jpg",
+      "url_origen": "https://jkanime.net/kigeki-comedy/5/",
+      "publicado_en_origen": "2022-04-12 13:38:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1470",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:48:10+00:00"
+}

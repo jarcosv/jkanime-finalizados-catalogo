@@ -1,0 +1,117 @@
+{
+  "id_origen": 2215,
+  "slug": "tokyo-ghoulre",
+  "titulo": "Tokyo Ghoul:re",
+  "titulo_corto": "Tokyo Ghoul:re",
+  "sinopsis": "Tras el ataque al Anteiku, lugar de encuentro de ghouls y guarida del Búho, la CCG sigue trabajando para destruir a los ghouls que devoran a los humanos. Y para ello ha creado una nueva división, el escuadrón Quinx, liderado por el misterioso inspector Haise Sasaki...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tokyo-ghoulre.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tokyo-ghoulre/",
+  "episodios": [
+    {
+      "id_origen": 36963,
+      "numero": 1,
+      "titulo": "Tokyo Ghoul:re - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac957f861e66e00b823bd6d0ffcb603c.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoulre/1/",
+      "publicado_en_origen": "2018-04-03 14:37:40"
+    },
+    {
+      "id_origen": 37016,
+      "numero": 2,
+      "titulo": "Tokyo Ghoul:re - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5b48cd740459076e51b98c3fd80d225.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoulre/2/",
+      "publicado_en_origen": "2018-04-10 14:50:01"
+    },
+    {
+      "id_origen": 37059,
+      "numero": 3,
+      "titulo": "Tokyo Ghoul:re - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0e9aac8a8b927ecef9e62a1633573d5.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoulre/3/",
+      "publicado_en_origen": "2018-04-17 14:28:12"
+    },
+    {
+      "id_origen": 37105,
+      "numero": 4,
+      "titulo": "Tokyo Ghoul:re - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edcf88e7819d5bdf226faaf1a6fbd563.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoulre/4/",
+      "publicado_en_origen": "2018-04-24 15:01:35"
+    },
+    {
+      "id_origen": 37150,
+      "numero": 5,
+      "titulo": "Tokyo Ghoul:re - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa4bc9ad64609d15afc67ff4b4623089.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoulre/5/",
+      "publicado_en_origen": "2018-05-01 22:21:12"
+    },
+    {
+      "id_origen": 37190,
+      "numero": 6,
+      "titulo": "Tokyo Ghoul:re - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a51ab267b24f5353eafcab51fbb5bdc.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoulre/6/",
+      "publicado_en_origen": "2018-05-08 14:59:06"
+    },
+    {
+      "id_origen": 37231,
+      "numero": 7,
+      "titulo": "Tokyo Ghoul:re - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c1d028821a059875f8a05ce689c75c5.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoulre/7/",
+      "publicado_en_origen": "2018-05-15 14:52:07"
+    },
+    {
+      "id_origen": 37269,
+      "numero": 8,
+      "titulo": "Tokyo Ghoul:re - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa1ecbb29c36a80120fa7bba7191f1b8.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoulre/8/",
+      "publicado_en_origen": "2018-05-22 14:58:57"
+    },
+    {
+      "id_origen": 37352,
+      "numero": 9,
+      "titulo": "Tokyo Ghoul:re - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f796eb02238d62a7ace5b8f2c416d91.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoulre/9/",
+      "publicado_en_origen": "2018-06-08 17:41:32"
+    },
+    {
+      "id_origen": 37353,
+      "numero": 10,
+      "titulo": "Tokyo Ghoul:re - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3096906059efe2c9098fe8b265ebb949.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoulre/10/",
+      "publicado_en_origen": "2018-06-08 18:02:42"
+    },
+    {
+      "id_origen": 37992,
+      "numero": 11,
+      "titulo": "Tokyo Ghoul:re - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26d56744fb9c9a6fa2453226562d7df6.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoulre/11/",
+      "publicado_en_origen": "2018-09-30 22:39:27"
+    },
+    {
+      "id_origen": 37993,
+      "numero": 12,
+      "titulo": "Tokyo Ghoul:re - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_436daf7e5bdda10a4194fa6e7fb100d9.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoulre/12/",
+      "publicado_en_origen": "2018-09-30 22:39:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:19+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2215",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:49:44+00:00"
+}

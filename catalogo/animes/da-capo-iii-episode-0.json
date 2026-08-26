@@ -1,0 +1,29 @@
+{
+  "id_origen": 753,
+  "slug": "da-capo-iii-episode-0",
+  "titulo": "Da Capo III Episode 0",
+  "titulo_corto": "Da Capo III Episode 0",
+  "sinopsis": "Especial que recuenta los temas de canciones de Da Capo y además muestra los personajes de la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/da-capo-iii-episode-0.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/da-capo-iii-episode-0/",
+  "episodios": [
+    {
+      "id_origen": 18944,
+      "numero": 1,
+      "titulo": "Da Capo III Episode 0",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/da-capo-iii-episode-0.jpg",
+      "url_origen": "https://jkanime.net/da-capo-iii-episode-0/1/",
+      "publicado_en_origen": "2013-01-06 06:13:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "753",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:15+00:00"
+}

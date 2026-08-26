@@ -1,0 +1,45 @@
+{
+  "id_origen": 2662,
+  "slug": "another-world",
+  "titulo": "Another World",
+  "titulo_corto": "Another World",
+  "sinopsis": "spin-off de la pelicula dividida en 3 partes",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/another-world.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/another-world/",
+  "episodios": [
+    {
+      "id_origen": 42651,
+      "numero": 1,
+      "titulo": "Another World - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8964b9a2e065b1067f99ff74fcdb449.jpg",
+      "url_origen": "https://jkanime.net/another-world/1/",
+      "publicado_en_origen": "2020-04-09 18:59:12"
+    },
+    {
+      "id_origen": 42652,
+      "numero": 2,
+      "titulo": "Another World - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbfe9c3cf96e804afe8621ea7e80c03f.jpg",
+      "url_origen": "https://jkanime.net/another-world/2/",
+      "publicado_en_origen": "2020-04-09 18:59:18"
+    },
+    {
+      "id_origen": 42653,
+      "numero": 3,
+      "titulo": "Another World - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35ff5085cd51fc32f70c47ae0e038665.jpg",
+      "url_origen": "https://jkanime.net/another-world/3/",
+      "publicado_en_origen": "2020-04-09 18:59:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2662",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:16:48+00:00"
+}

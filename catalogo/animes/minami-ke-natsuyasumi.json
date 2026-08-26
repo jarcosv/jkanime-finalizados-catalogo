@@ -1,0 +1,29 @@
+{
+  "id_origen": 940,
+  "slug": "minami-ke-natsuyasumi",
+  "titulo": "Minami-ke Natsuyasumi",
+  "titulo_corto": "Minami-ke Natsuyasumi",
+  "sinopsis": "OVA de Minami-Ke incluída en el volumen 11 del manga",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/minami-ke-natsuyasumi.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/minami-ke-natsuyasumi/",
+  "episodios": [
+    {
+      "id_origen": 21425,
+      "numero": 1,
+      "titulo": "Minami-ke Natsuyasumi",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bb103d92d2fd1b7e330c9cb67c229e1.jpg",
+      "url_origen": "https://jkanime.net/minami-ke-natsuyasumi/1/",
+      "publicado_en_origen": "2013-09-04 22:42:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "940",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:38:38+00:00"
+}

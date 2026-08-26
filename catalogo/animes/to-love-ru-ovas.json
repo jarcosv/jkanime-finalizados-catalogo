@@ -1,0 +1,69 @@
+{
+  "id_origen": 228,
+  "slug": "to-love-ru-ovas",
+  "titulo": "To LOVE-Ru OVA",
+  "titulo_corto": "To LOVE-Ru OVA",
+  "sinopsis": "La OVA de To Love-Ru sigue las aventuras de Yuuki Rito y Lala Deviluke junto con sus compañeros donde tendran picantes encuentros como siempre.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/to-love-ru-ovas.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/to-love-ru-ovas/",
+  "episodios": [
+    {
+      "id_origen": 6294,
+      "numero": 1,
+      "titulo": "To Love Ru OVAS 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8ad9beba48de682e6accacba8cdbe2d.jpg",
+      "url_origen": "https://jkanime.net/to-love-ru-ovas/1/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6295,
+      "numero": 2,
+      "titulo": "To Love Ru OVAS 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9df81829c4ebc9c427b9afe0438dce5a.jpg",
+      "url_origen": "https://jkanime.net/to-love-ru-ovas/2/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6296,
+      "numero": 3,
+      "titulo": "To Love Ru OVAS 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1fe6165cad3f7f3f57d409f78e4415f.jpg",
+      "url_origen": "https://jkanime.net/to-love-ru-ovas/3/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6297,
+      "numero": 4,
+      "titulo": "To Love Ru OVAS 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32c47400d002aa2e9608f262414b4aba.jpg",
+      "url_origen": "https://jkanime.net/to-love-ru-ovas/4/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6298,
+      "numero": 5,
+      "titulo": "To Love Ru OVAS 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3487596cf54cb393afddaa965714ab1f.jpg",
+      "url_origen": "https://jkanime.net/to-love-ru-ovas/5/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 15212,
+      "numero": 6,
+      "titulo": "To LOVE-Ru OVA - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_443934cd5ba8879bde961f1be9407327.jpg",
+      "url_origen": "https://jkanime.net/to-love-ru-ovas/6/",
+      "publicado_en_origen": "2012-03-15 16:13:16"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:22+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "228",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:49:33+00:00"
+}

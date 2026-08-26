@@ -1,0 +1,29 @@
+{
+  "id_origen": 3254,
+  "slug": "tonikaku-kawaii-seifuku",
+  "titulo": "Tonikaku Kawaii: Seifuku",
+  "titulo_corto": "Tonikaku Kawaii: Seifuku",
+  "sinopsis": "Episodio especial de Tonikaku Kawaii programado para ser lanzado en otoño de 2022.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tonikaku-kawaii-seifuku.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tonikaku-kawaii-seifuku/",
+  "episodios": [
+    {
+      "id_origen": 51129,
+      "numero": 1,
+      "titulo": "Tonikaku Kawaii: Seifuku",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35fb1efa6a08d4e5a9b2b4033269c4ec.jpg",
+      "url_origen": "https://jkanime.net/tonikaku-kawaii-seifuku/1/",
+      "publicado_en_origen": "2022-11-23 01:45:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3254",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:49:55+00:00"
+}

@@ -1,0 +1,429 @@
+{
+  "id_origen": 451,
+  "slug": "digimon-tamers",
+  "titulo": "Digimon Tamers",
+  "titulo_corto": "Digimon Tamers",
+  "sinopsis": "Digimon Adventure y Adventure 02 han sido para muchos niños una gran serie de anime, incluso se ha sacado un juego muy popular de cartas en Japón, uno de esos niños es Takato Matsuda, el cual sueña con tener su propio Digimon. Un día, mientras Takato juega con cartas, se encuentra con una carta azul muy extraña que jamas había visto antes, carta que luego transforma su digi-device y le permite crear su propio Digimon, junto con amigos comenzaran increíbles aventuras tanto en el mundo real como en el Digimundo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-tamers.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/digimon-tamers/",
+  "episodios": [
+    {
+      "id_origen": 13246,
+      "numero": 1,
+      "titulo": "Digimon Tamers - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51cece00aed19468f18042ad0606a3d3.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/1/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13247,
+      "numero": 2,
+      "titulo": "Digimon Tamers - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb61c2b1b1bf5d25c86da9fceef54538.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/2/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13248,
+      "numero": 3,
+      "titulo": "Digimon Tamers - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7bf615d7da357e85843bafdfbc45719.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/3/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13249,
+      "numero": 4,
+      "titulo": "Digimon Tamers - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b683cc41556d5055c15033c86a75861c.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/4/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13250,
+      "numero": 5,
+      "titulo": "Digimon Tamers - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_975ae6d3ce8ae6e0711821a97a9f5fae.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/5/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13251,
+      "numero": 6,
+      "titulo": "Digimon Tamers - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_645f86b5cec4da0a56ffea7a891720c9.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/6/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13252,
+      "numero": 7,
+      "titulo": "Digimon Tamers - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31914689514c64a97d950a8d9eea3eeb.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/7/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13253,
+      "numero": 8,
+      "titulo": "Digimon Tamers - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b180bd9c2d0748cbd912ade1824b9228.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/8/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13254,
+      "numero": 9,
+      "titulo": "Digimon Tamers - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6128a5c44f82653361a48a60cbc47c2.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/9/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13255,
+      "numero": 10,
+      "titulo": "Digimon Tamers - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c999d5b6b8bab8662faae7fafe463f04.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/10/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13256,
+      "numero": 11,
+      "titulo": "Digimon Tamers - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d1465fa9e3d1f2e8d9f310b400c614e.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/11/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13257,
+      "numero": 12,
+      "titulo": "Digimon Tamers - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2843fe2048acb2e687eeebe826db352.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/12/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13258,
+      "numero": 13,
+      "titulo": "Digimon Tamers - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_953bd83cb0b9c9f9dc4b3ba0bfc1b236.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/13/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13259,
+      "numero": 14,
+      "titulo": "Digimon Tamers - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f1660f4c5defc5b8d938ecd39837d11.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/14/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13260,
+      "numero": 15,
+      "titulo": "Digimon Tamers - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18cd151a4b7a5f5258220cfd707fd67b.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/15/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13261,
+      "numero": 16,
+      "titulo": "Digimon Tamers - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8acb9f3726fce014595187a18ed05b9.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/16/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13262,
+      "numero": 17,
+      "titulo": "Digimon Tamers - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5328c873d3470e351e602ea7cba85180.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/17/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13263,
+      "numero": 18,
+      "titulo": "Digimon Tamers - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f23077b60542b92033df4d2e208706de.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/18/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13264,
+      "numero": 19,
+      "titulo": "Digimon Tamers - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e81218f96c55d1006352ed0a3b08d790.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/19/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13265,
+      "numero": 20,
+      "titulo": "Digimon Tamers - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26c954646e21d70792e4db24a76a5fc0.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/20/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13266,
+      "numero": 21,
+      "titulo": "Digimon Tamers - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10a9288f519d683f87f6443f7b6810e6.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/21/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13267,
+      "numero": 22,
+      "titulo": "Digimon Tamers - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4049f46696d549c65f5832e15664afdd.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/22/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13268,
+      "numero": 23,
+      "titulo": "Digimon Tamers - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_951cb7fcf08241d659513d4e84acdfaa.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/23/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13269,
+      "numero": 24,
+      "titulo": "Digimon Tamers - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01f6211e00cc8f00a7b68e8e24b1b4d6.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/24/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13270,
+      "numero": 25,
+      "titulo": "Digimon Tamers - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7651301cabf91a1be8e3cf0b72e8734f.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/25/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13271,
+      "numero": 26,
+      "titulo": "Digimon Tamers - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1cbaa4e5609fb6517f54f0ab0c205ada.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/26/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13272,
+      "numero": 27,
+      "titulo": "Digimon Tamers - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd7fb6f837e41936eb831b050db82330.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/27/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13273,
+      "numero": 28,
+      "titulo": "Digimon Tamers - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8954b3eebb94b46ddf1c1a09c48e9e67.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/28/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13274,
+      "numero": 29,
+      "titulo": "Digimon Tamers - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_235aed15072a0cd8bb2836eea30d4884.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/29/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13275,
+      "numero": 30,
+      "titulo": "Digimon Tamers - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e72d58699e2b0ef6fb64ab80fff4e29c.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/30/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13276,
+      "numero": 31,
+      "titulo": "Digimon Tamers - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cca437dfff11995edc035566eabec9a7.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/31/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13277,
+      "numero": 32,
+      "titulo": "Digimon Tamers - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dbb1c25df6942683e7b1317f0e13db6.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/32/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13278,
+      "numero": 33,
+      "titulo": "Digimon Tamers - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edbdd777879cbb165a94951e6a425b3f.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/33/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13279,
+      "numero": 34,
+      "titulo": "Digimon Tamers - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2808e33b0ef26bac248b17936f0f1938.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/34/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13280,
+      "numero": 35,
+      "titulo": "Digimon Tamers - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea87de84e18a339d4efa00144c5b0fe3.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/35/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13281,
+      "numero": 36,
+      "titulo": "Digimon Tamers - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44680b5f7cefd57a0e580cfc11a9308f.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/36/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13282,
+      "numero": 37,
+      "titulo": "Digimon Tamers - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad1aee42344e7f7432abd116da321569.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/37/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13283,
+      "numero": 38,
+      "titulo": "Digimon Tamers - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28aec02f231f4c4baa9a4a58ae139710.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/38/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13284,
+      "numero": 39,
+      "titulo": "Digimon Tamers - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52d5d0f100d9de6a78a830d358c6adc7.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/39/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13285,
+      "numero": 40,
+      "titulo": "Digimon Tamers - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_491159b91b3f6bfcebca81f03ebeee71.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/40/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13286,
+      "numero": 41,
+      "titulo": "Digimon Tamers - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1ba85f6ae2e937e3a3207c7304f4ca0.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/41/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13287,
+      "numero": 42,
+      "titulo": "Digimon Tamers - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ade14765069c05180284d03b3097202.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/42/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13288,
+      "numero": 43,
+      "titulo": "Digimon Tamers - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e5c557bee41e0e7451c68b1223eafe4.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/43/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13289,
+      "numero": 44,
+      "titulo": "Digimon Tamers - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9edd04c32a175d1c87f8dbfebba55327.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/44/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13290,
+      "numero": 45,
+      "titulo": "Digimon Tamers - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c740a1ff47c2ee2e7bd7530f4853cbf0.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/45/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13295,
+      "numero": 46,
+      "titulo": "Digimon Tamers - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_327efb45357264e0d764058cad59bba0.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/46/",
+      "publicado_en_origen": "2011-11-14 14:54:46"
+    },
+    {
+      "id_origen": 13291,
+      "numero": 47,
+      "titulo": "Digimon Tamers - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ff717d6170a860a50f7f4fe1ab7921b.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/47/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13292,
+      "numero": 48,
+      "titulo": "Digimon Tamers - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21ea3211c68284b0bb4cd9a2cedc524e.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/48/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13293,
+      "numero": 49,
+      "titulo": "Digimon Tamers - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56f140884852f96cb0fa2c247b378358.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/49/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13294,
+      "numero": 50,
+      "titulo": "Digimon Tamers - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afa806680e3179a764da5dc370cf9ee9.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/50/",
+      "publicado_en_origen": "2011-11-14 14:54:31"
+    },
+    {
+      "id_origen": 13296,
+      "numero": 51,
+      "titulo": "Digimon Tamers - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d97f1b344219f59ac743f43681a5190.jpg",
+      "url_origen": "https://jkanime.net/digimon-tamers/51/",
+      "publicado_en_origen": "2011-11-14 14:55:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "451",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:25:10+00:00"
+}

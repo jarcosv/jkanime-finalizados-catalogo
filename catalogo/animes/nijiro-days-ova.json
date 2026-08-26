@@ -1,0 +1,29 @@
+{
+  "id_origen": 2368,
+  "slug": "nijiro-days-ova",
+  "titulo": "Nijiiro Days OVA",
+  "titulo_corto": "Nijiiro Days OVA",
+  "sinopsis": "Incluido con el volumen número 13 de edición limitada del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nijiro-days-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nijiro-days-ova/",
+  "episodios": [
+    {
+      "id_origen": 38861,
+      "numero": 1,
+      "titulo": "Nijiiro Days OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9c849ba1538b82e3c2e72ebfc92f14e.jpg",
+      "url_origen": "https://jkanime.net/nijiro-days-ova/1/",
+      "publicado_en_origen": "2019-02-12 04:15:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2368",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:25+00:00"
+}

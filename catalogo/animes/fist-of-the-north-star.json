@@ -1,0 +1,893 @@
+{
+  "id_origen": 425,
+  "slug": "fist-of-the-north-star",
+  "titulo": "fist of the north star",
+  "titulo_corto": "fist of the north star",
+  "sinopsis": "Después de la Tercera Guerra Mundial, el planeta se volvió un lugar desolado, y el agua se convirtió en el recurso más apetecido por las personas alrededor del mundo. Ya no es la inteligencia ni la habilidad es lo que reina en este mundo, sino que la fuerza, específicamente, la fuerza bruta. Es por eso que son los más fuertes los que dominan el mundo. Esto cambiará cuando El Puño de la Estrella Del Norte llegue a esas tierras, este personaje, descendiente de la más fuerte Arte Marcial nunca conocida, se encarga de ayudar a los pobladores a conseguir una vida más digna.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fist-of-the-north-star.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fist-of-the-north-star/",
+  "episodios": [
+    {
+      "id_origen": 12249,
+      "numero": 1,
+      "titulo": "fist of the north star - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c944f1ed33079ef19b1965581683dece.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/1/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12250,
+      "numero": 2,
+      "titulo": "fist of the north star - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91866be0ed30d6a36df817992d2a2ef3.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/2/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12251,
+      "numero": 3,
+      "titulo": "fist of the north star - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_956058422500de80654a14d89ca9a010.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/3/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12252,
+      "numero": 4,
+      "titulo": "fist of the north star - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9bca7629c60b646a4be02e9c9449de9.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/4/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12253,
+      "numero": 5,
+      "titulo": "fist of the north star - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bff5f1eccc4274235c7ccdb2541b540.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/5/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12254,
+      "numero": 6,
+      "titulo": "fist of the north star - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_536b08b12d4f3c719bb351eefcf1669f.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/6/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12255,
+      "numero": 7,
+      "titulo": "fist of the north star - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e16ff47e6c201e7636a5325e01185656.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/7/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12256,
+      "numero": 8,
+      "titulo": "fist of the north star - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7880d7226e872b776d8b9f23975e2a3d.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/8/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12257,
+      "numero": 9,
+      "titulo": "fist of the north star - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d754f7302ec0da60aeb079c36b4938d4.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/9/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12258,
+      "numero": 10,
+      "titulo": "fist of the north star - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_500739868ce9f7f0857260404eab4d41.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/10/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12259,
+      "numero": 11,
+      "titulo": "fist of the north star - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bdc3efe2bdc1946dbb253b2d101b484.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/11/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12260,
+      "numero": 12,
+      "titulo": "fist of the north star - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e79bb200d83ee7fe727a8bbd41bc5bea.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/12/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12261,
+      "numero": 13,
+      "titulo": "fist of the north star - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_faaf2536affe4336d815f90c56011ebb.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/13/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12262,
+      "numero": 14,
+      "titulo": "fist of the north star - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_424f7ef1be195c6efc2a19439b152a81.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/14/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12263,
+      "numero": 15,
+      "titulo": "fist of the north star - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50d758cc9ab8bb51177b071d370caac2.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/15/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12264,
+      "numero": 16,
+      "titulo": "fist of the north star - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_562a18872fb4620235fcb21a097aa0a7.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/16/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12265,
+      "numero": 17,
+      "titulo": "fist of the north star - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b3e69a7084c76e56be15598fc72ded6.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/17/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12266,
+      "numero": 18,
+      "titulo": "fist of the north star - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f01f3fbc8bcf75f3290c2202361b86d.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/18/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12267,
+      "numero": 19,
+      "titulo": "fist of the north star - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d21c3a84d2fdfaab4c97764f8bb27d7.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/19/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12268,
+      "numero": 20,
+      "titulo": "fist of the north star - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef8f157ca5b0983df9112aaca855ec2b.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/20/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12269,
+      "numero": 21,
+      "titulo": "fist of the north star - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9fef29f176742d075a466c19efcb9da.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/21/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12270,
+      "numero": 22,
+      "titulo": "fist of the north star - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3752bd232f5ce0a575ae0a35c06c79c.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/22/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12271,
+      "numero": 23,
+      "titulo": "fist of the north star - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dea92ba3dcf99dec356e0520d4647a88.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/23/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12272,
+      "numero": 24,
+      "titulo": "fist of the north star - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f868fbc4057d1296214afd7cc3670450.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/24/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12273,
+      "numero": 25,
+      "titulo": "fist of the north star - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_befe5b0172188ad14d48c3ebe9cf76bf.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/25/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12274,
+      "numero": 26,
+      "titulo": "fist of the north star - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2edb343575be23ac74ebc110948bb693.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/26/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12275,
+      "numero": 27,
+      "titulo": "fist of the north star - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f4bcf819fdbacb2a65d63843f39f441.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/27/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12276,
+      "numero": 28,
+      "titulo": "fist of the north star - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95a6fc111fa11c3ab209a0ed1b9abeb6.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/28/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12277,
+      "numero": 29,
+      "titulo": "fist of the north star - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96276c4db2d39c1529b9fdbfc9e5b2e6.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/29/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12278,
+      "numero": 30,
+      "titulo": "fist of the north star - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b58144d7e90b5a43edcce1ca9e642882.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/30/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12279,
+      "numero": 31,
+      "titulo": "fist of the north star - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ef8783d73140a616fc3d27d7330d503.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/31/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12280,
+      "numero": 32,
+      "titulo": "fist of the north star - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aae094199bf30b0b1a58e8ec1bbad5ec.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/32/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12281,
+      "numero": 33,
+      "titulo": "fist of the north star - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb51aea2099d8fbdfe50a5cd69ff8e50.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/33/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12282,
+      "numero": 34,
+      "titulo": "fist of the north star - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fda2217a3921c464be73975603df7510.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/34/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12283,
+      "numero": 35,
+      "titulo": "fist of the north star - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9455664174358cac2500dec3f80dc833.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/35/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12284,
+      "numero": 36,
+      "titulo": "fist of the north star - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_505cceefe22f5a53a5f8d334e8222454.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/36/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12285,
+      "numero": 37,
+      "titulo": "fist of the north star - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6345a8841a72751d7a407a8cdb2b1111.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/37/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12286,
+      "numero": 38,
+      "titulo": "fist of the north star - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f6307465202f444eb19e650d5a3104a.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/38/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12287,
+      "numero": 39,
+      "titulo": "fist of the north star - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91fd7b300a09c5d358306361b2ea17b3.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/39/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12288,
+      "numero": 40,
+      "titulo": "fist of the north star - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14ea12a8d4c1ce8ae45564cddc241e95.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/40/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12289,
+      "numero": 41,
+      "titulo": "fist of the north star - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff3f6b76fcf005c7632abe3eb4df6263.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/41/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12290,
+      "numero": 42,
+      "titulo": "fist of the north star - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bd81786a8ec6ae9b22cbb3cb4d88179.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/42/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12291,
+      "numero": 43,
+      "titulo": "fist of the north star - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_191595dc11b4d6e54f01504e3aa92f96.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/43/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12292,
+      "numero": 44,
+      "titulo": "fist of the north star - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2fdf132bc31b24922316fa3a6ec7c196.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/44/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12293,
+      "numero": 45,
+      "titulo": "fist of the north star - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5be35e61264ba3d5c63534a6a3656d7.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/45/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12294,
+      "numero": 46,
+      "titulo": "fist of the north star - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_268ca1db9cc06007078f2539db62114e.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/46/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12295,
+      "numero": 47,
+      "titulo": "fist of the north star - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1e03cc77d4bbd6bc2cf358dbcb7ed00.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/47/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12296,
+      "numero": 48,
+      "titulo": "fist of the north star - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0498b76a320aee7c36942926866cfc94.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/48/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12297,
+      "numero": 49,
+      "titulo": "fist of the north star - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35fcfa9e4c022b77e94c0c09a10690c8.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/49/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12298,
+      "numero": 50,
+      "titulo": "fist of the north star - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_faff959d885ec0ecf70741a846c34d1d.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/50/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12299,
+      "numero": 51,
+      "titulo": "fist of the north star - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73fc6f67e65dd0a5b027e13e62fc6943.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/51/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12300,
+      "numero": 52,
+      "titulo": "fist of the north star - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1b7f6c7d739aa48d5dfaacf54df3994.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/52/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12301,
+      "numero": 53,
+      "titulo": "fist of the north star - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b08a97dde5acb38d5f12178452125eb.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/53/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12302,
+      "numero": 54,
+      "titulo": "fist of the north star - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c96b5ab3e42e45e1de64114c04afdaf5.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/54/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12303,
+      "numero": 55,
+      "titulo": "fist of the north star - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9b993256f4573d37b1cdc50ea3528d8.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/55/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12304,
+      "numero": 56,
+      "titulo": "fist of the north star - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41fa3925a7ec42ce029c43d6676e4b2c.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/56/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12305,
+      "numero": 57,
+      "titulo": "fist of the north star - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42b61e2c4e0d4b1ccce37d9e09410439.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/57/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12306,
+      "numero": 58,
+      "titulo": "fist of the north star - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69f65a2e91e6051a23abe7293bf3386a.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/58/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12307,
+      "numero": 59,
+      "titulo": "fist of the north star - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afd7de3f825e55b48cbc839e095326a4.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/59/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12308,
+      "numero": 60,
+      "titulo": "fist of the north star - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c305a250710e95cf6bad18c18a1c02f4.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/60/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12309,
+      "numero": 61,
+      "titulo": "fist of the north star - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c097a5ed40a8d91afd49026dd3b1062.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/61/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12310,
+      "numero": 62,
+      "titulo": "fist of the north star - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f19d4d93ea331b17b6156e8fcdc6e3c.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/62/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12311,
+      "numero": 63,
+      "titulo": "fist of the north star - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35e2dcdbea1950a7a290dd0c282da0a0.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/63/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12312,
+      "numero": 64,
+      "titulo": "fist of the north star - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3ddbc502e307665f346cbd6e52cc10d.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/64/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12313,
+      "numero": 65,
+      "titulo": "fist of the north star - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7e0ef389ac6133c88aedbd66b44a4e1.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/65/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12314,
+      "numero": 66,
+      "titulo": "fist of the north star - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1a3e1728ecc9bfe4ca64599f0e661df.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/66/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12315,
+      "numero": 67,
+      "titulo": "fist of the north star - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fb37d5bbdbbae16dea2f3104d7f9439.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/67/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12316,
+      "numero": 68,
+      "titulo": "fist of the north star - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1ff36b97044a1c7c73c73e4d27aeba4.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/68/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12317,
+      "numero": 69,
+      "titulo": "fist of the north star - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bacae0849238b42dfe121affba356822.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/69/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12318,
+      "numero": 70,
+      "titulo": "fist of the north star - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bdbd5ebfde4934142c8a88e7a3796cd5.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/70/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12319,
+      "numero": 71,
+      "titulo": "fist of the north star - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec42787cefadf6378e1fd7917aa05b5f.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/71/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12320,
+      "numero": 72,
+      "titulo": "fist of the north star - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c620bcfc2a979fe9f22acbe0019f276.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/72/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12321,
+      "numero": 73,
+      "titulo": "fist of the north star - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8542516f8870173d7d1daba1daaaf0a1.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/73/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12322,
+      "numero": 74,
+      "titulo": "fist of the north star - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3bb06607732c34aecec5683f27d2fcd.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/74/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12323,
+      "numero": 75,
+      "titulo": "fist of the north star - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae6e334f62fb5d989398deed87568c94.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/75/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12324,
+      "numero": 76,
+      "titulo": "fist of the north star - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0433e3038e208089eb74b7d9c8f5725f.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/76/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12325,
+      "numero": 77,
+      "titulo": "fist of the north star - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f3680790ac607007e3443a317871dd5.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/77/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12326,
+      "numero": 78,
+      "titulo": "fist of the north star - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b896b55f96acbc46c6a443acd5da879.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/78/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12327,
+      "numero": 79,
+      "titulo": "fist of the north star - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf15e9bbff22c7719020f9df4badc20a.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/79/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12328,
+      "numero": 80,
+      "titulo": "fist of the north star - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b2978ae0ca8efbfbf5af006bd7b4298.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/80/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12329,
+      "numero": 81,
+      "titulo": "fist of the north star - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a098b02e2d67a733c661fa9bfbe89ec.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/81/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12330,
+      "numero": 82,
+      "titulo": "fist of the north star - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc3d7fc970bf568a7724296d431785f0.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/82/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12331,
+      "numero": 83,
+      "titulo": "fist of the north star - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4c4e24edd254bb81fc6e3fe7a1a5dd4.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/83/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12332,
+      "numero": 84,
+      "titulo": "fist of the north star - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f668bd04d1a6cfc29378e24829cddba9.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/84/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12333,
+      "numero": 85,
+      "titulo": "fist of the north star - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8ae104615cb4e966ddb435f3e575a02.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/85/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12334,
+      "numero": 86,
+      "titulo": "fist of the north star - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_120705de7e61c5b322ad798b8ef225a7.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/86/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12335,
+      "numero": 87,
+      "titulo": "fist of the north star - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8b3f97ea4fffaa66b4b42676d225a27.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/87/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12336,
+      "numero": 88,
+      "titulo": "fist of the north star - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97af7c9d8a8bb40503fd392b20b5a7ff.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/88/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12337,
+      "numero": 89,
+      "titulo": "fist of the north star - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2d8381557885b9b7f8cb36dc1fa35f0.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/89/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12338,
+      "numero": 90,
+      "titulo": "fist of the north star - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d87ee98a9e01f8df5addf6065bf163e1.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/90/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12339,
+      "numero": 91,
+      "titulo": "fist of the north star - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab7d19e82cc921e91e92dd470f68d47f.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/91/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12340,
+      "numero": 92,
+      "titulo": "fist of the north star - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e3308c853e47411c761429193511819.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/92/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12341,
+      "numero": 93,
+      "titulo": "fist of the north star - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f190ce9ac8445d249747cab7be43f7d5.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/93/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12342,
+      "numero": 94,
+      "titulo": "fist of the north star - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be041b21f66931f5a1d24e1e19a78539.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/94/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12343,
+      "numero": 95,
+      "titulo": "fist of the north star - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c104b9c0accfca52ef21728eaf01453.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/95/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12344,
+      "numero": 96,
+      "titulo": "fist of the north star - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d10906c3dac1172d4f60bd41f224ae75.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/96/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12345,
+      "numero": 97,
+      "titulo": "fist of the north star - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_827ccb0eea8a706c4c34a16891f84e7b.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/97/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12346,
+      "numero": 98,
+      "titulo": "fist of the north star - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3590023df66ac92ae35e3316026d17d.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/98/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12347,
+      "numero": 99,
+      "titulo": "fist of the north star - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a13dab3f5ec9e22d0d1495c8c85e436.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/99/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12348,
+      "numero": 100,
+      "titulo": "fist of the north star - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee25f924b7df4d4fb93b3da96ee342b1.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/100/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12349,
+      "numero": 101,
+      "titulo": "fist of the north star - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55d491cf951b1b920900684d71419282.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/101/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12350,
+      "numero": 102,
+      "titulo": "fist of the north star - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_533a7de111ee3af214eee5e09e3fa1bc.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/102/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12351,
+      "numero": 103,
+      "titulo": "fist of the north star - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_269efc0384256ed26a4f1bc2c6d72758.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/103/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12352,
+      "numero": 104,
+      "titulo": "fist of the north star - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49b44fc23736ae85aededcc798f22c4a.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/104/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12353,
+      "numero": 105,
+      "titulo": "fist of the north star - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5568795189ad15dcd771866c97edfd37.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/105/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12354,
+      "numero": 106,
+      "titulo": "fist of the north star - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6bb4faacdff9dcdcb6f6e22bc51eac9.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/106/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12355,
+      "numero": 107,
+      "titulo": "fist of the north star - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29515bb9a5d5e558e2b3ba71e3b6e037.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/107/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12356,
+      "numero": 108,
+      "titulo": "fist of the north star - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7cec85c75537840dad40251576e5b757.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/108/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    },
+    {
+      "id_origen": 12357,
+      "numero": 109,
+      "titulo": "fist of the north star - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3680c6e501817ba33a063289a47bd63.jpg",
+      "url_origen": "https://jkanime.net/fist-of-the-north-star/109/",
+      "publicado_en_origen": "2011-09-22 19:28:44"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "425",
+  "cantidad_episodios_declarada": 109,
+  "detalle_extraido_en": "2026-08-26T18:27:10+00:00"
+}

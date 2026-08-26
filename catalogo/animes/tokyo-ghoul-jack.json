@@ -1,0 +1,29 @@
+{
+  "id_origen": 1686,
+  "slug": "tokyo-ghoul-jack",
+  "titulo": "Tokyo Ghoul: \"Jack\"",
+  "titulo_corto": "Tokyo Ghoul: \"Jack\"",
+  "sinopsis": "La historia sigue un incidente relacionado con un ghoul devorador de humanos en el Distrito 13 de Tokio. Para descubrir la verdad de lo ocurrido a su amigo, el rebelde estudiante de instituto Taishi Fura persigue al ghoul conocido como Lantern acompañado del joven investigador Kisho Arima. La historia cuenta cómo Arima y Fura se conocen.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tokyo-ghoul-jack.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tokyo-ghoul-jack/",
+  "episodios": [
+    {
+      "id_origen": 29736,
+      "numero": 1,
+      "titulo": "Tokyo Ghoul: \"Jack\"",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62f2b12d492a102e7525b5a3c8c6c3a4.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul-jack/1/",
+      "publicado_en_origen": "2015-10-06 10:29:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1686",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:49:43+00:00"
+}

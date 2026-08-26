@@ -1,0 +1,29 @@
+{
+  "id_origen": 3964,
+  "slug": "blue-lock-episode-nagi",
+  "titulo": "Blue Lock: Episode Nagi",
+  "titulo_corto": "Blue Lock: Episode Nagi",
+  "sinopsis": "Un spin-off de Blue Lock centrado en Seishirou Nagi.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/blue-lock-episode-nagi.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/blue-lock-episode-nagi/",
+  "episodios": [
+    {
+      "id_origen": 61157,
+      "numero": 1,
+      "titulo": "Blue Lock: Episode Nagi",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0f9778c48a39e732ea08c16710abb8a.jpg",
+      "url_origen": "https://jkanime.net/blue-lock-episode-nagi/1/",
+      "publicado_en_origen": "2024-12-21 13:19:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3964",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:20:44+00:00"
+}

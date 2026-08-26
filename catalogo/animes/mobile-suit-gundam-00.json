@@ -1,0 +1,221 @@
+{
+  "id_origen": 289,
+  "slug": "mobile-suit-gundam-00",
+  "titulo": "Mobile Suit Gundam 00",
+  "titulo_corto": "Mobile Suit Gundam 00",
+  "sinopsis": "La historia tomará lugar en el año 2307 de nuestra época, En esta epoca, el petróleo es un bien escaso y la humanidad tiene que confiar principalmente en la energía solar. Este mundo está dividido en tres bloques politicos: La Unión de energía solar y naciones libres (ユニオン; basada en la OEA, Australia y Japón), La liga de reforma humana (人類革新連盟; basada en China, Rusia e India) y y la Unión avanzada Europea basada en la Unión Europea. Las constantes guerras por motivos religiosos, energéticos o colonizadores hace actuar a “Celestial Being” (Ser Celestial), una “organización paramilitar empeñada en erradicar la guerra” que pretende utilizar a los mobile suit Gundams para lograrlo. El protagonismo recae en Setsuna F. Seiei (刹那・F・セイエイ, Setsuna F. Seiei), el junto a otros 3 gundam meisters lucharan por un mundo que pueda vivir en paz, usando 3 gundams muy diferentes, la paz es el objetivo principal de Celestial Being.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mobile-suit-gundam-00.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mobile-suit-gundam-00/",
+  "episodios": [
+    {
+      "id_origen": 8210,
+      "numero": 1,
+      "titulo": "Mobile Suit Gundam 00 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c463dfdde588f3bfc60d53118c10d6b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/1/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8211,
+      "numero": 2,
+      "titulo": "Mobile Suit Gundam 00 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8d2795765fb6a8659fd48d8ca7eb888.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/2/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8212,
+      "numero": 3,
+      "titulo": "Mobile Suit Gundam 00 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f655cc8884fda7ad6d8a6fb15cc001e.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/3/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8213,
+      "numero": 4,
+      "titulo": "Mobile Suit Gundam 00 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b3f44d9054402de39441e165a4bdfe0.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/4/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8214,
+      "numero": 5,
+      "titulo": "Mobile Suit Gundam 00 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b048efecbe64fe76045e0109de0c2f1.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/5/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8215,
+      "numero": 6,
+      "titulo": "Mobile Suit Gundam 00 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e0feeaff84a19bf3936e693311fa66d.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/6/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8216,
+      "numero": 7,
+      "titulo": "Mobile Suit Gundam 00 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47f91db40efc6a22350eca5c953c4742.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/7/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8217,
+      "numero": 8,
+      "titulo": "Mobile Suit Gundam 00 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1d4b23fb807f2a1de063bfb84a468d4.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/8/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8218,
+      "numero": 9,
+      "titulo": "Mobile Suit Gundam 00 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_849a1c356bfd763c1e1112739722515d.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/9/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8219,
+      "numero": 10,
+      "titulo": "Mobile Suit Gundam 00 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d00670c8e26b15fdd085a04a256683c.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/10/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8220,
+      "numero": 11,
+      "titulo": "Mobile Suit Gundam 00 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c0e0e8da3c1e8ac3739456178b8f6ba.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/11/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8221,
+      "numero": 12,
+      "titulo": "Mobile Suit Gundam 00 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4ca950da1d6fd954520c45ab19fef1c.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/12/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8222,
+      "numero": 13,
+      "titulo": "Mobile Suit Gundam 00 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_532923f11ac97d3e7cb0130315b067dc.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/13/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8223,
+      "numero": 14,
+      "titulo": "Mobile Suit Gundam 00 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e91970f771a2c473ae36b60d1146068.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/14/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8224,
+      "numero": 15,
+      "titulo": "Mobile Suit Gundam 00 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecd1b059424d5e0056f579a391d1ead9.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/15/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8225,
+      "numero": 16,
+      "titulo": "Mobile Suit Gundam 00 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cef1b938860dd6718de5eaae697b60e5.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/16/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8226,
+      "numero": 17,
+      "titulo": "Mobile Suit Gundam 00 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abcc5329cfe5846db63ff4dee74eb906.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/17/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8227,
+      "numero": 18,
+      "titulo": "Mobile Suit Gundam 00 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c35bc9eaa4a930e006ab98bf3ef90408.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/18/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8228,
+      "numero": 19,
+      "titulo": "Mobile Suit Gundam 00 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03573b32b2746e6e8ca98b9123f2249b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/19/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8229,
+      "numero": 20,
+      "titulo": "Mobile Suit Gundam 00 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0396df57e78b6d04b6854dd682e27b3c.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/20/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8230,
+      "numero": 21,
+      "titulo": "Mobile Suit Gundam 00 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd4a6d0563e0604510989eb8f9ff71f5.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/21/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8231,
+      "numero": 22,
+      "titulo": "Mobile Suit Gundam 00 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2004e0f2b74655ee92d3a6af6bdb6626.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/22/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8232,
+      "numero": 23,
+      "titulo": "Mobile Suit Gundam 00 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e61eaa38aed621dd776d0e67cfeee366.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/23/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8233,
+      "numero": 24,
+      "titulo": "Mobile Suit Gundam 00 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6af2c9703f203a2794be03d443af2e3.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/24/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8234,
+      "numero": 25,
+      "titulo": "Mobile Suit Gundam 00 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef8b5fcc338e003145ac9c134754db71.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-00/25/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:26+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "289",
+  "cantidad_episodios_declarada": 25,
+  "detalle_extraido_en": "2026-08-26T18:38:53+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1469,
+  "slug": "trinity-seven-ova",
+  "titulo": "Trinity Seven OVA",
+  "titulo_corto": "Trinity Seven OVA",
+  "sinopsis": "Incluido con el volumen 11 del manga de Trinity Seven.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/trinity-seven-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/trinity-seven-ova/",
+  "episodios": [
+    {
+      "id_origen": 27219,
+      "numero": 1,
+      "titulo": "Trinity Seven OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42a33d4150a53ec0160e9cad6f13b923.jpg",
+      "url_origen": "https://jkanime.net/trinity-seven-ova/1/",
+      "publicado_en_origen": "2015-03-24 17:29:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1469",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:50:14+00:00"
+}

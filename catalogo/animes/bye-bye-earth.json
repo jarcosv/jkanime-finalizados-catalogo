@@ -1,0 +1,101 @@
+{
+  "id_origen": 3793,
+  "slug": "bye-bye-earth",
+  "titulo": "Bye Bye, Earth",
+  "titulo_corto": "Bye Bye, Earth",
+  "sinopsis": "En un mundo de animales antropomorfos, Belle Lablac nació como el único ser humano. Al no tener colmillos, pelaje ni escamas, la llamaron \"Sin rostro\", y vivió una vida solitaria sin nadie con quien identificarse. \"Quiero formar parte del mundo...\". Con tal anhelo en su corazón, decide emprender un viaje para encontrar sus raíces, portando el Runding, una gran espada tan alta como ella. No sabe cuántas adversidades le esperan en el camino.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bye-bye-earth.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bye-bye-earth/",
+  "episodios": [
+    {
+      "id_origen": 57877,
+      "numero": 1,
+      "titulo": "Bye Bye, Earth - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a1a4ab1fda4dc10140e720abb74dba8.jpg",
+      "url_origen": "https://jkanime.net/bye-bye-earth/1/",
+      "publicado_en_origen": "2024-07-12 11:25:28"
+    },
+    {
+      "id_origen": 57992,
+      "numero": 2,
+      "titulo": "Bye Bye, Earth - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f99807d2726292cc7cf31fdaa5f07e8.jpg",
+      "url_origen": "https://jkanime.net/bye-bye-earth/2/",
+      "publicado_en_origen": "2024-07-19 11:32:11"
+    },
+    {
+      "id_origen": 58075,
+      "numero": 3,
+      "titulo": "Bye Bye, Earth - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24ab055431fefc6da6010951bc60ad3d.jpg",
+      "url_origen": "https://jkanime.net/bye-bye-earth/3/",
+      "publicado_en_origen": "2024-07-26 20:45:26"
+    },
+    {
+      "id_origen": 58177,
+      "numero": 4,
+      "titulo": "Bye Bye, Earth - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e3ae3b0f1396326a70432776b647cad.jpg",
+      "url_origen": "https://jkanime.net/bye-bye-earth/4/",
+      "publicado_en_origen": "2024-08-02 13:08:15"
+    },
+    {
+      "id_origen": 58263,
+      "numero": 5,
+      "titulo": "Bye Bye, Earth - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_feb4016e4606e5803513c36002984bab.jpg",
+      "url_origen": "https://jkanime.net/bye-bye-earth/5/",
+      "publicado_en_origen": "2024-08-09 12:10:48"
+    },
+    {
+      "id_origen": 58371,
+      "numero": 6,
+      "titulo": "Bye Bye, Earth - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68d94f07d688b57b0c001e8f82ccd5d2.jpg",
+      "url_origen": "https://jkanime.net/bye-bye-earth/6/",
+      "publicado_en_origen": "2024-08-16 14:36:39"
+    },
+    {
+      "id_origen": 58440,
+      "numero": 7,
+      "titulo": "Bye Bye, Earth - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98a6d5a186e329b39f814c2f30d4543d.jpg",
+      "url_origen": "https://jkanime.net/bye-bye-earth/7/",
+      "publicado_en_origen": "2024-08-24 00:14:55"
+    },
+    {
+      "id_origen": 58603,
+      "numero": 8,
+      "titulo": "Bye Bye, Earth - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecc3600bc58b34c6e2b7b45a584b3ff7.jpg",
+      "url_origen": "https://jkanime.net/bye-bye-earth/8/",
+      "publicado_en_origen": "2024-08-30 12:56:33"
+    },
+    {
+      "id_origen": 58689,
+      "numero": 9,
+      "titulo": "Bye Bye, Earth - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6cfee0179cb24bd5cb6d3b7af386e17c.jpg",
+      "url_origen": "https://jkanime.net/bye-bye-earth/9/",
+      "publicado_en_origen": "2024-09-06 11:07:53"
+    },
+    {
+      "id_origen": 59905,
+      "numero": 10,
+      "titulo": "Bye Bye, Earth - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1934556f04c3564f1436aad0b26981ab.jpg",
+      "url_origen": "https://jkanime.net/bye-bye-earth/10/",
+      "publicado_en_origen": "2024-09-13 13:48:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3793",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:22:23+00:00"
+}

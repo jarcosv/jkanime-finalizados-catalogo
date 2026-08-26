@@ -1,0 +1,45 @@
+{
+  "id_origen": 354,
+  "slug": "ice",
+  "titulo": "Ice",
+  "titulo_corto": "Ice",
+  "sinopsis": "La historia se centra en las ruinas de la ciudad de Tokio, luego de que una catástrofe dejara a la raza humana al borde de la extinción falleciendo todos los hombres y quedando solo un grupo reducido de mujeres. Ellas ante la inminente extinción deciden buscar la mejor forma de sobrevivir, aunque algunas aceptan su destino como los últimos humanos, otras ven en la biotecnología su ultima esperanza para salvar a la humanidad.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ice.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ice/",
+  "episodios": [
+    {
+      "id_origen": 9836,
+      "numero": 1,
+      "titulo": "ICE - The Last Generation 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e9ed6d2fc9dbdfdfb8b8e93906d9212.jpg",
+      "url_origen": "https://jkanime.net/ice/1/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9837,
+      "numero": 2,
+      "titulo": "ICE - The Last Generation 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb2697869f56484404c8ceee2985b01d.jpg",
+      "url_origen": "https://jkanime.net/ice/2/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    },
+    {
+      "id_origen": 9838,
+      "numero": 3,
+      "titulo": "ICE - The Last Generation 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c91c0b6681d733fe9b76c95b8996b1ab.jpg",
+      "url_origen": "https://jkanime.net/ice/3/",
+      "publicado_en_origen": "2011-07-06 10:31:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "354",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:31:31+00:00"
+}

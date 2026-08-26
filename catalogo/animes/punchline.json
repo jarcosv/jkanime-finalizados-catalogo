@@ -1,0 +1,117 @@
+{
+  "id_origen": 1515,
+  "slug": "punchline",
+  "titulo": "Punchline",
+  "titulo_corto": "Punchline",
+  "sinopsis": "La serie sigue a Yuuta Iridatsu, cuyo espíritu se ha separado de su cuerpo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/punchline.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/punchline/",
+  "episodios": [
+    {
+      "id_origen": 27428,
+      "numero": 1,
+      "titulo": "Punchline - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55b124cf54eaf98aacb86a307878db18.jpg",
+      "url_origen": "https://jkanime.net/punchline/1/",
+      "publicado_en_origen": "2015-04-09 13:38:02"
+    },
+    {
+      "id_origen": 27496,
+      "numero": 2,
+      "titulo": "Punchline - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b18ceae096a51a11c3f945abece6238.jpg",
+      "url_origen": "https://jkanime.net/punchline/2/",
+      "publicado_en_origen": "2015-04-16 13:39:48"
+    },
+    {
+      "id_origen": 27564,
+      "numero": 3,
+      "titulo": "Punchline - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c422e39e579b0c8896e9d9fc9a2ca8ac.jpg",
+      "url_origen": "https://jkanime.net/punchline/3/",
+      "publicado_en_origen": "2015-04-23 13:44:56"
+    },
+    {
+      "id_origen": 27629,
+      "numero": 4,
+      "titulo": "Punchline - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76cb696d89f827c907d66d9388d96553.jpg",
+      "url_origen": "https://jkanime.net/punchline/4/",
+      "publicado_en_origen": "2015-04-30 13:39:22"
+    },
+    {
+      "id_origen": 27691,
+      "numero": 5,
+      "titulo": "Punchline - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_633b068fcffcbe7a7c7499bd30fe2dea.jpg",
+      "url_origen": "https://jkanime.net/punchline/5/",
+      "publicado_en_origen": "2015-05-07 13:39:50"
+    },
+    {
+      "id_origen": 27751,
+      "numero": 6,
+      "titulo": "Punchline - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc383b4d4e8a93241f6ff9b0ba8498a5.jpg",
+      "url_origen": "https://jkanime.net/punchline/6/",
+      "publicado_en_origen": "2015-05-14 13:39:16"
+    },
+    {
+      "id_origen": 27817,
+      "numero": 7,
+      "titulo": "Punchline - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67ba8120f499c6706644ce234fc5ee1c.jpg",
+      "url_origen": "https://jkanime.net/punchline/7/",
+      "publicado_en_origen": "2015-05-21 13:39:09"
+    },
+    {
+      "id_origen": 27884,
+      "numero": 8,
+      "titulo": "Punchline - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cad4ba4de53bcaff4217b422c06bacef.jpg",
+      "url_origen": "https://jkanime.net/punchline/8/",
+      "publicado_en_origen": "2015-05-28 13:39:43"
+    },
+    {
+      "id_origen": 27943,
+      "numero": 9,
+      "titulo": "Punchline - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f428ed8209a04774dd294d6dc12ae201.jpg",
+      "url_origen": "https://jkanime.net/punchline/9/",
+      "publicado_en_origen": "2015-06-04 13:42:27"
+    },
+    {
+      "id_origen": 28207,
+      "numero": 10,
+      "titulo": "Punchline - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a4a16eb6b859220e4b55153a6e20730.jpg",
+      "url_origen": "https://jkanime.net/punchline/10/",
+      "publicado_en_origen": "2015-06-11 13:40:35"
+    },
+    {
+      "id_origen": 28482,
+      "numero": 11,
+      "titulo": "Punchline - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67da624214ee8e89992ce70459e669a3.jpg",
+      "url_origen": "https://jkanime.net/punchline/11/",
+      "publicado_en_origen": "2015-06-18 13:39:41"
+    },
+    {
+      "id_origen": 28558,
+      "numero": 12,
+      "titulo": "Punchline - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bbb55bc5148f3def11dae1432bf7321.jpg",
+      "url_origen": "https://jkanime.net/punchline/12/",
+      "publicado_en_origen": "2015-06-25 13:44:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1515",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:43:12+00:00"
+}

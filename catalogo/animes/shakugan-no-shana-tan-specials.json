@@ -1,0 +1,53 @@
+{
+  "id_origen": 62,
+  "slug": "shakugan-no-shana-tan-specials",
+  "titulo": "Shakugan No Shana-Tan",
+  "titulo_corto": "Shakugan No Shana-Tan",
+  "sinopsis": "Este es un pequeño añadido de Shana, el cual yo situaría entre Shana y ShanaII , creo que queda perfecto para reirse un buen rato, en este caso se muestran algunas escenas de Shana pero está vez, con una versión 'Chibi' de Shana, dandole un toque bastante gracioso además con su típica frace de \"callate, callate, callate!\"",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shakugan-no-shana-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shakugan-no-shana-tan-specials/",
+  "episodios": [
+    {
+      "id_origen": 49356,
+      "numero": 1,
+      "titulo": "Shakugan No Shana-Tan - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_161eef2abeb0574e9a8d4e14effea38c.jpg",
+      "url_origen": "https://jkanime.net/shakugan-no-shana-tan-specials/1/",
+      "publicado_en_origen": "2022-05-17 18:28:59"
+    },
+    {
+      "id_origen": 49357,
+      "numero": 2,
+      "titulo": "Shakugan No Shana-Tan - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9e76e452a5ee37e51bf5c74ad9138e2.jpg",
+      "url_origen": "https://jkanime.net/shakugan-no-shana-tan-specials/2/",
+      "publicado_en_origen": "2022-05-17 18:28:59"
+    },
+    {
+      "id_origen": 49358,
+      "numero": 3,
+      "titulo": "Shakugan No Shana-Tan - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfaac30872cb86835b1fd11b4e4129d8.jpg",
+      "url_origen": "https://jkanime.net/shakugan-no-shana-tan-specials/3/",
+      "publicado_en_origen": "2022-05-17 18:28:59"
+    },
+    {
+      "id_origen": 49359,
+      "numero": 4,
+      "titulo": "Shakugan No Shana-Tan - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af5ed76b466a037cd7b9b1cefef578ba.jpg",
+      "url_origen": "https://jkanime.net/shakugan-no-shana-tan-specials/4/",
+      "publicado_en_origen": "2022-05-17 18:28:59"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "62",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:45:54+00:00"
+}

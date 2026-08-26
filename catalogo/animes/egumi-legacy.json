@@ -1,0 +1,117 @@
+{
+  "id_origen": 3816,
+  "slug": "egumi-legacy",
+  "titulo": "Egumi Legacy",
+  "titulo_corto": "Egumi Legacy",
+  "sinopsis": "La historia de EGUMI LEGACY se desarrolla en la remota isla de Egu, donde el único medio de entretenimiento de los habitantes es escuchar la hermosa voz cantante de la diva conocida como \"El Fin del Mundo\". Sin embargo, la repentina desaparición del Fin del Mundo sumerge a la isla Egu en un torbellino de ira, ansiedad y sospecha mientras los residentes comienzan a idear y poner en marcha sus propios planes.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/egumi-legacy.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/egumi-legacy/",
+  "episodios": [
+    {
+      "id_origen": 57858,
+      "numero": 1,
+      "titulo": "Egumi Legacy - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bc67e72f27d01d162db4c6f6edb2425.jpg",
+      "url_origen": "https://jkanime.net/egumi-legacy/1/",
+      "publicado_en_origen": "2024-07-10 09:33:54"
+    },
+    {
+      "id_origen": 57950,
+      "numero": 2,
+      "titulo": "Egumi Legacy - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ca1bfdf608d75e99fe068f61fa08c5b.jpg",
+      "url_origen": "https://jkanime.net/egumi-legacy/2/",
+      "publicado_en_origen": "2024-07-16 15:13:06"
+    },
+    {
+      "id_origen": 58042,
+      "numero": 3,
+      "titulo": "Egumi Legacy - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6c9b1bdf57af6546ac499307480339f.jpg",
+      "url_origen": "https://jkanime.net/egumi-legacy/3/",
+      "publicado_en_origen": "2024-07-23 13:21:33"
+    },
+    {
+      "id_origen": 58126,
+      "numero": 4,
+      "titulo": "Egumi Legacy - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24e2dd43e9fa3fb341bcba15e5bbc811.jpg",
+      "url_origen": "https://jkanime.net/egumi-legacy/4/",
+      "publicado_en_origen": "2024-07-30 11:28:55"
+    },
+    {
+      "id_origen": 58221,
+      "numero": 5,
+      "titulo": "Egumi Legacy - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dac486af6db64749aa39c2ceea3e66b.jpg",
+      "url_origen": "https://jkanime.net/egumi-legacy/5/",
+      "publicado_en_origen": "2024-08-06 21:56:39"
+    },
+    {
+      "id_origen": 58322,
+      "numero": 6,
+      "titulo": "Egumi Legacy - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77cceda691e106f71cc157006c289bc9.jpg",
+      "url_origen": "https://jkanime.net/egumi-legacy/6/",
+      "publicado_en_origen": "2024-08-13 12:24:40"
+    },
+    {
+      "id_origen": 58417,
+      "numero": 7,
+      "titulo": "Egumi Legacy - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3e7f42dbb7c4efdb0bf1f17a12282f6.jpg",
+      "url_origen": "https://jkanime.net/egumi-legacy/7/",
+      "publicado_en_origen": "2024-08-21 15:36:54"
+    },
+    {
+      "id_origen": 58512,
+      "numero": 8,
+      "titulo": "Egumi Legacy - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_512572195eec1693cbc8b4aa2af9ca61.jpg",
+      "url_origen": "https://jkanime.net/egumi-legacy/8/",
+      "publicado_en_origen": "2024-08-27 13:57:48"
+    },
+    {
+      "id_origen": 58657,
+      "numero": 9,
+      "titulo": "Egumi Legacy - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a1af1b75b92835fd8fe7c5122c31fbd.jpg",
+      "url_origen": "https://jkanime.net/egumi-legacy/9/",
+      "publicado_en_origen": "2024-09-03 10:56:55"
+    },
+    {
+      "id_origen": 58738,
+      "numero": 10,
+      "titulo": "Egumi Legacy - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb83e798c2ac3a77025355158c25c26e.jpg",
+      "url_origen": "https://jkanime.net/egumi-legacy/10/",
+      "publicado_en_origen": "2024-09-10 14:14:44"
+    },
+    {
+      "id_origen": 59958,
+      "numero": 11,
+      "titulo": "Egumi Legacy - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_526ce78f878ae3f11e4beee60b36485b.jpg",
+      "url_origen": "https://jkanime.net/egumi-legacy/11/",
+      "publicado_en_origen": "2024-09-17 14:35:21"
+    },
+    {
+      "id_origen": 60035,
+      "numero": 12,
+      "titulo": "Egumi Legacy - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_927fe229189b9c7945cffe031bafabc4.jpg",
+      "url_origen": "https://jkanime.net/egumi-legacy/12/",
+      "publicado_en_origen": "2024-09-24 18:30:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3816",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:26:13+00:00"
+}

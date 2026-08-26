@@ -1,0 +1,29 @@
+{
+  "id_origen": 1962,
+  "slug": "kuroko-no-basket-movie-1",
+  "titulo": "Kuroko no Basket Movie 1: Winter Cup Soushuuhen - Kage to Hikari",
+  "titulo_corto": "Kuroko no Basket Movie 1: Wint...",
+  "sinopsis": "Primera de 3 películas recopilación de Kuroko no Basket.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kuroko-no-basket-movie-1.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kuroko-no-basket-movie-1/",
+  "episodios": [
+    {
+      "id_origen": 33245,
+      "numero": 1,
+      "titulo": "Kuroko no Basket Movie 1: Winter Cup Soushuuhen - Kage to Hikari",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c37b97ab63a4fecdb409658f08df693.jpg",
+      "url_origen": "https://jkanime.net/kuroko-no-basket-movie-1/1/",
+      "publicado_en_origen": "2016-11-03 23:26:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1962",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:35:59+00:00"
+}

@@ -1,0 +1,557 @@
+{
+  "id_origen": 210,
+  "slug": "zoid",
+  "titulo": "Zoids",
+  "titulo_corto": "Zoids",
+  "sinopsis": "Los Zoids son maquinas-bestias usadas normalmente para transporte y especialmente para la guerra. Algunos tipos de Zoids, conocidos como Organoides, son Zoids en miniatura y a su vez son organismos vivos. Esos Organoides tienen la capacidad de fusionarse con los Zoids normales y hacerlos mas poderosos. Van (Ban) Freiheit descubre un Organodie en un laboratorio abandonado mientras huye de dos Zoids. También hay en el laboratorio un tubo con una extraña chica en animación suspendida. Él rompe el tubo y se lleva consigo a ambos, la chica y el Organoide. Cerca de la salida encuentran un Zoids estropeado y sucio, el Organoide se fusiona con el y repara los daños. Mientras escapan Van llama al Organoide Zeke y dedice ser su amigo. La chica, que se llama Fiona, quiere encontrar un lugar llamado Zoids Eve y asi Van, Zeke y Fiona comienzan su aventura.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/zoid.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/zoid/",
+  "episodios": [
+    {
+      "id_origen": 5774,
+      "numero": 1,
+      "titulo": "Zoid 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cff34ad343b069ea6920464ad17d4bcf.jpg",
+      "url_origen": "https://jkanime.net/zoid/1/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5775,
+      "numero": 2,
+      "titulo": "Zoid 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a5200e5e9b3a893e1c2b0ccba7dd72f.jpg",
+      "url_origen": "https://jkanime.net/zoid/2/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5776,
+      "numero": 3,
+      "titulo": "Zoid 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cfd2b32e4caf5678c34b631f56c03686.jpg",
+      "url_origen": "https://jkanime.net/zoid/3/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5777,
+      "numero": 4,
+      "titulo": "Zoid 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89abe98de6071178edb1b28901a8f459.jpg",
+      "url_origen": "https://jkanime.net/zoid/4/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5778,
+      "numero": 5,
+      "titulo": "Zoid 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca7be8306ecc3f5fa30ff2c41e64fa7b.jpg",
+      "url_origen": "https://jkanime.net/zoid/5/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5779,
+      "numero": 6,
+      "titulo": "Zoid 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d3d5bcad324d3edc08e40738e663554.jpg",
+      "url_origen": "https://jkanime.net/zoid/6/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5780,
+      "numero": 7,
+      "titulo": "Zoid 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_294a8ed24b1ad22ec2e7efea049b8737.jpg",
+      "url_origen": "https://jkanime.net/zoid/7/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5781,
+      "numero": 8,
+      "titulo": "Zoid 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e2c381d4dd04f1c55093f22c59c3a08.jpg",
+      "url_origen": "https://jkanime.net/zoid/8/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5782,
+      "numero": 9,
+      "titulo": "Zoid 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf9dc5e4e194fc21f397b4cac9cc3ae9.jpg",
+      "url_origen": "https://jkanime.net/zoid/9/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5783,
+      "numero": 10,
+      "titulo": "Zoid 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_634841a6831464b64c072c8510c7f35c.jpg",
+      "url_origen": "https://jkanime.net/zoid/10/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5784,
+      "numero": 11,
+      "titulo": "Zoid 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6157966f9b9e2f35d2266675bad8b7f8.jpg",
+      "url_origen": "https://jkanime.net/zoid/11/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5785,
+      "numero": 12,
+      "titulo": "Zoid 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51425b752a0b402ed3effc83fc4bbb74.jpg",
+      "url_origen": "https://jkanime.net/zoid/12/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5786,
+      "numero": 13,
+      "titulo": "Zoid 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77431ca7981f1f1483ae8a58bcbb6e0e.jpg",
+      "url_origen": "https://jkanime.net/zoid/13/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5787,
+      "numero": 14,
+      "titulo": "Zoid 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a32d7eeaae19821fd9ce317f3ce952a7.jpg",
+      "url_origen": "https://jkanime.net/zoid/14/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5788,
+      "numero": 15,
+      "titulo": "Zoid 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_967edfdcdfbcc3b2d253fac24326e5b5.jpg",
+      "url_origen": "https://jkanime.net/zoid/15/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5789,
+      "numero": 16,
+      "titulo": "Zoid 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0efb5f6cb4ce54821a9c5c6e1dff052.jpg",
+      "url_origen": "https://jkanime.net/zoid/16/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5790,
+      "numero": 17,
+      "titulo": "Zoid 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8763d72bba4a7ade23f9ae1f09f4efc7.jpg",
+      "url_origen": "https://jkanime.net/zoid/17/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5791,
+      "numero": 18,
+      "titulo": "Zoid 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05b0afd266cc205432b8dad3f3413c28.jpg",
+      "url_origen": "https://jkanime.net/zoid/18/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5792,
+      "numero": 19,
+      "titulo": "Zoid 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89b9c689a57b82e59074c6ba09aa394d.jpg",
+      "url_origen": "https://jkanime.net/zoid/19/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5793,
+      "numero": 20,
+      "titulo": "Zoid 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe256faf97c200de0f7486ddf56c02f6.jpg",
+      "url_origen": "https://jkanime.net/zoid/20/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5794,
+      "numero": 21,
+      "titulo": "Zoid 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d55e7c13b0f4d7cf9d5d55d3af329c8.jpg",
+      "url_origen": "https://jkanime.net/zoid/21/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5795,
+      "numero": 22,
+      "titulo": "Zoid 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f11b27f131494a1c014fcced2f13165.jpg",
+      "url_origen": "https://jkanime.net/zoid/22/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5796,
+      "numero": 23,
+      "titulo": "Zoid 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49856ed476ad01fcff881d57e161d73f.jpg",
+      "url_origen": "https://jkanime.net/zoid/23/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5797,
+      "numero": 24,
+      "titulo": "Zoid 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_034260c0426cf36118803ce0df4457fd.jpg",
+      "url_origen": "https://jkanime.net/zoid/24/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5798,
+      "numero": 25,
+      "titulo": "Zoid 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba4002d88b8860b6a684ade8357aba56.jpg",
+      "url_origen": "https://jkanime.net/zoid/25/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5799,
+      "numero": 26,
+      "titulo": "Zoid 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de01d76e793fec3fba32f4401a45fb20.jpg",
+      "url_origen": "https://jkanime.net/zoid/26/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5800,
+      "numero": 27,
+      "titulo": "Zoid 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dacb10f0623c67cb7dbb37587d8b38a.jpg",
+      "url_origen": "https://jkanime.net/zoid/27/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5801,
+      "numero": 28,
+      "titulo": "Zoid 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ce4fe042832e6bd7d06697a43055373.jpg",
+      "url_origen": "https://jkanime.net/zoid/28/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5802,
+      "numero": 29,
+      "titulo": "Zoid 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_077b83af57538aa183971a2fe0971ec1.jpg",
+      "url_origen": "https://jkanime.net/zoid/29/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5803,
+      "numero": 30,
+      "titulo": "Zoid 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a29503a4909fcade36b1823e7cebcf5.jpg",
+      "url_origen": "https://jkanime.net/zoid/30/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5804,
+      "numero": 31,
+      "titulo": "Zoid 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e5dd00d770ef3e9154a4257edcb80b8.jpg",
+      "url_origen": "https://jkanime.net/zoid/31/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5805,
+      "numero": 32,
+      "titulo": "Zoid 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d81f29a9985d0eb4adc0279e79a9ec75.jpg",
+      "url_origen": "https://jkanime.net/zoid/32/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5806,
+      "numero": 33,
+      "titulo": "Zoid 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9873eaad153c6c960616c89e54fe155a.jpg",
+      "url_origen": "https://jkanime.net/zoid/33/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5807,
+      "numero": 34,
+      "titulo": "Zoid 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_681a23b0649e61ca572cb5bb8db206ec.jpg",
+      "url_origen": "https://jkanime.net/zoid/34/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5808,
+      "numero": 35,
+      "titulo": "Zoid 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b448d8292fd27ae25bbc2e09ad43ff88.jpg",
+      "url_origen": "https://jkanime.net/zoid/35/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5809,
+      "numero": 36,
+      "titulo": "Zoid 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e68a83370faacfab07ae1f8aaf5352bb.jpg",
+      "url_origen": "https://jkanime.net/zoid/36/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5810,
+      "numero": 37,
+      "titulo": "Zoid 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c7a167bb329bd92580a99ce422d6fa6.jpg",
+      "url_origen": "https://jkanime.net/zoid/37/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5811,
+      "numero": 38,
+      "titulo": "Zoid 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bdc8b08ca966b6626e1f186f03c9a060.jpg",
+      "url_origen": "https://jkanime.net/zoid/38/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5812,
+      "numero": 39,
+      "titulo": "Zoid 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1bc40d056bad6ec6949d9bb6fee5e84.jpg",
+      "url_origen": "https://jkanime.net/zoid/39/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5813,
+      "numero": 40,
+      "titulo": "Zoid 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_069090145d54bf4aa3894133f7e89873.jpg",
+      "url_origen": "https://jkanime.net/zoid/40/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5814,
+      "numero": 41,
+      "titulo": "Zoid 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f93486bfff38ca69d76d85c089569a09.jpg",
+      "url_origen": "https://jkanime.net/zoid/41/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5815,
+      "numero": 42,
+      "titulo": "Zoid 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2835acf1b5aaa6ade0d10b4c977e912a.jpg",
+      "url_origen": "https://jkanime.net/zoid/42/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5816,
+      "numero": 43,
+      "titulo": "Zoid 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff1ced3097ccf17c1e67506cdad9ac95.jpg",
+      "url_origen": "https://jkanime.net/zoid/43/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5817,
+      "numero": 44,
+      "titulo": "Zoid 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1588e685562af341ff2448de4b674d1.jpg",
+      "url_origen": "https://jkanime.net/zoid/44/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5818,
+      "numero": 45,
+      "titulo": "Zoid 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed23fbf18c2cd35f8c7f8de44f85c08d.jpg",
+      "url_origen": "https://jkanime.net/zoid/45/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5819,
+      "numero": 46,
+      "titulo": "Zoid 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e036cc193d0af59aa9b22821248292b.jpg",
+      "url_origen": "https://jkanime.net/zoid/46/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5820,
+      "numero": 47,
+      "titulo": "Zoid 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9e18cb5dd9d3ab420946fa19ebbbf52.jpg",
+      "url_origen": "https://jkanime.net/zoid/47/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5821,
+      "numero": 48,
+      "titulo": "Zoid 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_926c11cc055de9b8d697b6a587d40c4d.jpg",
+      "url_origen": "https://jkanime.net/zoid/48/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5822,
+      "numero": 49,
+      "titulo": "Zoid 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd2ae8ec902471d8956fca3486031013.jpg",
+      "url_origen": "https://jkanime.net/zoid/49/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5823,
+      "numero": 50,
+      "titulo": "Zoid 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_658bbbdef9415ba5e2ff857f1146ba6e.jpg",
+      "url_origen": "https://jkanime.net/zoid/50/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5824,
+      "numero": 51,
+      "titulo": "Zoid 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7f520a55897b35e6eb462bbf80915c6.jpg",
+      "url_origen": "https://jkanime.net/zoid/51/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5825,
+      "numero": 52,
+      "titulo": "Zoid 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5a0ac0e2f48af1a4e619e7036fe5977.jpg",
+      "url_origen": "https://jkanime.net/zoid/52/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5826,
+      "numero": 53,
+      "titulo": "Zoid 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99f42c473afe0eb4bd047ae133b851fc.jpg",
+      "url_origen": "https://jkanime.net/zoid/53/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5827,
+      "numero": 54,
+      "titulo": "Zoid 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c208ee88299e7d6d6eff86e6879384e.jpg",
+      "url_origen": "https://jkanime.net/zoid/54/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5828,
+      "numero": 55,
+      "titulo": "Zoid 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48000647b315f6f00f913caa757a70b3.jpg",
+      "url_origen": "https://jkanime.net/zoid/55/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5829,
+      "numero": 56,
+      "titulo": "Zoid 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9909824688daaad46d441eefd81eb38.jpg",
+      "url_origen": "https://jkanime.net/zoid/56/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5830,
+      "numero": 57,
+      "titulo": "Zoid 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e520f70ac3930490458892665cda6620.jpg",
+      "url_origen": "https://jkanime.net/zoid/57/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5831,
+      "numero": 58,
+      "titulo": "Zoid 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_228669109aa3ab1b4ec06b7722efb105.jpg",
+      "url_origen": "https://jkanime.net/zoid/58/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5832,
+      "numero": 59,
+      "titulo": "Zoid 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_677fa4059ee76333f9bb9a7920aef719.jpg",
+      "url_origen": "https://jkanime.net/zoid/59/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5833,
+      "numero": 60,
+      "titulo": "Zoid 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5f3b8d720f34ebebceb7765e447268b.jpg",
+      "url_origen": "https://jkanime.net/zoid/60/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5834,
+      "numero": 61,
+      "titulo": "Zoid 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15b3342aa0abd5176b93d68ddf95e3ce.jpg",
+      "url_origen": "https://jkanime.net/zoid/61/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5835,
+      "numero": 62,
+      "titulo": "Zoid 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6dd3e6a48b7117f6ae04a6664beb740b.jpg",
+      "url_origen": "https://jkanime.net/zoid/62/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5836,
+      "numero": 63,
+      "titulo": "Zoid 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fd9a99a5abed788d9afc9d52d54e91b.jpg",
+      "url_origen": "https://jkanime.net/zoid/63/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5837,
+      "numero": 64,
+      "titulo": "Zoid 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1e39c9bda5c80ac3d8ea9d658163967.jpg",
+      "url_origen": "https://jkanime.net/zoid/64/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5838,
+      "numero": 65,
+      "titulo": "Zoid 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a91bc76c2a6302e573badedcbf57bf7a.jpg",
+      "url_origen": "https://jkanime.net/zoid/65/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5839,
+      "numero": 66,
+      "titulo": "Zoid 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f610a13de080fb8df6cf972fc01ad93f.jpg",
+      "url_origen": "https://jkanime.net/zoid/66/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5840,
+      "numero": 67,
+      "titulo": "Zoid 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61d009da208a34ae155420e55f97abc7.jpg",
+      "url_origen": "https://jkanime.net/zoid/67/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "210",
+  "cantidad_episodios_declarada": 67,
+  "detalle_extraido_en": "2026-08-26T18:54:06+00:00"
+}

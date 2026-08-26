@@ -1,0 +1,29 @@
+{
+  "id_origen": 3387,
+  "slug": "paulette-no-isu",
+  "titulo": "Paulette no Isu",
+  "titulo_corto": "Paulette no Isu",
+  "sinopsis": "Especial para conmemorar el décimo aniversario de noitaminA. Una niña, excluída, topa con una silla mágica que le facilita las cosas. Con ella, logrará integrarse entre el resto de niñas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/paulette-no-isu.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/paulette-no-isu/",
+  "episodios": [
+    {
+      "id_origen": 52327,
+      "numero": 1,
+      "titulo": "Paulette no Isu",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb4a659252489d9ec1a2ac10064d6e6a.jpg",
+      "url_origen": "https://jkanime.net/paulette-no-isu/1/",
+      "publicado_en_origen": "2023-04-04 11:36:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3387",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:42:01+00:00"
+}

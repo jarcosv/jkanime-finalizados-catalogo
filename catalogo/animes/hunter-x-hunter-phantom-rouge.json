@@ -1,0 +1,29 @@
+{
+  "id_origen": 929,
+  "slug": "hunter-x-hunter-phantom-rouge",
+  "titulo": "Hunter x Hunter: Phantom Rouge",
+  "titulo_corto": "Hunter x Hunter: Phantom Rouge",
+  "sinopsis": "La historia de la nueva película se centra en el personaje de Kurapika, el cual se convirtió en Hunter para vengarse del Genei Ryodan por la masacre de su clan. En la película a Kurapika le roban los ojos especiales de su clan, pero gracias a Gon, Killua y Leorio, consigue salvar la vida. La Tropa Fantasma aparece ante Kurapika y el resto, los cuales descubrirán la identidad del hombre con la araña número 4.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hunter-x-hunter-phantom-rouge.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hunter-x-hunter-phantom-rouge/",
+  "episodios": [
+    {
+      "id_origen": 21210,
+      "numero": 1,
+      "titulo": "Hunter x Hunter: Phantom Rouge",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28513c6ecd19265370792e81561c6011.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-phantom-rouge/1/",
+      "publicado_en_origen": "2013-08-04 02:59:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "929",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:31:19+00:00"
+}

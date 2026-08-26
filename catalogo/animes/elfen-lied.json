@@ -1,0 +1,125 @@
+{
+  "id_origen": 270,
+  "slug": "elfen-lied",
+  "titulo": "Elfen Lied",
+  "titulo_corto": "Elfen Lied",
+  "sinopsis": "Elfen Lied es un anime dirigido por Mamoru Kanbe basado en el manga del mismo nombre creado por Lynn Okamoto. Nos cuenta la historia de los diclonius, la siguiente mutación o evolución del homosapiens. Tiene escenas de desnudos, gore, violencia física y psicológica.  La historia se basa especialmente en el personaje de Lucy/Nyuu, una diclonius abandonada por sus padres humanos al nacer, y despreciada constantemente gracias a sus cuernos por los demás humanos. Esto la lleva a despreciar y matar a cuanto ser no-diclonius encuentre, hasta que conoce a Kōta, un humano, y la vida de ambos cambia para siempre.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/elfen-lied.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/elfen-lied/",
+  "episodios": [
+    {
+      "id_origen": 74602,
+      "numero": 1,
+      "titulo": "Elfen Lied - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f94387461beefdd04d26d39c1ebd501.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/1/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    },
+    {
+      "id_origen": 74603,
+      "numero": 2,
+      "titulo": "Elfen Lied - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89701113056f96ef9c1ae1ce494398d0.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/2/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    },
+    {
+      "id_origen": 74604,
+      "numero": 3,
+      "titulo": "Elfen Lied - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c4398229539c9125def3531f6f74c08.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/3/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    },
+    {
+      "id_origen": 74605,
+      "numero": 4,
+      "titulo": "Elfen Lied - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_598ea882756f6b96f989ad037f9c3c5e.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/4/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    },
+    {
+      "id_origen": 74606,
+      "numero": 5,
+      "titulo": "Elfen Lied - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1cb8bb3bfff2fcb09565663b7cbdeb91.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/5/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    },
+    {
+      "id_origen": 74607,
+      "numero": 6,
+      "titulo": "Elfen Lied - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a35b23ba6787e21c129716ff0a2b8f10.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/6/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    },
+    {
+      "id_origen": 74608,
+      "numero": 7,
+      "titulo": "Elfen Lied - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d9db3e3ef164924a2edbf14a33dded5.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/7/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    },
+    {
+      "id_origen": 74609,
+      "numero": 8,
+      "titulo": "Elfen Lied - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04c98c2431f7bd815db2b8ee380a80b1.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/8/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    },
+    {
+      "id_origen": 74610,
+      "numero": 9,
+      "titulo": "Elfen Lied - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffd97828c9c8a59f5c817adabee92edf.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/9/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    },
+    {
+      "id_origen": 74611,
+      "numero": 10,
+      "titulo": "Elfen Lied - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d88f9f2b8dfb110ca41b23d5a598d75.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/10/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    },
+    {
+      "id_origen": 74612,
+      "numero": 11,
+      "titulo": "Elfen Lied - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e297117dc1d45e2b7990d76fffa431ce.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/11/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    },
+    {
+      "id_origen": 74613,
+      "numero": 12,
+      "titulo": "Elfen Lied - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef6ea76754acd083cd767d28e2adc2d2.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/12/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    },
+    {
+      "id_origen": 74614,
+      "numero": 13,
+      "titulo": "Elfen Lied - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98f431520ccd5f357f8a0b6bce470698.jpg",
+      "url_origen": "https://jkanime.net/elfen-lied/13/",
+      "publicado_en_origen": "2026-06-20 14:42:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "270",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:26:16+00:00"
+}

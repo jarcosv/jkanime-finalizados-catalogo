@@ -1,0 +1,29 @@
+{
+  "id_origen": 500,
+  "slug": "dragon-ball-z-movie-08-broly-the-legendary-super-saiyan",
+  "titulo": "Dragon Ball Z Movie 08: Broly - The Legendary Super Saiyan",
+  "titulo_corto": "Dragon Ball Z Movie 08: Broly ...",
+  "sinopsis": "Un antiguo soldado del rey vegeta esta construyendo un nuevo mundo y viaja a la tierra en busca del principe vegeta para que regrese y gobierne en el nuevo mundo. Sin saber que en este planeta los espera un sayayin fuera de lo comun...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-z-movie-08-broly-the-legendary-super-saiyan.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-z-movie-08-broly-the-legendary-super-saiyan/",
+  "episodios": [
+    {
+      "id_origen": 14551,
+      "numero": 1,
+      "titulo": "Dragon Ball Z Movie 08: Broly - The Legendary Super Saiyan",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_668c7d9d4728fc9eebbe7a8202c95c26.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z-movie-08-broly-the-legendary-super-saiyan/1/",
+      "publicado_en_origen": "2012-01-16 20:37:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "500",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:47+00:00"
+}

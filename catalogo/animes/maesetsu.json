@@ -1,0 +1,117 @@
+{
+  "id_origen": 2745,
+  "slug": "maesetsu",
+  "titulo": "Maesetsu!",
+  "titulo_corto": "Maesetsu!",
+  "sinopsis": "El anime se centra en cuatro chicas en la plena floración de su juventud, que trabajan duro para lograr sus sueños mientras luchan valientemente. ¡En entretenimiento japonés, Maesetsu! se refiere a una charla o explicación introductoria dirigida a la audiencia antes de la transmisión de programas de televisión, generalmente realizada por directores asistentes y particularmente comediantes en programas de variedades o comedia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/maesetsu.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/maesetsu/",
+  "episodios": [
+    {
+      "id_origen": 43705,
+      "numero": 1,
+      "titulo": "Maesetsu! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d111938e811c0ed7c4ee3e749b07b454.jpg",
+      "url_origen": "https://jkanime.net/maesetsu/1/",
+      "publicado_en_origen": "2020-10-11 21:25:24"
+    },
+    {
+      "id_origen": 43761,
+      "numero": 2,
+      "titulo": "Maesetsu! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7a802ee25984dd83b82fc3c5bc70d8d.jpg",
+      "url_origen": "https://jkanime.net/maesetsu/2/",
+      "publicado_en_origen": "2020-10-18 22:50:48"
+    },
+    {
+      "id_origen": 43822,
+      "numero": 3,
+      "titulo": "Maesetsu! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2cd4bb83e6bedb9b0b038e3350a5d41b.jpg",
+      "url_origen": "https://jkanime.net/maesetsu/3/",
+      "publicado_en_origen": "2020-10-25 23:04:05"
+    },
+    {
+      "id_origen": 43881,
+      "numero": 4,
+      "titulo": "Maesetsu! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5590ca803d2831d2a3dff3fa3eaca6f4.jpg",
+      "url_origen": "https://jkanime.net/maesetsu/4/",
+      "publicado_en_origen": "2020-11-01 12:50:41"
+    },
+    {
+      "id_origen": 43935,
+      "numero": 5,
+      "titulo": "Maesetsu! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bee2861956d76fe35e91c33bc4a81b3.jpg",
+      "url_origen": "https://jkanime.net/maesetsu/5/",
+      "publicado_en_origen": "2020-11-08 15:05:06"
+    },
+    {
+      "id_origen": 43981,
+      "numero": 6,
+      "titulo": "Maesetsu! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20f67cf04a6b254f71a4079ac1b0c10b.jpg",
+      "url_origen": "https://jkanime.net/maesetsu/6/",
+      "publicado_en_origen": "2020-11-15 19:55:16"
+    },
+    {
+      "id_origen": 44029,
+      "numero": 7,
+      "titulo": "Maesetsu! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_991ef9a704469ce820a63388e908acc1.jpg",
+      "url_origen": "https://jkanime.net/maesetsu/7/",
+      "publicado_en_origen": "2020-11-23 07:55:54"
+    },
+    {
+      "id_origen": 44088,
+      "numero": 8,
+      "titulo": "Maesetsu! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_629f99dd4ec30e6903259174a7e790f8.jpg",
+      "url_origen": "https://jkanime.net/maesetsu/8/",
+      "publicado_en_origen": "2020-11-29 18:18:00"
+    },
+    {
+      "id_origen": 44148,
+      "numero": 9,
+      "titulo": "Maesetsu! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53f2fd43bff8116d9ca03544206ae510.jpg",
+      "url_origen": "https://jkanime.net/maesetsu/9/",
+      "publicado_en_origen": "2020-12-07 00:16:39"
+    },
+    {
+      "id_origen": 44205,
+      "numero": 10,
+      "titulo": "Maesetsu! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_615837f0007fc5fb688b2a1d21bce403.jpg",
+      "url_origen": "https://jkanime.net/maesetsu/10/",
+      "publicado_en_origen": "2020-12-13 17:29:58"
+    },
+    {
+      "id_origen": 44259,
+      "numero": 11,
+      "titulo": "Maesetsu! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8231e51e35fb63336c2a335c81812f71.jpg",
+      "url_origen": "https://jkanime.net/maesetsu/11/",
+      "publicado_en_origen": "2020-12-21 09:32:56"
+    },
+    {
+      "id_origen": 44299,
+      "numero": 12,
+      "titulo": "Maesetsu! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08484fb15d5a63e5dcca8ea3d08374ae.jpg",
+      "url_origen": "https://jkanime.net/maesetsu/12/",
+      "publicado_en_origen": "2020-12-27 17:26:58"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2745",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:37:07+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1545,
+  "slug": "haiyore-nyaruko-san-f",
+  "titulo": "Haiyore! Nyaruko-san F",
+  "titulo_corto": "Haiyore! Nyaruko-san F",
+  "sinopsis": "Nueva OVA de la novela ligera Haiyore! Nyaruko-san, titulada Haiyore! Nyaruko-san F",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/haiyore-nyaruko-san-f.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/haiyore-nyaruko-san-f/",
+  "episodios": [
+    {
+      "id_origen": 27905,
+      "numero": 1,
+      "titulo": "Haiyore! Nyaruko-san F",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cc1efe753654fa0220a77e5c3c14478.jpg",
+      "url_origen": "https://jkanime.net/haiyore-nyaruko-san-f/1/",
+      "publicado_en_origen": "2015-05-30 12:21:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1545",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:29:32+00:00"
+}

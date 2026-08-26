@@ -1,0 +1,101 @@
+{
+  "id_origen": 2386,
+  "slug": "hangyakusei-million-arthur",
+  "titulo": "Hangyakusei Million Arthur",
+  "titulo_corto": "Hangyakusei Million Arthur",
+  "sinopsis": "Basado en el juego de rol en línea multijugador de Square Enix.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hangyakusei-million-arthur.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hangyakusei-million-arthur/",
+  "episodios": [
+    {
+      "id_origen": 39405,
+      "numero": 1,
+      "titulo": "Hangyakusei Million Arthur - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3badea6c13ec771afd94ff9a23236e3.jpg",
+      "url_origen": "https://jkanime.net/hangyakusei-million-arthur/1/",
+      "publicado_en_origen": "2019-03-27 14:12:25"
+    },
+    {
+      "id_origen": 39406,
+      "numero": 2,
+      "titulo": "Hangyakusei Million Arthur - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44ccfe397ecb78a8dc09d6e524c1322d.jpg",
+      "url_origen": "https://jkanime.net/hangyakusei-million-arthur/2/",
+      "publicado_en_origen": "2019-03-27 14:12:26"
+    },
+    {
+      "id_origen": 39407,
+      "numero": 3,
+      "titulo": "Hangyakusei Million Arthur - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98c153eda30b9d78a78fb3cccae14eb7.jpg",
+      "url_origen": "https://jkanime.net/hangyakusei-million-arthur/3/",
+      "publicado_en_origen": "2019-03-27 14:12:26"
+    },
+    {
+      "id_origen": 39408,
+      "numero": 4,
+      "titulo": "Hangyakusei Million Arthur - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b7c35169673ff7fcc30a43cf41079d3.jpg",
+      "url_origen": "https://jkanime.net/hangyakusei-million-arthur/4/",
+      "publicado_en_origen": "2019-03-27 14:12:26"
+    },
+    {
+      "id_origen": 39409,
+      "numero": 5,
+      "titulo": "Hangyakusei Million Arthur - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c47b7b07d6a58fd8bb0b7f51ad4a41aa.jpg",
+      "url_origen": "https://jkanime.net/hangyakusei-million-arthur/5/",
+      "publicado_en_origen": "2019-03-27 14:12:26"
+    },
+    {
+      "id_origen": 39410,
+      "numero": 6,
+      "titulo": "Hangyakusei Million Arthur - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce4d95afd39b4272f11e7d10b88a5a53.jpg",
+      "url_origen": "https://jkanime.net/hangyakusei-million-arthur/6/",
+      "publicado_en_origen": "2019-03-27 14:12:26"
+    },
+    {
+      "id_origen": 39411,
+      "numero": 7,
+      "titulo": "Hangyakusei Million Arthur - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb221b9bbbf25cc108cffe12fe10fbc2.jpg",
+      "url_origen": "https://jkanime.net/hangyakusei-million-arthur/7/",
+      "publicado_en_origen": "2019-03-27 14:12:26"
+    },
+    {
+      "id_origen": 39412,
+      "numero": 8,
+      "titulo": "Hangyakusei Million Arthur - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dd78238c3cddc9bd2da470907bba815.jpg",
+      "url_origen": "https://jkanime.net/hangyakusei-million-arthur/8/",
+      "publicado_en_origen": "2019-03-27 14:12:26"
+    },
+    {
+      "id_origen": 39413,
+      "numero": 9,
+      "titulo": "Hangyakusei Million Arthur - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_089c710c918b50da402b96d0601ee1a0.jpg",
+      "url_origen": "https://jkanime.net/hangyakusei-million-arthur/9/",
+      "publicado_en_origen": "2019-03-27 14:12:26"
+    },
+    {
+      "id_origen": 39414,
+      "numero": 10,
+      "titulo": "Hangyakusei Million Arthur - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_175ea45b8c6dc940864a06d8caa341c4.jpg",
+      "url_origen": "https://jkanime.net/hangyakusei-million-arthur/10/",
+      "publicado_en_origen": "2019-03-27 14:12:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2386",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:29:51+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 437,
+  "slug": "suzumiya-haruhi-no-shoushitsu",
+  "titulo": "Suzumiya Haruhi no Shoushitsu",
+  "titulo_corto": "Suzumiya Haruhi no Shoushitsu",
+  "sinopsis": "En esta ocasión la historia toma lugar entre el 17 y el 24 de diciembre, un mes después del festival cultural. El día 17, todo se encuentra normal. La Brigada SOS, planea hacer una fiesta para Navidad. Sin embargo, el 18 de diciembre, Kyon llega al instituto para descubrir que todo ha cambiado. Haruhi y Itsuki Koizumi han desaparecido, Yuki Nagato es una estudiante normal con sentimientos, Ryoko Asakura, quién había sido eliminada, también es una estudiante normal y Mikuru Asahina no le reconoce. La única pista que tiene es un marcapáginas que le dejó Yuki, que lleva a Kyon en un viaje a través del tiempo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/suzumiya-haruhi-no-shoushitsu.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/suzumiya-haruhi-no-shoushitsu/",
+  "episodios": [
+    {
+      "id_origen": 12720,
+      "numero": 1,
+      "titulo": "Suzumiya Haruhi no Shoushitsu",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12ae3f826bb1b9873c71c353f3df494c.jpg",
+      "url_origen": "https://jkanime.net/suzumiya-haruhi-no-shoushitsu/1/",
+      "publicado_en_origen": "2011-10-15 01:17:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "437",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:48:09+00:00"
+}

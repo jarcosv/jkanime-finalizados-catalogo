@@ -1,0 +1,101 @@
+{
+  "id_origen": 1061,
+  "slug": "maken-ki-two",
+  "titulo": "Maken-Ki! Two",
+  "titulo_corto": "Maken-Ki! Two",
+  "sinopsis": "segunda temporada de Maken-Ki!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/maken-ki-two.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/maken-ki-two/",
+  "episodios": [
+    {
+      "id_origen": 22444,
+      "numero": 1,
+      "titulo": "Maken-Ki! Two - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7de47452d56d59cf1b1e1542f9baeb13.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two/1/",
+      "publicado_en_origen": "2014-01-15 18:18:27"
+    },
+    {
+      "id_origen": 22501,
+      "numero": 2,
+      "titulo": "Maken-Ki! Two - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10033cdf4e52735b87aa18c7948b2adc.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two/2/",
+      "publicado_en_origen": "2014-01-22 17:14:22"
+    },
+    {
+      "id_origen": 22560,
+      "numero": 3,
+      "titulo": "Maken-Ki! Two - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8d92556b83fd9af954274c6763ec64d.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two/3/",
+      "publicado_en_origen": "2014-01-29 17:25:57"
+    },
+    {
+      "id_origen": 22619,
+      "numero": 4,
+      "titulo": "Maken-Ki! Two - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ece532b576a8f4c677f0f89bac52a65.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two/4/",
+      "publicado_en_origen": "2014-02-05 16:53:43"
+    },
+    {
+      "id_origen": 22691,
+      "numero": 5,
+      "titulo": "Maken-Ki! Two - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_191391488d9d0584e57c8d35c3aa773c.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two/5/",
+      "publicado_en_origen": "2014-02-12 16:37:17"
+    },
+    {
+      "id_origen": 22748,
+      "numero": 6,
+      "titulo": "Maken-Ki! Two - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98c2458a2f3407013b6765bde3b71af6.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two/6/",
+      "publicado_en_origen": "2014-02-19 16:03:41"
+    },
+    {
+      "id_origen": 22811,
+      "numero": 7,
+      "titulo": "Maken-Ki! Two - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbf94d74de13fcaf245901d4a69d129c.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two/7/",
+      "publicado_en_origen": "2014-02-26 16:11:05"
+    },
+    {
+      "id_origen": 22871,
+      "numero": 8,
+      "titulo": "Maken-Ki! Two - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ccb9c4f617f6da1b237ad8302672d3a.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two/8/",
+      "publicado_en_origen": "2014-03-05 15:58:30"
+    },
+    {
+      "id_origen": 22937,
+      "numero": 9,
+      "titulo": "Maken-Ki! Two - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c27216bb9c450c0c529a5d3a837dc817.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two/9/",
+      "publicado_en_origen": "2014-03-12 15:51:32"
+    },
+    {
+      "id_origen": 23014,
+      "numero": 10,
+      "titulo": "Maken-Ki! Two - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f829101d1967c5ca9eb2f2b1428840b1.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two/10/",
+      "publicado_en_origen": "2014-03-19 16:07:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1061",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:37:47+00:00"
+}

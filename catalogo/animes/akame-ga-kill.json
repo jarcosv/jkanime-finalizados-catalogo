@@ -1,0 +1,213 @@
+{
+  "id_origen": 1192,
+  "slug": "akame-ga-kill",
+  "titulo": "Akame ga Kill!",
+  "titulo_corto": "Akame ga Kill!",
+  "sinopsis": "Tatsumi es un chico de campo que llega a la capital del Imperio para alistarse en el ejército. Su intención es ascender rápidamente para poder ganar dinero y salvar a su pueblo del hambre debido a los grandes impuestos que tienen que pagar. Pero cuando llega a la ciudad se da cuenta que no todo es como él esperaba. Debido a una serie de acontecimientos deberá enfrentarse a un grupo de sicarios conocido como Night Raid, pero la capital esconde secretos que Tatsumi jamás podría imaginar...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/akame-ga-kill.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/akame-ga-kill/",
+  "episodios": [
+    {
+      "id_origen": 23899,
+      "numero": 1,
+      "titulo": "Akame ga Kill! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb2b3d6542b6df97c27b5977f3dd471b.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/1/",
+      "publicado_en_origen": "2014-07-06 14:43:13"
+    },
+    {
+      "id_origen": 23976,
+      "numero": 2,
+      "titulo": "Akame ga Kill! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_777081377d8fa759d557429c4a1932d8.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/2/",
+      "publicado_en_origen": "2014-07-13 12:10:58"
+    },
+    {
+      "id_origen": 24046,
+      "numero": 3,
+      "titulo": "Akame ga Kill! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cdc0a294d55c26d6d656877c731d24d.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/3/",
+      "publicado_en_origen": "2014-07-20 13:02:43"
+    },
+    {
+      "id_origen": 24106,
+      "numero": 4,
+      "titulo": "Akame ga Kill! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb95aa2ba2ac0cb7a0fac8c427efdd4a.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/4/",
+      "publicado_en_origen": "2014-07-27 12:13:30"
+    },
+    {
+      "id_origen": 24175,
+      "numero": 5,
+      "titulo": "Akame ga Kill! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a3eac42d756ec782ecca7dcd94259d7.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/5/",
+      "publicado_en_origen": "2014-08-03 11:10:46"
+    },
+    {
+      "id_origen": 24265,
+      "numero": 6,
+      "titulo": "Akame ga Kill! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2eb6eaf5e7fa94597ab62963aac1884.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/6/",
+      "publicado_en_origen": "2014-08-10 11:05:51"
+    },
+    {
+      "id_origen": 24459,
+      "numero": 7,
+      "titulo": "Akame ga Kill! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6320267b4965e7a50b2996cbd2d6c60f.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/7/",
+      "publicado_en_origen": "2014-08-17 11:35:40"
+    },
+    {
+      "id_origen": 24529,
+      "numero": 8,
+      "titulo": "Akame ga Kill! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecc63deecec609482911c7e614a83e87.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/8/",
+      "publicado_en_origen": "2014-08-24 11:10:36"
+    },
+    {
+      "id_origen": 24595,
+      "numero": 9,
+      "titulo": "Akame ga Kill! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70b508afd336fb9317ab2736cd128e1d.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/9/",
+      "publicado_en_origen": "2014-08-31 11:06:43"
+    },
+    {
+      "id_origen": 24668,
+      "numero": 10,
+      "titulo": "Akame ga Kill! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70770f6b84b0221aad9863719ee8c2d4.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/10/",
+      "publicado_en_origen": "2014-09-07 11:05:54"
+    },
+    {
+      "id_origen": 24764,
+      "numero": 11,
+      "titulo": "Akame ga Kill! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44b8b1b5c2c259df31d9d9b0f53be68b.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/11/",
+      "publicado_en_origen": "2014-09-14 11:05:53"
+    },
+    {
+      "id_origen": 24825,
+      "numero": 12,
+      "titulo": "Akame ga Kill! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb8609534055613868edc1116c6ae1dd.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/12/",
+      "publicado_en_origen": "2014-09-21 11:12:23"
+    },
+    {
+      "id_origen": 24939,
+      "numero": 13,
+      "titulo": "Akame ga Kill! - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f47dafa1b01fc67850d5576e5216df25.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/13/",
+      "publicado_en_origen": "2014-09-28 11:08:07"
+    },
+    {
+      "id_origen": 24999,
+      "numero": 14,
+      "titulo": "Akame ga Kill! - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad2d8a4d8e8654a34f898980254af33f.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/14/",
+      "publicado_en_origen": "2014-10-05 11:07:24"
+    },
+    {
+      "id_origen": 25063,
+      "numero": 15,
+      "titulo": "Akame ga Kill! - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c9b35ecc2bec09dc3f31e66e445c72a.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/15/",
+      "publicado_en_origen": "2014-10-12 11:04:40"
+    },
+    {
+      "id_origen": 25135,
+      "numero": 16,
+      "titulo": "Akame ga Kill! - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0dc76d68d436bb030efbe3a8386ee47a.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/16/",
+      "publicado_en_origen": "2014-10-19 11:07:34"
+    },
+    {
+      "id_origen": 25205,
+      "numero": 17,
+      "titulo": "Akame ga Kill! - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb739f78a1b83ccad7886436e3146c77.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/17/",
+      "publicado_en_origen": "2014-10-26 11:22:05"
+    },
+    {
+      "id_origen": 25278,
+      "numero": 18,
+      "titulo": "Akame ga Kill! - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28144c5d22c74864cee1b3eedbce3c85.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/18/",
+      "publicado_en_origen": "2014-11-02 12:05:04"
+    },
+    {
+      "id_origen": 25350,
+      "numero": 19,
+      "titulo": "Akame ga Kill! - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7d67339105519c3dae1c323022dbd04.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/19/",
+      "publicado_en_origen": "2014-11-09 13:44:06"
+    },
+    {
+      "id_origen": 25453,
+      "numero": 20,
+      "titulo": "Akame ga Kill! - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ba3a8aaad152d230887da6a26610846.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/20/",
+      "publicado_en_origen": "2014-11-16 12:05:10"
+    },
+    {
+      "id_origen": 25541,
+      "numero": 21,
+      "titulo": "Akame ga Kill! - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7377f47f95a1202ea8d330061b674dea.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/21/",
+      "publicado_en_origen": "2014-11-23 12:12:11"
+    },
+    {
+      "id_origen": 25622,
+      "numero": 22,
+      "titulo": "Akame ga Kill! - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b4bf71bc3df8c999ad2286bfe5a385f.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/22/",
+      "publicado_en_origen": "2014-11-30 12:04:14"
+    },
+    {
+      "id_origen": 25708,
+      "numero": 23,
+      "titulo": "Akame ga Kill! - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d201c59e6aa7ee34e3f1e6e95669d02.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/23/",
+      "publicado_en_origen": "2014-12-07 12:13:22"
+    },
+    {
+      "id_origen": 25807,
+      "numero": 24,
+      "titulo": "Akame ga Kill! - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ecb6f61668018486c7ae0c73fef41f2.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill/24/",
+      "publicado_en_origen": "2014-12-14 12:27:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1192",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:15:49+00:00"
+}

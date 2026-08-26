@@ -1,0 +1,125 @@
+{
+  "id_origen": 127,
+  "slug": "air-tv",
+  "titulo": "Air",
+  "titulo_corto": "Air",
+  "sinopsis": "Yukito Kunizaki lleva una vida errante donde su meta en la vida es encontrar aquello que su madre le dejo como su propia meta en su vida: \"La chica alada\". Yukito llega a un poblado cerca al mar y ahí encuentra por cosas del destino a Mizusu Kamio, en la cual él encontrará en ella algo muy familiar y entrañable en ese poblado",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/air-tv.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/air-tv/",
+  "episodios": [
+    {
+      "id_origen": 2954,
+      "numero": 1,
+      "titulo": "Air Tv 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc20d1211f3e7a99d775b26052e0163e.jpg",
+      "url_origen": "https://jkanime.net/air-tv/1/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2955,
+      "numero": 2,
+      "titulo": "Air Tv 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b44afe91b8a427a6be2078cc89bd6f9b.jpg",
+      "url_origen": "https://jkanime.net/air-tv/2/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2956,
+      "numero": 3,
+      "titulo": "Air Tv 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db5cea26ca37aa09e5365f3e7f5dd9eb.jpg",
+      "url_origen": "https://jkanime.net/air-tv/3/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2957,
+      "numero": 4,
+      "titulo": "Air Tv 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e22cb9d6bbb4c290a94e4fff4d68a831.jpg",
+      "url_origen": "https://jkanime.net/air-tv/4/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2958,
+      "numero": 5,
+      "titulo": "Air Tv 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b91b1facf3b3a7890177f02ac188f14c.jpg",
+      "url_origen": "https://jkanime.net/air-tv/5/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2959,
+      "numero": 6,
+      "titulo": "Air Tv 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_779efbd24d5a7e37ce8dc93e7c04d572.jpg",
+      "url_origen": "https://jkanime.net/air-tv/6/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2960,
+      "numero": 7,
+      "titulo": "Air Tv 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1c373ab1570cfb9a7dbb53c186b37a2.jpg",
+      "url_origen": "https://jkanime.net/air-tv/7/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2961,
+      "numero": 8,
+      "titulo": "Air Tv 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e60e09c222f206c725385f53d7e567c.jpg",
+      "url_origen": "https://jkanime.net/air-tv/8/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2962,
+      "numero": 9,
+      "titulo": "Air Tv 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b2d8f129ae2f408f2153cd9ce663043.jpg",
+      "url_origen": "https://jkanime.net/air-tv/9/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2963,
+      "numero": 10,
+      "titulo": "Air Tv 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b887d8d5e65ac4dec3934028fe23ad72.jpg",
+      "url_origen": "https://jkanime.net/air-tv/10/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2964,
+      "numero": 11,
+      "titulo": "Air Tv 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60ad83801910ec976590f69f638e0d6d.jpg",
+      "url_origen": "https://jkanime.net/air-tv/11/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2965,
+      "numero": 12,
+      "titulo": "Air Tv 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c303b0eed3133200cf715285011b4e4.jpg",
+      "url_origen": "https://jkanime.net/air-tv/12/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 10919,
+      "numero": 13,
+      "titulo": "Capitulo Recuento",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_447b0408b80078338810051bb38b177f.jpg",
+      "url_origen": "https://jkanime.net/air-tv/13/",
+      "publicado_en_origen": "2011-07-15 14:21:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:32+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "127",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:15:31+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 4252,
+  "slug": "steamboy",
+  "titulo": "Steamboy",
+  "titulo_corto": "Steamboy",
+  "sinopsis": "Ambientada en la Inglaterra victoriana, esta aventura de acción épica trata de un joven inventor llamado Ray. Un día Ray recibe una misteriosa bola metálica de su abuelo científico, Lloyd. Desde ese momento, Ray se ve empujado a un mundo de aventuras e intrigas increíbles. La bola metálica es, de hecho, una “bola de vapor”, el corazón de un misterioso y siniestro “castillo de vapor”, y la clave secreta de una fuerza de poder incomparable…",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/steamboy.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/steamboy/",
+  "episodios": [
+    {
+      "id_origen": 65414,
+      "numero": 1,
+      "titulo": "Steamboy",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7dec6b765944f98e83463143c2f579b8.jpg",
+      "url_origen": "https://jkanime.net/steamboy/1/",
+      "publicado_en_origen": "2025-07-27 18:44:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4252",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:46+00:00"
+}

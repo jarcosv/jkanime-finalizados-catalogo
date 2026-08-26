@@ -1,0 +1,125 @@
+{
+  "id_origen": 2182,
+  "slug": "overlord-ii",
+  "titulo": "Overlord II",
+  "titulo_corto": "Overlord II",
+  "sinopsis": "Yggdrasil es un popular juego online que, de la noche a la mañana, cierra sus puertas. Sin embargo, Momonga, nuestro protagonista, decide no desconectarse, por lo que es transformado en la imagen de un esqueleto conocido como el mago más poderoso. Mientras el mundo de Yggdrasil comienza a cambiar, con los PNJs adquiriendo sentimientos, Momonga decide convertirse en el amo y señor de esa realidad.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/overlord-ii.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/overlord-ii/",
+  "episodios": [
+    {
+      "id_origen": 36389,
+      "numero": 1,
+      "titulo": "Overlord II - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0d63af8542e13942f6ac9577a738af3.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/1/",
+      "publicado_en_origen": "2018-01-11 19:04:41"
+    },
+    {
+      "id_origen": 36426,
+      "numero": 2,
+      "titulo": "Overlord II - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ee61d1c8258496260a72d01e76480ba.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/2/",
+      "publicado_en_origen": "2018-01-16 14:41:23"
+    },
+    {
+      "id_origen": 36471,
+      "numero": 3,
+      "titulo": "Overlord II - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d99a0d50f46761ed5f1d32e22783d2a.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/3/",
+      "publicado_en_origen": "2018-01-23 14:23:31"
+    },
+    {
+      "id_origen": 36514,
+      "numero": 4,
+      "titulo": "Overlord II - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6afd98bf609aa36dd5cdd7680db9282f.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/4/",
+      "publicado_en_origen": "2018-01-30 13:43:18"
+    },
+    {
+      "id_origen": 36570,
+      "numero": 5,
+      "titulo": "Overlord II - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e0f9a6573f028cc71686cbca46df0bb.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/5/",
+      "publicado_en_origen": "2018-02-06 13:51:35"
+    },
+    {
+      "id_origen": 36625,
+      "numero": 6,
+      "titulo": "Overlord II - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f466aec0f89b85f577ee74cc7297ef0.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/6/",
+      "publicado_en_origen": "2018-02-13 15:58:36"
+    },
+    {
+      "id_origen": 36669,
+      "numero": 7,
+      "titulo": "Overlord II - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7e2588d3cbee971f93dd87308720d90.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/7/",
+      "publicado_en_origen": "2018-02-20 14:42:24"
+    },
+    {
+      "id_origen": 36742,
+      "numero": 8,
+      "titulo": "Overlord II - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ba241716ce430e2731acba8d07d529b.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/8/",
+      "publicado_en_origen": "2018-02-27 15:07:57"
+    },
+    {
+      "id_origen": 36786,
+      "numero": 9,
+      "titulo": "Overlord II - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7de393a886fd4e75a564829e060449da.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/9/",
+      "publicado_en_origen": "2018-03-06 13:44:22"
+    },
+    {
+      "id_origen": 36829,
+      "numero": 10,
+      "titulo": "Overlord II - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69aed062f5deb6736086aaac09250f71.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/10/",
+      "publicado_en_origen": "2018-03-13 14:09:24"
+    },
+    {
+      "id_origen": 36875,
+      "numero": 11,
+      "titulo": "Overlord II - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85b84d4c08f29bfd2e2279a8bda7c476.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/11/",
+      "publicado_en_origen": "2018-03-20 13:48:36"
+    },
+    {
+      "id_origen": 36929,
+      "numero": 12,
+      "titulo": "Overlord II - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_239960b9beb0a3e5097ab21c301bee18.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/12/",
+      "publicado_en_origen": "2018-03-27 13:41:53"
+    },
+    {
+      "id_origen": 36962,
+      "numero": 13,
+      "titulo": "Overlord II - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d948f82e486bdce973c9318aa775265b.jpg",
+      "url_origen": "https://jkanime.net/overlord-ii/13/",
+      "publicado_en_origen": "2018-04-03 14:17:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:20+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2182",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:41:51+00:00"
+}

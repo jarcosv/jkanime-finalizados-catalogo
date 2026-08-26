@@ -1,0 +1,29 @@
+{
+  "id_origen": 1087,
+  "slug": "fate-kaleid-liner-prisma-illya-2014",
+  "titulo": "Fate/kaleid liner Prisma☆Illya (2014)",
+  "titulo_corto": "Fate/kaleid liner Prisma☆Illya...",
+  "sinopsis": "OAD incluida con el cuarto volumen del manga Fate/kaleid liner Prisma☆ Illya Drei! de Hiroshi Hiroyama y Type-Moon.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fate-kaleid-liner-prisma-illya-2014.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fate-kaleid-liner-prisma-illya-2014/",
+  "episodios": [
+    {
+      "id_origen": 22970,
+      "numero": 1,
+      "titulo": "Fate/kaleid liner Prisma☆Illya (2014)",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8f7af3c0b3c873650931eb1f1d1d1a8.jpg",
+      "url_origen": "https://jkanime.net/fate-kaleid-liner-prisma-illya-2014/1/",
+      "publicado_en_origen": "2014-03-15 20:38:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1087",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:51+00:00"
+}

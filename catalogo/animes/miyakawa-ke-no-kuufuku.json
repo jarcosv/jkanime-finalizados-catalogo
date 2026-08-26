@@ -1,0 +1,101 @@
+{
+  "id_origen": 848,
+  "slug": "miyakawa-ke-no-kuufuku",
+  "titulo": "Miyakawa-ke no Kuufuku",
+  "titulo_corto": "Miyakawa-ke no Kuufuku",
+  "sinopsis": "Spin-off de Lucky Star: protagonizado por las hermanas Hinata y Hikage Miyakawa y su pobre vida en casa \"por culpa de la manía de Hinata de malgastar\", así como en la vida de Hikage en primaria.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/miyakawa-ke-no-kuufuku.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/miyakawa-ke-no-kuufuku/",
+  "episodios": [
+    {
+      "id_origen": 20404,
+      "numero": 1,
+      "titulo": "Miyakawa-ke no Kuufuku - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c27504aa9c0f475230d00d887eac83e7.jpg",
+      "url_origen": "https://jkanime.net/miyakawa-ke-no-kuufuku/1/",
+      "publicado_en_origen": "2013-04-30 16:14:19"
+    },
+    {
+      "id_origen": 20436,
+      "numero": 2,
+      "titulo": "Miyakawa-ke no Kuufuku - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1f3e014594ba3f4ed9d9a5f422281aa.jpg",
+      "url_origen": "https://jkanime.net/miyakawa-ke-no-kuufuku/2/",
+      "publicado_en_origen": "2013-05-06 15:50:55"
+    },
+    {
+      "id_origen": 20476,
+      "numero": 3,
+      "titulo": "Miyakawa-ke no Kuufuku - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f65e949ea897df7d4a41e37319a8bb2.jpg",
+      "url_origen": "https://jkanime.net/miyakawa-ke-no-kuufuku/3/",
+      "publicado_en_origen": "2013-05-13 13:56:16"
+    },
+    {
+      "id_origen": 20513,
+      "numero": 4,
+      "titulo": "Miyakawa-ke no Kuufuku - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca2fb9274851370321bfa0017a5cc0d8.jpg",
+      "url_origen": "https://jkanime.net/miyakawa-ke-no-kuufuku/4/",
+      "publicado_en_origen": "2013-05-20 19:14:41"
+    },
+    {
+      "id_origen": 20550,
+      "numero": 5,
+      "titulo": "Miyakawa-ke no Kuufuku - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02b3b7e839eeb84179604848147e5c5f.jpg",
+      "url_origen": "https://jkanime.net/miyakawa-ke-no-kuufuku/5/",
+      "publicado_en_origen": "2013-05-27 17:04:04"
+    },
+    {
+      "id_origen": 20594,
+      "numero": 6,
+      "titulo": "Miyakawa-ke no Kuufuku - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1fd12bf7ac5abe8dd918703e2edf110.jpg",
+      "url_origen": "https://jkanime.net/miyakawa-ke-no-kuufuku/6/",
+      "publicado_en_origen": "2013-06-04 14:52:00"
+    },
+    {
+      "id_origen": 20627,
+      "numero": 7,
+      "titulo": "Miyakawa-ke no Kuufuku - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0bc33be2e78a146322ceb5e08440f06.jpg",
+      "url_origen": "https://jkanime.net/miyakawa-ke-no-kuufuku/7/",
+      "publicado_en_origen": "2013-06-10 17:41:55"
+    },
+    {
+      "id_origen": 20666,
+      "numero": 8,
+      "titulo": "Miyakawa-ke no Kuufuku - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ac37313e074d4fa4c73335747f35fa1.jpg",
+      "url_origen": "https://jkanime.net/miyakawa-ke-no-kuufuku/8/",
+      "publicado_en_origen": "2013-06-17 14:31:03"
+    },
+    {
+      "id_origen": 20708,
+      "numero": 9,
+      "titulo": "Miyakawa-ke no Kuufuku - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d55de0511aaa18ae946d7527cdebbac.jpg",
+      "url_origen": "https://jkanime.net/miyakawa-ke-no-kuufuku/9/",
+      "publicado_en_origen": "2013-06-24 17:12:19"
+    },
+    {
+      "id_origen": 20951,
+      "numero": 10,
+      "titulo": "Miyakawa-ke no Kuufuku - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0993bdfbd20407e1b60739ef01e432c8.jpg",
+      "url_origen": "https://jkanime.net/miyakawa-ke-no-kuufuku/10/",
+      "publicado_en_origen": "2013-07-01 16:09:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "848",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:38:48+00:00"
+}

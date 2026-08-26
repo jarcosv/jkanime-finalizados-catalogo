@@ -1,0 +1,29 @@
+{
+  "id_origen": 1349,
+  "slug": "go-go-575-meippai-ni-hajiketeru",
+  "titulo": "Go! Go! 575: Meippai ni, Hajiketeru?",
+  "titulo_corto": "Go! Go! 575: Meippai ni, Hajik...",
+  "sinopsis": "Episodio Especial presentando a un nuevo personaje.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/go-go-575-meippai-ni-hajiketeru.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/go-go-575-meippai-ni-hajiketeru/",
+  "episodios": [
+    {
+      "id_origen": 25559,
+      "numero": 1,
+      "titulo": "Go! Go! 575: Meippai ni, Hajiketeru?",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6eab5560609e8a2db70c40fd7499791.jpg",
+      "url_origen": "https://jkanime.net/go-go-575-meippai-ni-hajiketeru/1/",
+      "publicado_en_origen": "2014-11-24 16:51:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1349",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:28:43+00:00"
+}

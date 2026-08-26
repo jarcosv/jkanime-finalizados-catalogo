@@ -1,0 +1,29 @@
+{
+  "id_origen": 1376,
+  "slug": "neon-genesis-evangelion-death-rebirth",
+  "titulo": "Neon Genesis Evangelion: Death & Rebirth",
+  "titulo_corto": "Neon Genesis Evangelion: Death...",
+  "sinopsis": "Es la primera película de la serie de televisión Neon Genesis Evangelion. Consiste en dos partes: Death y Rebirth, Muerte y Renacimiento respectivamente. La primera parte, Death, consiste de una edición de 60 minutos sobre los primeros 24 episodios del programa de televisión, que incluye varias escenas inéditas. La segunda parte, Rebirth, consiste en una historia y animación completamente nuevas, ubicadas inmediatamente después del episodio 24. Debido a falta de tiempo, esta parte no fue terminada completamente al momento del lanzamiento, y sólo los primeros 27 minutos de un total de 40 fueron estrenados. Cuatro meses más tarde, The End of Evangelion, la segunda película de Evangelion presentó la animación completa, que recibió el nombre Air (Episodio 25).",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/neon-genesis-evangelion-death-rebirth.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/neon-genesis-evangelion-death-rebirth/",
+  "episodios": [
+    {
+      "id_origen": 25938,
+      "numero": 1,
+      "titulo": "Neon Genesis Evangelion: Death & Rebirth",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2817e5b9188a8fac590cb6c263f2222.jpg",
+      "url_origen": "https://jkanime.net/neon-genesis-evangelion-death-rebirth/1/",
+      "publicado_en_origen": "2014-12-23 15:40:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1376",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:13+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id_origen": 4504,
+  "slug": "bubblegum-crash",
+  "titulo": "Bubblegum Crash",
+  "titulo_corto": "Bubblegum Crash",
+  "sinopsis": "La saga de las Knight Sabers continúa mientras el grupo intenta descubrir quién o qué hay detrás de la reciente serie de robos, asesinatos y fallos en el funcionamiento de los Boomer, que de alguna manera están relacionados con la creación de una inteligencia artificial avanzada. Además, parece que las Knight Sabers podrían estar a punto de separarse.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bubblegum-crash.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bubblegum-crash/",
+  "episodios": [
+    {
+      "id_origen": 69984,
+      "numero": 1,
+      "titulo": "Bubblegum Crash - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9f9d9dce381d6925f7801f1c33b366c.jpg",
+      "url_origen": "https://jkanime.net/bubblegum-crash/1/",
+      "publicado_en_origen": "2025-12-11 09:48:06"
+    },
+    {
+      "id_origen": 69985,
+      "numero": 2,
+      "titulo": "Bubblegum Crash - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c59f979fd2cdce910dbf312786443d07.jpg",
+      "url_origen": "https://jkanime.net/bubblegum-crash/2/",
+      "publicado_en_origen": "2025-12-11 09:48:06"
+    },
+    {
+      "id_origen": 69986,
+      "numero": 3,
+      "titulo": "Bubblegum Crash - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae7babe90703e4f614a8030bc77110c7.jpg",
+      "url_origen": "https://jkanime.net/bubblegum-crash/3/",
+      "publicado_en_origen": "2025-12-11 09:48:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4504",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:21:52+00:00"
+}

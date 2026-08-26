@@ -1,0 +1,845 @@
+{
+  "id_origen": 161,
+  "slug": "d-gray-man",
+  "titulo": "D.Gray-man",
+  "titulo_corto": "D.Gray-man",
+  "sinopsis": "La historia se centra en el joven Allen Walker, un exorcista, durante un imaginario siglo XIX en Europa. Allen se convierte en miembro de la Orden Negra, una organización religiosa integrada por exorcistas de todo el mundo, la cual está vinculada al Vaticano. La misión de dicha organización es detener al Conde del Milenio, una malvada entidad demoníaca que pretende limpiar el mundo destruyendo a la humanidad, haciendo uso de sus armas llamadas Akuma. Los exorcistas son personas compatibles con la Inocencia, una sustancia divina creada en el pasado. Se dice que hay 109 trozos de Inocencia esparcidos por todo el mundo, una vez que la Inocencia encuentra a su persona compatible, evoluciona en un arma anti-Akuma. Esto se convierte en una carrera entre la Orden Negra y el Conde del milenio y sus aliados por conseguir la Inocencia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/d-gray-man.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/d-gray-man/",
+  "episodios": [
+    {
+      "id_origen": 3983,
+      "numero": 1,
+      "titulo": "D Gray Man 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e4450dc93010bbeea7cd28eba296850.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/1/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3984,
+      "numero": 2,
+      "titulo": "D Gray Man 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7059b7dea43da04fd342088d7c1698f0.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/2/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 14746,
+      "numero": 3,
+      "titulo": "D.Gray-man - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bb759879533c4232940d44d174f0cf1.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/3/",
+      "publicado_en_origen": "2012-02-09 18:43:48"
+    },
+    {
+      "id_origen": 14747,
+      "numero": 4,
+      "titulo": "D.Gray-man - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8860b0b3ad5538d2ccc6c2bdd0341a1a.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/4/",
+      "publicado_en_origen": "2012-02-09 18:43:56"
+    },
+    {
+      "id_origen": 14748,
+      "numero": 5,
+      "titulo": "D.Gray-man - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98ecba69accf294459adb07e02fc03e4.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/5/",
+      "publicado_en_origen": "2012-02-09 18:44:01"
+    },
+    {
+      "id_origen": 14749,
+      "numero": 6,
+      "titulo": "D.Gray-man - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1dd47cc816ac88ccd8100451384c97a.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/6/",
+      "publicado_en_origen": "2012-02-09 18:44:14"
+    },
+    {
+      "id_origen": 14750,
+      "numero": 7,
+      "titulo": "D.Gray-man - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6ae0d36f2b809808a40cb163b6d9d8d.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/7/",
+      "publicado_en_origen": "2012-02-09 18:44:20"
+    },
+    {
+      "id_origen": 14751,
+      "numero": 8,
+      "titulo": "D.Gray-man - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efad653e1abded64a74417c531cdca0f.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/8/",
+      "publicado_en_origen": "2012-02-09 18:44:25"
+    },
+    {
+      "id_origen": 14752,
+      "numero": 9,
+      "titulo": "D.Gray-man - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85ebad98d8a178be8baf16929526446e.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/9/",
+      "publicado_en_origen": "2012-02-09 18:44:30"
+    },
+    {
+      "id_origen": 14753,
+      "numero": 10,
+      "titulo": "D.Gray-man - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_926e263363c82458a9ae48883b7dc655.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/10/",
+      "publicado_en_origen": "2012-02-09 18:44:39"
+    },
+    {
+      "id_origen": 14754,
+      "numero": 11,
+      "titulo": "D.Gray-man - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb0d6d3459c57b7a5c968956b1ecf1e3.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/11/",
+      "publicado_en_origen": "2012-02-09 18:44:45"
+    },
+    {
+      "id_origen": 14755,
+      "numero": 12,
+      "titulo": "D.Gray-man - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc8f2e58b77f38bde7744b4109446c07.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/12/",
+      "publicado_en_origen": "2012-02-09 18:44:56"
+    },
+    {
+      "id_origen": 14756,
+      "numero": 13,
+      "titulo": "D.Gray-man - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01fd0dbe941d41130c1614960d370929.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/13/",
+      "publicado_en_origen": "2012-02-09 18:45:12"
+    },
+    {
+      "id_origen": 14757,
+      "numero": 14,
+      "titulo": "D.Gray-man - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47f4b6321e9fd8e8f7326a6adc1a7c1e.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/14/",
+      "publicado_en_origen": "2012-02-09 18:45:19"
+    },
+    {
+      "id_origen": 14758,
+      "numero": 15,
+      "titulo": "D.Gray-man - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6ad645a331d5e5e95938c1439ba385d.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/15/",
+      "publicado_en_origen": "2012-02-09 18:45:26"
+    },
+    {
+      "id_origen": 14759,
+      "numero": 16,
+      "titulo": "D.Gray-man - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_adb015f17cc59911788adb13ba65022f.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/16/",
+      "publicado_en_origen": "2012-02-09 18:45:31"
+    },
+    {
+      "id_origen": 14760,
+      "numero": 17,
+      "titulo": "D.Gray-man - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d45b6d92e35ff59d3f5a1861e431d581.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/17/",
+      "publicado_en_origen": "2012-02-09 18:45:35"
+    },
+    {
+      "id_origen": 14761,
+      "numero": 18,
+      "titulo": "D.Gray-man - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad100897c6f809081d942836af421f86.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/18/",
+      "publicado_en_origen": "2012-02-09 18:45:43"
+    },
+    {
+      "id_origen": 14762,
+      "numero": 19,
+      "titulo": "D.Gray-man - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93bb49ede783ed9c09b650c9234be21a.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/19/",
+      "publicado_en_origen": "2012-02-09 18:45:50"
+    },
+    {
+      "id_origen": 14763,
+      "numero": 20,
+      "titulo": "D.Gray-man - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2fe37bd25993870f5a38563dd25b1d05.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/20/",
+      "publicado_en_origen": "2012-02-09 18:45:57"
+    },
+    {
+      "id_origen": 14764,
+      "numero": 21,
+      "titulo": "D.Gray-man - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_885ca3d99fd35f509a2aa0130e8bf64f.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/21/",
+      "publicado_en_origen": "2012-02-09 18:46:03"
+    },
+    {
+      "id_origen": 14765,
+      "numero": 22,
+      "titulo": "D.Gray-man - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5554fc79d03d035fff0a7be9998332d2.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/22/",
+      "publicado_en_origen": "2012-02-09 18:46:07"
+    },
+    {
+      "id_origen": 14766,
+      "numero": 23,
+      "titulo": "D.Gray-man - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af3b0930d888e15a07a36b9987b70858.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/23/",
+      "publicado_en_origen": "2012-02-09 18:46:14"
+    },
+    {
+      "id_origen": 14767,
+      "numero": 24,
+      "titulo": "D.Gray-man - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c84f1f1c3914a66236542d1166b01780.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/24/",
+      "publicado_en_origen": "2012-02-09 18:46:20"
+    },
+    {
+      "id_origen": 14768,
+      "numero": 25,
+      "titulo": "D.Gray-man - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dfd06d3b151a21b879f3710d6b49786.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/25/",
+      "publicado_en_origen": "2012-02-09 18:47:16"
+    },
+    {
+      "id_origen": 14769,
+      "numero": 26,
+      "titulo": "D.Gray-man - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1f69f6000f7a8b5883b7134fcf8d558.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/26/",
+      "publicado_en_origen": "2012-02-09 18:47:33"
+    },
+    {
+      "id_origen": 14770,
+      "numero": 27,
+      "titulo": "D.Gray-man - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6346db6a68f632318af0c2a474b9eb34.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/27/",
+      "publicado_en_origen": "2012-02-09 18:47:40"
+    },
+    {
+      "id_origen": 14771,
+      "numero": 28,
+      "titulo": "D.Gray-man - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea3e4ebf79464bc783e063d7182bc3fd.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/28/",
+      "publicado_en_origen": "2012-02-09 18:47:46"
+    },
+    {
+      "id_origen": 14772,
+      "numero": 29,
+      "titulo": "D.Gray-man - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91d5e7caa88aeba26636f80e5f98daa3.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/29/",
+      "publicado_en_origen": "2012-02-09 18:47:56"
+    },
+    {
+      "id_origen": 14773,
+      "numero": 30,
+      "titulo": "D.Gray-man - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c9d05e62e91554c5348f78f8f2cd45b.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/30/",
+      "publicado_en_origen": "2012-02-09 18:48:32"
+    },
+    {
+      "id_origen": 14777,
+      "numero": 31,
+      "titulo": "D.Gray-man - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd69a680c233578a87e46f33dfdc78b1.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/31/",
+      "publicado_en_origen": "2012-02-09 19:10:52"
+    },
+    {
+      "id_origen": 15315,
+      "numero": 32,
+      "titulo": "D.Gray-man - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83ab0b13719ba7c929a84678b92ed5c0.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/32/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15316,
+      "numero": 33,
+      "titulo": "D.Gray-man - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a94234e0f6cc54155bf0f806aa1aac2.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/33/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15317,
+      "numero": 34,
+      "titulo": "D.Gray-man - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be5acb71f959598767dd12c4732e537d.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/34/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15318,
+      "numero": 35,
+      "titulo": "D.Gray-man - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3be1e43c45c1332103695ea502ff9207.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/35/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15319,
+      "numero": 36,
+      "titulo": "D.Gray-man - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_786e9ac2a91abc685e169b38d7e19df4.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/36/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15320,
+      "numero": 37,
+      "titulo": "D.Gray-man - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9bd58e0ae7969a7c78e417fcbfeff51.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/37/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15321,
+      "numero": 38,
+      "titulo": "D.Gray-man - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d50819673fa91c9989e1fe612b2b33ad.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/38/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15322,
+      "numero": 39,
+      "titulo": "D.Gray-man - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe184ec3276a986afa6e10163a63a942.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/39/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15323,
+      "numero": 40,
+      "titulo": "D.Gray-man - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_885835902a171922507933d5809b45db.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/40/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15324,
+      "numero": 41,
+      "titulo": "D.Gray-man - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc6b49da231b443f29dba004aabfa807.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/41/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15325,
+      "numero": 42,
+      "titulo": "D.Gray-man - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fba5064090a88310b6e0984e0de1939d.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/42/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15326,
+      "numero": 43,
+      "titulo": "D.Gray-man - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b762a19d81c2b8d11d04ca87453af7b5.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/43/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15327,
+      "numero": 44,
+      "titulo": "D.Gray-man - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7dc5541ac8b4184135758af965b0be00.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/44/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15328,
+      "numero": 45,
+      "titulo": "D.Gray-man - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37007545a7abc397017002fc9a713ea2.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/45/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15329,
+      "numero": 46,
+      "titulo": "D.Gray-man - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3b0ccb6a1a32b2594084f0da668615d.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/46/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15330,
+      "numero": 47,
+      "titulo": "D.Gray-man - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acf7e77a5936a316105ce94cee522f5d.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/47/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15331,
+      "numero": 48,
+      "titulo": "D.Gray-man - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3349958a3e56580d4e415da345703886.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/48/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15332,
+      "numero": 49,
+      "titulo": "D.Gray-man - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3259448026472bf01c91b755d70608dc.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/49/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15333,
+      "numero": 50,
+      "titulo": "D.Gray-man - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91bfebe18c6b8925dac99d884b080c6d.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/50/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15334,
+      "numero": 51,
+      "titulo": "D.Gray-man - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6000db4c19f0ab158c1b1bf5b06ce151.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/51/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15335,
+      "numero": 52,
+      "titulo": "D.Gray-man - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c2b4dfff603f33d7efc32a0e28dcfca.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/52/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15336,
+      "numero": 53,
+      "titulo": "D.Gray-man - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f32094203d9e03c8d1340050a9dddfc6.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/53/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15337,
+      "numero": 54,
+      "titulo": "D.Gray-man - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85faaa6cbdf6530166a70321acfa7b27.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/54/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15338,
+      "numero": 55,
+      "titulo": "D.Gray-man - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50075d2902d41e5cb9903a24689a7d78.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/55/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15339,
+      "numero": 56,
+      "titulo": "D.Gray-man - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_745632d79a8e9f602291a574bebda38d.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/56/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15340,
+      "numero": 57,
+      "titulo": "D.Gray-man - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e82bd52ff22173a2db7c8bb56647830c.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/57/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15341,
+      "numero": 58,
+      "titulo": "D.Gray-man - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_417d74e9ae411005a9e96e80231b0085.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/58/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15342,
+      "numero": 59,
+      "titulo": "D.Gray-man - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddabb258dc2a7d5b5a7204fa68fe522f.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/59/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15343,
+      "numero": 60,
+      "titulo": "D.Gray-man - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88cd5f09652e5b4b12be5e44148c344c.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/60/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15344,
+      "numero": 61,
+      "titulo": "D.Gray-man - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3a12e198d15821a8fcf98714770bb57.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/61/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15345,
+      "numero": 62,
+      "titulo": "D.Gray-man - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ec7ff1ac324a4bed44cc51d362e5b94.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/62/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15346,
+      "numero": 63,
+      "titulo": "D.Gray-man - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7de504cb196a4909cba94d8005d2e8df.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/63/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15347,
+      "numero": 64,
+      "titulo": "D.Gray-man - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_437d432e126269160c1cc4e0fc72f1ee.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/64/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15348,
+      "numero": 65,
+      "titulo": "D.Gray-man - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3517fa423c73116f3f78c6cbaa5fe4ef.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/65/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15349,
+      "numero": 66,
+      "titulo": "D.Gray-man - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5211cd8d2605ed43c70fa82884cc849.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/66/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15350,
+      "numero": 67,
+      "titulo": "D.Gray-man - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a409f659e62be4aa3778846ed01deea.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/67/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15351,
+      "numero": 68,
+      "titulo": "D.Gray-man - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94f338fe2f7f9a84751deeefae6bcba2.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/68/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15352,
+      "numero": 69,
+      "titulo": "D.Gray-man - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d71abbcc8fbb80bcfa7e373dd48b4e2a.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/69/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15353,
+      "numero": 70,
+      "titulo": "D.Gray-man - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5785c3651a5d911fca2b311b48c0896d.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/70/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15354,
+      "numero": 71,
+      "titulo": "D.Gray-man - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1740c5223422374b7fb1888478aabb9.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/71/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15355,
+      "numero": 72,
+      "titulo": "D.Gray-man - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd4e40cf0437db90471f25c3ee4ae9ac.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/72/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15356,
+      "numero": 73,
+      "titulo": "D.Gray-man - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bda989b1330ba4f420924a5be0ebcb61.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/73/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15357,
+      "numero": 74,
+      "titulo": "D.Gray-man - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a21852bf267634b8db7f0633120e5620.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/74/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15358,
+      "numero": 75,
+      "titulo": "D.Gray-man - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdac69c3eee7bd0427535354eae235a4.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/75/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15359,
+      "numero": 76,
+      "titulo": "D.Gray-man - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54bca824f5fa890e036fb9191bcdc324.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/76/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15360,
+      "numero": 77,
+      "titulo": "D.Gray-man - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_320bc51fecc423dd893a420b42b9719a.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/77/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15361,
+      "numero": 78,
+      "titulo": "D.Gray-man - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7259202cea475e0e98aa076037cc3f15.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/78/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15362,
+      "numero": 79,
+      "titulo": "D.Gray-man - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f514659f5c754f0cec51ea59a5e826ae.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/79/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15363,
+      "numero": 80,
+      "titulo": "D.Gray-man - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a23eabd0e013e2ef19cc27099204ea18.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/80/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15364,
+      "numero": 81,
+      "titulo": "D.Gray-man - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a50f770e0e910d3beffd653f7c4197e.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/81/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15365,
+      "numero": 82,
+      "titulo": "D.Gray-man - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cf54a3d780b9294815e5f249164f20f.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/82/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15366,
+      "numero": 83,
+      "titulo": "D.Gray-man - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc73483cfec371c61e8f755f0ed49da4.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/83/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15367,
+      "numero": 84,
+      "titulo": "D.Gray-man - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_358164500fe22f226f1f07cac73a8288.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/84/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15368,
+      "numero": 85,
+      "titulo": "D.Gray-man - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9de458965db9c80e1afc5af36a8f93b6.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/85/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15369,
+      "numero": 86,
+      "titulo": "D.Gray-man - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba1ccf0271ba8fb4766db5c608f1012a.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/86/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15370,
+      "numero": 87,
+      "titulo": "D.Gray-man - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6eae17727b4e77cfd9d81da1f7176317.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/87/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15371,
+      "numero": 88,
+      "titulo": "D.Gray-man - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_583ec298b104e8f1d60fe7315ffd99d1.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/88/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15372,
+      "numero": 89,
+      "titulo": "D.Gray-man - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f3ad7a14cd3d1cf5d73e8ec7205e7f1.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/89/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15373,
+      "numero": 90,
+      "titulo": "D.Gray-man - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e77e4a1b051ec0a510b48eaec2f3a3c.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/90/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15374,
+      "numero": 91,
+      "titulo": "D.Gray-man - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acf73df8e44ed30badb8a834a87f7e94.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/91/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15375,
+      "numero": 92,
+      "titulo": "D.Gray-man - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73926ad475a40a4cb676b8d4516cd767.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/92/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15376,
+      "numero": 93,
+      "titulo": "D.Gray-man - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4766154cea472a154f89d033051372de.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/93/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15377,
+      "numero": 94,
+      "titulo": "D.Gray-man - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_216965b6c0c343a0866b3634853d5569.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/94/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15378,
+      "numero": 95,
+      "titulo": "D.Gray-man - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcc5b727bd30570766d15fb2d4e4ccd5.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/95/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15379,
+      "numero": 96,
+      "titulo": "D.Gray-man - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b0805c2460fd34756c326458f1642af.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/96/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15380,
+      "numero": 97,
+      "titulo": "D.Gray-man - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_673b0a8f69f725746a7855824c7da178.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/97/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15381,
+      "numero": 98,
+      "titulo": "D.Gray-man - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e92c58a6493efcb1f0e995c58a60b620.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/98/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15382,
+      "numero": 99,
+      "titulo": "D.Gray-man - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b33ab78dc0e9072a05258918507b3e6f.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/99/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15383,
+      "numero": 100,
+      "titulo": "D.Gray-man - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc6249acce910185a80f3152bd16adde.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/100/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15384,
+      "numero": 101,
+      "titulo": "D.Gray-man - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bad4539e46846423a187311f3bf56464.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/101/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15385,
+      "numero": 102,
+      "titulo": "D.Gray-man - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4cc4b9bf4dc2237cb88718132e9fb7c.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/102/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    },
+    {
+      "id_origen": 15386,
+      "numero": 103,
+      "titulo": "D.Gray-man - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fed2feba540053a436306e3993642e7a.jpg",
+      "url_origen": "https://jkanime.net/d-gray-man/103/",
+      "publicado_en_origen": "2012-04-02 10:31:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "161",
+  "cantidad_episodios_declarada": 103,
+  "detalle_extraido_en": "2026-08-26T18:24:14+00:00"
+}

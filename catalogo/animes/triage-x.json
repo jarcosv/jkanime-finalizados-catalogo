@@ -1,0 +1,101 @@
+{
+  "id_origen": 1511,
+  "slug": "triage-x",
+  "titulo": "Triage X",
+  "titulo_corto": "Triage X",
+  "sinopsis": "En el Hospital General Mochizuki se encuentran algunas de las mejores (y más dotadas) enfermeras de la ciudad. Pero aunque estas señoritas pasan la mayor parte del tiempo combatiendo las enfermedades, fuera del trabajo luchan contra otro tipo de enfermedad muy diferente… Bajo el liderazgo del director del hospital, un grupo de miembros del equipo y adolescentes de la ciudad forman un grupo de asesinos mercenarios cuyo objetivo son el “cáncer” de la sociedad, acabando con todos aquellos cuya maldad no debe extenderse.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/triage-x.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/triage-x/",
+  "episodios": [
+    {
+      "id_origen": 27418,
+      "numero": 1,
+      "titulo": "Triage X - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90b9183f8bad48a62060ea4a4eaf7cf6.jpg",
+      "url_origen": "https://jkanime.net/triage-x/1/",
+      "publicado_en_origen": "2015-04-08 12:46:35"
+    },
+    {
+      "id_origen": 27484,
+      "numero": 2,
+      "titulo": "Triage X - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54ac89ac6928fe968c150c002e74ebcb.jpg",
+      "url_origen": "https://jkanime.net/triage-x/2/",
+      "publicado_en_origen": "2015-04-15 12:35:27"
+    },
+    {
+      "id_origen": 27556,
+      "numero": 3,
+      "titulo": "Triage X - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c98b0539591b13b7ba78b3b614407ef.jpg",
+      "url_origen": "https://jkanime.net/triage-x/3/",
+      "publicado_en_origen": "2015-04-22 12:41:38"
+    },
+    {
+      "id_origen": 27620,
+      "numero": 4,
+      "titulo": "Triage X - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78e54f68143ff325ed05244eb2cd0172.jpg",
+      "url_origen": "https://jkanime.net/triage-x/4/",
+      "publicado_en_origen": "2015-04-29 12:46:24"
+    },
+    {
+      "id_origen": 27684,
+      "numero": 5,
+      "titulo": "Triage X - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6920d7076c2de8485aa00461c60f4150.jpg",
+      "url_origen": "https://jkanime.net/triage-x/5/",
+      "publicado_en_origen": "2015-05-06 12:44:46"
+    },
+    {
+      "id_origen": 27742,
+      "numero": 6,
+      "titulo": "Triage X - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4f544fdb5f766db8ee639797d3c38cb.jpg",
+      "url_origen": "https://jkanime.net/triage-x/6/",
+      "publicado_en_origen": "2015-05-13 12:44:30"
+    },
+    {
+      "id_origen": 27805,
+      "numero": 7,
+      "titulo": "Triage X - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a057378e3fd83af33775777b5183603b.jpg",
+      "url_origen": "https://jkanime.net/triage-x/7/",
+      "publicado_en_origen": "2015-05-20 12:47:11"
+    },
+    {
+      "id_origen": 27870,
+      "numero": 8,
+      "titulo": "Triage X - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a28477d0c57129b93d95baf171634582.jpg",
+      "url_origen": "https://jkanime.net/triage-x/8/",
+      "publicado_en_origen": "2015-05-27 12:41:57"
+    },
+    {
+      "id_origen": 27936,
+      "numero": 9,
+      "titulo": "Triage X - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a73d731082fabe880672f123d4b3dcfe.jpg",
+      "url_origen": "https://jkanime.net/triage-x/9/",
+      "publicado_en_origen": "2015-06-03 12:42:27"
+    },
+    {
+      "id_origen": 28051,
+      "numero": 10,
+      "titulo": "Triage X - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f44c9f72af72b69d3d81c735bfd6181.jpg",
+      "url_origen": "https://jkanime.net/triage-x/10/",
+      "publicado_en_origen": "2015-06-10 12:51:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1511",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:50:06+00:00"
+}

@@ -1,0 +1,2949 @@
+{
+  "id_origen": 278,
+  "slug": "bleach",
+  "titulo": "Bleach",
+  "titulo_corto": "Bleach",
+  "sinopsis": "Kurosaki Ichigo es un estudiante de instituto de 15 años, que tiene una peculiaridad: es capaz de ver, oír y hablar con fantasmas. Pero no sabe hasta dónde puede abarcar la clasificación de espíritus, ni lo que conlleva el saberlo. Un buen día, una extraña chica de pequeña estatura que viste ropas negras de samurai entra en su cuarto. Se llama Rukia Kuchiki, y es una Shinigami (Dios de la Muerte). Ante la incredulidad de Ichigo, le explica que su trabajo es mandar a las almas buenas o plus a un lugar llamado la Sociedad de Almas, y eliminar a las almas malignas o hollows. Luego junto a Inoue Orihime, Ishida Uryū y Sado Yasutora se veran envueltos en diferentes batallas, las cuales iran desarrollando sus diferentes habilidades que le otorgaran a cada uno su importancia en la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bleach/",
+  "episodios": [
+    {
+      "id_origen": 73564,
+      "numero": 1,
+      "titulo": "Bleach - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_785b35c11478409629f56d9bcfbded29.jpg",
+      "url_origen": "https://jkanime.net/bleach/1/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73565,
+      "numero": 2,
+      "titulo": "Bleach - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e20093e20810f68f67246d5a1ffb84b9.jpg",
+      "url_origen": "https://jkanime.net/bleach/2/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73566,
+      "numero": 3,
+      "titulo": "Bleach - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_394033ac0d6b6c5a93e683d38e43f4c5.jpg",
+      "url_origen": "https://jkanime.net/bleach/3/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73567,
+      "numero": 4,
+      "titulo": "Bleach - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7db6645803dc8357e1dbbe7095d9c3d.jpg",
+      "url_origen": "https://jkanime.net/bleach/4/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73568,
+      "numero": 5,
+      "titulo": "Bleach - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a7756ae9a59d27889cef0f2df9188a4.jpg",
+      "url_origen": "https://jkanime.net/bleach/5/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73569,
+      "numero": 6,
+      "titulo": "Bleach - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8a7b7b0ff9b43e252d735e9ff7c4da9.jpg",
+      "url_origen": "https://jkanime.net/bleach/6/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73570,
+      "numero": 7,
+      "titulo": "Bleach - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0198b6c2118ca1aee283f3a6548249c.jpg",
+      "url_origen": "https://jkanime.net/bleach/7/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73571,
+      "numero": 8,
+      "titulo": "Bleach - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f05951c8d896e298bdb8c165e56eba0.jpg",
+      "url_origen": "https://jkanime.net/bleach/8/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73572,
+      "numero": 9,
+      "titulo": "Bleach - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9265572694c864dfdde091c751336977.jpg",
+      "url_origen": "https://jkanime.net/bleach/9/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73573,
+      "numero": 10,
+      "titulo": "Bleach - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_631aa8aadb33a705d85c737f244f2993.jpg",
+      "url_origen": "https://jkanime.net/bleach/10/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73574,
+      "numero": 11,
+      "titulo": "Bleach - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d3948f77f6689ac425896f28f3e64a5.jpg",
+      "url_origen": "https://jkanime.net/bleach/11/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73575,
+      "numero": 12,
+      "titulo": "Bleach - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddb872728cd135c1457cac99e9022f1f.jpg",
+      "url_origen": "https://jkanime.net/bleach/12/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73576,
+      "numero": 13,
+      "titulo": "Bleach - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00d31e26457594add8bbc67242fc6233.jpg",
+      "url_origen": "https://jkanime.net/bleach/13/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73577,
+      "numero": 14,
+      "titulo": "Bleach - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_886928e4b5f3f9ea0d54fbeb19ef5886.jpg",
+      "url_origen": "https://jkanime.net/bleach/14/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73578,
+      "numero": 15,
+      "titulo": "Bleach - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65b5f5e6a792f1f9db30a76dac0b8d22.jpg",
+      "url_origen": "https://jkanime.net/bleach/15/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73579,
+      "numero": 16,
+      "titulo": "Bleach - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7744b664a47e320af86d34de1152a00.jpg",
+      "url_origen": "https://jkanime.net/bleach/16/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73580,
+      "numero": 17,
+      "titulo": "Bleach - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0808a480f7ea43cd19f58b45d927a57e.jpg",
+      "url_origen": "https://jkanime.net/bleach/17/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73581,
+      "numero": 18,
+      "titulo": "Bleach - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_080b538a0be56435814c2542eabf37ad.jpg",
+      "url_origen": "https://jkanime.net/bleach/18/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73582,
+      "numero": 19,
+      "titulo": "Bleach - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f52aac89eac00c23c45fabea583b0ec0.jpg",
+      "url_origen": "https://jkanime.net/bleach/19/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73583,
+      "numero": 20,
+      "titulo": "Bleach - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96d462a9854dc64c87eee461ed9a66f4.jpg",
+      "url_origen": "https://jkanime.net/bleach/20/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73584,
+      "numero": 21,
+      "titulo": "Bleach - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_001913f677b8a33fe642733095c8adce.jpg",
+      "url_origen": "https://jkanime.net/bleach/21/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73585,
+      "numero": 22,
+      "titulo": "Bleach - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b43ca6a9540e9efee8f426b0448d3c32.jpg",
+      "url_origen": "https://jkanime.net/bleach/22/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73586,
+      "numero": 23,
+      "titulo": "Bleach - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d766f57be8bc39813aab9878b607c696.jpg",
+      "url_origen": "https://jkanime.net/bleach/23/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73587,
+      "numero": 24,
+      "titulo": "Bleach - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_652e4dd5ae9e3ae470361389fdb44146.jpg",
+      "url_origen": "https://jkanime.net/bleach/24/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73588,
+      "numero": 25,
+      "titulo": "Bleach - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_207a107cbf674554e35e1e9d04a64ac0.jpg",
+      "url_origen": "https://jkanime.net/bleach/25/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73589,
+      "numero": 26,
+      "titulo": "Bleach - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2b6fc3f95144840571e20aa85dbcb5c.jpg",
+      "url_origen": "https://jkanime.net/bleach/26/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73590,
+      "numero": 27,
+      "titulo": "Bleach - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4e97966f6c5427569df6d7f776daf82.jpg",
+      "url_origen": "https://jkanime.net/bleach/27/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73591,
+      "numero": 28,
+      "titulo": "Bleach - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c41f700e61747a6bc3c46f08a6dd9412.jpg",
+      "url_origen": "https://jkanime.net/bleach/28/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73592,
+      "numero": 29,
+      "titulo": "Bleach - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce152bfccdbeff5a898c610e054bbabe.jpg",
+      "url_origen": "https://jkanime.net/bleach/29/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73593,
+      "numero": 30,
+      "titulo": "Bleach - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3427590e6b84956081d46ecef7aaf50.jpg",
+      "url_origen": "https://jkanime.net/bleach/30/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73594,
+      "numero": 31,
+      "titulo": "Bleach - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47ee7772e7a2ddeceb493e7d38cf7733.jpg",
+      "url_origen": "https://jkanime.net/bleach/31/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73595,
+      "numero": 32,
+      "titulo": "Bleach - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05c6461fe98fc4d631dba4f884d8e962.jpg",
+      "url_origen": "https://jkanime.net/bleach/32/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73596,
+      "numero": 33,
+      "titulo": "Bleach - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d08a7040973f6ffe0d297ffea52e0c8d.jpg",
+      "url_origen": "https://jkanime.net/bleach/33/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73597,
+      "numero": 34,
+      "titulo": "Bleach - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f086bf7c96700f357767d5732402f84.jpg",
+      "url_origen": "https://jkanime.net/bleach/34/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73598,
+      "numero": 35,
+      "titulo": "Bleach - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e8e251d1bc981b515d3a225b55df5d1.jpg",
+      "url_origen": "https://jkanime.net/bleach/35/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73599,
+      "numero": 36,
+      "titulo": "Bleach - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4dacaa3af9afce568e2386d39b62fdb.jpg",
+      "url_origen": "https://jkanime.net/bleach/36/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73600,
+      "numero": 37,
+      "titulo": "Bleach - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2812b6fb1b0891bc506a5910cc48142.jpg",
+      "url_origen": "https://jkanime.net/bleach/37/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73601,
+      "numero": 38,
+      "titulo": "Bleach - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21aff1e88a30d9fefdef311cb154c91c.jpg",
+      "url_origen": "https://jkanime.net/bleach/38/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73602,
+      "numero": 39,
+      "titulo": "Bleach - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb759f56b87b626c476cb0470ed54efa.jpg",
+      "url_origen": "https://jkanime.net/bleach/39/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73603,
+      "numero": 40,
+      "titulo": "Bleach - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3c5ad0133f820358d15d9a472105050.jpg",
+      "url_origen": "https://jkanime.net/bleach/40/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73604,
+      "numero": 41,
+      "titulo": "Bleach - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ac60385e5b816fc401067bf477bfae2.jpg",
+      "url_origen": "https://jkanime.net/bleach/41/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73605,
+      "numero": 42,
+      "titulo": "Bleach - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4522210727c7263dce32b98b28ffe7b6.jpg",
+      "url_origen": "https://jkanime.net/bleach/42/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73606,
+      "numero": 43,
+      "titulo": "Bleach - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2cb79b1f9a44d1036ef19c00c444c602.jpg",
+      "url_origen": "https://jkanime.net/bleach/43/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73607,
+      "numero": 44,
+      "titulo": "Bleach - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0cad51b4515f61534b03e66025140751.jpg",
+      "url_origen": "https://jkanime.net/bleach/44/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73608,
+      "numero": 45,
+      "titulo": "Bleach - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fd24921aedd9b3501ac096e78affbc0.jpg",
+      "url_origen": "https://jkanime.net/bleach/45/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73609,
+      "numero": 46,
+      "titulo": "Bleach - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93f8f71a3049b5b1df905e782baa9b68.jpg",
+      "url_origen": "https://jkanime.net/bleach/46/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73610,
+      "numero": 47,
+      "titulo": "Bleach - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bcb65320bdd1757cf6e7a545f48f5346.jpg",
+      "url_origen": "https://jkanime.net/bleach/47/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73611,
+      "numero": 48,
+      "titulo": "Bleach - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f56995e8865073aebdc45587b6aa3f64.jpg",
+      "url_origen": "https://jkanime.net/bleach/48/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73612,
+      "numero": 49,
+      "titulo": "Bleach - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c5a778dd568d309a83c855136510631.jpg",
+      "url_origen": "https://jkanime.net/bleach/49/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73613,
+      "numero": 50,
+      "titulo": "Bleach - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d66897595952052ec565932182d3cc70.jpg",
+      "url_origen": "https://jkanime.net/bleach/50/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73614,
+      "numero": 51,
+      "titulo": "Bleach - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6cd9cc48a5018880e92e3de8c55ad67.jpg",
+      "url_origen": "https://jkanime.net/bleach/51/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73615,
+      "numero": 52,
+      "titulo": "Bleach - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_010e704c1d20a3e91c433f01e22b9514.jpg",
+      "url_origen": "https://jkanime.net/bleach/52/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73616,
+      "numero": 53,
+      "titulo": "Bleach - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6bc93a532bfffeb8cab4530ebd1235af.jpg",
+      "url_origen": "https://jkanime.net/bleach/53/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73617,
+      "numero": 54,
+      "titulo": "Bleach - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6bacac4b4fda4540beaa69e5f1b8c5b5.jpg",
+      "url_origen": "https://jkanime.net/bleach/54/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73618,
+      "numero": 55,
+      "titulo": "Bleach - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e4e25437d0769c061517654cd940249.jpg",
+      "url_origen": "https://jkanime.net/bleach/55/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73619,
+      "numero": 56,
+      "titulo": "Bleach - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b7a67119070a42b2f7f48230b5d943e.jpg",
+      "url_origen": "https://jkanime.net/bleach/56/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73620,
+      "numero": 57,
+      "titulo": "Bleach - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1433b9a0255b86929b87ec1d0cef5cc4.jpg",
+      "url_origen": "https://jkanime.net/bleach/57/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73621,
+      "numero": 58,
+      "titulo": "Bleach - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8e9850392beedad0396f8a6ac71d878.jpg",
+      "url_origen": "https://jkanime.net/bleach/58/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73622,
+      "numero": 59,
+      "titulo": "Bleach - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_132f64d1b787eb528da70d90804a6ab9.jpg",
+      "url_origen": "https://jkanime.net/bleach/59/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73623,
+      "numero": 60,
+      "titulo": "Bleach - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2915314173733c6e14503c864238a5bf.jpg",
+      "url_origen": "https://jkanime.net/bleach/60/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73624,
+      "numero": 61,
+      "titulo": "Bleach - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df90f906b6a500775858880e3a6e2065.jpg",
+      "url_origen": "https://jkanime.net/bleach/61/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73625,
+      "numero": 62,
+      "titulo": "Bleach - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c4ac73edc68fd408c87211e94ba8e71.jpg",
+      "url_origen": "https://jkanime.net/bleach/62/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73626,
+      "numero": 63,
+      "titulo": "Bleach - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc0362713992a51f230acf871ec2c955.jpg",
+      "url_origen": "https://jkanime.net/bleach/63/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73627,
+      "numero": 64,
+      "titulo": "Bleach - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e892ded7d6e61db8b41c09333d155027.jpg",
+      "url_origen": "https://jkanime.net/bleach/64/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73628,
+      "numero": 65,
+      "titulo": "Bleach - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_698886ad2a4bb0186d629ccb7a4ae37b.jpg",
+      "url_origen": "https://jkanime.net/bleach/65/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73629,
+      "numero": 66,
+      "titulo": "Bleach - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3163dc3017e6f2ebfe60176dcfb33c82.jpg",
+      "url_origen": "https://jkanime.net/bleach/66/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73630,
+      "numero": 67,
+      "titulo": "Bleach - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60b6a1ad99269326092a79b3aa9d2cf8.jpg",
+      "url_origen": "https://jkanime.net/bleach/67/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73631,
+      "numero": 68,
+      "titulo": "Bleach - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34e3399355cf137bc235e72c5808bbba.jpg",
+      "url_origen": "https://jkanime.net/bleach/68/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73632,
+      "numero": 69,
+      "titulo": "Bleach - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af732ef90d898155491881d33c543c24.jpg",
+      "url_origen": "https://jkanime.net/bleach/69/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73633,
+      "numero": 70,
+      "titulo": "Bleach - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22d10d5cbb20508bf928cc83b9caa0cc.jpg",
+      "url_origen": "https://jkanime.net/bleach/70/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73634,
+      "numero": 71,
+      "titulo": "Bleach - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e320889e3d6a006c181879f98d8b8d9.jpg",
+      "url_origen": "https://jkanime.net/bleach/71/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73635,
+      "numero": 72,
+      "titulo": "Bleach - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_180305976bdcbfe6e167b14d8860e307.jpg",
+      "url_origen": "https://jkanime.net/bleach/72/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73636,
+      "numero": 73,
+      "titulo": "Bleach - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30a239ac2fd68577a515aa4beaabdace.jpg",
+      "url_origen": "https://jkanime.net/bleach/73/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73637,
+      "numero": 74,
+      "titulo": "Bleach - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e7de4eb8f2b92afec317e00998068a0.jpg",
+      "url_origen": "https://jkanime.net/bleach/74/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73638,
+      "numero": 75,
+      "titulo": "Bleach - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6bf7995fcd84ce1fcbf922ced44e708b.jpg",
+      "url_origen": "https://jkanime.net/bleach/75/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73639,
+      "numero": 76,
+      "titulo": "Bleach - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ddf3a362e2276ae12783502131705fe.jpg",
+      "url_origen": "https://jkanime.net/bleach/76/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73640,
+      "numero": 77,
+      "titulo": "Bleach - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63bcc7f54b745bbfe7ae4f74d54e21e7.jpg",
+      "url_origen": "https://jkanime.net/bleach/77/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73641,
+      "numero": 78,
+      "titulo": "Bleach - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8914dc7f029ca7d6678c22b2db56170.jpg",
+      "url_origen": "https://jkanime.net/bleach/78/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73642,
+      "numero": 79,
+      "titulo": "Bleach - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_731aea288963d52b1f6c49b1bfcd293a.jpg",
+      "url_origen": "https://jkanime.net/bleach/79/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73643,
+      "numero": 80,
+      "titulo": "Bleach - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5e15161481e8debfe0ff151a4b7eccf.jpg",
+      "url_origen": "https://jkanime.net/bleach/80/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73644,
+      "numero": 81,
+      "titulo": "Bleach - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0860eceed32eda2672c2b9e191e0e944.jpg",
+      "url_origen": "https://jkanime.net/bleach/81/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73645,
+      "numero": 82,
+      "titulo": "Bleach - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_511d6fa98416c7a87a39af678ab1e63f.jpg",
+      "url_origen": "https://jkanime.net/bleach/82/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73646,
+      "numero": 83,
+      "titulo": "Bleach - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f6f200cbaa85fe3aa2d9d864ca7bc1b.jpg",
+      "url_origen": "https://jkanime.net/bleach/83/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73647,
+      "numero": 84,
+      "titulo": "Bleach - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53222847209c3856b4236ee6a5731a3d.jpg",
+      "url_origen": "https://jkanime.net/bleach/84/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73648,
+      "numero": 85,
+      "titulo": "Bleach - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecef2b8dc7dd5ce1aa07caf36c187087.jpg",
+      "url_origen": "https://jkanime.net/bleach/85/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73649,
+      "numero": 86,
+      "titulo": "Bleach - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e696613a3f42c8523d05fc0e90e457ef.jpg",
+      "url_origen": "https://jkanime.net/bleach/86/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73650,
+      "numero": 87,
+      "titulo": "Bleach - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30e2d4cfb4c65afd5cbcd9a1420533fb.jpg",
+      "url_origen": "https://jkanime.net/bleach/87/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73651,
+      "numero": 88,
+      "titulo": "Bleach - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59db3e2c66b605d6b73f6290f8457f3c.jpg",
+      "url_origen": "https://jkanime.net/bleach/88/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73652,
+      "numero": 89,
+      "titulo": "Bleach - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cfb5295eabaf63ad14f3fabd123b44db.jpg",
+      "url_origen": "https://jkanime.net/bleach/89/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73653,
+      "numero": 90,
+      "titulo": "Bleach - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_875c7f5c10b6503cac7ca4b6d195547e.jpg",
+      "url_origen": "https://jkanime.net/bleach/90/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73654,
+      "numero": 91,
+      "titulo": "Bleach - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b1d4f89f24aee0d8ceb1e1c83d46349.jpg",
+      "url_origen": "https://jkanime.net/bleach/91/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73655,
+      "numero": 92,
+      "titulo": "Bleach - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47998ad371a9e7212fedbe9d43e76627.jpg",
+      "url_origen": "https://jkanime.net/bleach/92/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73656,
+      "numero": 93,
+      "titulo": "Bleach - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e9eab6c16c0f7518a1e6a3a3e454e27.jpg",
+      "url_origen": "https://jkanime.net/bleach/93/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73657,
+      "numero": 94,
+      "titulo": "Bleach - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbd2a625d57813116b5153fb306c61a6.jpg",
+      "url_origen": "https://jkanime.net/bleach/94/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73658,
+      "numero": 95,
+      "titulo": "Bleach - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_280cf8f5a98814a7de9c1aaca470874f.jpg",
+      "url_origen": "https://jkanime.net/bleach/95/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73659,
+      "numero": 96,
+      "titulo": "Bleach - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2490d491838a12bbef04a098f1c79e4f.jpg",
+      "url_origen": "https://jkanime.net/bleach/96/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73660,
+      "numero": 97,
+      "titulo": "Bleach - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_778d19c1e8a0f90c208f460ed9e51f29.jpg",
+      "url_origen": "https://jkanime.net/bleach/97/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73661,
+      "numero": 98,
+      "titulo": "Bleach - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3305af188b86f43bc1ffe41beb4799d9.jpg",
+      "url_origen": "https://jkanime.net/bleach/98/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73662,
+      "numero": 99,
+      "titulo": "Bleach - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf8b1198d7ac5234b6bd4ff2c1a86a24.jpg",
+      "url_origen": "https://jkanime.net/bleach/99/",
+      "publicado_en_origen": "2026-06-01 09:41:54"
+    },
+    {
+      "id_origen": 73663,
+      "numero": 100,
+      "titulo": "Bleach - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9af1cf926569c688166a0d29ef1b7b57.jpg",
+      "url_origen": "https://jkanime.net/bleach/100/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73664,
+      "numero": 101,
+      "titulo": "Bleach - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8aafb94306bc15b3ba779331ccd15097.jpg",
+      "url_origen": "https://jkanime.net/bleach/101/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73665,
+      "numero": 102,
+      "titulo": "Bleach - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_067299c52f77f09f619c9e884fe571eb.jpg",
+      "url_origen": "https://jkanime.net/bleach/102/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73666,
+      "numero": 103,
+      "titulo": "Bleach - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_772ad2274f13a39528e258cf2185ef05.jpg",
+      "url_origen": "https://jkanime.net/bleach/103/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73667,
+      "numero": 104,
+      "titulo": "Bleach - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_038db678d66a40abac0eb565243e3c00.jpg",
+      "url_origen": "https://jkanime.net/bleach/104/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73668,
+      "numero": 105,
+      "titulo": "Bleach - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bf6c5bb07028e8f18ed7f0b926115af.jpg",
+      "url_origen": "https://jkanime.net/bleach/105/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73669,
+      "numero": 106,
+      "titulo": "Bleach - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6b3836468f9a6f64d208c13612e93fe.jpg",
+      "url_origen": "https://jkanime.net/bleach/106/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73670,
+      "numero": 107,
+      "titulo": "Bleach - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1db5effa90076da6d8c205ba12a38de4.jpg",
+      "url_origen": "https://jkanime.net/bleach/107/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73671,
+      "numero": 108,
+      "titulo": "Bleach - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd4897d18cae83e0fd1c149e2ddc335d.jpg",
+      "url_origen": "https://jkanime.net/bleach/108/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73672,
+      "numero": 109,
+      "titulo": "Bleach - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e194bb6d791135a43145d6f111368502.jpg",
+      "url_origen": "https://jkanime.net/bleach/109/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73673,
+      "numero": 110,
+      "titulo": "Bleach - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_903e4d48bdebabee682d175d976292ac.jpg",
+      "url_origen": "https://jkanime.net/bleach/110/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73674,
+      "numero": 111,
+      "titulo": "Bleach - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b64282f0338aa5e041d342a385d23c0.jpg",
+      "url_origen": "https://jkanime.net/bleach/111/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73675,
+      "numero": 112,
+      "titulo": "Bleach - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2374c5a960848349b6806cff46b1202.jpg",
+      "url_origen": "https://jkanime.net/bleach/112/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73676,
+      "numero": 113,
+      "titulo": "Bleach - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0171a07f759a793ffc03a3480ac18012.jpg",
+      "url_origen": "https://jkanime.net/bleach/113/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73677,
+      "numero": 114,
+      "titulo": "Bleach - 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1bbc644dea92ff30a21abd17c258f38.jpg",
+      "url_origen": "https://jkanime.net/bleach/114/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73678,
+      "numero": 115,
+      "titulo": "Bleach - 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a7d03cfe106f56ecbe08c33f6c1930a.jpg",
+      "url_origen": "https://jkanime.net/bleach/115/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73679,
+      "numero": 116,
+      "titulo": "Bleach - 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c086b8e1e4a9c2dc57df1c476625847.jpg",
+      "url_origen": "https://jkanime.net/bleach/116/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73680,
+      "numero": 117,
+      "titulo": "Bleach - 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b12c237e31017e308494195ccc5b8494.jpg",
+      "url_origen": "https://jkanime.net/bleach/117/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73681,
+      "numero": 118,
+      "titulo": "Bleach - 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8cbd3874be821ac95fa35ed0e5450ec.jpg",
+      "url_origen": "https://jkanime.net/bleach/118/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73682,
+      "numero": 119,
+      "titulo": "Bleach - 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36b61895394f7bb70241aeb01fa41569.jpg",
+      "url_origen": "https://jkanime.net/bleach/119/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73683,
+      "numero": 120,
+      "titulo": "Bleach - 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99183c64919873e1ff8bf20e55310b21.jpg",
+      "url_origen": "https://jkanime.net/bleach/120/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73684,
+      "numero": 121,
+      "titulo": "Bleach - 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00ccad6eba49d1b5f1d44a77e34d3f50.jpg",
+      "url_origen": "https://jkanime.net/bleach/121/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73685,
+      "numero": 122,
+      "titulo": "Bleach - 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b0484abcb5c1a60f6c1263feec0b5d5.jpg",
+      "url_origen": "https://jkanime.net/bleach/122/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73686,
+      "numero": 123,
+      "titulo": "Bleach - 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5af9e07caf7a31ac961652fb02cc925.jpg",
+      "url_origen": "https://jkanime.net/bleach/123/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73687,
+      "numero": 124,
+      "titulo": "Bleach - 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebab56df7fbe37614a43faa07f57762c.jpg",
+      "url_origen": "https://jkanime.net/bleach/124/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73688,
+      "numero": 125,
+      "titulo": "Bleach - 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a29deb2a7b6125fc646399c98ab9b27.jpg",
+      "url_origen": "https://jkanime.net/bleach/125/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73689,
+      "numero": 126,
+      "titulo": "Bleach - 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2159c5f47cca086797b4ccea7f08dddc.jpg",
+      "url_origen": "https://jkanime.net/bleach/126/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73690,
+      "numero": 127,
+      "titulo": "Bleach - 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82a0f7c70d4d9785a88c1862a62dc579.jpg",
+      "url_origen": "https://jkanime.net/bleach/127/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73691,
+      "numero": 128,
+      "titulo": "Bleach - 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc7a89e26847a745ba66a0d968df4069.jpg",
+      "url_origen": "https://jkanime.net/bleach/128/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73692,
+      "numero": 129,
+      "titulo": "Bleach - 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9259c8bb1cf1785abf3c6c2a5fc2e1a2.jpg",
+      "url_origen": "https://jkanime.net/bleach/129/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73693,
+      "numero": 130,
+      "titulo": "Bleach - 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82a733cc3cadf68d3263a181d77a5c31.jpg",
+      "url_origen": "https://jkanime.net/bleach/130/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73694,
+      "numero": 131,
+      "titulo": "Bleach - 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09e18f874703af2bde378cd4f0af10ff.jpg",
+      "url_origen": "https://jkanime.net/bleach/131/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73695,
+      "numero": 132,
+      "titulo": "Bleach - 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4128a4583768ac3d0ff859fa6793debe.jpg",
+      "url_origen": "https://jkanime.net/bleach/132/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73696,
+      "numero": 133,
+      "titulo": "Bleach - 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec243c837f17f9c9e16fb12f8570a006.jpg",
+      "url_origen": "https://jkanime.net/bleach/133/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73697,
+      "numero": 134,
+      "titulo": "Bleach - 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83c182c34dd591eb433dcda552f9d7e8.jpg",
+      "url_origen": "https://jkanime.net/bleach/134/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73698,
+      "numero": 135,
+      "titulo": "Bleach - 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef7035203e03917a81620480c2de9353.jpg",
+      "url_origen": "https://jkanime.net/bleach/135/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73699,
+      "numero": 136,
+      "titulo": "Bleach - 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e06388224c0d663fd69acb9c15217c8.jpg",
+      "url_origen": "https://jkanime.net/bleach/136/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73700,
+      "numero": 137,
+      "titulo": "Bleach - 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5eb381f31be6b6b762d11e9f316f0fc2.jpg",
+      "url_origen": "https://jkanime.net/bleach/137/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73701,
+      "numero": 138,
+      "titulo": "Bleach - 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c06939ca86a190796462dd756b63626.jpg",
+      "url_origen": "https://jkanime.net/bleach/138/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73702,
+      "numero": 139,
+      "titulo": "Bleach - 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_129560774d844c5d6f117259ba833950.jpg",
+      "url_origen": "https://jkanime.net/bleach/139/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73703,
+      "numero": 140,
+      "titulo": "Bleach - 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cedc6f88aa780b099b8ddbfbe4acc2af.jpg",
+      "url_origen": "https://jkanime.net/bleach/140/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73704,
+      "numero": 141,
+      "titulo": "Bleach - 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83a527d4dac3f7da476aec03ada83d33.jpg",
+      "url_origen": "https://jkanime.net/bleach/141/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73705,
+      "numero": 142,
+      "titulo": "Bleach - 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fee80f2f1426e4f40879a899fb7630d.jpg",
+      "url_origen": "https://jkanime.net/bleach/142/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73706,
+      "numero": 143,
+      "titulo": "Bleach - 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_40d58da958e7a3ed9591e7fd5bb4046e.jpg",
+      "url_origen": "https://jkanime.net/bleach/143/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73707,
+      "numero": 144,
+      "titulo": "Bleach - 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56240ec62b2f0cc8d487b3f5e53fb09d.jpg",
+      "url_origen": "https://jkanime.net/bleach/144/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73708,
+      "numero": 145,
+      "titulo": "Bleach - 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ce49b19e339b3ae02a743451c73a17d.jpg",
+      "url_origen": "https://jkanime.net/bleach/145/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73709,
+      "numero": 146,
+      "titulo": "Bleach - 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b618da8487ab4c40b2df1a348de628e.jpg",
+      "url_origen": "https://jkanime.net/bleach/146/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73710,
+      "numero": 147,
+      "titulo": "Bleach - 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f4f6b40e36e0e8e655896e2d01ffd42.jpg",
+      "url_origen": "https://jkanime.net/bleach/147/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73711,
+      "numero": 148,
+      "titulo": "Bleach - 148",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_108f81137d0720930db9596259a64865.jpg",
+      "url_origen": "https://jkanime.net/bleach/148/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73712,
+      "numero": 149,
+      "titulo": "Bleach - 149",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_254fb7ac0197a78d67d59bf775eab9a2.jpg",
+      "url_origen": "https://jkanime.net/bleach/149/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73713,
+      "numero": 150,
+      "titulo": "Bleach - 150",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ad3ed29fa2f21980dc8d86f7499a452.jpg",
+      "url_origen": "https://jkanime.net/bleach/150/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73714,
+      "numero": 151,
+      "titulo": "Bleach - 151",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f45f37ba1e8b985f6d253deb0aae908.jpg",
+      "url_origen": "https://jkanime.net/bleach/151/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73715,
+      "numero": 152,
+      "titulo": "Bleach - 152",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d37dcd3c79877fe1341d3e9a8397ef00.jpg",
+      "url_origen": "https://jkanime.net/bleach/152/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73716,
+      "numero": 153,
+      "titulo": "Bleach - 153",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d56382c4bd1cef278ee05ef8ab6434fe.jpg",
+      "url_origen": "https://jkanime.net/bleach/153/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73717,
+      "numero": 154,
+      "titulo": "Bleach - 154",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ff8b9010dfab2b9b3895b4a3d16ee8d.jpg",
+      "url_origen": "https://jkanime.net/bleach/154/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73718,
+      "numero": 155,
+      "titulo": "Bleach - 155",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a714f5ae60776fe8980ce1565906d27f.jpg",
+      "url_origen": "https://jkanime.net/bleach/155/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73719,
+      "numero": 156,
+      "titulo": "Bleach - 156",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f582995f312e38da0f83f0f8f6b5b54.jpg",
+      "url_origen": "https://jkanime.net/bleach/156/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73720,
+      "numero": 157,
+      "titulo": "Bleach - 157",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6296804e4cc8b5a9ff78f40cbe2d586e.jpg",
+      "url_origen": "https://jkanime.net/bleach/157/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73721,
+      "numero": 158,
+      "titulo": "Bleach - 158",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b1012427fc0f2b5e988b7293ece28de.jpg",
+      "url_origen": "https://jkanime.net/bleach/158/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73722,
+      "numero": 159,
+      "titulo": "Bleach - 159",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f55c780d7db52937568af304e234a57c.jpg",
+      "url_origen": "https://jkanime.net/bleach/159/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73723,
+      "numero": 160,
+      "titulo": "Bleach - 160",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_553f70506f58a5ba70c0e2645b7d29de.jpg",
+      "url_origen": "https://jkanime.net/bleach/160/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73724,
+      "numero": 161,
+      "titulo": "Bleach - 161",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5ad8c76d0778efc0e94ee71dd8434fa.jpg",
+      "url_origen": "https://jkanime.net/bleach/161/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73725,
+      "numero": 162,
+      "titulo": "Bleach - 162",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c956d502bd209279bca5de89b8854d58.jpg",
+      "url_origen": "https://jkanime.net/bleach/162/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73726,
+      "numero": 163,
+      "titulo": "Bleach - 163",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7e1cfc00aa75e679f972240a113455f.jpg",
+      "url_origen": "https://jkanime.net/bleach/163/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73727,
+      "numero": 164,
+      "titulo": "Bleach - 164",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56916fab9cca97d127bb76f307b4a423.jpg",
+      "url_origen": "https://jkanime.net/bleach/164/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73728,
+      "numero": 165,
+      "titulo": "Bleach - 165",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a15d4decab1ea9e898fd84bfc372124.jpg",
+      "url_origen": "https://jkanime.net/bleach/165/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73729,
+      "numero": 166,
+      "titulo": "Bleach - 166",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82d1c3440feeff9c9419365c1602a559.jpg",
+      "url_origen": "https://jkanime.net/bleach/166/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73730,
+      "numero": 167,
+      "titulo": "Bleach - 167",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1590670bba49374a5afcff3dfd9fbe04.jpg",
+      "url_origen": "https://jkanime.net/bleach/167/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73731,
+      "numero": 168,
+      "titulo": "Bleach - 168",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f3ac1ad13defe9408b41d0186b7fcbe.jpg",
+      "url_origen": "https://jkanime.net/bleach/168/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73732,
+      "numero": 169,
+      "titulo": "Bleach - 169",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_035407df2317bcb1f787f15983385139.jpg",
+      "url_origen": "https://jkanime.net/bleach/169/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73733,
+      "numero": 170,
+      "titulo": "Bleach - 170",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2775034a1db251906e32ca61952ec0a.jpg",
+      "url_origen": "https://jkanime.net/bleach/170/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73734,
+      "numero": 171,
+      "titulo": "Bleach - 171",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62dd05ff7d898d88bd93c2157a0ce5e6.jpg",
+      "url_origen": "https://jkanime.net/bleach/171/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73735,
+      "numero": 172,
+      "titulo": "Bleach - 172",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebb049183d71bd2bd3e781d9e488881b.jpg",
+      "url_origen": "https://jkanime.net/bleach/172/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73736,
+      "numero": 173,
+      "titulo": "Bleach - 173",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28a1d08c2bef245c852d5cf458b9a1c8.jpg",
+      "url_origen": "https://jkanime.net/bleach/173/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73737,
+      "numero": 174,
+      "titulo": "Bleach - 174",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48ba4a00a2985749348b3f4f6fa4a242.jpg",
+      "url_origen": "https://jkanime.net/bleach/174/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73738,
+      "numero": 175,
+      "titulo": "Bleach - 175",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d8ec43c3b5c7c65c678108d69275be4.jpg",
+      "url_origen": "https://jkanime.net/bleach/175/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73739,
+      "numero": 176,
+      "titulo": "Bleach - 176",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_681c6f48ca95771865686349838d87b9.jpg",
+      "url_origen": "https://jkanime.net/bleach/176/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73740,
+      "numero": 177,
+      "titulo": "Bleach - 177",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8059cc13a2ad15795fde2cf7ee1ccda.jpg",
+      "url_origen": "https://jkanime.net/bleach/177/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73741,
+      "numero": 178,
+      "titulo": "Bleach - 178",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fed274fb5794834e17df203c9fb0a69e.jpg",
+      "url_origen": "https://jkanime.net/bleach/178/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73742,
+      "numero": 179,
+      "titulo": "Bleach - 179",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e292be84beb0fdb52c933412e89a283c.jpg",
+      "url_origen": "https://jkanime.net/bleach/179/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73743,
+      "numero": 180,
+      "titulo": "Bleach - 180",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8f2d3f9e046ef527a47603b47d4007e.jpg",
+      "url_origen": "https://jkanime.net/bleach/180/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73744,
+      "numero": 181,
+      "titulo": "Bleach - 181",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7cb6fd76a29c7ed01b48f463d8d660c6.jpg",
+      "url_origen": "https://jkanime.net/bleach/181/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73745,
+      "numero": 182,
+      "titulo": "Bleach - 182",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b889fee5b105f1f101ad3cd597d7968.jpg",
+      "url_origen": "https://jkanime.net/bleach/182/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73746,
+      "numero": 183,
+      "titulo": "Bleach - 183",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc6533617003d04e416dc84d6fa27904.jpg",
+      "url_origen": "https://jkanime.net/bleach/183/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73747,
+      "numero": 184,
+      "titulo": "Bleach - 184",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_522257ea88c84a906d25122b97418cbb.jpg",
+      "url_origen": "https://jkanime.net/bleach/184/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73748,
+      "numero": 185,
+      "titulo": "Bleach - 185",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d7d6c2f85c5bf20e415ef8dc6fef940.jpg",
+      "url_origen": "https://jkanime.net/bleach/185/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73749,
+      "numero": 186,
+      "titulo": "Bleach - 186",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/186/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73750,
+      "numero": 187,
+      "titulo": "Bleach - 187",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/187/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73751,
+      "numero": 188,
+      "titulo": "Bleach - 188",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/188/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73752,
+      "numero": 189,
+      "titulo": "Bleach - 189",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/189/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73753,
+      "numero": 190,
+      "titulo": "Bleach - 190",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/190/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73754,
+      "numero": 191,
+      "titulo": "Bleach - 191",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/191/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73755,
+      "numero": 192,
+      "titulo": "Bleach - 192",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/192/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73756,
+      "numero": 193,
+      "titulo": "Bleach - 193",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/193/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73757,
+      "numero": 194,
+      "titulo": "Bleach - 194",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/194/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73758,
+      "numero": 195,
+      "titulo": "Bleach - 195",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/195/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73759,
+      "numero": 196,
+      "titulo": "Bleach - 196",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/196/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73760,
+      "numero": 197,
+      "titulo": "Bleach - 197",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/197/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73761,
+      "numero": 198,
+      "titulo": "Bleach - 198",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/198/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73762,
+      "numero": 199,
+      "titulo": "Bleach - 199",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/199/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73763,
+      "numero": 200,
+      "titulo": "Bleach - 200",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/200/",
+      "publicado_en_origen": "2026-06-01 09:44:04"
+    },
+    {
+      "id_origen": 73764,
+      "numero": 201,
+      "titulo": "Bleach - 201",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/201/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73765,
+      "numero": 202,
+      "titulo": "Bleach - 202",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/202/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73766,
+      "numero": 203,
+      "titulo": "Bleach - 203",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/203/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73767,
+      "numero": 204,
+      "titulo": "Bleach - 204",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/204/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73768,
+      "numero": 205,
+      "titulo": "Bleach - 205",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/205/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73769,
+      "numero": 206,
+      "titulo": "Bleach - 206",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/206/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73770,
+      "numero": 207,
+      "titulo": "Bleach - 207",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/207/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73771,
+      "numero": 208,
+      "titulo": "Bleach - 208",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/208/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73772,
+      "numero": 209,
+      "titulo": "Bleach - 209",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/209/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73773,
+      "numero": 210,
+      "titulo": "Bleach - 210",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/210/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73774,
+      "numero": 211,
+      "titulo": "Bleach - 211",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/211/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73775,
+      "numero": 212,
+      "titulo": "Bleach - 212",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/212/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73776,
+      "numero": 213,
+      "titulo": "Bleach - 213",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/213/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73777,
+      "numero": 214,
+      "titulo": "Bleach - 214",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/214/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73778,
+      "numero": 215,
+      "titulo": "Bleach - 215",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/215/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73779,
+      "numero": 216,
+      "titulo": "Bleach - 216",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/216/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73780,
+      "numero": 217,
+      "titulo": "Bleach - 217",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/217/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73781,
+      "numero": 218,
+      "titulo": "Bleach - 218",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/218/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73782,
+      "numero": 219,
+      "titulo": "Bleach - 219",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/219/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73783,
+      "numero": 220,
+      "titulo": "Bleach - 220",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/220/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73784,
+      "numero": 221,
+      "titulo": "Bleach - 221",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/221/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73785,
+      "numero": 222,
+      "titulo": "Bleach - 222",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/222/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73786,
+      "numero": 223,
+      "titulo": "Bleach - 223",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/223/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73787,
+      "numero": 224,
+      "titulo": "Bleach - 224",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/224/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73788,
+      "numero": 225,
+      "titulo": "Bleach - 225",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/225/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73789,
+      "numero": 226,
+      "titulo": "Bleach - 226",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/226/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73790,
+      "numero": 227,
+      "titulo": "Bleach - 227",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/227/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73791,
+      "numero": 228,
+      "titulo": "Bleach - 228",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/228/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73792,
+      "numero": 229,
+      "titulo": "Bleach - 229",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/229/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73793,
+      "numero": 230,
+      "titulo": "Bleach - 230",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/230/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73794,
+      "numero": 231,
+      "titulo": "Bleach - 231",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/231/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73795,
+      "numero": 232,
+      "titulo": "Bleach - 232",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/232/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73796,
+      "numero": 233,
+      "titulo": "Bleach - 233",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/233/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73797,
+      "numero": 234,
+      "titulo": "Bleach - 234",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/234/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73798,
+      "numero": 235,
+      "titulo": "Bleach - 235",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/235/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73799,
+      "numero": 236,
+      "titulo": "Bleach - 236",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/236/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73800,
+      "numero": 237,
+      "titulo": "Bleach - 237",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/237/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73801,
+      "numero": 238,
+      "titulo": "Bleach - 238",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/238/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73802,
+      "numero": 239,
+      "titulo": "Bleach - 239",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/239/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73803,
+      "numero": 240,
+      "titulo": "Bleach - 240",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/240/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73804,
+      "numero": 241,
+      "titulo": "Bleach - 241",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/241/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73805,
+      "numero": 242,
+      "titulo": "Bleach - 242",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/242/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73806,
+      "numero": 243,
+      "titulo": "Bleach - 243",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/243/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73807,
+      "numero": 244,
+      "titulo": "Bleach - 244",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/244/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73808,
+      "numero": 245,
+      "titulo": "Bleach - 245",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/245/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73809,
+      "numero": 246,
+      "titulo": "Bleach - 246",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/246/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73810,
+      "numero": 247,
+      "titulo": "Bleach - 247",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/247/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73811,
+      "numero": 248,
+      "titulo": "Bleach - 248",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/248/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73812,
+      "numero": 249,
+      "titulo": "Bleach - 249",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/249/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73813,
+      "numero": 250,
+      "titulo": "Bleach - 250",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/250/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73814,
+      "numero": 251,
+      "titulo": "Bleach - 251",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/251/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73815,
+      "numero": 252,
+      "titulo": "Bleach - 252",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/252/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73816,
+      "numero": 253,
+      "titulo": "Bleach - 253",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/253/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73817,
+      "numero": 254,
+      "titulo": "Bleach - 254",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/254/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73818,
+      "numero": 255,
+      "titulo": "Bleach - 255",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/255/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73819,
+      "numero": 256,
+      "titulo": "Bleach - 256",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/256/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73820,
+      "numero": 257,
+      "titulo": "Bleach - 257",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/257/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73821,
+      "numero": 258,
+      "titulo": "Bleach - 258",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/258/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73822,
+      "numero": 259,
+      "titulo": "Bleach - 259",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/259/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73823,
+      "numero": 260,
+      "titulo": "Bleach - 260",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/260/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73824,
+      "numero": 261,
+      "titulo": "Bleach - 261",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/261/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73825,
+      "numero": 262,
+      "titulo": "Bleach - 262",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/262/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73826,
+      "numero": 263,
+      "titulo": "Bleach - 263",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/263/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73827,
+      "numero": 264,
+      "titulo": "Bleach - 264",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/264/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73828,
+      "numero": 265,
+      "titulo": "Bleach - 265",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/265/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73829,
+      "numero": 266,
+      "titulo": "Bleach - 266",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/266/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73830,
+      "numero": 267,
+      "titulo": "Bleach - 267",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/267/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73831,
+      "numero": 268,
+      "titulo": "Bleach - 268",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/268/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73832,
+      "numero": 269,
+      "titulo": "Bleach - 269",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/269/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73833,
+      "numero": 270,
+      "titulo": "Bleach - 270",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/270/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73834,
+      "numero": 271,
+      "titulo": "Bleach - 271",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/271/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73835,
+      "numero": 272,
+      "titulo": "Bleach - 272",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/272/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73836,
+      "numero": 273,
+      "titulo": "Bleach - 273",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/273/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73837,
+      "numero": 274,
+      "titulo": "Bleach - 274",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/274/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73838,
+      "numero": 275,
+      "titulo": "Bleach - 275",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/275/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73839,
+      "numero": 276,
+      "titulo": "Bleach - 276",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/276/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73840,
+      "numero": 277,
+      "titulo": "Bleach - 277",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/277/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73841,
+      "numero": 278,
+      "titulo": "Bleach - 278",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/278/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73842,
+      "numero": 279,
+      "titulo": "Bleach - 279",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/279/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73843,
+      "numero": 280,
+      "titulo": "Bleach - 280",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/280/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73844,
+      "numero": 281,
+      "titulo": "Bleach - 281",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/281/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73845,
+      "numero": 282,
+      "titulo": "Bleach - 282",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/282/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73846,
+      "numero": 283,
+      "titulo": "Bleach - 283",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/283/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73847,
+      "numero": 284,
+      "titulo": "Bleach - 284",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/284/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73848,
+      "numero": 285,
+      "titulo": "Bleach - 285",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/285/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73849,
+      "numero": 286,
+      "titulo": "Bleach - 286",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/286/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73850,
+      "numero": 287,
+      "titulo": "Bleach - 287",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/287/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73851,
+      "numero": 288,
+      "titulo": "Bleach - 288",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/288/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73852,
+      "numero": 289,
+      "titulo": "Bleach - 289",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/289/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73853,
+      "numero": 290,
+      "titulo": "Bleach - 290",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/290/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73854,
+      "numero": 291,
+      "titulo": "Bleach - 291",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/291/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73855,
+      "numero": 292,
+      "titulo": "Bleach - 292",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/292/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73856,
+      "numero": 293,
+      "titulo": "Bleach - 293",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/293/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73857,
+      "numero": 294,
+      "titulo": "Bleach - 294",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/294/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73858,
+      "numero": 295,
+      "titulo": "Bleach - 295",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/295/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73859,
+      "numero": 296,
+      "titulo": "Bleach - 296",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/296/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73860,
+      "numero": 297,
+      "titulo": "Bleach - 297",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/297/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73861,
+      "numero": 298,
+      "titulo": "Bleach - 298",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/298/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73862,
+      "numero": 299,
+      "titulo": "Bleach - 299",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/299/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73863,
+      "numero": 300,
+      "titulo": "Bleach - 300",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/300/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73864,
+      "numero": 301,
+      "titulo": "Bleach - 301",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/301/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73865,
+      "numero": 302,
+      "titulo": "Bleach - 302",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/302/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73866,
+      "numero": 303,
+      "titulo": "Bleach - 303",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/303/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73867,
+      "numero": 304,
+      "titulo": "Bleach - 304",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/304/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73868,
+      "numero": 305,
+      "titulo": "Bleach - 305",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/305/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73869,
+      "numero": 306,
+      "titulo": "Bleach - 306",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/306/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73870,
+      "numero": 307,
+      "titulo": "Bleach - 307",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/307/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73871,
+      "numero": 308,
+      "titulo": "Bleach - 308",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/308/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73872,
+      "numero": 309,
+      "titulo": "Bleach - 309",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/309/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73873,
+      "numero": 310,
+      "titulo": "Bleach - 310",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/310/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73874,
+      "numero": 311,
+      "titulo": "Bleach - 311",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/311/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73875,
+      "numero": 312,
+      "titulo": "Bleach - 312",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/312/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73876,
+      "numero": 313,
+      "titulo": "Bleach - 313",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/313/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73877,
+      "numero": 314,
+      "titulo": "Bleach - 314",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/314/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73878,
+      "numero": 315,
+      "titulo": "Bleach - 315",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/315/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73879,
+      "numero": 316,
+      "titulo": "Bleach - 316",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/316/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73880,
+      "numero": 317,
+      "titulo": "Bleach - 317",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/317/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73881,
+      "numero": 318,
+      "titulo": "Bleach - 318",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/318/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73882,
+      "numero": 319,
+      "titulo": "Bleach - 319",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/319/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73883,
+      "numero": 320,
+      "titulo": "Bleach - 320",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/320/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73884,
+      "numero": 321,
+      "titulo": "Bleach - 321",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/321/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73885,
+      "numero": 322,
+      "titulo": "Bleach - 322",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/322/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73886,
+      "numero": 323,
+      "titulo": "Bleach - 323",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/323/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73887,
+      "numero": 324,
+      "titulo": "Bleach - 324",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/324/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73888,
+      "numero": 325,
+      "titulo": "Bleach - 325",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/325/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73889,
+      "numero": 326,
+      "titulo": "Bleach - 326",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/326/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73890,
+      "numero": 327,
+      "titulo": "Bleach - 327",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/327/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73891,
+      "numero": 328,
+      "titulo": "Bleach - 328",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/328/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73892,
+      "numero": 329,
+      "titulo": "Bleach - 329",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/329/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73893,
+      "numero": 330,
+      "titulo": "Bleach - 330",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/330/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73894,
+      "numero": 331,
+      "titulo": "Bleach - 331",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/331/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73895,
+      "numero": 332,
+      "titulo": "Bleach - 332",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/332/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73896,
+      "numero": 333,
+      "titulo": "Bleach - 333",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/333/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73897,
+      "numero": 334,
+      "titulo": "Bleach - 334",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/334/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73898,
+      "numero": 335,
+      "titulo": "Bleach - 335",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/335/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73899,
+      "numero": 336,
+      "titulo": "Bleach - 336",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/336/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73900,
+      "numero": 337,
+      "titulo": "Bleach - 337",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/337/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73901,
+      "numero": 338,
+      "titulo": "Bleach - 338",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/338/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73902,
+      "numero": 339,
+      "titulo": "Bleach - 339",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/339/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73903,
+      "numero": 340,
+      "titulo": "Bleach - 340",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/340/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73904,
+      "numero": 341,
+      "titulo": "Bleach - 341",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/341/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73905,
+      "numero": 342,
+      "titulo": "Bleach - 342",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/342/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73906,
+      "numero": 343,
+      "titulo": "Bleach - 343",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/343/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73907,
+      "numero": 344,
+      "titulo": "Bleach - 344",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/344/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73908,
+      "numero": 345,
+      "titulo": "Bleach - 345",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/345/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73909,
+      "numero": 346,
+      "titulo": "Bleach - 346",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/346/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73910,
+      "numero": 347,
+      "titulo": "Bleach - 347",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/347/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73911,
+      "numero": 348,
+      "titulo": "Bleach - 348",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/348/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73912,
+      "numero": 349,
+      "titulo": "Bleach - 349",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/349/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73913,
+      "numero": 350,
+      "titulo": "Bleach - 350",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/350/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73914,
+      "numero": 351,
+      "titulo": "Bleach - 351",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/351/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73915,
+      "numero": 352,
+      "titulo": "Bleach - 352",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/352/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73916,
+      "numero": 353,
+      "titulo": "Bleach - 353",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/353/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73917,
+      "numero": 354,
+      "titulo": "Bleach - 354",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/354/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73918,
+      "numero": 355,
+      "titulo": "Bleach - 355",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/355/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73919,
+      "numero": 356,
+      "titulo": "Bleach - 356",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/356/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73920,
+      "numero": 357,
+      "titulo": "Bleach - 357",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/357/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73921,
+      "numero": 358,
+      "titulo": "Bleach - 358",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/358/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73922,
+      "numero": 359,
+      "titulo": "Bleach - 359",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/359/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73923,
+      "numero": 360,
+      "titulo": "Bleach - 360",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/360/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73924,
+      "numero": 361,
+      "titulo": "Bleach - 361",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/361/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73925,
+      "numero": 362,
+      "titulo": "Bleach - 362",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/362/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73926,
+      "numero": 363,
+      "titulo": "Bleach - 363",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/363/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73927,
+      "numero": 364,
+      "titulo": "Bleach - 364",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/364/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73928,
+      "numero": 365,
+      "titulo": "Bleach - 365",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/365/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    },
+    {
+      "id_origen": 73929,
+      "numero": 366,
+      "titulo": "Bleach - 366",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bleach.jpg",
+      "url_origen": "https://jkanime.net/bleach/366/",
+      "publicado_en_origen": "2026-06-01 09:46:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "278",
+  "cantidad_episodios_declarada": 366,
+  "detalle_extraido_en": "2026-08-26T18:20:41+00:00"
+}

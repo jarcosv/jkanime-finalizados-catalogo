@@ -1,0 +1,117 @@
+{
+  "id_origen": 823,
+  "slug": "hayate-no-gotoku-cuties",
+  "titulo": "Hayate no Gotoku! Cuties",
+  "titulo_corto": "Hayate no Gotoku! Cuties",
+  "sinopsis": "Cuarta temporada de Hayate no Gotoku, cada episodio estará “lleno de risas, amor y un poquito de soledad”, trata sobre los distintos personajes y seguirá una ruta diferente.\n\nLa planificación de los primeros diez episodios es la siguiente:  \nEpisodio 1: Hayate Ayasaki\nEpisodio 2: Nagi Sanzenin\nEpisodio 3: Athena Tennōsu\nEpisodio 4: Isumi Saginomiya y Sakuya Aizawa\nEpisodio 5: Hinagiku Katsura\nEpisodio 6: Izumi Segawa y otro personaje\nEpisodio 7: Ruka Suirenji Episodio\nEpisodio 8: Ayumu Nishizawa Episodio\nEpisodio 9: Chiharu Harukaze y Kayura Tsurugino Episodio\nEpisodio 10: Maria\n\"y más\"",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hayate-no-gotoku-cuties.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/",
+  "episodios": [
+    {
+      "id_origen": 20082,
+      "numero": 1,
+      "titulo": "Hayate no Gotoku! Cuties - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7184542e25cea4e2e334ac2ca220d19.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/1/",
+      "publicado_en_origen": "2013-04-08 12:45:07"
+    },
+    {
+      "id_origen": 20124,
+      "numero": 2,
+      "titulo": "Hayate no Gotoku! Cuties - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_737233cb87dfe0e7b5525a1b7ecc112c.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/2/",
+      "publicado_en_origen": "2013-04-15 12:47:22"
+    },
+    {
+      "id_origen": 20354,
+      "numero": 3,
+      "titulo": "Hayate no Gotoku! Cuties - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8eb42db3c9772af6dba6f1b9f7095feb.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/3/",
+      "publicado_en_origen": "2013-04-22 12:41:48"
+    },
+    {
+      "id_origen": 20398,
+      "numero": 4,
+      "titulo": "Hayate no Gotoku! Cuties - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cf2af1403d6f96d729fe33c63c75585.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/4/",
+      "publicado_en_origen": "2013-04-29 12:45:08"
+    },
+    {
+      "id_origen": 20435,
+      "numero": 5,
+      "titulo": "Hayate no Gotoku! Cuties - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00254d816728ef385187c60b08cb5c10.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/5/",
+      "publicado_en_origen": "2013-05-06 12:48:50"
+    },
+    {
+      "id_origen": 20475,
+      "numero": 6,
+      "titulo": "Hayate no Gotoku! Cuties - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9366fb6cdeff0a5d6c1093d1ffcfe458.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/6/",
+      "publicado_en_origen": "2013-05-13 12:48:23"
+    },
+    {
+      "id_origen": 20547,
+      "numero": 7,
+      "titulo": "Hayate no Gotoku! Cuties - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_592b1f6887c30e03ab96c13144e15dfb.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/7/",
+      "publicado_en_origen": "2013-05-27 12:43:12"
+    },
+    {
+      "id_origen": 20587,
+      "numero": 8,
+      "titulo": "Hayate no Gotoku! Cuties - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_402d34fc07781a8932b7fac0c3bf3cc2.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/8/",
+      "publicado_en_origen": "2013-06-03 12:44:57"
+    },
+    {
+      "id_origen": 20626,
+      "numero": 9,
+      "titulo": "Hayate no Gotoku! Cuties - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6afcddda4dd2ef353f099d5b78c5b517.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/9/",
+      "publicado_en_origen": "2013-06-10 12:52:52"
+    },
+    {
+      "id_origen": 20665,
+      "numero": 10,
+      "titulo": "Hayate no Gotoku! Cuties - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_812e04d672a47f50b58835da9f6e1d46.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/10/",
+      "publicado_en_origen": "2013-06-17 12:44:31"
+    },
+    {
+      "id_origen": 20707,
+      "numero": 11,
+      "titulo": "Hayate no Gotoku! Cuties - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_205d8e3b4d428dd0a3bf62e1d9512403.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/11/",
+      "publicado_en_origen": "2013-06-24 12:45:09"
+    },
+    {
+      "id_origen": 20949,
+      "numero": 12,
+      "titulo": "Hayate no Gotoku! Cuties - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a555ec5f81ae0b44cb4a94424aa510bf.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-cuties/12/",
+      "publicado_en_origen": "2013-07-01 13:49:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "823",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:30:05+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 484,
+  "slug": "fullmetal-alchemist-the-conqueror-of-shamballa",
+  "titulo": "Fullmetal Alchemist: The Conqueror of Shamballa",
+  "titulo_corto": "Fullmetal Alchemist: The Conqu...",
+  "sinopsis": "Dos años han pasado desde que Edward se sacrificara para poder resucitar a su hermano Alphonse y que llegara nuestro mundo. Hasta entonces, Edward a estado intentando volver a su mundo estudiando sobre cohetes y el viaje al espacio, creyendo que así volverá a su mundo. Mientras, Alphonse viaja por su mundo buscando la manera de poder recuperar a su hermano. Lo que ellos no saben, es que una organización oculta prepara un plan que podría poner en peligro ambos mundos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fullmetal-alchemist-the-conqueror-of-shamballa.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fullmetal-alchemist-the-conqueror-of-shamballa/",
+  "episodios": [
+    {
+      "id_origen": 14483,
+      "numero": 1,
+      "titulo": "Fullmetal Alchemist: The Conqueror of Shamballa",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7048a4636546df0025a5a78b0fc517c0.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist-the-conqueror-of-shamballa/1/",
+      "publicado_en_origen": "2012-01-11 19:20:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "484",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:27:26+00:00"
+}

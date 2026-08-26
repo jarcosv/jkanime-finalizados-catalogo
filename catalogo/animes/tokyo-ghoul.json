@@ -1,0 +1,117 @@
+{
+  "id_origen": 1183,
+  "slug": "tokyo-ghoul",
+  "titulo": "Tokyo Ghoul",
+  "titulo_corto": "Tokyo Ghoul",
+  "sinopsis": "En Tokyo ocurren asesinatos misteriosos cometidos por Ghouls, seres desconocidos que comen carne humana, un día Kaneki Ken un joven de 18 años que cursa la Universidad conoce a una chica en un restaurante y la invita a salir, pero luego se da cuenta que ella es un Ghoul y sufre un ataque de parte de ella, pero afortunadamente sobrevive y la muchacha muere; debido a sus heridas los médicos le hacen un transplante de riñon sin saber que la muchacha era una Ghoul y Kaneki termina convirtiéndose en un ser híbrido humano-ghoul y de ahora en adelante deberá vivir escondiéndose de los humanos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tokyo-ghoul.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tokyo-ghoul/",
+  "episodios": [
+    {
+      "id_origen": 23874,
+      "numero": 1,
+      "titulo": "Tokyo Ghoul - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b62f4f7d6b4bad3c197281bcd657611.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul/1/",
+      "publicado_en_origen": "2014-07-03 14:13:15"
+    },
+    {
+      "id_origen": 23953,
+      "numero": 2,
+      "titulo": "Tokyo Ghoul - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce627bf900500eaedade86284e9c171c.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul/2/",
+      "publicado_en_origen": "2014-07-10 13:55:08"
+    },
+    {
+      "id_origen": 24014,
+      "numero": 3,
+      "titulo": "Tokyo Ghoul - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff010d3f8d01254e4634b161432071c0.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul/3/",
+      "publicado_en_origen": "2014-07-17 13:58:17"
+    },
+    {
+      "id_origen": 24083,
+      "numero": 4,
+      "titulo": "Tokyo Ghoul - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbcb037387e821a6b1898467b076c0d5.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul/4/",
+      "publicado_en_origen": "2014-07-24 14:45:09"
+    },
+    {
+      "id_origen": 24143,
+      "numero": 5,
+      "titulo": "Tokyo Ghoul - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef52eb8368b6c0434f0a44527ffbd9e9.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul/5/",
+      "publicado_en_origen": "2014-07-31 12:56:06"
+    },
+    {
+      "id_origen": 24208,
+      "numero": 6,
+      "titulo": "Tokyo Ghoul - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2871d86ea442b2496f4774b3810b2142.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul/6/",
+      "publicado_en_origen": "2014-08-07 12:57:48"
+    },
+    {
+      "id_origen": 24428,
+      "numero": 7,
+      "titulo": "Tokyo Ghoul - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07e99f116b916656b3fd4f7dd58a3cbe.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul/7/",
+      "publicado_en_origen": "2014-08-14 12:48:45"
+    },
+    {
+      "id_origen": 24501,
+      "numero": 8,
+      "titulo": "Tokyo Ghoul - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fff38493f5a1643ee8ef247750540ee2.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul/8/",
+      "publicado_en_origen": "2014-08-21 12:43:30"
+    },
+    {
+      "id_origen": 24567,
+      "numero": 9,
+      "titulo": "Tokyo Ghoul - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f59db0df527cd9bc7b7d71b6e35ee6d7.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul/9/",
+      "publicado_en_origen": "2014-08-28 13:41:44"
+    },
+    {
+      "id_origen": 24636,
+      "numero": 10,
+      "titulo": "Tokyo Ghoul - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9357e8d9b96de4920a57ba55651c5687.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul/10/",
+      "publicado_en_origen": "2014-09-04 12:58:12"
+    },
+    {
+      "id_origen": 24730,
+      "numero": 11,
+      "titulo": "Tokyo Ghoul - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bf23052a73a9ccd5f3d5d82b4ba148a.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul/11/",
+      "publicado_en_origen": "2014-09-11 13:01:55"
+    },
+    {
+      "id_origen": 24801,
+      "numero": 12,
+      "titulo": "Tokyo Ghoul - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_790bad29083dd884a9d9381fd2d7c645.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul/12/",
+      "publicado_en_origen": "2014-09-18 14:34:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1183",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:49:42+00:00"
+}

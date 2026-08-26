@@ -1,0 +1,229 @@
+{
+  "id_origen": 1723,
+  "slug": "macross-delta",
+  "titulo": "Macross Δ",
+  "titulo_corto": "Macross Δ",
+  "sinopsis": "Cinco chicas conformarán la “Unidad Táctica de Sonido” Walküre, el que será el primer gran grupo exclusivamente femenino de la franquicia. El grupo Walküre luchará contra el Var Syndrome que está consumiendo la galaxia, apareciendo también el misterioso equipo de Valquirias conocido como los Caballeros Aéreos del Reino del Viento.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/macross-delta.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/macross-delta/",
+  "episodios": [
+    {
+      "id_origen": 30473,
+      "numero": 1,
+      "titulo": "Macross Δ - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1678636cab6fa77c76a9264ea9963a7.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/1/",
+      "publicado_en_origen": "2015-12-31 20:52:41"
+    },
+    {
+      "id_origen": 31331,
+      "numero": 2,
+      "titulo": "Macross Δ - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0cefa43d15f7e4b74ae21595155ec91.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/2/",
+      "publicado_en_origen": "2016-04-11 14:06:01"
+    },
+    {
+      "id_origen": 31381,
+      "numero": 3,
+      "titulo": "Macross Δ - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_070ab2d42f40078ae0895b5c06bac1be.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/3/",
+      "publicado_en_origen": "2016-04-18 14:11:38"
+    },
+    {
+      "id_origen": 31431,
+      "numero": 4,
+      "titulo": "Macross Δ - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5242ef6f489fc9c35ba357927f91a59f.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/4/",
+      "publicado_en_origen": "2016-04-25 03:12:56"
+    },
+    {
+      "id_origen": 31484,
+      "numero": 5,
+      "titulo": "Macross Δ - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbd230052c26e38339105b7d1af05990.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/5/",
+      "publicado_en_origen": "2016-05-02 03:37:05"
+    },
+    {
+      "id_origen": 31541,
+      "numero": 6,
+      "titulo": "Macross Δ - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8c1efaca9730df9826ea5f5bd72d025.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/6/",
+      "publicado_en_origen": "2016-05-09 00:20:00"
+    },
+    {
+      "id_origen": 31595,
+      "numero": 7,
+      "titulo": "Macross Δ - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_196f47aa4d2237535c1c559def28e60f.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/7/",
+      "publicado_en_origen": "2016-05-16 04:05:49"
+    },
+    {
+      "id_origen": 31651,
+      "numero": 8,
+      "titulo": "Macross Δ - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7829e6d847f0b9d897d940aa3f3b7b46.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/8/",
+      "publicado_en_origen": "2016-05-23 13:46:15"
+    },
+    {
+      "id_origen": 31712,
+      "numero": 9,
+      "titulo": "Macross Δ - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_872def1eaad20180f042ac8764629220.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/9/",
+      "publicado_en_origen": "2016-05-31 12:53:51"
+    },
+    {
+      "id_origen": 31755,
+      "numero": 10,
+      "titulo": "Macross Δ - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ecb8876b622f561d9d13161071f518c.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/10/",
+      "publicado_en_origen": "2016-06-06 00:57:54"
+    },
+    {
+      "id_origen": 31819,
+      "numero": 11,
+      "titulo": "Macross Δ - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a570d1a9488ae63742a5d82c946a44ea.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/11/",
+      "publicado_en_origen": "2016-06-14 12:40:04"
+    },
+    {
+      "id_origen": 31859,
+      "numero": 12,
+      "titulo": "Macross Δ - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4585ad1e2cbe41891c011a3e0e73e1d4.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/12/",
+      "publicado_en_origen": "2016-06-20 01:38:47"
+    },
+    {
+      "id_origen": 31908,
+      "numero": 13,
+      "titulo": "Macross Δ - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28ca2a3ef786a75109a9e2af23c1a4f7.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/13/",
+      "publicado_en_origen": "2016-06-27 04:40:24"
+    },
+    {
+      "id_origen": 32239,
+      "numero": 14,
+      "titulo": "Macross Δ - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85e04222fe1714e379c3061e65193a35.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/14/",
+      "publicado_en_origen": "2016-07-07 15:16:52"
+    },
+    {
+      "id_origen": 32275,
+      "numero": 15,
+      "titulo": "Macross Δ - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c9f17e01c03106d9117905e58eb0951.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/15/",
+      "publicado_en_origen": "2016-07-11 06:07:15"
+    },
+    {
+      "id_origen": 32334,
+      "numero": 16,
+      "titulo": "Macross Δ - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fddb49982f360e8a94aa8642ed545a16.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/16/",
+      "publicado_en_origen": "2016-07-18 16:36:13"
+    },
+    {
+      "id_origen": 32390,
+      "numero": 17,
+      "titulo": "Macross Δ - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34a95ac7da1b09da18951116349397c4.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/17/",
+      "publicado_en_origen": "2016-07-25 16:50:48"
+    },
+    {
+      "id_origen": 32447,
+      "numero": 18,
+      "titulo": "Macross Δ - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef1b9b0b9c5ad1de09b779f4f97ca59b.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/18/",
+      "publicado_en_origen": "2016-08-01 15:09:09"
+    },
+    {
+      "id_origen": 32508,
+      "numero": 19,
+      "titulo": "Macross Δ - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b16ef0e8dc41ac2f4d58e0a45621922.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/19/",
+      "publicado_en_origen": "2016-08-09 07:50:16"
+    },
+    {
+      "id_origen": 32564,
+      "numero": 20,
+      "titulo": "Macross Δ - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b69699ed4a1d25a4f6e6c62fc0b26fe.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/20/",
+      "publicado_en_origen": "2016-08-17 09:30:40"
+    },
+    {
+      "id_origen": 32625,
+      "numero": 21,
+      "titulo": "Macross Δ - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3cfc5cb5f8aadbfd8b7e9328fc0f0d1.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/21/",
+      "publicado_en_origen": "2016-08-24 15:59:00"
+    },
+    {
+      "id_origen": 32664,
+      "numero": 22,
+      "titulo": "Macross Δ - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e688af00e7dcc3aa74cf59301228626.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/22/",
+      "publicado_en_origen": "2016-08-29 16:30:14"
+    },
+    {
+      "id_origen": 32723,
+      "numero": 23,
+      "titulo": "Macross Δ - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcaae931422688b8a0134e51a7a2fb12.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/23/",
+      "publicado_en_origen": "2016-09-05 18:35:13"
+    },
+    {
+      "id_origen": 32781,
+      "numero": 24,
+      "titulo": "Macross Δ - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bc8f7011e08bfe6830c967b497bdf6d.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/24/",
+      "publicado_en_origen": "2016-09-13 17:33:22"
+    },
+    {
+      "id_origen": 32828,
+      "numero": 25,
+      "titulo": "Macross Δ - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b783acd4479bf1b8a981bb023b363043.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/25/",
+      "publicado_en_origen": "2016-09-19 19:04:22"
+    },
+    {
+      "id_origen": 32891,
+      "numero": 26,
+      "titulo": "Macross Δ - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6b44d616ce540606027b334ce8c1dd0.jpg",
+      "url_origen": "https://jkanime.net/macross-delta/26/",
+      "publicado_en_origen": "2016-09-27 14:54:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1723",
+  "cantidad_episodios_declarada": 26,
+  "detalle_extraido_en": "2026-08-26T18:37:05+00:00"
+}

@@ -1,0 +1,429 @@
+{
+  "id_origen": 2945,
+  "slug": "waccha-primagi",
+  "titulo": "Waccha PriMagi!",
+  "titulo_corto": "Waccha PriMagi!",
+  "sinopsis": "La nueva serie continúa los motivos conceptuales de la canción, la danza y la moda de Pretty Series, y también agrega el tema de la magia. La estudiante de primer año de secundaria Matsuri Hinoya ama los festivales y sueña con poder protagonizar \"PriMagi\", una forma mágica de entretenimiento escénico que nace de la canción, el baile y la moda. Ese día llega cuando Myamu, el mago hiperactivo y problemático, llega del reino mágico y explora a Matsuri en busca de PriMagi. Juntos, los dos compiten con rivales para llegar a la cima de PriMagi.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/waccha-primagi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/waccha-primagi/",
+  "episodios": [
+    {
+      "id_origen": 46807,
+      "numero": 1,
+      "titulo": "Waccha PriMagi! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fb42be7b6205f2b98de9f5d5903c3b3.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/1/",
+      "publicado_en_origen": "2021-10-02 23:47:55"
+    },
+    {
+      "id_origen": 46876,
+      "numero": 2,
+      "titulo": "Waccha PriMagi! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe454512da0baeff45696e4295640747.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/2/",
+      "publicado_en_origen": "2021-10-10 00:34:16"
+    },
+    {
+      "id_origen": 46937,
+      "numero": 3,
+      "titulo": "Waccha PriMagi! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f47e13a57cad9cf7cdbe62effe1b465b.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/3/",
+      "publicado_en_origen": "2021-10-17 00:24:03"
+    },
+    {
+      "id_origen": 47004,
+      "numero": 4,
+      "titulo": "Waccha PriMagi! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e98a07774134cd7335ad075d05c464a.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/4/",
+      "publicado_en_origen": "2021-10-24 03:59:28"
+    },
+    {
+      "id_origen": 47071,
+      "numero": 5,
+      "titulo": "Waccha PriMagi! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13f348fd1a09bfc3590ec7cdb79b9b4b.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/5/",
+      "publicado_en_origen": "2021-10-30 23:13:40"
+    },
+    {
+      "id_origen": 47133,
+      "numero": 6,
+      "titulo": "Waccha PriMagi! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bab9af56671570e6eb8536602601dc2.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/6/",
+      "publicado_en_origen": "2021-11-07 03:20:09"
+    },
+    {
+      "id_origen": 47211,
+      "numero": 7,
+      "titulo": "Waccha PriMagi! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a28dcc6580b3c654621295e81a0f41a.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/7/",
+      "publicado_en_origen": "2021-11-13 23:50:32"
+    },
+    {
+      "id_origen": 47318,
+      "numero": 8,
+      "titulo": "Waccha PriMagi! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0757ebc12c9e6536fa0e8d3b7fa99d2e.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/8/",
+      "publicado_en_origen": "2021-11-21 01:24:45"
+    },
+    {
+      "id_origen": 47378,
+      "numero": 9,
+      "titulo": "Waccha PriMagi! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c24085c5be1b90080ad0cd92cfdf3f3.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/9/",
+      "publicado_en_origen": "2021-11-28 13:42:46"
+    },
+    {
+      "id_origen": 47477,
+      "numero": 10,
+      "titulo": "Waccha PriMagi! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c94f34f6c2f2b4a74c55239313625e1.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/10/",
+      "publicado_en_origen": "2021-12-04 22:48:47"
+    },
+    {
+      "id_origen": 47539,
+      "numero": 11,
+      "titulo": "Waccha PriMagi! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2e3fb19cb1f4edf8c601bab9adbad86.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/11/",
+      "publicado_en_origen": "2021-12-11 23:59:12"
+    },
+    {
+      "id_origen": 47784,
+      "numero": 12,
+      "titulo": "Waccha PriMagi! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_309d426f91033fccd9d0808809f3b50d.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/12/",
+      "publicado_en_origen": "2021-12-19 13:33:32"
+    },
+    {
+      "id_origen": 47829,
+      "numero": 13,
+      "titulo": "Waccha PriMagi! - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ba500d1f04f74502d85a5c33ab1b6e0.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/13/",
+      "publicado_en_origen": "2021-12-26 02:46:59"
+    },
+    {
+      "id_origen": 47981,
+      "numero": 14,
+      "titulo": "Waccha PriMagi! - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44007f34034857cf878ebe2f0fa15e06.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/14/",
+      "publicado_en_origen": "2022-01-15 23:10:35"
+    },
+    {
+      "id_origen": 48065,
+      "numero": 15,
+      "titulo": "Waccha PriMagi! - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d12fec62f69e678f635825963e988562.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/15/",
+      "publicado_en_origen": "2022-01-23 01:25:30"
+    },
+    {
+      "id_origen": 48123,
+      "numero": 16,
+      "titulo": "Waccha PriMagi! - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_146872de864d8019276493ea5c0e7389.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/16/",
+      "publicado_en_origen": "2022-01-30 01:16:52"
+    },
+    {
+      "id_origen": 48192,
+      "numero": 17,
+      "titulo": "Waccha PriMagi! - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ab2a2bee616feb94255975fb9cfc0ad.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/17/",
+      "publicado_en_origen": "2022-02-06 01:17:27"
+    },
+    {
+      "id_origen": 48253,
+      "numero": 18,
+      "titulo": "Waccha PriMagi! - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2942549cb69c93f868f7294460a9befe.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/18/",
+      "publicado_en_origen": "2022-02-13 01:06:15"
+    },
+    {
+      "id_origen": 48306,
+      "numero": 19,
+      "titulo": "Waccha PriMagi! - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e49d2c5518a31bb355c3c558b310d891.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/19/",
+      "publicado_en_origen": "2022-02-20 00:36:13"
+    },
+    {
+      "id_origen": 48353,
+      "numero": 20,
+      "titulo": "Waccha PriMagi! - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a6a871795ca84ff50ee4a3212b227e4.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/20/",
+      "publicado_en_origen": "2022-02-26 23:59:31"
+    },
+    {
+      "id_origen": 48496,
+      "numero": 21,
+      "titulo": "Waccha PriMagi! - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5261961cfcb904628f54edd0c5f9739f.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/21/",
+      "publicado_en_origen": "2022-03-06 00:00:30"
+    },
+    {
+      "id_origen": 48549,
+      "numero": 22,
+      "titulo": "Waccha PriMagi! - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a44192374dd613240bf74f1f2498cfc.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/22/",
+      "publicado_en_origen": "2022-03-13 02:06:20"
+    },
+    {
+      "id_origen": 48597,
+      "numero": 23,
+      "titulo": "Waccha PriMagi! - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22c84acf4ebd50926ddafdb5fb9af563.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/23/",
+      "publicado_en_origen": "2022-03-20 10:07:58"
+    },
+    {
+      "id_origen": 48788,
+      "numero": 24,
+      "titulo": "Waccha PriMagi! - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0434e46664b3b1cc05543b6ee7e9aa0b.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/24/",
+      "publicado_en_origen": "2022-03-28 10:09:00"
+    },
+    {
+      "id_origen": 48888,
+      "numero": 25,
+      "titulo": "Waccha PriMagi! - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_222ac746d4f76b4741704d9c615dd2b6.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/25/",
+      "publicado_en_origen": "2022-04-12 09:09:48"
+    },
+    {
+      "id_origen": 48979,
+      "numero": 26,
+      "titulo": "Waccha PriMagi! - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c143d2c6a898e496b0fcd726795187e6.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/26/",
+      "publicado_en_origen": "2022-04-17 03:13:17"
+    },
+    {
+      "id_origen": 49033,
+      "numero": 27,
+      "titulo": "Waccha PriMagi! - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d64d8db365e7a0f663896871ecf242ce.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/27/",
+      "publicado_en_origen": "2022-04-24 01:58:35"
+    },
+    {
+      "id_origen": 49131,
+      "numero": 28,
+      "titulo": "Waccha PriMagi! - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9908b7e0ab13119aa8daccbb7f425e10.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/28/",
+      "publicado_en_origen": "2022-05-01 02:21:04"
+    },
+    {
+      "id_origen": 49187,
+      "numero": 29,
+      "titulo": "Waccha PriMagi! - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4df8eccd4a6f9684708538cc904be780.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/29/",
+      "publicado_en_origen": "2022-05-08 12:02:03"
+    },
+    {
+      "id_origen": 49339,
+      "numero": 30,
+      "titulo": "Waccha PriMagi! - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9a0c2712fc916cfe783cf1a058b6823.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/30/",
+      "publicado_en_origen": "2022-05-15 01:32:29"
+    },
+    {
+      "id_origen": 49443,
+      "numero": 31,
+      "titulo": "Waccha PriMagi! - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_677f48b868739f85b47ef6ff20996487.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/31/",
+      "publicado_en_origen": "2022-05-22 03:49:26"
+    },
+    {
+      "id_origen": 49492,
+      "numero": 32,
+      "titulo": "Waccha PriMagi! - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_025f04c5c7621fef6e93edc5cb04808c.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/32/",
+      "publicado_en_origen": "2022-05-29 02:06:00"
+    },
+    {
+      "id_origen": 49554,
+      "numero": 33,
+      "titulo": "Waccha PriMagi! - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65e5770a4048bb5b28406c8687aa552f.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/33/",
+      "publicado_en_origen": "2022-06-05 11:19:52"
+    },
+    {
+      "id_origen": 49631,
+      "numero": 34,
+      "titulo": "Waccha PriMagi! - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8be61bb4942454f1fce2c9ff38c40ec3.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/34/",
+      "publicado_en_origen": "2022-06-12 02:43:38"
+    },
+    {
+      "id_origen": 49693,
+      "numero": 35,
+      "titulo": "Waccha PriMagi! - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9ea0b32236d8c283c646d67ee06b717.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/35/",
+      "publicado_en_origen": "2022-06-19 02:28:16"
+    },
+    {
+      "id_origen": 49740,
+      "numero": 36,
+      "titulo": "Waccha PriMagi! - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbca9b6b925adaae881af122e58d8a2b.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/36/",
+      "publicado_en_origen": "2022-06-26 16:31:09"
+    },
+    {
+      "id_origen": 49788,
+      "numero": 37,
+      "titulo": "Waccha PriMagi! - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_daf068b856946d487a590fa858bb6b12.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/37/",
+      "publicado_en_origen": "2022-07-03 02:27:13"
+    },
+    {
+      "id_origen": 49836,
+      "numero": 38,
+      "titulo": "Waccha PriMagi! - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82f41e2fabf56d32f6d089e2a1554c64.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/38/",
+      "publicado_en_origen": "2022-07-10 02:45:27"
+    },
+    {
+      "id_origen": 49890,
+      "numero": 39,
+      "titulo": "Waccha PriMagi! - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e227a5655f8f8b5404625f882955477a.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/39/",
+      "publicado_en_origen": "2022-07-16 23:51:18"
+    },
+    {
+      "id_origen": 49947,
+      "numero": 40,
+      "titulo": "Waccha PriMagi! - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4613af38fc391b50e857d8e0d2a6e305.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/40/",
+      "publicado_en_origen": "2022-07-23 22:42:40"
+    },
+    {
+      "id_origen": 50000,
+      "numero": 41,
+      "titulo": "Waccha PriMagi! - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_581847bd30c6f64a2ed48107efeeddad.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/41/",
+      "publicado_en_origen": "2022-07-31 01:19:03"
+    },
+    {
+      "id_origen": 50072,
+      "numero": 42,
+      "titulo": "Waccha PriMagi! - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4400c18e82be7e3d1b3eb7766ae614ff.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/42/",
+      "publicado_en_origen": "2022-08-06 22:53:51"
+    },
+    {
+      "id_origen": 50184,
+      "numero": 43,
+      "titulo": "Waccha PriMagi! - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acd88309ffaf395d5e0cf1f7ef2b68e7.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/43/",
+      "publicado_en_origen": "2022-08-14 12:20:15"
+    },
+    {
+      "id_origen": 50249,
+      "numero": 44,
+      "titulo": "Waccha PriMagi! - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da3932c6fba11bb1c0ba41e1bb589f26.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/44/",
+      "publicado_en_origen": "2022-08-21 01:47:57"
+    },
+    {
+      "id_origen": 50362,
+      "numero": 45,
+      "titulo": "Waccha PriMagi! - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11d4a8e4ce5d2323b0480060d0413fb3.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/45/",
+      "publicado_en_origen": "2022-08-28 01:16:45"
+    },
+    {
+      "id_origen": 50437,
+      "numero": 46,
+      "titulo": "Waccha PriMagi! - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_098d8e9c91c22620b6c36c631c704300.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/46/",
+      "publicado_en_origen": "2022-09-03 23:24:47"
+    },
+    {
+      "id_origen": 50529,
+      "numero": 47,
+      "titulo": "Waccha PriMagi! - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d68afbbee8fc9b2bb20756b07467c15.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/47/",
+      "publicado_en_origen": "2022-09-11 09:25:01"
+    },
+    {
+      "id_origen": 50584,
+      "numero": 48,
+      "titulo": "Waccha PriMagi! - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa0360124fe5af52f69c33eb41e1562d.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/48/",
+      "publicado_en_origen": "2022-09-17 23:04:10"
+    },
+    {
+      "id_origen": 50647,
+      "numero": 49,
+      "titulo": "Waccha PriMagi! - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e427d53c878ac01b48e4708e2a404445.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/49/",
+      "publicado_en_origen": "2022-09-24 23:39:22"
+    },
+    {
+      "id_origen": 50744,
+      "numero": 50,
+      "titulo": "Waccha PriMagi! - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b73b261c40a902854383d254f313ead3.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/50/",
+      "publicado_en_origen": "2022-10-09 11:16:20"
+    },
+    {
+      "id_origen": 50745,
+      "numero": 51,
+      "titulo": "Waccha PriMagi! - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f0e0c3fdaeec9682ff934c2a65fc96a.jpg",
+      "url_origen": "https://jkanime.net/waccha-primagi/51/",
+      "publicado_en_origen": "2022-10-09 11:16:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2945",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:51:42+00:00"
+}

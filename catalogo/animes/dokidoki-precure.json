@@ -1,0 +1,413 @@
+{
+  "id_origen": 4608,
+  "slug": "dokidoki-precure",
+  "titulo": "Dokidoki! Precure",
+  "titulo_corto": "Dokidoki! Precure",
+  "sinopsis": "La estudiante de secundaria Mana Aida es conocida por su gran pasión y su carácter bondadoso, especialmente por sus amigas Rikka Hishikawa y Alice Yotsuba. Mientras las chicas están de excursión escolar, aparecen villanos de otro mundo procedentes del «Reino Trump» que crean monstruos gigantes a partir de los deseos egoístas de los civiles para causar el caos.\r\n\r\nMientras busca una forma de detener la destrucción, Mana se encuentra con «Cure Sword», una misteriosa guerrera Precure. Mientras Cure Sword lucha contra los monstruos, Mana conoce a las hadas aliadas de Cure Sword, quienes le dicen que ella también tiene la capacidad de transformarse en una guerrera. Cuando los invasores del Reino Trump comienzan a superar en número a Cure Sword, Mana se lanza al campo de batalla con determinación. Se alía con Sharuru, una de las hadas, y se transforma en «Cure Heart», la Precure del Amor.\r\n\r\nEn sus intentos por aliarse con Cure Sword, Mana acaba arrastrando a Rikka y Alice a la refriega, quienes se asocian con una hada aliada para transformarse en «Cure Diamond» y «Cure Rosetta», respectivamente. Juntas, luchan contra los invasores del Reino Trump para proteger el amor en el mundo y evitar que sea destruido.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dokidoki-precure.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dokidoki-precure/",
+  "episodios": [
+    {
+      "id_origen": 71203,
+      "numero": 1,
+      "titulo": "Dokidoki! Precure - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8e16177cfcbe5f187ea5db71cacfb28.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/1/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71204,
+      "numero": 2,
+      "titulo": "Dokidoki! Precure - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b457b38ca4e0c6674976de50497884a.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/2/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71205,
+      "numero": 3,
+      "titulo": "Dokidoki! Precure - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0c809033f9c5786abc24430f6d1a629.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/3/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71206,
+      "numero": 4,
+      "titulo": "Dokidoki! Precure - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36ee5385120d788b65971fdd1e87137b.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/4/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71207,
+      "numero": 5,
+      "titulo": "Dokidoki! Precure - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_300b985583d770043ee7f8f02af16ecc.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/5/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71208,
+      "numero": 6,
+      "titulo": "Dokidoki! Precure - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66b63a3d32ca9e55c415a0b7995d9ca8.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/6/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71209,
+      "numero": 7,
+      "titulo": "Dokidoki! Precure - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0da0fa5708912059397ba2fcfa89c5cb.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/7/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71210,
+      "numero": 8,
+      "titulo": "Dokidoki! Precure - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46760fa06775bc4d3b0e2a9327288456.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/8/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71211,
+      "numero": 9,
+      "titulo": "Dokidoki! Precure - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8419946b959deb4745a97cf6e7daedf.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/9/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71212,
+      "numero": 10,
+      "titulo": "Dokidoki! Precure - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00982f7ea69843732f93e52cf9bf680b.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/10/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71213,
+      "numero": 11,
+      "titulo": "Dokidoki! Precure - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59662abaed9185c7b2a6dfeb593dbd25.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/11/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71214,
+      "numero": 12,
+      "titulo": "Dokidoki! Precure - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2576dfc7147505dd8ba5d10e93ffea8.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/12/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71215,
+      "numero": 13,
+      "titulo": "Dokidoki! Precure - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9db4f794cb9d55f3565da6df3b7011f9.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/13/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71216,
+      "numero": 14,
+      "titulo": "Dokidoki! Precure - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e1542c4b3ce6424a81d3c5df5515bb5.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/14/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71217,
+      "numero": 15,
+      "titulo": "Dokidoki! Precure - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66833e03a38a91f82732116b7cff2f22.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/15/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71218,
+      "numero": 16,
+      "titulo": "Dokidoki! Precure - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b04f835802b52b146a07498301bf299c.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/16/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71219,
+      "numero": 17,
+      "titulo": "Dokidoki! Precure - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd09ba8f0b5cb0d31bb98138575657af.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/17/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71220,
+      "numero": 18,
+      "titulo": "Dokidoki! Precure - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd8fafcd2521ff0181117ac752755bea.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/18/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71221,
+      "numero": 19,
+      "titulo": "Dokidoki! Precure - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de4ee90e03e2df82d3bf077867e5d3b9.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/19/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71222,
+      "numero": 20,
+      "titulo": "Dokidoki! Precure - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c934d8e0fea00f8398d8acf37568cdf5.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/20/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71223,
+      "numero": 21,
+      "titulo": "Dokidoki! Precure - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccd944d8dacd3c7c963a7f30f60fae84.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/21/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71224,
+      "numero": 22,
+      "titulo": "Dokidoki! Precure - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d84507ae9003e05be9e7ffa1afe24e53.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/22/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71225,
+      "numero": 23,
+      "titulo": "Dokidoki! Precure - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b450c96717e4aaa8918b2caa4aade791.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/23/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71226,
+      "numero": 24,
+      "titulo": "Dokidoki! Precure - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b475c33c35ccc73479c8e6e1fbee9be.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/24/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71227,
+      "numero": 25,
+      "titulo": "Dokidoki! Precure - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_626c9e5122d6b657d3774f7331063055.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/25/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71228,
+      "numero": 26,
+      "titulo": "Dokidoki! Precure - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5a246dc258c67e25b3c0d289217902e.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/26/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71229,
+      "numero": 27,
+      "titulo": "Dokidoki! Precure - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7029f39d393bd4472a8350dce75c49c.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/27/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71230,
+      "numero": 28,
+      "titulo": "Dokidoki! Precure - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d118e6ea7cb23a736d7a2a3b691fe6d0.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/28/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71231,
+      "numero": 29,
+      "titulo": "Dokidoki! Precure - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8946288be5097a38fee3a4a006afc156.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/29/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71232,
+      "numero": 30,
+      "titulo": "Dokidoki! Precure - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b8ab373b977f25c8cf3dcb81422574b.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/30/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71233,
+      "numero": 31,
+      "titulo": "Dokidoki! Precure - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e902730b799059606cc7d35f0b4fce4b.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/31/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71234,
+      "numero": 32,
+      "titulo": "Dokidoki! Precure - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a6243ea3625d7a6019b55e844b44979.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/32/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71235,
+      "numero": 33,
+      "titulo": "Dokidoki! Precure - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbbb82f36744362c2d0561e27ea0ae1b.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/33/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71236,
+      "numero": 34,
+      "titulo": "Dokidoki! Precure - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f83561418b29de3be8a6eedc9a59168.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/34/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71237,
+      "numero": 35,
+      "titulo": "Dokidoki! Precure - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4d7b4cc2248ef29336f1d445b537704.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/35/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71238,
+      "numero": 36,
+      "titulo": "Dokidoki! Precure - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43847503fe6f710d67799be307891626.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/36/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71239,
+      "numero": 37,
+      "titulo": "Dokidoki! Precure - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4504278f58ae48277b08717d6606fd37.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/37/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71240,
+      "numero": 38,
+      "titulo": "Dokidoki! Precure - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14abd93cc95d95192cb1275382125f80.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/38/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71241,
+      "numero": 39,
+      "titulo": "Dokidoki! Precure - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc455e0fd355e9117571e834a4764ef0.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/39/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71242,
+      "numero": 40,
+      "titulo": "Dokidoki! Precure - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_425223c7b92a843750ede4ee0ecdaaa1.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/40/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71243,
+      "numero": 41,
+      "titulo": "Dokidoki! Precure - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a83523b7e70bfe8f466f3e1a4c7754d.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/41/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71244,
+      "numero": 42,
+      "titulo": "Dokidoki! Precure - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5eec967db2962d10b9cfd5b46230e37.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/42/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71245,
+      "numero": 43,
+      "titulo": "Dokidoki! Precure - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_201ecd8c94028cef468448b7fa00e68c.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/43/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71246,
+      "numero": 44,
+      "titulo": "Dokidoki! Precure - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0687ec72e89a34a17d73dbe6faaede9f.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/44/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71247,
+      "numero": 45,
+      "titulo": "Dokidoki! Precure - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92ee88ea5ee09a1a0a46092b9782fafa.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/45/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71248,
+      "numero": 46,
+      "titulo": "Dokidoki! Precure - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5dddc743f135ce81b4a02cb23d79cb5e.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/46/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71249,
+      "numero": 47,
+      "titulo": "Dokidoki! Precure - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_969f5a813d49c69689f0d50f775da75a.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/47/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71250,
+      "numero": 48,
+      "titulo": "Dokidoki! Precure - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aaab568dcfbe996da1e1348741276712.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/48/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    },
+    {
+      "id_origen": 71251,
+      "numero": 49,
+      "titulo": "Dokidoki! Precure - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2436618f41e56bd50a150dbe8da0cef9.jpg",
+      "url_origen": "https://jkanime.net/dokidoki-precure/49/",
+      "publicado_en_origen": "2026-02-05 14:39:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4608",
+  "cantidad_episodios_declarada": 49,
+  "detalle_extraido_en": "2026-08-26T18:25:19+00:00"
+}

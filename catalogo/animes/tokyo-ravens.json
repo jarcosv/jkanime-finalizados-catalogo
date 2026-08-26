@@ -1,0 +1,213 @@
+{
+  "id_origen": 985,
+  "slug": "tokyo-ravens",
+  "titulo": "Tokyo Ravens",
+  "titulo_corto": "Tokyo Ravens",
+  "sinopsis": "La historia gira en torno a Harutora, un chico descendiente de una de las ramas de la familia Tsuchimikado, especialista en la práctica de artes ocultas del Onmyodo. Las raíces de Harutora no le sirven de mucho, pues pese a todo es incapaz de ver la energía espiritual y por ello carece de poder alguno, siendo un muchacho corriente. Natsume, una chica que fue amiga de la infancia de Harutora y es la próxima cabeza de familia de los Tsuchimikado se reúne un día con él y le cambia la vida.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tokyo-ravens.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tokyo-ravens/",
+  "episodios": [
+    {
+      "id_origen": 21698,
+      "numero": 1,
+      "titulo": "Tokyo Ravens - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac1aacca91030c5cdb835cad7f32b4c6.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/1/",
+      "publicado_en_origen": "2013-10-08 23:06:40"
+    },
+    {
+      "id_origen": 21748,
+      "numero": 2,
+      "titulo": "Tokyo Ravens - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4eb156ab5ddb01cceec9a1bf29e3be5.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/2/",
+      "publicado_en_origen": "2013-10-15 23:56:27"
+    },
+    {
+      "id_origen": 21800,
+      "numero": 3,
+      "titulo": "Tokyo Ravens - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45a2317a76448dd49776a9d0495631cc.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/3/",
+      "publicado_en_origen": "2013-10-22 18:37:52"
+    },
+    {
+      "id_origen": 21854,
+      "numero": 4,
+      "titulo": "Tokyo Ravens - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd62968254eca150bde010b72e3aa9c0.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/4/",
+      "publicado_en_origen": "2013-10-29 19:00:27"
+    },
+    {
+      "id_origen": 21903,
+      "numero": 5,
+      "titulo": "Tokyo Ravens - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1de2111b16e6b21b794451fe54ef86f.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/5/",
+      "publicado_en_origen": "2013-11-05 18:55:54"
+    },
+    {
+      "id_origen": 21956,
+      "numero": 6,
+      "titulo": "Tokyo Ravens - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d91f7910cd3924264d0a7732a94a624b.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/6/",
+      "publicado_en_origen": "2013-11-12 21:14:58"
+    },
+    {
+      "id_origen": 22008,
+      "numero": 7,
+      "titulo": "Tokyo Ravens - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7d91226861bc31d29561cd255dd9520.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/7/",
+      "publicado_en_origen": "2013-11-19 19:32:59"
+    },
+    {
+      "id_origen": 22059,
+      "numero": 8,
+      "titulo": "Tokyo Ravens - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1aa31664c1569818b0494c32981bc4f.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/8/",
+      "publicado_en_origen": "2013-11-26 18:51:40"
+    },
+    {
+      "id_origen": 22110,
+      "numero": 9,
+      "titulo": "Tokyo Ravens - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac1c2b3ad86031575744ea1de5d4cddc.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/9/",
+      "publicado_en_origen": "2013-12-03 17:32:59"
+    },
+    {
+      "id_origen": 22165,
+      "numero": 10,
+      "titulo": "Tokyo Ravens - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec812841d1158ccc7d47278dc75f65cc.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/10/",
+      "publicado_en_origen": "2013-12-11 09:05:09"
+    },
+    {
+      "id_origen": 22223,
+      "numero": 11,
+      "titulo": "Tokyo Ravens - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e4f882d2ea10f9f8a665f9d92e4087f.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/11/",
+      "publicado_en_origen": "2013-12-17 16:25:28"
+    },
+    {
+      "id_origen": 22278,
+      "numero": 12,
+      "titulo": "Tokyo Ravens - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01600ecc17d3094eb9669cd6a4feb8a8.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/12/",
+      "publicado_en_origen": "2013-12-24 19:30:47"
+    },
+    {
+      "id_origen": 22382,
+      "numero": 13,
+      "titulo": "Tokyo Ravens - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d2416bb6788d3434832c039cc00e3d7.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/13/",
+      "publicado_en_origen": "2014-01-07 20:57:51"
+    },
+    {
+      "id_origen": 22440,
+      "numero": 14,
+      "titulo": "Tokyo Ravens - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f75737387e88d6ba5d789814bc2fbdc4.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/14/",
+      "publicado_en_origen": "2014-01-14 18:05:18"
+    },
+    {
+      "id_origen": 22499,
+      "numero": 15,
+      "titulo": "Tokyo Ravens - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_294f27df91a18b4e8c77b80cb5cd7e6e.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/15/",
+      "publicado_en_origen": "2014-01-21 17:22:26"
+    },
+    {
+      "id_origen": 22556,
+      "numero": 16,
+      "titulo": "Tokyo Ravens - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45c85c0abd8d53bf0feabce6ba8ede80.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/16/",
+      "publicado_en_origen": "2014-01-28 17:49:14"
+    },
+    {
+      "id_origen": 22617,
+      "numero": 17,
+      "titulo": "Tokyo Ravens - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09f4d591f9ff9e5e0bb6766b0188d017.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/17/",
+      "publicado_en_origen": "2014-02-04 16:38:17"
+    },
+    {
+      "id_origen": 22685,
+      "numero": 18,
+      "titulo": "Tokyo Ravens - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d740de1e79667d117d8df294726a3cad.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/18/",
+      "publicado_en_origen": "2014-02-11 16:36:56"
+    },
+    {
+      "id_origen": 22742,
+      "numero": 19,
+      "titulo": "Tokyo Ravens - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1913e525d6acdf2a6196b42b3a749035.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/19/",
+      "publicado_en_origen": "2014-02-18 21:28:19"
+    },
+    {
+      "id_origen": 22806,
+      "numero": 20,
+      "titulo": "Tokyo Ravens - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4b3da8be9b354457f288b15bd37410a.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/20/",
+      "publicado_en_origen": "2014-02-25 21:54:11"
+    },
+    {
+      "id_origen": 22869,
+      "numero": 21,
+      "titulo": "Tokyo Ravens - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55670a220c71ceab2e42e57a56c26ae8.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/21/",
+      "publicado_en_origen": "2014-03-04 19:08:10"
+    },
+    {
+      "id_origen": 22934,
+      "numero": 22,
+      "titulo": "Tokyo Ravens - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e2e299b45c115d6328c0c1a39e4ab4a.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/22/",
+      "publicado_en_origen": "2014-03-11 18:02:21"
+    },
+    {
+      "id_origen": 22993,
+      "numero": 23,
+      "titulo": "Tokyo Ravens - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69cbcac314bb900159c38306bf58441e.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/23/",
+      "publicado_en_origen": "2014-03-18 16:41:44"
+    },
+    {
+      "id_origen": 23071,
+      "numero": 24,
+      "titulo": "Tokyo Ravens - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56f2adb3621e53ea278ae1abba795d50.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens/24/",
+      "publicado_en_origen": "2014-03-25 14:36:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "985",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:49:47+00:00"
+}

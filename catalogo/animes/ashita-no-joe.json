@@ -1,0 +1,653 @@
+{
+  "id_origen": 2383,
+  "slug": "ashita-no-joe",
+  "titulo": "Ashita no Joe",
+  "titulo_corto": "Ashita no Joe",
+  "sinopsis": "Ashita no Joe nos cuenta la historia de un boxeador, Joe Yabuki. Joe no es un boxeador como otros: es un huérfano que pasaba su vida en la calle hasta el día en el que encuentra a un viejo borracho llamado Danpei Tange. Danpei, boxeador profesional retirado, se queda asombrado porla fuerza bruta de Joe y decide hacer de él un gran boxeador. Joe no le hace caso y sus fechorias finalmente le llevan aun reformatorio para jovenes delicuentes. Ese es el lugar en el que conoce a Toru Rikiishi,una joven promesa del boxeo injustamente recluido . Joe decide entonces dedicarse al boxeo con el fin de derrotar a este gran rival.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ashita-no-joe.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ashita-no-joe/",
+  "episodios": [
+    {
+      "id_origen": 39102,
+      "numero": 1,
+      "titulo": "Ashita no Joe - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eea4b36884e7e6ef7ecfc146a7d8f827.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/1/",
+      "publicado_en_origen": "2019-03-05 21:07:36"
+    },
+    {
+      "id_origen": 39103,
+      "numero": 2,
+      "titulo": "Ashita no Joe - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d690fdab0437d14d4f2a887a3d2bfdbf.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/2/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39104,
+      "numero": 3,
+      "titulo": "Ashita no Joe - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efd766aa5e7a2a276d3f990cf7da8f4a.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/3/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39105,
+      "numero": 4,
+      "titulo": "Ashita no Joe - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7660308943d2350de0f14731a7abd7f.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/4/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39106,
+      "numero": 5,
+      "titulo": "Ashita no Joe - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b47d9065841adbb95bc1254f4e045571.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/5/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39107,
+      "numero": 6,
+      "titulo": "Ashita no Joe - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_947663d22229f8112f748de091e39a85.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/6/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39108,
+      "numero": 7,
+      "titulo": "Ashita no Joe - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ee7da2b1177fa3f2b505a88b1bffad3.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/7/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39109,
+      "numero": 8,
+      "titulo": "Ashita no Joe - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_666ea6cdce817ac66f83e17f0229b4d7.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/8/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39110,
+      "numero": 9,
+      "titulo": "Ashita no Joe - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d14f11f89a35630f8155adf7ac00e77d.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/9/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39111,
+      "numero": 10,
+      "titulo": "Ashita no Joe - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5b3da73adacd81b5962e60b6b987e52.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/10/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39112,
+      "numero": 11,
+      "titulo": "Ashita no Joe - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_307e9c61450651aa146fa8da4ddd4906.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/11/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39113,
+      "numero": 12,
+      "titulo": "Ashita no Joe - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c2304bdad6b851911bc217300c13102.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/12/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39114,
+      "numero": 13,
+      "titulo": "Ashita no Joe - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de845b1e6c1a63150b5123dbb7fb32e1.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/13/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39115,
+      "numero": 14,
+      "titulo": "Ashita no Joe - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4129e674ae0510c5453aff0b3122a713.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/14/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39116,
+      "numero": 15,
+      "titulo": "Ashita no Joe - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab42fba463c7582031b4d6d930e2f577.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/15/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39117,
+      "numero": 16,
+      "titulo": "Ashita no Joe - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79183395bdfe7ed1995bec9ac7f4390c.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/16/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39118,
+      "numero": 17,
+      "titulo": "Ashita no Joe - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8dc56b3dd5380fcd7402ce0fbc75cb1e.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/17/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39119,
+      "numero": 18,
+      "titulo": "Ashita no Joe - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e98729842c746b65e68c204d5c17c2a.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/18/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39120,
+      "numero": 19,
+      "titulo": "Ashita no Joe - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6bd22a86b1f7a3a11de928d301f86d67.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/19/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39121,
+      "numero": 20,
+      "titulo": "Ashita no Joe - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3ee4b885a0649baf73adf9711f4bebf.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/20/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39122,
+      "numero": 21,
+      "titulo": "Ashita no Joe - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33e3007a3412c29e144cd4e12dc15ca1.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/21/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39123,
+      "numero": 22,
+      "titulo": "Ashita no Joe - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5824d6556d667e44db4870fcc6cbafa0.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/22/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39124,
+      "numero": 23,
+      "titulo": "Ashita no Joe - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdf1f7b57190c3ca663b9ccd301168f8.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/23/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39125,
+      "numero": 24,
+      "titulo": "Ashita no Joe - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a14b729c01b19d15fb26292a66e59332.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/24/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39126,
+      "numero": 25,
+      "titulo": "Ashita no Joe - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5973aed4c6276ad73571909e779e56cc.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/25/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39127,
+      "numero": 26,
+      "titulo": "Ashita no Joe - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_486879a776de8b19e7c2b67ba78ecd94.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/26/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39128,
+      "numero": 27,
+      "titulo": "Ashita no Joe - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_177d26fd05b16fcf0f7c8c299738b59e.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/27/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39129,
+      "numero": 28,
+      "titulo": "Ashita no Joe - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85c018bd6f55029030e522d8abc257ee.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/28/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39130,
+      "numero": 29,
+      "titulo": "Ashita no Joe - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_696ea2c7271f939ccafc511902e85604.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/29/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39131,
+      "numero": 30,
+      "titulo": "Ashita no Joe - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ced58dadda88ebec98a7fabb0f296401.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/30/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39132,
+      "numero": 31,
+      "titulo": "Ashita no Joe - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_881fcaded478c7b47a0be6bea0b8f38b.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/31/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39133,
+      "numero": 32,
+      "titulo": "Ashita no Joe - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da8b34330eccde3a97217aa87af21155.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/32/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39134,
+      "numero": 33,
+      "titulo": "Ashita no Joe - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b018c185922d15892813095e6205283a.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/33/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39135,
+      "numero": 34,
+      "titulo": "Ashita no Joe - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d616a8d3d6f93b0347f1faad28124948.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/34/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39136,
+      "numero": 35,
+      "titulo": "Ashita no Joe - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6977ef734c71570520a63229a66bf63e.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/35/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39137,
+      "numero": 36,
+      "titulo": "Ashita no Joe - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e7064359873e3915cbc80ccb6db7d84.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/36/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39138,
+      "numero": 37,
+      "titulo": "Ashita no Joe - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_676a5420f160ad3e229d508cd3aefb1f.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/37/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39139,
+      "numero": 38,
+      "titulo": "Ashita no Joe - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e3ee3406563d7f446f46ed6bb6fdaaf.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/38/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39140,
+      "numero": 39,
+      "titulo": "Ashita no Joe - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_591d38180c9c6ab36c6d366201a3b7e1.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/39/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39141,
+      "numero": 40,
+      "titulo": "Ashita no Joe - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79d09afa4d1929781c7956bf59141ab3.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/40/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39142,
+      "numero": 41,
+      "titulo": "Ashita no Joe - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b55cbaf159d9406f1ad739e1abc8257f.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/41/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39143,
+      "numero": 42,
+      "titulo": "Ashita no Joe - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0ec6296fab322702b9c8345480e989b.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/42/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39144,
+      "numero": 43,
+      "titulo": "Ashita no Joe - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14c5e9d72a15c39f4729cbfe5e018c66.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/43/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39145,
+      "numero": 44,
+      "titulo": "Ashita no Joe - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_676c0c9be43fd984c92b0ecfdab3c0d9.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/44/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39146,
+      "numero": 45,
+      "titulo": "Ashita no Joe - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd34ba7dd11b2b939681fbb68f36c868.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/45/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39147,
+      "numero": 46,
+      "titulo": "Ashita no Joe - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3870e23479b42ad046256d65834e987f.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/46/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39148,
+      "numero": 47,
+      "titulo": "Ashita no Joe - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1c366f7e48f4c707261d658dab76623.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/47/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39149,
+      "numero": 48,
+      "titulo": "Ashita no Joe - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96b5871bd63a9dd5c79c927de8527c9d.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/48/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39150,
+      "numero": 49,
+      "titulo": "Ashita no Joe - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2db7eeae7f99ed6e1d9da81d5e97682f.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/49/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39151,
+      "numero": 50,
+      "titulo": "Ashita no Joe - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45a5b0e008df414f758d13f6023c9aa9.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/50/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39152,
+      "numero": 51,
+      "titulo": "Ashita no Joe - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6b3485c6734a0d18d966d2ca4311499.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/51/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39153,
+      "numero": 52,
+      "titulo": "Ashita no Joe - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d1ca411fcbc6a21484877d59be651db.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/52/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39154,
+      "numero": 53,
+      "titulo": "Ashita no Joe - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d58bd579e0e18d6529fcfb6ba9812b8.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/53/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39155,
+      "numero": 54,
+      "titulo": "Ashita no Joe - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4a55894b71e51a90b84a28c1b946d2b.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/54/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39156,
+      "numero": 55,
+      "titulo": "Ashita no Joe - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10fbe18a1f152d7b4c7ab027cb719c9f.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/55/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39157,
+      "numero": 56,
+      "titulo": "Ashita no Joe - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b49091c850af05caf0012344b4a8a58.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/56/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39158,
+      "numero": 57,
+      "titulo": "Ashita no Joe - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_372947b7bd051e92b51e3592fc437d78.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/57/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39159,
+      "numero": 58,
+      "titulo": "Ashita no Joe - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2a784a6cda726ef5f845e9192adb64b.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/58/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39160,
+      "numero": 59,
+      "titulo": "Ashita no Joe - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b36b959e8edd9be3b4a2b01742259810.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/59/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39161,
+      "numero": 60,
+      "titulo": "Ashita no Joe - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6589ee45c56ebe661629f7a37cce0304.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/60/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39162,
+      "numero": 61,
+      "titulo": "Ashita no Joe - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c24c47dd1b2e9aac64cab553d94a22d7.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/61/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39163,
+      "numero": 62,
+      "titulo": "Ashita no Joe - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fd23d812013ce3b530b821d855bccbf.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/62/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39164,
+      "numero": 63,
+      "titulo": "Ashita no Joe - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_022e17ea8e4b56279362591de2d4794d.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/63/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39165,
+      "numero": 64,
+      "titulo": "Ashita no Joe - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f553c2501a0aa42d88525462997dd6b.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/64/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39166,
+      "numero": 65,
+      "titulo": "Ashita no Joe - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3ab7a7c84d8d782efb167422af07ef0.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/65/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39167,
+      "numero": 66,
+      "titulo": "Ashita no Joe - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d472067aa816c2b00e374dd4fe60fe7.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/66/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39168,
+      "numero": 67,
+      "titulo": "Ashita no Joe - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c63abd089c81265e5b1c4f5a345758e6.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/67/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39169,
+      "numero": 68,
+      "titulo": "Ashita no Joe - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98eb573ff019b2f5725efdcf36dc19f3.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/68/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39170,
+      "numero": 69,
+      "titulo": "Ashita no Joe - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_325f53e3727938dc321cafd8b8ce8dcb.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/69/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39171,
+      "numero": 70,
+      "titulo": "Ashita no Joe - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52772acd64d673518e1e82dfa3fd8975.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/70/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39172,
+      "numero": 71,
+      "titulo": "Ashita no Joe - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d47f862879f48e26415ecdb4273f4774.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/71/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39173,
+      "numero": 72,
+      "titulo": "Ashita no Joe - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acc2abd1faf45a4baa3ff89062c87046.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/72/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39174,
+      "numero": 73,
+      "titulo": "Ashita no Joe - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b080540f817dd397faae9a6029d7eb3.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/73/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39175,
+      "numero": 74,
+      "titulo": "Ashita no Joe - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_285dbe36b6cab6c192769b2d22d9150a.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/74/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39176,
+      "numero": 75,
+      "titulo": "Ashita no Joe - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4457906f472a0a4e966a17de3054a8bc.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/75/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39177,
+      "numero": 76,
+      "titulo": "Ashita no Joe - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfaf03e3d41e25b94457fadfbc4521eb.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/76/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39178,
+      "numero": 77,
+      "titulo": "Ashita no Joe - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_009523565f11c6c933850f411b71acf6.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/77/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39179,
+      "numero": 78,
+      "titulo": "Ashita no Joe - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4b31b9625eb6205e6793a2f8ab42af3.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/78/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    },
+    {
+      "id_origen": 39180,
+      "numero": 79,
+      "titulo": "Ashita no Joe - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e702a7e0d9355796847321bc16ffef7f.jpg",
+      "url_origen": "https://jkanime.net/ashita-no-joe/79/",
+      "publicado_en_origen": "2019-03-05 21:07:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2383",
+  "cantidad_episodios_declarada": 79,
+  "detalle_extraido_en": "2026-08-26T18:17:55+00:00"
+}

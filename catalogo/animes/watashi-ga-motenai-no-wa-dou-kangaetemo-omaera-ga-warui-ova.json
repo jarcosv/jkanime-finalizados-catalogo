@@ -1,0 +1,29 @@
+{
+  "id_origen": 1333,
+  "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-ova",
+  "titulo": "Watamote! OVA",
+  "titulo_corto": "Watamote! OVA",
+  "sinopsis": "Ova valida como episodio 13 incluido con el volumen 7 del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-ova/",
+  "episodios": [
+    {
+      "id_origen": 25250,
+      "numero": 1,
+      "titulo": "Watamote! OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4589a60ea90b98f8f75780b4c829e9a.jpg",
+      "url_origen": "https://jkanime.net/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-ova/1/",
+      "publicado_en_origen": "2014-10-31 09:57:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1333",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:51:49+00:00"
+}

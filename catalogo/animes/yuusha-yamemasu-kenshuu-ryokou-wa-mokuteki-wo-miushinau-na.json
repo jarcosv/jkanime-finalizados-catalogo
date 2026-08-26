@@ -1,0 +1,37 @@
+{
+  "id_origen": 3129,
+  "slug": "yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na",
+  "titulo": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
+  "titulo_corto": "Yuusha, Yamemasu: Kenshuu Ryok...",
+  "sinopsis": "Una nueva animación de dos partes lanzada con ambas cajas de Blu-ray/DVD.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na/",
+  "episodios": [
+    {
+      "id_origen": 49727,
+      "numero": 1,
+      "titulo": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bdef6a10f85eef601ed36eabe57e0663.jpg",
+      "url_origen": "https://jkanime.net/yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na/1/",
+      "publicado_en_origen": "2022-06-25 02:28:53"
+    },
+    {
+      "id_origen": 50336,
+      "numero": 2,
+      "titulo": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5cac03d15bab9d53be9ae7b6919b577a.jpg",
+      "url_origen": "https://jkanime.net/yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na/2/",
+      "publicado_en_origen": "2022-08-25 22:58:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3129",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:53:42+00:00"
+}

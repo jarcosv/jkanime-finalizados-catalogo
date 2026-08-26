@@ -1,0 +1,29 @@
+{
+  "id_origen": 2067,
+  "slug": "sin-nanatsu-no-taizai-recap",
+  "titulo": "Sin: Nanatsu no Taizai Recap",
+  "titulo_corto": "Sin: Nanatsu no Taizai Recap",
+  "sinopsis": "Recapitulación de los primeros 4 episodios de Sin: Nanatsu no Taizai",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sin-nanatsu-no-taizai-recap.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sin-nanatsu-no-taizai-recap/",
+  "episodios": [
+    {
+      "id_origen": 34761,
+      "numero": 1,
+      "titulo": "Sin: Nanatsu no Taizai Recap",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00106ac9184e7d54b570d0f0cb0c38b2.jpg",
+      "url_origen": "https://jkanime.net/sin-nanatsu-no-taizai-recap/1/",
+      "publicado_en_origen": "2017-05-12 16:37:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2067",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:05+00:00"
+}

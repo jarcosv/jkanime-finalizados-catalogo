@@ -1,0 +1,421 @@
+{
+  "id_origen": 1805,
+  "slug": "sousei-no-onmyouji",
+  "titulo": "Sousei no Onmyouji",
+  "titulo_corto": "Sousei no Onmyouji",
+  "sinopsis": "Rokuro procede de una familia de exorcistas, aunque preferiría ser futbolista, cantante o cualquier otra cosa antes que exorcista. Sin embargo la llegada de una chica llamada Benio despierta su espíritu competitivo y decide aprovechar su potencial como exorcista. Al final, al trabajar juntos se ganan el título de “Exorcistas de las Estrellas Gemelas”, y estarán destinados a casarse para tener un hijo que será el guerrero espiritual definitivo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sousei-no-onmyouji.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sousei-no-onmyouji/",
+  "episodios": [
+    {
+      "id_origen": 31285,
+      "numero": 1,
+      "titulo": "Sousei no Onmyouji - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2edf8a3b6635786b076e998ffdd1052.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/1/",
+      "publicado_en_origen": "2016-04-06 10:15:03"
+    },
+    {
+      "id_origen": 31339,
+      "numero": 2,
+      "titulo": "Sousei no Onmyouji - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8ee0c6255707903688cf23566daba69.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/2/",
+      "publicado_en_origen": "2016-04-13 12:05:17"
+    },
+    {
+      "id_origen": 31389,
+      "numero": 3,
+      "titulo": "Sousei no Onmyouji - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edbd47c8e4cabdf0b4e1e7f1069a226b.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/3/",
+      "publicado_en_origen": "2016-04-20 11:38:30"
+    },
+    {
+      "id_origen": 31441,
+      "numero": 4,
+      "titulo": "Sousei no Onmyouji - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6bf3f9188c022dc72696c329a4d47b8f.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/4/",
+      "publicado_en_origen": "2016-04-27 09:46:34"
+    },
+    {
+      "id_origen": 31496,
+      "numero": 5,
+      "titulo": "Sousei no Onmyouji - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a0d4e0d21df28d99ff95e6bd9ca0acc.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/5/",
+      "publicado_en_origen": "2016-05-04 09:42:44"
+    },
+    {
+      "id_origen": 31551,
+      "numero": 6,
+      "titulo": "Sousei no Onmyouji - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09c039292630f588a0528fb457d63c7e.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/6/",
+      "publicado_en_origen": "2016-05-11 11:59:50"
+    },
+    {
+      "id_origen": 31605,
+      "numero": 7,
+      "titulo": "Sousei no Onmyouji - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bc792898a1f66e2ed7c2e2407b3fe8c.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/7/",
+      "publicado_en_origen": "2016-05-18 12:44:04"
+    },
+    {
+      "id_origen": 31660,
+      "numero": 8,
+      "titulo": "Sousei no Onmyouji - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d279b7b85cdc6930ed48a94c79f7a92d.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/8/",
+      "publicado_en_origen": "2016-05-25 09:41:22"
+    },
+    {
+      "id_origen": 31714,
+      "numero": 9,
+      "titulo": "Sousei no Onmyouji - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4635d9474a5ef94cd03d40e385f4b177.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/9/",
+      "publicado_en_origen": "2016-06-01 10:09:56"
+    },
+    {
+      "id_origen": 31766,
+      "numero": 10,
+      "titulo": "Sousei no Onmyouji - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed3551789fc0376ff8938b6827b16eae.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/10/",
+      "publicado_en_origen": "2016-06-08 09:44:56"
+    },
+    {
+      "id_origen": 31821,
+      "numero": 11,
+      "titulo": "Sousei no Onmyouji - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_239254e5edf816a9f88d5d514005a0d2.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/11/",
+      "publicado_en_origen": "2016-06-15 09:54:40"
+    },
+    {
+      "id_origen": 31870,
+      "numero": 12,
+      "titulo": "Sousei no Onmyouji - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24c37633d32231fd6adf629b13a79ed4.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/12/",
+      "publicado_en_origen": "2016-06-22 09:43:10"
+    },
+    {
+      "id_origen": 32232,
+      "numero": 13,
+      "titulo": "Sousei no Onmyouji - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2f34ed953fbaf32dc52ccca8afc4389.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/13/",
+      "publicado_en_origen": "2016-07-06 10:49:31"
+    },
+    {
+      "id_origen": 32288,
+      "numero": 14,
+      "titulo": "Sousei no Onmyouji - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68f8b8440b1eb96b97995c5efb6856a9.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/14/",
+      "publicado_en_origen": "2016-07-13 09:41:29"
+    },
+    {
+      "id_origen": 32343,
+      "numero": 15,
+      "titulo": "Sousei no Onmyouji - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd2f126f7692c68f8441253586199ed8.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/15/",
+      "publicado_en_origen": "2016-07-20 09:46:25"
+    },
+    {
+      "id_origen": 32399,
+      "numero": 16,
+      "titulo": "Sousei no Onmyouji - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7143b3c23169789d1d83178002a9b07f.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/16/",
+      "publicado_en_origen": "2016-07-27 10:03:38"
+    },
+    {
+      "id_origen": 32459,
+      "numero": 17,
+      "titulo": "Sousei no Onmyouji - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ae659bde981b0ad9c0f24835a8d1232.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/17/",
+      "publicado_en_origen": "2016-08-03 09:47:06"
+    },
+    {
+      "id_origen": 32514,
+      "numero": 18,
+      "titulo": "Sousei no Onmyouji - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24128c84241513596a1be1534a791c3b.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/18/",
+      "publicado_en_origen": "2016-08-10 09:46:34"
+    },
+    {
+      "id_origen": 32565,
+      "numero": 19,
+      "titulo": "Sousei no Onmyouji - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b592a9e37c3474d12c4a05a1ef50598.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/19/",
+      "publicado_en_origen": "2016-08-17 10:02:21"
+    },
+    {
+      "id_origen": 32620,
+      "numero": 20,
+      "titulo": "Sousei no Onmyouji - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35a8b29b1e59fa290eea9888ac038e7d.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/20/",
+      "publicado_en_origen": "2016-08-24 10:29:01"
+    },
+    {
+      "id_origen": 32674,
+      "numero": 21,
+      "titulo": "Sousei no Onmyouji - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f9053387dacda6fb815ba281b083d44.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/21/",
+      "publicado_en_origen": "2016-08-31 09:42:48"
+    },
+    {
+      "id_origen": 32729,
+      "numero": 22,
+      "titulo": "Sousei no Onmyouji - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41de90c717ed710bbfc3e3a37b5f430a.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/22/",
+      "publicado_en_origen": "2016-09-07 09:49:08"
+    },
+    {
+      "id_origen": 32783,
+      "numero": 23,
+      "titulo": "Sousei no Onmyouji - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_803523d233c42a1fc11cc41033a7b76f.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/23/",
+      "publicado_en_origen": "2016-09-14 11:03:30"
+    },
+    {
+      "id_origen": 32835,
+      "numero": 24,
+      "titulo": "Sousei no Onmyouji - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f76ca9de39c2906f5e1e3f3ba38e255.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/24/",
+      "publicado_en_origen": "2016-09-21 09:52:25"
+    },
+    {
+      "id_origen": 32893,
+      "numero": 25,
+      "titulo": "Sousei no Onmyouji - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e89ac165a1a75a582fa8305bae74fcd.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/25/",
+      "publicado_en_origen": "2016-09-28 09:48:19"
+    },
+    {
+      "id_origen": 32950,
+      "numero": 26,
+      "titulo": "Sousei no Onmyouji - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_115cff5925f53fa2db268f88cca0fd7f.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/26/",
+      "publicado_en_origen": "2016-10-05 09:31:46"
+    },
+    {
+      "id_origen": 33019,
+      "numero": 27,
+      "titulo": "Sousei no Onmyouji - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a66f8f0921301a9b92d41aec1644b0a5.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/27/",
+      "publicado_en_origen": "2016-10-12 09:54:45"
+    },
+    {
+      "id_origen": 33086,
+      "numero": 28,
+      "titulo": "Sousei no Onmyouji - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b565accf0eb5014ea306fc7b1deef0e5.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/28/",
+      "publicado_en_origen": "2016-10-19 09:52:30"
+    },
+    {
+      "id_origen": 33154,
+      "numero": 29,
+      "titulo": "Sousei no Onmyouji - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9ca1ef9c649e555f1ef4ad853f55202.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/29/",
+      "publicado_en_origen": "2016-10-26 09:41:29"
+    },
+    {
+      "id_origen": 33222,
+      "numero": 30,
+      "titulo": "Sousei no Onmyouji - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6375d77e5b6bea3ac46a02b2ebc17fe3.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/30/",
+      "publicado_en_origen": "2016-11-02 09:46:02"
+    },
+    {
+      "id_origen": 33292,
+      "numero": 31,
+      "titulo": "Sousei no Onmyouji - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a38436397f65f4dba1b4393d81e9159.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/31/",
+      "publicado_en_origen": "2016-11-09 10:46:22"
+    },
+    {
+      "id_origen": 33363,
+      "numero": 32,
+      "titulo": "Sousei no Onmyouji - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_000cb7efa8a05429dd5309b4bea2eb0c.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/32/",
+      "publicado_en_origen": "2016-11-16 10:48:39"
+    },
+    {
+      "id_origen": 33431,
+      "numero": 33,
+      "titulo": "Sousei no Onmyouji - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b619e55898ac8653fc4caa1d89d3ca0c.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/33/",
+      "publicado_en_origen": "2016-11-23 10:58:31"
+    },
+    {
+      "id_origen": 33502,
+      "numero": 34,
+      "titulo": "Sousei no Onmyouji - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_786bb5e43995b615a831bdb225bc15fb.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/34/",
+      "publicado_en_origen": "2016-11-30 10:52:12"
+    },
+    {
+      "id_origen": 33573,
+      "numero": 35,
+      "titulo": "Sousei no Onmyouji - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1b2525781fe9a9fa187456ec1764d5d.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/35/",
+      "publicado_en_origen": "2016-12-07 10:41:51"
+    },
+    {
+      "id_origen": 33644,
+      "numero": 36,
+      "titulo": "Sousei no Onmyouji - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46f712a2eada5a5870a2b5ff2bd2244e.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/36/",
+      "publicado_en_origen": "2016-12-14 11:34:01"
+    },
+    {
+      "id_origen": 33719,
+      "numero": 37,
+      "titulo": "Sousei no Onmyouji - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cfef40996e0de2c0f3fe1031421403fd.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/37/",
+      "publicado_en_origen": "2016-12-21 10:45:13"
+    },
+    {
+      "id_origen": 33780,
+      "numero": 38,
+      "titulo": "Sousei no Onmyouji - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef11c94847ffdaae6df84356ee27cf20.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/38/",
+      "publicado_en_origen": "2017-01-04 10:49:52"
+    },
+    {
+      "id_origen": 33826,
+      "numero": 39,
+      "titulo": "Sousei no Onmyouji - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a6aab4673655fb39ccc8d6cd645f584.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/39/",
+      "publicado_en_origen": "2017-01-11 10:42:19"
+    },
+    {
+      "id_origen": 33882,
+      "numero": 40,
+      "titulo": "Sousei no Onmyouji - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eff4ceddd4035b36233219a6ea4b889e.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/40/",
+      "publicado_en_origen": "2017-01-18 10:47:07"
+    },
+    {
+      "id_origen": 33938,
+      "numero": 41,
+      "titulo": "Sousei no Onmyouji - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bd19fb4009ffc10edd430e6191f8421.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/41/",
+      "publicado_en_origen": "2017-01-25 10:49:49"
+    },
+    {
+      "id_origen": 33995,
+      "numero": 42,
+      "titulo": "Sousei no Onmyouji - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e017d9b51e7b9284cd0da58fae39b33.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/42/",
+      "publicado_en_origen": "2017-02-01 10:44:37"
+    },
+    {
+      "id_origen": 34051,
+      "numero": 43,
+      "titulo": "Sousei no Onmyouji - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7eb93ef92a8a65cf69d578336b6be20.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/43/",
+      "publicado_en_origen": "2017-02-08 10:42:10"
+    },
+    {
+      "id_origen": 34107,
+      "numero": 44,
+      "titulo": "Sousei no Onmyouji - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8552de0210a22e464a92e2d550533910.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/44/",
+      "publicado_en_origen": "2017-02-15 12:57:25"
+    },
+    {
+      "id_origen": 34160,
+      "numero": 45,
+      "titulo": "Sousei no Onmyouji - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1cfcd321eb8bcb1c38c8bde2ccf50eee.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/45/",
+      "publicado_en_origen": "2017-02-22 10:43:17"
+    },
+    {
+      "id_origen": 34227,
+      "numero": 46,
+      "titulo": "Sousei no Onmyouji - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13d1c2594854fff5460e37368dde26f5.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/46/",
+      "publicado_en_origen": "2017-03-01 12:43:54"
+    },
+    {
+      "id_origen": 34282,
+      "numero": 47,
+      "titulo": "Sousei no Onmyouji - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0e5c05df0a614e8f38ca7b074c7108a.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/47/",
+      "publicado_en_origen": "2017-03-08 12:39:25"
+    },
+    {
+      "id_origen": 34340,
+      "numero": 48,
+      "titulo": "Sousei no Onmyouji - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29728f99c3104f0ee7efac0f90eb2788.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/48/",
+      "publicado_en_origen": "2017-03-15 09:56:20"
+    },
+    {
+      "id_origen": 34393,
+      "numero": 49,
+      "titulo": "Sousei no Onmyouji - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ff04af5c3d34a54e4b559849f9ddae2.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/49/",
+      "publicado_en_origen": "2017-03-22 12:30:31"
+    },
+    {
+      "id_origen": 34440,
+      "numero": 50,
+      "titulo": "Sousei no Onmyouji - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cad5a325c48a0e53242ee2079a4bbca2.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-onmyouji/50/",
+      "publicado_en_origen": "2017-03-29 09:47:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1805",
+  "cantidad_episodios_declarada": 50,
+  "detalle_extraido_en": "2026-08-26T18:47:35+00:00"
+}

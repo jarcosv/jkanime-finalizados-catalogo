@@ -1,0 +1,69 @@
+{
+  "id_origen": 1713,
+  "slug": "one-punch-man-specials",
+  "titulo": "One Punch Man Specials",
+  "titulo_corto": "One Punch Man Specials",
+  "sinopsis": "La primera OVA “Shinobiyori Sugiru Kage”, con una duración de 12 minutos, contará una historia completamente original del autor del manga originaL, ONE. La OVA tiene lugar después de la lucha de Saitama con Mosquito Girl y sigue a Genos tratando de averiguar, de forma persistente, el secreto de la fuerza de Saitama. Además, aparece una persona con “cierta razón” para tener rencor a Saitama.\n\nLa segunda OVA “Hanashibeta-sugiru Deshi” también contará con una nueva historia de ONE. En este capítulo, Geno llega a un acuerdo con la banda de mafiosos de Don Pacino mientras avanzan las negociaciones con Saitama.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-punch-man-specials.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-punch-man-specials/",
+  "episodios": [
+    {
+      "id_origen": 30421,
+      "numero": 1,
+      "titulo": "One Punch Man Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfd5301dee688bb803b008e9db07b715.jpg",
+      "url_origen": "https://jkanime.net/one-punch-man-specials/1/",
+      "publicado_en_origen": "2015-12-23 18:00:57"
+    },
+    {
+      "id_origen": 30730,
+      "numero": 2,
+      "titulo": "One Punch Man Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e903c166f2335f821f495e4419b4821b.jpg",
+      "url_origen": "https://jkanime.net/one-punch-man-specials/2/",
+      "publicado_en_origen": "2016-02-01 10:56:28"
+    },
+    {
+      "id_origen": 30926,
+      "numero": 3,
+      "titulo": "One Punch Man Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f31b90991086fb0698d581ee130a6c0b.jpg",
+      "url_origen": "https://jkanime.net/one-punch-man-specials/3/",
+      "publicado_en_origen": "2016-02-25 15:04:57"
+    },
+    {
+      "id_origen": 31208,
+      "numero": 4,
+      "titulo": "One Punch Man Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab50c20083212eedc22511b8d88070dc.jpg",
+      "url_origen": "https://jkanime.net/one-punch-man-specials/4/",
+      "publicado_en_origen": "2016-03-25 22:42:06"
+    },
+    {
+      "id_origen": 31416,
+      "numero": 5,
+      "titulo": "One Punch Man Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d80c2e64d4eaec667e3a3e05d935fe8c.jpg",
+      "url_origen": "https://jkanime.net/one-punch-man-specials/5/",
+      "publicado_en_origen": "2016-04-23 17:50:45"
+    },
+    {
+      "id_origen": 31691,
+      "numero": 6,
+      "titulo": "One Punch Man Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3218b56a27cc5d3acdac4a6b99195f75.jpg",
+      "url_origen": "https://jkanime.net/one-punch-man-specials/6/",
+      "publicado_en_origen": "2016-05-28 21:14:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1713",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:41:13+00:00"
+}

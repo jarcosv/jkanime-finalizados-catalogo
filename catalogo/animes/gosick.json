@@ -1,0 +1,213 @@
+{
+  "id_origen": 22,
+  "slug": "gosick",
+  "titulo": "Gosick",
+  "titulo_corto": "Gosick",
+  "sinopsis": "La historia está ambientada apenas terminó la Primera Guerra Mundial, en una pequeña nación llamada Sauville, ubicada en Europa. Kazuya Kujo, un joven japonés proveniente de una familia militar que llega al país con el propósito de convertirse en un buen soldado. Adaptarse al nuevo ambiente es el primer problema que tiene el joven al llegar a Sover, pero su vida se le complicará bastante después que lo acusan de ser el culpable de un misterioso asesinato. Por suerte, el japonés contará con la ayuda y la amistad de una bella y simpática chica, Victorique, y juntos comenzarán una emocionante jornada en busqueda del verdadero culpable del crimen.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gosick.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gosick/",
+  "episodios": [
+    {
+      "id_origen": 310,
+      "numero": 1,
+      "titulo": "Gosick 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06eb61b839a0cefee4967c67ccb099dc.jpg",
+      "url_origen": "https://jkanime.net/gosick/1/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 311,
+      "numero": 2,
+      "titulo": "Gosick 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dfcd5e558dfa04aaf37f137a1d9d3e5.jpg",
+      "url_origen": "https://jkanime.net/gosick/2/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 312,
+      "numero": 3,
+      "titulo": "Gosick 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_950a4152c2b4aa3ad78bdd6b366cc179.jpg",
+      "url_origen": "https://jkanime.net/gosick/3/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 313,
+      "numero": 4,
+      "titulo": "Gosick 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_158f3069a435b314a80bdcb024f8e422.jpg",
+      "url_origen": "https://jkanime.net/gosick/4/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 314,
+      "numero": 5,
+      "titulo": "Gosick 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_758874998f5bd0c393da094e1967a72b.jpg",
+      "url_origen": "https://jkanime.net/gosick/5/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 315,
+      "numero": 6,
+      "titulo": "Gosick 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad13a2a07ca4b7642959dc0c4c740ab6.jpg",
+      "url_origen": "https://jkanime.net/gosick/6/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 316,
+      "numero": 7,
+      "titulo": "Gosick 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fe94a002317b5f9259f82690aeea4cd.jpg",
+      "url_origen": "https://jkanime.net/gosick/7/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 317,
+      "numero": 8,
+      "titulo": "Gosick 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b8add2a5d98b1a652ea7fd72d942dac.jpg",
+      "url_origen": "https://jkanime.net/gosick/8/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 318,
+      "numero": 9,
+      "titulo": "Gosick 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_432aca3a1e345e339f35a30c8f65edce.jpg",
+      "url_origen": "https://jkanime.net/gosick/9/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 319,
+      "numero": 10,
+      "titulo": "Gosick 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d3bba7425e7c98c50f52ca1b52d3735.jpg",
+      "url_origen": "https://jkanime.net/gosick/10/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 10938,
+      "numero": 11,
+      "titulo": "Gosick 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73dc680c73e6a18c296d5889e67b6b55.jpg",
+      "url_origen": "https://jkanime.net/gosick/11/",
+      "publicado_en_origen": "2011-07-17 17:20:48"
+    },
+    {
+      "id_origen": 10939,
+      "numero": 12,
+      "titulo": "Gosick 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a6784110c57bc99ce3532e4209a81e6.jpg",
+      "url_origen": "https://jkanime.net/gosick/12/",
+      "publicado_en_origen": "2011-07-17 17:21:26"
+    },
+    {
+      "id_origen": 10940,
+      "numero": 13,
+      "titulo": "Gosick 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f3fcf17644bb65a1732f02d6f10034a.jpg",
+      "url_origen": "https://jkanime.net/gosick/13/",
+      "publicado_en_origen": "2011-07-17 17:22:49"
+    },
+    {
+      "id_origen": 10941,
+      "numero": 14,
+      "titulo": "Gosick 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f18288b44fa19637ee5476ac4cdc77d8.jpg",
+      "url_origen": "https://jkanime.net/gosick/14/",
+      "publicado_en_origen": "2011-07-17 17:24:09"
+    },
+    {
+      "id_origen": 10942,
+      "numero": 15,
+      "titulo": "Gosick 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5723ce74503ca035097ea19fd040e5bb.jpg",
+      "url_origen": "https://jkanime.net/gosick/15/",
+      "publicado_en_origen": "2011-07-17 17:30:00"
+    },
+    {
+      "id_origen": 10943,
+      "numero": 16,
+      "titulo": "Gosick 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee76626ee11ada502d5dbf1fb5aae4d2.jpg",
+      "url_origen": "https://jkanime.net/gosick/16/",
+      "publicado_en_origen": "2011-07-17 17:30:21"
+    },
+    {
+      "id_origen": 10944,
+      "numero": 17,
+      "titulo": "Gosick 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0680e1f35026262317cb7cec207e04c5.jpg",
+      "url_origen": "https://jkanime.net/gosick/17/",
+      "publicado_en_origen": "2011-07-17 17:30:46"
+    },
+    {
+      "id_origen": 10945,
+      "numero": 18,
+      "titulo": "Gosick 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_122915b6774a4467be946ddae541af52.jpg",
+      "url_origen": "https://jkanime.net/gosick/18/",
+      "publicado_en_origen": "2011-07-17 17:31:13"
+    },
+    {
+      "id_origen": 10946,
+      "numero": 19,
+      "titulo": "Gosick 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df202fc4b213028833dec15dd526256d.jpg",
+      "url_origen": "https://jkanime.net/gosick/19/",
+      "publicado_en_origen": "2011-07-17 17:31:36"
+    },
+    {
+      "id_origen": 10947,
+      "numero": 20,
+      "titulo": "Gosick 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a43fc3d27915b373b163da088684d4a9.jpg",
+      "url_origen": "https://jkanime.net/gosick/20/",
+      "publicado_en_origen": "2011-07-17 17:31:56"
+    },
+    {
+      "id_origen": 10948,
+      "numero": 21,
+      "titulo": "Gosick 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e04df31f1bbb1c02666d0dfa3638f76.jpg",
+      "url_origen": "https://jkanime.net/gosick/21/",
+      "publicado_en_origen": "2011-07-17 17:33:25"
+    },
+    {
+      "id_origen": 10949,
+      "numero": 22,
+      "titulo": "Gosick 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_751d51528afe5e6f7fe95dece4ed32ba.jpg",
+      "url_origen": "https://jkanime.net/gosick/22/",
+      "publicado_en_origen": "2011-07-17 17:34:25"
+    },
+    {
+      "id_origen": 10950,
+      "numero": 23,
+      "titulo": "Gosick 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26639a69fd612eeaf1f8a17cc9d1ca6f.jpg",
+      "url_origen": "https://jkanime.net/gosick/23/",
+      "publicado_en_origen": "2011-07-17 17:35:01"
+    },
+    {
+      "id_origen": 10951,
+      "numero": 24,
+      "titulo": "Gosick 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0561bc7ecba98e39ca7994f93311ba23.jpg",
+      "url_origen": "https://jkanime.net/gosick/24/",
+      "publicado_en_origen": "2011-07-17 17:35:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "22",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:28:55+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 4834,
+  "slug": "nanatsu-no-bitoku-specials",
+  "titulo": "Nanatsu no Bitoku Specials",
+  "titulo_corto": "Nanatsu no Bitoku Specials",
+  "sinopsis": "Episodios inéditos incluidos en la edición en Blu-ray y DVD de «Nanatsu no Bitoku».",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nanatsu-no-bitoku-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nanatsu-no-bitoku-specials/",
+  "episodios": [
+    {
+      "id_origen": 74427,
+      "numero": 1,
+      "titulo": "Nanatsu no Bitoku Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccc6c0def6e06fcb1175f28fcc89b53a.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-bitoku-specials/1/",
+      "publicado_en_origen": "2026-06-17 13:07:37"
+    },
+    {
+      "id_origen": 74428,
+      "numero": 2,
+      "titulo": "Nanatsu no Bitoku Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c0697164c04e6b54b676eed86604242.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-bitoku-specials/2/",
+      "publicado_en_origen": "2026-06-17 13:07:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4834",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:39:41+00:00"
+}

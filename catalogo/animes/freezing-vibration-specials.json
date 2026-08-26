@@ -1,0 +1,69 @@
+{
+  "id_origen": 1015,
+  "slug": "freezing-vibration-specials",
+  "titulo": "Freezing Vibration Specials",
+  "titulo_corto": "Freezing Vibration Specials",
+  "sinopsis": "Especiales incluidos del BD/DVD de Freezing Vibration.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/freezing-vibration-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/freezing-vibration-specials/",
+  "episodios": [
+    {
+      "id_origen": 22296,
+      "numero": 1,
+      "titulo": "Freezing Vibration Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b698439e156812f1a33acc20a44772b2.jpg",
+      "url_origen": "https://jkanime.net/freezing-vibration-specials/1/",
+      "publicado_en_origen": "2013-12-28 18:11:07"
+    },
+    {
+      "id_origen": 25157,
+      "numero": 2,
+      "titulo": "Freezing Vibration Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2810641ad4fe0ef85b460df52d7a48e8.jpg",
+      "url_origen": "https://jkanime.net/freezing-vibration-specials/2/",
+      "publicado_en_origen": "2014-09-10 17:09:01"
+    },
+    {
+      "id_origen": 25158,
+      "numero": 3,
+      "titulo": "Freezing Vibration Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_856821bd2b5bc9082efb1f81f17ea132.jpg",
+      "url_origen": "https://jkanime.net/freezing-vibration-specials/3/",
+      "publicado_en_origen": "2014-09-10 17:14:33"
+    },
+    {
+      "id_origen": 25159,
+      "numero": 4,
+      "titulo": "Freezing Vibration Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73a28b73543c4fe7c22ef24532315015.jpg",
+      "url_origen": "https://jkanime.net/freezing-vibration-specials/4/",
+      "publicado_en_origen": "2014-09-10 17:17:46"
+    },
+    {
+      "id_origen": 25160,
+      "numero": 5,
+      "titulo": "Freezing Vibration Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24d1f9dbb53d751422970f91caa12df6.jpg",
+      "url_origen": "https://jkanime.net/freezing-vibration-specials/5/",
+      "publicado_en_origen": "2014-09-10 17:21:15"
+    },
+    {
+      "id_origen": 25161,
+      "numero": 6,
+      "titulo": "Freezing Vibration Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7a6b51b4da2a493f024aac42d94c7cd.jpg",
+      "url_origen": "https://jkanime.net/freezing-vibration-specials/6/",
+      "publicado_en_origen": "2014-10-21 17:26:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1015",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:27:14+00:00"
+}

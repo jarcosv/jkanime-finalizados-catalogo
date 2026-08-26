@@ -1,0 +1,37 @@
+{
+  "id_origen": 1371,
+  "slug": "yamada-kun-to-7-nin-no-majo-ova",
+  "titulo": "Yamada-kun to 7-nin no Majo (OVA)",
+  "titulo_corto": "Yamada-kun to 7-nin no Majo (O...",
+  "sinopsis": "Ova de Yamada-kun to 7-nin no Majo",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yamada-kun-to-7-nin-no-majo-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yamada-kun-to-7-nin-no-majo-ova/",
+  "episodios": [
+    {
+      "id_origen": 25894,
+      "numero": 1,
+      "titulo": "Yamada-kun to 7-nin no Majo (OVA) - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f096d3da9f8797e053edd854335413ab.jpg",
+      "url_origen": "https://jkanime.net/yamada-kun-to-7-nin-no-majo-ova/1/",
+      "publicado_en_origen": "2014-12-19 21:57:46"
+    },
+    {
+      "id_origen": 27774,
+      "numero": 2,
+      "titulo": "Yamada-kun to 7-nin no Majo (OVA) - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d79058bc2cc9eb428ee4f86439ab2070.jpg",
+      "url_origen": "https://jkanime.net/yamada-kun-to-7-nin-no-majo-ova/2/",
+      "publicado_en_origen": "2015-05-16 11:55:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1371",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:52:33+00:00"
+}

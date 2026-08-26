@@ -1,0 +1,29 @@
+{
+  "id_origen": 4217,
+  "slug": "doukyuusei",
+  "titulo": "Doukyuusei",
+  "titulo_corto": "Doukyuusei",
+  "sinopsis": "Hikaru Kusakabe es un chico normal y despreocupado que forma parte de una banda de rock y siempre está centrado en el presente. Durante el verano, toda su clase se ve obligada a participar en un festival de coros. Por casualidad, descubre a su compañero de clase Rihito Sajou -conocido por ser un estudiante de honor con excelentes notas- practicando su canto en solitario. Sajou no consigue cantar bien la canción de su clase, y Kusakabe, encantado de ver una nueva faceta de su estirado compañero, se ofrece a ayudarle a prepararse para el evento.\r\n\r\nAunque sus vidas y personalidades son totalmente opuestas, empiezan a acercarse a medida que pasa el tiempo. Pero con la presión de un futuro desconocido, ¿qué será de ellos y de su creciente relación?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/doukyuusei.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/doukyuusei/",
+  "episodios": [
+    {
+      "id_origen": 64608,
+      "numero": 1,
+      "titulo": "Doukyuusei",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d70d32d942420307ba2db9173e0e0e8a.jpg",
+      "url_origen": "https://jkanime.net/doukyuusei/1/",
+      "publicado_en_origen": "2025-07-20 16:21:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4217",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:25+00:00"
+}

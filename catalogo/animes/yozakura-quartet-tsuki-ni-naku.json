@@ -1,0 +1,45 @@
+{
+  "id_origen": 1343,
+  "slug": "yozakura-quartet-tsuki-ni-naku",
+  "titulo": "Yozakura Quartet: Tsuki ni Naku",
+  "titulo_corto": "Yozakura Quartet: Tsuki ni Nak...",
+  "sinopsis": "Continuacion a Hana no Uta, donde Hime y compañia ganan un premio para visitar unas termas en las montañas para vacacionar, mientras la ciudad sóla recibe un nuevo enemigo, la aventura en la ciudad se enfocara en Shidou-san, las gemelas y el escuadron espiritual de la policia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yozakura-quartet-tsuki-ni-naku.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yozakura-quartet-tsuki-ni-naku/",
+  "episodios": [
+    {
+      "id_origen": 25474,
+      "numero": 1,
+      "titulo": "Yozakura Quartet: Tsuki ni Naku - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fa80ca6c4f95fb2017aec18547ffae2.jpg",
+      "url_origen": "https://jkanime.net/yozakura-quartet-tsuki-ni-naku/1/",
+      "publicado_en_origen": "2014-11-17 20:35:56"
+    },
+    {
+      "id_origen": 25475,
+      "numero": 2,
+      "titulo": "Yozakura Quartet: Tsuki ni Naku - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c7640494d7b763e2f1521e08075cf61.jpg",
+      "url_origen": "https://jkanime.net/yozakura-quartet-tsuki-ni-naku/2/",
+      "publicado_en_origen": "2014-11-17 20:36:00"
+    },
+    {
+      "id_origen": 25476,
+      "numero": 3,
+      "titulo": "Yozakura Quartet: Tsuki ni Naku - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8727981b7f3d46b51d5b6770632e453.jpg",
+      "url_origen": "https://jkanime.net/yozakura-quartet-tsuki-ni-naku/3/",
+      "publicado_en_origen": "2014-11-17 20:36:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1343",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:53:14+00:00"
+}

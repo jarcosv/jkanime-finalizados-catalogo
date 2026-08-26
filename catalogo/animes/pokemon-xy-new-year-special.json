@@ -1,0 +1,29 @@
+{
+  "id_origen": 1063,
+  "slug": "pokemon-xy-new-year-special",
+  "titulo": "Pokemon XY: New Year Special",
+  "titulo_corto": "Pokemon XY: New Year Special",
+  "sinopsis": "Especial de año nuevo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-xy-new-year-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pokemon-xy-new-year-special/",
+  "episodios": [
+    {
+      "id_origen": 22433,
+      "numero": 1,
+      "titulo": "Pokemon XY: New Year Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d46c0e55c1dbeccba88aac847e19ed5.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy-new-year-special/1/",
+      "publicado_en_origen": "2014-01-13 21:38:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1063",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:42:38+00:00"
+}

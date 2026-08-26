@@ -1,0 +1,117 @@
+{
+  "id_origen": 1491,
+  "slug": "owari-no-seraph",
+  "titulo": "Owari no Seraph",
+  "titulo_corto": "Owari no Seraph",
+  "sinopsis": "La historia tiene lugar en un mundo donde un virus ha asolado a toda la humanidad a excepción de los niños, que fueron esclavizados por vampiros. El protagonista es Yuichiro Hyakuya, un esclavo humano que sueña con hacerse lo suficientemente fuerte como para matar a todos los vampiros.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/owari-no-seraph.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/owari-no-seraph/",
+  "episodios": [
+    {
+      "id_origen": 27376,
+      "numero": 1,
+      "titulo": "Owari no Seraph - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7361bffc2bfd9efcbf652e56f5f9d23c.jpg",
+      "url_origen": "https://jkanime.net/owari-no-seraph/1/",
+      "publicado_en_origen": "2015-04-04 10:54:41"
+    },
+    {
+      "id_origen": 27450,
+      "numero": 2,
+      "titulo": "Owari no Seraph - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84fc80be70d6ffd85f3f172f1f8ea150.jpg",
+      "url_origen": "https://jkanime.net/owari-no-seraph/2/",
+      "publicado_en_origen": "2015-04-11 10:20:09"
+    },
+    {
+      "id_origen": 27519,
+      "numero": 3,
+      "titulo": "Owari no Seraph - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_914504d6a7f15be15048fdb72ddd71a7.jpg",
+      "url_origen": "https://jkanime.net/owari-no-seraph/3/",
+      "publicado_en_origen": "2015-04-18 10:26:17"
+    },
+    {
+      "id_origen": 27586,
+      "numero": 4,
+      "titulo": "Owari no Seraph - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_597626eebeefc042afb36a69a049696d.jpg",
+      "url_origen": "https://jkanime.net/owari-no-seraph/4/",
+      "publicado_en_origen": "2015-04-25 10:23:50"
+    },
+    {
+      "id_origen": 27648,
+      "numero": 5,
+      "titulo": "Owari no Seraph - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09a04b5f6189f34a3a8bb148c87cce78.jpg",
+      "url_origen": "https://jkanime.net/owari-no-seraph/5/",
+      "publicado_en_origen": "2015-05-02 10:20:17"
+    },
+    {
+      "id_origen": 27710,
+      "numero": 6,
+      "titulo": "Owari no Seraph - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbc397e6b367c413170a78c0e875280d.jpg",
+      "url_origen": "https://jkanime.net/owari-no-seraph/6/",
+      "publicado_en_origen": "2015-05-09 10:10:06"
+    },
+    {
+      "id_origen": 27772,
+      "numero": 7,
+      "titulo": "Owari no Seraph - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed8a8a99fd79417dd5ee86e141fc2233.jpg",
+      "url_origen": "https://jkanime.net/owari-no-seraph/7/",
+      "publicado_en_origen": "2015-05-16 10:35:47"
+    },
+    {
+      "id_origen": 27836,
+      "numero": 8,
+      "titulo": "Owari no Seraph - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b5527044c6c8470d1b47642c872a2a1.jpg",
+      "url_origen": "https://jkanime.net/owari-no-seraph/8/",
+      "publicado_en_origen": "2015-05-23 09:20:15"
+    },
+    {
+      "id_origen": 27901,
+      "numero": 9,
+      "titulo": "Owari no Seraph - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62ab3ce23f9884db423ce886eb945289.jpg",
+      "url_origen": "https://jkanime.net/owari-no-seraph/9/",
+      "publicado_en_origen": "2015-05-30 09:16:06"
+    },
+    {
+      "id_origen": 27963,
+      "numero": 10,
+      "titulo": "Owari no Seraph - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f989b0f0f818ae98f79381d9c1ada42.jpg",
+      "url_origen": "https://jkanime.net/owari-no-seraph/10/",
+      "publicado_en_origen": "2015-06-06 09:13:40"
+    },
+    {
+      "id_origen": 28358,
+      "numero": 11,
+      "titulo": "Owari no Seraph - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_489dde05f53b59ffd2ec29bf410a0ebb.jpg",
+      "url_origen": "https://jkanime.net/owari-no-seraph/11/",
+      "publicado_en_origen": "2015-06-13 10:25:44"
+    },
+    {
+      "id_origen": 28508,
+      "numero": 12,
+      "titulo": "Owari no Seraph - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48033f895a8eb822024e647cc943596d.jpg",
+      "url_origen": "https://jkanime.net/owari-no-seraph/12/",
+      "publicado_en_origen": "2015-06-20 09:14:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1491",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:41:53+00:00"
+}

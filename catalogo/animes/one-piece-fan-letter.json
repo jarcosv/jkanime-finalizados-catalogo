@@ -1,0 +1,29 @@
+{
+  "id_origen": 3923,
+  "slug": "one-piece-fan-letter",
+  "titulo": "One Piece Fan Letter",
+  "titulo_corto": "One Piece Fan Letter",
+  "sinopsis": "Dos años después de la Guerra, en la que el pirata Sombrero de Paja Luffy perdió a su hermano Ace, la historia se desarrolla en el archipiélago de Sabaody. La protagonista, una joven que siente una gran admiración por Nami, emprende una pequeña aventura. Se trata de un drama de conjunto que se centra en las personas que no «persiguen» One Piece, representando el reencuentro de los Piratas del Sombrero de Paja desde su perspectiva.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece-fan-letter.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-piece-fan-letter/",
+  "episodios": [
+    {
+      "id_origen": 60315,
+      "numero": 1,
+      "titulo": "One Piece Fan Letter",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92235205dc1062e9a187ec8b3740f5db.jpg",
+      "url_origen": "https://jkanime.net/one-piece-fan-letter/1/",
+      "publicado_en_origen": "2024-10-20 13:10:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3923",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:41:05+00:00"
+}

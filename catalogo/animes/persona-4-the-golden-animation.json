@@ -1,0 +1,117 @@
+{
+  "id_origen": 1196,
+  "slug": "persona-4-the-golden-animation",
+  "titulo": "Persona 4 The Golden Animation",
+  "titulo_corto": "Persona 4 The Golden Animation",
+  "sinopsis": "Primavera. Lejos de la ciudad, el tiempo fluye pacíficamente en este pueblo rural. Como las flores de cerezo se dispersan con el viento, un joven llamado Yu Narukami se baja del tren en la estación Yasoinaba. Yu ha llegado a esta ciudad, donde su tío vive, por razones familiares; será transfiriendo en la escuela secundaria local, Yasogami alta. Y así comienza su vida escolar ... El centro comercial después de la escuela. Una serie de asesinatos que tienen lugar en la ciudad. El Canal de Medianoche, que se transmite por la noche .... ¿Qué le espera a Yu y sus amigos en esta ocasión? \"",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/persona-4-the-golden-animation.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/persona-4-the-golden-animation/",
+  "episodios": [
+    {
+      "id_origen": 23957,
+      "numero": 1,
+      "titulo": "Persona 4 The Golden Animation - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a830b9099d2e43368b1f70412ca5cd6.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-golden-animation/1/",
+      "publicado_en_origen": "2014-07-10 15:19:59"
+    },
+    {
+      "id_origen": 24017,
+      "numero": 2,
+      "titulo": "Persona 4 The Golden Animation - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eafd3244c6ce9ed78d27d31f04c06ffc.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-golden-animation/2/",
+      "publicado_en_origen": "2014-07-17 14:55:38"
+    },
+    {
+      "id_origen": 24084,
+      "numero": 3,
+      "titulo": "Persona 4 The Golden Animation - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a6cf796456b6d7c4c2bde93dd17c682.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-golden-animation/3/",
+      "publicado_en_origen": "2014-07-24 15:03:32"
+    },
+    {
+      "id_origen": 24146,
+      "numero": 4,
+      "titulo": "Persona 4 The Golden Animation - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_712ac39ad32d1f36e2afc3388d9dec86.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-golden-animation/4/",
+      "publicado_en_origen": "2014-07-31 13:58:35"
+    },
+    {
+      "id_origen": 24211,
+      "numero": 5,
+      "titulo": "Persona 4 The Golden Animation - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fc78eaa477c004f02bd794d43e3c378.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-golden-animation/5/",
+      "publicado_en_origen": "2014-08-07 14:00:11"
+    },
+    {
+      "id_origen": 24431,
+      "numero": 6,
+      "titulo": "Persona 4 The Golden Animation - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_021abae3121d08e68ec099d8a2a7531d.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-golden-animation/6/",
+      "publicado_en_origen": "2014-08-14 13:59:50"
+    },
+    {
+      "id_origen": 24506,
+      "numero": 7,
+      "titulo": "Persona 4 The Golden Animation - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29eb40019c86740a530084b0f1fb07ba.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-golden-animation/7/",
+      "publicado_en_origen": "2014-08-21 14:12:41"
+    },
+    {
+      "id_origen": 24568,
+      "numero": 8,
+      "titulo": "Persona 4 The Golden Animation - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_572085da02048c9d1e49c57b3db8cef8.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-golden-animation/8/",
+      "publicado_en_origen": "2014-08-28 13:54:55"
+    },
+    {
+      "id_origen": 24639,
+      "numero": 9,
+      "titulo": "Persona 4 The Golden Animation - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_181571ac9869dc652878903429ff5465.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-golden-animation/9/",
+      "publicado_en_origen": "2014-09-04 14:01:00"
+    },
+    {
+      "id_origen": 24733,
+      "numero": 10,
+      "titulo": "Persona 4 The Golden Animation - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1acf95b7e5ff0d9189c38f0c60551d3d.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-golden-animation/10/",
+      "publicado_en_origen": "2014-09-11 13:56:15"
+    },
+    {
+      "id_origen": 24804,
+      "numero": 11,
+      "titulo": "Persona 4 The Golden Animation - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3041372c228449ada7c295d940697a3a.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-golden-animation/11/",
+      "publicado_en_origen": "2014-09-18 23:30:38"
+    },
+    {
+      "id_origen": 24914,
+      "numero": 12,
+      "titulo": "Persona 4 The Golden Animation - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c405af5d78fe60ff050b1da3143c84a.jpg",
+      "url_origen": "https://jkanime.net/persona-4-the-golden-animation/12/",
+      "publicado_en_origen": "2014-09-25 23:46:58"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1196",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:42:06+00:00"
+}

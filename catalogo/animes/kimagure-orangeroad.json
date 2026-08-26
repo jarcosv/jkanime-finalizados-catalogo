@@ -1,0 +1,405 @@
+{
+  "id_origen": 3255,
+  "slug": "kimagure-orangeroad",
+  "titulo": "Kimagure Orange Road",
+  "titulo_corto": "Kimagure Orange Road",
+  "sinopsis": "KOR comienza con la mudanza a una ciudad ficticia cercana a Tokio de una familia japonesa formada por un padre viudo (Takashi Kasuga), tres hijos (Kyosuke, Manami y Kurumi) y un gato al que llaman Jingoro. El mismo día que llegan a la nueva ciudad, Kyosuke sale a pasear para conocer los alrededores de su nueva casa y le sucede algo que cambia por completo su vida: conoce a una bella chica (Madoka Ayukawa) en lo alto de una escalinata de un parque y con la que coincide después en su clase del instituto. Kyosuke se da cuenta de que la personalidad de Ayukawa es bastante compleja, ya que no se comporta igual cuando están a solas que cuando se encuentran en el colegio. Hikaru Hiyama, amiga de Ayukawa, se encapricha de Kyosuke y le propone que salgan juntos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimagure-orangeroad.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimagure-orangeroad/",
+  "episodios": [
+    {
+      "id_origen": 51204,
+      "numero": 1,
+      "titulo": "Kimagure Orange Road - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55bd93f5595ec628cb19a38d7e7bff9c.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/1/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51205,
+      "numero": 2,
+      "titulo": "Kimagure Orange Road - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c49f9c689e5f45296442973d42d9bdb1.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/2/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51206,
+      "numero": 3,
+      "titulo": "Kimagure Orange Road - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcf4e85b5db6949dfd0ddc6c151d848b.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/3/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51207,
+      "numero": 4,
+      "titulo": "Kimagure Orange Road - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eab1b644aa4f44b0c69d8aea131735d8.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/4/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51208,
+      "numero": 5,
+      "titulo": "Kimagure Orange Road - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e303ab18bf187f65a6409ba097e73152.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/5/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51209,
+      "numero": 6,
+      "titulo": "Kimagure Orange Road - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64fa9fe60bfb3ee2a8b3704c92a9f245.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/6/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51210,
+      "numero": 7,
+      "titulo": "Kimagure Orange Road - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ae4a3ef72d20c24f11c47e0a12fc43a.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/7/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51211,
+      "numero": 8,
+      "titulo": "Kimagure Orange Road - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ab4c264b208bdcd73f21848b6974ca6.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/8/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51212,
+      "numero": 9,
+      "titulo": "Kimagure Orange Road - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8c7be5d3d64a96e9029ed2e2c00fc1c.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/9/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51213,
+      "numero": 10,
+      "titulo": "Kimagure Orange Road - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11eefadbc0303313b3aa790a9f0bec40.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/10/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51214,
+      "numero": 11,
+      "titulo": "Kimagure Orange Road - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae84b78a13c5fe567cb34bdcd27d7c8d.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/11/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51215,
+      "numero": 12,
+      "titulo": "Kimagure Orange Road - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84b2434fc7254d1ae92b9f47cfc36a37.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/12/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51216,
+      "numero": 13,
+      "titulo": "Kimagure Orange Road - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc7d0fede3023156a782db4849f59ca0.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/13/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51217,
+      "numero": 14,
+      "titulo": "Kimagure Orange Road - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_743a50f37454389bead77b09859ec6de.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/14/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51218,
+      "numero": 15,
+      "titulo": "Kimagure Orange Road - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfa88cef5ea1193f46a6ce97ac9f85fe.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/15/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51219,
+      "numero": 16,
+      "titulo": "Kimagure Orange Road - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4f4f7754b9907d306140beb15b0e4fa.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/16/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51220,
+      "numero": 17,
+      "titulo": "Kimagure Orange Road - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59f526cf112b96650d03807f4e79bffb.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/17/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51221,
+      "numero": 18,
+      "titulo": "Kimagure Orange Road - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d6b28541c9baacf07828bdc29933fda.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/18/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51222,
+      "numero": 19,
+      "titulo": "Kimagure Orange Road - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79fabf0f28ff07b589eff0a0708a12f3.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/19/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51223,
+      "numero": 20,
+      "titulo": "Kimagure Orange Road - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af22dee58d15acbd22d0d9d5fcf47e08.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/20/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51224,
+      "numero": 21,
+      "titulo": "Kimagure Orange Road - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16c8560f9390269590d05163b6afd1ee.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/21/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51225,
+      "numero": 22,
+      "titulo": "Kimagure Orange Road - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53dcbd79078375a42f5703c915605808.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/22/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51226,
+      "numero": 23,
+      "titulo": "Kimagure Orange Road - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc9c1d2fb8a8284a17a6800b1193c9e5.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/23/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51227,
+      "numero": 24,
+      "titulo": "Kimagure Orange Road - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db13041289a06ffde613869c8181b645.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/24/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51228,
+      "numero": 25,
+      "titulo": "Kimagure Orange Road - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8aa2f3b6f79a69150d065a6b02b9091d.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/25/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51229,
+      "numero": 26,
+      "titulo": "Kimagure Orange Road - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b57813dbe13b4b5d1e1d3752f20f14d9.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/26/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51230,
+      "numero": 27,
+      "titulo": "Kimagure Orange Road - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f962f910179993644c1e626668db70c4.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/27/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51231,
+      "numero": 28,
+      "titulo": "Kimagure Orange Road - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba6c9bd2a65911564c0c112b7af18067.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/28/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51232,
+      "numero": 29,
+      "titulo": "Kimagure Orange Road - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a76b39a4dda4475261a43e204aacfa21.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/29/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51233,
+      "numero": 30,
+      "titulo": "Kimagure Orange Road - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8a14455e4cefff6fb4191a560d6c3f1.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/30/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51234,
+      "numero": 31,
+      "titulo": "Kimagure Orange Road - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fefffd240f129797e24fa1fbfc99ec6e.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/31/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51235,
+      "numero": 32,
+      "titulo": "Kimagure Orange Road - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6d57f0285159779f44f290a9324e61d.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/32/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51236,
+      "numero": 33,
+      "titulo": "Kimagure Orange Road - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_489d47e03c01c987049cc9b8cc47e38a.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/33/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51237,
+      "numero": 34,
+      "titulo": "Kimagure Orange Road - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dcb06f68b392a54242b32bfaaf096da.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/34/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51238,
+      "numero": 35,
+      "titulo": "Kimagure Orange Road - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_323c824228895b9693586726fa10c8d2.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/35/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51239,
+      "numero": 36,
+      "titulo": "Kimagure Orange Road - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b04540311ccd6aa670833b1b7514e406.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/36/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51240,
+      "numero": 37,
+      "titulo": "Kimagure Orange Road - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d63242e223e85f2c9b13c7b3b8b4b4e.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/37/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51241,
+      "numero": 38,
+      "titulo": "Kimagure Orange Road - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6abf5fb9a26d42a20e69e48d5a37fb58.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/38/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51242,
+      "numero": 39,
+      "titulo": "Kimagure Orange Road - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04660e90934783990fa04175c6101de7.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/39/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51243,
+      "numero": 40,
+      "titulo": "Kimagure Orange Road - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ce14096e7e4cc250b192df47bd2e733.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/40/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51244,
+      "numero": 41,
+      "titulo": "Kimagure Orange Road - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6855cdc3285c65801dd5d82d10f2a478.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/41/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51245,
+      "numero": 42,
+      "titulo": "Kimagure Orange Road - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd8501efefa75c254920b670589f4aa3.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/42/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51246,
+      "numero": 43,
+      "titulo": "Kimagure Orange Road - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17c07140f73d5c16d93344d1cdf791a3.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/43/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51247,
+      "numero": 44,
+      "titulo": "Kimagure Orange Road - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_480ccfc93162a437f027c33a43209331.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/44/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51248,
+      "numero": 45,
+      "titulo": "Kimagure Orange Road - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5546403e8d60935eb8fb1568a4e647fd.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/45/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51249,
+      "numero": 46,
+      "titulo": "Kimagure Orange Road - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a88a63228e2a004c665fc8ac457df2e8.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/46/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51250,
+      "numero": 47,
+      "titulo": "Kimagure Orange Road - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c66af205d977b1a72e6fd5ff77fbb4c2.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/47/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    },
+    {
+      "id_origen": 51251,
+      "numero": 48,
+      "titulo": "Kimagure Orange Road - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a62056d73820ddbdc25af50cbc048dd.jpg",
+      "url_origen": "https://jkanime.net/kimagure-orangeroad/48/",
+      "publicado_en_origen": "2022-12-02 20:53:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3255",
+  "cantidad_episodios_declarada": 48,
+  "detalle_extraido_en": "2026-08-26T18:34:37+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1375,
+  "slug": "strike-witches-movie",
+  "titulo": "Strike Witches Movie",
+  "titulo_corto": "Strike Witches Movie",
+  "sinopsis": "1945, Imperio Fuso. Tras perder sus poderes mágicos, Yoshika Miyafuji da lo mejor de sí para conseguir llegar a ser médico. Un día, una cadete de la marina de Fuso, Shizuka Hattori, visita a Yoshika para informarle que tendrá que estudiar en el extranjero y viajar hasta Europa. ¿Qué les esperará a Yoshika y Shizuka en su viaje hasta allí?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/strike-witches-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/strike-witches-movie/",
+  "episodios": [
+    {
+      "id_origen": 25933,
+      "numero": 1,
+      "titulo": "Strike Witches Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_610139afa33fd14569ca5713c1057fe1.jpg",
+      "url_origen": "https://jkanime.net/strike-witches-movie/1/",
+      "publicado_en_origen": "2014-12-22 15:07:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1375",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:54+00:00"
+}

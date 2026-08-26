@@ -1,0 +1,53 @@
+{
+  "id_origen": 1464,
+  "slug": "the-heroic-legend-of-arslan",
+  "titulo": "Arslan Senki: The Heroic Legend of Arslan",
+  "titulo_corto": "Arslan Senki: The Heroic Legen...",
+  "sinopsis": "Esta es la historia de los viajes del Príncipe Arislan, el heredero al imperio de Palse. Al principio, Palse y los Lusitanos están en guerra. Mediante la traición, el Reino de Palse cae derrotado por los Lusitanos. El Rey es capturado junto a la hermosa Reina. Arislan, sin embargo, quedó solo y bajo la custodia del Caballero de Plata, que le jura fidelidad. Junto con otros amigos y aliados, Arislan consigue reunir un gran ejército listo para reclamar su reino. Con el valor de Farangese, una sacerdotisa guerrera que puede hablar con el alma, Gieve, el tranquilo y tramposo juglar, Daryoon, el gran guerrero, Narsus, el maestro de la táctica y la estrategia, su viaje está a punto de comenzar. Con tales aliados,Arislan comienza a obtener victoria tras victoria, pero su compasión y buen corazón no lo convierten en enemigo de los Lusitanos, sino que piensan que podría ser el Rey que siempre soñaron...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/the-heroic-legend-of-arslan.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/the-heroic-legend-of-arslan/",
+  "episodios": [
+    {
+      "id_origen": 27129,
+      "numero": 1,
+      "titulo": "Arslan Senki: The Heroic Legend of Arslan - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7282c84a4c2109c3697b6aca8b86aba.jpg",
+      "url_origen": "https://jkanime.net/the-heroic-legend-of-arslan/1/",
+      "publicado_en_origen": "2015-03-18 03:31:07"
+    },
+    {
+      "id_origen": 27130,
+      "numero": 2,
+      "titulo": "Arslan Senki: The Heroic Legend of Arslan - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64998e5967db4db4bf25df2128c87c10.jpg",
+      "url_origen": "https://jkanime.net/the-heroic-legend-of-arslan/2/",
+      "publicado_en_origen": "2015-03-18 03:31:11"
+    },
+    {
+      "id_origen": 27131,
+      "numero": 3,
+      "titulo": "Arslan Senki: The Heroic Legend of Arslan - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a7c8b3c6b0ecb1b72233e98c09793f4.jpg",
+      "url_origen": "https://jkanime.net/the-heroic-legend-of-arslan/3/",
+      "publicado_en_origen": "2015-03-18 03:31:11"
+    },
+    {
+      "id_origen": 27132,
+      "numero": 4,
+      "titulo": "Arslan Senki: The Heroic Legend of Arslan - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73847751ae607f99a9bbed87f731338c.jpg",
+      "url_origen": "https://jkanime.net/the-heroic-legend-of-arslan/4/",
+      "publicado_en_origen": "2015-03-18 03:31:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1464",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:17:45+00:00"
+}

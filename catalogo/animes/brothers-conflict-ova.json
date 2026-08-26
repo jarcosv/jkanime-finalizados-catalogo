@@ -1,0 +1,37 @@
+{
+  "id_origen": 1432,
+  "slug": "brothers-conflict-ova",
+  "titulo": "Brothers Conflict OVA",
+  "titulo_corto": "Brothers Conflict OVA",
+  "sinopsis": "Ovas de Brothers Conflict\n1 - OVA acerca de la Navidad\n2 - OVA acerca del dia de San Valentin",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/brothers-conflict-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/brothers-conflict-ova/",
+  "episodios": [
+    {
+      "id_origen": 26376,
+      "numero": 1,
+      "titulo": "Brothers Conflict OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d061501b6395b30cfb6aaa256e138af.jpg",
+      "url_origen": "https://jkanime.net/brothers-conflict-ova/1/",
+      "publicado_en_origen": "2015-01-12 22:08:05"
+    },
+    {
+      "id_origen": 26745,
+      "numero": 2,
+      "titulo": "Brothers Conflict OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75ad20f9c546aef9e9fcc21e08a8a3dd.jpg",
+      "url_origen": "https://jkanime.net/brothers-conflict-ova/2/",
+      "publicado_en_origen": "2015-02-14 21:55:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1432",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:21:47+00:00"
+}

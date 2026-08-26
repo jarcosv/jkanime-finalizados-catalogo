@@ -1,0 +1,45 @@
+{
+  "id_origen": 4705,
+  "slug": "yojouhan-shinwa-taikei-specials",
+  "titulo": "Yojouhan Shinwa Taikei Specials",
+  "titulo_corto": "Yojouhan Shinwa Taikei Special...",
+  "sinopsis": "Un estudiante universitario y sus amigos —Seitarou Higuchi, Akashi, Ozu y Ryouko Hanuki— comparten diversas historias sobre un submarino capaz de desplazarse por tierra, y cada uno intenta superar a los demás en cuanto a creatividad. Desde un viaje para detener el deshielo de los casquetes polares hasta una misión para impedir que los pervertidos espíen a las chicas, pasando por una excursión de pesca, ningún tema está prohibido.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yojouhan-shinwa-taikei-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yojouhan-shinwa-taikei-specials/",
+  "episodios": [
+    {
+      "id_origen": 72263,
+      "numero": 1,
+      "titulo": "Yojouhan Shinwa Taikei Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b9f1eb1adb1edffa7046b658590d5a3.jpg",
+      "url_origen": "https://jkanime.net/yojouhan-shinwa-taikei-specials/1/",
+      "publicado_en_origen": "2026-03-26 13:51:26"
+    },
+    {
+      "id_origen": 72264,
+      "numero": 2,
+      "titulo": "Yojouhan Shinwa Taikei Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d213acf1de935468747c80ff50c3330e.jpg",
+      "url_origen": "https://jkanime.net/yojouhan-shinwa-taikei-specials/2/",
+      "publicado_en_origen": "2026-03-26 13:51:26"
+    },
+    {
+      "id_origen": 72265,
+      "numero": 3,
+      "titulo": "Yojouhan Shinwa Taikei Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6687b9f3bab455c77b520fb4dcb8b873.jpg",
+      "url_origen": "https://jkanime.net/yojouhan-shinwa-taikei-specials/3/",
+      "publicado_en_origen": "2026-03-26 13:51:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4705",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:52:53+00:00"
+}

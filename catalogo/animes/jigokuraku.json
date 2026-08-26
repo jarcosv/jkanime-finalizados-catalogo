@@ -1,0 +1,125 @@
+{
+  "id_origen": 3329,
+  "slug": "jigokuraku",
+  "titulo": "Jigokuraku",
+  "titulo_corto": "Jigokuraku",
+  "sinopsis": "Gabimaru, el vacío, es un ninja del pueblo de Iwagakure. Luego de ser condenado a muerte, piensa que está harto de asesinar y del mundo de los ninjas, por lo cual acepta su destino. Pero hay algo en él que no le permite morir, y parece ser el vínculo con su esposa. Esto ocasiona que ninguna ejecución funcione y siga viviendo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/jigokuraku/",
+  "episodios": [
+    {
+      "id_origen": 52292,
+      "numero": 1,
+      "titulo": "Jigokuraku - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_417dc476ce977868dbbaddec957f87bf.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/1/",
+      "publicado_en_origen": "2023-04-01 12:55:01"
+    },
+    {
+      "id_origen": 52353,
+      "numero": 2,
+      "titulo": "Jigokuraku - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a44659df5c0214b6038ee1f7c82fa18.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/2/",
+      "publicado_en_origen": "2023-04-08 11:48:23"
+    },
+    {
+      "id_origen": 52431,
+      "numero": 3,
+      "titulo": "Jigokuraku - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b72b2eb32919af488178fcac4d87bd9.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/3/",
+      "publicado_en_origen": "2023-04-15 12:23:42"
+    },
+    {
+      "id_origen": 52510,
+      "numero": 4,
+      "titulo": "Jigokuraku - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3aee9ab37db24d9a689d86857ce2f336.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/4/",
+      "publicado_en_origen": "2023-04-22 11:54:54"
+    },
+    {
+      "id_origen": 52617,
+      "numero": 5,
+      "titulo": "Jigokuraku - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6d5dcfba026138a501d9c6afcd9b1b5.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/5/",
+      "publicado_en_origen": "2023-04-29 12:00:53"
+    },
+    {
+      "id_origen": 52695,
+      "numero": 6,
+      "titulo": "Jigokuraku - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5ae978cf8dcc07a045706cd39a7deb2.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/6/",
+      "publicado_en_origen": "2023-05-06 11:49:28"
+    },
+    {
+      "id_origen": 52754,
+      "numero": 7,
+      "titulo": "Jigokuraku - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa9b962fd23298f1b2d5892d2e3535e8.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/7/",
+      "publicado_en_origen": "2023-05-13 12:09:23"
+    },
+    {
+      "id_origen": 52844,
+      "numero": 8,
+      "titulo": "Jigokuraku - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12e9ff6174341e3ff45189e9b9603a8f.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/8/",
+      "publicado_en_origen": "2023-05-20 12:11:51"
+    },
+    {
+      "id_origen": 53000,
+      "numero": 9,
+      "titulo": "Jigokuraku - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7be89d1c20199aa0b4814ccda03a6f26.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/9/",
+      "publicado_en_origen": "2023-06-03 11:49:39"
+    },
+    {
+      "id_origen": 53077,
+      "numero": 10,
+      "titulo": "Jigokuraku - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7641edd3725d8cf4d92e728e0e1a2f6b.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/10/",
+      "publicado_en_origen": "2023-06-10 11:59:02"
+    },
+    {
+      "id_origen": 53141,
+      "numero": 11,
+      "titulo": "Jigokuraku - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_241fee02d517d350fd1685b1a8e2e122.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/11/",
+      "publicado_en_origen": "2023-06-17 12:40:58"
+    },
+    {
+      "id_origen": 53224,
+      "numero": 12,
+      "titulo": "Jigokuraku - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a356e2af11d8c1b09aa28d6ba37c0132.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/12/",
+      "publicado_en_origen": "2023-06-24 12:16:04"
+    },
+    {
+      "id_origen": 53276,
+      "numero": 13,
+      "titulo": "Jigokuraku - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7709b79c45b61acfb66b92adf1254fac.jpg",
+      "url_origen": "https://jkanime.net/jigokuraku/13/",
+      "publicado_en_origen": "2023-07-01 13:51:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3329",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:32:43+00:00"
+}

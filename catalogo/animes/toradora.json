@@ -1,0 +1,221 @@
+{
+  "id_origen": 126,
+  "slug": "toradora",
+  "titulo": "Toradora!",
+  "titulo_corto": "Toradora!",
+  "sinopsis": "Takasu Ryuuji comienza su segundo año de instituto con mucho animo. Sin embargo, hay una cosa que el odia, y es su mirada, heredada de su padre (un ganster), con lo cual posee una habilidad innata para intimidar a los demás, provocándole esto muchos malentendidos con sus compañeros, no obstante, todo esto va cambiar el primer día de clases, cuando Ryuuji tiene un encontronazo con Aisaka Taiga, la persona mas peligrosa del centro.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/toradora.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/toradora/",
+  "episodios": [
+    {
+      "id_origen": 2929,
+      "numero": 1,
+      "titulo": "Toradora 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a36b0dcd1e6384abc0e1867860ad3ee3.jpg",
+      "url_origen": "https://jkanime.net/toradora/1/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2930,
+      "numero": 2,
+      "titulo": "Toradora 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6624b6d8217cf71640993409df58204f.jpg",
+      "url_origen": "https://jkanime.net/toradora/2/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2931,
+      "numero": 3,
+      "titulo": "Toradora 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86c4ad52768c511046fea7b2d42b300c.jpg",
+      "url_origen": "https://jkanime.net/toradora/3/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2932,
+      "numero": 4,
+      "titulo": "Toradora 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c429429bf1f2af051f2021dc92a8ebea.jpg",
+      "url_origen": "https://jkanime.net/toradora/4/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2933,
+      "numero": 5,
+      "titulo": "Toradora 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25766f01628f3d34b93a36a2301dffc9.jpg",
+      "url_origen": "https://jkanime.net/toradora/5/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2934,
+      "numero": 6,
+      "titulo": "Toradora 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5dc126b503e374b0e08231344a7f493f.jpg",
+      "url_origen": "https://jkanime.net/toradora/6/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2935,
+      "numero": 7,
+      "titulo": "Toradora 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6617980ce90f637e68c3ebe8b9be745.jpg",
+      "url_origen": "https://jkanime.net/toradora/7/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2936,
+      "numero": 8,
+      "titulo": "Toradora 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec7f346604f518906d35ef0492709f78.jpg",
+      "url_origen": "https://jkanime.net/toradora/8/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2937,
+      "numero": 9,
+      "titulo": "Toradora 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fc687aa152e8199fe9e73304d407bca.jpg",
+      "url_origen": "https://jkanime.net/toradora/9/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2938,
+      "numero": 10,
+      "titulo": "Toradora 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42853a61b26fef79e2ae788d97356799.jpg",
+      "url_origen": "https://jkanime.net/toradora/10/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2939,
+      "numero": 11,
+      "titulo": "Toradora 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c990b7aca7bc7058f5e98ea909e924b.jpg",
+      "url_origen": "https://jkanime.net/toradora/11/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2940,
+      "numero": 12,
+      "titulo": "Toradora 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e930496927757aac0dbd2438cb3f4f6.jpg",
+      "url_origen": "https://jkanime.net/toradora/12/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2941,
+      "numero": 13,
+      "titulo": "Toradora 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b21cf96d4cf612f239a6c322b10c8fe.jpg",
+      "url_origen": "https://jkanime.net/toradora/13/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2942,
+      "numero": 14,
+      "titulo": "Toradora 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a0f97f81755e2878b264adf39cba68e.jpg",
+      "url_origen": "https://jkanime.net/toradora/14/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2943,
+      "numero": 15,
+      "titulo": "Toradora 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e82873a32b95af115de1c414a1849cb.jpg",
+      "url_origen": "https://jkanime.net/toradora/15/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2944,
+      "numero": 16,
+      "titulo": "Toradora 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c1c995b77ea7312f887ddd9f9d35de5.jpg",
+      "url_origen": "https://jkanime.net/toradora/16/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2945,
+      "numero": 17,
+      "titulo": "Toradora 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_892c3b1c6dccd52936e27cbd0ff683d6.jpg",
+      "url_origen": "https://jkanime.net/toradora/17/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2946,
+      "numero": 18,
+      "titulo": "Toradora 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9efe5f26cd17ba6216bbe2a7d26d490.jpg",
+      "url_origen": "https://jkanime.net/toradora/18/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2947,
+      "numero": 19,
+      "titulo": "Toradora 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad8e88c0f76fa4fc8e5474384142a00a.jpg",
+      "url_origen": "https://jkanime.net/toradora/19/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2948,
+      "numero": 20,
+      "titulo": "Toradora 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15c00b5250ddedaabc203b67f8b034fd.jpg",
+      "url_origen": "https://jkanime.net/toradora/20/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2949,
+      "numero": 21,
+      "titulo": "Toradora 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e07bceab69529b0f0b43625953fbf2a0.jpg",
+      "url_origen": "https://jkanime.net/toradora/21/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2950,
+      "numero": 22,
+      "titulo": "Toradora 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc4e356fee1972242c8f7eabf4dff517.jpg",
+      "url_origen": "https://jkanime.net/toradora/22/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2951,
+      "numero": 23,
+      "titulo": "Toradora 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02180771a9b609a26dcea07f272e141f.jpg",
+      "url_origen": "https://jkanime.net/toradora/23/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2952,
+      "numero": 24,
+      "titulo": "Toradora 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b79b52d1bf6f71b2b1eb7ca08ed0776.jpg",
+      "url_origen": "https://jkanime.net/toradora/24/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2953,
+      "numero": 25,
+      "titulo": "Toradora 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2f9247929b404b2fe98ba6f32301e3b.jpg",
+      "url_origen": "https://jkanime.net/toradora/25/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "126",
+  "cantidad_episodios_declarada": 25,
+  "detalle_extraido_en": "2026-08-26T18:49:58+00:00"
+}

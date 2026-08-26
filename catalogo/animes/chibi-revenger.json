@@ -1,0 +1,37 @@
+{
+  "id_origen": 2933,
+  "slug": "chibi-revenger",
+  "titulo": "Chibi Revenger",
+  "titulo_corto": "Chibi Revenger",
+  "sinopsis": "Mini capitulos para Tokyo Revengers lanzado en el canal oficial de YouTube del anime.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/chibi-revenger.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/chibi-revenger/",
+  "episodios": [
+    {
+      "id_origen": 46777,
+      "numero": 1,
+      "titulo": "Chibi Revenger - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3c80d6099f861d4199ca0372b9f96c3.jpg",
+      "url_origen": "https://jkanime.net/chibi-revenger/1/",
+      "publicado_en_origen": "2021-09-28 00:33:17"
+    },
+    {
+      "id_origen": 46778,
+      "numero": 2,
+      "titulo": "Chibi Revenger - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1080323abd122db8e79376998d29915.jpg",
+      "url_origen": "https://jkanime.net/chibi-revenger/2/",
+      "publicado_en_origen": "2021-09-28 00:33:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2933",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:23:26+00:00"
+}

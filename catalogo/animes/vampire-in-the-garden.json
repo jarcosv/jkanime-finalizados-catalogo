@@ -1,0 +1,61 @@
+{
+  "id_origen": 4444,
+  "slug": "vampire-in-the-garden",
+  "titulo": "Vampire in the Garden",
+  "titulo_corto": "Vampire in the Garden",
+  "sinopsis": "Hace mucho tiempo, durante un invierno, unos vampiros casi inmortales comenzaron a asolar el mundo. A medida que su población crecía a un ritmo vertiginoso, rápidamente desplazaron a la humanidad de su lugar en la cima de la cadena alimentaria. Desesperados por evitar la extinción, los humanos supervivientes se concentraron en su último refugio seguro: una pequeña ciudad rodeada por una enorme muralla. Allí, han librado una guerra contra los vampiros durante muchos años.\r\n\r\nEn medio de un ataque particularmente brutal de los vampiros, un soldado humano llamado Momo se encuentra con Fiine, la reina de sus enemigos. Después de verla intentar salvar al mejor amigo de Momo de un vampiro enfurecido, Momo sigue a Fiine hasta su casa. Allí, Momo conecta con Fiine gracias a su amor por la música y su deseo de escapar de la lucha.\r\n\r\nCon el objetivo de escapar, los dos deciden emprender un viaje hacia un supuesto paraíso donde conviven humanos y vampiros, a pesar de no estar seguros de su existencia. Sin embargo, Momo y Fiine son perseguidos por ambas razas, a las que primero deben evadir si quieren llegar sanos y salvos a su destino.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/vampire-in-the-garden.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/vampire-in-the-garden/",
+  "episodios": [
+    {
+      "id_origen": 68731,
+      "numero": 1,
+      "titulo": "Vampire in the Garden - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_800fe92904510e1028a9d5ba9dd6a374.jpg",
+      "url_origen": "https://jkanime.net/vampire-in-the-garden/1/",
+      "publicado_en_origen": "2025-11-14 13:35:55"
+    },
+    {
+      "id_origen": 68732,
+      "numero": 2,
+      "titulo": "Vampire in the Garden - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34e2aadc0c2437b7a4f9a15ed2f09916.jpg",
+      "url_origen": "https://jkanime.net/vampire-in-the-garden/2/",
+      "publicado_en_origen": "2025-11-14 13:35:55"
+    },
+    {
+      "id_origen": 68733,
+      "numero": 3,
+      "titulo": "Vampire in the Garden - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7a28d73ecd2dde74e6b19d9f102e261.jpg",
+      "url_origen": "https://jkanime.net/vampire-in-the-garden/3/",
+      "publicado_en_origen": "2025-11-14 13:35:55"
+    },
+    {
+      "id_origen": 68734,
+      "numero": 4,
+      "titulo": "Vampire in the Garden - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b1047a61e05ba89b85450ebf671d394.jpg",
+      "url_origen": "https://jkanime.net/vampire-in-the-garden/4/",
+      "publicado_en_origen": "2025-11-14 13:35:55"
+    },
+    {
+      "id_origen": 68735,
+      "numero": 5,
+      "titulo": "Vampire in the Garden - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6cd8ced7a8c0ace97727eca2d06aec04.jpg",
+      "url_origen": "https://jkanime.net/vampire-in-the-garden/5/",
+      "publicado_en_origen": "2025-11-14 13:35:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4444",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:51:27+00:00"
+}

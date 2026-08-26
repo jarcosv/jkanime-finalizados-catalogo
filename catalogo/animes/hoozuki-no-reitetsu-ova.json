@@ -1,0 +1,45 @@
+{
+  "id_origen": 1452,
+  "slug": "hoozuki-no-reitetsu-ova",
+  "titulo": "Hoozuki no Reitetsu OVA",
+  "titulo_corto": "Hoozuki no Reitetsu OVA",
+  "sinopsis": "Ovas incluidas en los volúmenes 17, 18 y 19 del manga de Hoozuki no Reitetsu",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hoozuki-no-reitetsu-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hoozuki-no-reitetsu-ova/",
+  "episodios": [
+    {
+      "id_origen": 26933,
+      "numero": 1,
+      "titulo": "Hoozuki no Reitetsu OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hoozuki-no-reitetsu-ova.jpg",
+      "url_origen": "https://jkanime.net/hoozuki-no-reitetsu-ova/1/",
+      "publicado_en_origen": "2015-02-28 20:34:42"
+    },
+    {
+      "id_origen": 27848,
+      "numero": 2,
+      "titulo": "Hoozuki no Reitetsu OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hoozuki-no-reitetsu-ova.jpg",
+      "url_origen": "https://jkanime.net/hoozuki-no-reitetsu-ova/2/",
+      "publicado_en_origen": "2015-05-23 20:12:19"
+    },
+    {
+      "id_origen": 29112,
+      "numero": 3,
+      "titulo": "Hoozuki no Reitetsu OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hoozuki-no-reitetsu-ova.jpg",
+      "url_origen": "https://jkanime.net/hoozuki-no-reitetsu-ova/3/",
+      "publicado_en_origen": "2015-08-25 15:44:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1452",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:31:02+00:00"
+}

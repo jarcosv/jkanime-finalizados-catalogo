@@ -1,0 +1,37 @@
+{
+  "id_origen": 1279,
+  "slug": "buddy-complex-kanketsu-hen-ano-sora-ni-kaeru-mirai-de",
+  "titulo": "Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de",
+  "titulo_corto": "Buddy Complex: Kanketsu-hen - ...",
+  "sinopsis": "Especiales de la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/buddy-complex-kanketsu-hen-ano-sora-ni-kaeru-mirai-de.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/buddy-complex-kanketsu-hen-ano-sora-ni-kaeru-mirai-de/",
+  "episodios": [
+    {
+      "id_origen": 24959,
+      "numero": 1,
+      "titulo": "Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18b8ea83d814103c4a8f379165ce9a62.jpg",
+      "url_origen": "https://jkanime.net/buddy-complex-kanketsu-hen-ano-sora-ni-kaeru-mirai-de/1/",
+      "publicado_en_origen": "2014-09-30 16:52:34"
+    },
+    {
+      "id_origen": 24960,
+      "numero": 2,
+      "titulo": "Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc7480c6c9ec68feeecfb06f99a87671.jpg",
+      "url_origen": "https://jkanime.net/buddy-complex-kanketsu-hen-ano-sora-ni-kaeru-mirai-de/2/",
+      "publicado_en_origen": "2014-09-30 17:03:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1279",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:21:59+00:00"
+}

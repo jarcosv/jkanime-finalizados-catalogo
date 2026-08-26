@@ -1,0 +1,125 @@
+{
+  "id_origen": 2820,
+  "slug": "mars-red",
+  "titulo": "Mars Red",
+  "titulo_corto": "Mars Red",
+  "sinopsis": "La historia tiene lugar en 1923, en un mundo donde los vampiros existen desde hace bastante tiempo. Pero ahora, el número de vampiros está aumentando y ha aparecido una misteriosa fuente de sangre artificial llamada Ascra.\n\nEl gobierno japonés, a su vez, crea «Code Zero», una unidad dentro del ejército encargada de acabar con las fuerzas vampíricas. ¿Y qué mejor manera de rastrear vampiros que usando vampiros?\nCreada por el teniente general Nakajima, estuvieron en el negocio de la guerra de informacióny ahora fueron reasignados para resolver la crisis de los vampiros.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mars-red.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mars-red/",
+  "episodios": [
+    {
+      "id_origen": 45114,
+      "numero": 1,
+      "titulo": "Mars Red - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b63f5641d0f58da69385e9bbbb990b1f.jpg",
+      "url_origen": "https://jkanime.net/mars-red/1/",
+      "publicado_en_origen": "2021-03-29 18:53:14"
+    },
+    {
+      "id_origen": 45224,
+      "numero": 2,
+      "titulo": "Mars Red - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a0fb29d64611422ab5d64382e355609.jpg",
+      "url_origen": "https://jkanime.net/mars-red/2/",
+      "publicado_en_origen": "2021-04-12 15:00:14"
+    },
+    {
+      "id_origen": 45282,
+      "numero": 3,
+      "titulo": "Mars Red - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41f68228d0fc3e3414dfabe7fc3631d0.jpg",
+      "url_origen": "https://jkanime.net/mars-red/3/",
+      "publicado_en_origen": "2021-04-19 15:09:53"
+    },
+    {
+      "id_origen": 45341,
+      "numero": 4,
+      "titulo": "Mars Red - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66a7bb0bfc7f4f952d518528c1c7e024.jpg",
+      "url_origen": "https://jkanime.net/mars-red/4/",
+      "publicado_en_origen": "2021-04-26 15:20:57"
+    },
+    {
+      "id_origen": 45403,
+      "numero": 5,
+      "titulo": "Mars Red - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8c577c366b0b60ae95bc61c604632d3.jpg",
+      "url_origen": "https://jkanime.net/mars-red/5/",
+      "publicado_en_origen": "2021-05-04 00:13:02"
+    },
+    {
+      "id_origen": 45463,
+      "numero": 6,
+      "titulo": "Mars Red - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0dacbbb65aed5d4ee2c067a456e7c0f2.jpg",
+      "url_origen": "https://jkanime.net/mars-red/6/",
+      "publicado_en_origen": "2021-05-10 16:32:02"
+    },
+    {
+      "id_origen": 45520,
+      "numero": 7,
+      "titulo": "Mars Red - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9c437a86fa76adcb53128bcd257330c.jpg",
+      "url_origen": "https://jkanime.net/mars-red/7/",
+      "publicado_en_origen": "2021-05-17 14:23:48"
+    },
+    {
+      "id_origen": 45577,
+      "numero": 8,
+      "titulo": "Mars Red - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d7c4eef1dced973a09ef65f62644579.jpg",
+      "url_origen": "https://jkanime.net/mars-red/8/",
+      "publicado_en_origen": "2021-05-24 15:34:26"
+    },
+    {
+      "id_origen": 45652,
+      "numero": 9,
+      "titulo": "Mars Red - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7dcf06698a343e7d4985689898cb8491.jpg",
+      "url_origen": "https://jkanime.net/mars-red/9/",
+      "publicado_en_origen": "2021-05-31 23:49:21"
+    },
+    {
+      "id_origen": 45712,
+      "numero": 10,
+      "titulo": "Mars Red - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aae09b34cb6484fb8ead6e5aaacfde0b.jpg",
+      "url_origen": "https://jkanime.net/mars-red/10/",
+      "publicado_en_origen": "2021-06-07 19:57:12"
+    },
+    {
+      "id_origen": 45780,
+      "numero": 11,
+      "titulo": "Mars Red - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7289106c3ebccb21877f9a50b697e761.jpg",
+      "url_origen": "https://jkanime.net/mars-red/11/",
+      "publicado_en_origen": "2021-06-14 14:22:45"
+    },
+    {
+      "id_origen": 45905,
+      "numero": 12,
+      "titulo": "Mars Red - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_303d834ae7ba59a8233f9b0bd60998fe.jpg",
+      "url_origen": "https://jkanime.net/mars-red/12/",
+      "publicado_en_origen": "2021-06-22 01:43:40"
+    },
+    {
+      "id_origen": 45970,
+      "numero": 13,
+      "titulo": "Mars Red - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_354d2e548144a9dfbfa8bd3dcbea79b1.jpg",
+      "url_origen": "https://jkanime.net/mars-red/13/",
+      "publicado_en_origen": "2021-06-28 14:29:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2820",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:37:59+00:00"
+}

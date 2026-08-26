@@ -1,0 +1,581 @@
+{
+  "id_origen": 131,
+  "slug": "sakura-card-captor",
+  "titulo": "Cardcaptor Sakura",
+  "titulo_corto": "Cardcaptor Sakura",
+  "sinopsis": "Sakura Kinomoto es una niña de 10 años que vive con su padre Fujitaka y su hermano Touya. La historia comienza cuando Sakura abre un extraño libro llamado The Clow y libera accidentalmente las cartas que este contenía, Sakura deberá pasar grandes apuros para sellar las cartas pero con ayuda de sus amigos Tomoyo, Shaoran y Kerberos vivirían grandes aventuras para lograr su objetivo, atrapar todas las cartas Clow.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sakura-card-captor.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sakura-card-captor/",
+  "episodios": [
+    {
+      "id_origen": 3009,
+      "numero": 1,
+      "titulo": "Sakura Card Captor 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee16fa83c0f151ef85e617f5aa3867a6.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/1/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3010,
+      "numero": 2,
+      "titulo": "Sakura Card Captor 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22722a343513ed45f14905eb07621686.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/2/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3011,
+      "numero": 3,
+      "titulo": "Sakura Card Captor 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1f62fa99de9f27a048344d55c5ef7a6.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/3/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3012,
+      "numero": 4,
+      "titulo": "Sakura Card Captor 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a01f0597ac4bdf35c24846734ee9a76.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/4/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3013,
+      "numero": 5,
+      "titulo": "Sakura Card Captor 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4110a1994471c595f7583ef1b74ba4cb.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/5/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3014,
+      "numero": 6,
+      "titulo": "Sakura Card Captor 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77edbe5f897a5dbcde49d31bec1537b8.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/6/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3015,
+      "numero": 7,
+      "titulo": "Sakura Card Captor 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51be2fed6c55f5aa0c16ff14c140b187.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/7/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3016,
+      "numero": 8,
+      "titulo": "Sakura Card Captor 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53a1320cb5d2f56130ad5222f93da374.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/8/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3017,
+      "numero": 9,
+      "titulo": "Sakura Card Captor 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_248024541dbda1d3fd75fe49d1a4df4d.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/9/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3018,
+      "numero": 10,
+      "titulo": "Sakura Card Captor 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a96a2c73c0d477ff2a6da3bf538f4f4.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/10/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3019,
+      "numero": 11,
+      "titulo": "Sakura Card Captor 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a74c3bae3e13616104c1b25f9da1f11f.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/11/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3020,
+      "numero": 12,
+      "titulo": "Sakura Card Captor 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4a93f0332b2519177ed55741ea4e5e7.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/12/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3021,
+      "numero": 13,
+      "titulo": "Sakura Card Captor 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cb9ed4f35cf7c2f295cc2bc6f732a84.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/13/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3022,
+      "numero": 14,
+      "titulo": "Sakura Card Captor 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8862fc1a32725712838863fb1a260b9.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/14/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3023,
+      "numero": 15,
+      "titulo": "Sakura Card Captor 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09d37c08f7b129e96277388757530c72.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/15/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3024,
+      "numero": 16,
+      "titulo": "Sakura Card Captor 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5522f7ac7cd76f19b396595c9c25b40.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/16/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3025,
+      "numero": 17,
+      "titulo": "Sakura Card Captor 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bd235c31c97855b7ef2dc8b414779af.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/17/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3026,
+      "numero": 18,
+      "titulo": "Sakura Card Captor 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0cdf61037d7053ca59347ab230818335.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/18/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3027,
+      "numero": 19,
+      "titulo": "Sakura Card Captor 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b922ede9c9eb9eabec1c1fecbdecb45d.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/19/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3028,
+      "numero": 20,
+      "titulo": "Sakura Card Captor 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7edfd52220e2032e7281061c82401195.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/20/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3029,
+      "numero": 21,
+      "titulo": "Sakura Card Captor 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0ba2648acd23dc7a5829968ce531a7d.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/21/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3030,
+      "numero": 22,
+      "titulo": "Sakura Card Captor 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d95666e2649fcfc6e3af75e09f5adb9.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/22/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3031,
+      "numero": 23,
+      "titulo": "Sakura Card Captor 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0cd60efb5578cd967c3c23894f305800.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/23/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3032,
+      "numero": 24,
+      "titulo": "Sakura Card Captor 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a56257ea05c74018291954fc56fc448.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/24/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3033,
+      "numero": 25,
+      "titulo": "Sakura Card Captor 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_272e11700558e27be60f7489d2d782e7.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/25/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3034,
+      "numero": 26,
+      "titulo": "Sakura Card Captor 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b66e8931c93da8c88a0a8b6dec62f9e.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/26/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3035,
+      "numero": 27,
+      "titulo": "Sakura Card Captor 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03bfc1d4783966c69cc6aef8247e0103.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/27/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3036,
+      "numero": 28,
+      "titulo": "Sakura Card Captor 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b86ca48d90bd5f0978afa3a012503a4.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/28/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3037,
+      "numero": 29,
+      "titulo": "Sakura Card Captor 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10ce03a1ed01077e3e289f3e53c72813.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/29/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3038,
+      "numero": 30,
+      "titulo": "Sakura Card Captor 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a92c274b8be496fb05d95033552eeddd.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/30/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3039,
+      "numero": 31,
+      "titulo": "Sakura Card Captor 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0204e1d3ee3e4b05de4e2ddbd39e076.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/31/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3040,
+      "numero": 32,
+      "titulo": "Sakura Card Captor 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9023effe3c16b0477df9b93e26d57e2c.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/32/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3041,
+      "numero": 33,
+      "titulo": "Sakura Card Captor 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9922f5774d88b203c4ec0fdd26616899.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/33/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3042,
+      "numero": 34,
+      "titulo": "Sakura Card Captor 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fd60983292458bf7dee75f12d5e9e05.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/34/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3043,
+      "numero": 35,
+      "titulo": "Sakura Card Captor 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc325d4b598aaede18b53dca4ecfcb9c.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/35/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3044,
+      "numero": 36,
+      "titulo": "Sakura Card Captor 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8af7d0fbf094517781e0382102d7b27.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/36/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3045,
+      "numero": 37,
+      "titulo": "Sakura Card Captor 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ebf197205c00fc6e0aac7261a8c1bdc.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/37/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3046,
+      "numero": 38,
+      "titulo": "Sakura Card Captor 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_975e6107778ce7a40b9878bfb96a16a7.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/38/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3047,
+      "numero": 39,
+      "titulo": "Sakura Card Captor 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e489b4966fe8f703b5be647f1cbae63.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/39/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3048,
+      "numero": 40,
+      "titulo": "Sakura Card Captor 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5da713a690c067105aeb2fae32403405.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/40/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3049,
+      "numero": 41,
+      "titulo": "Sakura Card Captor 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fa177df22864518b2d7818d4db5db2d.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/41/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3050,
+      "numero": 42,
+      "titulo": "Sakura Card Captor 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef72d53990bc4805684c9b61fa64a102.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/42/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3051,
+      "numero": 43,
+      "titulo": "Sakura Card Captor 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0b1d5879866f2c2eba77f39993d1184.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/43/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3052,
+      "numero": 44,
+      "titulo": "Sakura Card Captor 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1b70d965ca504aa751ddb62ad69c63f.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/44/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3053,
+      "numero": 45,
+      "titulo": "Sakura Card Captor 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_177540c7bcb8db31697b601642eac8d4.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/45/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3054,
+      "numero": 46,
+      "titulo": "Sakura Card Captor 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9b1655c134b831076d6c45620a78c33.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/46/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3055,
+      "numero": 47,
+      "titulo": "Sakura Card Captor 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2836be05e71a8f34902a6e6b37350134.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/47/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3056,
+      "numero": 48,
+      "titulo": "Sakura Card Captor 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc6e224a8d74ce03bf301152d6e33e97.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/48/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3057,
+      "numero": 49,
+      "titulo": "Sakura Card Captor 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1502ae5a4d514baec129f72948c266e.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/49/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3058,
+      "numero": 50,
+      "titulo": "Sakura Card Captor 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f5ee243547dee91fbd053c1c4a845aa.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/50/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3059,
+      "numero": 51,
+      "titulo": "Sakura Card Captor 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc431fd7ec4437de061c2577a4603995.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/51/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3060,
+      "numero": 52,
+      "titulo": "Sakura Card Captor 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a5c79b1eaf15445da252ada718857e9.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/52/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3061,
+      "numero": 53,
+      "titulo": "Sakura Card Captor 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4aa0e93b918848be0b7728b4b1568d8a.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/53/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3062,
+      "numero": 54,
+      "titulo": "Sakura Card Captor 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1aa057313c28fa4a40c5bc084b11d276.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/54/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3063,
+      "numero": 55,
+      "titulo": "Sakura Card Captor 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bd4b29a8e0afccd9923fe29cecb4b29.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/55/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3064,
+      "numero": 56,
+      "titulo": "Sakura Card Captor 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_494ba9ff03bdad881378a6fd4092a6c7.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/56/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3065,
+      "numero": 57,
+      "titulo": "Sakura Card Captor 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fec24eac8f18ed793f5eaad3dd7977c.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/57/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3066,
+      "numero": 58,
+      "titulo": "Sakura Card Captor 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8ab1a52f058358b947cdf8261b5e1a2.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/58/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3067,
+      "numero": 59,
+      "titulo": "Sakura Card Captor 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fedf67d6f3d7341c1c1e8a54774987d3.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/59/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3068,
+      "numero": 60,
+      "titulo": "Sakura Card Captor 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5496252609c43eb8a3d147ab9b9c006.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/60/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3069,
+      "numero": 61,
+      "titulo": "Sakura Card Captor 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bdb6920adcd0457aa17b53b22963dad9.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/61/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3070,
+      "numero": 62,
+      "titulo": "Sakura Card Captor 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb073f2855d769be5bf191f6378f7150.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/62/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3071,
+      "numero": 63,
+      "titulo": "Sakura Card Captor 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6917ff2a7b53421ff4066020e2d89eec.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/63/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3072,
+      "numero": 64,
+      "titulo": "Sakura Card Captor 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be767243ca8f574c740fb4c26cc6dceb.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/64/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3073,
+      "numero": 65,
+      "titulo": "Sakura Card Captor 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8cd63e1bf13c5016881652983fb615a.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/65/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3074,
+      "numero": 66,
+      "titulo": "Sakura Card Captor 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_639d79cc857a6c76c2723b7e014fccb0.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/66/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3075,
+      "numero": 67,
+      "titulo": "Sakura Card Captor 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2186aa7c086b46ad4e8bf81e2a3a19b.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/67/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3076,
+      "numero": 68,
+      "titulo": "Sakura Card Captor 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6e710870acb098e584277457ba89d68.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/68/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3077,
+      "numero": 69,
+      "titulo": "Sakura Card Captor 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_663fd3c5144fd10bd5ca6611a9a5b92d.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/69/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3078,
+      "numero": 70,
+      "titulo": "Sakura Card Captor 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1091660f3dff84fd648efe31391c5524.jpg",
+      "url_origen": "https://jkanime.net/sakura-card-captor/70/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "131",
+  "cantidad_episodios_declarada": 70,
+  "detalle_extraido_en": "2026-08-26T18:22:48+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 474,
+  "slug": "trigun-badlands-rumble",
+  "titulo": "Trigun: Badlands Rumble",
+  "titulo_corto": "Trigun: Badlands Rumble",
+  "sinopsis": "La historia empieza cuando el Alcalde de Macca contrata a varios caza-recompensas con el fin de proteger su pueblo de un famoso ladrón llamado Gasbag. De visita en el pueblo, Meryl y Milly se vuelven a encontrar con Vash, pero antes de un feliz reencuentro, la banda de Gasbag entra a Macca aunque se topará con Vash en su camino. Película basada en el manga original, si bien cuenta una historia completamente nueva que tampoco se narro en el anime.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-badlands-rumble.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/trigun-badlands-rumble/",
+  "episodios": [
+    {
+      "id_origen": 14288,
+      "numero": 1,
+      "titulo": "Trigun: Badlands Rumble",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9bd2d5f2fb6cea41198dc6a2f817331.jpg",
+      "url_origen": "https://jkanime.net/trigun-badlands-rumble/1/",
+      "publicado_en_origen": "2012-01-06 12:00:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "474",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:50:10+00:00"
+}

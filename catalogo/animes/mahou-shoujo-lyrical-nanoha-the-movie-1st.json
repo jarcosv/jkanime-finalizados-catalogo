@@ -1,0 +1,29 @@
+{
+  "id_origen": 1462,
+  "slug": "mahou-shoujo-lyrical-nanoha-the-movie-1st",
+  "titulo": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+  "titulo_corto": "Mahou Shoujo Lyrical Nanoha: T...",
+  "sinopsis": "Primera película de la serie Mahou Shoujo Lyrical Nanoha. La trama es una historia alternativa a como Fate y Nano-chan se conocieron en la primera temporada de la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mahou-shoujo-lyrical-nanoha-the-movie-1st.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mahou-shoujo-lyrical-nanoha-the-movie-1st/",
+  "episodios": [
+    {
+      "id_origen": 27127,
+      "numero": 1,
+      "titulo": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99687949804f7bd0a24a825122001657.jpg",
+      "url_origen": "https://jkanime.net/mahou-shoujo-lyrical-nanoha-the-movie-1st/1/",
+      "publicado_en_origen": "2015-03-17 16:56:14"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1462",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:37:20+00:00"
+}

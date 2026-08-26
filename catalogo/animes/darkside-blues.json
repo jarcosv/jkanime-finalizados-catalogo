@@ -1,0 +1,29 @@
+{
+  "id_origen": 4838,
+  "slug": "darkside-blues",
+  "titulo": "Darkside Blues",
+  "titulo_corto": "Darkside Blues",
+  "sinopsis": "En un futuro en el que una sola familia controla el 90% de la tierra seca del planeta, los humanos ordinarios son considerados parásitos sobre la superficie terrestre. La Corporación Persona Century tolera su presencia, pero controla la Tierra según se le antoja, masacrando poblaciones de una manera caprichosa y brutal, y castigando cualquier resistencia. La Corporación mantiene su control sin piedad gracias a la acción de asesinos, y ataques de alta precisión con satélites.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/darkside-blues.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/darkside-blues/",
+  "episodios": [
+    {
+      "id_origen": 74539,
+      "numero": 1,
+      "titulo": "Darkside Blues",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2f6e7578da35f8dd64f822facce75d3.jpg",
+      "url_origen": "https://jkanime.net/darkside-blues/1/",
+      "publicado_en_origen": "2026-06-20 03:08:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4838",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:31+00:00"
+}

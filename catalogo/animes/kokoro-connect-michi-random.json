@@ -1,0 +1,53 @@
+{
+  "id_origen": 737,
+  "slug": "kokoro-connect-michi-random",
+  "titulo": "Kokoro Connect: Michi Random",
+  "titulo_corto": "Kokoro Connect: Michi Random",
+  "sinopsis": "Después de haber pasado por todas estas extrañas situaciones, \"intercambio de cuerpos, explosión de emociones, cambio de edades\" provocados por un ser desconocido llamado Fusen Kazura, los chicos del club cultural han comenzado a llevarse de una mejor manera, en especial Iori Nagase, con todo lo sucedido, se siente muy agradecida con sus compañeros, en especial con Taichi, pero a todo esto se comienza a cuestionar ¿En verdad esta enamorada de él? o solo es un sentimiento de agradecimiento.\n\nCuatro episodios especiales validos como 14, 15, 16 y 17 de la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kokoro-connect-michi-random.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kokoro-connect-michi-random/",
+  "episodios": [
+    {
+      "id_origen": 18811,
+      "numero": 1,
+      "titulo": "Kokoro Connect: Michi Random - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed148e0621fd22140747d13da484ba01.jpg",
+      "url_origen": "https://jkanime.net/kokoro-connect-michi-random/1/",
+      "publicado_en_origen": "2013-01-01 04:57:08"
+    },
+    {
+      "id_origen": 18813,
+      "numero": 2,
+      "titulo": "Kokoro Connect: Michi Random - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c52ebd9ef5cdf82c4348a83b527159ec.jpg",
+      "url_origen": "https://jkanime.net/kokoro-connect-michi-random/2/",
+      "publicado_en_origen": "2013-01-01 19:49:44"
+    },
+    {
+      "id_origen": 18844,
+      "numero": 3,
+      "titulo": "Kokoro Connect: Michi Random - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_367afa16af963542400d7e21da891b75.jpg",
+      "url_origen": "https://jkanime.net/kokoro-connect-michi-random/3/",
+      "publicado_en_origen": "2013-01-02 18:52:58"
+    },
+    {
+      "id_origen": 18925,
+      "numero": 4,
+      "titulo": "Kokoro Connect: Michi Random - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90965ec7ae54eb64593144a456e89b14.jpg",
+      "url_origen": "https://jkanime.net/kokoro-connect-michi-random/4/",
+      "publicado_en_origen": "2013-01-03 18:58:56"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "737",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:35:23+00:00"
+}

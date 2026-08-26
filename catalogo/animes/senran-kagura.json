@@ -1,0 +1,117 @@
+{
+  "id_origen": 747,
+  "slug": "senran-kagura",
+  "titulo": "Senran Kagura",
+  "titulo_corto": "Senran Kagura",
+  "sinopsis": "Hubo un tiempo cuando existian poderosos ninjas, contratados para misiones de inteligencia, la destrucción, o de asesinato. Aunque los tiempos han cambiado, la necesidad de ninja no se ha desvanecido. \n\nEsta historia de valentía y amor trata sobre cinco chicas Asuka, Katsuragi, Hibari, Ikaruga, y Yagiyu de la Academia Nacional de Hanzo que se entrenan para convertirse en buenas ninjas y luchan por el bien del país en contra de los malos ninjas que son contratados por las empresas y los políticos corruptos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/senran-kagura.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/senran-kagura/",
+  "episodios": [
+    {
+      "id_origen": 18957,
+      "numero": 1,
+      "titulo": "Senran Kagura - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e68a92c68139afdaf68b12df5566715.jpg",
+      "url_origen": "https://jkanime.net/senran-kagura/1/",
+      "publicado_en_origen": "2013-01-07 20:05:40"
+    },
+    {
+      "id_origen": 19025,
+      "numero": 2,
+      "titulo": "Senran Kagura - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69ceed2a4ffe2ae23f8abf71d534a4bd.jpg",
+      "url_origen": "https://jkanime.net/senran-kagura/2/",
+      "publicado_en_origen": "2013-01-14 03:07:37"
+    },
+    {
+      "id_origen": 19120,
+      "numero": 3,
+      "titulo": "Senran Kagura - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c31de86411f643ec08e04b38ae397efc.jpg",
+      "url_origen": "https://jkanime.net/senran-kagura/3/",
+      "publicado_en_origen": "2013-01-21 01:01:48"
+    },
+    {
+      "id_origen": 19175,
+      "numero": 4,
+      "titulo": "Senran Kagura - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a31173d9cd5b13c2ecd3ec68b071c4a4.jpg",
+      "url_origen": "https://jkanime.net/senran-kagura/4/",
+      "publicado_en_origen": "2013-01-28 01:07:03"
+    },
+    {
+      "id_origen": 19245,
+      "numero": 5,
+      "titulo": "Senran Kagura - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98029e602042437f35d7def2c08472fa.jpg",
+      "url_origen": "https://jkanime.net/senran-kagura/5/",
+      "publicado_en_origen": "2013-02-04 01:01:28"
+    },
+    {
+      "id_origen": 19295,
+      "numero": 6,
+      "titulo": "Senran Kagura - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0104a01d56843d792960e61b15b82b75.jpg",
+      "url_origen": "https://jkanime.net/senran-kagura/6/",
+      "publicado_en_origen": "2013-02-11 01:07:14"
+    },
+    {
+      "id_origen": 19369,
+      "numero": 7,
+      "titulo": "Senran Kagura - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5b0663c1dad4751e0ce728f4a6cf9b5.jpg",
+      "url_origen": "https://jkanime.net/senran-kagura/7/",
+      "publicado_en_origen": "2013-02-18 01:26:55"
+    },
+    {
+      "id_origen": 19431,
+      "numero": 8,
+      "titulo": "Senran Kagura - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_908e9281295d180348ec77afe6be6b01.jpg",
+      "url_origen": "https://jkanime.net/senran-kagura/8/",
+      "publicado_en_origen": "2013-02-26 19:26:28"
+    },
+    {
+      "id_origen": 19474,
+      "numero": 9,
+      "titulo": "Senran Kagura - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ecccc0718eb6582398a6147ae61de59.jpg",
+      "url_origen": "https://jkanime.net/senran-kagura/9/",
+      "publicado_en_origen": "2013-03-04 23:02:01"
+    },
+    {
+      "id_origen": 19610,
+      "numero": 10,
+      "titulo": "Senran Kagura - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23caa86a7dadfef1317f9af86bd135e1.jpg",
+      "url_origen": "https://jkanime.net/senran-kagura/10/",
+      "publicado_en_origen": "2013-03-13 16:24:41"
+    },
+    {
+      "id_origen": 19844,
+      "numero": 11,
+      "titulo": "Senran Kagura - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27cda4b5a2118390de6130f52b961e28.jpg",
+      "url_origen": "https://jkanime.net/senran-kagura/11/",
+      "publicado_en_origen": "2013-03-23 19:15:29"
+    },
+    {
+      "id_origen": 19958,
+      "numero": 12,
+      "titulo": "Senran Kagura - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc7c79617ed7d3099c430855b20fe05e.jpg",
+      "url_origen": "https://jkanime.net/senran-kagura/12/",
+      "publicado_en_origen": "2013-03-25 18:13:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "747",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:45:39+00:00"
+}

@@ -1,0 +1,125 @@
+{
+  "id_origen": 480,
+  "slug": "new-prince-of-tennis",
+  "titulo": "New Prince of Tennis",
+  "titulo_corto": "New Prince of Tennis",
+  "sinopsis": "Continuación de la famosa serie Tennis no Oujisama o Prince of Tennis. Esta nueva historia transcurre luego de haber finalizado el Torneo el Nacional, donde Echizen Ryoma se había ido a Estados Unidos, pero es convocado desde Japón para formar una selección sub-17 para participar del torneo mundial de tennis.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/new-prince-of-tennis.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/new-prince-of-tennis/",
+  "episodios": [
+    {
+      "id_origen": 14438,
+      "numero": 1,
+      "titulo": "New Prince of Tennis - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f78a3fbff320d57c670af3fcdafebc7e.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/1/",
+      "publicado_en_origen": "2012-01-09 18:15:27"
+    },
+    {
+      "id_origen": 14529,
+      "numero": 2,
+      "titulo": "New Prince of Tennis - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99f042581ec361a54f21b725b69b76af.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/2/",
+      "publicado_en_origen": "2012-01-13 03:30:26"
+    },
+    {
+      "id_origen": 14580,
+      "numero": 3,
+      "titulo": "New Prince of Tennis - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_231eb5a29f502174b938f4bd140e19c6.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/3/",
+      "publicado_en_origen": "2012-01-25 03:24:28"
+    },
+    {
+      "id_origen": 14606,
+      "numero": 4,
+      "titulo": "New Prince of Tennis - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f803d26ce47b9f9de9af69e5b73e3d1.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/4/",
+      "publicado_en_origen": "2012-01-28 01:50:33"
+    },
+    {
+      "id_origen": 14636,
+      "numero": 5,
+      "titulo": "New Prince of Tennis - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5af1dfde10402285102771ad64b3dac.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/5/",
+      "publicado_en_origen": "2012-02-02 20:09:47"
+    },
+    {
+      "id_origen": 14784,
+      "numero": 6,
+      "titulo": "New Prince of Tennis - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02013105f0430de65b8b1408d52c84be.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/6/",
+      "publicado_en_origen": "2012-02-11 15:39:53"
+    },
+    {
+      "id_origen": 15043,
+      "numero": 7,
+      "titulo": "New Prince of Tennis - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20e169b48c8f869887e2bbe1c5c3ea65.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/7/",
+      "publicado_en_origen": "2012-02-16 02:35:56"
+    },
+    {
+      "id_origen": 15062,
+      "numero": 8,
+      "titulo": "New Prince of Tennis - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5215023c7e116864efd4f4965fe6b91.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/8/",
+      "publicado_en_origen": "2012-02-24 00:51:57"
+    },
+    {
+      "id_origen": 15103,
+      "numero": 9,
+      "titulo": "New Prince of Tennis - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3cdf7cabc49ea4612b126ae2a30ecbf.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/9/",
+      "publicado_en_origen": "2012-03-01 19:54:36"
+    },
+    {
+      "id_origen": 15140,
+      "numero": 10,
+      "titulo": "New Prince of Tennis - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee3bf295b9cf5a7ad4297868b069c91f.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/10/",
+      "publicado_en_origen": "2012-03-08 16:36:58"
+    },
+    {
+      "id_origen": 15218,
+      "numero": 11,
+      "titulo": "New Prince of Tennis - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f3ebe425120e7ee621966824bafee23.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/11/",
+      "publicado_en_origen": "2012-03-17 01:00:44"
+    },
+    {
+      "id_origen": 15238,
+      "numero": 12,
+      "titulo": "New Prince of Tennis - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e339e9f77caa07d6be8acfa2fceb178a.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/12/",
+      "publicado_en_origen": "2012-03-24 00:22:39"
+    },
+    {
+      "id_origen": 15264,
+      "numero": 13,
+      "titulo": "New Prince of Tennis - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce738adf821b780cfcde4100e633e51a.jpg",
+      "url_origen": "https://jkanime.net/new-prince-of-tennis/13/",
+      "publicado_en_origen": "2012-03-29 00:19:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "480",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:40:19+00:00"
+}

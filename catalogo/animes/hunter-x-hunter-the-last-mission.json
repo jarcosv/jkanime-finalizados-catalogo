@@ -1,0 +1,29 @@
+{
+  "id_origen": 1227,
+  "slug": "hunter-x-hunter-the-last-mission",
+  "titulo": "Hunter x Hunter: The Last Mission",
+  "titulo_corto": "Hunter x Hunter: The Last Miss...",
+  "sinopsis": "Narra la historia de los cazadores más fuertes de la asociación, divididos en “luz” y “oscuridad”.\n\nEl lado “oscuro” comienza a moverse con el fin de masacrar a todos los cazadores y Killua y Kurapika se ven envueltos en la violencia y sufren lesiones.\n\n¿Cuál es el oscuro secreto detrás de Netero, el más fuerte Nen-usuario y el presidente de la Asociación de Cazadores?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hunter-x-hunter-the-last-mission.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hunter-x-hunter-the-last-mission/",
+  "episodios": [
+    {
+      "id_origen": 24127,
+      "numero": 1,
+      "titulo": "The Last Mission",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_635b616c7d29a7c2a118dc59a578d053.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-the-last-mission/1/",
+      "publicado_en_origen": "2014-07-29 16:17:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1227",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:31:20+00:00"
+}

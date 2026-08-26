@@ -1,0 +1,125 @@
+{
+  "id_origen": 1897,
+  "slug": "nanbaka",
+  "titulo": "Nanbaka",
+  "titulo_corto": "Nanbaka",
+  "sinopsis": "Cuatro hombres son enviados a Nanba, la prisión más formidable del mundo. Jyugo es un joven que intentó escapar de prisión y su único resultado fue ampliar su estadía en ella. Uno es  un hombre al que le encanta apostar con mujeres. Rock vive para meterse en una pelea tras otra. Nico es... bueno, un aficionado al anime. Una comedia sobre la vida diaria de los presos de esta curiosa prisión y de los guardias que deben vigilarlos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nanbaka.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nanbaka/",
+  "episodios": [
+    {
+      "id_origen": 32949,
+      "numero": 1,
+      "titulo": "Nanbaka - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4d01b58c60ad589371b58b6f3a695b7.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/1/",
+      "publicado_en_origen": "2016-10-05 01:37:08"
+    },
+    {
+      "id_origen": 33018,
+      "numero": 2,
+      "titulo": "Nanbaka - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebf51cc89fabd1246021aa123704d1bd.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/2/",
+      "publicado_en_origen": "2016-10-11 18:10:19"
+    },
+    {
+      "id_origen": 33085,
+      "numero": 3,
+      "titulo": "Nanbaka - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b92e4945eb3a04990671a4da604ff17.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/3/",
+      "publicado_en_origen": "2016-10-18 18:10:39"
+    },
+    {
+      "id_origen": 33153,
+      "numero": 4,
+      "titulo": "Nanbaka - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e26566dffe850373e9a5121703034a1.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/4/",
+      "publicado_en_origen": "2016-10-25 18:13:29"
+    },
+    {
+      "id_origen": 33220,
+      "numero": 5,
+      "titulo": "Nanbaka - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a11da4581b3801a09326efe6cf2af23.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/5/",
+      "publicado_en_origen": "2016-11-01 18:15:07"
+    },
+    {
+      "id_origen": 33290,
+      "numero": 6,
+      "titulo": "Nanbaka - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0c9e160e327f8ab9224e62e57494e94.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/6/",
+      "publicado_en_origen": "2016-11-08 19:20:52"
+    },
+    {
+      "id_origen": 33359,
+      "numero": 7,
+      "titulo": "Nanbaka - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27d787a7cbec58381278c767399ec80d.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/7/",
+      "publicado_en_origen": "2016-11-15 19:21:26"
+    },
+    {
+      "id_origen": 33429,
+      "numero": 8,
+      "titulo": "Nanbaka - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96614fbb16c685125f0e274b3f6b8d8e.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/8/",
+      "publicado_en_origen": "2016-11-22 19:12:46"
+    },
+    {
+      "id_origen": 33499,
+      "numero": 9,
+      "titulo": "Nanbaka - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b9e3317e97a8e48fd98477d8d0f22e4.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/9/",
+      "publicado_en_origen": "2016-11-29 19:17:12"
+    },
+    {
+      "id_origen": 33572,
+      "numero": 10,
+      "titulo": "Nanbaka - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41220f414a6e40d921767181f83ae321.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/10/",
+      "publicado_en_origen": "2016-12-06 19:10:04"
+    },
+    {
+      "id_origen": 33643,
+      "numero": 11,
+      "titulo": "Nanbaka - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c378d1a05807d8cb9a0d28cd81e566d.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/11/",
+      "publicado_en_origen": "2016-12-13 19:12:40"
+    },
+    {
+      "id_origen": 33717,
+      "numero": 12,
+      "titulo": "Nanbaka - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af523c5d4c1038a5f074c4320af0ce78.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/12/",
+      "publicado_en_origen": "2016-12-20 19:10:42"
+    },
+    {
+      "id_origen": 33772,
+      "numero": 13,
+      "titulo": "Nanbaka - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec9933ff30188a72f8e5dcaf59124d45.jpg",
+      "url_origen": "https://jkanime.net/nanbaka/13/",
+      "publicado_en_origen": "2016-12-27 19:10:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1897",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:39:46+00:00"
+}

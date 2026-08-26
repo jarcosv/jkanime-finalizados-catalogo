@@ -1,0 +1,29 @@
+{
+  "id_origen": 1480,
+  "slug": "digimon-adventure-movie",
+  "titulo": "Digimon Adventure Movie",
+  "titulo_corto": "Digimon Adventure Movie",
+  "sinopsis": "Precuela de la serie. Cuatro años antes de que los Digielegidos viajaran al Digimundo ocurrió su primer encuentro con un Digimon. Taichi Yagami y su hermana Hikari encuentran un Digihuevo. De él nace Koromon, una criatura como nunca antes la habían visto",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-adventure-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/digimon-adventure-movie/",
+  "episodios": [
+    {
+      "id_origen": 27326,
+      "numero": 1,
+      "titulo": "Digimon Adventure Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50f5a0b224ddb1270e0f523c7efae216.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-movie/1/",
+      "publicado_en_origen": "2015-03-28 21:28:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1480",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:02+00:00"
+}

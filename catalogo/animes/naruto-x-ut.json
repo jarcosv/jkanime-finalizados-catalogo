@@ -1,0 +1,29 @@
+{
+  "id_origen": 4914,
+  "slug": "naruto-x-ut",
+  "titulo": "Naruto x UT",
+  "titulo_corto": "Naruto x UT",
+  "sinopsis": "El 1 de enero de 2011 se presentó una animación totalmente nueva en todas las tiendas de ropa de UNIQLO de Japón. El DVD contiene una versión exclusiva de «Mayonaka Orchestra», del grupo de rock japonés Aqua Timez. Se regaló un número limitado de estos DVD a quienes compraron las camisetas con motivos de Naruto de UNIQLO, tanto en la tienda online como en las tiendas físicas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/naruto-x-ut.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/naruto-x-ut/",
+  "episodios": [
+    {
+      "id_origen": 76401,
+      "numero": 1,
+      "titulo": "Naruto x UT",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2937b67ec202c07046c626feea7974c1.jpg",
+      "url_origen": "https://jkanime.net/naruto-x-ut/1/",
+      "publicado_en_origen": "2026-08-14 18:00:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4914",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:51+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1769,
+  "slug": "okusama-ga-seitokaichou-ova",
+  "titulo": "Okusama ga Seitokaichou! OVA",
+  "titulo_corto": "Okusama ga Seitokaichou! OVA",
+  "sinopsis": "Ova de Okusama ga Seitokaichou",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/okusama-ga-seitokaichou-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/okusama-ga-seitokaichou-ova/",
+  "episodios": [
+    {
+      "id_origen": 30693,
+      "numero": 1,
+      "titulo": "Okusama ga Seitokaichou! OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eca85870ec8b6d70a888d143988d8a4b.jpg",
+      "url_origen": "https://jkanime.net/okusama-ga-seitokaichou-ova/1/",
+      "publicado_en_origen": "2016-01-29 12:27:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1769",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:00+00:00"
+}

@@ -1,0 +1,229 @@
+{
+  "id_origen": 136,
+  "slug": "busou-renkin",
+  "titulo": "Busou Renkin",
+  "titulo_corto": "Busou Renkin",
+  "sinopsis": "Todo comienza cuando un estudiante de bachillerato, Kazuki Muto (武藤カズキ, Mutō Kazuki?) es asesinado al intentar salvar a una misteriosa chica que vestía un uniforme extraño, de un monstruo gigante. Aunque al despertar piensa que todo fue un sueño, pronto descubre que todo era cierto y que aquella chica lo revivió utilizando como reemplazo de su corazón un artefacto con poderes alquimicos llamada Kakugane. A partir de este momento Kazuki se involucra en el mundo de la alquimia y deberá decidir entre dejar ese recuerdo en el pasado o dedicar su vida a pelear contra las bestias devora-humanos llamadas homúnculos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/busou-renkin.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/busou-renkin/",
+  "episodios": [
+    {
+      "id_origen": 3342,
+      "numero": 1,
+      "titulo": "Busou Renkin 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14491b756b3a51daac41c24863285549.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/1/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3343,
+      "numero": 2,
+      "titulo": "Busou Renkin 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21c5bba1dd6aed9ab48c2b34c1a0adde.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/2/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3344,
+      "numero": 3,
+      "titulo": "Busou Renkin 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3083202a936b7d0ef8b680d7ae73fa1a.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/3/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3345,
+      "numero": 4,
+      "titulo": "Busou Renkin 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38a77aa456fc813af07bb428f2363c8d.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/4/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3346,
+      "numero": 5,
+      "titulo": "Busou Renkin 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0655f117444fc1911ab9c6f6b0139051.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/5/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3347,
+      "numero": 6,
+      "titulo": "Busou Renkin 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a04f965818a8533f5613003c7db243d.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/6/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3348,
+      "numero": 7,
+      "titulo": "Busou Renkin 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_333cb763facc6ce398ff83845f224d62.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/7/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3349,
+      "numero": 8,
+      "titulo": "Busou Renkin 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69f268fb2ba1068615b3219c6e8f57e8.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/8/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3350,
+      "numero": 9,
+      "titulo": "Busou Renkin 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7ee0d0d4d5ef995aae0fc691e6d840d.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/9/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3351,
+      "numero": 10,
+      "titulo": "Busou Renkin 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b6ace9e8971cf36f1782aa982a708db.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/10/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3352,
+      "numero": 11,
+      "titulo": "Busou Renkin 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0987b8b338d6c90bbedd8631bc499221.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/11/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3353,
+      "numero": 12,
+      "titulo": "Busou Renkin 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b9e7ab295e87570551db122a04c6f7c.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/12/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3354,
+      "numero": 13,
+      "titulo": "Busou Renkin 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2cd33e9c0236a8c2d8bd3fa91ad3acf.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/13/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3355,
+      "numero": 14,
+      "titulo": "Busou Renkin 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca793d8b79c1b6665cf109d6077a8277.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/14/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3356,
+      "numero": 15,
+      "titulo": "Busou Renkin 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a36b598abb934e4528412e5a2127b931.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/15/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3357,
+      "numero": 16,
+      "titulo": "Busou Renkin 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0cd6a652ed1f7811192db1f700c8f0e7.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/16/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3358,
+      "numero": 17,
+      "titulo": "Busou Renkin 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97108695bd93b6be52fa0334874c8722.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/17/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3359,
+      "numero": 18,
+      "titulo": "Busou Renkin 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82b0639a82d0cc70b8f5830fd2b06868.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/18/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3360,
+      "numero": 19,
+      "titulo": "Busou Renkin 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75df63609809c7a2052fdffe5c00a84e.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/19/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3361,
+      "numero": 20,
+      "titulo": "Busou Renkin 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d9766a69b764fefc12f56739424d136.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/20/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3362,
+      "numero": 21,
+      "titulo": "Busou Renkin 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39cd7b469beae7c617c73e0d008195ef.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/21/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3363,
+      "numero": 22,
+      "titulo": "Busou Renkin 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_664dd858db942cad06f24ff25df56716.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/22/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3364,
+      "numero": 23,
+      "titulo": "Busou Renkin 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a1ee9f2b7abe6e88d1a479ab6a42c5e.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/23/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3365,
+      "numero": 24,
+      "titulo": "Busou Renkin 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b445e314138101eecc58503e98aa2b2d.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/24/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3366,
+      "numero": 25,
+      "titulo": "Busou Renkin 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07f75d9144912970de5a09f5a305e10c.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/25/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3367,
+      "numero": 26,
+      "titulo": "Busou Renkin 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e7e05fa1026b0c5459267608ae320b8.jpg",
+      "url_origen": "https://jkanime.net/busou-renkin/26/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "136",
+  "cantidad_episodios_declarada": 26,
+  "detalle_extraido_en": "2026-08-26T18:22:17+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1453,
+  "slug": "mobile-suit-gundam-the-origin",
+  "titulo": "Mobile Suit Gundam: The Origin",
+  "titulo_corto": "Mobile Suit Gundam: The Origin",
+  "sinopsis": "Un pedido de independencia, marcará el camino hacia una cruel guerra. Esta es la historia de un hombre que marcó las semillas de la venganza y cuya existencia revolucionaría el mundo para siempre.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mobile-suit-gundam-the-origin.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mobile-suit-gundam-the-origin/",
+  "episodios": [
+    {
+      "id_origen": 26949,
+      "numero": 1,
+      "titulo": "Mobile Suit Gundam: The Origin - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e763927442a8dc6e0e4c4b064678082.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-the-origin/1/",
+      "publicado_en_origen": "2015-03-02 19:10:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1453",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:39:01+00:00"
+}

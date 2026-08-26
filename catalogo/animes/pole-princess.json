@@ -1,0 +1,77 @@
+{
+  "id_origen": 4025,
+  "slug": "pole-princess",
+  "titulo": "Pole Princess!!",
+  "titulo_corto": "Pole Princess!!",
+  "sinopsis": "La historia se centra en Hinano, una chica de 17 años muy normal y de modales suaves. Desde muy pequeña su abuela dirigía un planetario que a Hinano le encantaba, pero un día Hinano se enteró de que el planetario iba a cerrar. Hinano se preocupa por si hay algo que pueda hacer por su abuela y por el planetario, y por casualidad un día ve a una mujer bailando en un poste bajo un cielo estrellado. Reúne a sus amigas y juntas montan un escenario en el planetario para realizar espectáculos, y se lanzan al mundo del baile de la barra.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pole-princess.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pole-princess/",
+  "episodios": [
+    {
+      "id_origen": 62393,
+      "numero": 1,
+      "titulo": "Pole Princess!! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26c50a06c146e351e4d8a8c80d3d677c.jpg",
+      "url_origen": "https://jkanime.net/pole-princess/1/",
+      "publicado_en_origen": "2025-03-21 11:36:44"
+    },
+    {
+      "id_origen": 62461,
+      "numero": 2,
+      "titulo": "Pole Princess!! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d0fec074162b487ca24bbfb93eb9216.jpg",
+      "url_origen": "https://jkanime.net/pole-princess/2/",
+      "publicado_en_origen": "2025-03-26 17:11:23"
+    },
+    {
+      "id_origen": 62462,
+      "numero": 3,
+      "titulo": "Pole Princess!! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b1eecd9b7d8a04d85f76b0dec35d831.jpg",
+      "url_origen": "https://jkanime.net/pole-princess/3/",
+      "publicado_en_origen": "2025-03-26 17:11:26"
+    },
+    {
+      "id_origen": 62463,
+      "numero": 4,
+      "titulo": "Pole Princess!! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b348999528359e12f0890b99e9ce65a.jpg",
+      "url_origen": "https://jkanime.net/pole-princess/4/",
+      "publicado_en_origen": "2025-03-26 17:11:29"
+    },
+    {
+      "id_origen": 62464,
+      "numero": 5,
+      "titulo": "Pole Princess!! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee971061c259b3087d91dc611d09a02c.jpg",
+      "url_origen": "https://jkanime.net/pole-princess/5/",
+      "publicado_en_origen": "2025-03-26 17:11:33"
+    },
+    {
+      "id_origen": 62465,
+      "numero": 6,
+      "titulo": "Pole Princess!! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6aeb84c4be30f6f31c607565c68c8aa.jpg",
+      "url_origen": "https://jkanime.net/pole-princess/6/",
+      "publicado_en_origen": "2025-03-26 17:11:37"
+    },
+    {
+      "id_origen": 62466,
+      "numero": 7,
+      "titulo": "Pole Princess!! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_884802768b045aeacd00fd8c788d8788.jpg",
+      "url_origen": "https://jkanime.net/pole-princess/7/",
+      "publicado_en_origen": "2025-03-26 17:11:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4025",
+  "cantidad_episodios_declarada": 7,
+  "detalle_extraido_en": "2026-08-26T18:42:41+00:00"
+}

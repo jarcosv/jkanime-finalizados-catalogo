@@ -1,0 +1,69 @@
+{
+  "id_origen": 94,
+  "slug": "golden-boy",
+  "titulo": "Golden Boy",
+  "titulo_corto": "Golden Boy",
+  "sinopsis": "Golden Boy es una serie de anime que consta de 6 episodios, en los cuales se narran las aventuras de Kintaro Oe, un joven estudiante de derecho de 25 años que ha dejado la carrera porque ya ha aprendido todo lo que necesitaba de ella, y ahora recorre Japón en bicicleta, buscando nuevos trabajos que le ofrezcan cosas nuevas para aprender. Se encuentra basado en un manga de igual nombre por Tatsuya Egawa, fue publicado en la revista Super Jump y fue compilado en 10 volúmenes.  La serie fue producida por KSS Shueisha en 1995.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/golden-boy.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/golden-boy/",
+  "episodios": [
+    {
+      "id_origen": 2174,
+      "numero": 1,
+      "titulo": "Golden Boy 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1a21da7bca4abff8b0b61b87597de73.jpg",
+      "url_origen": "https://jkanime.net/golden-boy/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2175,
+      "numero": 2,
+      "titulo": "Golden Boy 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_211c1e0b83b9c69fa9c4bdede203c1e3.jpg",
+      "url_origen": "https://jkanime.net/golden-boy/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2176,
+      "numero": 3,
+      "titulo": "Golden Boy 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0234c510bc6d908b28c70ff313743079.jpg",
+      "url_origen": "https://jkanime.net/golden-boy/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2177,
+      "numero": 4,
+      "titulo": "Golden Boy 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb1662b7c5f22a0f905fd59e718ca05e.jpg",
+      "url_origen": "https://jkanime.net/golden-boy/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2178,
+      "numero": 5,
+      "titulo": "Golden Boy 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_169779d3852b32ce8b1a1724dbf5217d.jpg",
+      "url_origen": "https://jkanime.net/golden-boy/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2179,
+      "numero": 6,
+      "titulo": "Golden Boy 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12b1e42dc0746f22cf361267de07073f.jpg",
+      "url_origen": "https://jkanime.net/golden-boy/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "94",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:28:51+00:00"
+}

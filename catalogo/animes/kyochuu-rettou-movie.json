@@ -1,0 +1,29 @@
+{
+  "id_origen": 2594,
+  "slug": "kyochuu-rettou-movie",
+  "titulo": "Kyochuu Rettou Movie",
+  "titulo_corto": "Kyochuu Rettou Movie",
+  "sinopsis": "Después de un accidente aereo durante un viaje escolar, Oribe Mutsumi y sus compañeros de clase quedaron varados en una isla aparentemente desierta. Mutsumi encontró a los otros sobrevivientes y usó su conocimiento del desierto para ayudarlos. Ella espera que sean rescatados en unos tres días, lo que no parece durar tanto. Sin embargo, no tuvo en cuenta el hecho de que la isla está poblada de gigantescos insectos asesinos. ¡Su conocimiento de mariposas, avispas y más puede ser lo único que ayudará a cualquiera de sus compañeros de clase a sobrevivir para ser rescatados!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kyochuu-rettou-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kyochuu-rettou-movie/",
+  "episodios": [
+    {
+      "id_origen": 41892,
+      "numero": 1,
+      "titulo": "Kyochuu Rettou Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae6a88d9f6105ed901b89301924c0830.jpg",
+      "url_origen": "https://jkanime.net/kyochuu-rettou-movie/1/",
+      "publicado_en_origen": "2020-01-10 04:59:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2594",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:36:08+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 3309,
+  "slug": "isekai-meikyuu-de-harem-wo-specials",
+  "titulo": "Isekai Meikyuu de Harem wo Specials",
+  "titulo_corto": "Isekai Meikyuu de Harem wo Spe...",
+  "sinopsis": "Especiales de Isekai Meikyuu de Harem wo",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/isekai-meikyuu-de-harem-wo-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/isekai-meikyuu-de-harem-wo-specials/",
+  "episodios": [
+    {
+      "id_origen": 51478,
+      "numero": 1,
+      "titulo": "Isekai Meikyuu de Harem wo Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6cec3082e98e71d9803c6806b81f289.jpg",
+      "url_origen": "https://jkanime.net/isekai-meikyuu-de-harem-wo-specials/1/",
+      "publicado_en_origen": "2023-01-01 14:52:52"
+    },
+    {
+      "id_origen": 51479,
+      "numero": 2,
+      "titulo": "Isekai Meikyuu de Harem wo Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ecbf1657487eb856c033bedf2314e1f.jpg",
+      "url_origen": "https://jkanime.net/isekai-meikyuu-de-harem-wo-specials/2/",
+      "publicado_en_origen": "2023-01-01 14:52:56"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3309",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:32:09+00:00"
+}

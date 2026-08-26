@@ -1,0 +1,29 @@
+{
+  "id_origen": 1541,
+  "slug": "shigatsu-wa-kimi-no-uso-ova",
+  "titulo": "Shigatsu wa Kimi no Uso: Moments",
+  "titulo_corto": "Shigatsu wa Kimi no Uso: Momen...",
+  "sinopsis": "OVA incluída en el volumen 11 del manga de Shigatsu wa Kimi no Uso",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shigatsu-wa-kimi-no-uso-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shigatsu-wa-kimi-no-uso-ova/",
+  "episodios": [
+    {
+      "id_origen": 27761,
+      "numero": 1,
+      "titulo": "Shigatsu wa Kimi no Uso OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1cc779e26f87a95b93365c0dbcf48b1.jpg",
+      "url_origen": "https://jkanime.net/shigatsu-wa-kimi-no-uso-ova/1/",
+      "publicado_en_origen": "2015-05-15 13:03:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1541",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:46:06+00:00"
+}

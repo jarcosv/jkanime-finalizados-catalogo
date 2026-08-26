@@ -1,0 +1,813 @@
+{
+  "id_origen": 859,
+  "slug": "uchuu-kyoudai",
+  "titulo": "Uchuu Kyoudai",
+  "titulo_corto": "Uchuu Kyoudai",
+  "sinopsis": "Historia de vida de dos hermanos: Mutta y Hibito, que tras creer ver en su infancia un OVNI yendo a la Luna deciden convertirse en astronautas. Sin embargo, las vicisitudes de la vida les tienen preparados caminos diferentes: Hibito decide seguir su sueño de la infancia de ser astronauta e incluso llega a ser asignado a una mision a la Luna pero Mutta termina trabajando en una empresa automovilística y por una pelea con el jefe acaba siendo echado y puesto en la lista negra laboral. Ante esta situacion, Mutta, se replantea el volver a persegur el sueño de la infancia e ir a la luna con su hermano Hibito.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/uchuu-kyoudai.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/uchuu-kyoudai/",
+  "episodios": [
+    {
+      "id_origen": 20712,
+      "numero": 1,
+      "titulo": "Uchuu Kyoudai - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad5f62c098365f66924cff609e9d2fa1.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/1/",
+      "publicado_en_origen": "2013-06-26 04:21:31"
+    },
+    {
+      "id_origen": 20713,
+      "numero": 2,
+      "titulo": "Uchuu Kyoudai - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7dc8392b70ca7379b1e2daea1709162.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/2/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20714,
+      "numero": 3,
+      "titulo": "Uchuu Kyoudai - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07e11194ae0cf612a6d02dfddca524bd.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/3/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20715,
+      "numero": 4,
+      "titulo": "Uchuu Kyoudai - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7269551457062ac80044ae5e0fb1b882.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/4/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20716,
+      "numero": 5,
+      "titulo": "Uchuu Kyoudai - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b3909f00d45451966f2fdc01cdcc610.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/5/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20717,
+      "numero": 6,
+      "titulo": "Uchuu Kyoudai - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85410779053820c804ddc69ae4a48d9d.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/6/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20718,
+      "numero": 7,
+      "titulo": "Uchuu Kyoudai - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76e29a9f2d8037429c360bdefcca0f57.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/7/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20719,
+      "numero": 8,
+      "titulo": "Uchuu Kyoudai - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68f7706048943bb1314c6cf8e18a99e4.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/8/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20720,
+      "numero": 9,
+      "titulo": "Uchuu Kyoudai - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_053c837dca3a5636ad1c9bccd6af3415.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/9/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20721,
+      "numero": 10,
+      "titulo": "Uchuu Kyoudai - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1cc1fab198176208789cf94b71412dc8.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/10/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20722,
+      "numero": 11,
+      "titulo": "Uchuu Kyoudai - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8b195466d4f833578d5ee14a9a3c5b8.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/11/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20723,
+      "numero": 12,
+      "titulo": "Uchuu Kyoudai - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_186ba2b5d093634fd7a873faea7e41ba.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/12/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20724,
+      "numero": 13,
+      "titulo": "Uchuu Kyoudai - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2f83c409ce63012229fb9cd465bdcfe.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/13/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20725,
+      "numero": 14,
+      "titulo": "Uchuu Kyoudai - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94fa408dabe453246eb240f198322336.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/14/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20726,
+      "numero": 15,
+      "titulo": "Uchuu Kyoudai - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89b3f18cd4609f9af4d1aa05a3df378e.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/15/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20727,
+      "numero": 16,
+      "titulo": "Uchuu Kyoudai - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d9814b5207f1d3ff1d50bc3a89ac9b3.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/16/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20728,
+      "numero": 17,
+      "titulo": "Uchuu Kyoudai - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81bea31a79deb32965455a1e507c944f.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/17/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20729,
+      "numero": 18,
+      "titulo": "Uchuu Kyoudai - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8596dd1dc67d1200fe0606146fcee1a4.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/18/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20730,
+      "numero": 19,
+      "titulo": "Uchuu Kyoudai - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37c9c9e3401bacdf3fb42cb447dadb4b.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/19/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20731,
+      "numero": 20,
+      "titulo": "Uchuu Kyoudai - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e06015c0688508d35fc02b0434cb7ce9.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/20/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20732,
+      "numero": 21,
+      "titulo": "Uchuu Kyoudai - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d56184285e24d57eebb9540ac92d8cbf.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/21/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20733,
+      "numero": 22,
+      "titulo": "Uchuu Kyoudai - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67eb5e92661b494826add1d403863257.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/22/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20734,
+      "numero": 23,
+      "titulo": "Uchuu Kyoudai - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fa19a98316222ab4bcac1af0412e2ab.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/23/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20735,
+      "numero": 24,
+      "titulo": "Uchuu Kyoudai - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_659c836a3fdfcb380e8608d2241f5523.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/24/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20736,
+      "numero": 25,
+      "titulo": "Uchuu Kyoudai - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e75108d621ee19656f7c6e6454e840e0.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/25/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20737,
+      "numero": 26,
+      "titulo": "Uchuu Kyoudai - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd90b9ce1c34dd19e6a634a162ad65c8.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/26/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20738,
+      "numero": 27,
+      "titulo": "Uchuu Kyoudai - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0c082bdcbcf050ff454698580c89289.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/27/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20739,
+      "numero": 28,
+      "titulo": "Uchuu Kyoudai - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d50b2d3afe5ec033d560dd1318b2707b.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/28/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20740,
+      "numero": 29,
+      "titulo": "Uchuu Kyoudai - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9952cb25b58c5f4832396abf2bcfd66d.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/29/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20741,
+      "numero": 30,
+      "titulo": "Uchuu Kyoudai - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff41e552dba792c96fcafeb701076aed.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/30/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20742,
+      "numero": 31,
+      "titulo": "Uchuu Kyoudai - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc7b572c63f97ab8e2f9cc309152492d.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/31/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20743,
+      "numero": 32,
+      "titulo": "Uchuu Kyoudai - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac1195357ddafa8192abdf6fb2dde004.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/32/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20744,
+      "numero": 33,
+      "titulo": "Uchuu Kyoudai - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9379ffb164c5becfb0a55e1c0c2f6d37.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/33/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20745,
+      "numero": 34,
+      "titulo": "Uchuu Kyoudai - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8884e9c752930207aeea09cc88b3988.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/34/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20746,
+      "numero": 35,
+      "titulo": "Uchuu Kyoudai - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1bc7f81bdba1b65aca9d6d1592b41ad.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/35/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20747,
+      "numero": 36,
+      "titulo": "Uchuu Kyoudai - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8e13fb2d666b3ef456839ea878a0ab8.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/36/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20748,
+      "numero": 37,
+      "titulo": "Uchuu Kyoudai - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4f700c81022c855e0041af836222bb4.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/37/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20749,
+      "numero": 38,
+      "titulo": "Uchuu Kyoudai - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21c1f9ec2efafedf9e2bd429875471c0.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/38/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20750,
+      "numero": 39,
+      "titulo": "Uchuu Kyoudai - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f291776879b343afce967d7e3412370.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/39/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20751,
+      "numero": 40,
+      "titulo": "Uchuu Kyoudai - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53d1de246afd1e5bad259d797cca3950.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/40/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20752,
+      "numero": 41,
+      "titulo": "Uchuu Kyoudai - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c947c73def1af5e6a675c4c06f2fbd79.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/41/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20753,
+      "numero": 42,
+      "titulo": "Uchuu Kyoudai - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7eb2f7efc0b9679fb3d5058fa669b8b0.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/42/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20754,
+      "numero": 43,
+      "titulo": "Uchuu Kyoudai - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0727459d2e79f13a818513aee75a1f90.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/43/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20755,
+      "numero": 44,
+      "titulo": "Uchuu Kyoudai - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33c14ab38a8923e563e17b79e41693ba.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/44/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20756,
+      "numero": 45,
+      "titulo": "Uchuu Kyoudai - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_437e145bbba6a3161bad315417f3c583.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/45/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20757,
+      "numero": 46,
+      "titulo": "Uchuu Kyoudai - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd11e7c410ebb6a55ff6a892fb69cfcc.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/46/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20758,
+      "numero": 47,
+      "titulo": "Uchuu Kyoudai - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_357429c78239304d194f517cde4ad439.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/47/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20759,
+      "numero": 48,
+      "titulo": "Uchuu Kyoudai - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c310688b6d82ca7ea9c1889ccc3416ee.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/48/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20760,
+      "numero": 49,
+      "titulo": "Uchuu Kyoudai - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eddad051a15adadc20c85a7b1b455fa1.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/49/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20761,
+      "numero": 50,
+      "titulo": "Uchuu Kyoudai - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92c2425736b1065fa04616737b9e41b5.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/50/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20762,
+      "numero": 51,
+      "titulo": "Uchuu Kyoudai - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_097a50cc176aaa176878e315f72fde85.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/51/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20763,
+      "numero": 52,
+      "titulo": "Uchuu Kyoudai - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7f5d38aaa4e8a553f49c085ee06bb15.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/52/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20764,
+      "numero": 53,
+      "titulo": "Uchuu Kyoudai - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6eb2d5d425df0c00ac300bdc04305cb2.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/53/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20765,
+      "numero": 54,
+      "titulo": "Uchuu Kyoudai - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbd7ac6e006db321fd81a10586907434.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/54/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20766,
+      "numero": 55,
+      "titulo": "Uchuu Kyoudai - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b849ffdb908682b466a7154d74da7bf.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/55/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20767,
+      "numero": 56,
+      "titulo": "Uchuu Kyoudai - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2fca89aef2c792cb67c316a669ffe591.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/56/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20768,
+      "numero": 57,
+      "titulo": "Uchuu Kyoudai - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ceadc8a6adc7928cbf91a70f4e2b1217.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/57/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20769,
+      "numero": 58,
+      "titulo": "Uchuu Kyoudai - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90058a744530b3ef0b89a4c02aee626c.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/58/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20770,
+      "numero": 59,
+      "titulo": "Uchuu Kyoudai - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54eaab91a094a64b34a6a5ef6b804073.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/59/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20771,
+      "numero": 60,
+      "titulo": "Uchuu Kyoudai - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20fb49a2d6f77791a00d75ab23463426.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/60/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20772,
+      "numero": 61,
+      "titulo": "Uchuu Kyoudai - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1820c4b6fcbf5be5758bffe24c41fa6a.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/61/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20773,
+      "numero": 62,
+      "titulo": "Uchuu Kyoudai - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d40c4d766944f12591f840c4d72d7ac.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/62/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20774,
+      "numero": 63,
+      "titulo": "Uchuu Kyoudai - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c478e3e969526ec51b21a73d17658c5d.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/63/",
+      "publicado_en_origen": "2013-06-26 04:21:32"
+    },
+    {
+      "id_origen": 20933,
+      "numero": 64,
+      "titulo": "Uchuu Kyoudai - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ecb6468735bde11b1d125b787158088.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/64/",
+      "publicado_en_origen": "2013-06-29 14:06:59"
+    },
+    {
+      "id_origen": 21060,
+      "numero": 65,
+      "titulo": "Uchuu Kyoudai - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_416b9feb0ec119ee3914f27ceda31d79.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/65/",
+      "publicado_en_origen": "2013-07-13 09:38:55"
+    },
+    {
+      "id_origen": 21111,
+      "numero": 66,
+      "titulo": "Uchuu Kyoudai - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71ecf3a12729ba438d057df53c82a1ca.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/66/",
+      "publicado_en_origen": "2013-07-20 09:50:01"
+    },
+    {
+      "id_origen": 21157,
+      "numero": 67,
+      "titulo": "Uchuu Kyoudai - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc86a04784d3b4db1caa62ec47afa3cd.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/67/",
+      "publicado_en_origen": "2013-07-27 09:39:19"
+    },
+    {
+      "id_origen": 21200,
+      "numero": 68,
+      "titulo": "Uchuu Kyoudai - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50a505acfcdc52e6e704164f1d65b474.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/68/",
+      "publicado_en_origen": "2013-08-03 12:08:45"
+    },
+    {
+      "id_origen": 21248,
+      "numero": 69,
+      "titulo": "Uchuu Kyoudai - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8719842648c05533160cb28de3df4aa.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/69/",
+      "publicado_en_origen": "2013-08-10 09:57:45"
+    },
+    {
+      "id_origen": 21295,
+      "numero": 70,
+      "titulo": "Uchuu Kyoudai - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d71e13c019d57342db713bfbd1de0318.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/70/",
+      "publicado_en_origen": "2013-08-17 09:46:29"
+    },
+    {
+      "id_origen": 21390,
+      "numero": 71,
+      "titulo": "Uchuu Kyoudai - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_adf21078378b5c29d76423f457256e9d.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/71/",
+      "publicado_en_origen": "2013-08-31 09:41:37"
+    },
+    {
+      "id_origen": 21442,
+      "numero": 72,
+      "titulo": "Uchuu Kyoudai - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfaa2ace1082af90074d02006690ddb2.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/72/",
+      "publicado_en_origen": "2013-09-07 09:44:46"
+    },
+    {
+      "id_origen": 21488,
+      "numero": 73,
+      "titulo": "Uchuu Kyoudai - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c38890c0ec1120a65a3e67057936baf.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/73/",
+      "publicado_en_origen": "2013-09-14 09:41:43"
+    },
+    {
+      "id_origen": 21532,
+      "numero": 74,
+      "titulo": "Uchuu Kyoudai - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cfdd7664327131b75c1624c2ac72456.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/74/",
+      "publicado_en_origen": "2013-09-21 09:42:54"
+    },
+    {
+      "id_origen": 21573,
+      "numero": 75,
+      "titulo": "Uchuu Kyoudai - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d24e41365a27a6ce4c4b46a5b539f5cb.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/75/",
+      "publicado_en_origen": "2013-09-28 09:38:57"
+    },
+    {
+      "id_origen": 21665,
+      "numero": 76,
+      "titulo": "Uchuu Kyoudai - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b3283db416902b9c8912bc05b9fee78.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/76/",
+      "publicado_en_origen": "2013-10-05 09:37:45"
+    },
+    {
+      "id_origen": 21718,
+      "numero": 77,
+      "titulo": "Uchuu Kyoudai - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d88763f1847f6cefc78c651ecc42cdf.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/77/",
+      "publicado_en_origen": "2013-10-12 09:37:27"
+    },
+    {
+      "id_origen": 21771,
+      "numero": 78,
+      "titulo": "Uchuu Kyoudai - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69a278df0e948bfa4fdfcfcbda822c73.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/78/",
+      "publicado_en_origen": "2013-10-19 09:54:09"
+    },
+    {
+      "id_origen": 21824,
+      "numero": 79,
+      "titulo": "Uchuu Kyoudai - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48016f549dbc03c0e12190363e687c27.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/79/",
+      "publicado_en_origen": "2013-10-26 09:43:19"
+    },
+    {
+      "id_origen": 21875,
+      "numero": 80,
+      "titulo": "Uchuu Kyoudai - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4849ef4e3811c4b64c2029b7f6f67139.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/80/",
+      "publicado_en_origen": "2013-11-02 09:39:41"
+    },
+    {
+      "id_origen": 21926,
+      "numero": 81,
+      "titulo": "Uchuu Kyoudai - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa1a0b81305f12fce0e4946825c8cc7e.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/81/",
+      "publicado_en_origen": "2013-11-09 10:36:32"
+    },
+    {
+      "id_origen": 21977,
+      "numero": 82,
+      "titulo": "Uchuu Kyoudai - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db2d1bc7f17a3a44b4f1cb9075f6899c.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/82/",
+      "publicado_en_origen": "2013-11-16 10:36:15"
+    },
+    {
+      "id_origen": 22029,
+      "numero": 83,
+      "titulo": "Uchuu Kyoudai - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69930733ad15478fdd5332faf5a3a662.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/83/",
+      "publicado_en_origen": "2013-11-23 10:39:07"
+    },
+    {
+      "id_origen": 22081,
+      "numero": 84,
+      "titulo": "Uchuu Kyoudai - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74db80486179f9e43bed14f2d28c70a8.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/84/",
+      "publicado_en_origen": "2013-11-30 10:36:58"
+    },
+    {
+      "id_origen": 22132,
+      "numero": 85,
+      "titulo": "Uchuu Kyoudai - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f9caf93105becc0a30fd4e263bd7e15.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/85/",
+      "publicado_en_origen": "2013-12-07 10:42:26"
+    },
+    {
+      "id_origen": 22189,
+      "numero": 86,
+      "titulo": "Uchuu Kyoudai - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56f1b96157df1253ea41c196857b19f5.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/86/",
+      "publicado_en_origen": "2013-12-14 10:37:12"
+    },
+    {
+      "id_origen": 22251,
+      "numero": 87,
+      "titulo": "Uchuu Kyoudai - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15afc188f8076174422928d12c1831ad.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/87/",
+      "publicado_en_origen": "2013-12-21 10:37:45"
+    },
+    {
+      "id_origen": 22354,
+      "numero": 88,
+      "titulo": "Uchuu Kyoudai - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba0d287efe0f3236fb8e30cf8c42df98.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/88/",
+      "publicado_en_origen": "2014-01-04 10:39:47"
+    },
+    {
+      "id_origen": 22406,
+      "numero": 89,
+      "titulo": "Uchuu Kyoudai - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab1062ab25eb85eb767d2d376dec519e.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/89/",
+      "publicado_en_origen": "2014-01-11 10:41:36"
+    },
+    {
+      "id_origen": 22467,
+      "numero": 90,
+      "titulo": "Uchuu Kyoudai - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97f67c8e02f425f6a608e1a8717eb738.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/90/",
+      "publicado_en_origen": "2014-01-18 10:38:24"
+    },
+    {
+      "id_origen": 22524,
+      "numero": 91,
+      "titulo": "Uchuu Kyoudai - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e59c5d1cdd26cf09c95106c59ddfa9e.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/91/",
+      "publicado_en_origen": "2014-01-25 10:37:50"
+    },
+    {
+      "id_origen": 22586,
+      "numero": 92,
+      "titulo": "Uchuu Kyoudai - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_477b047835877f0cb70b5a6f97a8e8d1.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/92/",
+      "publicado_en_origen": "2014-02-01 10:36:01"
+    },
+    {
+      "id_origen": 22646,
+      "numero": 93,
+      "titulo": "Uchuu Kyoudai - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4740fcb3becc721b7ac9723ecab727ea.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/93/",
+      "publicado_en_origen": "2014-02-08 10:39:04"
+    },
+    {
+      "id_origen": 22716,
+      "numero": 94,
+      "titulo": "Uchuu Kyoudai - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_430c6d15a514356985370639219d6814.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/94/",
+      "publicado_en_origen": "2014-02-15 10:38:42"
+    },
+    {
+      "id_origen": 22774,
+      "numero": 95,
+      "titulo": "Uchuu Kyoudai - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b42a80c01d9b3bb5bb385d4fba81a0c5.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/95/",
+      "publicado_en_origen": "2014-02-22 10:36:23"
+    },
+    {
+      "id_origen": 22838,
+      "numero": 96,
+      "titulo": "Uchuu Kyoudai - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9782c50d0c747e4c0be05fc786a7709c.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/96/",
+      "publicado_en_origen": "2014-03-01 10:38:02"
+    },
+    {
+      "id_origen": 22899,
+      "numero": 97,
+      "titulo": "Uchuu Kyoudai - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3d69d6cb156570e7116785863dcdddd.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/97/",
+      "publicado_en_origen": "2014-03-08 10:43:10"
+    },
+    {
+      "id_origen": 22961,
+      "numero": 98,
+      "titulo": "Uchuu Kyoudai - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe87868f12f0555a133f616eabd8c721.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/98/",
+      "publicado_en_origen": "2014-03-15 10:54:53"
+    },
+    {
+      "id_origen": 23038,
+      "numero": 99,
+      "titulo": "Uchuu Kyoudai - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65d21a7a6d0b2a830a6984823f17d4ce.jpg",
+      "url_origen": "https://jkanime.net/uchuu-kyoudai/99/",
+      "publicado_en_origen": "2014-03-22 09:38:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "859",
+  "cantidad_episodios_declarada": 99,
+  "detalle_extraido_en": "2026-08-26T18:51:00+00:00"
+}

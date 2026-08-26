@@ -1,0 +1,29 @@
+{
+  "id_origen": 1894,
+  "slug": "sakamoto-desu-ga-special",
+  "titulo": "Sakamoto desu ga? Special",
+  "titulo_corto": "Sakamoto desu ga? Special",
+  "sinopsis": "¿Cómo sería una película de Sakamoto creada por sus compañeros de clase? ¡Descúbranlo en este divertido episodio!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sakamoto-desu-ga-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sakamoto-desu-ga-special/",
+  "episodios": [
+    {
+      "id_origen": 32889,
+      "numero": 1,
+      "titulo": "Sakamoto desu ga? Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2ac4719d4a78e94ed5b0f4b477097fc.jpg",
+      "url_origen": "https://jkanime.net/sakamoto-desu-ga-special/1/",
+      "publicado_en_origen": "2016-09-27 13:46:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1894",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:44:48+00:00"
+}

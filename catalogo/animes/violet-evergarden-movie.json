@@ -1,0 +1,29 @@
+{
+  "id_origen": 2868,
+  "slug": "violet-evergarden-movie",
+  "titulo": "Violet Evergarden Movie",
+  "titulo_corto": "Violet Evergarden Movie",
+  "sinopsis": "Han pasado varios años desde el final de la Gran Guerra. A medida que se siga construyendo la torre de radio en Leidenschaftlich, los teléfonos pronto serán más relevantes, lo que provocará una disminución en la demanda de \"Auto Memory Dolls\". Aun así, Violet Evergarden continúa ganando fama después de su constante éxito escribiendo cartas. Sin embargo, a veces lo único que anhelas es lo único que no aparece.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/violet-evergarden-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/violet-evergarden-movie/",
+  "episodios": [
+    {
+      "id_origen": 46934,
+      "numero": 1,
+      "titulo": "Violet Evergarden Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f1dbf5a0e96e21be02e894575ae5b7d.jpg",
+      "url_origen": "https://jkanime.net/violet-evergarden-movie/1/",
+      "publicado_en_origen": "2021-10-16 22:14:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2868",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:51:35+00:00"
+}

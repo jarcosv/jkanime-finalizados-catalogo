@@ -1,0 +1,37 @@
+{
+  "id_origen": 2874,
+  "slug": "jaku-chara-tomozaki-kun-specials",
+  "titulo": "Jaku-Chara Tomozaki-kun Specials",
+  "titulo_corto": "Jaku-Chara Tomozaki-kun Specia...",
+  "sinopsis": "Incluido con el tercer y cuarto volumen de los volúmenes de Blu-ray / DVD.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/jaku-chara-tomozaki-kun-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/jaku-chara-tomozaki-kun-specials/",
+  "episodios": [
+    {
+      "id_origen": 45731,
+      "numero": 1,
+      "titulo": "Jaku-Chara Tomozaki-kun Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2606a5e823761468f5fa51dd0e5e3603.jpg",
+      "url_origen": "https://jkanime.net/jaku-chara-tomozaki-kun-specials/1/",
+      "publicado_en_origen": "2021-06-10 11:35:54"
+    },
+    {
+      "id_origen": 45732,
+      "numero": 2,
+      "titulo": "Jaku-Chara Tomozaki-kun Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b44d4a198e1a6f8a50e48ba713684725.jpg",
+      "url_origen": "https://jkanime.net/jaku-chara-tomozaki-kun-specials/2/",
+      "publicado_en_origen": "2021-06-10 11:35:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2874",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:32:30+00:00"
+}

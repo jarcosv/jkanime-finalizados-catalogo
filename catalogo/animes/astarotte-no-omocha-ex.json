@@ -1,0 +1,29 @@
+{
+  "id_origen": 3053,
+  "slug": "astarotte-no-omocha-ex",
+  "titulo": "Astarotte no Omocha! EX",
+  "titulo_corto": "Astarotte no Omocha! EX",
+  "sinopsis": "El OVA Astaroette no Omocha es una serie de cuentos en tres partes. En la primera historia, Lotte y Asuha se encuentran buscando detalles sobre su proyecto escolar. En la segunda parte, está la historia de fondo de cómo Zelda llegó a ser el guardaespaldas de Lotte. El final de los tres es un flashback de cómo la reina conoció a Naoya y cómo concibieron a Asuha diez años antes de los eventos del anime.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/astarotte-no-omocha-ex.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/astarotte-no-omocha-ex/",
+  "episodios": [
+    {
+      "id_origen": 48233,
+      "numero": 1,
+      "titulo": "Astarotte no Omocha! EX",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac0045e94dfd303cf967f078468842fc.jpg",
+      "url_origen": "https://jkanime.net/astarotte-no-omocha-ex/1/",
+      "publicado_en_origen": "2022-02-10 03:58:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:12+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3053",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:18:03+00:00"
+}

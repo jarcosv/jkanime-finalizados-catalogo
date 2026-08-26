@@ -1,0 +1,53 @@
+{
+  "id_origen": 1704,
+  "slug": "digimon-adventure-tri",
+  "titulo": "Digimon Adventure tri",
+  "titulo_corto": "Digimon Adventure tri",
+  "sinopsis": "Han pasado seis años desde la aventura en la que Taichi y el resto de niños Digidestinados visitaron el Mundo Digital. Y han pasado casi tres años desde la batalla entre el grupo de Hikari y BelialVamdemon. La vida discurría pacíficamente, y en algún punto, las puertas al Mundo Digital se cerraron. Ni tan siquiera los niños Digidestinados sabían la causa de ello, y el tiempo fue pasando.\n \nUn día, un Kuwagamon aparece repentinamente en Odaiba destrozándolo todo y dejando el pueblo en ruinas. Taichi consigue verlo y lo persigue para intentar detenerlo. Pero no hay nada que pueda hacer contra un Kuwagamon. \"Es inútil... Yo solo no puedo hacer esto...\".\n \nCuando el Kuwagamon ruge y ataca a Taichi, s Digivice comienza a emitir un brillo... \"¡Taichi! ¡Cuánto creciste!\".\n \nCon la nostalgia que esa voz le produce, la historia comienza a avanzar de nuevo.\n \nUna vez más... la aventura evoluciona.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-adventure-tri-1-saikai.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/digimon-adventure-tri/",
+  "episodios": [
+    {
+      "id_origen": 30123,
+      "numero": 1,
+      "titulo": "Digimon Adventure tri - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2411c0857a5002c42d2b16457deba2f.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri/1/",
+      "publicado_en_origen": "2015-11-20 10:13:44"
+    },
+    {
+      "id_origen": 30124,
+      "numero": 2,
+      "titulo": "Digimon Adventure tri - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_436020d2ae84493b822204db77896285.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri/2/",
+      "publicado_en_origen": "2015-11-20 10:29:14"
+    },
+    {
+      "id_origen": 30126,
+      "numero": 3,
+      "titulo": "Digimon Adventure tri - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_157e2c09fd6a096b061c2baf0b1d8899.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri/3/",
+      "publicado_en_origen": "2015-11-20 10:40:26"
+    },
+    {
+      "id_origen": 30127,
+      "numero": 4,
+      "titulo": "Digimon Adventure tri - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1157b03c64072655b2490a18963fae1a.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri/4/",
+      "publicado_en_origen": "2015-11-20 10:49:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1704",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:02+00:00"
+}

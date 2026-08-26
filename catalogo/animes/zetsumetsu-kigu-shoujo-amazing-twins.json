@@ -1,0 +1,37 @@
+{
+  "id_origen": 1016,
+  "slug": "zetsumetsu-kigu-shoujo-amazing-twins",
+  "titulo": "Zetsumetsu Kigu Shoujo: Amazing Twins",
+  "titulo_corto": "Zetsumetsu Kigu Shoujo: Amazin...",
+  "sinopsis": "La historia gira entorno a Amane Todoroki, una chica cuyo lema es: “Por mucho que me pregunten si puedo hacer algo, no lo sé. ¡Pero quiero creer que sí! ¡Porque si no creo en algo, no puedo empezar nada“. Es una chica muy directa, sincera, aunque algo tontorrona, que se mete de lleno en todos los problemas que encuentra. Suele sacar conclusiones precipitadas, llora con facilidad y se pone emocional con cualquier cosa.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/zetsumetsu-kigu-shoujo-amazing-twins.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/zetsumetsu-kigu-shoujo-amazing-twins/",
+  "episodios": [
+    {
+      "id_origen": 22300,
+      "numero": 1,
+      "titulo": "Zetsumetsu Kigu Shoujo: Amazing Twins - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6bb604663d5d74f1431ff8a4995f9fd7.jpg",
+      "url_origen": "https://jkanime.net/zetsumetsu-kigu-shoujo-amazing-twins/1/",
+      "publicado_en_origen": "2013-12-29 22:30:11"
+    },
+    {
+      "id_origen": 24484,
+      "numero": 2,
+      "titulo": "Zetsumetsu Kigu Shoujo: Amazing Twins - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49484cfa10b250f569a5a1774fa8b312.jpg",
+      "url_origen": "https://jkanime.net/zetsumetsu-kigu-shoujo-amazing-twins/2/",
+      "publicado_en_origen": "2014-08-19 17:17:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1016",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:53:55+00:00"
+}

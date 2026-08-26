@@ -1,0 +1,557 @@
+{
+  "id_origen": 2653,
+  "slug": "digimon-adventure-2020",
+  "titulo": "Digimon Adventure 2020",
+  "titulo_corto": "Digimon Adventure 2020",
+  "sinopsis": "El nuevo anime tendrá lugar en 2020 y contara con una historia completamente nueva centrada en Taichi Yagami cuando está en su quinto año en la escuela primaria. Su compañero es Agumon. La historia comienza en Tokio cuando ocurre un mal funcionamiento de la red a gran escala. Taichi se está preparando para su campamento de verano de fin de semana cuando ocurre el incidente. La madre de Taichi y su hermana menor, Hikari, se quedan atrapados en un tren que no deja de moverse, y Taichi se dirige a Shibuya para ayudarlos. Sin embargo, en su camino hacia alli, se encuentra con un fenomeno extraño y lo lleva al mundo digital junto con los otros DigiDestined.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-adventure-2020.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/digimon-adventure-2020/",
+  "episodios": [
+    {
+      "id_origen": 42628,
+      "numero": 1,
+      "titulo": "Digimon Adventure 2020: - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b58d44dc39e233bce114637828099ed.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/1/",
+      "publicado_en_origen": "2020-04-06 14:55:46"
+    },
+    {
+      "id_origen": 42674,
+      "numero": 2,
+      "titulo": "Digimon Adventure 2020 - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e66160e598192a253a015cb90ab371dc.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/2/",
+      "publicado_en_origen": "2020-04-12 04:12:23"
+    },
+    {
+      "id_origen": 42720,
+      "numero": 3,
+      "titulo": "Digimon Adventure 2020 - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffd8c24f180b4ba8a2bc58a6c81c7210.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/3/",
+      "publicado_en_origen": "2020-04-19 02:58:03"
+    },
+    {
+      "id_origen": 43081,
+      "numero": 4,
+      "titulo": "Digimon Adventure 2020 - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee5b912101bea6d7649532c3234c7fce.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/4/",
+      "publicado_en_origen": "2020-06-28 02:28:06"
+    },
+    {
+      "id_origen": 43102,
+      "numero": 5,
+      "titulo": "Digimon Adventure 2020 - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c958f74bcd824f4a60d82201a845fa6.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/5/",
+      "publicado_en_origen": "2020-07-05 01:53:13"
+    },
+    {
+      "id_origen": 43140,
+      "numero": 6,
+      "titulo": "Digimon Adventure 2020 - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3dcb2651a444aa904bb7c9c5e90ba8c.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/6/",
+      "publicado_en_origen": "2020-07-12 02:05:40"
+    },
+    {
+      "id_origen": 43171,
+      "numero": 7,
+      "titulo": "Digimon Adventure 2020 - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ed420bdc5a06207eecefd77318cebf9.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/7/",
+      "publicado_en_origen": "2020-07-19 01:14:24"
+    },
+    {
+      "id_origen": 43206,
+      "numero": 8,
+      "titulo": "Digimon Adventure 2020 - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_515d801464ef09ae12425ce6be85447c.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/8/",
+      "publicado_en_origen": "2020-07-26 01:58:14"
+    },
+    {
+      "id_origen": 43248,
+      "numero": 9,
+      "titulo": "Digimon Adventure 2020 - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_169d604b03277538918ae404ac1c7563.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/9/",
+      "publicado_en_origen": "2020-08-02 01:30:55"
+    },
+    {
+      "id_origen": 43288,
+      "numero": 10,
+      "titulo": "Digimon Adventure 2020 - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_490c348329a61872baf3a92c47a37f23.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/10/",
+      "publicado_en_origen": "2020-08-09 02:07:10"
+    },
+    {
+      "id_origen": 43326,
+      "numero": 11,
+      "titulo": "Digimon Adventure 2020 - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c885743821cce93ad525c5919aa9faa9.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/11/",
+      "publicado_en_origen": "2020-08-16 01:46:09"
+    },
+    {
+      "id_origen": 43364,
+      "numero": 12,
+      "titulo": "Digimon Adventure 2020 - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07d9152e686ddb50c5330f7f9c1c58bc.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/12/",
+      "publicado_en_origen": "2020-08-23 01:19:30"
+    },
+    {
+      "id_origen": 43415,
+      "numero": 13,
+      "titulo": "Digimon Adventure 2020 - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad5f12b9539cca684ffefa884c430e4d.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/13/",
+      "publicado_en_origen": "2020-08-30 01:59:36"
+    },
+    {
+      "id_origen": 43476,
+      "numero": 14,
+      "titulo": "Digimon Adventure 2020 - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ec96ef90786e0f2d9f7b61b5ab0209b.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/14/",
+      "publicado_en_origen": "2020-09-07 15:37:26"
+    },
+    {
+      "id_origen": 43512,
+      "numero": 15,
+      "titulo": "Digimon Adventure 2020 - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84553c65c2ee604b13e9bb8c8f9e6357.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/15/",
+      "publicado_en_origen": "2020-09-13 02:09:00"
+    },
+    {
+      "id_origen": 43549,
+      "numero": 16,
+      "titulo": "Digimon Adventure 2020 - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4da4e32b324bca44aff146f14fbb40f5.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/16/",
+      "publicado_en_origen": "2020-09-20 04:53:16"
+    },
+    {
+      "id_origen": 43619,
+      "numero": 17,
+      "titulo": "Digimon Adventure 2020 - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04be1d502cd2e61174e72d9ad6116639.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/17/",
+      "publicado_en_origen": "2020-09-27 02:51:18"
+    },
+    {
+      "id_origen": 43662,
+      "numero": 18,
+      "titulo": "Digimon Adventure 2020 - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e850fe8e54cb4e9dfa92804fdac6f0c.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/18/",
+      "publicado_en_origen": "2020-10-04 00:32:29"
+    },
+    {
+      "id_origen": 43702,
+      "numero": 19,
+      "titulo": "Digimon Adventure 2020 - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01423c252b8b206ec86fdb8fe9207f64.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/19/",
+      "publicado_en_origen": "2020-10-10 22:58:19"
+    },
+    {
+      "id_origen": 43755,
+      "numero": 20,
+      "titulo": "Digimon Adventure 2020 - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e3196bdf1782fa1b4485fdd167ce6f3.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/20/",
+      "publicado_en_origen": "2020-10-18 00:29:54"
+    },
+    {
+      "id_origen": 43814,
+      "numero": 21,
+      "titulo": "Digimon Adventure 2020 - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85fb7822c0e202d4b3bb8c1ad5e0280c.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/21/",
+      "publicado_en_origen": "2020-10-25 00:23:51"
+    },
+    {
+      "id_origen": 43872,
+      "numero": 22,
+      "titulo": "Digimon Adventure 2020 - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96e1da3b09373c4e9ab748abf0d43329.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/22/",
+      "publicado_en_origen": "2020-11-01 00:05:09"
+    },
+    {
+      "id_origen": 43933,
+      "numero": 23,
+      "titulo": "Digimon Adventure 2020 - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85b25f84cf96c0752bd047b4fe0eee64.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/23/",
+      "publicado_en_origen": "2020-11-08 12:15:43"
+    },
+    {
+      "id_origen": 43977,
+      "numero": 24,
+      "titulo": "Digimon Adventure 2020 - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2257789777f6fcd2d5e40318050a51f.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/24/",
+      "publicado_en_origen": "2020-11-14 22:54:18"
+    },
+    {
+      "id_origen": 44025,
+      "numero": 25,
+      "titulo": "Digimon Adventure 2020 - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a85461739094491a96bb30267640454.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/25/",
+      "publicado_en_origen": "2020-11-22 00:36:46"
+    },
+    {
+      "id_origen": 44083,
+      "numero": 26,
+      "titulo": "Digimon Adventure 2020 - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f36cd14c6a9b227707682b12bcd6264.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/26/",
+      "publicado_en_origen": "2020-11-29 00:17:15"
+    },
+    {
+      "id_origen": 44140,
+      "numero": 27,
+      "titulo": "Digimon Adventure 2020 - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c586febc9577603da1f2f81ffbfbc234.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/27/",
+      "publicado_en_origen": "2020-12-05 22:59:54"
+    },
+    {
+      "id_origen": 44197,
+      "numero": 28,
+      "titulo": "Digimon Adventure 2020 - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9bb2a8cb67a206ee4c40793f95c8229.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/28/",
+      "publicado_en_origen": "2020-12-12 22:59:19"
+    },
+    {
+      "id_origen": 44251,
+      "numero": 29,
+      "titulo": "Digimon Adventure 2020 - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc8fb730099b643decbf3e2f41ea0aa3.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/29/",
+      "publicado_en_origen": "2020-12-20 01:23:53"
+    },
+    {
+      "id_origen": 44293,
+      "numero": 30,
+      "titulo": "Digimon Adventure 2020 - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23dd0dfb458b43d6927654191b2afeb9.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/30/",
+      "publicado_en_origen": "2020-12-27 00:22:24"
+    },
+    {
+      "id_origen": 44356,
+      "numero": 31,
+      "titulo": "Digimon Adventure 2020 - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aaab21300d90e3fe7452d8392a54f579.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/31/",
+      "publicado_en_origen": "2021-01-10 00:19:50"
+    },
+    {
+      "id_origen": 44421,
+      "numero": 32,
+      "titulo": "Digimon Adventure 2020 - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_500dbe7f22bb9b808769c635446b5972.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/32/",
+      "publicado_en_origen": "2021-01-16 23:29:29"
+    },
+    {
+      "id_origen": 44484,
+      "numero": 33,
+      "titulo": "Digimon Adventure 2020 - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52342fd964a7fcc286db3b72884c57cc.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/33/",
+      "publicado_en_origen": "2021-01-23 23:16:53"
+    },
+    {
+      "id_origen": 44548,
+      "numero": 34,
+      "titulo": "Digimon Adventure 2020 - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5177d7712d018e49b0015adfdc2bb393.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/34/",
+      "publicado_en_origen": "2021-01-30 23:01:19"
+    },
+    {
+      "id_origen": 44619,
+      "numero": 35,
+      "titulo": "Digimon Adventure 2020 - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_806ce70b6b384fa1bf8f1a239ec32055.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/35/",
+      "publicado_en_origen": "2021-02-06 23:14:50"
+    },
+    {
+      "id_origen": 44686,
+      "numero": 36,
+      "titulo": "Digimon Adventure 2020 - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc25bde4ace85bea2546fe382b8b8488.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/36/",
+      "publicado_en_origen": "2021-02-13 23:24:38"
+    },
+    {
+      "id_origen": 44755,
+      "numero": 37,
+      "titulo": "Digimon Adventure 2020 - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af727f4749d4bccd52b0d84bcd241a28.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/37/",
+      "publicado_en_origen": "2021-02-20 23:03:10"
+    },
+    {
+      "id_origen": 44829,
+      "numero": 38,
+      "titulo": "Digimon Adventure 2020 - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e42021abd9df64e0f46279806ed9970.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/38/",
+      "publicado_en_origen": "2021-02-28 00:22:41"
+    },
+    {
+      "id_origen": 44914,
+      "numero": 39,
+      "titulo": "Digimon Adventure 2020 - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c975f21874ed5bb553d3e61d41244688.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/39/",
+      "publicado_en_origen": "2021-03-08 22:22:43"
+    },
+    {
+      "id_origen": 45032,
+      "numero": 40,
+      "titulo": "Digimon Adventure 2020 - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49cd1601c39bdf6d421d905d583e366a.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/40/",
+      "publicado_en_origen": "2021-03-20 22:53:37"
+    },
+    {
+      "id_origen": 45093,
+      "numero": 41,
+      "titulo": "Digimon Adventure 2020 - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbaaae0146898b243174304a3928ee93.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/41/",
+      "publicado_en_origen": "2021-03-27 23:18:10"
+    },
+    {
+      "id_origen": 45146,
+      "numero": 42,
+      "titulo": "Digimon Adventure 2020 - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_721a427b22b69757b37c150e2fe24caa.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/42/",
+      "publicado_en_origen": "2021-04-04 10:25:46"
+    },
+    {
+      "id_origen": 45207,
+      "numero": 43,
+      "titulo": "Digimon Adventure 2020 - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_019344ffa8a23d2a8240bd4eba4a4dfc.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/43/",
+      "publicado_en_origen": "2021-04-11 11:44:54"
+    },
+    {
+      "id_origen": 45264,
+      "numero": 44,
+      "titulo": "Digimon Adventure 2020 - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_946b8b29fca37c91f751df320d80f000.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/44/",
+      "publicado_en_origen": "2021-04-18 13:51:06"
+    },
+    {
+      "id_origen": 45326,
+      "numero": 45,
+      "titulo": "Digimon Adventure 2020 - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a3b87feb5d6e91e5716cb32551d90d6.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/45/",
+      "publicado_en_origen": "2021-04-25 00:06:36"
+    },
+    {
+      "id_origen": 45381,
+      "numero": 46,
+      "titulo": "Digimon Adventure 2020 - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11354ac67b0edf60148085d3567844a5.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/46/",
+      "publicado_en_origen": "2021-05-02 09:24:17"
+    },
+    {
+      "id_origen": 45446,
+      "numero": 47,
+      "titulo": "Digimon Adventure 2020 - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8423896e04d8cc356ddbb29d4cc9288d.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/47/",
+      "publicado_en_origen": "2021-05-08 22:51:16"
+    },
+    {
+      "id_origen": 45504,
+      "numero": 48,
+      "titulo": "Digimon Adventure 2020 - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5808c97283bb6284cd9a5c57a63dfdc.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/48/",
+      "publicado_en_origen": "2021-05-15 23:25:07"
+    },
+    {
+      "id_origen": 45562,
+      "numero": 49,
+      "titulo": "Digimon Adventure 2020 - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09c35ba0bdec09855cf3ed7761ac33c0.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/49/",
+      "publicado_en_origen": "2021-05-22 23:32:00"
+    },
+    {
+      "id_origen": 45636,
+      "numero": 50,
+      "titulo": "Digimon Adventure 2020 - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9ba606994c4309bb9234bb5f1c3d5b5.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/50/",
+      "publicado_en_origen": "2021-05-30 10:56:07"
+    },
+    {
+      "id_origen": 45697,
+      "numero": 51,
+      "titulo": "Digimon Adventure 2020 - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab2e8f486e7ac85d3ea6429e657c11ad.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/51/",
+      "publicado_en_origen": "2021-06-05 23:15:02"
+    },
+    {
+      "id_origen": 45761,
+      "numero": 52,
+      "titulo": "Digimon Adventure 2020 - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bcc8997df233ab581f30dd65f14698c.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/52/",
+      "publicado_en_origen": "2021-06-12 23:52:37"
+    },
+    {
+      "id_origen": 45886,
+      "numero": 53,
+      "titulo": "Digimon Adventure 2020 - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58111ca2842fcb35ecbfd51fd89eb79a.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/53/",
+      "publicado_en_origen": "2021-06-19 23:37:33"
+    },
+    {
+      "id_origen": 45945,
+      "numero": 54,
+      "titulo": "Digimon Adventure 2020 - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_695f53f1db4d435235a6cc4d64b96660.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/54/",
+      "publicado_en_origen": "2021-06-26 23:30:22"
+    },
+    {
+      "id_origen": 46005,
+      "numero": 55,
+      "titulo": "Digimon Adventure 2020 - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea7f2f9471927458f88b04f4b1832b2a.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/55/",
+      "publicado_en_origen": "2021-07-03 23:50:12"
+    },
+    {
+      "id_origen": 46050,
+      "numero": 56,
+      "titulo": "Digimon Adventure 2020 - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7cbb41e218d3b1ddaaf933cc230a19d.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/56/",
+      "publicado_en_origen": "2021-07-11 01:23:36"
+    },
+    {
+      "id_origen": 46095,
+      "numero": 57,
+      "titulo": "Digimon Adventure 2020 - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df0d340ef29911141baad7928c22fac0.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/57/",
+      "publicado_en_origen": "2021-07-18 01:32:46"
+    },
+    {
+      "id_origen": 46145,
+      "numero": 58,
+      "titulo": "Digimon Adventure 2020 - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9da48779f4865f0d44f00393c293413.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/58/",
+      "publicado_en_origen": "2021-07-25 00:28:11"
+    },
+    {
+      "id_origen": 46192,
+      "numero": 59,
+      "titulo": "Digimon Adventure 2020 - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36ed6e6ed1415bdbbb65d53883df06b5.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/59/",
+      "publicado_en_origen": "2021-08-01 01:28:28"
+    },
+    {
+      "id_origen": 46238,
+      "numero": 60,
+      "titulo": "Digimon Adventure 2020 - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e5e96de75f3bd8f81143731d08bef15.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/60/",
+      "publicado_en_origen": "2021-08-08 13:29:36"
+    },
+    {
+      "id_origen": 46288,
+      "numero": 61,
+      "titulo": "Digimon Adventure 2020 - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2800a901597876b19a05fa2ba197a966.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/61/",
+      "publicado_en_origen": "2021-08-15 02:28:56"
+    },
+    {
+      "id_origen": 46339,
+      "numero": 62,
+      "titulo": "Digimon Adventure 2020 - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42abb461b5a51fb0d354de2ba3c42c1a.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/62/",
+      "publicado_en_origen": "2021-08-22 01:53:01"
+    },
+    {
+      "id_origen": 46432,
+      "numero": 63,
+      "titulo": "Digimon Adventure 2020 - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b47fe896f07e0e8fdf6956ce0669e16e.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/63/",
+      "publicado_en_origen": "2021-08-29 02:36:38"
+    },
+    {
+      "id_origen": 46556,
+      "numero": 64,
+      "titulo": "Digimon Adventure 2020 - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23f5a21549eceda2a6adacf50172e799.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/64/",
+      "publicado_en_origen": "2021-09-04 22:53:40"
+    },
+    {
+      "id_origen": 46650,
+      "numero": 65,
+      "titulo": "Digimon Adventure 2020 - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46a9b6b873977a7dff695ff369c54bbb.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/65/",
+      "publicado_en_origen": "2021-09-12 01:07:34"
+    },
+    {
+      "id_origen": 46699,
+      "numero": 66,
+      "titulo": "Digimon Adventure 2020 - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6cdf7d7accdc2a5afc50c9ce763cbf2.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/66/",
+      "publicado_en_origen": "2021-09-19 03:20:38"
+    },
+    {
+      "id_origen": 46761,
+      "numero": 67,
+      "titulo": "Digimon Adventure 2020 - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8513d71f50e57e470cd1b333f514cc3d.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-2020/67/",
+      "publicado_en_origen": "2021-09-25 23:55:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2653",
+  "cantidad_episodios_declarada": 67,
+  "detalle_extraido_en": "2026-08-26T18:25:05+00:00"
+}

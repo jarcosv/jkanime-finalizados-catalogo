@@ -1,0 +1,101 @@
+{
+  "id_origen": 1106,
+  "slug": "mushishi-zoku-shou",
+  "titulo": "Mushishi Zoku Shou",
+  "titulo_corto": "Mushishi Zoku Shou",
+  "sinopsis": "Segunda temporada de Mushishi donde veremos a Guinko en sus viajes para conocer mas a los Mushi",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mushishi-zoku-shou.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mushishi-zoku-shou/",
+  "episodios": [
+    {
+      "id_origen": 23129,
+      "numero": 1,
+      "titulo": "Mushishi Zoku Shou - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c8c976f599f97663bd04d1cc4b15ed1.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou/1/",
+      "publicado_en_origen": "2014-04-04 12:11:30"
+    },
+    {
+      "id_origen": 23183,
+      "numero": 2,
+      "titulo": "Mushishi Zoku Shou - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88e6967421e9586bafe31e2927b59c25.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou/2/",
+      "publicado_en_origen": "2014-04-11 12:10:13"
+    },
+    {
+      "id_origen": 23242,
+      "numero": 3,
+      "titulo": "Mushishi Zoku Shou - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86ee663c363fb2819cc78dc2ea1181f9.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou/3/",
+      "publicado_en_origen": "2014-04-18 12:08:30"
+    },
+    {
+      "id_origen": 23319,
+      "numero": 4,
+      "titulo": "Mushishi Zoku Shou - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f29a63dcfa32bd56915c2d9c43631c8.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou/4/",
+      "publicado_en_origen": "2014-04-25 12:12:04"
+    },
+    {
+      "id_origen": 23379,
+      "numero": 5,
+      "titulo": "Mushishi Zoku Shou - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fec9ebe81dc34da06ac1f4eff8c8f130.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou/5/",
+      "publicado_en_origen": "2014-05-02 12:12:55"
+    },
+    {
+      "id_origen": 23436,
+      "numero": 6,
+      "titulo": "Mushishi Zoku Shou - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd7ead7664ec93dd08719f2d91d354f8.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou/6/",
+      "publicado_en_origen": "2014-05-09 12:56:55"
+    },
+    {
+      "id_origen": 23551,
+      "numero": 7,
+      "titulo": "Mushishi Zoku Shou - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98e027c8af4d8f61c337182944256a87.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou/7/",
+      "publicado_en_origen": "2014-05-23 15:07:01"
+    },
+    {
+      "id_origen": 23675,
+      "numero": 8,
+      "titulo": "Mushishi Zoku Shou - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_366c7be95b6644ce0d3ce9744d15a99b.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou/8/",
+      "publicado_en_origen": "2014-06-06 17:12:01"
+    },
+    {
+      "id_origen": 23729,
+      "numero": 9,
+      "titulo": "Mushishi Zoku Shou - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad59ae2c6077196b68ff0c94a09fed73.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou/9/",
+      "publicado_en_origen": "2014-06-13 12:27:03"
+    },
+    {
+      "id_origen": 23785,
+      "numero": 10,
+      "titulo": "Mushishi Zoku Shou - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6953aa7895c6af344d03401184eaf8e4.jpg",
+      "url_origen": "https://jkanime.net/mushishi-zoku-shou/10/",
+      "publicado_en_origen": "2014-06-20 16:10:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:55+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1106",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:39:26+00:00"
+}

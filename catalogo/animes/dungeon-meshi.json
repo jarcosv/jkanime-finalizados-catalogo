@@ -1,0 +1,213 @@
+{
+  "id_origen": 3600,
+  "slug": "dungeon-meshi",
+  "titulo": "Dungeon Meshi",
+  "titulo_corto": "Dungeon Meshi",
+  "sinopsis": "Después de que un mago loco hunde el Reino Dorado bajo tierra, su rey emerge, prometiendo todo su tesoro a cualquiera que derrote al mago, antes de desmoronarse. Esta promesa anima a los gremios a atravesar la mazmorra laberíntica en busca del mago. Laios, el líder de uno de esos gremios, se encuentra con un dragón que aniquila a su grupo y devora a su hermana Falin. A pesar de haber perdido la totalidad de sus suministros y pertenencias, Laios, junto con Marcille, una curandera elfa, y Chilchuck, un ladrón mediano, inmediatamente vuelven a entrar en la mazmorra, decididos a salvar a Falin.\n\nSiendo el tiempo apremiante, Laios sugiere el tabú de comerse a los monstruos de la mazmorra como medio para recolectar suministros. Durante la preparación de su primera comida en la mazmorra, son detenidos por un enano llamado Senshi. Entusiasta de la cocina monstruosa, les ayuda a preparar sus ingredientes monstruosos para un consumo seguro. Después de enterarse de las circunstancias de Laios, Senshi expresa su deseo de cocinar un dragón y se une a su gremio, comenzando así juntos su incursión llena de comida en la mazmorra.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dungeon-meshi/",
+  "episodios": [
+    {
+      "id_origen": 55446,
+      "numero": 1,
+      "titulo": "Dungeon Meshi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca8301a2c096c01246335885667cb71a.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/1/",
+      "publicado_en_origen": "2024-01-04 11:29:44"
+    },
+    {
+      "id_origen": 55556,
+      "numero": 2,
+      "titulo": "Dungeon Meshi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_737fc1bb40fc427b9a32219dcb439873.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/2/",
+      "publicado_en_origen": "2024-01-11 10:51:47"
+    },
+    {
+      "id_origen": 55633,
+      "numero": 3,
+      "titulo": "Dungeon Meshi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2130b867c0b3ee6c2d9bf1b869c9700.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/3/",
+      "publicado_en_origen": "2024-01-18 13:10:42"
+    },
+    {
+      "id_origen": 55727,
+      "numero": 4,
+      "titulo": "Dungeon Meshi - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2afd2d96e73a59464b648328565395d.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/4/",
+      "publicado_en_origen": "2024-01-25 12:30:07"
+    },
+    {
+      "id_origen": 55816,
+      "numero": 5,
+      "titulo": "Dungeon Meshi - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abcff73a101e0acb776918b86ee78a44.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/5/",
+      "publicado_en_origen": "2024-02-01 13:39:48"
+    },
+    {
+      "id_origen": 55903,
+      "numero": 6,
+      "titulo": "Dungeon Meshi - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24dc17668cc96cd3ff353860d0496dd3.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/6/",
+      "publicado_en_origen": "2024-02-08 20:17:42"
+    },
+    {
+      "id_origen": 55988,
+      "numero": 7,
+      "titulo": "Dungeon Meshi - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bb86f6c73b00a8929c72890cfb47d03.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/7/",
+      "publicado_en_origen": "2024-02-15 12:41:18"
+    },
+    {
+      "id_origen": 56085,
+      "numero": 8,
+      "titulo": "Dungeon Meshi - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6754cc233d26691c7c544954c6eb9ba.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/8/",
+      "publicado_en_origen": "2024-02-22 16:45:57"
+    },
+    {
+      "id_origen": 56176,
+      "numero": 9,
+      "titulo": "Dungeon Meshi - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6306de653ca07703047d6754ec69f82d.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/9/",
+      "publicado_en_origen": "2024-02-29 12:56:43"
+    },
+    {
+      "id_origen": 56260,
+      "numero": 10,
+      "titulo": "Dungeon Meshi - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3148238a33740ad9cc1882547a7621b1.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/10/",
+      "publicado_en_origen": "2024-03-07 15:29:12"
+    },
+    {
+      "id_origen": 56395,
+      "numero": 11,
+      "titulo": "Dungeon Meshi - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6128c61040f33e609c564e97a20cf1a7.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/11/",
+      "publicado_en_origen": "2024-03-15 00:44:28"
+    },
+    {
+      "id_origen": 56477,
+      "numero": 12,
+      "titulo": "Dungeon Meshi - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dc83214f1718d346706d966fa5036af.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/12/",
+      "publicado_en_origen": "2024-03-21 11:55:17"
+    },
+    {
+      "id_origen": 56651,
+      "numero": 13,
+      "titulo": "Dungeon Meshi - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2368135a855c628e4bb256f6c4d5a0c1.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/13/",
+      "publicado_en_origen": "2024-03-28 12:57:39"
+    },
+    {
+      "id_origen": 56723,
+      "numero": 14,
+      "titulo": "Dungeon Meshi - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d77767a3e6d62d925106ba9e6a833c2b.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/14/",
+      "publicado_en_origen": "2024-04-04 12:27:29"
+    },
+    {
+      "id_origen": 56811,
+      "numero": 15,
+      "titulo": "Dungeon Meshi - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80fcc89f44859d2f6ec922caa94c0c26.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/15/",
+      "publicado_en_origen": "2024-04-11 14:54:11"
+    },
+    {
+      "id_origen": 56901,
+      "numero": 16,
+      "titulo": "Dungeon Meshi - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2e15ba5272ace85d291a02efe0ab757.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/16/",
+      "publicado_en_origen": "2024-04-18 10:23:50"
+    },
+    {
+      "id_origen": 57002,
+      "numero": 17,
+      "titulo": "Dungeon Meshi - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bd4d93d74fd57495ceb281c6081c1a4.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/17/",
+      "publicado_en_origen": "2024-04-25 14:48:48"
+    },
+    {
+      "id_origen": 57079,
+      "numero": 18,
+      "titulo": "Dungeon Meshi - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e2d4c2ee2b0b8800e26de9bc748aa43.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/18/",
+      "publicado_en_origen": "2024-05-02 11:55:01"
+    },
+    {
+      "id_origen": 57166,
+      "numero": 19,
+      "titulo": "Dungeon Meshi - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6cf2051633a7a75beb364bbda3e8a052.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/19/",
+      "publicado_en_origen": "2024-05-09 11:57:53"
+    },
+    {
+      "id_origen": 57254,
+      "numero": 20,
+      "titulo": "Dungeon Meshi - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8f080b9cc0378a0b03e23e101018356.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/20/",
+      "publicado_en_origen": "2024-05-16 12:54:47"
+    },
+    {
+      "id_origen": 57337,
+      "numero": 21,
+      "titulo": "Dungeon Meshi - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1830fe2a7ca0696fff1dca71b3867af8.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/21/",
+      "publicado_en_origen": "2024-05-23 12:28:57"
+    },
+    {
+      "id_origen": 57431,
+      "numero": 22,
+      "titulo": "Dungeon Meshi - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2d8eda292ef10ee4fe658dbec662bcb.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/22/",
+      "publicado_en_origen": "2024-05-30 10:54:59"
+    },
+    {
+      "id_origen": 57515,
+      "numero": 23,
+      "titulo": "Dungeon Meshi - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8548f0d8fd08f6c0e4b62fa186b0aaf.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/23/",
+      "publicado_en_origen": "2024-06-06 11:29:20"
+    },
+    {
+      "id_origen": 57595,
+      "numero": 24,
+      "titulo": "Dungeon Meshi - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80abcf33b8939caff3d073c0ccca5234.jpg",
+      "url_origen": "https://jkanime.net/dungeon-meshi/24/",
+      "publicado_en_origen": "2024-06-13 12:10:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3600",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:26:01+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id_origen": 3747,
+  "slug": "quanzhi-gaoshou-specials",
+  "titulo": "Quanzhi Gaoshou Specials",
+  "titulo_corto": "Quanzhi Gaoshou Specials",
+  "sinopsis": "El Torneo All-Star es un evento de tres días que permite a los participantes de deportes electrónicos de varios clubes profesionales mostrar sus habilidades, al mismo tiempo que brinda a los jugadores ocasionales de Glory la oportunidad de interactuar con profesionales en persona.\n\nEl jugador retirado de Glory de primer nivel, Ye Xiu, acepta ver el torneo junto con Tang Rou y Chen Guo después de que este último logra conseguir tres entradas. Es una sensación extraña para Ye Xiu, ya que a diferencia de ocasiones anteriores, esta vez asiste al torneo como espectador, no como participante. Sin embargo, a pesar de sus intentos de mantener un perfil bajo, los acontecimientos del Torneo All-Star pueden obligar a la antigua leyenda de Glory a volver a ser el centro de atención.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/quanzhi-gaoshou-specials.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/quanzhi-gaoshou-specials/",
+  "episodios": [
+    {
+      "id_origen": 57118,
+      "numero": 1,
+      "titulo": "Quanzhi Gaoshou Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_696d22895dad83029e9ead4a5eb59b4c.jpg",
+      "url_origen": "https://jkanime.net/quanzhi-gaoshou-specials/1/",
+      "publicado_en_origen": "2024-05-04 16:36:40"
+    },
+    {
+      "id_origen": 57119,
+      "numero": 2,
+      "titulo": "Quanzhi Gaoshou Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f08ac99ecac53abbe286edbd70733cf.jpg",
+      "url_origen": "https://jkanime.net/quanzhi-gaoshou-specials/2/",
+      "publicado_en_origen": "2024-05-04 16:36:43"
+    },
+    {
+      "id_origen": 57156,
+      "numero": 3,
+      "titulo": "Quanzhi Gaoshou Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00e32d4f18a0fcf84ed1b63f56e5a485.jpg",
+      "url_origen": "https://jkanime.net/quanzhi-gaoshou-specials/3/",
+      "publicado_en_origen": "2024-05-08 02:11:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3747",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:43:21+00:00"
+}

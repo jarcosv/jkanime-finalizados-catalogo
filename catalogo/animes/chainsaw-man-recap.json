@@ -1,0 +1,37 @@
+{
+  "id_origen": 4352,
+  "slug": "chainsaw-man-recap",
+  "titulo": "Chainsaw Man Recap",
+  "titulo_corto": "Chainsaw Man Recap",
+  "sinopsis": "Resumen de Chainsaw Man, con adaptación adicional extra de varios capítulos finales omake (extra) del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/chainsaw-man-recap.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/chainsaw-man-recap/",
+  "episodios": [
+    {
+      "id_origen": 67451,
+      "numero": 1,
+      "titulo": "Chainsaw Man Recap - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10679d86800ed202c53807c7d9f37472.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man-recap/1/",
+      "publicado_en_origen": "2025-09-10 10:49:46"
+    },
+    {
+      "id_origen": 67452,
+      "numero": 2,
+      "titulo": "Chainsaw Man Recap - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_711390e4d846aebc83c1db49acca91f8.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man-recap/2/",
+      "publicado_en_origen": "2025-09-10 10:49:46"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4352",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:23:20+00:00"
+}

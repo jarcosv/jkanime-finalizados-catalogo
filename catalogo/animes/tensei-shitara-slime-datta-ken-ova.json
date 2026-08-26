@@ -1,0 +1,61 @@
+{
+  "id_origen": 2474,
+  "slug": "tensei-shitara-slime-datta-ken-ova",
+  "titulo": "Tensei shitara Slime Datta Ken OVA",
+  "titulo_corto": "Tensei shitara Slime Datta Ken...",
+  "sinopsis": "Incluido con los volumenes 12 y 13 del manga. El primer OVA sera sobre la competencia de Sumo que se celebra en Tempest por primera vez, sugerida por Rimuru.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tensei-shitara-slime-datta-ken-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tensei-shitara-slime-datta-ken-ova/",
+  "episodios": [
+    {
+      "id_origen": 40429,
+      "numero": 1,
+      "titulo": "Tensei shitara Slime Datta Ken OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49b2e2112f4e7f769bdc0e6f9cc64b22.jpg",
+      "url_origen": "https://jkanime.net/tensei-shitara-slime-datta-ken-ova/1/",
+      "publicado_en_origen": "2019-07-08 19:52:29"
+    },
+    {
+      "id_origen": 41652,
+      "numero": 2,
+      "titulo": "Tensei shitara Slime Datta Ken OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8732349cbe3ba46021a86345bb98c4c.jpg",
+      "url_origen": "https://jkanime.net/tensei-shitara-slime-datta-ken-ova/2/",
+      "publicado_en_origen": "2019-12-04 13:32:53"
+    },
+    {
+      "id_origen": 43123,
+      "numero": 3,
+      "titulo": "Tensei shitara Slime Datta Ken OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_417ac9043b0b1805c3e5e5e9605fe400.jpg",
+      "url_origen": "https://jkanime.net/tensei-shitara-slime-datta-ken-ova/3/",
+      "publicado_en_origen": "2020-07-08 15:41:16"
+    },
+    {
+      "id_origen": 43124,
+      "numero": 4,
+      "titulo": "Tensei shitara Slime Datta Ken OVA - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_199d7809a7660bd4a83838873dc22cb9.jpg",
+      "url_origen": "https://jkanime.net/tensei-shitara-slime-datta-ken-ova/4/",
+      "publicado_en_origen": "2020-07-08 15:41:20"
+    },
+    {
+      "id_origen": 44058,
+      "numero": 5,
+      "titulo": "Tensei shitara Slime Datta Ken OVA - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05e41bc57a80ca4bbef3c523cc0d40d9.jpg",
+      "url_origen": "https://jkanime.net/tensei-shitara-slime-datta-ken-ova/5/",
+      "publicado_en_origen": "2020-11-27 11:31:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2474",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:49:04+00:00"
+}

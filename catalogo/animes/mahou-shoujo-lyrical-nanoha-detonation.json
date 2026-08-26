@@ -1,0 +1,29 @@
+{
+  "id_origen": 2445,
+  "slug": "mahou-shoujo-lyrical-nanoha-detonation",
+  "titulo": "Mahou Shoujo Lyrical Nanoha: Detonation",
+  "titulo_corto": "Mahou Shoujo Lyrical Nanoha: D...",
+  "sinopsis": "No se ha agregado informacion de sinopsis a este titulo. Ayudanos enviando la sinopsis a la fanpage.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mahou-shoujo-lyrical-nanoha-detonation.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mahou-shoujo-lyrical-nanoha-detonation/",
+  "episodios": [
+    {
+      "id_origen": 40350,
+      "numero": 1,
+      "titulo": "Mahou Shoujo Lyrical Nanoha: Detonation",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06f2ae7068ee80cf19e8083bf7f3091e.jpg",
+      "url_origen": "https://jkanime.net/mahou-shoujo-lyrical-nanoha-detonation/1/",
+      "publicado_en_origen": "2019-06-25 20:55:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2445",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:37:19+00:00"
+}

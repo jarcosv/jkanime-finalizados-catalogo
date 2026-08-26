@@ -1,0 +1,29 @@
+{
+  "id_origen": 1387,
+  "slug": "cardcaptor-sakura-leave-it-to-kero-chan",
+  "titulo": "Cardcaptor Sakura: Leave It to Kero-chan",
+  "titulo_corto": "Cardcaptor Sakura: Leave It to...",
+  "sinopsis": "Eriol viene de visita a la casa de Sakura y deja a Spinel con Kero, lo que ocurre después es una titanica lucha por un bocadillo de croqueta de pulpo...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/cardcaptor-sakura-leave-it-to-kero-chan.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/cardcaptor-sakura-leave-it-to-kero-chan/",
+  "episodios": [
+    {
+      "id_origen": 26038,
+      "numero": 1,
+      "titulo": "Cardcaptor Sakura: Leave It to Kero-chan",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03b35ee38d9816798f3144061053bff4.jpg",
+      "url_origen": "https://jkanime.net/cardcaptor-sakura-leave-it-to-kero-chan/1/",
+      "publicado_en_origen": "2014-12-29 00:26:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1387",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:22:47+00:00"
+}

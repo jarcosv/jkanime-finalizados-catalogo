@@ -1,0 +1,381 @@
+{
+  "id_origen": 34,
+  "slug": "juuni-kokuki",
+  "titulo": "Juuni Kokuki",
+  "titulo_corto": "Juuni Kokuki",
+  "sinopsis": "La historia se centra en una joven estudiante de instituto llamada Yoko Nakajima muy respetada por sus compañeros pero con cierta aversión a enfrentarse a los problemas y carencias de autoestima. Un día de repente aparece un hombre Keiky(Un Kirin Sagrado) extraño quien le jura lealtad y la reconoce como alguien importante que puede salvar la vida de mucha gente y mas el reino de él. Después de extraños acontecimientos, se dan una serie de batallas con bestias invocadas con cierto aire a demonios mientras que el extraño personaje intenta convencer a Yoko para que lo acompañe a su tierra. Sin grandes posibilidades para negarse, Yoko y dos de sus amigos acaban recayendo en el mundo del misterioso Keiki. Su dos amigos son Yuka Sugimoto, una joven con cierto aire prepotente e Ikuya Asano, un chico algo necio y que lo unico que quiere es regresar a su hogar.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/juuni-kokuki.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/juuni-kokuki/",
+  "episodios": [
+    {
+      "id_origen": 596,
+      "numero": 1,
+      "titulo": "The Twelve Kingdoms 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2eeb7362ef83deff5c7813a67e14f0a.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/1/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 597,
+      "numero": 2,
+      "titulo": "The Twelve Kingdoms 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08c5433a60135c32e34f46a71175850c.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/2/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 598,
+      "numero": 3,
+      "titulo": "The Twelve Kingdoms 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6aca97005c68f1206823815f66102863.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/3/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 599,
+      "numero": 4,
+      "titulo": "The Twelve Kingdoms 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3435c378bb76d4357324dd7e69f3cd18.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/4/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 600,
+      "numero": 5,
+      "titulo": "The Twelve Kingdoms 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d490d7b4576290fa60eb31b5fc917ad1.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/5/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 601,
+      "numero": 6,
+      "titulo": "The Twelve Kingdoms 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2f627fff19fda463cb386442eac2b3d.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/6/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 602,
+      "numero": 7,
+      "titulo": "The Twelve Kingdoms 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3992e9a68c5ae12bd18488bc579b30d.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/7/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 603,
+      "numero": 8,
+      "titulo": "The Twelve Kingdoms 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d86ea612dec96096c5e0fcc8dd42ab6d.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/8/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 604,
+      "numero": 9,
+      "titulo": "The Twelve Kingdoms 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cf81d8026a9018052c429cc4e56739b.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/9/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 605,
+      "numero": 10,
+      "titulo": "The Twelve Kingdoms 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c361bc7b2c033a83d663b8d9fb4be56e.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/10/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 606,
+      "numero": 11,
+      "titulo": "The Twelve Kingdoms 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44c4c17332cace2124a1a836d9fc4b6f.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/11/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 607,
+      "numero": 12,
+      "titulo": "The Twelve Kingdoms 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc82d632c9fcecb0778afbc7924494a6.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/12/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 608,
+      "numero": 13,
+      "titulo": "The Twelve Kingdoms 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_996a7fa078cc36c46d02f9af3bef918b.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/13/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 609,
+      "numero": 14,
+      "titulo": "The Twelve Kingdoms 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7a728a67d909e714c0774e22cb806f2.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/14/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 610,
+      "numero": 15,
+      "titulo": "The Twelve Kingdoms 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00ac8ed3b4327bdd4ebbebcb2ba10a00.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/15/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 611,
+      "numero": 16,
+      "titulo": "The Twelve Kingdoms 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ebda540cbcc4d7336496819a46a1b68.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/16/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 612,
+      "numero": 17,
+      "titulo": "The Twelve Kingdoms 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f76a89f0cb91bc419542ce9fa43902dc.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/17/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 613,
+      "numero": 18,
+      "titulo": "The Twelve Kingdoms 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f29c21d4897f78948b91f03172341b7b.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/18/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 614,
+      "numero": 19,
+      "titulo": "The Twelve Kingdoms 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_851ddf5058cf22df63d3344ad89919cf.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/19/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 615,
+      "numero": 20,
+      "titulo": "The Twelve Kingdoms 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58d4d1e7b1e97b258c9ed0b37e02d087.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/20/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 616,
+      "numero": 21,
+      "titulo": "The Twelve Kingdoms 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7750ca3559e5b8e1f44210283368fc16.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/21/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 617,
+      "numero": 22,
+      "titulo": "The Twelve Kingdoms 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d44ee6f2c3f71b73125876103c8f6c4.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/22/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 618,
+      "numero": 23,
+      "titulo": "The Twelve Kingdoms 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb6fdc36b281b7d5eabf33396c2683a2.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/23/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 619,
+      "numero": 24,
+      "titulo": "The Twelve Kingdoms 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdc0d6e63aa8e41c89689f54970bb35f.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/24/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 620,
+      "numero": 25,
+      "titulo": "The Twelve Kingdoms 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b73dfe25b4b8714c029b37a6ad3006fa.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/25/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 621,
+      "numero": 26,
+      "titulo": "The Twelve Kingdoms 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85fc37b18c57097425b52fc7afbb6969.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/26/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 622,
+      "numero": 27,
+      "titulo": "The Twelve Kingdoms 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3871bd64012152bfb53fdf04b401193f.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/27/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 623,
+      "numero": 28,
+      "titulo": "The Twelve Kingdoms 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a733fa9b25f33689e2adbe72199f0e62.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/28/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 624,
+      "numero": 29,
+      "titulo": "The Twelve Kingdoms 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48ab2f9b45957ab574cf005eb8a76760.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/29/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 625,
+      "numero": 30,
+      "titulo": "The Twelve Kingdoms 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_233509073ed3432027d48b1a83f5fbd2.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/30/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 626,
+      "numero": 31,
+      "titulo": "The Twelve Kingdoms 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45645a27c4f1adc8a7a835976064a86d.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/31/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 627,
+      "numero": 32,
+      "titulo": "The Twelve Kingdoms 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_185c29dc24325934ee377cfda20e414c.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/32/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 628,
+      "numero": 33,
+      "titulo": "The Twelve Kingdoms 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42e77b63637ab381e8be5f8318cc28a2.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/33/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 629,
+      "numero": 34,
+      "titulo": "The Twelve Kingdoms 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_051e4e127b92f5d98d3c79b195f2b291.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/34/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 630,
+      "numero": 35,
+      "titulo": "The Twelve Kingdoms 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cc138f8dc04cbf16240daa92d8d50e2.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/35/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 631,
+      "numero": 36,
+      "titulo": "The Twelve Kingdoms 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7bb35b9c6ca2aee2df08cf09d7016c2.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/36/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 632,
+      "numero": 37,
+      "titulo": "The Twelve Kingdoms 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abd815286ba1007abfbb8415b83ae2cf.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/37/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 633,
+      "numero": 38,
+      "titulo": "The Twelve Kingdoms 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26dd0dbc6e3f4c8043749885523d6a25.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/38/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 634,
+      "numero": 39,
+      "titulo": "The Twelve Kingdoms 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6766aa2750c19aad2fa1b32f36ed4aee.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/39/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 635,
+      "numero": 40,
+      "titulo": "The Twelve Kingdoms 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a10bbd480e4c5573d8f3af73ae0454b.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/40/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 636,
+      "numero": 41,
+      "titulo": "The Twelve Kingdoms 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5ab0bc60ac7929182aadd08703f1ec6.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/41/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 637,
+      "numero": 42,
+      "titulo": "The Twelve Kingdoms 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a532400ed62e772b9dc0b86f46e583ff.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/42/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 638,
+      "numero": 43,
+      "titulo": "The Twelve Kingdoms 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c27cea8526af8cfee3be5e183ac9605.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/43/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 639,
+      "numero": 44,
+      "titulo": "The Twelve Kingdoms 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f96613235062963ccde717b18f97592.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/44/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 640,
+      "numero": 45,
+      "titulo": "The Twelve Kingdoms 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ffce04d92a4d6cb21c1494cdfcd6dc1.jpg",
+      "url_origen": "https://jkanime.net/juuni-kokuki/45/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "34",
+  "cantidad_episodios_declarada": 45,
+  "detalle_extraido_en": "2026-08-26T18:33:08+00:00"
+}

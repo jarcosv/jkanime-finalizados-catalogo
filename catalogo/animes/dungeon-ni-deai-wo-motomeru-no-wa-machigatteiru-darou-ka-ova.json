@@ -1,0 +1,29 @@
+{
+  "id_origen": 1970,
+  "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ova",
+  "titulo": "Danmachi OVA",
+  "titulo_corto": "Danmachi OVA",
+  "sinopsis": "Basado en la novela ligera de Oomori Fujino",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ova/",
+  "episodios": [
+    {
+      "id_origen": 33570,
+      "numero": 1,
+      "titulo": "Danmachi OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e67a27ba8bb6ba92dc274342c874d373.jpg",
+      "url_origen": "https://jkanime.net/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ova/1/",
+      "publicado_en_origen": "2016-12-06 18:26:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1970",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:26+00:00"
+}

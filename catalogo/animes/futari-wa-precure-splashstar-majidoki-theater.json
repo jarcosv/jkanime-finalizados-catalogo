@@ -1,0 +1,29 @@
+{
+  "id_origen": 4201,
+  "slug": "futari-wa-precure-splashstar-majidoki-theater",
+  "titulo": "Futari wa Precure: Splash☆Star Maji★Doki♥ Theater",
+  "titulo_corto": "Futari wa Precure: Splash☆Star...",
+  "sinopsis": "Una semilla de esperanza desciende del cielo, aterriza sobre la cabeza de Flappy y brota entre sus orejas. Goyaan es enviado tras la semilla de la esperanza y utiliza una semilla de la desesperación para transformar un Uzaina, ¡lo que causa grandes problemas a los Precure!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/futari-wa-precure-splashstar-majidoki-theater.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/futari-wa-precure-splashstar-majidoki-theater/",
+  "episodios": [
+    {
+      "id_origen": 64203,
+      "numero": 1,
+      "titulo": "Futari wa Precure: Splash☆Star Maji★Doki♥ Theater",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6e11c38556c8af1c142ecc2e8e698b2.jpg",
+      "url_origen": "https://jkanime.net/futari-wa-precure-splashstar-majidoki-theater/1/",
+      "publicado_en_origen": "2025-06-29 02:25:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4201",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:27:37+00:00"
+}

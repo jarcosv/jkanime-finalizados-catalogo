@@ -1,0 +1,29 @@
+{
+  "id_origen": 1261,
+  "slug": "d-frag-ova",
+  "titulo": "D-Frag! OVA",
+  "titulo_corto": "D-Frag! OVA",
+  "sinopsis": "OVA de D-Frag",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/d-frag-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/d-frag-ova/",
+  "episodios": [
+    {
+      "id_origen": 24849,
+      "numero": 1,
+      "titulo": "D-Frag! OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e16a7577e3b4c37bdea8a8d99ac27660.jpg",
+      "url_origen": "https://jkanime.net/d-frag-ova/1/",
+      "publicado_en_origen": "2014-09-23 17:27:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1261",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:09+00:00"
+}

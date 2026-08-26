@@ -1,0 +1,37 @@
+{
+  "id_origen": 1837,
+  "slug": "kuma-miko-specials",
+  "titulo": "Kuma Miko Specials",
+  "titulo_corto": "Kuma Miko Specials",
+  "sinopsis": "Episodios especiales incluídos en los BD/DVD",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kuma-miko-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kuma-miko-specials/",
+  "episodios": [
+    {
+      "id_origen": 31906,
+      "numero": 1,
+      "titulo": "Kuma Miko Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6107f0a7614917c3c78a74ebe45f00ca.jpg",
+      "url_origen": "https://jkanime.net/kuma-miko-specials/1/",
+      "publicado_en_origen": "2016-06-26 16:43:14"
+    },
+    {
+      "id_origen": 32898,
+      "numero": 2,
+      "titulo": "Kuma Miko Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b325f6f5597950ec6ba7cce1e82f04d2.jpg",
+      "url_origen": "https://jkanime.net/kuma-miko-specials/2/",
+      "publicado_en_origen": "2016-09-29 14:45:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1837",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:35:51+00:00"
+}

@@ -1,0 +1,181 @@
+{
+  "id_origen": 1054,
+  "slug": "nisekoi",
+  "titulo": "Nisekoi",
+  "titulo_corto": "Nisekoi",
+  "sinopsis": "Ichijou Raku es un estudiante de instituto que tiene que fingir estar enamorado de una chica a la que en principio no soporta.\n\nRaku es en realidad el heredero de un gran clan de yakuzas, y acabará teniendo que relacionarse con la recién conocida Chitoge sin poder evitarlo, puesto que es la hija del jefe de un clan rival. Ambos fingirán tener una relación por el bien de sus familias, y todo el mundo se lo cree. Raku descubrirá que Chitoge guarda con cariño una llave desde su infancia pero no recuerda de qué era",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nisekoi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nisekoi/",
+  "episodios": [
+    {
+      "id_origen": 22408,
+      "numero": 1,
+      "titulo": "Nisekoi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57d69b8c4d53a3fdcae582b026285ca9.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/1/",
+      "publicado_en_origen": "2014-01-11 13:13:43"
+    },
+    {
+      "id_origen": 22471,
+      "numero": 2,
+      "titulo": "Nisekoi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_990b1b9fea9280d08dda7a8969839df0.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/2/",
+      "publicado_en_origen": "2014-01-18 13:16:23"
+    },
+    {
+      "id_origen": 22526,
+      "numero": 3,
+      "titulo": "Nisekoi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ff9f36ae38969dcf2b80b93bab62fea.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/3/",
+      "publicado_en_origen": "2014-01-25 13:16:01"
+    },
+    {
+      "id_origen": 22589,
+      "numero": 4,
+      "titulo": "Nisekoi - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d479d9a70cc8ef8d85152c28a1619b69.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/4/",
+      "publicado_en_origen": "2014-02-01 13:13:21"
+    },
+    {
+      "id_origen": 22649,
+      "numero": 5,
+      "titulo": "Nisekoi - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47d02b9b38d9ac9e7448a0e2dd69a5b0.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/5/",
+      "publicado_en_origen": "2014-02-08 13:13:49"
+    },
+    {
+      "id_origen": 22717,
+      "numero": 6,
+      "titulo": "Nisekoi - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_647243eef6c49fd215161ff12ac35c0c.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/6/",
+      "publicado_en_origen": "2014-02-15 13:15:16"
+    },
+    {
+      "id_origen": 22775,
+      "numero": 7,
+      "titulo": "Nisekoi - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5067cd967516f7ee90d0e763afc36f27.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/7/",
+      "publicado_en_origen": "2014-02-22 13:13:20"
+    },
+    {
+      "id_origen": 22839,
+      "numero": 8,
+      "titulo": "Nisekoi - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6b373606643e17448acc495e0f2dacb.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/8/",
+      "publicado_en_origen": "2014-03-01 13:12:19"
+    },
+    {
+      "id_origen": 22900,
+      "numero": 9,
+      "titulo": "Nisekoi - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a28194c69e15903af56413e0eb219852.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/9/",
+      "publicado_en_origen": "2014-03-08 13:11:34"
+    },
+    {
+      "id_origen": 22962,
+      "numero": 10,
+      "titulo": "Nisekoi - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_116fa3c7e3bfce292c243d0b77344200.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/10/",
+      "publicado_en_origen": "2014-03-15 12:11:20"
+    },
+    {
+      "id_origen": 23040,
+      "numero": 11,
+      "titulo": "Nisekoi - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97f59593ea116ffeac4aae79181c2d86.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/11/",
+      "publicado_en_origen": "2014-03-22 12:11:34"
+    },
+    {
+      "id_origen": 23094,
+      "numero": 12,
+      "titulo": "Nisekoi - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c4ce2d66be954338a51e72eb79aae10.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/12/",
+      "publicado_en_origen": "2014-03-29 12:11:45"
+    },
+    {
+      "id_origen": 23137,
+      "numero": 13,
+      "titulo": "Nisekoi - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8857f91319bfa23d6fa43b632b4e1163.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/13/",
+      "publicado_en_origen": "2014-04-05 12:11:12"
+    },
+    {
+      "id_origen": 23193,
+      "numero": 14,
+      "titulo": "Nisekoi - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_543f040479c7e7c41bbabd257c13ef2d.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/14/",
+      "publicado_en_origen": "2014-04-12 12:06:36"
+    },
+    {
+      "id_origen": 23252,
+      "numero": 15,
+      "titulo": "Nisekoi - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6872fbd4d9c2156c2cf1230e206e6578.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/15/",
+      "publicado_en_origen": "2014-04-19 12:13:41"
+    },
+    {
+      "id_origen": 23327,
+      "numero": 16,
+      "titulo": "Nisekoi - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61340e853c1b55df76945afcbe5fcadb.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/16/",
+      "publicado_en_origen": "2014-04-26 12:05:47"
+    },
+    {
+      "id_origen": 23387,
+      "numero": 17,
+      "titulo": "Nisekoi - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d06f17fd991dce7c7b7b5d73121b651e.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/17/",
+      "publicado_en_origen": "2014-05-03 12:06:53"
+    },
+    {
+      "id_origen": 23444,
+      "numero": 18,
+      "titulo": "Nisekoi - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2465517595f5ea9f225d52ed73a4d0db.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/18/",
+      "publicado_en_origen": "2014-05-10 12:08:21"
+    },
+    {
+      "id_origen": 23502,
+      "numero": 19,
+      "titulo": "Nisekoi - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc9ebb08357dd4ea859912a69b5f9a0a.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/19/",
+      "publicado_en_origen": "2014-05-17 12:07:08"
+    },
+    {
+      "id_origen": 23561,
+      "numero": 20,
+      "titulo": "Nisekoi - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20506326141455bed7586439ef2537c4.jpg",
+      "url_origen": "https://jkanime.net/nisekoi/20/",
+      "publicado_en_origen": "2014-05-24 12:06:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:57+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1054",
+  "cantidad_episodios_declarada": 20,
+  "detalle_extraido_en": "2026-08-26T18:40:31+00:00"
+}

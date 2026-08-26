@@ -1,0 +1,29 @@
+{
+  "id_origen": 584,
+  "slug": "fate-prototype",
+  "titulo": "Fate/Prototype",
+  "titulo_corto": "Fate/Prototype",
+  "sinopsis": "Versión animada resumida de la novela que Kinoko Nasu escribió en el instituto como borrador original de Fate/stay night.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fate-prototype.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fate-prototype/",
+  "episodios": [
+    {
+      "id_origen": 15972,
+      "numero": 1,
+      "titulo": "Fate/Prototype",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e71b01a76dd61177e2dbfa7345b8e6de.jpg",
+      "url_origen": "https://jkanime.net/fate-prototype/1/",
+      "publicado_en_origen": "2012-06-20 02:05:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "584",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:56+00:00"
+}

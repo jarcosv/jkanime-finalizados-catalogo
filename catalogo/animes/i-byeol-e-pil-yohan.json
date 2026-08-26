@@ -1,0 +1,29 @@
+{
+  "id_origen": 4107,
+  "slug": "i-byeol-e-pil-yohan",
+  "titulo": "I Byeol-e Pil-yohan",
+  "titulo_corto": "I Byeol-e Pil-yohan",
+  "sinopsis": "Nan-young es una científica cuya madre astronauta no regresó a la Tierra cuando las cosas se torcieron durante su sondeo en Marte. Nan-young siempre ha soñado con explorar también el espacio y anhela ir a Marte con la esperanza de encontrar algún rastro de su madre.\r\n\r\nSu sueño se hace realidad cuando es seleccionada como una de las astronautas para un proyecto de sonda a Marte. Pero antes de despegar, conoce a Jay, un músico que también arregla instrumentos de sonido retro. Todo gracias a un viejo tocadiscos que Nan-young heredó de su madre.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/i-byeol-e-pil-yohan.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/i-byeol-e-pil-yohan/",
+  "episodios": [
+    {
+      "id_origen": 63359,
+      "numero": 1,
+      "titulo": "I Byeol-e Pil-yohan",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_469b289e07fe13f6e507f31688988aa2.jpg",
+      "url_origen": "https://jkanime.net/i-byeol-e-pil-yohan/1/",
+      "publicado_en_origen": "2025-05-30 15:22:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:26+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4107",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:31:30+00:00"
+}

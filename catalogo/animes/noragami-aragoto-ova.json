@@ -1,0 +1,37 @@
+{
+  "id_origen": 1703,
+  "slug": "noragami-aragoto-ova",
+  "titulo": "Noragami Aragoto OVA",
+  "titulo_corto": "Noragami Aragoto OVA",
+  "sinopsis": "Ovas de Noragami Aragoto.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/noragami-aragoto-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/noragami-aragoto-ova/",
+  "episodios": [
+    {
+      "id_origen": 30117,
+      "numero": 1,
+      "titulo": "Noragami Aragoto OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9807e8ebfb97d09f0b9ac74acd2c0454.jpg",
+      "url_origen": "https://jkanime.net/noragami-aragoto-ova/1/",
+      "publicado_en_origen": "2015-11-19 14:25:52"
+    },
+    {
+      "id_origen": 31147,
+      "numero": 2,
+      "titulo": "Noragami Aragoto OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4135e6160b631ba9d74c58e11136d6f8.jpg",
+      "url_origen": "https://jkanime.net/noragami-aragoto-ova/2/",
+      "publicado_en_origen": "2016-03-18 23:45:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1703",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:40:46+00:00"
+}

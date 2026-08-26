@@ -1,0 +1,29 @@
+{
+  "id_origen": 754,
+  "slug": "minami-ke-omatase",
+  "titulo": "Minami-ke Omatase",
+  "titulo_corto": "Minami-ke Omatase",
+  "sinopsis": "Ova incluida con el 10mo. volumen del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/minami-ke-omatase.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/minami-ke-omatase/",
+  "episodios": [
+    {
+      "id_origen": 18945,
+      "numero": 1,
+      "titulo": "Minami-ke Omatase",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03cef8e7edda311c36b08c98bbb2f92f.jpg",
+      "url_origen": "https://jkanime.net/minami-ke-omatase/1/",
+      "publicado_en_origen": "2013-01-06 06:28:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "754",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:38:40+00:00"
+}

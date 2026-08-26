@@ -1,0 +1,557 @@
+{
+  "id_origen": 2946,
+  "slug": "digimon-ghost-game",
+  "titulo": "Digimon Ghost Game",
+  "titulo_corto": "Digimon Ghost Game",
+  "sinopsis": "Los avistamientos de misteriosas criaturas conocidas como \"hologramas fantasmas\" han sido un tema popular en las redes sociales durante los últimos años. Según los rumores, varias personas han sido víctimas de estos espectros. Los afortunados que sobrevivieron a sus encuentros con los seres paranormales afirman que se parecían a hologramas defectuosos.\n\nEl estudiante de secundaria de la Academia Hazakura, Hiro Amanokawa, cree que estos avistamientos son simplemente una leyenda urbana. Sin embargo, a medida que los incidentes comienzan a aumentar en frecuencia, recuerda el día en que su padre desapareció repentinamente, con extraños relojes digitales como únicas reliquias de su desaparición. Al igual que los otros avistamientos, lo que le sucedió al padre de Hiro no puede explicarse mediante la lógica convencional.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-ghost-game.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/digimon-ghost-game/",
+  "episodios": [
+    {
+      "id_origen": 46806,
+      "numero": 1,
+      "titulo": "Digimon Ghost Game - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30bdcdc2959ac39949e5113ad431d11f.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/1/",
+      "publicado_en_origen": "2021-10-02 23:47:54"
+    },
+    {
+      "id_origen": 46874,
+      "numero": 2,
+      "titulo": "Digimon Ghost Game - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da4add037901e5a56c457a74cac7c36b.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/2/",
+      "publicado_en_origen": "2021-10-09 23:32:50"
+    },
+    {
+      "id_origen": 46999,
+      "numero": 3,
+      "titulo": "Digimon Ghost Game - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c803c1d8fef5385ca87aa1f8952338e.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/3/",
+      "publicado_en_origen": "2021-10-24 03:43:52"
+    },
+    {
+      "id_origen": 47073,
+      "numero": 4,
+      "titulo": "Digimon Ghost Game - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28eb72beb39c803322c843071024b921.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/4/",
+      "publicado_en_origen": "2021-10-30 23:13:43"
+    },
+    {
+      "id_origen": 47131,
+      "numero": 5,
+      "titulo": "Digimon Ghost Game - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e984ce2ff389ee3a938f3ca5b014e4d.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/5/",
+      "publicado_en_origen": "2021-11-07 03:06:52"
+    },
+    {
+      "id_origen": 47209,
+      "numero": 6,
+      "titulo": "Digimon Ghost Game - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00e71fa1a94269bb93176ca5701fc867.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/6/",
+      "publicado_en_origen": "2021-11-13 23:35:10"
+    },
+    {
+      "id_origen": 47317,
+      "numero": 7,
+      "titulo": "Digimon Ghost Game - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c34fc4c9109e2813107616f91f8c252d.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/7/",
+      "publicado_en_origen": "2021-11-21 01:17:03"
+    },
+    {
+      "id_origen": 47372,
+      "numero": 8,
+      "titulo": "Digimon Ghost Game - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c22881004aabcdea7d937a4fe0205fb2.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/8/",
+      "publicado_en_origen": "2021-11-27 22:55:51"
+    },
+    {
+      "id_origen": 47479,
+      "numero": 9,
+      "titulo": "Digimon Ghost Game - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64cde8cf262a59edacc95c80bd01d695.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/9/",
+      "publicado_en_origen": "2021-12-04 22:48:50"
+    },
+    {
+      "id_origen": 47536,
+      "numero": 10,
+      "titulo": "Digimon Ghost Game - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08f4d6c8bd47ff6e797433afbe91ae3b.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/10/",
+      "publicado_en_origen": "2021-12-11 23:25:35"
+    },
+    {
+      "id_origen": 47778,
+      "numero": 11,
+      "titulo": "Digimon Ghost Game - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-ghost-game.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/11/",
+      "publicado_en_origen": "2021-12-19 00:22:22"
+    },
+    {
+      "id_origen": 47823,
+      "numero": 12,
+      "titulo": "Digimon Ghost Game - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fdf5b1f75b97ecec8c0e7c5dee739f6.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/12/",
+      "publicado_en_origen": "2021-12-26 01:57:01"
+    },
+    {
+      "id_origen": 47934,
+      "numero": 13,
+      "titulo": "Digimon Ghost Game - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ff499e48ab77b576ef1c3359ec70042.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/13/",
+      "publicado_en_origen": "2022-01-08 22:44:07"
+    },
+    {
+      "id_origen": 47979,
+      "numero": 14,
+      "titulo": "Digimon Ghost Game - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c538ad6a469be29e6d278928930e8a0.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/14/",
+      "publicado_en_origen": "2022-01-15 22:44:00"
+    },
+    {
+      "id_origen": 48063,
+      "numero": 15,
+      "titulo": "Digimon Ghost Game - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_902850e8151c331e357fee2a74b5b0d8.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/15/",
+      "publicado_en_origen": "2022-01-22 22:53:20"
+    },
+    {
+      "id_origen": 48121,
+      "numero": 16,
+      "titulo": "Digimon Ghost Game - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21c789095ff4e48a0a6c869b74f1e005.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/16/",
+      "publicado_en_origen": "2022-01-30 01:16:49"
+    },
+    {
+      "id_origen": 48190,
+      "numero": 17,
+      "titulo": "Digimon Ghost Game - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe1fa775d818957a76304c35e1939355.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/17/",
+      "publicado_en_origen": "2022-02-06 01:17:23"
+    },
+    {
+      "id_origen": 48252,
+      "numero": 18,
+      "titulo": "Digimon Ghost Game - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6456e5e81dd87446f811df77548e6a6b.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/18/",
+      "publicado_en_origen": "2022-02-13 01:06:13"
+    },
+    {
+      "id_origen": 48305,
+      "numero": 19,
+      "titulo": "Digimon Ghost Game - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48b0c1e73495f288ff1e4c1244101cc8.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/19/",
+      "publicado_en_origen": "2022-02-20 00:36:12"
+    },
+    {
+      "id_origen": 48352,
+      "numero": 20,
+      "titulo": "Digimon Ghost Game - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3e5dff7ef6f48accf0bf22aaa52b94b.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/20/",
+      "publicado_en_origen": "2022-02-26 23:59:30"
+    },
+    {
+      "id_origen": 48495,
+      "numero": 21,
+      "titulo": "Digimon Ghost Game - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80759094e5f0af86d44d8bce932673ae.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/21/",
+      "publicado_en_origen": "2022-03-06 00:00:29"
+    },
+    {
+      "id_origen": 48976,
+      "numero": 22,
+      "titulo": "Digimon Ghost Game - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20ef7a2f9fc76039ebd837de2fbc00cf.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/22/",
+      "publicado_en_origen": "2022-04-17 02:45:15"
+    },
+    {
+      "id_origen": 49031,
+      "numero": 23,
+      "titulo": "Digimon Ghost Game - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e17d1a0db048c466ba0a15fffaaa247.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/23/",
+      "publicado_en_origen": "2022-04-23 23:30:33"
+    },
+    {
+      "id_origen": 49130,
+      "numero": 24,
+      "titulo": "Digimon Ghost Game - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d0ba3d7eb612a216c3e4d002deabdb7.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/24/",
+      "publicado_en_origen": "2022-05-01 02:21:03"
+    },
+    {
+      "id_origen": 49337,
+      "numero": 25,
+      "titulo": "Digimon Ghost Game - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da8285d6f7feb969b7a71ffb72e6e7b6.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/25/",
+      "publicado_en_origen": "2022-05-15 01:11:40"
+    },
+    {
+      "id_origen": 49442,
+      "numero": 26,
+      "titulo": "Digimon Ghost Game - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b81f3b00de0efcf006389957c94f02e1.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/26/",
+      "publicado_en_origen": "2022-05-22 03:49:25"
+    },
+    {
+      "id_origen": 49500,
+      "numero": 27,
+      "titulo": "Digimon Ghost Game - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_424351fe60d01ce7de0fb0e00956b222.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/27/",
+      "publicado_en_origen": "2022-05-29 02:16:35"
+    },
+    {
+      "id_origen": 49553,
+      "numero": 28,
+      "titulo": "Digimon Ghost Game - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e2f66ca456b28dd4425c8505cc2aa19.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/28/",
+      "publicado_en_origen": "2022-06-05 11:19:51"
+    },
+    {
+      "id_origen": 49630,
+      "numero": 29,
+      "titulo": "Digimon Ghost Game - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56e421575126bfe4c0592353bab5cfe6.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/29/",
+      "publicado_en_origen": "2022-06-12 02:43:36"
+    },
+    {
+      "id_origen": 49692,
+      "numero": 30,
+      "titulo": "Digimon Ghost Game - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b3d44412f11eafc15e2324e8075d4c6.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/30/",
+      "publicado_en_origen": "2022-06-19 02:28:15"
+    },
+    {
+      "id_origen": 49739,
+      "numero": 31,
+      "titulo": "Digimon Ghost Game - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c277d5126bf97c59081377f748f2e77.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/31/",
+      "publicado_en_origen": "2022-06-26 16:04:34"
+    },
+    {
+      "id_origen": 49787,
+      "numero": 32,
+      "titulo": "Digimon Ghost Game - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85da9e5c5e41f009fdfceeb0dc2902da.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/32/",
+      "publicado_en_origen": "2022-07-03 02:27:12"
+    },
+    {
+      "id_origen": 49835,
+      "numero": 33,
+      "titulo": "Digimon Ghost Game - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_471d8091e1dc5e37cc33f0e818cbf502.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/33/",
+      "publicado_en_origen": "2022-07-10 02:45:26"
+    },
+    {
+      "id_origen": 49889,
+      "numero": 34,
+      "titulo": "Digimon Ghost Game - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e07532bfa19c554c0108e1b921602a17.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/34/",
+      "publicado_en_origen": "2022-07-16 23:51:18"
+    },
+    {
+      "id_origen": 49946,
+      "numero": 35,
+      "titulo": "Digimon Ghost Game - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e25c91cd5c3e88a1fb244731fcf4fc4.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/35/",
+      "publicado_en_origen": "2022-07-23 22:42:39"
+    },
+    {
+      "id_origen": 49999,
+      "numero": 36,
+      "titulo": "Digimon Ghost Game - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d618a9716269527f08dba747f012cc1.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/36/",
+      "publicado_en_origen": "2022-07-31 01:19:01"
+    },
+    {
+      "id_origen": 50069,
+      "numero": 37,
+      "titulo": "Digimon Ghost Game - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f70d6ca1e64c53b27847a0dfdfe572c6.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/37/",
+      "publicado_en_origen": "2022-08-06 22:53:47"
+    },
+    {
+      "id_origen": 50183,
+      "numero": 38,
+      "titulo": "Digimon Ghost Game - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d2cf15e7ae246111de37f830b90930c.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/38/",
+      "publicado_en_origen": "2022-08-14 12:20:13"
+    },
+    {
+      "id_origen": 50248,
+      "numero": 39,
+      "titulo": "Digimon Ghost Game - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-ghost-game.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/39/",
+      "publicado_en_origen": "2022-08-21 01:47:55"
+    },
+    {
+      "id_origen": 50361,
+      "numero": 40,
+      "titulo": "Digimon Ghost Game - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1699c04919a191575f1fc8fa08d440fe.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/40/",
+      "publicado_en_origen": "2022-08-28 01:16:44"
+    },
+    {
+      "id_origen": 50435,
+      "numero": 41,
+      "titulo": "Digimon Ghost Game - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aaa79004a4cda228d8df447d18e3a882.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/41/",
+      "publicado_en_origen": "2022-09-03 22:43:48"
+    },
+    {
+      "id_origen": 50526,
+      "numero": 42,
+      "titulo": "Digimon Ghost Game - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c06db0f9ea8bcaa1506f58ff1c8064e7.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/42/",
+      "publicado_en_origen": "2022-09-10 22:40:44"
+    },
+    {
+      "id_origen": 50583,
+      "numero": 43,
+      "titulo": "Digimon Ghost Game - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_487cc78e7fa0d3fbd7835ee0509e3070.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/43/",
+      "publicado_en_origen": "2022-09-17 22:45:03"
+    },
+    {
+      "id_origen": 50646,
+      "numero": 44,
+      "titulo": "Digimon Ghost Game - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0b6350b5eec850edd8ac8840eb2d809.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/44/",
+      "publicado_en_origen": "2022-09-24 23:39:21"
+    },
+    {
+      "id_origen": 50692,
+      "numero": 45,
+      "titulo": "Digimon Ghost Game - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e6e2edc0212a557b5192bdeb9d4a8da.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/45/",
+      "publicado_en_origen": "2022-10-01 23:13:42"
+    },
+    {
+      "id_origen": 50743,
+      "numero": 46,
+      "titulo": "Digimon Ghost Game - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cc96495eb5da3ff6ce19dfd955cef00.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/46/",
+      "publicado_en_origen": "2022-10-09 00:38:46"
+    },
+    {
+      "id_origen": 50837,
+      "numero": 47,
+      "titulo": "Digimon Ghost Game - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b37684418bfe60242a49155f036468eb.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/47/",
+      "publicado_en_origen": "2022-10-21 09:05:24"
+    },
+    {
+      "id_origen": 50861,
+      "numero": 48,
+      "titulo": "Digimon Ghost Game - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ab8b3975af7ffc655995a4d82fcabc5.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/48/",
+      "publicado_en_origen": "2022-10-23 09:28:17"
+    },
+    {
+      "id_origen": 50932,
+      "numero": 49,
+      "titulo": "Digimon Ghost Game - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f7f0396a687d12d45dccdd96e5447c4.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/49/",
+      "publicado_en_origen": "2022-10-30 09:45:45"
+    },
+    {
+      "id_origen": 51000,
+      "numero": 50,
+      "titulo": "Digimon Ghost Game - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66c2577af95fd5de0b10c9048823596c.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/50/",
+      "publicado_en_origen": "2022-11-06 10:06:50"
+    },
+    {
+      "id_origen": 51050,
+      "numero": 51,
+      "titulo": "Digimon Ghost Game - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_368724476d4c08bf2c0292a124f4662d.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/51/",
+      "publicado_en_origen": "2022-11-13 09:52:20"
+    },
+    {
+      "id_origen": 51110,
+      "numero": 52,
+      "titulo": "Digimon Ghost Game - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99def22544ee2da8bacfc99307a1cd18.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/52/",
+      "publicado_en_origen": "2022-11-19 23:49:30"
+    },
+    {
+      "id_origen": 51165,
+      "numero": 53,
+      "titulo": "Digimon Ghost Game - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fbb0e80cd410edc9a7d85644cbb01a5.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/53/",
+      "publicado_en_origen": "2022-11-27 03:00:33"
+    },
+    {
+      "id_origen": 51283,
+      "numero": 54,
+      "titulo": "Digimon Ghost Game - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31656fd0128d4fdbd0b46bec7c762c75.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/54/",
+      "publicado_en_origen": "2022-12-03 23:51:10"
+    },
+    {
+      "id_origen": 51335,
+      "numero": 55,
+      "titulo": "Digimon Ghost Game - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b878e15c77ad8a4a32e157678857293a.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/55/",
+      "publicado_en_origen": "2022-12-11 11:06:39"
+    },
+    {
+      "id_origen": 51394,
+      "numero": 56,
+      "titulo": "Digimon Ghost Game - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b5f5d6a156dc9aefbf6ad59a7402e5d.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/56/",
+      "publicado_en_origen": "2022-12-18 00:34:26"
+    },
+    {
+      "id_origen": 51445,
+      "numero": 57,
+      "titulo": "Digimon Ghost Game - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6955fb336005ea165f56cb18bde4ea96.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/57/",
+      "publicado_en_origen": "2022-12-25 09:22:42"
+    },
+    {
+      "id_origen": 51523,
+      "numero": 58,
+      "titulo": "Digimon Ghost Game - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2fe69deee680bcf69c0aa42d5924698.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/58/",
+      "publicado_en_origen": "2023-01-08 00:18:03"
+    },
+    {
+      "id_origen": 51591,
+      "numero": 59,
+      "titulo": "Digimon Ghost Game - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f130a001cbcb8e49685dd937d4da7257.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/59/",
+      "publicado_en_origen": "2023-01-15 02:10:20"
+    },
+    {
+      "id_origen": 51657,
+      "numero": 60,
+      "titulo": "Digimon Ghost Game - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc202d1b3b5ec920150aa2bef9516004.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/60/",
+      "publicado_en_origen": "2023-01-21 23:03:40"
+    },
+    {
+      "id_origen": 51732,
+      "numero": 61,
+      "titulo": "Digimon Ghost Game - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a01519c62d2cb08bc127505444b441a4.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/61/",
+      "publicado_en_origen": "2023-01-29 02:54:03"
+    },
+    {
+      "id_origen": 51803,
+      "numero": 62,
+      "titulo": "Digimon Ghost Game - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f30fb64f093fb44a681c50e8f40b5c70.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/62/",
+      "publicado_en_origen": "2023-02-04 22:51:45"
+    },
+    {
+      "id_origen": 51868,
+      "numero": 63,
+      "titulo": "Digimon Ghost Game - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1cdf7244916f7e5fecf9f6d22442553.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/63/",
+      "publicado_en_origen": "2023-02-11 23:20:41"
+    },
+    {
+      "id_origen": 51935,
+      "numero": 64,
+      "titulo": "Digimon Ghost Game - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e3e5a6e23b0f61d30a7d7d834255b38.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/64/",
+      "publicado_en_origen": "2023-02-18 23:11:54"
+    },
+    {
+      "id_origen": 51995,
+      "numero": 65,
+      "titulo": "Digimon Ghost Game - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6654db3934f45204ed8cccf71949ad1.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/65/",
+      "publicado_en_origen": "2023-02-26 00:55:30"
+    },
+    {
+      "id_origen": 52194,
+      "numero": 66,
+      "titulo": "Digimon Ghost Game - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdf7bde1b5f1d9ef9ffd968f5176bfa7.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/66/",
+      "publicado_en_origen": "2023-03-18 22:51:52"
+    },
+    {
+      "id_origen": 52251,
+      "numero": 67,
+      "titulo": "Digimon Ghost Game - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1827f5298e0a0b38d2cfd519875572f5.jpg",
+      "url_origen": "https://jkanime.net/digimon-ghost-game/67/",
+      "publicado_en_origen": "2023-03-25 22:55:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2946",
+  "cantidad_episodios_declarada": 67,
+  "detalle_extraido_en": "2026-08-26T18:25:11+00:00"
+}

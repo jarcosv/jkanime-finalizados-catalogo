@@ -1,0 +1,37 @@
+{
+  "id_origen": 2754,
+  "slug": "dokyuu-hentai-hxeros-ova",
+  "titulo": "Dokyuu Hentai HxEros OVA",
+  "titulo_corto": "Dokyuu Hentai HxEros OVA",
+  "sinopsis": "El primer episodio de video original seguirá a tres de las heroínas principales en una historia original.\n\nIncluido con los volúmenes 11 y 12 del manga Dokyuu Hentai HxEros.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dokyuu-hentai-hxeros-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dokyuu-hentai-hxeros-ova/",
+  "episodios": [
+    {
+      "id_origen": 44062,
+      "numero": 1,
+      "titulo": "Dokyuu Hentai HxEros OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b87b249b79fe3604cfa138d155eba82.jpg",
+      "url_origen": "https://jkanime.net/dokyuu-hentai-hxeros-ova/1/",
+      "publicado_en_origen": "2020-11-27 14:09:56"
+    },
+    {
+      "id_origen": 44945,
+      "numero": 2,
+      "titulo": "Dokyuu Hentai HxEros OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7455352c702492ca6c1490cb27e257a6.jpg",
+      "url_origen": "https://jkanime.net/dokyuu-hentai-hxeros-ova/2/",
+      "publicado_en_origen": "2021-03-12 13:39:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2754",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:25:17+00:00"
+}

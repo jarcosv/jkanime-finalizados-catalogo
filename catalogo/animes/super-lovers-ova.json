@@ -1,0 +1,37 @@
+{
+  "id_origen": 4718,
+  "slug": "super-lovers-ova",
+  "titulo": "Super Lovers OVA",
+  "titulo_corto": "Super Lovers OVA",
+  "sinopsis": "Incluido con los volúmenes 10 y 11 del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/super-lovers-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/super-lovers-ova/",
+  "episodios": [
+    {
+      "id_origen": 72881,
+      "numero": 1,
+      "titulo": "Super Lovers OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d39f2c6e526e9accf2ceb15128396813.jpg",
+      "url_origen": "https://jkanime.net/super-lovers-ova/1/",
+      "publicado_en_origen": "2026-04-29 08:13:19"
+    },
+    {
+      "id_origen": 72882,
+      "numero": 2,
+      "titulo": "Super Lovers OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e89c40a3bcd6a262446feb4d6aa72046.jpg",
+      "url_origen": "https://jkanime.net/super-lovers-ova/2/",
+      "publicado_en_origen": "2026-04-29 08:13:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4718",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:48:06+00:00"
+}

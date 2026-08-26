@@ -1,0 +1,253 @@
+{
+  "id_origen": 90,
+  "slug": "street-fighter-ii-v",
+  "titulo": "Street Fighter II V",
+  "titulo_corto": "Street Fighter II V",
+  "sinopsis": "Durante un recorrido por todo el mundo realizado por Ken y Ryu encuentran amigos y enemigos a los que se tienen que enfrentar en batallas. Ryu un joven vagabundo es el primero de los Street Fighter en aprender una técnica especial llamada Hadoken (gran bola de energía), y Ken Master un hijo de uno de los hombres mas ricos de E.E.U.U es quien paga todo el viaje por su querido amigo Ryu.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/street-fighter-ii-v.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/street-fighter-ii-v/",
+  "episodios": [
+    {
+      "id_origen": 2083,
+      "numero": 1,
+      "titulo": "Street Fighter 2 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e9e39fed3b8369ed940f52cf300cf88.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2084,
+      "numero": 2,
+      "titulo": "Street Fighter 2 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a088ea2078cd92b0b8a0e78a32c5c082.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2085,
+      "numero": 3,
+      "titulo": "Street Fighter 2 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0a209539d1e74ab9fe46b9e01a19a97.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2086,
+      "numero": 4,
+      "titulo": "Street Fighter 2 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f80ff32e08a25270b5f252ce39522f72.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2087,
+      "numero": 5,
+      "titulo": "Street Fighter 2 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d6b3e38b952600251ee92fe603170ff.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2088,
+      "numero": 6,
+      "titulo": "Street Fighter 2 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3a7f48c12e697d50c8a7ae7684644ef.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2089,
+      "numero": 7,
+      "titulo": "Street Fighter 2 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf424cb7b0dea050a42b9739eb261a3a.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/7/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2090,
+      "numero": 8,
+      "titulo": "Street Fighter 2 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26f5bd4aa64fdadf96152ca6e6408068.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/8/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2091,
+      "numero": 9,
+      "titulo": "Street Fighter 2 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b1ec366924b26fc98fa7b71a9c249cf.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/9/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2092,
+      "numero": 10,
+      "titulo": "Street Fighter 2 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_801272ee79cfde7fa5960571fee36b9b.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/10/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2093,
+      "numero": 11,
+      "titulo": "Street Fighter 2 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2ab001909a8a6f04b51920306046ce5.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/11/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2094,
+      "numero": 12,
+      "titulo": "Street Fighter 2 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf2226ddd41b1a2d0ae51dab54d32c36.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/12/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2095,
+      "numero": 13,
+      "titulo": "Street Fighter 2 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2cd4e8a2ce081c3d7c32c3cde4312ef7.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/13/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2096,
+      "numero": 14,
+      "titulo": "Street Fighter 2 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_194cf6c2de8e00c05fcf16c498adc7bf.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/14/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2097,
+      "numero": 15,
+      "titulo": "Street Fighter 2 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a03fa30821986dff10fc66647c84c9c3.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/15/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2098,
+      "numero": 16,
+      "titulo": "Street Fighter 2 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1d7311f2a312426d710e1c617fcbc8c.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/16/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2099,
+      "numero": 17,
+      "titulo": "Street Fighter 2 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_978d76676f5e7918f81d28e7d092ca0d.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/17/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 14375,
+      "numero": 18,
+      "titulo": "Street Fighter II V - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a95c40505b26d14572fa13eb4f2e7fe0.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/18/",
+      "publicado_en_origen": "2012-01-09 17:10:01"
+    },
+    {
+      "id_origen": 2100,
+      "numero": 19,
+      "titulo": "Street Fighter 2 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2cad8fa47bbef282badbb8de5374b894.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/19/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2101,
+      "numero": 20,
+      "titulo": "Street Fighter 2 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5866e93cab1776890fe343c9e7063fb.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/20/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2102,
+      "numero": 21,
+      "titulo": "Street Fighter 2 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8232e119d8f59aa83050a741631803a6.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/21/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2103,
+      "numero": 22,
+      "titulo": "Street Fighter 2 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b1ce3d73b70f1a7246e7b76a35fb552.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/22/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2104,
+      "numero": 23,
+      "titulo": "Street Fighter 2 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7e23670481ac78b3c4122a99ba60573.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/23/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2105,
+      "numero": 24,
+      "titulo": "Street Fighter 2 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24f0d2c90473b2bc949ad962e61d9bcb.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/24/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2106,
+      "numero": 25,
+      "titulo": "Street Fighter 2 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6335734dbc0b1ded766421cfc611750.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/25/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2107,
+      "numero": 26,
+      "titulo": "Street Fighter 2 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9185f3ec501c674c7c788464a36e7fb3.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/26/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2108,
+      "numero": 27,
+      "titulo": "Street Fighter 2 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_931af583573227f0220bc568c65ce104.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/27/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2109,
+      "numero": 28,
+      "titulo": "Street Fighter 2 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05546b0e38ab9175cd905eebcc6ebb76.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/28/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2110,
+      "numero": 29,
+      "titulo": "Street Fighter 2 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3535febaff29fcb7c0d20cbe94391c7.jpg",
+      "url_origen": "https://jkanime.net/street-fighter-ii-v/29/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "90",
+  "cantidad_episodios_declarada": 29,
+  "detalle_extraido_en": "2026-08-26T18:47:51+00:00"
+}

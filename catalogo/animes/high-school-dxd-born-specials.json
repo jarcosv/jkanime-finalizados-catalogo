@@ -1,0 +1,69 @@
+{
+  "id_origen": 1621,
+  "slug": "high-school-dxd-born-specials",
+  "titulo": "High School DxD BorN Specials",
+  "titulo_corto": "High School DxD BorN Specials",
+  "sinopsis": "Especiales incluidos en los volumenes BD/DVD",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/high-school-dxd-born-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/high-school-dxd-born-specials/",
+  "episodios": [
+    {
+      "id_origen": 74572,
+      "numero": 1,
+      "titulo": "High School DxD BorN Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_422ad85aa7d4ba1f0539e9e2e6509462.jpg",
+      "url_origen": "https://jkanime.net/high-school-dxd-born-specials/1/",
+      "publicado_en_origen": "2026-06-20 11:17:03"
+    },
+    {
+      "id_origen": 74573,
+      "numero": 2,
+      "titulo": "High School DxD BorN Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ec3f75a067606aa238286540e6395d1.jpg",
+      "url_origen": "https://jkanime.net/high-school-dxd-born-specials/2/",
+      "publicado_en_origen": "2026-06-20 11:17:03"
+    },
+    {
+      "id_origen": 74574,
+      "numero": 3,
+      "titulo": "High School DxD BorN Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aae45c2aa681a78cc7dafd069367d154.jpg",
+      "url_origen": "https://jkanime.net/high-school-dxd-born-specials/3/",
+      "publicado_en_origen": "2026-06-20 11:17:03"
+    },
+    {
+      "id_origen": 74575,
+      "numero": 4,
+      "titulo": "High School DxD BorN Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eaa9fb19c2e7f40ead800102a6488320.jpg",
+      "url_origen": "https://jkanime.net/high-school-dxd-born-specials/4/",
+      "publicado_en_origen": "2026-06-20 11:17:03"
+    },
+    {
+      "id_origen": 74576,
+      "numero": 5,
+      "titulo": "High School DxD BorN Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f2052036e1c318745e42d7ba2cde12e.jpg",
+      "url_origen": "https://jkanime.net/high-school-dxd-born-specials/5/",
+      "publicado_en_origen": "2026-06-20 11:17:03"
+    },
+    {
+      "id_origen": 74577,
+      "numero": 6,
+      "titulo": "High School DxD BorN Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9a71ec0fdee5249ca6a5b870cab6652.jpg",
+      "url_origen": "https://jkanime.net/high-school-dxd-born-specials/6/",
+      "publicado_en_origen": "2026-06-20 11:17:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1621",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:30:30+00:00"
+}

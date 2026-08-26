@@ -1,0 +1,453 @@
+{
+  "id_origen": 449,
+  "slug": "digimon-digital-monsters",
+  "titulo": "Digimon Adventure",
+  "titulo_corto": "Digimon Adventure",
+  "sinopsis": "Siete niños disfrutan de sus vacaciones de verano en un campamento, cuando de repente, se ven envueltos en un misterios mundo: El Mundo Digital. Un mundo paralelo al suyo formado a partir de datos digitales. Allí conocen a sus compañeros los digimon, y juntos tendrán que solucionar los extraños sucesos que aterran la Isla File, provocados por Devimon. Pero tal vez no sea esa el único motivo por el que aparecieron en aquél misterioso mundo, tendrán que afrontarse a más de una aventura para descubrirlo y volver a su mundo original.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-digital-monsters.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/digimon-digital-monsters/",
+  "episodios": [
+    {
+      "id_origen": 13142,
+      "numero": 1,
+      "titulo": "Digimon: Digital Monsters - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbd37fc75cd08ceff5c904ec09374997.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/1/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13143,
+      "numero": 2,
+      "titulo": "Digimon: Digital Monsters - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f048e308e7e425a59898a5339731e429.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/2/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13144,
+      "numero": 3,
+      "titulo": "Digimon: Digital Monsters - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1572ed60024e708cf21c4c6f19e7d550.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/3/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13145,
+      "numero": 4,
+      "titulo": "Digimon: Digital Monsters - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ef2480a65cde87091d69a3b8a7fec3a.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/4/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13146,
+      "numero": 5,
+      "titulo": "Digimon: Digital Monsters - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc580a0617b08b2ce02582e0af20875c.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/5/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13147,
+      "numero": 6,
+      "titulo": "Digimon: Digital Monsters - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_395db788289ee286662bbcabe78d99da.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/6/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13148,
+      "numero": 7,
+      "titulo": "Digimon: Digital Monsters - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a69ce85561d92b453d0d8ebae2e2cff6.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/7/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13149,
+      "numero": 8,
+      "titulo": "Digimon: Digital Monsters - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_822101d70094b444b08be638059568f2.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/8/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13150,
+      "numero": 9,
+      "titulo": "Digimon: Digital Monsters - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_302fb879d23a9f8b8b43c453fd3bfed3.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/9/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13151,
+      "numero": 10,
+      "titulo": "Digimon: Digital Monsters - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a370afda41a7ae62dcb8d1b721b92bed.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/10/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13152,
+      "numero": 11,
+      "titulo": "Digimon: Digital Monsters - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d92d7ec47187a662aacda2d4b4c7628e.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/11/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13153,
+      "numero": 12,
+      "titulo": "Digimon: Digital Monsters - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_775bc655c77d679c193f1982dac04668.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/12/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13154,
+      "numero": 13,
+      "titulo": "Digimon: Digital Monsters - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55a51239dc6fe8cf8c09ec91f36f5250.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/13/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13155,
+      "numero": 14,
+      "titulo": "Digimon: Digital Monsters - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afd208b1d98bc70e0aedc93bb4371c14.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/14/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13156,
+      "numero": 15,
+      "titulo": "Digimon: Digital Monsters - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f72a23858b9865a40479a3ce3f16649e.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/15/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13157,
+      "numero": 16,
+      "titulo": "Digimon: Digital Monsters - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_966b795bc7f3ccb35e3da08aebe98f18.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/16/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13158,
+      "numero": 17,
+      "titulo": "Digimon: Digital Monsters - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a3c31f4aad8845d25e421c69b07610d.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/17/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13159,
+      "numero": 18,
+      "titulo": "Digimon: Digital Monsters - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ef6c2494e3925e414c7730d6455b50f.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/18/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13160,
+      "numero": 19,
+      "titulo": "Digimon: Digital Monsters - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3a8185b610d2c5e39015f64972c8705.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/19/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13161,
+      "numero": 20,
+      "titulo": "Digimon: Digital Monsters - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1df146af0948a68b1342ce39907668fe.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/20/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13162,
+      "numero": 21,
+      "titulo": "Digimon: Digital Monsters - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50de294b9d4987a3c89b4a5cc4bdea62.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/21/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13163,
+      "numero": 22,
+      "titulo": "Digimon: Digital Monsters - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2f9990bcda13be8771d656bf489dad5.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/22/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13164,
+      "numero": 23,
+      "titulo": "Digimon: Digital Monsters - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33bd1b801b3cf1b8eaf31d816bca2c95.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/23/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13165,
+      "numero": 24,
+      "titulo": "Digimon: Digital Monsters - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d18b09180684862f5665e1932fdb54fb.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/24/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13166,
+      "numero": 25,
+      "titulo": "Digimon: Digital Monsters - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_130e2cf22996c69455ee7589cc8fed8c.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/25/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13167,
+      "numero": 26,
+      "titulo": "Digimon: Digital Monsters - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bec63f5d312303621583b97ff7c68bf.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/26/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13168,
+      "numero": 27,
+      "titulo": "Digimon: Digital Monsters - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_867079fcaff2dfddeb29ca1f27853ef7.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/27/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13169,
+      "numero": 28,
+      "titulo": "Digimon: Digital Monsters - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bfd597f06c032f81efb35e857e2dd91.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/28/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13170,
+      "numero": 29,
+      "titulo": "Digimon: Digital Monsters - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c034642a2ae7547082484627da30f1fd.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/29/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13171,
+      "numero": 30,
+      "titulo": "Digimon: Digital Monsters - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6514676989f92a818f029bbc25b7110.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/30/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13172,
+      "numero": 31,
+      "titulo": "Digimon: Digital Monsters - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a3d16448453d694b503aeebfd710aa7.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/31/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13173,
+      "numero": 32,
+      "titulo": "Digimon: Digital Monsters - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_776a26e444979d5cd460744ae7ad4932.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/32/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13174,
+      "numero": 33,
+      "titulo": "Digimon: Digital Monsters - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14f05044c0e1662800cc635d10da7821.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/33/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13175,
+      "numero": 34,
+      "titulo": "Digimon: Digital Monsters - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc1ace212b6412408fce9ee74928fb19.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/34/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13176,
+      "numero": 35,
+      "titulo": "Digimon: Digital Monsters - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_849d429e5b3ba905551f9203664df27e.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/35/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13177,
+      "numero": 36,
+      "titulo": "Digimon: Digital Monsters - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a8a0b08bff8239baac63e9de08b5402.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/36/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13178,
+      "numero": 37,
+      "titulo": "Digimon: Digital Monsters - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d6047b6fe956eae11ba23c70e9fe053.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/37/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13179,
+      "numero": 38,
+      "titulo": "Digimon: Digital Monsters - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db59260cce0b871c7b2bb780eee305db.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/38/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13180,
+      "numero": 39,
+      "titulo": "Digimon: Digital Monsters - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_823de42f619c837112209aa7a127c4af.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/39/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13181,
+      "numero": 40,
+      "titulo": "Digimon: Digital Monsters - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cdd0dfecaa8127d1a556f21f96500d7.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/40/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13182,
+      "numero": 41,
+      "titulo": "Digimon: Digital Monsters - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a90c1fdd4b06c0822b0cbfae4bb0c06.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/41/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13183,
+      "numero": 42,
+      "titulo": "Digimon: Digital Monsters - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a188af0bc920853d3673ab71c5f2a440.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/42/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13184,
+      "numero": 43,
+      "titulo": "Digimon: Digital Monsters - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f4cd0a689df7a6613b9ff4e84b34df6.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/43/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13185,
+      "numero": 44,
+      "titulo": "Digimon: Digital Monsters - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5346723901d967ccc167929e2ee94ad.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/44/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13186,
+      "numero": 45,
+      "titulo": "Digimon: Digital Monsters - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db570f6a73a4d7e10ede827746ae992c.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/45/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13187,
+      "numero": 46,
+      "titulo": "Digimon: Digital Monsters - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3b7cab19af6d5c3b00428af950eef80.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/46/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13188,
+      "numero": 47,
+      "titulo": "Digimon: Digital Monsters - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2853427cee00e06272cf17d4be94f7d0.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/47/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13189,
+      "numero": 48,
+      "titulo": "Digimon: Digital Monsters - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65c5532392c79b258bc34ee22c9cadcb.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/48/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13190,
+      "numero": 49,
+      "titulo": "Digimon: Digital Monsters - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d288f69a0110ea0add97ae01491e752.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/49/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13191,
+      "numero": 50,
+      "titulo": "Digimon: Digital Monsters - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_978362ce7b096266e2cefb878aa3250b.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/50/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13192,
+      "numero": 51,
+      "titulo": "Digimon: Digital Monsters - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc7079c59bf3610c28028522c22f6ef8.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/51/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13193,
+      "numero": 52,
+      "titulo": "Digimon: Digital Monsters - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_133fb38e53d861f95008113cca0fefbe.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/52/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13194,
+      "numero": 53,
+      "titulo": "Digimon: Digital Monsters - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a51f806ae5d54633cd1a0ce91256a3c.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/53/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    },
+    {
+      "id_origen": 13195,
+      "numero": 54,
+      "titulo": "Digimon: Digital Monsters - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b50aefa43e5793f3bf645fc35f4ba895.jpg",
+      "url_origen": "https://jkanime.net/digimon-digital-monsters/54/",
+      "publicado_en_origen": "2011-11-14 14:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "449",
+  "cantidad_episodios_declarada": 54,
+  "detalle_extraido_en": "2026-08-26T18:25:03+00:00"
+}

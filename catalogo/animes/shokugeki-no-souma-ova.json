@@ -1,0 +1,37 @@
+{
+  "id_origen": 1827,
+  "slug": "shokugeki-no-souma-ova",
+  "titulo": "Shokugeki no Souma OVA",
+  "titulo_corto": "Shokugeki no Souma OVA",
+  "sinopsis": "Episodios incluídos con el volumen 18 y 19 del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shokugeki-no-souma-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shokugeki-no-souma-ova/",
+  "episodios": [
+    {
+      "id_origen": 31493,
+      "numero": 1,
+      "titulo": "Shokugeki no Souma OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f79c37c38ef31e2174277b34e5aa64b.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma-ova/1/",
+      "publicado_en_origen": "2016-05-02 18:10:39"
+    },
+    {
+      "id_origen": 33768,
+      "numero": 2,
+      "titulo": "Shokugeki no Souma OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e57323e01dc38ffd09d8d88107468c9e.jpg",
+      "url_origen": "https://jkanime.net/shokugeki-no-souma-ova/2/",
+      "publicado_en_origen": "2016-12-26 20:37:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1827",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:46:43+00:00"
+}

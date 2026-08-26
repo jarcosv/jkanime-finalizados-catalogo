@@ -1,0 +1,53 @@
+{
+  "id_origen": 4848,
+  "slug": "servamp-specials",
+  "titulo": "Servamp Specials",
+  "titulo_corto": "Servamp Specials",
+  "sinopsis": "- La vida somnolienta de SERVAMP.\r\nCuando no están ocupados luchando contra amenazas sobrenaturales, los servamps y sus Eves disfrutan de un día a día sin preocupaciones y de discusiones sin importancia. Como es natural, mientras otros servamps y Eves se enfrentan a sus propios problemas, Kuro juega a videojuegos y se queda dormido, sin cambiar mucho de su habitual actitud somnolienta.\r\n\r\n- Hai ni Mamireta Shoukei: El mundo es un escenario.\r\nDurante una pelea, Hyde recuerda aquella vez en que utilizó su encanto de erizo para engañar a Licht Jekylland Todoroki —prodigio del piano y autoproclamado ángel— para que formara un vínculo de sangre y se convirtiera en su Eva.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/servamp-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/servamp-specials/",
+  "episodios": [
+    {
+      "id_origen": 74762,
+      "numero": 1,
+      "titulo": "Servamp Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00a96099e0550d4b7bce822b8a4ad1ed.jpg",
+      "url_origen": "https://jkanime.net/servamp-specials/1/",
+      "publicado_en_origen": "2026-07-02 14:05:42"
+    },
+    {
+      "id_origen": 74763,
+      "numero": 2,
+      "titulo": "Servamp Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ee9bd4038363c93ac2f597320319a83.jpg",
+      "url_origen": "https://jkanime.net/servamp-specials/2/",
+      "publicado_en_origen": "2026-07-02 14:05:42"
+    },
+    {
+      "id_origen": 74764,
+      "numero": 3,
+      "titulo": "Servamp Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3feeb8ca3f626d2a0db97f2ebefa2469.jpg",
+      "url_origen": "https://jkanime.net/servamp-specials/3/",
+      "publicado_en_origen": "2026-07-02 14:05:42"
+    },
+    {
+      "id_origen": 74765,
+      "numero": 4,
+      "titulo": "Servamp Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d48b1e02cf66fd0a20b89195ad902be.jpg",
+      "url_origen": "https://jkanime.net/servamp-specials/4/",
+      "publicado_en_origen": "2026-07-02 14:05:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4848",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:45:46+00:00"
+}

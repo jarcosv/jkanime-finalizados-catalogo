@@ -1,0 +1,621 @@
+{
+  "id_origen": 4240,
+  "slug": "hikaru-no-go",
+  "titulo": "Hikaru no Go",
+  "titulo_corto": "Hikaru no Go",
+  "sinopsis": "Shindoh Hikaru, un estudiante de 6to grado, encuentra un viejo tablero de Go en el atico de la casa de su padre. Le parece ver algo de sangre en el tablero de Go e intenta limpiarlo. Entonces, un fantasma con ropas del periodo Heian se le aparece y se introduce en su cuerpo. El fantasma parece ser Fujiwara no Sai, un miembro de la corte imperial durante el periodo Heian. Sai fue uno de los 2 hombres designados como Maestro de Go del emperador. El otro tutor tenia envidia de Sai, y le reta una partida en la que quien ganase permaneceria en la corte con el titulo de Maestro de Go. El oponente de Sai hizo trampas durante la partida y, antes de que Sai pudiera decir algo, su oponente lo acuso de tramposo. Sai fue expulsado de la corte, y su odio y remordimientos le condujeron al suicidio. Pero como todas las almas no arrepentidas, Sai no podia abandonar el mundo material... no hasta que se convirtiera en Maestro de Go, y asi estar un paso mas cerca de kami.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hikaru-no-go.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hikaru-no-go/",
+  "episodios": [
+    {
+      "id_origen": 65034,
+      "numero": 1,
+      "titulo": "Hikaru no Go - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce71c3d26f62750848b3daf864f3ae0f.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/1/",
+      "publicado_en_origen": "2025-07-24 19:07:31"
+    },
+    {
+      "id_origen": 65035,
+      "numero": 2,
+      "titulo": "Hikaru no Go - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26f054c8bdbeeb93d51b8c25a1298be7.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/2/",
+      "publicado_en_origen": "2025-07-24 19:07:31"
+    },
+    {
+      "id_origen": 65036,
+      "numero": 3,
+      "titulo": "Hikaru no Go - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ad0c6938036f87dbd08486aaf5c1dee.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/3/",
+      "publicado_en_origen": "2025-07-24 19:07:31"
+    },
+    {
+      "id_origen": 65037,
+      "numero": 4,
+      "titulo": "Hikaru no Go - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f0d5b50bf72c41b725840db78e78bbc.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/4/",
+      "publicado_en_origen": "2025-07-24 19:07:31"
+    },
+    {
+      "id_origen": 65038,
+      "numero": 5,
+      "titulo": "Hikaru no Go - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfe0f60638acc91dceb7ce054eb19761.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/5/",
+      "publicado_en_origen": "2025-07-24 19:07:31"
+    },
+    {
+      "id_origen": 65039,
+      "numero": 6,
+      "titulo": "Hikaru no Go - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b45e461dc09bd5b0b4d4c0bb287b312.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/6/",
+      "publicado_en_origen": "2025-07-24 19:07:31"
+    },
+    {
+      "id_origen": 65040,
+      "numero": 7,
+      "titulo": "Hikaru no Go - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3073047f7b3710909db7330dd228ea9b.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/7/",
+      "publicado_en_origen": "2025-07-24 19:07:31"
+    },
+    {
+      "id_origen": 65041,
+      "numero": 8,
+      "titulo": "Hikaru no Go - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a49c8a49bafb4bb18fd96bd5a0cec7cc.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/8/",
+      "publicado_en_origen": "2025-07-24 19:07:31"
+    },
+    {
+      "id_origen": 65042,
+      "numero": 9,
+      "titulo": "Hikaru no Go - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5f38a61b2323ccb6c330763fd46ef15.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/9/",
+      "publicado_en_origen": "2025-07-24 19:07:31"
+    },
+    {
+      "id_origen": 65043,
+      "numero": 10,
+      "titulo": "Hikaru no Go - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28c603c9be90f6291202eee7c99bfd35.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/10/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65044,
+      "numero": 11,
+      "titulo": "Hikaru no Go - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04f0ec779332736630315ebdfad9754c.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/11/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65045,
+      "numero": 12,
+      "titulo": "Hikaru no Go - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_701a0ae020111f4ebc0abb81dd3eb341.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/12/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65046,
+      "numero": 13,
+      "titulo": "Hikaru no Go - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6597623f33f68842c134fbc74bb7981.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/13/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65047,
+      "numero": 14,
+      "titulo": "Hikaru no Go - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f86fc35003fceee118a379c55539d2eb.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/14/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65048,
+      "numero": 15,
+      "titulo": "Hikaru no Go - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ee32c0ca1755cfbb16b345d6ee23d92.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/15/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65049,
+      "numero": 16,
+      "titulo": "Hikaru no Go - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2e36410598f588af57fa2f7958587d1.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/16/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65050,
+      "numero": 17,
+      "titulo": "Hikaru no Go - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_490cf661c136711dac759180457661f4.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/17/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65051,
+      "numero": 18,
+      "titulo": "Hikaru no Go - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_779c3865cd117d859bb5c10c95ebe1ca.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/18/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65052,
+      "numero": 19,
+      "titulo": "Hikaru no Go - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b651795390684f66e9f02005138677b3.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/19/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65053,
+      "numero": 20,
+      "titulo": "Hikaru no Go - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_934fe4132480c9f02792c49a4178f362.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/20/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65054,
+      "numero": 21,
+      "titulo": "Hikaru no Go - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f69cd0a4ecf14b9bd0c2593e389a0a92.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/21/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65055,
+      "numero": 22,
+      "titulo": "Hikaru no Go - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65b030d791aa67d47ac5467ddb3fd376.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/22/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65056,
+      "numero": 23,
+      "titulo": "Hikaru no Go - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55375106414051235189eb81867c796e.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/23/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65057,
+      "numero": 24,
+      "titulo": "Hikaru no Go - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31733a7f5b9568004367d806c78684f4.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/24/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65058,
+      "numero": 25,
+      "titulo": "Hikaru no Go - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c0c06398853fe4ccb51a8566eb5aaf8.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/25/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65059,
+      "numero": 26,
+      "titulo": "Hikaru no Go - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc00be1a6584e49dfd9d919c766fe546.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/26/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65060,
+      "numero": 27,
+      "titulo": "Hikaru no Go - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba84dd62e9a93e3cf90374ff75bd0165.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/27/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65061,
+      "numero": 28,
+      "titulo": "Hikaru no Go - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_454d0f6d0f357cfd743035967eece090.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/28/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65062,
+      "numero": 29,
+      "titulo": "Hikaru no Go - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b159af74b7f82effd573c01179bece3.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/29/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65063,
+      "numero": 30,
+      "titulo": "Hikaru no Go - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_757206d56eb93337949262380a812988.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/30/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65064,
+      "numero": 31,
+      "titulo": "Hikaru no Go - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0124690e45f20bec126808f89d6c274.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/31/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65065,
+      "numero": 32,
+      "titulo": "Hikaru no Go - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ce22b33b11146ba3aa0d5aa4dfcfa63.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/32/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65066,
+      "numero": 33,
+      "titulo": "Hikaru no Go - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02cd9cf46087b450d3dda826dc308246.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/33/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65067,
+      "numero": 34,
+      "titulo": "Hikaru no Go - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f949b3e81702821a0c3b539e907ea68f.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/34/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65068,
+      "numero": 35,
+      "titulo": "Hikaru no Go - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f574cf0217c23934201ef6b86363a588.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/35/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65069,
+      "numero": 36,
+      "titulo": "Hikaru no Go - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdbb53a752e4615f88635f32853805e6.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/36/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65070,
+      "numero": 37,
+      "titulo": "Hikaru no Go - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b43f6d101b82bf31134a54712bf5460.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/37/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65071,
+      "numero": 38,
+      "titulo": "Hikaru no Go - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89b0b52c4d94678b81bc665066f97692.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/38/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65072,
+      "numero": 39,
+      "titulo": "Hikaru no Go - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2822adda2b582f0926f259224ddcc36d.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/39/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65073,
+      "numero": 40,
+      "titulo": "Hikaru no Go - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfca2ee7e11609811bdcde5ecf670c3d.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/40/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65074,
+      "numero": 41,
+      "titulo": "Hikaru no Go - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5a5561b5c06a27382c169201ef979cc.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/41/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65075,
+      "numero": 42,
+      "titulo": "Hikaru no Go - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93be2bd2fd91124b12f75cdac5263f58.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/42/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65076,
+      "numero": 43,
+      "titulo": "Hikaru no Go - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68a596ec3afd8d48f3e295576b153602.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/43/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65077,
+      "numero": 44,
+      "titulo": "Hikaru no Go - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_deca171127dc3687b38c4a217b4ed962.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/44/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65078,
+      "numero": 45,
+      "titulo": "Hikaru no Go - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab5ce0d92468d4e81ce1790b5d6b867d.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/45/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65079,
+      "numero": 46,
+      "titulo": "Hikaru no Go - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00b35b1bf920044a013db5746a453d83.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/46/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65080,
+      "numero": 47,
+      "titulo": "Hikaru no Go - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfeb66d09dc45b1ff78e3a998152165e.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/47/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65081,
+      "numero": 48,
+      "titulo": "Hikaru no Go - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8436d10b746905328666c83d67002bc4.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/48/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65082,
+      "numero": 49,
+      "titulo": "Hikaru no Go - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65ca8b18731ad3a7f7244bfa5fd9992a.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/49/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65083,
+      "numero": 50,
+      "titulo": "Hikaru no Go - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc1fb66bf0f65aa80d3bfd9d02574dc2.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/50/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65084,
+      "numero": 51,
+      "titulo": "Hikaru no Go - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccfd30fdec9d0958c129fbca981ab3db.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/51/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65085,
+      "numero": 52,
+      "titulo": "Hikaru no Go - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_666cc52a23b782e37e71a7767ec10236.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/52/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65086,
+      "numero": 53,
+      "titulo": "Hikaru no Go - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2b27a4a0812fe9e92b10bf00093b1f1.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/53/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65087,
+      "numero": 54,
+      "titulo": "Hikaru no Go - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1c37e540875e882cee74d0e59dbbaea.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/54/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65088,
+      "numero": 55,
+      "titulo": "Hikaru no Go - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_738da6acbb170444d4528e9aabbd180b.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/55/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65089,
+      "numero": 56,
+      "titulo": "Hikaru no Go - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c81c9f8360095e51fdf44f52e7afedde.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/56/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65090,
+      "numero": 57,
+      "titulo": "Hikaru no Go - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a67feb77114f4925c8551e2001ea0cd9.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/57/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65091,
+      "numero": 58,
+      "titulo": "Hikaru no Go - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1fc45544fff779307305fc342fb906c.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/58/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65092,
+      "numero": 59,
+      "titulo": "Hikaru no Go - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0c4bed8a7da1fe2325c16530e693e4e.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/59/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65093,
+      "numero": 60,
+      "titulo": "Hikaru no Go - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b28906630ba7a8e3f0a1e13b3ff4583.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/60/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65094,
+      "numero": 61,
+      "titulo": "Hikaru no Go - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b42a5bdc0164bafff26aab3327e9f7d.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/61/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65095,
+      "numero": 62,
+      "titulo": "Hikaru no Go - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_987c4b992b9fdc091f2e0639c36a2d44.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/62/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65096,
+      "numero": 63,
+      "titulo": "Hikaru no Go - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97effcc87c0fd52a23299e524eeafe15.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/63/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65097,
+      "numero": 64,
+      "titulo": "Hikaru no Go - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccc654a17e58b937020c405160ba4942.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/64/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65098,
+      "numero": 65,
+      "titulo": "Hikaru no Go - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50d35593a48aa5e2db48a9fb004b6b34.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/65/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65099,
+      "numero": 66,
+      "titulo": "Hikaru no Go - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e4d2510e1198df44cb4619fd2a3e44c.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/66/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65100,
+      "numero": 67,
+      "titulo": "Hikaru no Go - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b818da89a739984444ac305c7518c6fc.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/67/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65101,
+      "numero": 68,
+      "titulo": "Hikaru no Go - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c82ea24db50628ef668ffa38a4f0137.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/68/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65102,
+      "numero": 69,
+      "titulo": "Hikaru no Go - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f255c5e7d9af71ef22d6e313f8eda21.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/69/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65103,
+      "numero": 70,
+      "titulo": "Hikaru no Go - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c59761f8710dbd7eec02dba900f522f2.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/70/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65104,
+      "numero": 71,
+      "titulo": "Hikaru no Go - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_343c71d2aec6ff0104c872aa33d3028f.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/71/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65105,
+      "numero": 72,
+      "titulo": "Hikaru no Go - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4790bc27c42a7c5cc83496e793a5b438.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/72/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65106,
+      "numero": 73,
+      "titulo": "Hikaru no Go - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd118ecc896d40e7b92f8ae64a0aeaf9.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/73/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65107,
+      "numero": 74,
+      "titulo": "Hikaru no Go - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_478ad514f64b9adb25275ee7760b91d3.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/74/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    },
+    {
+      "id_origen": 65108,
+      "numero": 75,
+      "titulo": "Hikaru no Go - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac13d66b41980d240c774d56a9f74f8e.jpg",
+      "url_origen": "https://jkanime.net/hikaru-no-go/75/",
+      "publicado_en_origen": "2025-07-24 19:07:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4240",
+  "cantidad_episodios_declarada": 75,
+  "detalle_extraido_en": "2026-08-26T18:30:45+00:00"
+}

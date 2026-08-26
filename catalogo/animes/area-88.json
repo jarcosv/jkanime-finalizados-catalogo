@@ -1,0 +1,45 @@
+{
+  "id_origen": 4312,
+  "slug": "area-88",
+  "titulo": "Area 88",
+  "titulo_corto": "Area 88",
+  "sinopsis": "Después de ser engañado para firmar un documento por alguien a quien consideraba un amigo, Shin Kazama se ve obligado a convertirse en piloto de combate en la legión extranjera de mercenarios que luchan en una guerra civil por la nación de Aslan. Decidido a ganar suficiente dinero para romper su contrato y regresar a Japón, Shin ha logrado convertirse en uno de los pilotos más letales de la base conocida como Área 88. Pero después de haber pasado tanto tiempo en un lugar donde la vida está siempre en peligro, ¿seguirá Shin siendo el mismo hombre cuando pueda regresar al mundo civil?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/area-88.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/area-88/",
+  "episodios": [
+    {
+      "id_origen": 66571,
+      "numero": 1,
+      "titulo": "Area 88 - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1cf8598303935fe942b7aceeecd27e4e.jpg",
+      "url_origen": "https://jkanime.net/area-88/1/",
+      "publicado_en_origen": "2025-08-14 17:55:56"
+    },
+    {
+      "id_origen": 66572,
+      "numero": 2,
+      "titulo": "Area 88 - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3fd2a62f026b04f93e3b54c9b9821ee.jpg",
+      "url_origen": "https://jkanime.net/area-88/2/",
+      "publicado_en_origen": "2025-08-14 17:55:56"
+    },
+    {
+      "id_origen": 66573,
+      "numero": 3,
+      "titulo": "Area 88 - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3bbc0e254ee2dff87e117fc1959f31b.jpg",
+      "url_origen": "https://jkanime.net/area-88/3/",
+      "publicado_en_origen": "2025-08-14 17:55:56"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4312",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:17:27+00:00"
+}

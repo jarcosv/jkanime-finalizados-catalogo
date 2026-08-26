@@ -1,0 +1,125 @@
+{
+  "id_origen": 2954,
+  "slug": "kyoukai-senki",
+  "titulo": "Kyoukai Senki",
+  "titulo_corto": "Kyoukai Senki",
+  "sinopsis": "En el año 2061 d.C., Japón perdió su soberanía. El pueblo japonés pasa sus días como ciudadanos oprimidos después de haber sido dividido y gobernado por las cuatro principales facciones comerciales. El país se convirtió en la vanguardia mundial tras el despliegue de AMAIM, un arma móvil especial humanoide, por parte de cada bloque económico.\n\nUn día, Amou Shiiba, un niño que ama las máquinas, conoce a Gai, un A.I de pensamiento autónomo. El encuentro lleva a Amou a lanzarse a la batalla para recuperar Japón, pilotando el AMAIM Kenbu que él mismo construyó.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kyoukai-senki.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kyoukai-senki/",
+  "episodios": [
+    {
+      "id_origen": 46824,
+      "numero": 1,
+      "titulo": "Kyoukai Senki - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3f55ce52ff78d715fd61df010baf1db.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/1/",
+      "publicado_en_origen": "2021-10-05 02:06:41"
+    },
+    {
+      "id_origen": 46894,
+      "numero": 2,
+      "titulo": "Kyoukai Senki - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ab9470d39a8977d187d3798564676b3.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/2/",
+      "publicado_en_origen": "2021-10-12 01:31:29"
+    },
+    {
+      "id_origen": 46954,
+      "numero": 3,
+      "titulo": "Kyoukai Senki - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73bf8ec6558a47028e76ce8a4ff4ddb9.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/3/",
+      "publicado_en_origen": "2021-10-18 22:20:31"
+    },
+    {
+      "id_origen": 47020,
+      "numero": 4,
+      "titulo": "Kyoukai Senki - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e06a3d7d02b402490a194d884f6c8f8d.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/4/",
+      "publicado_en_origen": "2021-10-25 13:49:43"
+    },
+    {
+      "id_origen": 47093,
+      "numero": 5,
+      "titulo": "Kyoukai Senki - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fe79c97dac8df04ef7f328137ffdec8.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/5/",
+      "publicado_en_origen": "2021-11-02 18:08:44"
+    },
+    {
+      "id_origen": 47162,
+      "numero": 6,
+      "titulo": "Kyoukai Senki - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eeb09655187345d8cec4b994779d02e2.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/6/",
+      "publicado_en_origen": "2021-11-09 02:18:57"
+    },
+    {
+      "id_origen": 47225,
+      "numero": 7,
+      "titulo": "Kyoukai Senki - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d90a6ea6fd54e27c2656d8d3877abea4.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/7/",
+      "publicado_en_origen": "2021-11-15 16:19:19"
+    },
+    {
+      "id_origen": 47333,
+      "numero": 8,
+      "titulo": "Kyoukai Senki - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8eda503db8f01a5fe0006e1c27655211.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/8/",
+      "publicado_en_origen": "2021-11-22 14:22:45"
+    },
+    {
+      "id_origen": 47388,
+      "numero": 9,
+      "titulo": "Kyoukai Senki - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed7ef736d910a63b96a922aa2fc5fc5c.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/9/",
+      "publicado_en_origen": "2021-11-29 14:32:26"
+    },
+    {
+      "id_origen": 47497,
+      "numero": 10,
+      "titulo": "Kyoukai Senki - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_becebedf1c232fd3fcd44dcd8c0ef821.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/10/",
+      "publicado_en_origen": "2021-12-06 17:27:08"
+    },
+    {
+      "id_origen": 47736,
+      "numero": 11,
+      "titulo": "Kyoukai Senki - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63ea659fb87fb04e4f5a6002075d0870.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/11/",
+      "publicado_en_origen": "2021-12-13 15:20:18"
+    },
+    {
+      "id_origen": 47796,
+      "numero": 12,
+      "titulo": "Kyoukai Senki - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12b0e252b8ef43391ae0c4bb6753e102.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/12/",
+      "publicado_en_origen": "2021-12-21 02:40:33"
+    },
+    {
+      "id_origen": 47835,
+      "numero": 13,
+      "titulo": "Kyoukai Senki - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5386ed31571beed0361427ff58a9778.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-senki/13/",
+      "publicado_en_origen": "2021-12-27 14:14:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:55+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2954",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:36:15+00:00"
+}

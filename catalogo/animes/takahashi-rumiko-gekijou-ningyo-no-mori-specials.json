@@ -1,0 +1,37 @@
+{
+  "id_origen": 4295,
+  "slug": "takahashi-rumiko-gekijou-ningyo-no-mori-specials",
+  "titulo": "Takahashi Rumiko Gekijou Ningyo no Mori Specials",
+  "titulo_corto": "Takahashi Rumiko Gekijou Ningy...",
+  "sinopsis": "Episodios 12-13, disponibles solo en DVD, de Takahashi Rumiko Gekijou Ningyo no Mori, que adaptan el capítulo Ningyo no Kizu.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/takahashi-rumiko-gekijou-ningyo-no-mori-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/takahashi-rumiko-gekijou-ningyo-no-mori-specials/",
+  "episodios": [
+    {
+      "id_origen": 66189,
+      "numero": 1,
+      "titulo": "Takahashi Rumiko Gekijou Ningyo no Mori Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a4e9fe1d3e02ff03d60b70f0a810b98.jpg",
+      "url_origen": "https://jkanime.net/takahashi-rumiko-gekijou-ningyo-no-mori-specials/1/",
+      "publicado_en_origen": "2025-08-09 20:02:38"
+    },
+    {
+      "id_origen": 66190,
+      "numero": 2,
+      "titulo": "Takahashi Rumiko Gekijou Ningyo no Mori Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c43cd9cb83ed425dbf20b6d85480cbf.jpg",
+      "url_origen": "https://jkanime.net/takahashi-rumiko-gekijou-ningyo-no-mori-specials/2/",
+      "publicado_en_origen": "2025-08-09 20:02:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4295",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:48:27+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 446,
+  "slug": "sora-no-otoshimono-ova",
+  "titulo": "Sora no Otoshimono OVA",
+  "titulo_corto": "Sora no Otoshimono OVA",
+  "sinopsis": "Esta OVA de Sora no Otoshimono es el episodio no emitido de la primera temporada  valido como episodio 14. En esta Ova tendremos un montón de divertidos momentos donde nuestro representante Tomoki estara al ataque.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sora-no-otoshimono-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sora-no-otoshimono-ova/",
+  "episodios": [
+    {
+      "id_origen": 13050,
+      "numero": 1,
+      "titulo": "Sora no Otoshimono OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b1cab1b93285ce58e7c1dc576ff8a14.jpg",
+      "url_origen": "https://jkanime.net/sora-no-otoshimono-ova/1/",
+      "publicado_en_origen": "2011-11-04 00:11:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "446",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:20+00:00"
+}

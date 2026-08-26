@@ -1,0 +1,117 @@
+{
+  "id_origen": 3113,
+  "slug": "onipan",
+  "titulo": "Onipan!",
+  "titulo_corto": "Onipan!",
+  "sinopsis": "Tres niños oni que, a través del poder del onipan (una combinación de \"oni\" y \"pantsu\"), se vuelven humanos para ayudar a arreglar la relación entre los humanos y los oni. Las tres chicas se transfieren a una escuela secundaria normal de Tokio para ayudar en su tarea y ayudar a arreglar su imagen revitalizando la ciudad, a veces saltando de cabeza a los eventos escolares y otras veces... ¡convirtiéndose en ídolos!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/onipan.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/onipan/",
+  "episodios": [
+    {
+      "id_origen": 49059,
+      "numero": 1,
+      "titulo": "Onipan! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbaf30bcaccd92e95da57295aaf62851.jpg",
+      "url_origen": "https://jkanime.net/onipan/1/",
+      "publicado_en_origen": "2022-04-29 12:24:34"
+    },
+    {
+      "id_origen": 49060,
+      "numero": 2,
+      "titulo": "Onipan! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f46f61cd63260f08d5e9873280cfb833.jpg",
+      "url_origen": "https://jkanime.net/onipan/2/",
+      "publicado_en_origen": "2022-04-29 12:24:36"
+    },
+    {
+      "id_origen": 49061,
+      "numero": 3,
+      "titulo": "Onipan! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd2cf0014b698fe7141ba16272eed6b7.jpg",
+      "url_origen": "https://jkanime.net/onipan/3/",
+      "publicado_en_origen": "2022-04-29 12:24:39"
+    },
+    {
+      "id_origen": 49173,
+      "numero": 4,
+      "titulo": "Onipan! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08184de335b171e486b555d31d9c647b.jpg",
+      "url_origen": "https://jkanime.net/onipan/4/",
+      "publicado_en_origen": "2022-05-06 18:32:12"
+    },
+    {
+      "id_origen": 49319,
+      "numero": 5,
+      "titulo": "Onipan! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0dabd1a1be08da96cd6fa993b9afb0a8.jpg",
+      "url_origen": "https://jkanime.net/onipan/5/",
+      "publicado_en_origen": "2022-05-13 14:05:12"
+    },
+    {
+      "id_origen": 49421,
+      "numero": 6,
+      "titulo": "Onipan! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d54d63fb8fc496a8fe130011a4c46ed8.jpg",
+      "url_origen": "https://jkanime.net/onipan/6/",
+      "publicado_en_origen": "2022-05-20 13:32:36"
+    },
+    {
+      "id_origen": 49484,
+      "numero": 7,
+      "titulo": "Onipan! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b4ab8f908b36b4c1bfd44fc0033a3dd.jpg",
+      "url_origen": "https://jkanime.net/onipan/7/",
+      "publicado_en_origen": "2022-05-27 18:30:10"
+    },
+    {
+      "id_origen": 49615,
+      "numero": 8,
+      "titulo": "Onipan! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97d87be48d41da066efad472da25e1f3.jpg",
+      "url_origen": "https://jkanime.net/onipan/8/",
+      "publicado_en_origen": "2022-06-10 15:48:31"
+    },
+    {
+      "id_origen": 49617,
+      "numero": 9,
+      "titulo": "Onipan! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64a2ced1a3bc35f45f1c3bdb0c8b256f.jpg",
+      "url_origen": "https://jkanime.net/onipan/9/",
+      "publicado_en_origen": "2022-06-10 21:00:40"
+    },
+    {
+      "id_origen": 49664,
+      "numero": 10,
+      "titulo": "Onipan! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3e103fc9a7168e952f17fc35fe68d90.jpg",
+      "url_origen": "https://jkanime.net/onipan/10/",
+      "publicado_en_origen": "2022-06-17 13:11:40"
+    },
+    {
+      "id_origen": 49725,
+      "numero": 11,
+      "titulo": "Onipan! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b46de31f5f333a37d4b52b60c91d23d.jpg",
+      "url_origen": "https://jkanime.net/onipan/11/",
+      "publicado_en_origen": "2022-06-25 02:28:50"
+    },
+    {
+      "id_origen": 49766,
+      "numero": 12,
+      "titulo": "Onipan! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/onipan.jpg",
+      "url_origen": "https://jkanime.net/onipan/12/",
+      "publicado_en_origen": "2022-07-01 22:49:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3113",
+  "cantidad_episodios_declarada": 60,
+  "detalle_extraido_en": "2026-08-26T18:41:20+00:00"
+}

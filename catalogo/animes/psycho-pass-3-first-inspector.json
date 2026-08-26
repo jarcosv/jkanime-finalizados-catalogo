@@ -1,0 +1,45 @@
+{
+  "id_origen": 2623,
+  "slug": "psycho-pass-3-first-inspector",
+  "titulo": "Psycho-Pass 3: First Inspector",
+  "titulo_corto": "Psycho-Pass 3: First Inspector",
+  "sinopsis": "La película concluirá la historia de la temporada 3 sobre el caso de los \"Zorros\" perseguidos por la Unidad 1, el misterio de Bifrost y la batalla de Arata y Kei.\nPd.- Pelicula Dividida en 3 partes",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/psycho-pass-3-first-inspector.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/psycho-pass-3-first-inspector/",
+  "episodios": [
+    {
+      "id_origen": 42575,
+      "numero": 1,
+      "titulo": "Psycho-Pass 3: First Inspector",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b98859722a4380d48f67f0fd064e0fc1.jpg",
+      "url_origen": "https://jkanime.net/psycho-pass-3-first-inspector/1/",
+      "publicado_en_origen": "2020-03-29 01:42:09"
+    },
+    {
+      "id_origen": 42576,
+      "numero": 2,
+      "titulo": "Psycho-Pass 3: First Inspector",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec18f50d1daf3212ea3b33e7f884ce12.jpg",
+      "url_origen": "https://jkanime.net/psycho-pass-3-first-inspector/2/",
+      "publicado_en_origen": "2020-03-29 01:42:15"
+    },
+    {
+      "id_origen": 42577,
+      "numero": 3,
+      "titulo": "Psycho-Pass 3: First Inspector",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79a60ddd18a394faebab43aa57bc83e8.jpg",
+      "url_origen": "https://jkanime.net/psycho-pass-3-first-inspector/3/",
+      "publicado_en_origen": "2020-03-29 01:42:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2623",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:43:08+00:00"
+}

@@ -1,0 +1,125 @@
+{
+  "id_origen": 193,
+  "slug": "k-on",
+  "titulo": "K-ON!",
+  "titulo_corto": "K-ON!",
+  "sinopsis": "La historia base se centra en cuatro chicas que asisten a su primer año de preparatoria, en donde tenemos a Yui Hirasawa y su impaciencia en la búsqueda de un club del cual participar. Por otro lado tenemos a Ritsu Tainaka (baterista) quien le propone a su mejor amiga Mío Akiyama (bajista), inscribirse juntas en el club de música ligera del instituto, pero desafortunadamente se enteran que está próximo a ser cerrado debido a que todos sus miembros se habían terminado de graduar el año anterior.  Debido a que el mínimo permitido para aprobar un club es de 4 integrantes, Ritsu y Mío tratan desesperadamente de conseguir que el club no sea cerrado, por lo que en el intertanto lograrán reclutar a Tsumugi Kotobuki quien les indica que solo sabe tocar Teclado. Esto significa que solo hace falta un miembro más para tener nuevamente el club en funcionamiento y es aquí donde luego de una larga espera Yui se decide finalmente por un club, precisamente el de música ligera y con esto salvándolo de la extinción. Desafortunadamente el club requiere de la pieza clave de toda banda musical: el guitarrista, y Yui no tiene experiencia alguna con ningún instrumento.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/k-on.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/k-on/",
+  "episodios": [
+    {
+      "id_origen": 13321,
+      "numero": 1,
+      "titulo": "K-ON! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e430f779f7ff81de0e5b4c4f5e316672.jpg",
+      "url_origen": "https://jkanime.net/k-on/1/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    },
+    {
+      "id_origen": 13322,
+      "numero": 2,
+      "titulo": "K-ON! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce81f8e75a87b17708d10a0684fbe1ec.jpg",
+      "url_origen": "https://jkanime.net/k-on/2/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    },
+    {
+      "id_origen": 13323,
+      "numero": 3,
+      "titulo": "K-ON! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3640536b683d5276cbe1174768aed8df.jpg",
+      "url_origen": "https://jkanime.net/k-on/3/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    },
+    {
+      "id_origen": 13324,
+      "numero": 4,
+      "titulo": "K-ON! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_977cf54e52109b5b2795406737cf36d4.jpg",
+      "url_origen": "https://jkanime.net/k-on/4/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    },
+    {
+      "id_origen": 13325,
+      "numero": 5,
+      "titulo": "K-ON! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_220bd44f67edd4f311c6c06436cf9a65.jpg",
+      "url_origen": "https://jkanime.net/k-on/5/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    },
+    {
+      "id_origen": 13326,
+      "numero": 6,
+      "titulo": "K-ON! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1b22c44ffdc29c11284b0fb2742d89d.jpg",
+      "url_origen": "https://jkanime.net/k-on/6/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    },
+    {
+      "id_origen": 13327,
+      "numero": 7,
+      "titulo": "K-ON! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82f82644bda7a260970fbd52a4c96528.jpg",
+      "url_origen": "https://jkanime.net/k-on/7/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    },
+    {
+      "id_origen": 13328,
+      "numero": 8,
+      "titulo": "K-ON! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b1add8961a1cfa07e60838ffd0f83e7.jpg",
+      "url_origen": "https://jkanime.net/k-on/8/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    },
+    {
+      "id_origen": 13329,
+      "numero": 9,
+      "titulo": "K-ON! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d27bf4d538d65711468835f9daef576e.jpg",
+      "url_origen": "https://jkanime.net/k-on/9/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    },
+    {
+      "id_origen": 13330,
+      "numero": 10,
+      "titulo": "K-ON! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30fad467b7363d55fa24b3398fdef557.jpg",
+      "url_origen": "https://jkanime.net/k-on/10/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    },
+    {
+      "id_origen": 13331,
+      "numero": 11,
+      "titulo": "K-ON! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f055c54d16a8cc75a8cc996511cc9a9c.jpg",
+      "url_origen": "https://jkanime.net/k-on/11/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    },
+    {
+      "id_origen": 13332,
+      "numero": 12,
+      "titulo": "K-ON! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8110eaeb55d8f5ed7aa18842dc0ceacd.jpg",
+      "url_origen": "https://jkanime.net/k-on/12/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    },
+    {
+      "id_origen": 13333,
+      "numero": 13,
+      "titulo": "K-ON! - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03bd9b02ba7c3138715a5c3fd05ff6d7.jpg",
+      "url_origen": "https://jkanime.net/k-on/13/",
+      "publicado_en_origen": "2011-11-29 00:50:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:22+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "193",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:33:06+00:00"
+}

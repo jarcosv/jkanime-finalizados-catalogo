@@ -1,0 +1,117 @@
+{
+  "id_origen": 1215,
+  "slug": "tokyo-esp",
+  "titulo": "Tokyo ESP",
+  "titulo_corto": "Tokyo ESP",
+  "sinopsis": "La historia gira en torno a Rinka, una estudiante extremadamente pobre que vive con su padre en un Tokio futurista. Un día, volviendo a casa desde el instituto, se topa con una serie de peces voladores, y uno de ellos le da un poder extraordinario que le permite hacer cosas imposibles para los humanos, especialmente la capacidad de atravesar objetos sólidos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tokyo-esp.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tokyo-esp/",
+  "episodios": [
+    {
+      "id_origen": 23962,
+      "numero": 1,
+      "titulo": "Tokyo ESP - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93c442d40a4e0b6f829a28aabbf07fc1.jpg",
+      "url_origen": "https://jkanime.net/tokyo-esp/1/",
+      "publicado_en_origen": "2014-07-11 14:36:29"
+    },
+    {
+      "id_origen": 24025,
+      "numero": 2,
+      "titulo": "Tokyo ESP - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1744bbff50dd9d5ee97ae053076295b.jpg",
+      "url_origen": "https://jkanime.net/tokyo-esp/2/",
+      "publicado_en_origen": "2014-07-18 14:21:41"
+    },
+    {
+      "id_origen": 24091,
+      "numero": 3,
+      "titulo": "Tokyo ESP - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ff6b4c1124dfb0ddeffd72781d88aa6.jpg",
+      "url_origen": "https://jkanime.net/tokyo-esp/3/",
+      "publicado_en_origen": "2014-07-25 14:24:00"
+    },
+    {
+      "id_origen": 24155,
+      "numero": 4,
+      "titulo": "Tokyo ESP - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_045020ae3a56c185c69e8984ecf61415.jpg",
+      "url_origen": "https://jkanime.net/tokyo-esp/4/",
+      "publicado_en_origen": "2014-08-01 14:28:06"
+    },
+    {
+      "id_origen": 24245,
+      "numero": 5,
+      "titulo": "Tokyo ESP - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f4ab9445df9b78ef3d6ee752e33a07d.jpg",
+      "url_origen": "https://jkanime.net/tokyo-esp/5/",
+      "publicado_en_origen": "2014-08-08 13:27:55"
+    },
+    {
+      "id_origen": 24440,
+      "numero": 6,
+      "titulo": "Tokyo ESP - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_defa715a5195bcef13d91b3329f3cd36.jpg",
+      "url_origen": "https://jkanime.net/tokyo-esp/6/",
+      "publicado_en_origen": "2014-08-15 13:25:10"
+    },
+    {
+      "id_origen": 24512,
+      "numero": 7,
+      "titulo": "Tokyo ESP - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9324bc62c6decea7edb29b0ab1269d72.jpg",
+      "url_origen": "https://jkanime.net/tokyo-esp/7/",
+      "publicado_en_origen": "2014-08-22 14:05:30"
+    },
+    {
+      "id_origen": 24576,
+      "numero": 8,
+      "titulo": "Tokyo ESP - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f2bbe4bef9df4c8b49a5603e31b0022.jpg",
+      "url_origen": "https://jkanime.net/tokyo-esp/8/",
+      "publicado_en_origen": "2014-08-29 13:37:22"
+    },
+    {
+      "id_origen": 24651,
+      "numero": 9,
+      "titulo": "Tokyo ESP - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ad869837fac24698bc56ead9e0dae24.jpg",
+      "url_origen": "https://jkanime.net/tokyo-esp/9/",
+      "publicado_en_origen": "2014-09-05 13:21:52"
+    },
+    {
+      "id_origen": 24742,
+      "numero": 10,
+      "titulo": "Tokyo ESP - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76f3c5ffe7dcfd0b14841e7926dd832b.jpg",
+      "url_origen": "https://jkanime.net/tokyo-esp/10/",
+      "publicado_en_origen": "2014-09-12 13:26:03"
+    },
+    {
+      "id_origen": 24805,
+      "numero": 11,
+      "titulo": "Tokyo ESP - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_008bfef4efdd575ac3e9a5c0c43661e9.jpg",
+      "url_origen": "https://jkanime.net/tokyo-esp/11/",
+      "publicado_en_origen": "2014-09-19 13:23:22"
+    },
+    {
+      "id_origen": 24916,
+      "numero": 12,
+      "titulo": "Tokyo ESP - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_222c44c26a02c54e3a9fd0d895b12df4.jpg",
+      "url_origen": "https://jkanime.net/tokyo-esp/12/",
+      "publicado_en_origen": "2014-09-26 13:21:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1215",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:49:42+00:00"
+}

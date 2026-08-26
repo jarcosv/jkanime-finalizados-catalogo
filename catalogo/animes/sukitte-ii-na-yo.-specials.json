@@ -1,0 +1,101 @@
+{
+  "id_origen": 801,
+  "slug": "sukitte-ii-na-yo.-specials",
+  "titulo": "Sukitte Ii na yo Specials",
+  "titulo_corto": "Sukitte Ii na yo Specials",
+  "sinopsis": "Especiales incluidos con el BD/DVD del anime",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sukitte-ii-na-yo.-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sukitte-ii-na-yo.-specials/",
+  "episodios": [
+    {
+      "id_origen": 19951,
+      "numero": 1,
+      "titulo": "Sukitte Ii na yo Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ffa03baed83147366c2e22170fd08a7.jpg",
+      "url_origen": "https://jkanime.net/sukitte-ii-na-yo.-specials/1/",
+      "publicado_en_origen": "2013-03-25 00:22:15"
+    },
+    {
+      "id_origen": 19963,
+      "numero": 2,
+      "titulo": "Sukitte Ii na yo Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44923e8eb357c847d2217f5c1ff0736d.jpg",
+      "url_origen": "https://jkanime.net/sukitte-ii-na-yo.-specials/2/",
+      "publicado_en_origen": "2013-03-26 15:18:50"
+    },
+    {
+      "id_origen": 19964,
+      "numero": 3,
+      "titulo": "Sukitte Ii na yo Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41c831141b8539bbbfc233928f6bf831.jpg",
+      "url_origen": "https://jkanime.net/sukitte-ii-na-yo.-specials/3/",
+      "publicado_en_origen": "2013-03-26 16:06:49"
+    },
+    {
+      "id_origen": 19965,
+      "numero": 4,
+      "titulo": "Sukitte Ii na yo Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d0dd06a746311e36ca0766cfe2b1b15.jpg",
+      "url_origen": "https://jkanime.net/sukitte-ii-na-yo.-specials/4/",
+      "publicado_en_origen": "2013-03-26 16:08:31"
+    },
+    {
+      "id_origen": 61964,
+      "numero": 5,
+      "titulo": "Sukitte Ii na yo Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sukitte-ii-na-yo.-specials.jpg",
+      "url_origen": "https://jkanime.net/sukitte-ii-na-yo.-specials/5/",
+      "publicado_en_origen": "2025-02-17 10:31:55"
+    },
+    {
+      "id_origen": 61965,
+      "numero": 6,
+      "titulo": "Sukitte Ii na yo Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sukitte-ii-na-yo.-specials.jpg",
+      "url_origen": "https://jkanime.net/sukitte-ii-na-yo.-specials/6/",
+      "publicado_en_origen": "2025-02-17 10:31:58"
+    },
+    {
+      "id_origen": 61966,
+      "numero": 7,
+      "titulo": "Sukitte Ii na yo Specials - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sukitte-ii-na-yo.-specials.jpg",
+      "url_origen": "https://jkanime.net/sukitte-ii-na-yo.-specials/7/",
+      "publicado_en_origen": "2025-02-17 10:32:01"
+    },
+    {
+      "id_origen": 61967,
+      "numero": 8,
+      "titulo": "Sukitte Ii na yo Specials - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sukitte-ii-na-yo.-specials.jpg",
+      "url_origen": "https://jkanime.net/sukitte-ii-na-yo.-specials/8/",
+      "publicado_en_origen": "2025-02-17 10:32:04"
+    },
+    {
+      "id_origen": 61968,
+      "numero": 9,
+      "titulo": "Sukitte Ii na yo Specials - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sukitte-ii-na-yo.-specials.jpg",
+      "url_origen": "https://jkanime.net/sukitte-ii-na-yo.-specials/9/",
+      "publicado_en_origen": "2025-02-17 10:32:07"
+    },
+    {
+      "id_origen": 61969,
+      "numero": 10,
+      "titulo": "Sukitte Ii na yo Specials - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sukitte-ii-na-yo.-specials.jpg",
+      "url_origen": "https://jkanime.net/sukitte-ii-na-yo.-specials/10/",
+      "publicado_en_origen": "2025-02-17 10:32:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "801",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:48:01+00:00"
+}

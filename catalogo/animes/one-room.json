@@ -1,0 +1,117 @@
+{
+  "id_origen": 2015,
+  "slug": "one-room",
+  "titulo": "One Room",
+  "titulo_corto": "One Room",
+  "sinopsis": "En un apartamento, tres chicas conviven junto al protagonista de esta historia. Cada una con su personalidad, sus aspiraciones y manera de ver la vida. \n\nEn One Room, conoceremos el día a día de cada una.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-room.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-room/",
+  "episodios": [
+    {
+      "id_origen": 33828,
+      "numero": 1,
+      "titulo": "One Room - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ca410c8d727f9fe3ad4f29b4cacf1fa.jpg",
+      "url_origen": "https://jkanime.net/one-room/1/",
+      "publicado_en_origen": "2017-01-11 14:17:42"
+    },
+    {
+      "id_origen": 33885,
+      "numero": 2,
+      "titulo": "One Room - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5220ac660ce8c78e452e5edc69d33cf.jpg",
+      "url_origen": "https://jkanime.net/one-room/2/",
+      "publicado_en_origen": "2017-01-18 14:37:31"
+    },
+    {
+      "id_origen": 33941,
+      "numero": 3,
+      "titulo": "One Room - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e007b88b177b521a6879cfcc807ac91b.jpg",
+      "url_origen": "https://jkanime.net/one-room/3/",
+      "publicado_en_origen": "2017-01-25 14:37:36"
+    },
+    {
+      "id_origen": 33998,
+      "numero": 4,
+      "titulo": "One Room - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_005f4666bf5b2ac98530f20c67b5ab52.jpg",
+      "url_origen": "https://jkanime.net/one-room/4/",
+      "publicado_en_origen": "2017-02-01 14:38:12"
+    },
+    {
+      "id_origen": 34054,
+      "numero": 5,
+      "titulo": "One Room - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dff0ec9d8da6f85895d60730fcad2e5a.jpg",
+      "url_origen": "https://jkanime.net/one-room/5/",
+      "publicado_en_origen": "2017-02-08 14:37:06"
+    },
+    {
+      "id_origen": 34110,
+      "numero": 6,
+      "titulo": "One Room - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa68e93925a4e69aa7e3950feb5fbbda.jpg",
+      "url_origen": "https://jkanime.net/one-room/6/",
+      "publicado_en_origen": "2017-02-15 14:40:58"
+    },
+    {
+      "id_origen": 34163,
+      "numero": 7,
+      "titulo": "One Room - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de1fb4320bf96081f57d24d85be4bbb8.jpg",
+      "url_origen": "https://jkanime.net/one-room/7/",
+      "publicado_en_origen": "2017-02-22 14:41:03"
+    },
+    {
+      "id_origen": 34230,
+      "numero": 8,
+      "titulo": "One Room - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-room.jpg",
+      "url_origen": "https://jkanime.net/one-room/8/",
+      "publicado_en_origen": "2017-03-01 14:39:30"
+    },
+    {
+      "id_origen": 34284,
+      "numero": 9,
+      "titulo": "One Room - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21fbc36d7ebdf028791fd50c01cffeda.jpg",
+      "url_origen": "https://jkanime.net/one-room/9/",
+      "publicado_en_origen": "2017-03-08 14:38:55"
+    },
+    {
+      "id_origen": 34342,
+      "numero": 10,
+      "titulo": "One Room - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54b1d475ba3398d7bfd516304215d53d.jpg",
+      "url_origen": "https://jkanime.net/one-room/10/",
+      "publicado_en_origen": "2017-03-15 13:40:32"
+    },
+    {
+      "id_origen": 34395,
+      "numero": 11,
+      "titulo": "One Room - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af63a657e0ceef55ddb2751bc5c0294d.jpg",
+      "url_origen": "https://jkanime.net/one-room/11/",
+      "publicado_en_origen": "2017-03-22 13:37:09"
+    },
+    {
+      "id_origen": 34442,
+      "numero": 12,
+      "titulo": "One Room - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22ac437b43b81f0422091bd2e88624e3.jpg",
+      "url_origen": "https://jkanime.net/one-room/12/",
+      "publicado_en_origen": "2017-03-29 13:53:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2015",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:41:14+00:00"
+}

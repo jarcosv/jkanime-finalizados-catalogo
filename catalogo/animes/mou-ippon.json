@@ -1,0 +1,125 @@
+{
+  "id_origen": 3306,
+  "slug": "mou-ippon",
+  "titulo": "Mou Ippon!",
+  "titulo_corto": "Mou Ippon!",
+  "sinopsis": "Después de actuar en su último torneo de judo de la escuela secundaria, Michi y Sanae comienzan la escuela secundaria y se encuentran con el último oponente de Michi, que parece estar luchando para salvar el club de judo de su nueva escuela.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mou-ippon.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mou-ippon/",
+  "episodios": [
+    {
+      "id_origen": 51530,
+      "numero": 1,
+      "titulo": "Mou Ippon! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acf2fd336760bb64188ea60c373926bb.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/1/",
+      "publicado_en_origen": "2023-01-08 15:18:02"
+    },
+    {
+      "id_origen": 51600,
+      "numero": 2,
+      "titulo": "Mou Ippon! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de46bdcd568b43557eb2840f923ad6ce.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/2/",
+      "publicado_en_origen": "2023-01-15 23:38:11"
+    },
+    {
+      "id_origen": 51663,
+      "numero": 3,
+      "titulo": "Mou Ippon! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4aefed72f50356459a9d9b5098e323b.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/3/",
+      "publicado_en_origen": "2023-01-22 14:50:47"
+    },
+    {
+      "id_origen": 51739,
+      "numero": 4,
+      "titulo": "Mou Ippon! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bcda39f36e88118247a77543349ab21a.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/4/",
+      "publicado_en_origen": "2023-01-29 14:35:49"
+    },
+    {
+      "id_origen": 51814,
+      "numero": 5,
+      "titulo": "Mou Ippon! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5dead63a525f4a629c009a43332c51b4.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/5/",
+      "publicado_en_origen": "2023-02-07 01:17:58"
+    },
+    {
+      "id_origen": 51879,
+      "numero": 6,
+      "titulo": "Mou Ippon! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mou-ippon.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/6/",
+      "publicado_en_origen": "2023-02-12 14:35:19"
+    },
+    {
+      "id_origen": 51945,
+      "numero": 7,
+      "titulo": "Mou Ippon! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f4e952aef6b7aac685499f8e250b801.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/7/",
+      "publicado_en_origen": "2023-02-19 20:25:50"
+    },
+    {
+      "id_origen": 52006,
+      "numero": 8,
+      "titulo": "Mou Ippon! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bd97fe3b00e7f46698d182b6fdc39e7.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/8/",
+      "publicado_en_origen": "2023-02-27 00:03:49"
+    },
+    {
+      "id_origen": 52066,
+      "numero": 9,
+      "titulo": "Mou Ippon! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99b5c60932693f6b7e96c79ca798a104.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/9/",
+      "publicado_en_origen": "2023-03-05 15:02:14"
+    },
+    {
+      "id_origen": 52139,
+      "numero": 10,
+      "titulo": "Mou Ippon! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efbeed028b7d34f24fba3f2fe8c950ca.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/10/",
+      "publicado_en_origen": "2023-03-13 00:09:05"
+    },
+    {
+      "id_origen": 52201,
+      "numero": 11,
+      "titulo": "Mou Ippon! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91d31efa1b44970ae481b4cb1976bc3b.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/11/",
+      "publicado_en_origen": "2023-03-20 00:30:40"
+    },
+    {
+      "id_origen": 52270,
+      "numero": 12,
+      "titulo": "Mou Ippon! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mou-ippon.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/12/",
+      "publicado_en_origen": "2023-03-26 14:25:47"
+    },
+    {
+      "id_origen": 52308,
+      "numero": 13,
+      "titulo": "Mou Ippon! - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mou-ippon.jpg",
+      "url_origen": "https://jkanime.net/mou-ippon/13/",
+      "publicado_en_origen": "2023-04-02 14:39:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3306",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:39:16+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 4095,
+  "slug": "shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack",
+  "titulo": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
+  "titulo_corto": "Shingeki no Kyojin Movie: Kank...",
+  "sinopsis": "Una película recopilatoria de Shingeki no Kyojin: The Final Season - Kanketsu-hen.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack/",
+  "episodios": [
+    {
+      "id_origen": 62755,
+      "numero": 1,
+      "titulo": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e23e0aa4e4cd50be710ae88aee8b2df.jpg",
+      "url_origen": "https://jkanime.net/shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack/1/",
+      "publicado_en_origen": "2025-04-18 09:35:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4095",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:46:23+00:00"
+}

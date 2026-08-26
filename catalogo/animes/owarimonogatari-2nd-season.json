@@ -1,0 +1,45 @@
+{
+  "id_origen": 2114,
+  "slug": "owarimonogatari-2nd-season",
+  "titulo": "Owarimonogatari 2nd Season",
+  "titulo_corto": "Owarimonogatari 2nd Season",
+  "sinopsis": "Durante octubre de su tercer año de preparatoria, Koyomi Araragi conoce a una estudiante transferida llamada Ougi Oshino gracias a un compañero de un curso inferior, Kanbaru Suruga. Ougi le dice a Koyomi que tiene algo que desea preguntarle. Cuando saca el mapa de la Preparatoria Naoestu, la chica encuentra algo bastante particular que le revela una historia que no debería ser contada, lo que cambiará la vida de Koyomi para siempre. La historia del inicio de todo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/owarimonogatari-2nd-season.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/owarimonogatari-2nd-season/",
+  "episodios": [
+    {
+      "id_origen": 35399,
+      "numero": 1,
+      "titulo": "Owarimonogatari 2nd Season - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1067186e81115b17ee94a90f1a4c124c.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari-2nd-season/1/",
+      "publicado_en_origen": "2017-08-12 13:57:39"
+    },
+    {
+      "id_origen": 35400,
+      "numero": 2,
+      "titulo": "Owarimonogatari 2nd Season - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e22c83cb2934dd73c22c293f4befe83.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari-2nd-season/2/",
+      "publicado_en_origen": "2017-08-12 14:01:37"
+    },
+    {
+      "id_origen": 35412,
+      "numero": 3,
+      "titulo": "Owarimonogatari 2nd Season - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35f27037d233966a4a849da1e3123cb9.jpg",
+      "url_origen": "https://jkanime.net/owarimonogatari-2nd-season/3/",
+      "publicado_en_origen": "2017-08-13 14:18:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:23+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2114",
+  "cantidad_episodios_declarada": 7,
+  "detalle_extraido_en": "2026-08-26T18:41:55+00:00"
+}

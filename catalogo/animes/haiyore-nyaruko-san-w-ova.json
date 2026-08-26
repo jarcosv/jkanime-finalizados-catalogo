@@ -1,0 +1,29 @@
+{
+  "id_origen": 1167,
+  "slug": "haiyore-nyaruko-san-w-ova",
+  "titulo": "Haiyore! Nyaruko-san W OVA",
+  "titulo_corto": "Haiyore! Nyaruko-san W OVA",
+  "sinopsis": "Ova de Haiyore! Nyaruko-san W",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/haiyore-nyaruko-san-w-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/haiyore-nyaruko-san-w-ova/",
+  "episodios": [
+    {
+      "id_origen": 23806,
+      "numero": 1,
+      "titulo": "Haiyore! Nyaruko-san W OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b6f6f2df2bd1f461a19c19f65161223.jpg",
+      "url_origen": "https://jkanime.net/haiyore-nyaruko-san-w-ova/1/",
+      "publicado_en_origen": "2014-06-22 21:13:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:55+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1167",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:29:33+00:00"
+}

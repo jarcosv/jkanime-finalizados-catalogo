@@ -1,0 +1,37 @@
+{
+  "id_origen": 1352,
+  "slug": "durarara-specials",
+  "titulo": "Durarara!! Specials",
+  "titulo_corto": "Durarara!! Specials",
+  "sinopsis": "Dos episodios no trasmitidos en televisión incluidos como extras en los DVD Durarara!!\n\nEpisodio 12.5 Ocurre entre los episodios 12 y 13. Un supuesto OVNI es visto en Ikebukuro, pero ¿Qué sera realmente?\n\nEpisodio 25 Episodio final. Un especial de Televisión en el centro de la ciudad con los hermanos anfitriones de Shinzuo, donde al parecer su vida corre peligro",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/durarara-specials.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/durarara-specials/",
+  "episodios": [
+    {
+      "id_origen": 25613,
+      "numero": 1,
+      "titulo": "Durarara!! Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da38769133a761c1db1bf48db6e4a135.jpg",
+      "url_origen": "https://jkanime.net/durarara-specials/1/",
+      "publicado_en_origen": "2014-11-29 21:34:06"
+    },
+    {
+      "id_origen": 25614,
+      "numero": 2,
+      "titulo": "Durarara!! Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2993a45e40b0e335381e4cdc1a7f822e.jpg",
+      "url_origen": "https://jkanime.net/durarara-specials/2/",
+      "publicado_en_origen": "2014-11-29 21:34:07"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1352",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:26:04+00:00"
+}

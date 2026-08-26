@@ -1,0 +1,29 @@
+{
+  "id_origen": 3938,
+  "slug": "kono-sekai-no-katasumi-ni",
+  "titulo": "Kono Sekai no Katasumi ni",
+  "titulo_corto": "Kono Sekai no Katasumi ni",
+  "sinopsis": "Japón, 1943, durante la Segunda Guerra Mundial. La joven Suzu deja su aldea cerca de Hiroshima para casarse y vivir con sus suegros en Kure, un puerto militar. Su creatividad para superar rápidamente las privaciones pronto la hace indispensable en casa. Habitada por una sabiduría ancestral, Suzu impregna de poesía y belleza los gestos sencillos de la vida cotidiana. Las muchas dificultades, la pérdida de seres queridos, los frecuentes ataques aéreos del enemigo, nada altera su entusiasmo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kono-sekai-no-katasumi-ni.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kono-sekai-no-katasumi-ni/",
+  "episodios": [
+    {
+      "id_origen": 60749,
+      "numero": 1,
+      "titulo": "Kono Sekai no Katasumi ni",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0c4131df3b23d94192137bac135dc83.jpg",
+      "url_origen": "https://jkanime.net/kono-sekai-no-katasumi-ni/1/",
+      "publicado_en_origen": "2024-11-23 09:39:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3938",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:35:31+00:00"
+}

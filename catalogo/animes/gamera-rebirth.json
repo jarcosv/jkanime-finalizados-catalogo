@@ -1,0 +1,69 @@
+{
+  "id_origen": 3498,
+  "slug": "gamera-rebirth",
+  "titulo": "Gamera: Rebirth",
+  "titulo_corto": "Gamera: Rebirth",
+  "sinopsis": "La serie se centrará en Gamera enfrentándose a cinco Kaiju diferentes.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gamera-rebirth.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gamera-rebirth/",
+  "episodios": [
+    {
+      "id_origen": 54106,
+      "numero": 1,
+      "titulo": "Gamera: Rebirth - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccdc25d216b022ce847b1f7f5fa7fcc5.jpg",
+      "url_origen": "https://jkanime.net/gamera-rebirth/1/",
+      "publicado_en_origen": "2023-09-15 18:09:56"
+    },
+    {
+      "id_origen": 54107,
+      "numero": 2,
+      "titulo": "Gamera: Rebirth - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bef9664e40322cf8340f09f6613bbea5.jpg",
+      "url_origen": "https://jkanime.net/gamera-rebirth/2/",
+      "publicado_en_origen": "2023-09-15 18:09:56"
+    },
+    {
+      "id_origen": 54108,
+      "numero": 3,
+      "titulo": "Gamera: Rebirth - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a443add23816fdc118ed0257bbc0bca.jpg",
+      "url_origen": "https://jkanime.net/gamera-rebirth/3/",
+      "publicado_en_origen": "2023-09-15 18:09:56"
+    },
+    {
+      "id_origen": 54109,
+      "numero": 4,
+      "titulo": "Gamera: Rebirth - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d35a50632ff95750486525ecdd0eaa5.jpg",
+      "url_origen": "https://jkanime.net/gamera-rebirth/4/",
+      "publicado_en_origen": "2023-09-15 18:09:56"
+    },
+    {
+      "id_origen": 54110,
+      "numero": 5,
+      "titulo": "Gamera: Rebirth - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58ba96718eacbd6076f954dfd03a0e60.jpg",
+      "url_origen": "https://jkanime.net/gamera-rebirth/5/",
+      "publicado_en_origen": "2023-09-15 18:09:56"
+    },
+    {
+      "id_origen": 54111,
+      "numero": 6,
+      "titulo": "Gamera: Rebirth - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e7a7a3cdc4269c848f00684d21c113a.jpg",
+      "url_origen": "https://jkanime.net/gamera-rebirth/6/",
+      "publicado_en_origen": "2023-09-15 18:09:56"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3498",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:27:51+00:00"
+}

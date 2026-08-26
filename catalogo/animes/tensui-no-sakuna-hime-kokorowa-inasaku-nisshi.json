@@ -1,0 +1,37 @@
+{
+  "id_origen": 4623,
+  "slug": "tensui-no-sakuna-hime-kokorowa-inasaku-nisshi",
+  "titulo": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
+  "titulo_corto": "Tensui no Sakuna-hime: Kokorow...",
+  "sinopsis": "Secuela especial para televisión de Tensui no Sakuna-hime.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tensui-no-sakuna-hime-kokorowa-inasaku-nisshi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tensui-no-sakuna-hime-kokorowa-inasaku-nisshi/",
+  "episodios": [
+    {
+      "id_origen": 71594,
+      "numero": 1,
+      "titulo": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_059bd186356acc455b50c7c2d4f20966.jpg",
+      "url_origen": "https://jkanime.net/tensui-no-sakuna-hime-kokorowa-inasaku-nisshi/1/",
+      "publicado_en_origen": "2026-02-19 16:10:46"
+    },
+    {
+      "id_origen": 71818,
+      "numero": 2,
+      "titulo": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed5885fcba169376a3908b819e5fedbc.jpg",
+      "url_origen": "https://jkanime.net/tensui-no-sakuna-hime-kokorowa-inasaku-nisshi/2/",
+      "publicado_en_origen": "2026-02-26 18:00:53"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4623",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:49:05+00:00"
+}

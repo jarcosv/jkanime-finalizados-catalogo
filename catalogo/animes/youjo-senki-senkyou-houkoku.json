@@ -1,0 +1,29 @@
+{
+  "id_origen": 4865,
+  "slug": "youjo-senki-senkyou-houkoku",
+  "titulo": "Youjo Senki: Senkyou Houkoku",
+  "titulo_corto": "Youjo Senki: Senkyou Houkoku",
+  "sinopsis": "Resumen de los seis primeros episodios de Youjo Senki.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-senkyou-houkoku.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/youjo-senki-senkyou-houkoku/",
+  "episodios": [
+    {
+      "id_origen": 75095,
+      "numero": 1,
+      "titulo": "Youjo Senki: Senkyou Houkoku",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f3cd0965351e53382bda4f3a03a08f0.jpg",
+      "url_origen": "https://jkanime.net/youjo-senki-senkyou-houkoku/1/",
+      "publicado_en_origen": "2026-07-15 15:43:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4865",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:53:02+00:00"
+}

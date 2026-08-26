@@ -1,0 +1,37 @@
+{
+  "id_origen": 1699,
+  "slug": "himouto-umaru-chan-ova",
+  "titulo": "Himouto! Umaru-chan OVA",
+  "titulo_corto": "Himouto! Umaru-chan OVA",
+  "sinopsis": "Episodio no transmitido por TV, incluido en la séptima compilación del manga",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/himouto-umaru-chan-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/himouto-umaru-chan-ova/",
+  "episodios": [
+    {
+      "id_origen": 29868,
+      "numero": 1,
+      "titulo": "Himouto! Umaru-chan OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba84d9ed0e2c391714dd41620490d8db.jpg",
+      "url_origen": "https://jkanime.net/himouto-umaru-chan-ova/1/",
+      "publicado_en_origen": "2015-10-20 16:05:34"
+    },
+    {
+      "id_origen": 34608,
+      "numero": 2,
+      "titulo": "Himouto! Umaru-chan OVA 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42544f171b32ad2c2897a5498963a3d9.jpg",
+      "url_origen": "https://jkanime.net/himouto-umaru-chan-ova/2/",
+      "publicado_en_origen": "2017-04-21 21:20:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1699",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:30:47+00:00"
+}

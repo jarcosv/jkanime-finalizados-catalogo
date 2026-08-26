@@ -1,0 +1,117 @@
+{
+  "id_origen": 2053,
+  "slug": "id-0",
+  "titulo": "ID-0",
+  "titulo_corto": "ID-0",
+  "sinopsis": "I-Machines es un término usado para denominar a los robots que trabajan en ambientes hostiles. La estudiante, Maya Mikuri, sufre un accidente mientras maniobraba una I-machine. Aún estando en su forma de I-Machine es rescatada por una nave de Escavate, una nave de excavación de una banda de piratas. Desde allí ella es obligada a trabajar como parte de su tripulación.\nMientras ella trabaja con la tripulación y sus formas de ser de cada uno, ella aprende lo que en realidad significa ser un humano.\n\n¿Qué es lo que se esconden detrás de sus recuerdos? ¿Esperanza o desesperación?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/id-0/",
+  "episodios": [
+    {
+      "id_origen": 34513,
+      "numero": 1,
+      "titulo": "ID-0 - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+      "url_origen": "https://jkanime.net/id-0/1/",
+      "publicado_en_origen": "2017-04-09 19:31:55"
+    },
+    {
+      "id_origen": 34578,
+      "numero": 2,
+      "titulo": "ID-0 - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+      "url_origen": "https://jkanime.net/id-0/2/",
+      "publicado_en_origen": "2017-04-18 00:12:02"
+    },
+    {
+      "id_origen": 34639,
+      "numero": 3,
+      "titulo": "ID-0 - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+      "url_origen": "https://jkanime.net/id-0/3/",
+      "publicado_en_origen": "2017-04-25 20:06:55"
+    },
+    {
+      "id_origen": 34685,
+      "numero": 4,
+      "titulo": "ID-0 - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+      "url_origen": "https://jkanime.net/id-0/4/",
+      "publicado_en_origen": "2017-05-01 18:54:42"
+    },
+    {
+      "id_origen": 34736,
+      "numero": 5,
+      "titulo": "ID-0 - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+      "url_origen": "https://jkanime.net/id-0/5/",
+      "publicado_en_origen": "2017-05-08 21:14:29"
+    },
+    {
+      "id_origen": 34789,
+      "numero": 6,
+      "titulo": "ID-0 - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+      "url_origen": "https://jkanime.net/id-0/6/",
+      "publicado_en_origen": "2017-05-16 13:36:17"
+    },
+    {
+      "id_origen": 34836,
+      "numero": 7,
+      "titulo": "ID-0 - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+      "url_origen": "https://jkanime.net/id-0/7/",
+      "publicado_en_origen": "2017-05-22 19:21:34"
+    },
+    {
+      "id_origen": 34889,
+      "numero": 8,
+      "titulo": "ID-0 - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+      "url_origen": "https://jkanime.net/id-0/8/",
+      "publicado_en_origen": "2017-05-30 00:42:00"
+    },
+    {
+      "id_origen": 34941,
+      "numero": 9,
+      "titulo": "ID-0 - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+      "url_origen": "https://jkanime.net/id-0/9/",
+      "publicado_en_origen": "2017-06-06 01:08:11"
+    },
+    {
+      "id_origen": 34992,
+      "numero": 10,
+      "titulo": "ID-0 - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+      "url_origen": "https://jkanime.net/id-0/10/",
+      "publicado_en_origen": "2017-06-12 20:23:21"
+    },
+    {
+      "id_origen": 35047,
+      "numero": 11,
+      "titulo": "ID-0 - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+      "url_origen": "https://jkanime.net/id-0/11/",
+      "publicado_en_origen": "2017-06-20 15:11:42"
+    },
+    {
+      "id_origen": 35090,
+      "numero": 12,
+      "titulo": "ID-0 - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/id-0.jpg",
+      "url_origen": "https://jkanime.net/id-0/12/",
+      "publicado_en_origen": "2017-06-26 18:32:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2053",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:31:35+00:00"
+}

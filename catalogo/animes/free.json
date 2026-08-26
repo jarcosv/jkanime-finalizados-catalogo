@@ -1,0 +1,117 @@
+{
+  "id_origen": 882,
+  "slug": "free",
+  "titulo": "Free!",
+  "titulo_corto": "Free!",
+  "sinopsis": "La historia gira en torno a Haruka Nanase, un muchacho al que siempre le ha gustado sumergirse en el agua y nadar. Tras llevar años sin verse, su amigo Rin, que marchó al extranjero años atrás y ahora ha vuelto, reta a Nanase a una competición de natación y le demuestra lo mucho que ha mejorado con los años. Haruka no tiene intención de que eso acabe ahí, así que reúne a Makoto y Nagisa, sus viejos compañeros del club de natación de secundaria al que también pertenecía Rin, y formará un club de natación para vencer a Rin y a su nuevo equipo en un instituto rival.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/free.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/free/",
+  "episodios": [
+    {
+      "id_origen": 20960,
+      "numero": 1,
+      "titulo": "Free! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1017c1c7ca672a0b82961a6d2c5bab8.jpg",
+      "url_origen": "https://jkanime.net/free/1/",
+      "publicado_en_origen": "2013-07-03 15:21:16"
+    },
+    {
+      "id_origen": 21043,
+      "numero": 2,
+      "titulo": "Free! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_663ad9fa2aa6c2af4e1d8915e2c6fd9a.jpg",
+      "url_origen": "https://jkanime.net/free/2/",
+      "publicado_en_origen": "2013-07-10 15:23:25"
+    },
+    {
+      "id_origen": 21095,
+      "numero": 3,
+      "titulo": "Free! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6593de02e6979db9ca7c1aa0d52d50e0.jpg",
+      "url_origen": "https://jkanime.net/free/3/",
+      "publicado_en_origen": "2013-07-17 15:43:47"
+    },
+    {
+      "id_origen": 21142,
+      "numero": 4,
+      "titulo": "Free! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0d9b8cdc92c7e4c6b28e0143d95b5df.jpg",
+      "url_origen": "https://jkanime.net/free/4/",
+      "publicado_en_origen": "2013-07-24 15:23:01"
+    },
+    {
+      "id_origen": 21232,
+      "numero": 5,
+      "titulo": "Free! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68fc61f6fd79afe9607a3ec58f2e6ad1.jpg",
+      "url_origen": "https://jkanime.net/free/5/",
+      "publicado_en_origen": "2013-08-07 15:22:42"
+    },
+    {
+      "id_origen": 21281,
+      "numero": 6,
+      "titulo": "Free! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f737abf3f6bb5f84a1ad1dc0be05ab8.jpg",
+      "url_origen": "https://jkanime.net/free/6/",
+      "publicado_en_origen": "2013-08-14 15:22:06"
+    },
+    {
+      "id_origen": 21328,
+      "numero": 7,
+      "titulo": "Free! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db34fbf0a135038c9c9102e028c614be.jpg",
+      "url_origen": "https://jkanime.net/free/7/",
+      "publicado_en_origen": "2013-08-21 15:26:50"
+    },
+    {
+      "id_origen": 21372,
+      "numero": 8,
+      "titulo": "Free! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e91540a780f62979576d7aa372139a4c.jpg",
+      "url_origen": "https://jkanime.net/free/8/",
+      "publicado_en_origen": "2013-08-28 15:29:45"
+    },
+    {
+      "id_origen": 21422,
+      "numero": 9,
+      "titulo": "Free! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02f83d35779d1914212cae6784e70d18.jpg",
+      "url_origen": "https://jkanime.net/free/9/",
+      "publicado_en_origen": "2013-09-04 15:26:55"
+    },
+    {
+      "id_origen": 21469,
+      "numero": 10,
+      "titulo": "Free! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00e3fc1d6b2a8569e99d958db4d6e14d.jpg",
+      "url_origen": "https://jkanime.net/free/10/",
+      "publicado_en_origen": "2013-09-11 15:31:11"
+    },
+    {
+      "id_origen": 21518,
+      "numero": 11,
+      "titulo": "Free! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0d89ff88fb31cba6c10aeded5b96e8c.jpg",
+      "url_origen": "https://jkanime.net/free/11/",
+      "publicado_en_origen": "2013-09-18 15:38:04"
+    },
+    {
+      "id_origen": 21561,
+      "numero": 12,
+      "titulo": "Free! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fd6b19f1b2a8d3f9f402df3c5e05d30.jpg",
+      "url_origen": "https://jkanime.net/free/12/",
+      "publicado_en_origen": "2013-09-25 15:27:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:01+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "882",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:27:10+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1246,
+  "slug": "kill-la-kill-special",
+  "titulo": "Kill la Kill Ova",
+  "titulo_corto": "Kill la Kill Ova",
+  "sinopsis": "Valido como episodio 25 no emitido de la serie de anime de televisión Kill la Kill incluido con el noveno volumen de Blu-ray y DVD. Se trata de la ceremonia de graduación de la Academia Honnouji.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kill-la-kill-special.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kill-la-kill-special/",
+  "episodios": [
+    {
+      "id_origen": 24627,
+      "numero": 1,
+      "titulo": "Kill la Kill Ova",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca4b4f737a52752ca8ac87d661b4328c.jpg",
+      "url_origen": "https://jkanime.net/kill-la-kill-special/1/",
+      "publicado_en_origen": "2014-09-03 20:29:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1246",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:34:34+00:00"
+}

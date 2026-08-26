@@ -1,0 +1,29 @@
+{
+  "id_origen": 4634,
+  "slug": "karakuri-no-kimi",
+  "titulo": "Karakuri no Kimi",
+  "titulo_corto": "Karakuri no Kimi",
+  "sinopsis": "En un oscuro rincón del Japón feudal, una torpe joven que lleva una enorme caja busca a un legendario ninja. Esa chica es Rangiku Ayawatari, la única superviviente del clan Ayuwatari, y busca venganza contra el señor Sadayoshi Karimata, el hombre que masacró a su familia y robó los secretos de la preciada colección de marionetas de su padre. Sin embargo, en lugar del legendario ninja, Rangiku encuentra a Yasaburou Manajiri, un vagabundo perseguido por «ninjas inmortales», unos extraños guerreros intrépidos capaces de sobrevivir a golpes aparentemente mortales. Al descubrir que comparten un enemigo común, ambos se alían para derrotar al cruel señor y librar al mundo de unas extrañas marionetas que esconden un horrible secreto.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/karakuri-no-kimi.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/karakuri-no-kimi/",
+  "episodios": [
+    {
+      "id_origen": 72063,
+      "numero": 1,
+      "titulo": "Karakuri no Kimi",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_025d332864a7eea3dd7ed9cf60d13a97.jpg",
+      "url_origen": "https://jkanime.net/karakuri-no-kimi/1/",
+      "publicado_en_origen": "2026-03-12 09:08:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4634",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:34:02+00:00"
+}

@@ -1,0 +1,85 @@
+{
+  "id_origen": 77,
+  "slug": "hunter-x-hunter-greed-island",
+  "titulo": "Hunter x Hunter: Greed Island",
+  "titulo_corto": "Hunter x Hunter: Greed Island",
+  "sinopsis": "Es la OVA que continua a la del Genei Ryodan Durante esta parte Gon Y Killua siguiendo una pista que dejo el padre de Gon, se logran enrolar en el juego Greed Island (la isla de la ambición). Al colocarse en frente de la consola son transportados a un territorio el la cual ellos creen en un principio es una realidad virtual, pero que es en realidad una isla la cual ha sido modificada por muchos cazadores gracias a la habilidad especial (NEN) que ellos poseen, siendo el padre de Gon uno de lo creadores del Juego. Durante sus aventuras en el Juego conocen a Biske, quien a pesar de poseer una apariencia juvenil, es en relidad una adulta mayor y quien se convierte en su próxima Maestra. Durante sus aventuras en Greed Island, Gon y Killua se encuentran con Hisoka. Aunque también ingresan otros miembros del Ryodan (Saga anterior) estos no entran en contacto con ellos, ya que están buscando una solución para liberar a sus jefe de la cadena que le incrusto Kurapica.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hunter-x-hunter-greed-island.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hunter-x-hunter-greed-island/",
+  "episodios": [
+    {
+      "id_origen": 1781,
+      "numero": 1,
+      "titulo": "Hunter X Hunter GI 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b6a80c3cf2cbd5f967063618dc54f39.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-greed-island/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1782,
+      "numero": 2,
+      "titulo": "Hunter X Hunter GI 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a2ddf148c5a9c42151a529e8cbdcc06.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-greed-island/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1783,
+      "numero": 3,
+      "titulo": "Hunter X Hunter GI 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b865367fc4c0845c0682bd466e6ebf4c.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-greed-island/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1784,
+      "numero": 4,
+      "titulo": "Hunter X Hunter GI 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_365d17770080c807a0e47ae9118d8641.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-greed-island/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1785,
+      "numero": 5,
+      "titulo": "Hunter X Hunter GI 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_393c55aea738548df743a186d15f3bef.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-greed-island/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1786,
+      "numero": 6,
+      "titulo": "Hunter X Hunter GI 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6449f44a102fde848669bdd9eb6b76fa.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-greed-island/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1787,
+      "numero": 7,
+      "titulo": "Hunter X Hunter GI 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d860bd12ce9c026814bbdfc1c573f0f5.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-greed-island/7/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1788,
+      "numero": 8,
+      "titulo": "Hunter X Hunter GI 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db957c626a8cd7a27231adfbf51e20eb.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-greed-island/8/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "77",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:31:19+00:00"
+}

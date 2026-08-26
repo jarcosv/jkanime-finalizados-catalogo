@@ -1,0 +1,29 @@
+{
+  "id_origen": 878,
+  "slug": "mirai-nikki-redial",
+  "titulo": "Mirai Nikki Redial",
+  "titulo_corto": "Mirai Nikki Redial",
+  "sinopsis": "La historia de Mirai Nikki Redial se sitúa en el tercer universo, donde Yuno Gasai ha recuperado sus recuerdos y marcha a su encuentro con Yukiteru Amano.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mirai-nikki-redial.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mirai-nikki-redial/",
+  "episodios": [
+    {
+      "id_origen": 20911,
+      "numero": 1,
+      "titulo": "Mirai Nikki Redial",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b967fe2534e4c3e13a69881876a9cdf.jpg",
+      "url_origen": "https://jkanime.net/mirai-nikki-redial/1/",
+      "publicado_en_origen": "2013-06-28 15:42:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "878",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:38:42+00:00"
+}

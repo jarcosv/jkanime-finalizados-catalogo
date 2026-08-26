@@ -1,0 +1,29 @@
+{
+  "id_origen": 1454,
+  "slug": "pale-cocoon",
+  "titulo": "Pale Cocoon",
+  "titulo_corto": "Pale Cocoon",
+  "sinopsis": "Un futuro donde la continuidad de la historia ha sido interrumpida, donde una gran cantidad de enormes ruinas siguen sin fin. Los océanos y continentes ya no existen como tal, solo vestigios en los archivos mantienen el conocimiento del pasado. Ura trabaja restaurando estos archivos, y en uno de ellos encuentra algo perturbador...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pale-cocoon.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pale-cocoon/",
+  "episodios": [
+    {
+      "id_origen": 26983,
+      "numero": 1,
+      "titulo": "Pale Cocoon",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da69515fd5a53b94ce79b9925f36b339.jpg",
+      "url_origen": "https://jkanime.net/pale-cocoon/1/",
+      "publicado_en_origen": "2015-03-07 11:29:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1454",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:56+00:00"
+}

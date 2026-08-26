@@ -1,0 +1,757 @@
+{
+  "id_origen": 2496,
+  "slug": "mazinger-z",
+  "titulo": "Mazinger Z",
+  "titulo_corto": "Mazinger Z",
+  "sinopsis": "El villano Dr. Hell ha acumulado un ejercito de bestias mecanicas en su escondite secreto, la isla de Bardos ubicada en el Mar Egeo. Es capaz de controlar a las bestias mecanizadas con su baston y les indica que desaten ataques devastadores. Sin embargo, el Dr. Hell no hace todo el trabajo sucio solo; el tiene su fiel secuaz, el baron Ashura, para llevar a cabo sus planes diabólicos.\n\nTambien hay quienes veran que el mal no prevalezca. Kouji Kabuto es el joven y luchador adolescente con una cuenta pendiente: su objetivo es vengar el asesinato de su abuelo por el Dr. Hell. Y podria ser capaz de lograrlo, ya que es el piloto de Mazinger Z, un poderoso robot gigante hecho de un metal indestructible conocido como Super-Alloy Z.\n\nMazinger Z cuenta con varios ataques especiales poderosos. Al canalizar la energia fotonica a traves de sus ojos y al liberar el haz de Koushiryoku, puede causar una gran destruccion. Pero las cosas se ponen realmente geniales cuando Mazinger Z lanza su ataque Rocket Punch. ¡El Dr. Hell y sus secuaces podrian haber encontrado su pareja!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mazinger-z.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mazinger-z/",
+  "episodios": [
+    {
+      "id_origen": 40934,
+      "numero": 1,
+      "titulo": "Mazinger Z - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20bf15daea22c05f7a212b9883b90376.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/1/",
+      "publicado_en_origen": "2019-09-12 18:48:13"
+    },
+    {
+      "id_origen": 40935,
+      "numero": 2,
+      "titulo": "Mazinger Z - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5301bb35a65ac7aef3ba3f102d07f770.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/2/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40936,
+      "numero": 3,
+      "titulo": "Mazinger Z - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_381265417b4999d11f7ea36ea5bd94c6.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/3/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40937,
+      "numero": 4,
+      "titulo": "Mazinger Z - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce518001633ca4e1f2ae4b02f4dcb11f.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/4/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40938,
+      "numero": 5,
+      "titulo": "Mazinger Z - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28eac2b741744f6a013131ae3e77d7e7.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/5/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40939,
+      "numero": 6,
+      "titulo": "Mazinger Z - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b31af0e125cd4e8238db5db06912d6a2.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/6/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40940,
+      "numero": 7,
+      "titulo": "Mazinger Z - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32cef736ada0ce942d53dd2c8639ed6d.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/7/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40941,
+      "numero": 8,
+      "titulo": "Mazinger Z - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06f38e7909709a72b521a4a9d1c05841.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/8/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40942,
+      "numero": 9,
+      "titulo": "Mazinger Z - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42e1c072773f59e53d4cfa02d398c552.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/9/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40943,
+      "numero": 10,
+      "titulo": "Mazinger Z - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fcf4e6a7771f35daf0b98c69fb10528.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/10/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40944,
+      "numero": 11,
+      "titulo": "Mazinger Z - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aba37915c93417bfa9d92dd23a38771e.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/11/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40945,
+      "numero": 12,
+      "titulo": "Mazinger Z - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de5d8722acb069c17055849b7aca5047.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/12/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40946,
+      "numero": 13,
+      "titulo": "Mazinger Z - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c117e6a0b3f700bd997a11500a5c2e2.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/13/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40947,
+      "numero": 14,
+      "titulo": "Mazinger Z - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe35cdc3b5e88ce55f6659889fe2937f.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/14/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40948,
+      "numero": 15,
+      "titulo": "Mazinger Z - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8f2394347595ff31db6d61e584dc346.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/15/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40949,
+      "numero": 16,
+      "titulo": "Mazinger Z - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4216a63a4a40cd16ad257098ec9d361a.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/16/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40950,
+      "numero": 17,
+      "titulo": "Mazinger Z - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1291fd5dfbeaea377eaad66b2623961.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/17/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40951,
+      "numero": 18,
+      "titulo": "Mazinger Z - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fe059987fe6e9d0cb6a7c2e98874d4c.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/18/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40952,
+      "numero": 19,
+      "titulo": "Mazinger Z - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b0f48ce1d186742852c2ef897f8a0a0.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/19/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40953,
+      "numero": 20,
+      "titulo": "Mazinger Z - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_237b5accef653ebe40f8d2bb179dc554.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/20/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40954,
+      "numero": 21,
+      "titulo": "Mazinger Z - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_426b48e83ef39ef21b5f77f933fb529e.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/21/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40955,
+      "numero": 22,
+      "titulo": "Mazinger Z - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efda1f74bbe96f65d38c079fc9c0ca32.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/22/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40956,
+      "numero": 23,
+      "titulo": "Mazinger Z - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b901ad8e8c03a6f22f40b7de9a5041be.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/23/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40957,
+      "numero": 24,
+      "titulo": "Mazinger Z - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_512182619d12ae0863827b7e5ab97f19.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/24/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40958,
+      "numero": 25,
+      "titulo": "Mazinger Z - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ac050d44e6476acecf88969950cf3a2.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/25/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40959,
+      "numero": 26,
+      "titulo": "Mazinger Z - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2842ad89a82393cd5b7f62fd3bb7afe9.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/26/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40960,
+      "numero": 27,
+      "titulo": "Mazinger Z - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a422a18c93db2b5d4277c3ec048cc786.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/27/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40961,
+      "numero": 28,
+      "titulo": "Mazinger Z - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_969d53a568dfbaf6bb929d69917b34fa.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/28/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40962,
+      "numero": 29,
+      "titulo": "Mazinger Z - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67107e5f6f1efb4409c37abd1645b0f5.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/29/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40963,
+      "numero": 30,
+      "titulo": "Mazinger Z - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c433a09bd26b943147c4d9bacb15efc.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/30/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40964,
+      "numero": 31,
+      "titulo": "Mazinger Z - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d348734a9ee240ebc4c0937a6e755621.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/31/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40965,
+      "numero": 32,
+      "titulo": "Mazinger Z - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02fd6cf9553be2d58efe687b857830f6.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/32/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40966,
+      "numero": 33,
+      "titulo": "Mazinger Z - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a127c5a2ed0a7a7790327f59706b0b77.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/33/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40967,
+      "numero": 34,
+      "titulo": "Mazinger Z - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f752167fca2ecaf38964ffaff639b8d8.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/34/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40968,
+      "numero": 35,
+      "titulo": "Mazinger Z - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69c4bb19e942fea086d5fd85078695a0.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/35/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40969,
+      "numero": 36,
+      "titulo": "Mazinger Z - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9f25e08376c0ddf3794d0212623d221.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/36/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40970,
+      "numero": 37,
+      "titulo": "Mazinger Z - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ac93bfefcaa86acb77acbefd55d659a.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/37/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40971,
+      "numero": 38,
+      "titulo": "Mazinger Z - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_831979cdc82239bb411794d618b7cfbb.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/38/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40972,
+      "numero": 39,
+      "titulo": "Mazinger Z - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d805b3977c018e4f8d30c5e6b0e59b42.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/39/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40973,
+      "numero": 40,
+      "titulo": "Mazinger Z - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_021ff8a9becc2eff3b3ec40a10b397e6.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/40/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40974,
+      "numero": 41,
+      "titulo": "Mazinger Z - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_454a6b3088037f916dac09aed8e85537.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/41/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40975,
+      "numero": 42,
+      "titulo": "Mazinger Z - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e06eb57b289ac466aff1c3922d37439.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/42/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40976,
+      "numero": 43,
+      "titulo": "Mazinger Z - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20693004ec845da4c1ed7f7c05c7685a.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/43/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40977,
+      "numero": 44,
+      "titulo": "Mazinger Z - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_137853082702b6be2d735817ca348b05.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/44/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40978,
+      "numero": 45,
+      "titulo": "Mazinger Z - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f614dcb06ea2d91916df976112cbefcd.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/45/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40979,
+      "numero": 46,
+      "titulo": "Mazinger Z - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52b939a7696391395ea818f43f82b5e5.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/46/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40980,
+      "numero": 47,
+      "titulo": "Mazinger Z - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdde90d3321aee7ac051cf58d649a5f5.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/47/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40981,
+      "numero": 48,
+      "titulo": "Mazinger Z - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca91afd0070f7d65177f34e552b38761.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/48/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40982,
+      "numero": 49,
+      "titulo": "Mazinger Z - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7155eaa13b3893b816315471556dae55.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/49/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40983,
+      "numero": 50,
+      "titulo": "Mazinger Z - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdeb903207013df679ffea81e9c3c126.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/50/",
+      "publicado_en_origen": "2019-09-12 18:48:15"
+    },
+    {
+      "id_origen": 40984,
+      "numero": 51,
+      "titulo": "Mazinger Z - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a148326712c649e4b738786289e9eec.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/51/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40985,
+      "numero": 52,
+      "titulo": "Mazinger Z - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f226997a7c7535ff45172bdf721dbb24.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/52/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40986,
+      "numero": 53,
+      "titulo": "Mazinger Z - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e75d0b169ffeb90d4b805790ce68a239.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/53/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40987,
+      "numero": 54,
+      "titulo": "Mazinger Z - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7af61e5f524cea0e7dab3a8dfc4c00d6.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/54/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40988,
+      "numero": 55,
+      "titulo": "Mazinger Z - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c3419c75074a0734e4d1851aa66eb8b.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/55/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40989,
+      "numero": 56,
+      "titulo": "Mazinger Z - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5772c97a8e2bcf909674d8701480d55.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/56/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40990,
+      "numero": 57,
+      "titulo": "Mazinger Z - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b72859350810d1fce00822a42af66c2.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/57/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40991,
+      "numero": 58,
+      "titulo": "Mazinger Z - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41ca9e4fc93fff22596daa94dd437689.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/58/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40992,
+      "numero": 59,
+      "titulo": "Mazinger Z - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66677f4c83ce59b19db2071d55955e96.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/59/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40993,
+      "numero": 60,
+      "titulo": "Mazinger Z - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc8dc2e92112275da59ba352aa5070c3.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/60/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40994,
+      "numero": 61,
+      "titulo": "Mazinger Z - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8adcbdcc53c6a9e4a177848a8e275dd2.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/61/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40995,
+      "numero": 62,
+      "titulo": "Mazinger Z - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ee72a49447c71ff89c7486f191c69df.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/62/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40996,
+      "numero": 63,
+      "titulo": "Mazinger Z - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e12cb3a587356af6fbccb765c0d1fac.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/63/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40997,
+      "numero": 64,
+      "titulo": "Mazinger Z - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_901c5103458da9452862157b5b4a2584.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/64/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40998,
+      "numero": 65,
+      "titulo": "Mazinger Z - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb3e90115fe0edc297846a47dc731ae4.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/65/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 40999,
+      "numero": 66,
+      "titulo": "Mazinger Z - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e658a7376fbef31c3bb99e4dc2c7d6d.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/66/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41000,
+      "numero": 67,
+      "titulo": "Mazinger Z - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_225178b1567029966f5f52fed7fc1179.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/67/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41001,
+      "numero": 68,
+      "titulo": "Mazinger Z - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_043485b042179e1b0547288346a47044.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/68/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41002,
+      "numero": 69,
+      "titulo": "Mazinger Z - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0dd989c64c054921672af61a0c7a5e95.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/69/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41003,
+      "numero": 70,
+      "titulo": "Mazinger Z - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7602980244b8793fb90d3bfb3bef1639.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/70/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41004,
+      "numero": 71,
+      "titulo": "Mazinger Z - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_effd6e9cd3f0b5bce88107b4cbcd4a8b.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/71/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41005,
+      "numero": 72,
+      "titulo": "Mazinger Z - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a86c4aec1bcf14eb30646ed8df2d2401.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/72/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41006,
+      "numero": 73,
+      "titulo": "Mazinger Z - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a176baf810d96d12324b97d562117cd.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/73/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41007,
+      "numero": 74,
+      "titulo": "Mazinger Z - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa67a5155398e6ffede7cf8b4825fe39.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/74/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41008,
+      "numero": 75,
+      "titulo": "Mazinger Z - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15c6369f9515408a0b55f7237d6717c3.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/75/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41009,
+      "numero": 76,
+      "titulo": "Mazinger Z - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30b8014701a623705dd4bbc01ee7860b.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/76/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41010,
+      "numero": 77,
+      "titulo": "Mazinger Z - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5ab45423ffb576accdb554b967cdad5.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/77/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41011,
+      "numero": 78,
+      "titulo": "Mazinger Z - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75d8d147d09b832bb0367ba1844fdb58.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/78/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41012,
+      "numero": 79,
+      "titulo": "Mazinger Z - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_314d7b95c872c8d6d5f61d0ddb88acda.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/79/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41013,
+      "numero": 80,
+      "titulo": "Mazinger Z - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c321c755d0a92e0b884d3336cdf803e1.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/80/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41014,
+      "numero": 81,
+      "titulo": "Mazinger Z - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6992eedfcf2e59f50aaf0d0c9f07ae9d.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/81/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41015,
+      "numero": 82,
+      "titulo": "Mazinger Z - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f61cdbe6c7ec2049160dbb993d0702b5.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/82/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41016,
+      "numero": 83,
+      "titulo": "Mazinger Z - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_177e32c9135cbd89ce90cb7cebf0270c.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/83/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41017,
+      "numero": 84,
+      "titulo": "Mazinger Z - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60d179bc263ce0fe8e342c2ea1e67fe6.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/84/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41018,
+      "numero": 85,
+      "titulo": "Mazinger Z - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f53f6d0c952a949b75444785c3a1399.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/85/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41019,
+      "numero": 86,
+      "titulo": "Mazinger Z - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_155722af3900b91a17eeb5a3c987defe.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/86/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41020,
+      "numero": 87,
+      "titulo": "Mazinger Z - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07824c3c893aec68b85724dd37c3755c.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/87/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41021,
+      "numero": 88,
+      "titulo": "Mazinger Z - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65546ed1aea0d4a89d6aa035968c2a3d.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/88/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41022,
+      "numero": 89,
+      "titulo": "Mazinger Z - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60a1e49f81552a98dcd96009487734fd.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/89/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41023,
+      "numero": 90,
+      "titulo": "Mazinger Z - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e5fa5d77c90f90b0ddb3c43f64c2a78.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/90/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41024,
+      "numero": 91,
+      "titulo": "Mazinger Z - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58b26e6eaeb6ed078b51e6cde7925d71.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/91/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    },
+    {
+      "id_origen": 41025,
+      "numero": 92,
+      "titulo": "Mazinger Z - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77fb534c73679ddb543437d0b3db77c4.jpg",
+      "url_origen": "https://jkanime.net/mazinger-z/92/",
+      "publicado_en_origen": "2019-09-12 18:48:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2496",
+  "cantidad_episodios_declarada": 92,
+  "detalle_extraido_en": "2026-08-26T18:38:16+00:00"
+}

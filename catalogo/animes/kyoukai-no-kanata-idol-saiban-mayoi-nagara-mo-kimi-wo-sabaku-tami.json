@@ -1,0 +1,45 @@
+{
+  "id_origen": 995,
+  "slug": "kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami",
+  "titulo": "Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami",
+  "titulo_corto": "Kyoukai no Kanata: Idol Saiban...",
+  "sinopsis": "Cada episodio cuenta con un personaje femenino principal de la serie en forma Chibi.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami/",
+  "episodios": [
+    {
+      "id_origen": 22003,
+      "numero": 1,
+      "titulo": "Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c68f08960290bb2c218f8fd0c097ce8f.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami/1/",
+      "publicado_en_origen": "2013-11-19 03:31:23"
+    },
+    {
+      "id_origen": 22102,
+      "numero": 2,
+      "titulo": "Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_382e69243f57d266c3f430641a7c85ac.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami/2/",
+      "publicado_en_origen": "2013-12-02 21:33:00"
+    },
+    {
+      "id_origen": 22220,
+      "numero": 3,
+      "titulo": "Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c2f94908f263917b48d13d474756e88.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami/3/",
+      "publicado_en_origen": "2013-12-17 00:28:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "995",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:36:12+00:00"
+}

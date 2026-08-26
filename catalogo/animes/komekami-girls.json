@@ -1,0 +1,29 @@
+{
+  "id_origen": 4722,
+  "slug": "komekami-girls",
+  "titulo": "Komekami! Girls",
+  "titulo_corto": "Komekami! Girls",
+  "sinopsis": "Esta es la historia del grupo de siete hermanas «Komekami! Girls», hijas de la deidad del arroz, nacidas de la tradición que dice: «En un solo grano de arroz residen siete dioses».\r\n\r\nCuando su madre (la deidad del arroz, o la reina de los dioses del arroz) fue llamada de urgencia al reino celestial y ya no pudo regresar al reino terrenal, ellas se lanzaron a buscar sus huellas utilizando la ciudad de Usa (prefectura de Oita) como base, y se teletransportan a los santuarios de Hachiman repartidos por toda la isla de Kyushu. A medida que resuelven problemas locales, aprenden sobre la comida, participan en concursos de cocina y crecen.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/komekami-girls.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/komekami-girls/",
+  "episodios": [
+    {
+      "id_origen": 72959,
+      "numero": 1,
+      "titulo": "Komekami! Girls - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f10559bfdf3c9a5d3762e58d67466290.jpg",
+      "url_origen": "https://jkanime.net/komekami-girls/1/",
+      "publicado_en_origen": "2026-05-05 14:18:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4722",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:35:23+00:00"
+}

@@ -1,0 +1,117 @@
+{
+  "id_origen": 4070,
+  "slug": "hibi-wa-sugiredo-meshi-umashi",
+  "titulo": "Hibi wa Sugiredo Meshi Umashi",
+  "titulo_corto": "Hibi wa Sugiredo Meshi Umashi",
+  "sinopsis": "Una animación original sobre la vida cotidiana de cinco chicas que acaban de convertirse en estudiantes universitarias. ¡Les encanta la comida deliciosa, quieren divertirse mucho con todo el mundo y estudiar un poco más para disfrutar al máximo de la vida universitaria!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hibi-wa-sugiredo-meshi-umashi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/",
+  "episodios": [
+    {
+      "id_origen": 62690,
+      "numero": 1,
+      "titulo": "Hibi wa Sugiredo Meshi Umashi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e1f4064e79c1d29f86c13b10cbae3bc.jpg",
+      "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/1/",
+      "publicado_en_origen": "2025-04-12 13:07:57"
+    },
+    {
+      "id_origen": 62774,
+      "numero": 2,
+      "titulo": "Hibi wa Sugiredo Meshi Umashi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d61e6e185a336cb13ea630ee64afed4.jpg",
+      "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/2/",
+      "publicado_en_origen": "2025-04-19 14:10:51"
+    },
+    {
+      "id_origen": 62915,
+      "numero": 3,
+      "titulo": "Hibi wa Sugiredo Meshi Umashi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_932a821a714b2a82762b12a9bb1c9918.jpg",
+      "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/3/",
+      "publicado_en_origen": "2025-04-26 13:22:51"
+    },
+    {
+      "id_origen": 63000,
+      "numero": 4,
+      "titulo": "Hibi wa Sugiredo Meshi Umashi - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c50c88ac83771d9979cdc839a0117bf.jpg",
+      "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/4/",
+      "publicado_en_origen": "2025-05-03 13:07:07"
+    },
+    {
+      "id_origen": 63084,
+      "numero": 5,
+      "titulo": "Hibi wa Sugiredo Meshi Umashi - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f0a9cf637d0ea50691a558872ec11a6.jpg",
+      "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/5/",
+      "publicado_en_origen": "2025-05-10 16:56:30"
+    },
+    {
+      "id_origen": 63217,
+      "numero": 6,
+      "titulo": "Hibi wa Sugiredo Meshi Umashi - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbd841984556c699423197adf3717249.jpg",
+      "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/6/",
+      "publicado_en_origen": "2025-05-17 13:09:13"
+    },
+    {
+      "id_origen": 63299,
+      "numero": 7,
+      "titulo": "Hibi wa Sugiredo Meshi Umashi - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd5bde24de1bccd9cecc18e97aaccbf3.jpg",
+      "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/7/",
+      "publicado_en_origen": "2025-05-24 18:04:25"
+    },
+    {
+      "id_origen": 63378,
+      "numero": 8,
+      "titulo": "Hibi wa Sugiredo Meshi Umashi - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fe8f0cf0045df982f8050197b7f37c6.jpg",
+      "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/8/",
+      "publicado_en_origen": "2025-05-31 17:23:58"
+    },
+    {
+      "id_origen": 63449,
+      "numero": 9,
+      "titulo": "Hibi wa Sugiredo Meshi Umashi - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a10faeea57bc9cbc3198bdff941b20c9.jpg",
+      "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/9/",
+      "publicado_en_origen": "2025-06-07 17:21:23"
+    },
+    {
+      "id_origen": 63529,
+      "numero": 10,
+      "titulo": "Hibi wa Sugiredo Meshi Umashi - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc542afee3c8f0fd5444a14b2548d9d1.jpg",
+      "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/10/",
+      "publicado_en_origen": "2025-06-14 19:47:30"
+    },
+    {
+      "id_origen": 63598,
+      "numero": 11,
+      "titulo": "Hibi wa Sugiredo Meshi Umashi - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1968bd48861c2b0d506e796d5ad2f75a.jpg",
+      "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/11/",
+      "publicado_en_origen": "2025-06-21 17:21:42"
+    },
+    {
+      "id_origen": 64100,
+      "numero": 12,
+      "titulo": "Hibi wa Sugiredo Meshi Umashi - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70a47d4c0dce773c9b86b4f11a11465e.jpg",
+      "url_origen": "https://jkanime.net/hibi-wa-sugiredo-meshi-umashi/12/",
+      "publicado_en_origen": "2025-06-28 17:55:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:26+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4070",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:30:23+00:00"
+}

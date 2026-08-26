@@ -1,0 +1,29 @@
+{
+  "id_origen": 1257,
+  "slug": "fate-stay-night-unlimited-blade-works",
+  "titulo": "Fate/stay night: Unlimited Blade Works",
+  "titulo_corto": "Fate/stay night: Unlimited Bla...",
+  "sinopsis": "La película Fate/Stay Night Unlimited Blade Works es una visión alternativa de la serie de 2006 basada en la segunda ruta del eroge original del cual se basó la serie de TV. En esta ruta, el interés romántico de Shiro pasa de Saber a Rin, y por ende, ésta última pasa a tener mayor protagonismo junto a Archer.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fate-stay-night-unlimited-blade-works.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fate-stay-night-unlimited-blade-works/",
+  "episodios": [
+    {
+      "id_origen": 24788,
+      "numero": 1,
+      "titulo": "Fate/stay night: Unlimited Blade Works",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e8d4729046f2c5b7688f79da3871068.jpg",
+      "url_origen": "https://jkanime.net/fate-stay-night-unlimited-blade-works/1/",
+      "publicado_en_origen": "2014-09-17 04:08:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1257",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:58+00:00"
+}

@@ -1,0 +1,429 @@
+{
+  "id_origen": 3062,
+  "slug": "ueki-no-housoku",
+  "titulo": "Ueki no Housoku",
+  "titulo_corto": "Ueki no Housoku",
+  "sinopsis": "Ueki no Housoku; Ueki Kosuke un estudiante de secundaria tiene una extraña habilidad: puede convertir cualquier cosa que él considere basura en un árbol. Esta habilidad le fue concedida por su tutor, un hombre llamado Kobayashi. Ueki intenta mantener esta habilidad en secreto hasta que un dia su compañera de clase, Hori Ai, lo descubre. Al principio Hori lo seguía para descubrir su verdadera personalidad, pero comenzó a ayudarle cuando vió los sacrificios que debía hacer para usar su talento...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ueki-no-housoku.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ueki-no-housoku/",
+  "episodios": [
+    {
+      "id_origen": 48604,
+      "numero": 1,
+      "titulo": "Ueki no Housoku - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e65aff4b74febf52c314c22e34c2d32.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/1/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48605,
+      "numero": 2,
+      "titulo": "Ueki no Housoku - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7067338bcbd7695a74e4950d00e5b482.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/2/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48606,
+      "numero": 3,
+      "titulo": "Ueki no Housoku - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc5814ffb34275ce8c055f0231d3477a.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/3/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48607,
+      "numero": 4,
+      "titulo": "Ueki no Housoku - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44a32f77814f9387e2c30e3eb94e6546.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/4/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48608,
+      "numero": 5,
+      "titulo": "Ueki no Housoku - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83b3b79f3802894efd6dec0c0e452e5b.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/5/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48609,
+      "numero": 6,
+      "titulo": "Ueki no Housoku - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a1f43d84d14dbfe63867595caff9b93.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/6/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48610,
+      "numero": 7,
+      "titulo": "Ueki no Housoku - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6109540ba50af92a01ce800112504b1e.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/7/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48611,
+      "numero": 8,
+      "titulo": "Ueki no Housoku - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9de0a5417de8f748230d60884345ccb.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/8/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48612,
+      "numero": 9,
+      "titulo": "Ueki no Housoku - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c76fcc7ad90c7ba0784c51f2e9a6fbee.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/9/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48613,
+      "numero": 10,
+      "titulo": "Ueki no Housoku - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a4096345f092c37b8a29da4d03133f4.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/10/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48614,
+      "numero": 11,
+      "titulo": "Ueki no Housoku - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a82115443df2caf9fd37795fe824a039.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/11/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48615,
+      "numero": 12,
+      "titulo": "Ueki no Housoku - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d04c13e080ecc73656118e7650fbb4c.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/12/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48616,
+      "numero": 13,
+      "titulo": "Ueki no Housoku - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df22702ab8f59eac4fa981a5ae651a6b.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/13/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48617,
+      "numero": 14,
+      "titulo": "Ueki no Housoku - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_feeff952d528623ec3d2e83387c051d8.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/14/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48618,
+      "numero": 15,
+      "titulo": "Ueki no Housoku - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_840c95f9d552281cd89890abab9c4146.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/15/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48619,
+      "numero": 16,
+      "titulo": "Ueki no Housoku - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ae8ad4afeeb8dc42b877d6d5bc83b82.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/16/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48620,
+      "numero": 17,
+      "titulo": "Ueki no Housoku - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf7f645c0623a3c5d461d251339e5c9b.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/17/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48621,
+      "numero": 18,
+      "titulo": "Ueki no Housoku - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2e0f019752a0def126bb5042bf73219.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/18/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48622,
+      "numero": 19,
+      "titulo": "Ueki no Housoku - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_372bf62b72d24e14467cdbe1a7692a7c.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/19/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48623,
+      "numero": 20,
+      "titulo": "Ueki no Housoku - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b6359f4589fe6e5a4856110f0480240.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/20/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48624,
+      "numero": 21,
+      "titulo": "Ueki no Housoku - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d15d4180749f681ded0d53f1908ca3dd.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/21/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48625,
+      "numero": 22,
+      "titulo": "Ueki no Housoku - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e63e6fdbc6cb88d532dba626de8d17ab.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/22/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48626,
+      "numero": 23,
+      "titulo": "Ueki no Housoku - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a8bd4652da99a01b9bca139384e4a9a.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/23/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48627,
+      "numero": 24,
+      "titulo": "Ueki no Housoku - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0e52158d74ae8b44e0b9373034d6503.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/24/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48628,
+      "numero": 25,
+      "titulo": "Ueki no Housoku - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95570bfc8f61aacbe08c78ad10eb263d.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/25/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48629,
+      "numero": 26,
+      "titulo": "Ueki no Housoku - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d6fe678a03318543326709b1cc41bfd.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/26/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48630,
+      "numero": 27,
+      "titulo": "Ueki no Housoku - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3567cfd1c686f29a14001b0e2d6bb6bc.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/27/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48631,
+      "numero": 28,
+      "titulo": "Ueki no Housoku - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e4286d7c0a061a23b7c2468aef80087.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/28/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48632,
+      "numero": 29,
+      "titulo": "Ueki no Housoku - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c32110f1396a5bf23f1b114ce6e65d6.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/29/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48633,
+      "numero": 30,
+      "titulo": "Ueki no Housoku - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5c59d140b44121bc8ab8a9084273737.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/30/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48634,
+      "numero": 31,
+      "titulo": "Ueki no Housoku - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc140cb5cb4c500db60537d94455756b.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/31/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48635,
+      "numero": 32,
+      "titulo": "Ueki no Housoku - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_876bd8a49af1c7633e997e95654588d9.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/32/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48636,
+      "numero": 33,
+      "titulo": "Ueki no Housoku - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24b784e4d41fad73bbde86ff56b244b4.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/33/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48637,
+      "numero": 34,
+      "titulo": "Ueki no Housoku - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9959e2d064c9367a9b4f9e650ba628f3.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/34/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48638,
+      "numero": 35,
+      "titulo": "Ueki no Housoku - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7454a5489d5a31dba6ee002ed99fb28a.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/35/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48639,
+      "numero": 36,
+      "titulo": "Ueki no Housoku - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3d01570a1a71215cb64c07a96727e26.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/36/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48640,
+      "numero": 37,
+      "titulo": "Ueki no Housoku - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83ea4c8004915bf3d98661cb93607f58.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/37/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48641,
+      "numero": 38,
+      "titulo": "Ueki no Housoku - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_564d821b70f17d228316b4584180987c.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/38/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48642,
+      "numero": 39,
+      "titulo": "Ueki no Housoku - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2932a8c6abea2b826d1a25924de36edd.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/39/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48643,
+      "numero": 40,
+      "titulo": "Ueki no Housoku - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db36d4e03c06b2174e2eb289f98fad37.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/40/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48644,
+      "numero": 41,
+      "titulo": "Ueki no Housoku - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7aef228fe8c99a599158ee626efe281b.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/41/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48645,
+      "numero": 42,
+      "titulo": "Ueki no Housoku - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_085e0bffd51efe0e0b96e5f50a18a300.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/42/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48646,
+      "numero": 43,
+      "titulo": "Ueki no Housoku - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8db700701ae6ebeb663f433c35abeeb8.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/43/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48647,
+      "numero": 44,
+      "titulo": "Ueki no Housoku - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d88a45e680327e0b22a34020d8f78252.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/44/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48648,
+      "numero": 45,
+      "titulo": "Ueki no Housoku - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a10e76646511d9b77ebe31a128ff5bcc.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/45/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48649,
+      "numero": 46,
+      "titulo": "Ueki no Housoku - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c877c4db98e634e2f1caf172f121dfa8.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/46/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48650,
+      "numero": 47,
+      "titulo": "Ueki no Housoku - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6505e8a0c0e1a90d8da8879e49a437f0.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/47/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48651,
+      "numero": 48,
+      "titulo": "Ueki no Housoku - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f555667001fd239a4edbb3856e86489.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/48/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48652,
+      "numero": 49,
+      "titulo": "Ueki no Housoku - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_104c6f99020b85465ae361a92d09a8d1.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/49/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48653,
+      "numero": 50,
+      "titulo": "Ueki no Housoku - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32b586f1cd4f9b692394beb92839893f.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/50/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    },
+    {
+      "id_origen": 48654,
+      "numero": 51,
+      "titulo": "Ueki no Housoku - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1d2128cee734a257c5e0d5c73bbdd1b.jpg",
+      "url_origen": "https://jkanime.net/ueki-no-housoku/51/",
+      "publicado_en_origen": "2022-03-20 13:58:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3062",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:51:00+00:00"
+}

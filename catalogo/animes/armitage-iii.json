@@ -1,0 +1,53 @@
+{
+  "id_origen": 4915,
+  "slug": "armitage-iii",
+  "titulo": "Armitage III",
+  "titulo_corto": "Armitage III",
+  "sinopsis": "Es el año 2046. La detective Ross Sylibus es destinada a Marte cuando una cantante de country que viajaba en su vuelo es asesinada. Para complicar aún más las cosas, la cantante es una «Tercera», un robot con aspecto y sensaciones similares a las de un ser humano. Sylibus forma equipo con Armitage, una guapa policía con mal carácter. Mientras investigan el asesinato de la cantante y de otras mujeres en Marte, descubren una conspiración que puede costarles la vida a ambas a manos del gobierno marciano.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/armitage-iii.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/armitage-iii/",
+  "episodios": [
+    {
+      "id_origen": 76412,
+      "numero": 1,
+      "titulo": "Armitage III - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0e4647ffc8274897d3e0fc9bf4be91e.jpg",
+      "url_origen": "https://jkanime.net/armitage-iii/1/",
+      "publicado_en_origen": "2026-08-15 10:13:43"
+    },
+    {
+      "id_origen": 76413,
+      "numero": 2,
+      "titulo": "Armitage III - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c01ffafaa1db705a7ee373ccce8a915.jpg",
+      "url_origen": "https://jkanime.net/armitage-iii/2/",
+      "publicado_en_origen": "2026-08-15 10:13:43"
+    },
+    {
+      "id_origen": 76414,
+      "numero": 3,
+      "titulo": "Armitage III - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_298a1db75b77ec7a604b3d3aea2b8f6f.jpg",
+      "url_origen": "https://jkanime.net/armitage-iii/3/",
+      "publicado_en_origen": "2026-08-15 10:13:43"
+    },
+    {
+      "id_origen": 76415,
+      "numero": 4,
+      "titulo": "Armitage III - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a836e25cb42c762b0144a3fa3969a274.jpg",
+      "url_origen": "https://jkanime.net/armitage-iii/4/",
+      "publicado_en_origen": "2026-08-15 10:13:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4915",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:17:38+00:00"
+}

@@ -1,0 +1,4021 @@
+{
+  "id_origen": 142,
+  "slug": "naruto-shippuden",
+  "titulo": "Naruto Shippuden",
+  "titulo_corto": "Naruto Shippuden",
+  "sinopsis": "Naruto Shippuden / Shippuuden\nPasan dos años después de que Naruto y Sakura se fueran a entrenar cada uno con su maestro sannin, en este caso, Naruto se fue con Jiraya y Sakura con Tsunade. Ya tienen 14 años y son unos geniales ninjas, Naruto ha aprendido muchas técnicas nuevas y ha perfeccionado el Kage Bunshin aparte de otras que ya las verán a lo largo de la serie, más una técnica secreta. Sakura ha aprendido todo sobre la medicina ninja, y se ha convertido en una ninja médico. Los otros personajes sin olvidarlos, también han evolucionado subiendo de rango de ninja (todos menos Naruto) y también los temas amorosos, Shikamaru ya tiene novia. Pero durante esos 2 años, los Akatsuki se han preparado para lo que viene. Empiezan a mover ficha yendo a buscar a los 9 demonios de chakra legendario (Kyubi, Shukaku de la arena y siete más).",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/naruto-shippuden.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/naruto-shippuden/",
+  "episodios": [
+    {
+      "id_origen": 10821,
+      "numero": 1,
+      "titulo": "Naruto Shippuden 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0bbf5fb2b067fda7b491dc2307411e4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/1/",
+      "publicado_en_origen": "2011-07-08 06:39:17"
+    },
+    {
+      "id_origen": 10826,
+      "numero": 2,
+      "titulo": "Naruto Shippuden 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42d7110a5ec9d651adf7642d58579a22.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/2/",
+      "publicado_en_origen": "2011-07-08 06:51:35"
+    },
+    {
+      "id_origen": 3467,
+      "numero": 3,
+      "titulo": "Naruto Shippuden 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a2717956118b4d223ceca17ce3865e2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/3/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3468,
+      "numero": 4,
+      "titulo": "Naruto Shippuden 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_322f62469c5e3c7dc3e58f5a4d1ea399.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/4/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3469,
+      "numero": 5,
+      "titulo": "Naruto Shippuden 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca851e9f71b25d2d588b7e0d4de3d627.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/5/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10822,
+      "numero": 6,
+      "titulo": "Naruto Shippuden 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c940e50f90b9e73f42045c05d49c6e17.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/6/",
+      "publicado_en_origen": "2011-07-08 06:44:04"
+    },
+    {
+      "id_origen": 10823,
+      "numero": 7,
+      "titulo": "Naruto Shippuden 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f47cef5e38c952f94c5d61726027439.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/7/",
+      "publicado_en_origen": "2011-07-08 06:46:47"
+    },
+    {
+      "id_origen": 10824,
+      "numero": 8,
+      "titulo": "Naruto Shippuden 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab1991b977dbb108c0a36a3475d0bc48.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/8/",
+      "publicado_en_origen": "2011-07-08 06:49:00"
+    },
+    {
+      "id_origen": 10825,
+      "numero": 9,
+      "titulo": "Naruto Shippuden 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0a3eab00393c89313e8109bb6504a68.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/9/",
+      "publicado_en_origen": "2011-07-08 06:50:03"
+    },
+    {
+      "id_origen": 3470,
+      "numero": 10,
+      "titulo": "Naruto Shippuden 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73fed7fd472e502d8908794430511f4d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/10/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3471,
+      "numero": 11,
+      "titulo": "Naruto Shippuden 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_735143e9ff8c47def504f1ba0442df98.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/11/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3472,
+      "numero": 12,
+      "titulo": "Naruto Shippuden 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2974788b53f73e7950e8aa49f3a306db.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/12/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3473,
+      "numero": 13,
+      "titulo": "Naruto Shippuden 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99be9f83741d1275639df2c1e4d0072f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/13/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3474,
+      "numero": 14,
+      "titulo": "Naruto Shippuden 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e91068fff3d7fa1594dfdf3b4308433a.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/14/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3475,
+      "numero": 15,
+      "titulo": "Naruto Shippuden 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d38ee19a4815c4aeba48227913092a6e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/15/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3476,
+      "numero": 16,
+      "titulo": "Naruto Shippuden 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddcbe25988981920c872c1787382f04d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/16/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3477,
+      "numero": 17,
+      "titulo": "Naruto Shippuden 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d6968d87c240c699190e2d8c029fa9d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/17/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3478,
+      "numero": 18,
+      "titulo": "Naruto Shippuden 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b071cfa81605a94ad80cfa2bbc747448.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/18/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3479,
+      "numero": 19,
+      "titulo": "Naruto Shippuden 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6950aa02ae8613af620668146dd11840.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/19/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3480,
+      "numero": 20,
+      "titulo": "Naruto Shippuden 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8e0dd181e4ee545195120626098bfba.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/20/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3481,
+      "numero": 21,
+      "titulo": "Naruto Shippuden 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fb04953d95a94367bb133f862402bce.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/21/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10878,
+      "numero": 22,
+      "titulo": "Naruto Shippuden 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c33b41e89e420a81275220cbe2cf603c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/22/",
+      "publicado_en_origen": "2011-07-13 11:12:30"
+    },
+    {
+      "id_origen": 10879,
+      "numero": 23,
+      "titulo": "Naruto Shippuden 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86ef0ad0a49f303beba23d4e796fc50b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/23/",
+      "publicado_en_origen": "2011-07-13 11:14:25"
+    },
+    {
+      "id_origen": 3482,
+      "numero": 24,
+      "titulo": "Naruto Shippuden 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7fede84c2be02ccb9c77107956560eb.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/24/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3483,
+      "numero": 25,
+      "titulo": "Naruto Shippuden 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb953f6ca5923f7517125db46ed1293d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/25/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3484,
+      "numero": 26,
+      "titulo": "Naruto Shippuden 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_966b6dfb6b0819cc10644bea3115cf20.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/26/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3485,
+      "numero": 27,
+      "titulo": "Naruto Shippuden 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfeb9598fbfb97cc6bbcc0aff2c785d6.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/27/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3486,
+      "numero": 28,
+      "titulo": "Naruto Shippuden 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab4f2b5fd96ca65349119909c1eada2d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/28/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10880,
+      "numero": 29,
+      "titulo": "Naruto Shippuden 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e9e1b7ea4e250af8fe1f1865650d42b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/29/",
+      "publicado_en_origen": "2011-07-13 11:16:13"
+    },
+    {
+      "id_origen": 10881,
+      "numero": 30,
+      "titulo": "Naruto Shippuden 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ec1994bb176cb0b7a2cec414fe8ffb2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/30/",
+      "publicado_en_origen": "2011-07-13 11:17:04"
+    },
+    {
+      "id_origen": 3487,
+      "numero": 31,
+      "titulo": "Naruto Shippuden 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_944a5ae3483ed5c1e10bbccb7942a279.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/31/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3488,
+      "numero": 32,
+      "titulo": "Naruto Shippuden 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7b90b0fc23725f299b47c5224e6ec0d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/32/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3489,
+      "numero": 33,
+      "titulo": "Naruto Shippuden 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b318124e37af6d74a03501474f44ea1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/33/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3490,
+      "numero": 34,
+      "titulo": "Naruto Shippuden 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72f67e70f6b7cdc4cc893edaddf0c4c6.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/34/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3491,
+      "numero": 35,
+      "titulo": "Naruto Shippuden 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c91724b896cdcf48285039ab05b3aaf.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/35/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10882,
+      "numero": 36,
+      "titulo": "Naruto Shippuden 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1eee58f7a5d6bd6df171b1d131acd79a.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/36/",
+      "publicado_en_origen": "2011-07-13 11:18:28"
+    },
+    {
+      "id_origen": 10883,
+      "numero": 37,
+      "titulo": "Naruto Shippuden 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f173dfe8f89078ce25d06126842cef1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/37/",
+      "publicado_en_origen": "2011-07-13 11:19:05"
+    },
+    {
+      "id_origen": 3492,
+      "numero": 38,
+      "titulo": "Naruto Shippuden 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0060ef47b12160b9198302ebdb144dcf.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/38/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3493,
+      "numero": 39,
+      "titulo": "Naruto Shippuden 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba036d228858d76fb89189853a5503bd.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/39/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10884,
+      "numero": 40,
+      "titulo": "Naruto Shippuden 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55053683268957697aa39fba6f231c68.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/40/",
+      "publicado_en_origen": "2011-07-13 11:20:30"
+    },
+    {
+      "id_origen": 10885,
+      "numero": 41,
+      "titulo": "Naruto Shippuden 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38840678620308eadd98d8632df3d6d4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/41/",
+      "publicado_en_origen": "2011-07-13 11:21:24"
+    },
+    {
+      "id_origen": 3494,
+      "numero": 42,
+      "titulo": "Naruto Shippuden 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6dbd2699e8e7ec0047de2d5d1b28a75b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/42/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3495,
+      "numero": 43,
+      "titulo": "Naruto Shippuden 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8485ae387a981d783f8764e508151cd9.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/43/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3496,
+      "numero": 44,
+      "titulo": "Naruto Shippuden 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a348ede8ac3768875037baca5de6e26.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/44/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3497,
+      "numero": 45,
+      "titulo": "Naruto Shippuden 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7535bbb91c8fde347ad861f293126633.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/45/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3498,
+      "numero": 46,
+      "titulo": "Naruto Shippuden 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd9dcf1d146272bb05c490d790b6da52.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/46/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3499,
+      "numero": 47,
+      "titulo": "Naruto Shippuden 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ea2db50e62ceefceaf70a9d9a56a6f4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/47/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3500,
+      "numero": 48,
+      "titulo": "Naruto Shippuden 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2065cb56f5533494522c46a72f1dfb0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/48/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3501,
+      "numero": 49,
+      "titulo": "Naruto Shippuden 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d494020ff8ec181ef98ed97ac3f25453.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/49/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3502,
+      "numero": 50,
+      "titulo": "Naruto Shippuden 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2350a54d774001d6078e326b4488878.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/50/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10886,
+      "numero": 51,
+      "titulo": "Naruto Shippuden 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2a13eeae490ef805070086405e26087.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/51/",
+      "publicado_en_origen": "2011-07-13 11:22:37"
+    },
+    {
+      "id_origen": 10887,
+      "numero": 52,
+      "titulo": "Naruto Shippuden 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96337d2cb0f87a553196fd9ec2cc66a8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/52/",
+      "publicado_en_origen": "2011-07-13 11:23:18"
+    },
+    {
+      "id_origen": 3503,
+      "numero": 53,
+      "titulo": "Naruto Shippuden 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87f7ee4fdb57bdfd52179947211b7ebb.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/53/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3504,
+      "numero": 54,
+      "titulo": "Naruto Shippuden 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73231e53eeef362c814c8522f5257286.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/54/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3505,
+      "numero": 55,
+      "titulo": "Naruto Shippuden 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a3d6d6cc4b5e77238c1fc1bb6cdd681.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/55/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3506,
+      "numero": 56,
+      "titulo": "Naruto Shippuden 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0126439e08ddfbdf4faa952dc910590.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/56/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10888,
+      "numero": 57,
+      "titulo": "Naruto Shippuden 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a91e54caf4ae7dcf7a1f13640fa21079.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/57/",
+      "publicado_en_origen": "2011-07-13 11:24:27"
+    },
+    {
+      "id_origen": 10889,
+      "numero": 58,
+      "titulo": "Naruto Shippuden 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc0e1713aa0e2bcba6f5edf1436b81ef.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/58/",
+      "publicado_en_origen": "2011-07-13 11:25:02"
+    },
+    {
+      "id_origen": 3507,
+      "numero": 59,
+      "titulo": "Naruto Shippuden 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e7c7d6c41c76b9ee6445ae01cc0181d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/59/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3508,
+      "numero": 60,
+      "titulo": "Naruto Shippuden 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d2be41b1bde6ff8fe45150c37488ebb.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/60/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3509,
+      "numero": 61,
+      "titulo": "Naruto Shippuden 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0141a8aedb1b53970fac7c81dac79fbe.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/61/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3510,
+      "numero": 62,
+      "titulo": "Naruto Shippuden 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15e122e839dfdaa7ce969536f94aecf6.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/62/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3511,
+      "numero": 63,
+      "titulo": "Naruto Shippuden 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a85c12a21b76392747906fc7b2aff92.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/63/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10890,
+      "numero": 64,
+      "titulo": "Naruto Shippuden 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3047ee053d45323e65192012176a2a1c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/64/",
+      "publicado_en_origen": "2011-07-13 11:26:47"
+    },
+    {
+      "id_origen": 10891,
+      "numero": 65,
+      "titulo": "Naruto Shippuden 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76c65def23053e0eea4fac87af8b07b2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/65/",
+      "publicado_en_origen": "2011-07-13 11:27:10"
+    },
+    {
+      "id_origen": 3512,
+      "numero": 66,
+      "titulo": "Naruto Shippuden 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0dbb3fb9a5cd1d5f8a9075b5bb8070aa.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/66/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3513,
+      "numero": 67,
+      "titulo": "Naruto Shippuden 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ffaca95e3e5242ba1097ad8a9a6e95d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/67/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10892,
+      "numero": 68,
+      "titulo": "Naruto Shippuden 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39375e8559373aede34f6f15b8dab4dc.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/68/",
+      "publicado_en_origen": "2011-07-13 11:28:22"
+    },
+    {
+      "id_origen": 10893,
+      "numero": 69,
+      "titulo": "Naruto Shippuden 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2990d25f0152b653b68bc2f7994a05f1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/69/",
+      "publicado_en_origen": "2011-07-13 11:28:34"
+    },
+    {
+      "id_origen": 3514,
+      "numero": 70,
+      "titulo": "Naruto Shippuden 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7288251b27c8f0e73f4d7f483b06a785.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/70/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3515,
+      "numero": 71,
+      "titulo": "Naruto Shippuden 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fef3eff51dc719c4a9f565a742d78f2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/71/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3516,
+      "numero": 72,
+      "titulo": "Naruto Shippuden 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf1cf43cba274ae7f413e864682b80f8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/72/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3517,
+      "numero": 73,
+      "titulo": "Naruto Shippuden 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5b0db7f3a77ca4fcf9eca57aa7181ca.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/73/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3518,
+      "numero": 74,
+      "titulo": "Naruto Shippuden 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5401acfe633e6817b508b84d23686743.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/74/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3519,
+      "numero": 75,
+      "titulo": "Naruto Shippuden 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fd7b875d3473501d1b771ebe934ca59.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/75/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10894,
+      "numero": 76,
+      "titulo": "Naruto Shippuden 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b0d29e5d5c8a7a25dced6405bd022a9.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/76/",
+      "publicado_en_origen": "2011-07-13 11:30:04"
+    },
+    {
+      "id_origen": 10895,
+      "numero": 77,
+      "titulo": "Naruto Shippuden 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab38e9193c5e03752556a0a238ed5080.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/77/",
+      "publicado_en_origen": "2011-07-13 11:30:18"
+    },
+    {
+      "id_origen": 10896,
+      "numero": 78,
+      "titulo": "Naruto Shippuden 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c0e95e193a3987b6a354b3b62180fc0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/78/",
+      "publicado_en_origen": "2011-07-13 11:31:25"
+    },
+    {
+      "id_origen": 10897,
+      "numero": 79,
+      "titulo": "Naruto Shippuden 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98785ca89cfbbe933921bfe68a94553b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/79/",
+      "publicado_en_origen": "2011-07-13 11:31:35"
+    },
+    {
+      "id_origen": 3520,
+      "numero": 80,
+      "titulo": "Naruto Shippuden 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c0958d82a830a02c0718147b1b565c1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/80/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3521,
+      "numero": 81,
+      "titulo": "Naruto Shippuden 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98afdcc1ebd85daa0f1749c5e56b9d8c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/81/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3522,
+      "numero": 82,
+      "titulo": "Naruto Shippuden 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee14c41e92ec5c97b54cf9b74e25bd99.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/82/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3523,
+      "numero": 83,
+      "titulo": "Naruto Shippuden 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_939314105ce8701e67489642ef4d49e8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/83/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3524,
+      "numero": 84,
+      "titulo": "Naruto Shippuden 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9de093d0622ed782d267fa3f1953228.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/84/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3525,
+      "numero": 85,
+      "titulo": "Naruto Shippuden 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da9e6a4a4aeca98588e4dd77ceb37695.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/85/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10898,
+      "numero": 86,
+      "titulo": "Naruto Shippuden 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bbca1d243b01b47c2bf42b29a8b265c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/86/",
+      "publicado_en_origen": "2011-07-13 11:33:39"
+    },
+    {
+      "id_origen": 10899,
+      "numero": 87,
+      "titulo": "Naruto Shippuden 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f597e2d7a67b6520a585618d23e2d1b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/87/",
+      "publicado_en_origen": "2011-07-13 11:33:54"
+    },
+    {
+      "id_origen": 3526,
+      "numero": 88,
+      "titulo": "Naruto Shippuden 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e4f5cc9f4f3f7f1651a6b9f9214e5b1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/88/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3527,
+      "numero": 89,
+      "titulo": "Naruto Shippuden 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b87470782489389f344c4fa4ceb5260c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/89/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3528,
+      "numero": 90,
+      "titulo": "Naruto Shippuden 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ead81fe8cfe9fda9e4c2093e17e4d024.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/90/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3529,
+      "numero": 91,
+      "titulo": "Naruto Shippuden 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bdb8b1faffa4b3d41779bb495d79fb9.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/91/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3530,
+      "numero": 92,
+      "titulo": "Naruto Shippuden 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30a0b73609456022ae729282fd9753d4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/92/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3531,
+      "numero": 93,
+      "titulo": "Naruto Shippuden 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e52ad5c9f751f599492b4f087ed7ecfc.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/93/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3532,
+      "numero": 94,
+      "titulo": "Naruto Shippuden 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afab3e9707435d6b0888b566d7ad3ff8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/94/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3533,
+      "numero": 95,
+      "titulo": "Naruto Shippuden 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a9d8bf5b7a4b35f3110dde8673bdda2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/95/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3534,
+      "numero": 96,
+      "titulo": "Naruto Shippuden 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa97d584861474f4097cf13ccb5325da.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/96/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3535,
+      "numero": 97,
+      "titulo": "Naruto Shippuden 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b99d193b66a6542917d2b7bee52c2574.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/97/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3536,
+      "numero": 98,
+      "titulo": "Naruto Shippuden 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_291d43c696d8c3704cdbe0a72ade5f6c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/98/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3537,
+      "numero": 99,
+      "titulo": "Naruto Shippuden 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_416849da96fb73bee793e2bf65ae43ac.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/99/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3538,
+      "numero": 100,
+      "titulo": "Naruto Shippuden 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1458e7509aa5f47ecfb92536e7dd1dc7.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/100/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3539,
+      "numero": 101,
+      "titulo": "Naruto Shippuden 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_142c65e00f4f7cf2e6c4c996e34005df.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/101/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3540,
+      "numero": 102,
+      "titulo": "Naruto Shippuden 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8844c5f00372df2c3c4ee857c2451b45.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/102/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3541,
+      "numero": 103,
+      "titulo": "Naruto Shippuden 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5f5c23be1b71adb51ea9dc8e9d444a8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/103/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3542,
+      "numero": 104,
+      "titulo": "Naruto Shippuden 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8487e01fbaf43e758c17f86472cbf3e6.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/104/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3543,
+      "numero": 105,
+      "titulo": "Naruto Shippuden 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_196f5641aa9dc87067da4ff90fd81e7b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/105/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3544,
+      "numero": 106,
+      "titulo": "Naruto Shippuden 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_147ebe637038ca50a1265abac8dea181.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/106/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3545,
+      "numero": 107,
+      "titulo": "Naruto Shippuden 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06ee4c5c93a9957c9b1bb3bd89e800c8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/107/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3546,
+      "numero": 108,
+      "titulo": "Naruto Shippuden 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8166da05c5a094f7dc03724b41886e5.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/108/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3547,
+      "numero": 109,
+      "titulo": "Naruto Shippuden 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6ba70fc093b4ce912d769ede1ceeba8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/109/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3548,
+      "numero": 110,
+      "titulo": "Naruto Shippuden 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50cf0763d8eb871776d4f28b39deb564.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/110/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3549,
+      "numero": 111,
+      "titulo": "Naruto Shippuden 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db98dc0dbafde48e8f74c0de001d35e4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/111/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3550,
+      "numero": 112,
+      "titulo": "Naruto Shippuden 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_018dd1e07a2de4a08e6612341bf2323e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/112/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3551,
+      "numero": 113,
+      "titulo": "Naruto Shippuden 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abdeb6f575ac5c6676b747bca8d09cc2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/113/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3552,
+      "numero": 114,
+      "titulo": "Naruto Shippuden 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c220a2091c26a7f5e9f1cfb099511e3.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/114/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3553,
+      "numero": 115,
+      "titulo": "Naruto Shippuden 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e250c59336b505ed411d455abaa30b4d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/115/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3554,
+      "numero": 116,
+      "titulo": "Naruto Shippuden 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69b09198d4248b8f24494f27a01367b9.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/116/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3555,
+      "numero": 117,
+      "titulo": "Naruto Shippuden 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22b1cd168ec628442b3d4dc00fca434b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/117/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3556,
+      "numero": 118,
+      "titulo": "Naruto Shippuden 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_656f0dbf9392657eed7feefc486781fb.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/118/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3557,
+      "numero": 119,
+      "titulo": "Naruto Shippuden 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51da85a3c3dfa1f360b48852b64218b2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/119/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10900,
+      "numero": 120,
+      "titulo": "Naruto Shippuden 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a16abf2a3149fc7cd6083687cce01c2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/120/",
+      "publicado_en_origen": "2011-07-13 11:37:40"
+    },
+    {
+      "id_origen": 3558,
+      "numero": 121,
+      "titulo": "Naruto Shippuden 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_285a25c17f351708754cdb6d56f3962e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/121/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3559,
+      "numero": 122,
+      "titulo": "Naruto Shippuden 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f11bec1411101c743f64df596773d0b2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/122/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10901,
+      "numero": 123,
+      "titulo": "Naruto Shippuden 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25d9e7c1134b5a3744cd1dea4072d6a2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/123/",
+      "publicado_en_origen": "2011-07-13 11:38:49"
+    },
+    {
+      "id_origen": 3560,
+      "numero": 124,
+      "titulo": "Naruto Shippuden 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ae1dd3954ee840075de1395771b6c9c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/124/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3561,
+      "numero": 125,
+      "titulo": "Naruto Shippuden 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_414a7497190eaef6b5d75d5a6a11afcf.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/125/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3562,
+      "numero": 126,
+      "titulo": "Naruto Shippuden 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebf12cb74e96e67e63783d93c534ef27.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/126/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3563,
+      "numero": 127,
+      "titulo": "Naruto Shippuden 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d04d42cdf14579cd294e5079e0745411.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/127/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3564,
+      "numero": 128,
+      "titulo": "Naruto Shippuden 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05edf455cb266ccb3ea3ac2715f87326.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/128/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3565,
+      "numero": 129,
+      "titulo": "Naruto Shippuden 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6e713296627dff6475085cc6a224464.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/129/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3566,
+      "numero": 130,
+      "titulo": "Naruto Shippuden 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6346dc723395e1ee8ef57f4883be4cb4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/130/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3567,
+      "numero": 131,
+      "titulo": "Naruto Shippuden 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dccab9bd9e0b69c49302025efdf19702.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/131/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3568,
+      "numero": 132,
+      "titulo": "Naruto Shippuden 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5481b2f34a74e427a2818014b8e103b0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/132/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3569,
+      "numero": 133,
+      "titulo": "Naruto Shippuden 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77c493ec14246d748db3ee8fce0092db.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/133/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3570,
+      "numero": 134,
+      "titulo": "Naruto Shippuden 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43b52842663fa6e4100c72751d08de6f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/134/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3571,
+      "numero": 135,
+      "titulo": "Naruto Shippuden 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8f5161cf94df05793592f5fab95138b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/135/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3572,
+      "numero": 136,
+      "titulo": "Naruto Shippuden 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_842424a1d0595b76ec4fa03c46e8d755.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/136/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3573,
+      "numero": 137,
+      "titulo": "Naruto Shippuden 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8baca01b732cf56f7ce83df216514363.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/137/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3574,
+      "numero": 138,
+      "titulo": "Naruto Shippuden 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b9f38268c50805669fd8caf8f3cc84a.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/138/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3575,
+      "numero": 139,
+      "titulo": "Naruto Shippuden 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9f06bc7b46d0247a91c8fc665c13d0e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/139/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3576,
+      "numero": 140,
+      "titulo": "Naruto Shippuden 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f647cadf56541fb9513cb63ec370187.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/140/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3577,
+      "numero": 141,
+      "titulo": "Naruto Shippuden 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e77a14629775492504515dc4b23deda.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/141/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3578,
+      "numero": 142,
+      "titulo": "Naruto Shippuden 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_252a3dbaeb32e7690242ad3b556e626b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/142/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3579,
+      "numero": 143,
+      "titulo": "Naruto Shippuden 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d441de75945e5acbc865406fc9a2559.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/143/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3580,
+      "numero": 144,
+      "titulo": "Naruto Shippuden 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_630b7d8dd49a0bab667498f287d68c16.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/144/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3581,
+      "numero": 145,
+      "titulo": "Naruto Shippuden 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67606d48e361ce176ca71fd54fcf4286.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/145/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3582,
+      "numero": 146,
+      "titulo": "Naruto Shippuden 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d684c589d67031a627ad33d59db65e5.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/146/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3583,
+      "numero": 147,
+      "titulo": "Naruto Shippuden 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69eba34671b3ef1ef38ee85caae6b2a1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/147/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3584,
+      "numero": 148,
+      "titulo": "Naruto Shippuden 148",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_565767eb96d87d0d3af8dfb332c2003f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/148/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3585,
+      "numero": 149,
+      "titulo": "Naruto Shippuden 149",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2668a7105966cae6e23901495176b8f9.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/149/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10902,
+      "numero": 150,
+      "titulo": "Naruto Shippuden 150",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ffe95614e083e7091c76b4c1e0c4f88.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/150/",
+      "publicado_en_origen": "2011-07-13 11:40:45"
+    },
+    {
+      "id_origen": 10903,
+      "numero": 151,
+      "titulo": "Naruto Shippuden 151",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4337d69a5afc0c2ff74d7c95065edf3.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/151/",
+      "publicado_en_origen": "2011-07-13 11:41:32"
+    },
+    {
+      "id_origen": 10904,
+      "numero": 152,
+      "titulo": "Naruto Shippuden 152",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfc5f29ce3bf163d0c27ca8d9d17ec49.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/152/",
+      "publicado_en_origen": "2011-07-13 11:43:24"
+    },
+    {
+      "id_origen": 10905,
+      "numero": 153,
+      "titulo": "Naruto Shippuden 153",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bc412ad4910c19f6710515540190792.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/153/",
+      "publicado_en_origen": "2011-07-13 11:43:26"
+    },
+    {
+      "id_origen": 3588,
+      "numero": 154,
+      "titulo": "Naruto Shippuden 154",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2964caac096f26db222cb325aa267cb.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/154/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3587,
+      "numero": 155,
+      "titulo": "Naruto Shippuden 155",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aba53da2f6340a8b89dc96d09d0d0430.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/155/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3589,
+      "numero": 156,
+      "titulo": "Naruto Shippuden 156",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a385d7d1e52d89d1a445faa37f5b5307.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/156/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3586,
+      "numero": 157,
+      "titulo": "Naruto Shippuden 157",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_224e5e49814ca908e58c02e28a0462c1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/157/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3590,
+      "numero": 158,
+      "titulo": "Naruto Shippuden 158",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da6ea77475918a3d83c7e49223d453cc.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/158/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10906,
+      "numero": 159,
+      "titulo": "Naruto Shippuden 159",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f7f02b7e4ade23430f345f954c938c1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/159/",
+      "publicado_en_origen": "2011-07-13 11:45:41"
+    },
+    {
+      "id_origen": 10907,
+      "numero": 160,
+      "titulo": "Naruto Shippuden 160",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_481d462e46c2ab976294271a175b8929.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/160/",
+      "publicado_en_origen": "2011-07-13 11:45:52"
+    },
+    {
+      "id_origen": 10908,
+      "numero": 161,
+      "titulo": "Naruto Shippuden 161",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_561e7e7d74cece738de9b23c0dd293d2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/161/",
+      "publicado_en_origen": "2011-07-13 11:47:03"
+    },
+    {
+      "id_origen": 3591,
+      "numero": 162,
+      "titulo": "Naruto Shippuden 162",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9001ca429212011f4a4fda6c778cc318.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/162/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3592,
+      "numero": 163,
+      "titulo": "Naruto Shippuden 163",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69f357fcc8e6d119f3d95f33cedb5915.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/163/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3593,
+      "numero": 164,
+      "titulo": "Naruto Shippuden 164",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdd0500dc0ef6682fa6ec6d2e6b577c4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/164/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3594,
+      "numero": 165,
+      "titulo": "Naruto Shippuden 165",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dce8af15f064d1accb98887a21029b08.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/165/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3595,
+      "numero": 166,
+      "titulo": "Naruto Shippuden 166",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0e8517b1fe0b5270f3f41d4b56d6118.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/166/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3596,
+      "numero": 167,
+      "titulo": "Naruto Shippuden 167",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52c409f1571f500e28f490a302a12540.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/167/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3598,
+      "numero": 168,
+      "titulo": "Naruto Shippuden 168",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a450490f238b4ddff085d66a916a206.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/168/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3597,
+      "numero": 169,
+      "titulo": "Naruto Shippuden 169",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b89c30965ebc74912de879f22da62dbf.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/169/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3599,
+      "numero": 170,
+      "titulo": "Naruto Shippuden 170",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7e69cdf28f8ce6b69b4e1853ee21bab.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/170/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3600,
+      "numero": 171,
+      "titulo": "Naruto Shippuden 171",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d7628dd7a710c8638dbd22d4421ee46.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/171/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3601,
+      "numero": 172,
+      "titulo": "Naruto Shippuden 172",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62e7f2e090fe150ef8deb4466fdc81b3.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/172/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3602,
+      "numero": 173,
+      "titulo": "Naruto Shippuden 173",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_228b25587479f2fc7570428e8bcbabdc.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/173/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3603,
+      "numero": 174,
+      "titulo": "Naruto Shippuden 174",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a8018b3a00b69c008601b8becae392b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/174/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3604,
+      "numero": 175,
+      "titulo": "Naruto Shippuden 175",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c254e7753095807e1cca159e48eceb21.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/175/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3605,
+      "numero": 176,
+      "titulo": "Naruto Shippuden 176",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a05d886123a54de3ca4b0985b718fb9b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/176/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3606,
+      "numero": 177,
+      "titulo": "Naruto Shippuden 177",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_774b0e07753b0b94d1a1c5b0543b5fe1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/177/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3607,
+      "numero": 178,
+      "titulo": "Naruto Shippuden 178",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_967990de5b3eac7b87d49a13c6834978.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/178/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3608,
+      "numero": 179,
+      "titulo": "Naruto Shippuden 179",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60a0575ee6ce460e1d86c0e9d281c4f1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/179/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3609,
+      "numero": 180,
+      "titulo": "Naruto Shippuden 180",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_649a066d415bdda4ce2a7088292645e0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/180/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3610,
+      "numero": 181,
+      "titulo": "Naruto Shippuden 181",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f95ec3de395b4bce25b39ef6138da871.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/181/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3611,
+      "numero": 182,
+      "titulo": "Naruto Shippuden 182",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cf33e18ede11b79827bc78b7f2075ae.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/182/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3612,
+      "numero": 183,
+      "titulo": "Naruto Shippuden 183",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d87ca511e2a8593c8039ef732f5bffed.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/183/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3613,
+      "numero": 184,
+      "titulo": "Naruto Shippuden 184",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4fa7aecedac73641320d24d5bf3bf38.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/184/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3614,
+      "numero": 185,
+      "titulo": "Naruto Shippuden 185",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6add07cf50424b14fdf649da87843d01.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/185/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3615,
+      "numero": 186,
+      "titulo": "Naruto Shippuden 186",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8c9d05ec6e86d5bbad7a2f88a1701d0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/186/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3616,
+      "numero": 187,
+      "titulo": "Naruto Shippuden 187",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78d69f40906679a976dc4d45cebffbe6.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/187/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3617,
+      "numero": 188,
+      "titulo": "Naruto Shippuden 188",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db68512896941514a089c37392f0683b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/188/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3618,
+      "numero": 189,
+      "titulo": "Naruto Shippuden 189",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4da9d7b6d119db4d2d564a2197798380.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/189/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3619,
+      "numero": 190,
+      "titulo": "Naruto Shippuden 190",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_820e694038fadbf9b60b834215b46fdb.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/190/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3620,
+      "numero": 191,
+      "titulo": "Naruto Shippuden 191",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4baf54f36935058bcc696fcef3f4689b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/191/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3621,
+      "numero": 192,
+      "titulo": "Naruto Shippuden 192",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5b270a763686e776039618cc709f3a6.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/192/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3622,
+      "numero": 193,
+      "titulo": "Naruto Shippuden 193",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_856b503e276cc491e7e6e0ac1b9f4b17.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/193/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3623,
+      "numero": 194,
+      "titulo": "Naruto Shippuden 194",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecdcd675b3a4cbb5578baf72f255ec21.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/194/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3624,
+      "numero": 195,
+      "titulo": "Naruto Shippuden 195",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ee0070c40a7c781507b38c59c3eb8d4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/195/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3625,
+      "numero": 196,
+      "titulo": "Naruto Shippuden 196",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd7970532bfa1449085b8f43fc39a7d5.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/196/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3626,
+      "numero": 197,
+      "titulo": "Naruto Shippuden 197",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ee8b85a85a49346fdff9665312a5cc4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/197/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3627,
+      "numero": 198,
+      "titulo": "Naruto Shippuden 198",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bf283c05b601f21364d052ca0ec798d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/198/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10831,
+      "numero": 199,
+      "titulo": "Naruto Shippuden 199",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10976997a55826d2efd10358e23511de.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/199/",
+      "publicado_en_origen": "2011-07-08 07:11:17"
+    },
+    {
+      "id_origen": 3628,
+      "numero": 200,
+      "titulo": "Naruto Shippuden 200",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e524bf740dc8cfd3f49bd3e96daee6e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/200/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3629,
+      "numero": 201,
+      "titulo": "Naruto Shippuden 201",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1305f6c705349316360c3ccfe7cfe847.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/201/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10830,
+      "numero": 202,
+      "titulo": "Naruto Shippuden 202",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f57bd0a58e953e5c43cd4a4e5af46138.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/202/",
+      "publicado_en_origen": "2011-07-08 07:07:51"
+    },
+    {
+      "id_origen": 10829,
+      "numero": 203,
+      "titulo": "Naruto Shippuden 203",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c45628967cbb49aba60cff3b368ed95.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/203/",
+      "publicado_en_origen": "2011-07-08 07:07:36"
+    },
+    {
+      "id_origen": 3630,
+      "numero": 204,
+      "titulo": "Naruto Shippuden 204",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a551829d50f1400b0dab21fdd969c04.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/204/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3631,
+      "numero": 205,
+      "titulo": "Naruto Shippuden 205",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd4c2dc64ccb8496e6f1f94c85f30d06.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/205/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10828,
+      "numero": 206,
+      "titulo": "Naruto Shippuden 206",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4053e4891648aa5d0bd54fe6f4beb464.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/206/",
+      "publicado_en_origen": "2011-07-08 07:04:02"
+    },
+    {
+      "id_origen": 3632,
+      "numero": 207,
+      "titulo": "Naruto Shippuden 207",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_398475c83b47075e8897a083e97eb9f0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/207/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3633,
+      "numero": 208,
+      "titulo": "Naruto Shippuden 208",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acf922154627f6788918f03c42b123cd.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/208/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10827,
+      "numero": 209,
+      "titulo": "Naruto Shippuden 209",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb76370dc310e4cf08aa362593c451a1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/209/",
+      "publicado_en_origen": "2011-07-08 07:00:15"
+    },
+    {
+      "id_origen": 3634,
+      "numero": 210,
+      "titulo": "Naruto Shippuden 210",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2eabaf96372e20a9e3d4b5f83723a61.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/210/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3636,
+      "numero": 211,
+      "titulo": "Naruto Shippuden 211",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48042b1dae4950fef2bd2aafa0b971a1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/211/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3635,
+      "numero": 212,
+      "titulo": "Naruto Shippuden 212",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a098b2eb3138551138d127925d092d67.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/212/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3637,
+      "numero": 213,
+      "titulo": "Naruto Shippuden 213",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cae82d4350cc23aca7fc9ae38dab38ab.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/213/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3638,
+      "numero": 214,
+      "titulo": "Naruto Shippuden 214",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_895daa408f494ad58006c47a30f51c1f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/214/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3640,
+      "numero": 215,
+      "titulo": "Naruto Shippuden 215",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f11b55f57612f06fe9638b99f6c66e6.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/215/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3639,
+      "numero": 216,
+      "titulo": "Naruto Shippuden 216",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba304f3809ed31d0ad97b5a2b5df2a39.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/216/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3641,
+      "numero": 217,
+      "titulo": "Naruto Shippuden 217",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22c5a901070d1c2ad33e821d071ae97e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/217/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 10833,
+      "numero": 218,
+      "titulo": "Naruto Shippuden 218",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d56da061d55e2175bd67901d5f0948be.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/218/",
+      "publicado_en_origen": "2011-07-08 15:36:26"
+    },
+    {
+      "id_origen": 10834,
+      "numero": 219,
+      "titulo": "Naruto Shippuden 219",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d69c7ebb6a253532b266151eac6591af.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/219/",
+      "publicado_en_origen": "2011-07-08 15:38:16"
+    },
+    {
+      "id_origen": 10876,
+      "numero": 220,
+      "titulo": "Naruto Shippuden 220",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f64c495d0e53078162a5d6c862f12aae.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/220/",
+      "publicado_en_origen": "2011-07-13 11:10:00"
+    },
+    {
+      "id_origen": 10877,
+      "numero": 221,
+      "titulo": "Naruto Shippuden 221",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8571ddcc1c64ca1fa11891d899cab05d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/221/",
+      "publicado_en_origen": "2011-07-13 11:10:19"
+    },
+    {
+      "id_origen": 11029,
+      "numero": 222,
+      "titulo": "Naruto Shippuuden 222",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34c19f785e19b343fe2f54b3202f632c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/222/",
+      "publicado_en_origen": "2011-07-28 17:00:01"
+    },
+    {
+      "id_origen": 11038,
+      "numero": 223,
+      "titulo": "Naruto Shippuuden 223",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_641aa381139a7254f52aaf4bfc5d99da.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/223/",
+      "publicado_en_origen": "2011-08-04 10:21:47"
+    },
+    {
+      "id_origen": 11200,
+      "numero": 224,
+      "titulo": "Naruto Shippuuden 224",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edd47ba7fa1bbff38973841c9cd0733c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/224/",
+      "publicado_en_origen": "2011-08-17 16:34:28"
+    },
+    {
+      "id_origen": 11201,
+      "numero": 225,
+      "titulo": "Naruto Shippuuden 225",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc1d3cb9517bda57aacd65f5b1986c6e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/225/",
+      "publicado_en_origen": "2011-08-17 16:38:57"
+    },
+    {
+      "id_origen": 11241,
+      "numero": 226,
+      "titulo": "Naruto Shippuuden 226",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e316bf7cad703ffd97bd72c174b72c6.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/226/",
+      "publicado_en_origen": "2011-08-25 10:00:18"
+    },
+    {
+      "id_origen": 11242,
+      "numero": 227,
+      "titulo": "Naruto Shippuuden 227",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_559b4c29ff85968364f90141f46616b9.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/227/",
+      "publicado_en_origen": "2011-08-25 10:06:30"
+    },
+    {
+      "id_origen": 11414,
+      "numero": 228,
+      "titulo": "Naruto Shippuuden 228",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_292795f5daad46256799bba38938423e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/228/",
+      "publicado_en_origen": "2011-09-01 10:30:54"
+    },
+    {
+      "id_origen": 12235,
+      "numero": 229,
+      "titulo": "Naruto Shippuden 229",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b63c87b0a41016ad29313f0d7393cee8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/229/",
+      "publicado_en_origen": "2011-09-22 10:05:38"
+    },
+    {
+      "id_origen": 12617,
+      "numero": 230,
+      "titulo": "Naruto Shippuden 230",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e62803da514f1a8bd1437eb1b79c040.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/230/",
+      "publicado_en_origen": "2011-09-29 13:51:59"
+    },
+    {
+      "id_origen": 12654,
+      "numero": 231,
+      "titulo": "Naruto Shippuden - 231",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93fc5aed8c051ce4538e052cfe9f8692.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/231/",
+      "publicado_en_origen": "2011-10-06 11:11:52"
+    },
+    {
+      "id_origen": 12667,
+      "numero": 232,
+      "titulo": "Naruto Shippuden - 232",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f97b78c2ce73939fca9916a27115445.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/232/",
+      "publicado_en_origen": "2011-10-13 11:03:48"
+    },
+    {
+      "id_origen": 12777,
+      "numero": 233,
+      "titulo": "Naruto Shippuden - 233",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_553c3741e8d893fe9789a3eb8a162821.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/233/",
+      "publicado_en_origen": "2011-10-20 09:40:19"
+    },
+    {
+      "id_origen": 13019,
+      "numero": 234,
+      "titulo": "Naruto Shippuden - 234",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2b834e585967887c4522fa09f0b6395.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/234/",
+      "publicado_en_origen": "2011-10-27 10:16:34"
+    },
+    {
+      "id_origen": 13045,
+      "numero": 235,
+      "titulo": "Naruto Shippuden - 235",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_158388770a41292b277c199ca8d95ccf.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/235/",
+      "publicado_en_origen": "2011-11-03 10:37:05"
+    },
+    {
+      "id_origen": 13065,
+      "numero": 236,
+      "titulo": "Naruto Shippuden - 236",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fed02ce0e96f989ec31e4eb6596bb06e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/236/",
+      "publicado_en_origen": "2011-11-10 11:50:26"
+    },
+    {
+      "id_origen": 13309,
+      "numero": 237,
+      "titulo": "Naruto Shippuden - 237",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45b02e9da70144e563ddb3407d8718ae.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/237/",
+      "publicado_en_origen": "2011-11-24 11:50:23"
+    },
+    {
+      "id_origen": 13338,
+      "numero": 238,
+      "titulo": "Naruto Shippuden - 238",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f659d005276678c0696b7f6beda66454.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/238/",
+      "publicado_en_origen": "2011-12-01 15:22:39"
+    },
+    {
+      "id_origen": 13517,
+      "numero": 239,
+      "titulo": "Naruto Shippuden - 239",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_088d6dc6ddb3113e9b902711ccdfafef.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/239/",
+      "publicado_en_origen": "2011-12-08 13:34:25"
+    },
+    {
+      "id_origen": 13857,
+      "numero": 240,
+      "titulo": "Naruto Shippuden - 240",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6143dafe10eb30e48832f3a092674e0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/240/",
+      "publicado_en_origen": "2011-12-15 12:05:58"
+    },
+    {
+      "id_origen": 14021,
+      "numero": 241,
+      "titulo": "Naruto Shippuden - 241",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1f5448f160187bcb4c4acaacfb3456c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/241/",
+      "publicado_en_origen": "2011-12-22 11:37:51"
+    },
+    {
+      "id_origen": 14098,
+      "numero": 242,
+      "titulo": "Naruto Shippuden - 242",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_131632cb7eeb986974e1be59af67e8fe.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/242/",
+      "publicado_en_origen": "2011-12-28 20:01:47"
+    },
+    {
+      "id_origen": 14260,
+      "numero": 243,
+      "titulo": "Naruto Shippuden - 243",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fab6cdec3712c24619019567ac26c060.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/243/",
+      "publicado_en_origen": "2012-01-05 11:44:19"
+    },
+    {
+      "id_origen": 14492,
+      "numero": 244,
+      "titulo": "Naruto Shippuden - 244",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ae81daa87d6649df09002741e5b1738.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/244/",
+      "publicado_en_origen": "2012-01-12 10:45:47"
+    },
+    {
+      "id_origen": 14569,
+      "numero": 245,
+      "titulo": "Naruto Shippuden - 245",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d7b04e989115e193107af57ad662dd2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/245/",
+      "publicado_en_origen": "2012-01-19 15:05:38"
+    },
+    {
+      "id_origen": 14582,
+      "numero": 246,
+      "titulo": "Naruto Shippuden - 246",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab51d7a8e04f1b4c88439526b107c768.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/246/",
+      "publicado_en_origen": "2012-01-26 11:31:19"
+    },
+    {
+      "id_origen": 14632,
+      "numero": 247,
+      "titulo": "Naruto Shippuden - 247",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e83596334400305514565ee16b9106d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/247/",
+      "publicado_en_origen": "2012-02-02 11:00:03"
+    },
+    {
+      "id_origen": 14661,
+      "numero": 248,
+      "titulo": "Naruto Shippuden - 248",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0c5e4ce2af501bca32abadcf9030c6b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/248/",
+      "publicado_en_origen": "2012-02-09 11:11:11"
+    },
+    {
+      "id_origen": 14662,
+      "numero": 249,
+      "titulo": "Naruto Shippuden - 249",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47d3158fe13ecae94d599d4973a374e8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/249/",
+      "publicado_en_origen": "2012-02-09 12:03:54"
+    },
+    {
+      "id_origen": 15044,
+      "numero": 250,
+      "titulo": "Naruto Shippuden - 250",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b24b1810f41d38b55728a9f56b043d35.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/250/",
+      "publicado_en_origen": "2012-02-16 10:50:13"
+    },
+    {
+      "id_origen": 15061,
+      "numero": 251,
+      "titulo": "Naruto Shippuden - 251",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0783683c446cf52f9df7d90d92bf5239.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/251/",
+      "publicado_en_origen": "2012-02-23 11:03:57"
+    },
+    {
+      "id_origen": 15093,
+      "numero": 252,
+      "titulo": "Naruto Shippuden - 252",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5989623d658b2227cb4e6758437704ac.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/252/",
+      "publicado_en_origen": "2012-03-01 10:29:14"
+    },
+    {
+      "id_origen": 15138,
+      "numero": 253,
+      "titulo": "Naruto Shippuden - 253",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb3e687772d3306c7be2a55580c0dc73.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/253/",
+      "publicado_en_origen": "2012-03-08 10:22:04"
+    },
+    {
+      "id_origen": 15187,
+      "numero": 254,
+      "titulo": "Naruto Shippuden - 254",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_956936879f66f5cf4ffbf3aefffd56ca.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/254/",
+      "publicado_en_origen": "2012-03-15 10:07:46"
+    },
+    {
+      "id_origen": 15231,
+      "numero": 255,
+      "titulo": "Naruto Shippuden - 255",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89b3f5223b861dc3a7b8917e293a857a.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/255/",
+      "publicado_en_origen": "2012-03-22 09:43:10"
+    },
+    {
+      "id_origen": 15265,
+      "numero": 256,
+      "titulo": "Naruto Shippuden - 256",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_987ecf1824ae5e4648f2f65137abc8de.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/256/",
+      "publicado_en_origen": "2012-03-29 09:54:52"
+    },
+    {
+      "id_origen": 15425,
+      "numero": 257,
+      "titulo": "Naruto Shippuden - 257",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13d85714ac4f21ecda59310b6a11cb92.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/257/",
+      "publicado_en_origen": "2012-04-05 11:22:57"
+    },
+    {
+      "id_origen": 15478,
+      "numero": 258,
+      "titulo": "Naruto Shippuden - 258",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e65070cd27a1a6e979bd685b9114bf10.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/258/",
+      "publicado_en_origen": "2012-04-12 10:31:30"
+    },
+    {
+      "id_origen": 15498,
+      "numero": 259,
+      "titulo": "Naruto Shippuden - 259",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d43f5cbdcf4166b6d53833a4ad60cb1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/259/",
+      "publicado_en_origen": "2012-04-19 12:27:23"
+    },
+    {
+      "id_origen": 15527,
+      "numero": 260,
+      "titulo": "Naruto Shippuden - 260",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bae3529f0210cc5a603ac708bb5e7797.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/260/",
+      "publicado_en_origen": "2012-04-26 10:22:06"
+    },
+    {
+      "id_origen": 15553,
+      "numero": 261,
+      "titulo": "Naruto Shippuden - 261",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cbfb2330b21840b385a45c958602663.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/261/",
+      "publicado_en_origen": "2012-05-03 12:13:49"
+    },
+    {
+      "id_origen": 15586,
+      "numero": 262,
+      "titulo": "Naruto Shippuden - 262",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_178728084dbe3f5e712280f0170457d8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/262/",
+      "publicado_en_origen": "2012-05-10 11:30:21"
+    },
+    {
+      "id_origen": 15605,
+      "numero": 263,
+      "titulo": "Naruto Shippuden - 263",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a47cc7b881ce40bc6ba3e71d5d47fbf1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/263/",
+      "publicado_en_origen": "2012-05-17 12:51:10"
+    },
+    {
+      "id_origen": 15638,
+      "numero": 264,
+      "titulo": "Naruto Shippuden - 264",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9ab9a0f7c56435e35dc4dadf0eb6945.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/264/",
+      "publicado_en_origen": "2012-05-24 14:09:49"
+    },
+    {
+      "id_origen": 15674,
+      "numero": 265,
+      "titulo": "Naruto Shippuden - 265",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63894ce404b8c652915c41ef8b879d20.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/265/",
+      "publicado_en_origen": "2012-05-31 13:22:08"
+    },
+    {
+      "id_origen": 15694,
+      "numero": 266,
+      "titulo": "Naruto Shippuden - 266",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99407a87a33e79517280e0fdacdaa713.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/266/",
+      "publicado_en_origen": "2012-06-07 16:38:47"
+    },
+    {
+      "id_origen": 15991,
+      "numero": 267,
+      "titulo": "Naruto Shippuden - 267",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c51c69da77c98612490b49ed6d146a80.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/267/",
+      "publicado_en_origen": "2012-06-21 09:52:29"
+    },
+    {
+      "id_origen": 16116,
+      "numero": 268,
+      "titulo": "Naruto Shippuden - 268",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_adc32ce9b954ad17e491a0bc426dbb71.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/268/",
+      "publicado_en_origen": "2012-06-28 07:33:49"
+    },
+    {
+      "id_origen": 16170,
+      "numero": 269,
+      "titulo": "Naruto Shippuden - 269",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1cae678af59c92bbf86e04d9949aad7.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/269/",
+      "publicado_en_origen": "2012-07-05 10:54:33"
+    },
+    {
+      "id_origen": 16398,
+      "numero": 270,
+      "titulo": "Naruto Shippuden - 270",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5939cbe46f1512291125700ee2e7236a.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/270/",
+      "publicado_en_origen": "2012-07-19 06:49:26"
+    },
+    {
+      "id_origen": 16422,
+      "numero": 271,
+      "titulo": "Naruto Shippuden - 271",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2779d140faa92aa0ad8df4230aca4590.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/271/",
+      "publicado_en_origen": "2012-07-26 06:28:25"
+    },
+    {
+      "id_origen": 16511,
+      "numero": 272,
+      "titulo": "Naruto Shippuden - 272",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e58a9052057eab54f8b49e8c553d1837.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/272/",
+      "publicado_en_origen": "2012-08-02 06:24:28"
+    },
+    {
+      "id_origen": 16535,
+      "numero": 273,
+      "titulo": "Naruto Shippuden - 273",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60ec3eff9d5505195d32364a32670d36.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/273/",
+      "publicado_en_origen": "2012-08-09 05:59:00"
+    },
+    {
+      "id_origen": 16536,
+      "numero": 274,
+      "titulo": "Naruto Shippuden - 274",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_908b9c4c6b4ddb779aa73654b03acfed.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/274/",
+      "publicado_en_origen": "2012-08-09 06:31:02"
+    },
+    {
+      "id_origen": 16563,
+      "numero": 275,
+      "titulo": "Naruto Shippuden - 275",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c97123ea1dcc3807e91be30b3fa0c2de.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/275/",
+      "publicado_en_origen": "2012-08-16 06:30:46"
+    },
+    {
+      "id_origen": 16654,
+      "numero": 276,
+      "titulo": "Naruto Shippuden - 276",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f277a0bf09ceeb7f90508c05044d3714.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/276/",
+      "publicado_en_origen": "2012-08-23 06:22:47"
+    },
+    {
+      "id_origen": 16847,
+      "numero": 277,
+      "titulo": "Naruto Shippuden - 277",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5e4edb22210b2b92b75baac5ed3c40a.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/277/",
+      "publicado_en_origen": "2012-08-30 06:19:28"
+    },
+    {
+      "id_origen": 16985,
+      "numero": 278,
+      "titulo": "Naruto Shippuden - 278",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3ca85cd30bca7607c9520accaa4ffcf.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/278/",
+      "publicado_en_origen": "2012-09-06 06:27:39"
+    },
+    {
+      "id_origen": 17153,
+      "numero": 279,
+      "titulo": "Naruto Shippuden - 279",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83348779460c0e343cf5903bde2f4611.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/279/",
+      "publicado_en_origen": "2012-09-13 06:24:27"
+    },
+    {
+      "id_origen": 17254,
+      "numero": 280,
+      "titulo": "Naruto Shippuden - 280",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bee77d38f5089708e786b75b0b61748.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/280/",
+      "publicado_en_origen": "2012-09-20 06:34:24"
+    },
+    {
+      "id_origen": 17520,
+      "numero": 281,
+      "titulo": "Naruto Shippuden - 281",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_478423056f0942a464052ccc8e0d064d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/281/",
+      "publicado_en_origen": "2012-09-27 06:17:17"
+    },
+    {
+      "id_origen": 17628,
+      "numero": 282,
+      "titulo": "Naruto Shippuden - 282",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60aaa4b2fc3fcf6a41c454149ab76592.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/282/",
+      "publicado_en_origen": "2012-10-04 06:20:30"
+    },
+    {
+      "id_origen": 17689,
+      "numero": 283,
+      "titulo": "Naruto Shippuden - 283",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f32d19b3dab923e94b33d24c8fd4cb4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/283/",
+      "publicado_en_origen": "2012-10-11 06:22:38"
+    },
+    {
+      "id_origen": 17949,
+      "numero": 284,
+      "titulo": "Naruto Shippuden - 284",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80789d636d68ec8ac889de80365bbd57.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/284/",
+      "publicado_en_origen": "2012-10-18 06:21:42"
+    },
+    {
+      "id_origen": 18076,
+      "numero": 285,
+      "titulo": "Naruto Shippuden - 285",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3d19da395f25e25fb4fbf1545fddce0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/285/",
+      "publicado_en_origen": "2012-10-25 06:27:23"
+    },
+    {
+      "id_origen": 18211,
+      "numero": 286,
+      "titulo": "Naruto Shippuden - 286",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4186b8943907012bd947930996fe9051.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/286/",
+      "publicado_en_origen": "2012-11-01 05:55:06"
+    },
+    {
+      "id_origen": 18212,
+      "numero": 287,
+      "titulo": "Naruto Shippuden - 287",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7df2a3f0d266869c59413708e4acdb01.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/287/",
+      "publicado_en_origen": "2012-11-01 06:12:52"
+    },
+    {
+      "id_origen": 18361,
+      "numero": 288,
+      "titulo": "Naruto Shippuden - 288",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3734e78f11f01436d5c5de2709482ced.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/288/",
+      "publicado_en_origen": "2012-11-08 07:41:02"
+    },
+    {
+      "id_origen": 18436,
+      "numero": 289,
+      "titulo": "Naruto Shippuden - 289",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_596a620aab59381e1f972c6908d3c3d0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/289/",
+      "publicado_en_origen": "2012-11-15 07:16:17"
+    },
+    {
+      "id_origen": 18484,
+      "numero": 290,
+      "titulo": "Naruto Shippuden - 290",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4147bb2fdd45a6a4e0876f7d5f12f0c2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/290/",
+      "publicado_en_origen": "2012-11-22 07:28:42"
+    },
+    {
+      "id_origen": 18539,
+      "numero": 291,
+      "titulo": "Naruto Shippuden - 291",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f16fd62828c3604806fc60d69dcf495.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/291/",
+      "publicado_en_origen": "2012-11-29 07:26:53"
+    },
+    {
+      "id_origen": 18573,
+      "numero": 292,
+      "titulo": "Naruto Shippuden - 292",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acc564daafaaf26d45b5d37c5e68384e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/292/",
+      "publicado_en_origen": "2012-12-06 07:24:23"
+    },
+    {
+      "id_origen": 18612,
+      "numero": 293,
+      "titulo": "Naruto Shippuden - 293",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a50303d16c89e22c53d45bd5b9fd888b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/293/",
+      "publicado_en_origen": "2012-12-13 09:04:25"
+    },
+    {
+      "id_origen": 18755,
+      "numero": 294,
+      "titulo": "Naruto Shippuden - 294",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a50f4ea03581f27aae82ea135f1b6fb4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/294/",
+      "publicado_en_origen": "2012-12-20 07:24:15"
+    },
+    {
+      "id_origen": 18967,
+      "numero": 295,
+      "titulo": "Naruto Shippuden - 295",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b999a556e5f6186b8cba2dd848c22711.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/295/",
+      "publicado_en_origen": "2013-01-10 07:12:07"
+    },
+    {
+      "id_origen": 19044,
+      "numero": 296,
+      "titulo": "Naruto Shippuden - 296",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e64a98242922f7799ec4a0ad6999924f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/296/",
+      "publicado_en_origen": "2013-01-17 07:11:40"
+    },
+    {
+      "id_origen": 19143,
+      "numero": 297,
+      "titulo": "Naruto Shippuden - 297",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd7d952b109ea30fa0b8b59c7b7be36d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/297/",
+      "publicado_en_origen": "2013-01-24 07:15:11"
+    },
+    {
+      "id_origen": 19218,
+      "numero": 298,
+      "titulo": "Naruto Shippuden - 298",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61bd5a9f9bb389ac9cbcc5d3f0eeefcc.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/298/",
+      "publicado_en_origen": "2013-01-31 07:35:38"
+    },
+    {
+      "id_origen": 19264,
+      "numero": 299,
+      "titulo": "Naruto Shippuden - 299",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49a0fa0ea45d6c65e0524d65fb737c84.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/299/",
+      "publicado_en_origen": "2013-02-07 07:10:51"
+    },
+    {
+      "id_origen": 19316,
+      "numero": 300,
+      "titulo": "Naruto Shippuden - 300",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8010691083622c563813e1f1d85119d6.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/300/",
+      "publicado_en_origen": "2013-02-14 07:12:47"
+    },
+    {
+      "id_origen": 19389,
+      "numero": 301,
+      "titulo": "Naruto Shippuden - 301",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f734c273514a8b004aa22f37189f8c6.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/301/",
+      "publicado_en_origen": "2013-02-21 07:20:05"
+    },
+    {
+      "id_origen": 19441,
+      "numero": 302,
+      "titulo": "Naruto Shippuden - 302",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c273330bffbf9a2367a2618a3696cf7e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/302/",
+      "publicado_en_origen": "2013-02-28 07:10:52"
+    },
+    {
+      "id_origen": 19539,
+      "numero": 303,
+      "titulo": "Naruto Shippuden - 303",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3dd176fb68ba78b8297421f5a093f24.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/303/",
+      "publicado_en_origen": "2013-03-07 07:13:09"
+    },
+    {
+      "id_origen": 19615,
+      "numero": 304,
+      "titulo": "Naruto Shippuden - 304",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_278c00e63919b2bd4844a64463cc69d5.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/304/",
+      "publicado_en_origen": "2013-03-14 05:18:21"
+    },
+    {
+      "id_origen": 19699,
+      "numero": 305,
+      "titulo": "Naruto Shippuden - 305",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c50963c801026896bcfaa38b535b5e88.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/305/",
+      "publicado_en_origen": "2013-03-21 05:27:46"
+    },
+    {
+      "id_origen": 19974,
+      "numero": 306,
+      "titulo": "Naruto Shippuden - 306",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d9c43178f8d0646e8676e053075b108.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/306/",
+      "publicado_en_origen": "2013-03-28 06:07:17"
+    },
+    {
+      "id_origen": 20041,
+      "numero": 307,
+      "titulo": "Naruto Shippuuden 307",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91024559c37865feea27551343dfafe8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/307/",
+      "publicado_en_origen": "2013-04-04 06:13:35"
+    },
+    {
+      "id_origen": 20097,
+      "numero": 308,
+      "titulo": "Naruto Shippuden - 308",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d06fc0e479bf3d6bbc365b1e580d3d1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/308/",
+      "publicado_en_origen": "2013-04-11 06:42:22"
+    },
+    {
+      "id_origen": 20325,
+      "numero": 309,
+      "titulo": "Naruto Shippuden - 309",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_604b22548fbebba00ec67d8b69c09e56.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/309/",
+      "publicado_en_origen": "2013-04-18 06:11:51"
+    },
+    {
+      "id_origen": 20365,
+      "numero": 310,
+      "titulo": "Naruto Shippuden - 310",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e8f16fbb6f611b642892184828a35ae.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/310/",
+      "publicado_en_origen": "2013-04-25 06:06:05"
+    },
+    {
+      "id_origen": 20409,
+      "numero": 311,
+      "titulo": "Naruto Shippuden - 311",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_806c0bf65a5cc8e89564ac7391bb3f76.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/311/",
+      "publicado_en_origen": "2013-05-02 06:08:38"
+    },
+    {
+      "id_origen": 20448,
+      "numero": 312,
+      "titulo": "Naruto Shippuden - 312",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f9a72a09b50fed7cde992033530b7c0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/312/",
+      "publicado_en_origen": "2013-05-09 06:08:55"
+    },
+    {
+      "id_origen": 20487,
+      "numero": 313,
+      "titulo": "Naruto Shippuden - 313",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_642f0ffa02e1a52c66e09344421903ff.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/313/",
+      "publicado_en_origen": "2013-05-16 06:10:43"
+    },
+    {
+      "id_origen": 20522,
+      "numero": 314,
+      "titulo": "Naruto Shippuden - 314",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e855978554e4c9899c4a2953e7f73013.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/314/",
+      "publicado_en_origen": "2013-05-23 06:08:35"
+    },
+    {
+      "id_origen": 20559,
+      "numero": 315,
+      "titulo": "Naruto Shippuden - 315",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e4cb3c0ff79723d70198239ad918d31.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/315/",
+      "publicado_en_origen": "2013-05-30 06:06:22"
+    },
+    {
+      "id_origen": 20599,
+      "numero": 316,
+      "titulo": "Naruto Shippuden - 316",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b81139cc390ee1ce67042addf1d32cd.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/316/",
+      "publicado_en_origen": "2013-06-06 08:19:12"
+    },
+    {
+      "id_origen": 20638,
+      "numero": 317,
+      "titulo": "Naruto Shippuden - 317",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6bcdc5176f139f9c4c0036b123ee12d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/317/",
+      "publicado_en_origen": "2013-06-13 06:05:08"
+    },
+    {
+      "id_origen": 20677,
+      "numero": 318,
+      "titulo": "Naruto Shippuden - 318",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ce84848303b6bbe72fd5e3a2855c764.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/318/",
+      "publicado_en_origen": "2013-06-20 06:11:04"
+    },
+    {
+      "id_origen": 20890,
+      "numero": 319,
+      "titulo": "Naruto Shippuden - 319",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ff3e121444c4d8c0efd009c98147f72.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/319/",
+      "publicado_en_origen": "2013-06-27 06:08:11"
+    },
+    {
+      "id_origen": 21004,
+      "numero": 320,
+      "titulo": "Naruto Shippuden - 320",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fada60ac427a94ddc93f9554c523f402.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/320/",
+      "publicado_en_origen": "2013-07-04 07:08:46"
+    },
+    {
+      "id_origen": 21097,
+      "numero": 321,
+      "titulo": "Naruto Shippuden - 321",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24e55470484c60fc7d9645a2ba7e5a18.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/321/",
+      "publicado_en_origen": "2013-07-18 07:05:52"
+    },
+    {
+      "id_origen": 21143,
+      "numero": 322,
+      "titulo": "Naruto Shippuden - 322",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1986405e39c5a79665af1746738c1f46.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/322/",
+      "publicado_en_origen": "2013-07-25 09:15:29"
+    },
+    {
+      "id_origen": 21189,
+      "numero": 323,
+      "titulo": "Naruto Shippuden - 323",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ec49d235b3b7457aa6625a77f3d38d8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/323/",
+      "publicado_en_origen": "2013-08-01 07:06:13"
+    },
+    {
+      "id_origen": 21235,
+      "numero": 324,
+      "titulo": "Naruto Shippuden - 324",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7c72809ba7006a048edb6a05f31bca5.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/324/",
+      "publicado_en_origen": "2013-08-08 07:08:17"
+    },
+    {
+      "id_origen": 21282,
+      "numero": 325,
+      "titulo": "Naruto Shippuden - 325",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_adc4b51b49fc307aa7f0a8b9015c51bf.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/325/",
+      "publicado_en_origen": "2013-08-15 10:05:57"
+    },
+    {
+      "id_origen": 21329,
+      "numero": 326,
+      "titulo": "Naruto Shippuden - 326",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dad0eb8ef352b656351ef2c8285ad148.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/326/",
+      "publicado_en_origen": "2013-08-22 07:06:21"
+    },
+    {
+      "id_origen": 21375,
+      "numero": 327,
+      "titulo": "Naruto Shippuden - 327",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f006806e0d860271f42f3c1c5946bb4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/327/",
+      "publicado_en_origen": "2013-08-29 06:36:47"
+    },
+    {
+      "id_origen": 21376,
+      "numero": 328,
+      "titulo": "Naruto Shippuden - 328",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2338fea343be1e96d7bd8892726b13fc.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/328/",
+      "publicado_en_origen": "2013-08-29 07:55:45"
+    },
+    {
+      "id_origen": 21426,
+      "numero": 329,
+      "titulo": "Naruto Shippuden - 329",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8122ecf0e8a3dfbbd36d13b64aa30796.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/329/",
+      "publicado_en_origen": "2013-09-05 07:07:13"
+    },
+    {
+      "id_origen": 21474,
+      "numero": 330,
+      "titulo": "Naruto Shippuden - 330",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_515f4b1414c40dd89c5d73bb0c1671ac.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/330/",
+      "publicado_en_origen": "2013-09-12 07:08:38"
+    },
+    {
+      "id_origen": 21520,
+      "numero": 331,
+      "titulo": "Naruto Shippuden - 331",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0810699abe09927a03a8b5a0247c6797.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/331/",
+      "publicado_en_origen": "2013-09-19 07:06:30"
+    },
+    {
+      "id_origen": 21563,
+      "numero": 332,
+      "titulo": "Naruto Shippuden - 332",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e6a4b0e1ed01007f6604abd3e4d2163.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/332/",
+      "publicado_en_origen": "2013-09-26 08:16:43"
+    },
+    {
+      "id_origen": 21601,
+      "numero": 333,
+      "titulo": "Naruto Shippuden - 333",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebd9cbfb90ae6a1daeefe91a4cfaa518.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/333/",
+      "publicado_en_origen": "2013-10-03 11:10:37"
+    },
+    {
+      "id_origen": 21702,
+      "numero": 334,
+      "titulo": "Naruto Shippuden - 334",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1363880b0e51db7dc8c5d41276b4ecd.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/334/",
+      "publicado_en_origen": "2013-10-10 07:45:50"
+    },
+    {
+      "id_origen": 21807,
+      "numero": 335,
+      "titulo": "Naruto Shippuden - 335",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_949b6216f42ab06201c488deab78781f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/335/",
+      "publicado_en_origen": "2013-10-24 07:52:56"
+    },
+    {
+      "id_origen": 21861,
+      "numero": 336,
+      "titulo": "Naruto Shippuden - 336",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d29ac33c25a1fe0e50c3c105ab8675a6.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/336/",
+      "publicado_en_origen": "2013-10-31 07:13:27"
+    },
+    {
+      "id_origen": 21908,
+      "numero": 337,
+      "titulo": "Naruto Shippuden - 337",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b26f323f0da18551583d2bbf9631ce17.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/337/",
+      "publicado_en_origen": "2013-11-07 07:18:11"
+    },
+    {
+      "id_origen": 21960,
+      "numero": 338,
+      "titulo": "Naruto Shippuden - 338",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_404b686cac11b6dc64ecb753029e5c1e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/338/",
+      "publicado_en_origen": "2013-11-14 07:07:00"
+    },
+    {
+      "id_origen": 22014,
+      "numero": 339,
+      "titulo": "Naruto Shippuden - 339",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3785677f32d08b06e8ee22caa4ffe69.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/339/",
+      "publicado_en_origen": "2013-11-21 07:07:29"
+    },
+    {
+      "id_origen": 22067,
+      "numero": 340,
+      "titulo": "Naruto Shippuden - 340",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c846afeb972dd0fcad60f3f6194ec0ae.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/340/",
+      "publicado_en_origen": "2013-11-28 07:10:14"
+    },
+    {
+      "id_origen": 22118,
+      "numero": 341,
+      "titulo": "Naruto Shippuden - 341",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c41c0323dd77add26d14610dac7b6f33.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/341/",
+      "publicado_en_origen": "2013-12-05 07:06:52"
+    },
+    {
+      "id_origen": 22172,
+      "numero": 342,
+      "titulo": "Naruto Shippuden - 342",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d902caf78f9da753a7160cb404b59d5.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/342/",
+      "publicado_en_origen": "2013-12-12 07:08:27"
+    },
+    {
+      "id_origen": 22234,
+      "numero": 343,
+      "titulo": "Naruto Shippuden - 343",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d33daa6ff4705fb9692ee1a9d1d9cd4e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/343/",
+      "publicado_en_origen": "2013-12-19 07:14:59"
+    },
+    {
+      "id_origen": 22386,
+      "numero": 344,
+      "titulo": "Naruto Shippuden - 344",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63f4c74d449b38fdb47718aca03c8af3.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/344/",
+      "publicado_en_origen": "2014-01-09 07:39:01"
+    },
+    {
+      "id_origen": 22447,
+      "numero": 345,
+      "titulo": "Naruto Shippuden - 345",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f65e4b73bc7df2837d715bf283f6afa7.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/345/",
+      "publicado_en_origen": "2014-01-16 07:05:50"
+    },
+    {
+      "id_origen": 22503,
+      "numero": 346,
+      "titulo": "Naruto Shippuden - 346",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b7df56f467d96c8f817d24e6c75fb51.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/346/",
+      "publicado_en_origen": "2014-01-23 07:05:45"
+    },
+    {
+      "id_origen": 22504,
+      "numero": 347,
+      "titulo": "Naruto Shippuden - 347",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14504681be13951f43aeb5b6b76dab0d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/347/",
+      "publicado_en_origen": "2014-01-23 08:21:48"
+    },
+    {
+      "id_origen": 22564,
+      "numero": 348,
+      "titulo": "Naruto Shippuden - 348",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b0625ac29f46fc1d6e19b62b01ff10e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/348/",
+      "publicado_en_origen": "2014-01-30 07:09:19"
+    },
+    {
+      "id_origen": 22625,
+      "numero": 349,
+      "titulo": "Naruto Shippuden - 349",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce4c4d595b49a33ce5f485e5672dc2ea.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/349/",
+      "publicado_en_origen": "2014-02-06 07:09:22"
+    },
+    {
+      "id_origen": 22696,
+      "numero": 350,
+      "titulo": "Naruto Shippuden - 350",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04940fadf3702cbd84b7a48161037c4f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/350/",
+      "publicado_en_origen": "2014-02-13 07:08:51"
+    },
+    {
+      "id_origen": 22753,
+      "numero": 351,
+      "titulo": "Naruto Shippuden - 351",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca55e81c481f3ae701c4362514ce6abd.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/351/",
+      "publicado_en_origen": "2014-02-20 07:10:58"
+    },
+    {
+      "id_origen": 22816,
+      "numero": 352,
+      "titulo": "Naruto Shippuden - 352",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e22ce4d908a59a1903c9c815ef4bfb03.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/352/",
+      "publicado_en_origen": "2014-02-27 07:09:03"
+    },
+    {
+      "id_origen": 22876,
+      "numero": 353,
+      "titulo": "Naruto Shippuden - 353",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f65e12a53c282c15a9b8188db4f7d1f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/353/",
+      "publicado_en_origen": "2014-03-06 07:08:24"
+    },
+    {
+      "id_origen": 22877,
+      "numero": 354,
+      "titulo": "Naruto Shippuden - 354",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c604217041755767d624c0846b3bdbd3.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/354/",
+      "publicado_en_origen": "2014-03-06 07:10:41"
+    },
+    {
+      "id_origen": 22940,
+      "numero": 355,
+      "titulo": "Naruto Shippuden - 355",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_778a547f86b9926eed381d68c9cbebdd.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/355/",
+      "publicado_en_origen": "2014-03-13 07:08:29"
+    },
+    {
+      "id_origen": 23017,
+      "numero": 356,
+      "titulo": "Naruto Shippuden - 356",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a3bdfab1712e521f60a127020afac41.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/356/",
+      "publicado_en_origen": "2014-03-20 07:39:29"
+    },
+    {
+      "id_origen": 23121,
+      "numero": 357,
+      "titulo": "Naruto Shippuden - 357",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_648796834290980c98c2ac6c43367e48.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/357/",
+      "publicado_en_origen": "2014-04-03 07:32:00"
+    },
+    {
+      "id_origen": 23170,
+      "numero": 358,
+      "titulo": "Naruto Shippuden - 358",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56582fc8a333b912901b6f3c771bd60f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/358/",
+      "publicado_en_origen": "2014-04-10 07:19:27"
+    },
+    {
+      "id_origen": 23230,
+      "numero": 359,
+      "titulo": "Naruto Shippuden - 359",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9403726f748a529821f7df4779ea9578.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/359/",
+      "publicado_en_origen": "2014-04-17 07:08:23"
+    },
+    {
+      "id_origen": 23301,
+      "numero": 360,
+      "titulo": "Naruto Shippuden - 360",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28064c25dd52d9313583b61cac492231.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/360/",
+      "publicado_en_origen": "2014-04-24 08:34:46"
+    },
+    {
+      "id_origen": 23425,
+      "numero": 361,
+      "titulo": "Naruto Shippuden - 361",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38862237f701dd26bc89bb7906950b3a.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/361/",
+      "publicado_en_origen": "2014-05-08 07:11:32"
+    },
+    {
+      "id_origen": 23481,
+      "numero": 362,
+      "titulo": "Naruto Shippuden - 362",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f50a1836d707c75452249bfc9511ae4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/362/",
+      "publicado_en_origen": "2014-05-15 07:05:56"
+    },
+    {
+      "id_origen": 23538,
+      "numero": 363,
+      "titulo": "Naruto Shippuden - 363",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3914109deb198245a300d2ec7561e405.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/363/",
+      "publicado_en_origen": "2014-05-22 07:09:50"
+    },
+    {
+      "id_origen": 23663,
+      "numero": 364,
+      "titulo": "Naruto Shippuden - 364",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_991b499bc45394c77e00daa945bf9353.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/364/",
+      "publicado_en_origen": "2014-06-05 07:13:43"
+    },
+    {
+      "id_origen": 23717,
+      "numero": 365,
+      "titulo": "Naruto Shippuden - 365",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4755159c3ffa27fa10e40287ac64f332.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/365/",
+      "publicado_en_origen": "2014-06-12 07:18:05"
+    },
+    {
+      "id_origen": 23773,
+      "numero": 366,
+      "titulo": "Naruto Shippuden - 366",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0415089c6d09cb4eccd7a314f9610301.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/366/",
+      "publicado_en_origen": "2014-06-19 07:06:27"
+    },
+    {
+      "id_origen": 23870,
+      "numero": 367,
+      "titulo": "Naruto Shippuden - 367",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bf00090c06d6beeb75c3c77420d2746.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/367/",
+      "publicado_en_origen": "2014-07-03 07:48:16"
+    },
+    {
+      "id_origen": 23950,
+      "numero": 368,
+      "titulo": "Naruto Shippuden - 368",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27d5b5fd04fab043c0c64468fe18e488.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/368/",
+      "publicado_en_origen": "2014-07-10 08:19:21"
+    },
+    {
+      "id_origen": 24078,
+      "numero": 369,
+      "titulo": "Naruto Shippuden - 369",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa0792521918c87688e46598dd2171cc.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/369/",
+      "publicado_en_origen": "2014-07-24 07:18:20"
+    },
+    {
+      "id_origen": 24140,
+      "numero": 370,
+      "titulo": "Naruto Shippuden - 370",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_542b9ce5413bbceea136fecb513df4c3.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/370/",
+      "publicado_en_origen": "2014-07-31 06:06:54"
+    },
+    {
+      "id_origen": 24205,
+      "numero": 371,
+      "titulo": "Naruto Shippuden - 371",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b1d4dae4314191be293526cf052e257.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/371/",
+      "publicado_en_origen": "2014-08-07 07:36:47"
+    },
+    {
+      "id_origen": 24424,
+      "numero": 372,
+      "titulo": "Naruto Shippuden - 372",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9628ca5c148265131af3b23839ff01e9.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/372/",
+      "publicado_en_origen": "2014-08-14 06:48:24"
+    },
+    {
+      "id_origen": 24498,
+      "numero": 373,
+      "titulo": "Naruto Shippuden - 373",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79bfd663e0be2a5171a183b3356ec9a3.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/373/",
+      "publicado_en_origen": "2014-08-21 06:28:01"
+    },
+    {
+      "id_origen": 24562,
+      "numero": 374,
+      "titulo": "Naruto Shippuden - 374",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f42cb537c83a99c52a7e247073a69da6.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/374/",
+      "publicado_en_origen": "2014-08-28 06:39:18"
+    },
+    {
+      "id_origen": 24633,
+      "numero": 375,
+      "titulo": "Naruto Shippuden - 375",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_151c79acb52fe49af21cff6035b13cf3.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/375/",
+      "publicado_en_origen": "2014-09-04 06:12:39"
+    },
+    {
+      "id_origen": 24726,
+      "numero": 376,
+      "titulo": "Naruto Shippuden - 376",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c275a693a0e1764550078ac710873cf.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/376/",
+      "publicado_en_origen": "2014-09-11 06:24:57"
+    },
+    {
+      "id_origen": 24729,
+      "numero": 377,
+      "titulo": "Naruto Shippuden - 377",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c88233ac30debaa338e6961c8bfaa14.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/377/",
+      "publicado_en_origen": "2014-09-11 12:46:31"
+    },
+    {
+      "id_origen": 24793,
+      "numero": 378,
+      "titulo": "Naruto Shippuden - 378",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdb2b215aca454782c69bc1ee9a85d81.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/378/",
+      "publicado_en_origen": "2014-09-18 07:22:44"
+    },
+    {
+      "id_origen": 24907,
+      "numero": 379,
+      "titulo": "Naruto Shippuden - 379",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccd9f73a3bb415a32b0708b0821761c4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/379/",
+      "publicado_en_origen": "2014-09-25 06:07:21"
+    },
+    {
+      "id_origen": 24967,
+      "numero": 380,
+      "titulo": "Naruto Shippuden - 380",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b05f1c54b7595590394fdef928ede449.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/380/",
+      "publicado_en_origen": "2014-10-02 06:11:45"
+    },
+    {
+      "id_origen": 25032,
+      "numero": 381,
+      "titulo": "Naruto Shippuden - 381",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_423b29a86cf637787d9f0ba2776f0956.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/381/",
+      "publicado_en_origen": "2014-10-09 06:05:40"
+    },
+    {
+      "id_origen": 25096,
+      "numero": 382,
+      "titulo": "Naruto Shippuden - 382",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e72f04340ba52eeb59aac43d472d1d31.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/382/",
+      "publicado_en_origen": "2014-10-16 06:08:54"
+    },
+    {
+      "id_origen": 25168,
+      "numero": 383,
+      "titulo": "Naruto Shippuden - 383",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2eed49993f93259b52fe9ad0f9d0c190.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/383/",
+      "publicado_en_origen": "2014-10-23 06:28:26"
+    },
+    {
+      "id_origen": 25237,
+      "numero": 384,
+      "titulo": "Naruto Shippuden - 384",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d6c3328aca8283a680588b4b4ea566e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/384/",
+      "publicado_en_origen": "2014-10-30 06:47:20"
+    },
+    {
+      "id_origen": 25311,
+      "numero": 385,
+      "titulo": "Naruto Shippuden - 385",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07c4e1bc5b4228901136e90dad3209a2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/385/",
+      "publicado_en_origen": "2014-11-06 06:10:37"
+    },
+    {
+      "id_origen": 25391,
+      "numero": 386,
+      "titulo": "Naruto Shippuden - 386",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9a2c061a1c2743d489c6863eae6725a.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/386/",
+      "publicado_en_origen": "2014-11-13 06:35:43"
+    },
+    {
+      "id_origen": 25505,
+      "numero": 387,
+      "titulo": "Naruto Shippuden - 387",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6084eee5942341bee5b666423d284dc.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/387/",
+      "publicado_en_origen": "2014-11-20 06:11:34"
+    },
+    {
+      "id_origen": 25583,
+      "numero": 388,
+      "titulo": "Naruto Shippuden - 388",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e18b12a82c40871803b88fa42cc1a20.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/388/",
+      "publicado_en_origen": "2014-11-27 06:27:35"
+    },
+    {
+      "id_origen": 25668,
+      "numero": 389,
+      "titulo": "Naruto Shippuden - 389",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_627f1c009880d8f375bf48ba6b8f4564.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/389/",
+      "publicado_en_origen": "2014-12-04 06:14:38"
+    },
+    {
+      "id_origen": 25670,
+      "numero": 390,
+      "titulo": "Naruto Shippuden - 390",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fffcc1a3964b4ad665fa2f07d7bfd086.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/390/",
+      "publicado_en_origen": "2014-12-04 11:06:41"
+    },
+    {
+      "id_origen": 25765,
+      "numero": 391,
+      "titulo": "Naruto Shippuden - 391",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_489df1727ce07aae5f09ca2d90ff9f74.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/391/",
+      "publicado_en_origen": "2014-12-11 06:06:54"
+    },
+    {
+      "id_origen": 25842,
+      "numero": 392,
+      "titulo": "Naruto Shippuden - 392",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a84adf6a4888bea448b8fc7d7d4ac63.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/392/",
+      "publicado_en_origen": "2014-12-18 06:08:07"
+    },
+    {
+      "id_origen": 25953,
+      "numero": 393,
+      "titulo": "Naruto Shippuden - 393",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8632be6d99d932350491c9fa87159d7.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/393/",
+      "publicado_en_origen": "2014-12-25 06:36:21"
+    },
+    {
+      "id_origen": 26330,
+      "numero": 394,
+      "titulo": "Naruto Shippuden - 394",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5dcd85b7bff48fd3578701220d13fc13.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/394/",
+      "publicado_en_origen": "2015-01-08 06:20:41"
+    },
+    {
+      "id_origen": 26388,
+      "numero": 395,
+      "titulo": "Naruto Shippuden - 395",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ca372d29d2e321e25d0a7a6458d7995.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/395/",
+      "publicado_en_origen": "2015-01-15 06:26:38"
+    },
+    {
+      "id_origen": 26443,
+      "numero": 396,
+      "titulo": "Naruto Shippuden - 396",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77596ce7097c5f353cffcc865487d9e2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/396/",
+      "publicado_en_origen": "2015-01-22 06:09:10"
+    },
+    {
+      "id_origen": 26532,
+      "numero": 397,
+      "titulo": "Naruto Shippuden - 397",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83870fb92477054676ffda84e1e22f9f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/397/",
+      "publicado_en_origen": "2015-01-29 06:06:36"
+    },
+    {
+      "id_origen": 26592,
+      "numero": 398,
+      "titulo": "Naruto Shippuden - 398",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dcf8ab5349d270f4e325d44cb463c780.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/398/",
+      "publicado_en_origen": "2015-02-05 06:09:13"
+    },
+    {
+      "id_origen": 26713,
+      "numero": 399,
+      "titulo": "Naruto Shippuden - 399",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab44339603db6b7d0ec51150f43a138d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/399/",
+      "publicado_en_origen": "2015-02-12 06:07:25"
+    },
+    {
+      "id_origen": 26775,
+      "numero": 400,
+      "titulo": "Naruto Shippuden - 400",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2948bc9a490e9251ad1c9be2bc2796cb.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/400/",
+      "publicado_en_origen": "2015-02-19 08:22:43"
+    },
+    {
+      "id_origen": 26902,
+      "numero": 401,
+      "titulo": "Naruto Shippuden - 401",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2b5d33deda893c12339b758b2975d41.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/401/",
+      "publicado_en_origen": "2015-02-26 06:09:22"
+    },
+    {
+      "id_origen": 26961,
+      "numero": 402,
+      "titulo": "Naruto Shippuden - 402",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e41576c2d63eab99e7d7209204739ce8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/402/",
+      "publicado_en_origen": "2015-03-05 06:07:28"
+    },
+    {
+      "id_origen": 27020,
+      "numero": 403,
+      "titulo": "Naruto Shippuden - 403",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9dfbed6c12d438d6c550fa1a2032135.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/403/",
+      "publicado_en_origen": "2015-03-12 06:06:59"
+    },
+    {
+      "id_origen": 27143,
+      "numero": 404,
+      "titulo": "Naruto Shippuden - 404",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5a77a8c3d8fe59ce5262af34a4d1c4b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/404/",
+      "publicado_en_origen": "2015-03-19 06:23:36"
+    },
+    {
+      "id_origen": 27229,
+      "numero": 405,
+      "titulo": "Naruto Shippuden - 405",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7200be166920d491d01df95989e20999.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/405/",
+      "publicado_en_origen": "2015-03-26 06:07:20"
+    },
+    {
+      "id_origen": 27350,
+      "numero": 406,
+      "titulo": "Naruto Shippuden - 406",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4469eee129fe5da0d3edce5404418f59.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/406/",
+      "publicado_en_origen": "2015-04-02 06:09:15"
+    },
+    {
+      "id_origen": 27423,
+      "numero": 407,
+      "titulo": "Naruto Shippuden - 407",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_732e8277feb283afe0c4703473dae5fa.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/407/",
+      "publicado_en_origen": "2015-04-09 06:07:39"
+    },
+    {
+      "id_origen": 27489,
+      "numero": 408,
+      "titulo": "Naruto Shippuden - 408",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44fa07418c5653af898002db3298a9b7.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/408/",
+      "publicado_en_origen": "2015-04-16 06:07:26"
+    },
+    {
+      "id_origen": 27559,
+      "numero": 409,
+      "titulo": "Naruto Shippuden - 409",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00b546d495d29ea025af220831ceee42.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/409/",
+      "publicado_en_origen": "2015-04-23 06:22:12"
+    },
+    {
+      "id_origen": 27625,
+      "numero": 410,
+      "titulo": "Naruto Shippuden - 410",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bc8e183d66e91b1282955588fe864eb.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/410/",
+      "publicado_en_origen": "2015-04-30 06:07:47"
+    },
+    {
+      "id_origen": 27687,
+      "numero": 411,
+      "titulo": "Naruto Shippuden - 411",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f08d74ee6a96a4f5240dc4051c2fb85.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/411/",
+      "publicado_en_origen": "2015-05-07 06:13:10"
+    },
+    {
+      "id_origen": 27746,
+      "numero": 412,
+      "titulo": "Naruto Shippuden - 412",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9248afa3ae57517509334eae846760a2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/412/",
+      "publicado_en_origen": "2015-05-14 06:08:08"
+    },
+    {
+      "id_origen": 27812,
+      "numero": 413,
+      "titulo": "Naruto Shippuden - 413",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9729c9467900e712f46044a2e54da67f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/413/",
+      "publicado_en_origen": "2015-05-21 06:09:24"
+    },
+    {
+      "id_origen": 27878,
+      "numero": 414,
+      "titulo": "Naruto Shippuden - 414",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a2d84630e650155dd3f0d107c9794a9.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/414/",
+      "publicado_en_origen": "2015-05-28 06:08:03"
+    },
+    {
+      "id_origen": 27940,
+      "numero": 415,
+      "titulo": "Naruto Shippuden - 415",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7269f62ac39734ee9cfb1d0bd72cb06.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/415/",
+      "publicado_en_origen": "2015-06-04 06:26:01"
+    },
+    {
+      "id_origen": 28054,
+      "numero": 416,
+      "titulo": "Naruto Shippuden - 416",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_761067fbba1d6ef159173bfb8109abc2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/416/",
+      "publicado_en_origen": "2015-06-11 06:12:08"
+    },
+    {
+      "id_origen": 28549,
+      "numero": 417,
+      "titulo": "Naruto Shippuden - 417",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_254b00246ff13114a7de70544c0d3b84.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/417/",
+      "publicado_en_origen": "2015-06-25 06:18:14"
+    },
+    {
+      "id_origen": 28600,
+      "numero": 418,
+      "titulo": "Naruto Shippuden - 418",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_816d385f9dfa8b6e2f3637f77b97ac9c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/418/",
+      "publicado_en_origen": "2015-07-02 08:18:46"
+    },
+    {
+      "id_origen": 28662,
+      "numero": 419,
+      "titulo": "Naruto Shippuden - 419",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdccddea8522e14b9d8a41551d9256fa.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/419/",
+      "publicado_en_origen": "2015-07-09 06:08:03"
+    },
+    {
+      "id_origen": 28794,
+      "numero": 420,
+      "titulo": "Naruto Shippuden - 420",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73398af676fbda475d5889a112c629b9.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/420/",
+      "publicado_en_origen": "2015-07-23 06:09:23"
+    },
+    {
+      "id_origen": 28859,
+      "numero": 421,
+      "titulo": "Naruto Shippuden - 421",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_604b5d386ba726e7e2233a1619364eef.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/421/",
+      "publicado_en_origen": "2015-07-30 06:08:20"
+    },
+    {
+      "id_origen": 28925,
+      "numero": 422,
+      "titulo": "Naruto Shippuden - 422",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47f85c5f8a98f293c9a687412f78cc6f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/422/",
+      "publicado_en_origen": "2015-08-06 06:21:35"
+    },
+    {
+      "id_origen": 28926,
+      "numero": 423,
+      "titulo": "Naruto Shippuden - 423",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9abec5e32203998211653b45023be1c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/423/",
+      "publicado_en_origen": "2015-08-06 06:27:24"
+    },
+    {
+      "id_origen": 28984,
+      "numero": 424,
+      "titulo": "Naruto Shippuden - 424",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_133cc6b5565f9a47831eeea9854a29a2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/424/",
+      "publicado_en_origen": "2015-08-13 06:09:38"
+    },
+    {
+      "id_origen": 29049,
+      "numero": 425,
+      "titulo": "Naruto Shippuden - 425",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58be01aa723db6569480940d2c1fde3d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/425/",
+      "publicado_en_origen": "2015-08-20 06:07:43"
+    },
+    {
+      "id_origen": 29120,
+      "numero": 426,
+      "titulo": "Naruto Shippuden - 426",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0755c8792bb4f2feb8e226f3d46876d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/426/",
+      "publicado_en_origen": "2015-08-27 06:12:47"
+    },
+    {
+      "id_origen": 29191,
+      "numero": 427,
+      "titulo": "Naruto Shippuden - 427",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51540863fba76ac6cb10eded0ff9ef7b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/427/",
+      "publicado_en_origen": "2015-09-03 06:51:53"
+    },
+    {
+      "id_origen": 29192,
+      "numero": 428,
+      "titulo": "Naruto Shippuden - 428",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08e2a4841034bfece69231fbe32278a9.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/428/",
+      "publicado_en_origen": "2015-09-03 07:01:03"
+    },
+    {
+      "id_origen": 29321,
+      "numero": 429,
+      "titulo": "Naruto Shippuden - 429",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d44eb268a656ba8bf731a62eb9156af.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/429/",
+      "publicado_en_origen": "2015-09-10 06:10:57"
+    },
+    {
+      "id_origen": 29576,
+      "numero": 430,
+      "titulo": "Naruto Shippuden - 430",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43e8ab73ce9890e4e041d2db5fd36999.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/430/",
+      "publicado_en_origen": "2015-09-17 06:16:53"
+    },
+    {
+      "id_origen": 29643,
+      "numero": 431,
+      "titulo": "Naruto Shippuden - 431",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8e0a5cf600594ec60296c205af805e7.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/431/",
+      "publicado_en_origen": "2015-09-24 06:08:23"
+    },
+    {
+      "id_origen": 29684,
+      "numero": 432,
+      "titulo": "Naruto Shippuden - 432",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb077228f548ccff0e6bfd4b060c97b5.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/432/",
+      "publicado_en_origen": "2015-10-01 06:06:04"
+    },
+    {
+      "id_origen": 29748,
+      "numero": 433,
+      "titulo": "Naruto Shippuden - 433",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4b9f0e707aed5a52241d458a2910705.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/433/",
+      "publicado_en_origen": "2015-10-08 06:05:57"
+    },
+    {
+      "id_origen": 29813,
+      "numero": 434,
+      "titulo": "Naruto Shippuden - 434",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fd1df658a0a3d7f385185db7c9c5029.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/434/",
+      "publicado_en_origen": "2015-10-15 06:08:03"
+    },
+    {
+      "id_origen": 29876,
+      "numero": 435,
+      "titulo": "Naruto Shippuden - 435",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf4f35ee546a6d8fe9461b8db8a8200a.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/435/",
+      "publicado_en_origen": "2015-10-22 06:06:19"
+    },
+    {
+      "id_origen": 30002,
+      "numero": 436,
+      "titulo": "Naruto Shippuden - 436",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_705e2dd2077bc06fbc5e2c754e75e500.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/436/",
+      "publicado_en_origen": "2015-11-05 08:27:10"
+    },
+    {
+      "id_origen": 30057,
+      "numero": 437,
+      "titulo": "Naruto Shippuden - 437",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9614aeb0d542c581cbae2fe2832f236.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/437/",
+      "publicado_en_origen": "2015-11-12 06:39:20"
+    },
+    {
+      "id_origen": 30116,
+      "numero": 438,
+      "titulo": "Naruto Shippuden - 438",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_082a1d41243d3f37ae65ba1c9d0e2b57.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/438/",
+      "publicado_en_origen": "2015-11-19 06:06:37"
+    },
+    {
+      "id_origen": 30181,
+      "numero": 439,
+      "titulo": "Naruto Shippuden - 439",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e02476ced92efdc385c3fca2c0de05fd.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/439/",
+      "publicado_en_origen": "2015-11-26 06:48:47"
+    },
+    {
+      "id_origen": 30243,
+      "numero": 440,
+      "titulo": "Naruto Shippuden - 440",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_630571ee8e61fb9efaa9786a9de27353.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/440/",
+      "publicado_en_origen": "2015-12-03 06:31:43"
+    },
+    {
+      "id_origen": 30304,
+      "numero": 441,
+      "titulo": "Naruto Shippuden - 441",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cde1d59c5e9400b69a4854735d590888.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/441/",
+      "publicado_en_origen": "2015-12-10 06:21:01"
+    },
+    {
+      "id_origen": 30364,
+      "numero": 442,
+      "titulo": "Naruto Shippuden - 442",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb77fa236d1bb1ce3973d53b8576c3eb.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/442/",
+      "publicado_en_origen": "2015-12-17 08:55:00"
+    },
+    {
+      "id_origen": 30425,
+      "numero": 443,
+      "titulo": "Naruto Shippuden - 443",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70eda27f928a7e344906d5bb973b0fb4.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/443/",
+      "publicado_en_origen": "2015-12-24 11:42:11"
+    },
+    {
+      "id_origen": 30557,
+      "numero": 444,
+      "titulo": "Naruto Shippuden - 444",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a2fa3b60557d9f5bc28871dc6d4c6d9.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/444/",
+      "publicado_en_origen": "2016-01-14 09:00:35"
+    },
+    {
+      "id_origen": 30617,
+      "numero": 445,
+      "titulo": "Naruto Shippuden - 445",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b5fad0d3a729d65ebfec0ec9f536fac.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/445/",
+      "publicado_en_origen": "2016-01-21 11:08:41"
+    },
+    {
+      "id_origen": 30680,
+      "numero": 446,
+      "titulo": "Naruto Shippuden - 446",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a35c2cf55c09b79ef3d5b359f0a2cb91.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/446/",
+      "publicado_en_origen": "2016-01-28 09:34:51"
+    },
+    {
+      "id_origen": 30752,
+      "numero": 447,
+      "titulo": "Naruto Shippuden - 447",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bbb81c5243f560caa9ed2c8865efa99.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/447/",
+      "publicado_en_origen": "2016-02-05 15:41:30"
+    },
+    {
+      "id_origen": 30805,
+      "numero": 448,
+      "titulo": "Naruto Shippuden - 448",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3340d90f2875506693f0c0a8e693be86.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/448/",
+      "publicado_en_origen": "2016-02-11 13:38:13"
+    },
+    {
+      "id_origen": 30860,
+      "numero": 449,
+      "titulo": "Naruto Shippuden - 449",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1baba510b5b8db4473eb73e7b9784b20.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/449/",
+      "publicado_en_origen": "2016-02-18 13:38:56"
+    },
+    {
+      "id_origen": 30922,
+      "numero": 450,
+      "titulo": "Naruto Shippuden - 450",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f6d017d3e728b057bcc082a7db75a57.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/450/",
+      "publicado_en_origen": "2016-02-25 14:08:01"
+    },
+    {
+      "id_origen": 30992,
+      "numero": 451,
+      "titulo": "Naruto Shippuden - 451",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d62c2838344637ce8ad67f74ed98c45a.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/451/",
+      "publicado_en_origen": "2016-03-03 11:54:43"
+    },
+    {
+      "id_origen": 31066,
+      "numero": 452,
+      "titulo": "Naruto Shippuden - 452",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e5238f97bcf5cbfe605cdbed7f4e26d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/452/",
+      "publicado_en_origen": "2016-03-10 11:36:34"
+    },
+    {
+      "id_origen": 31126,
+      "numero": 453,
+      "titulo": "Naruto Shippuden - 453",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfcefed6ef9db2e3453b7aad610c6515.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/453/",
+      "publicado_en_origen": "2016-03-17 12:43:42"
+    },
+    {
+      "id_origen": 31186,
+      "numero": 454,
+      "titulo": "Naruto Shippuden - 454",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6784ac07a6aeb1433c961ace509971d0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/454/",
+      "publicado_en_origen": "2016-03-24 11:40:09"
+    },
+    {
+      "id_origen": 31292,
+      "numero": 455,
+      "titulo": "Naruto Shippuden - 455",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d64991fabf71644c5859e7a54ff1e716.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/455/",
+      "publicado_en_origen": "2016-04-07 09:54:39"
+    },
+    {
+      "id_origen": 31344,
+      "numero": 456,
+      "titulo": "Naruto Shippuden - 456",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_886551d6661c7e64f03ecdc16f7eae8b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/456/",
+      "publicado_en_origen": "2016-04-14 12:25:58"
+    },
+    {
+      "id_origen": 31394,
+      "numero": 457,
+      "titulo": "Naruto Shippuden - 457",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f4a21d571adbe663374dbe676987dbc.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/457/",
+      "publicado_en_origen": "2016-04-21 10:28:01"
+    },
+    {
+      "id_origen": 31447,
+      "numero": 458,
+      "titulo": "Naruto Shippuden - 458",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be1fe5a4cbad9fd763db5aaedf0ec611.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/458/",
+      "publicado_en_origen": "2016-04-28 13:12:12"
+    },
+    {
+      "id_origen": 31502,
+      "numero": 459,
+      "titulo": "Naruto Shippuden - 459",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a64ba6b57592efd39bc6b27cdc61f57.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/459/",
+      "publicado_en_origen": "2016-05-05 12:38:26"
+    },
+    {
+      "id_origen": 31556,
+      "numero": 460,
+      "titulo": "Naruto Shippuden - 460",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fea28ef7d3972ac74f26af5dc2472a8.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/460/",
+      "publicado_en_origen": "2016-05-12 09:46:48"
+    },
+    {
+      "id_origen": 31610,
+      "numero": 461,
+      "titulo": "Naruto Shippuden - 461",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_729fbaf01455353285fd43871be6ebb7.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/461/",
+      "publicado_en_origen": "2016-05-19 09:38:24"
+    },
+    {
+      "id_origen": 31665,
+      "numero": 462,
+      "titulo": "Naruto Shippuden - 462",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a56a7fdcd92b1520a3508d47cb5adbb.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/462/",
+      "publicado_en_origen": "2016-05-26 09:47:51"
+    },
+    {
+      "id_origen": 31719,
+      "numero": 463,
+      "titulo": "Naruto Shippuden - 463",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4493a8d38776f690a0b661af37a30cfe.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/463/",
+      "publicado_en_origen": "2016-06-02 09:54:37"
+    },
+    {
+      "id_origen": 31771,
+      "numero": 464,
+      "titulo": "Naruto Shippuden - 464",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d5d697ea9ea179f7633708d5478c28f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/464/",
+      "publicado_en_origen": "2016-06-09 09:56:49"
+    },
+    {
+      "id_origen": 31826,
+      "numero": 465,
+      "titulo": "Naruto Shippuden - 465",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e0a4d112e3f40b8f6decb2a7c365f91.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/465/",
+      "publicado_en_origen": "2016-06-16 13:11:12"
+    },
+    {
+      "id_origen": 31919,
+      "numero": 466,
+      "titulo": "Naruto Shippuden - 466",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b32ea661205e379f9457cb730f76413d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/466/",
+      "publicado_en_origen": "2016-06-30 09:40:33"
+    },
+    {
+      "id_origen": 32237,
+      "numero": 467,
+      "titulo": "Naruto Shippuden - 467",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d802a3e63c700493242d9d104389c7df.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/467/",
+      "publicado_en_origen": "2016-07-07 09:41:49"
+    },
+    {
+      "id_origen": 32350,
+      "numero": 468,
+      "titulo": "Naruto Shippuden - 468",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f945d34e708a2a6a192697de248fd77.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/468/",
+      "publicado_en_origen": "2016-07-21 09:52:34"
+    },
+    {
+      "id_origen": 32406,
+      "numero": 469,
+      "titulo": "Naruto Shippuden - 469",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50ff2b95b8b53b5f12b4dd19575edf62.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/469/",
+      "publicado_en_origen": "2016-07-28 10:00:31"
+    },
+    {
+      "id_origen": 32464,
+      "numero": 470,
+      "titulo": "Naruto Shippuden - 470",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c9fd755f1e941587cabab631a81f89e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/470/",
+      "publicado_en_origen": "2016-08-04 09:47:52"
+    },
+    {
+      "id_origen": 32519,
+      "numero": 471,
+      "titulo": "Naruto Shippuden - 471",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e07b8256ccd2356be4cc9c07fc5e739.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/471/",
+      "publicado_en_origen": "2016-08-11 10:57:01"
+    },
+    {
+      "id_origen": 32571,
+      "numero": 472,
+      "titulo": "Naruto Shippuden - 472",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13e4cde78ea68b1ca7e7c195ec5ba25e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/472/",
+      "publicado_en_origen": "2016-08-18 09:47:30"
+    },
+    {
+      "id_origen": 32626,
+      "numero": 473,
+      "titulo": "Naruto Shippuden - 473",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a6a609a5ef03909b9297f07351739b2.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/473/",
+      "publicado_en_origen": "2016-08-25 09:50:09"
+    },
+    {
+      "id_origen": 32679,
+      "numero": 474,
+      "titulo": "Naruto Shippuden - 474",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db17bc578c383f5bb0cb9be70c42331c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/474/",
+      "publicado_en_origen": "2016-09-01 09:54:35"
+    },
+    {
+      "id_origen": 32734,
+      "numero": 475,
+      "titulo": "Naruto Shippuden - 475",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18bf4a47d5777efe47c421645d19f2f1.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/475/",
+      "publicado_en_origen": "2016-09-08 09:50:33"
+    },
+    {
+      "id_origen": 32895,
+      "numero": 476,
+      "titulo": "Naruto Shippuden - 476",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c2dccff2cb6e946fb068f6b604ea868.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/476/",
+      "publicado_en_origen": "2016-09-29 09:38:50"
+    },
+    {
+      "id_origen": 32896,
+      "numero": 477,
+      "titulo": "Naruto Shippuden - 477",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8cd71b7b469f15bd03947f8493a7259.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/477/",
+      "publicado_en_origen": "2016-09-29 10:07:14"
+    },
+    {
+      "id_origen": 32965,
+      "numero": 478,
+      "titulo": "Naruto Shippuden - 478",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42799134f1278558546a42770711ed62.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/478/",
+      "publicado_en_origen": "2016-10-06 09:42:48"
+    },
+    {
+      "id_origen": 33032,
+      "numero": 479,
+      "titulo": "Naruto Shippuden - 479",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad2c9e0a9c46d5f3de817714c17d64cd.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/479/",
+      "publicado_en_origen": "2016-10-13 09:42:02"
+    },
+    {
+      "id_origen": 33100,
+      "numero": 480,
+      "titulo": "Naruto Shippuden - 480",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b1b6d2fdf573b01058f16f6e398b69c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/480/",
+      "publicado_en_origen": "2016-10-20 12:00:23"
+    },
+    {
+      "id_origen": 33166,
+      "numero": 481,
+      "titulo": "Naruto Shippuden - 481",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9c72b87254f0b30ae977c99e10b729e.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/481/",
+      "publicado_en_origen": "2016-10-27 10:44:46"
+    },
+    {
+      "id_origen": 33237,
+      "numero": 482,
+      "titulo": "Naruto Shippuden - 482",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb0b5f1330d14a551aac833db0baf14c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/482/",
+      "publicado_en_origen": "2016-11-03 09:36:22"
+    },
+    {
+      "id_origen": 33305,
+      "numero": 483,
+      "titulo": "Naruto Shippuden - 483",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2561e23fb2d5dae50b0ce6c62959fed.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/483/",
+      "publicado_en_origen": "2016-11-10 09:37:40"
+    },
+    {
+      "id_origen": 33515,
+      "numero": 484,
+      "titulo": "Naruto Shippuden - 484",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2c2fc5ac884cfbbf3f384adbacf2195.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/484/",
+      "publicado_en_origen": "2016-12-01 09:53:23"
+    },
+    {
+      "id_origen": 33586,
+      "numero": 485,
+      "titulo": "Naruto Shippuden - 485",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bfe9bbb5c6f3e338caea40379659556.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/485/",
+      "publicado_en_origen": "2016-12-08 09:43:15"
+    },
+    {
+      "id_origen": 33656,
+      "numero": 486,
+      "titulo": "Naruto Shippuden - 486",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc70227a7d9df5f27f0e78c82ad7099d.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/486/",
+      "publicado_en_origen": "2016-12-15 10:49:07"
+    },
+    {
+      "id_origen": 33731,
+      "numero": 487,
+      "titulo": "Naruto Shippuden - 487",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c226e712430372111f4fe3244742466.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/487/",
+      "publicado_en_origen": "2016-12-22 10:27:18"
+    },
+    {
+      "id_origen": 33783,
+      "numero": 488,
+      "titulo": "Naruto Shippuden - 488",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_402dd25bdc2170ee2912e503f8df9e2f.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/488/",
+      "publicado_en_origen": "2017-01-05 09:46:22"
+    },
+    {
+      "id_origen": 33832,
+      "numero": 489,
+      "titulo": "Naruto Shippuden - 489",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6112307fe321db79a00e9632a8b87cd.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/489/",
+      "publicado_en_origen": "2017-01-12 11:31:22"
+    },
+    {
+      "id_origen": 33889,
+      "numero": 490,
+      "titulo": "Naruto Shippuden - 490",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2528242a42d15858f02248a1fd475db9.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/490/",
+      "publicado_en_origen": "2017-01-19 09:44:28"
+    },
+    {
+      "id_origen": 33945,
+      "numero": 491,
+      "titulo": "Naruto Shippuden - 491",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1677f67c9e0342b5dd4dd69762a0c43.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/491/",
+      "publicado_en_origen": "2017-01-26 12:35:15"
+    },
+    {
+      "id_origen": 34002,
+      "numero": 492,
+      "titulo": "Naruto Shippuden - 492",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d748a600fe89a6abd01b174e8d2eb35c.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/492/",
+      "publicado_en_origen": "2017-02-02 09:38:26"
+    },
+    {
+      "id_origen": 34058,
+      "numero": 493,
+      "titulo": "Naruto Shippuden - 493",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2bbb828c54d598a0afa0c992b0d9a4b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/493/",
+      "publicado_en_origen": "2017-02-09 10:59:11"
+    },
+    {
+      "id_origen": 34114,
+      "numero": 494,
+      "titulo": "Naruto Shippuden - 494",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48a0fbc23cf60d3a99d3e4e233243fa0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/494/",
+      "publicado_en_origen": "2017-02-16 09:48:08"
+    },
+    {
+      "id_origen": 34115,
+      "numero": 495,
+      "titulo": "Naruto Shippuden - 495",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6734cf968bed6b1fb2bd1b6166becf0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/495/",
+      "publicado_en_origen": "2017-02-16 10:05:45"
+    },
+    {
+      "id_origen": 34168,
+      "numero": 496,
+      "titulo": "Naruto Shippuden - 496",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b159f0c33071ee7811ca65a505be650.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/496/",
+      "publicado_en_origen": "2017-02-23 09:44:24"
+    },
+    {
+      "id_origen": 34234,
+      "numero": 497,
+      "titulo": "Naruto Shippuden - 497",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e5e839681f3afe608d1555c1c698efe.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/497/",
+      "publicado_en_origen": "2017-03-02 09:54:34"
+    },
+    {
+      "id_origen": 34290,
+      "numero": 498,
+      "titulo": "Naruto Shippuden - 498",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7baa3894c1163d4ecd5acc9b4cda2c4a.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/498/",
+      "publicado_en_origen": "2017-03-09 10:04:33"
+    },
+    {
+      "id_origen": 34347,
+      "numero": 499,
+      "titulo": "Naruto Shippuden - 499",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81282cfb8f54dd1988c4f87dbc903c2b.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/499/",
+      "publicado_en_origen": "2017-03-16 09:46:34"
+    },
+    {
+      "id_origen": 34399,
+      "numero": 500,
+      "titulo": "Naruto Shippuden - 500",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffe640179b554e295c167a2f6be528e0.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuden/500/",
+      "publicado_en_origen": "2017-03-23 09:42:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "142",
+  "cantidad_episodios_declarada": 500,
+  "detalle_extraido_en": "2026-08-26T18:40:17+00:00"
+}

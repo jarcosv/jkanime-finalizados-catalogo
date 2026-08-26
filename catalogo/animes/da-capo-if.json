@@ -1,0 +1,37 @@
+{
+  "id_origen": 752,
+  "slug": "da-capo-if",
+  "titulo": "Da Capo If",
+  "titulo_corto": "Da Capo If",
+  "sinopsis": "La protagonista, Kotori Shirakawa, la cantante que ya hacía presencia en la primera temporada de la serie. Es un final alternativo de DA CAPO de la primera temporada, donde aparentemente el principal cambio es la muerte de Miharu.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/da-capo-if.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/da-capo-if/",
+  "episodios": [
+    {
+      "id_origen": 18942,
+      "numero": 1,
+      "titulo": "Da Capo If - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94febc12ef3e7fc6326a0a43d4f930c5.jpg",
+      "url_origen": "https://jkanime.net/da-capo-if/1/",
+      "publicado_en_origen": "2013-01-06 06:04:28"
+    },
+    {
+      "id_origen": 18943,
+      "numero": 2,
+      "titulo": "Da Capo If - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09dbda0ec297f8e1fb8fa397efd0f70a.jpg",
+      "url_origen": "https://jkanime.net/da-capo-if/2/",
+      "publicado_en_origen": "2013-01-06 06:04:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:23+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "752",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:24:12+00:00"
+}

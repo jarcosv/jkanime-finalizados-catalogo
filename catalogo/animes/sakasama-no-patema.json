@@ -1,0 +1,29 @@
+{
+  "id_origen": 1153,
+  "slug": "sakasama-no-patema",
+  "titulo": "Sakasama no Patema",
+  "titulo_corto": "Sakasama no Patema",
+  "sinopsis": "En un mundo subterráneo donde los túneles se extienden por todas partes, a pesar de que viven en espacios oscuros y cerrados, la gente usa ropa de protección y una vida tranquila y agradable de plomo. Patema, una princesa en su pueblo bajo tierra, le encanta explorar los túneles. Su lugar favorito es una \"zona de peligro\" de que su aldea prohíbe a personas que entren. A pesar de que es regañada, la curiosidad de patema no puede detenerse. Nadie explicó cuál era el supuesto peligro. En su viaje habitual a la \"zona de peligro\" patema se enfrenta a acontecimientos inesperados. Cuando secretos ocultos salen a la luz, la historia comienza a desarrollarse.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sakasama-no-patema.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sakasama-no-patema/",
+  "episodios": [
+    {
+      "id_origen": 23527,
+      "numero": 1,
+      "titulo": "Sakasama no Patema",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2359f5172ec627d63d5300edae411bb0.jpg",
+      "url_origen": "https://jkanime.net/sakasama-no-patema/1/",
+      "publicado_en_origen": "2014-05-19 20:27:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1153",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:44:49+00:00"
+}

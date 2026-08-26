@@ -1,0 +1,29 @@
+{
+  "id_origen": 4846,
+  "slug": "ghost-in-the-shell",
+  "titulo": "Ghost in the Shell",
+  "titulo_corto": "Ghost in the Shell",
+  "sinopsis": "En el año 2029, la ciudad de Niihama se ha convertido en una metrópolis tecnológicamente avanzada. Gracias a los grandes avances en cibernética, sus ciudadanos pueden sustituir sus extremidades por piezas robóticas. El mundo está ahora más interconectado que nunca, y la Sección 9 de Seguridad Pública de la ciudad se encarga de combatir la corrupción, el terrorismo y otras amenazas peligrosas derivadas de este cambio hacia la globalización.\r\n\r\nLa tenaz comandante Motoko Kusanagi, de la Sección 9, encabeza un caso relacionado con un misterioso hacker conocido únicamente como el «Maestro de las Marionetas», que deja tras de sí un rastro de víctimas despojadas de sus recuerdos. Al igual que muchos en este mundo futurista, el cuerpo del Maestro de las Marionetas es casi totalmente robótico, lo que le confiere un poder increíble.\r\n\r\nMientras Motoko y sus subordinados siguen el rastro del enigmático criminal, otras partes —incluida la Sección 6— comienzan a involucrarse, lo que la obliga a enfrentarse a la naturaleza extremadamente complicada del caso. Al reflexionar sobre diversas cuestiones filosóficas, como el sentido de su propia vida, Motoko pronto se da cuenta de que quien le dará estas respuestas no es otro que el propio Puppet Master.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ghost-in-the-shell.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ghost-in-the-shell/",
+  "episodios": [
+    {
+      "id_origen": 74755,
+      "numero": 1,
+      "titulo": "Ghost in the Shell",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4873e86cdd0549f3de6eb43247c33df.jpg",
+      "url_origen": "https://jkanime.net/ghost-in-the-shell/1/",
+      "publicado_en_origen": "2026-07-02 15:11:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4846",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:28:09+00:00"
+}

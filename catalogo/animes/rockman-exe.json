@@ -1,0 +1,469 @@
+{
+  "id_origen": 4896,
+  "slug": "rockman-exe",
+  "titulo": "Rockman EXE",
+  "titulo_corto": "Rockman EXE",
+  "sinopsis": "En el año 20XX, un niño llamado Netto Hikari recibe un regalo muy especial al empezar 5.º de primaria: ¡su propio net navi personalizado, Rockman! A pesar del pequeño tamaño de Rockman y de su personalidad mucho más responsable, los dos chicos se convierten rápidamente en los mejores amigos. Un net navi está diseñado para guiar a su operador desde el interior de su Terminal Personal, o simplemente PET, por sus siglas en inglés. Tanto niños como adultos disfrutan de amistosas «batallas en la red», en las que enfrentan a sus navis entre sí para demostrar su valía.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rockman-exe.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/rockman-exe/",
+  "episodios": [
+    {
+      "id_origen": 75842,
+      "numero": 1,
+      "titulo": "Rockman.EXE - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2a1c93b6924d9321e1e1b9138001991.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/1/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75843,
+      "numero": 2,
+      "titulo": "Rockman.EXE - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb1aa885787964ce16d313d651e18a36.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/2/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75844,
+      "numero": 3,
+      "titulo": "Rockman.EXE - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3878c86ab084bea8d123550c35604b3.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/3/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75845,
+      "numero": 4,
+      "titulo": "Rockman.EXE - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c5581fdcfe58574a96495893fe5022d.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/4/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75846,
+      "numero": 5,
+      "titulo": "Rockman.EXE - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a36717fb77292751b30b47744e212e29.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/5/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75847,
+      "numero": 6,
+      "titulo": "Rockman.EXE - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_310063e54a39f351b9de6614363b41d7.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/6/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75848,
+      "numero": 7,
+      "titulo": "Rockman.EXE - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_255339e8da6fe61a78cf7db00e0f65c2.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/7/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75849,
+      "numero": 8,
+      "titulo": "Rockman.EXE - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a4ce0c1ba4c1df9294d24ea51afe81b.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/8/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75850,
+      "numero": 9,
+      "titulo": "Rockman.EXE - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_011fafd491cbb8200ca57c6b9faabf5e.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/9/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75851,
+      "numero": 10,
+      "titulo": "Rockman.EXE - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_631bef0a700efb9cdc777ece723b07b8.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/10/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75852,
+      "numero": 11,
+      "titulo": "Rockman.EXE - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd587e956de8bb15124f454b7cd01d87.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/11/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75853,
+      "numero": 12,
+      "titulo": "Rockman.EXE - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94f0a1faf5efc68e885f25fd821be44d.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/12/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75854,
+      "numero": 13,
+      "titulo": "Rockman.EXE - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b80442b8c0fa4df476e9c6387a0ae6e.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/13/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75855,
+      "numero": 14,
+      "titulo": "Rockman.EXE - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b5f9bea4029ac79015290a760ff2dd1.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/14/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75856,
+      "numero": 15,
+      "titulo": "Rockman.EXE - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed4466588051b9c03523a400320ee989.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/15/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75857,
+      "numero": 16,
+      "titulo": "Rockman.EXE - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6a15d6dcdddee5e95fe0dbc818a0a20.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/16/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75858,
+      "numero": 17,
+      "titulo": "Rockman.EXE - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_446660c916b4bfaa416fd9967ebd8a27.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/17/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75859,
+      "numero": 18,
+      "titulo": "Rockman.EXE - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b84225feaf4e96e98bc5f289cac69d8d.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/18/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75860,
+      "numero": 19,
+      "titulo": "Rockman.EXE - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad896582b6b5d5903f3bf19b40c44a87.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/19/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75861,
+      "numero": 20,
+      "titulo": "Rockman.EXE - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_719df02b215e888d73388157ed7eed7f.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/20/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75862,
+      "numero": 21,
+      "titulo": "Rockman.EXE - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97882ccf59e4d8646b548fe1c87c776d.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/21/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75863,
+      "numero": 22,
+      "titulo": "Rockman.EXE - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab7bc51ec95c19e36bcf1e3ce73a283f.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/22/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75864,
+      "numero": 23,
+      "titulo": "Rockman.EXE - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03fd0470bd724674744ab4e5f2e0a2b6.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/23/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75865,
+      "numero": 24,
+      "titulo": "Rockman.EXE - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f6d156276c9f5e2ae05033c58b36a72.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/24/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75866,
+      "numero": 25,
+      "titulo": "Rockman.EXE - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59570c79e3e4891db318e55799e2ae61.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/25/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75867,
+      "numero": 26,
+      "titulo": "Rockman.EXE - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2816e0aebb20b22af7e21f5fbd8b3d14.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/26/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75868,
+      "numero": 27,
+      "titulo": "Rockman.EXE - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df6b441adb5d6f3cfff4c91de4557102.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/27/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75869,
+      "numero": 28,
+      "titulo": "Rockman.EXE - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06ac6269a76bf4304463019caa0620e3.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/28/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75870,
+      "numero": 29,
+      "titulo": "Rockman.EXE - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91ca958fce6db5c0368d8bce87e5f0e8.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/29/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75871,
+      "numero": 30,
+      "titulo": "Rockman.EXE - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3939746b442578f8dff8559f19458b8.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/30/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75872,
+      "numero": 31,
+      "titulo": "Rockman.EXE - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9593ac870df32e4ecd1afedcff87635d.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/31/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75873,
+      "numero": 32,
+      "titulo": "Rockman.EXE - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef7a977b240e659f474105792f38e21b.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/32/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75874,
+      "numero": 33,
+      "titulo": "Rockman.EXE - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d897baf32eef86b7cfd992d97e06ec11.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/33/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75875,
+      "numero": 34,
+      "titulo": "Rockman.EXE - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2eafc68856fb1a0d334e7756e0ba75b.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/34/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75876,
+      "numero": 35,
+      "titulo": "Rockman.EXE - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9870c7640dc42a695919b1d6a6ace344.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/35/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75877,
+      "numero": 36,
+      "titulo": "Rockman.EXE - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06ccd055a1d2f5ae849fa2f7fa6ad22f.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/36/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75878,
+      "numero": 37,
+      "titulo": "Rockman.EXE - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_410704cd29cef5038c7abbe1f2aa3787.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/37/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75879,
+      "numero": 38,
+      "titulo": "Rockman.EXE - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90ae9e87591d17e76a9c4a5f6d1e9ddf.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/38/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75880,
+      "numero": 39,
+      "titulo": "Rockman.EXE - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6f2a4ef0411969e4ef85ad315b2dcb2.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/39/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75881,
+      "numero": 40,
+      "titulo": "Rockman.EXE - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8996af94d15b4d795845f9f4a0918212.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/40/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75882,
+      "numero": 41,
+      "titulo": "Rockman.EXE - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7621fffe4fbfcafaaf31bcf603da97bc.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/41/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75883,
+      "numero": 42,
+      "titulo": "Rockman.EXE - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_505a87fa4be082af711e2bdf1e5d1d0a.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/42/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75884,
+      "numero": 43,
+      "titulo": "Rockman.EXE - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_517eae79e9213185e676287b80c57fa2.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/43/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75885,
+      "numero": 44,
+      "titulo": "Rockman.EXE - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0ea51f734bb1a3152346e04c197c7aa.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/44/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75886,
+      "numero": 45,
+      "titulo": "Rockman.EXE - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3897b6f840263e0b14a04f033c6233f.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/45/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75887,
+      "numero": 46,
+      "titulo": "Rockman.EXE - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d668c7559a55002ce1c12e242e2fd29.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/46/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75888,
+      "numero": 47,
+      "titulo": "Rockman.EXE - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1134d2c48fad714d6eca5a87236988e7.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/47/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75889,
+      "numero": 48,
+      "titulo": "Rockman.EXE - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_593e9c06eebbb6126f067369d0d78c2f.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/48/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75890,
+      "numero": 49,
+      "titulo": "Rockman.EXE - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3629b0376ad07dbba82cb46b7d4c44eb.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/49/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75891,
+      "numero": 50,
+      "titulo": "Rockman.EXE - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08ed88b2bb4d603101cbf5939501351a.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/50/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75892,
+      "numero": 51,
+      "titulo": "Rockman.EXE - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28336e46b32b3a69f613033d19930edc.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/51/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75893,
+      "numero": 52,
+      "titulo": "Rockman.EXE - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_477aa5d8c77df1284b9fbe3747cfa345.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/52/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75894,
+      "numero": 53,
+      "titulo": "Rockman.EXE - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b3bddfb9acdb4cf3967814147a180cb.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/53/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75895,
+      "numero": 54,
+      "titulo": "Rockman.EXE - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cce7e78a6bbdb89e2d95decfa37fafa5.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/54/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75896,
+      "numero": 55,
+      "titulo": "Rockman.EXE - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe519ddd99fb3a1513d9e98a01962c49.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/55/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    },
+    {
+      "id_origen": 75897,
+      "numero": 56,
+      "titulo": "Rockman.EXE - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09c03f077bd89641d9ce900b91e031b5.jpg",
+      "url_origen": "https://jkanime.net/rockman-exe/56/",
+      "publicado_en_origen": "2026-08-01 13:20:44"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4896",
+  "cantidad_episodios_declarada": 56,
+  "detalle_extraido_en": "2026-08-26T18:44:03+00:00"
+}

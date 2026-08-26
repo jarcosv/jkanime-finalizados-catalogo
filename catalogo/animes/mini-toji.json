@@ -1,0 +1,109 @@
+{
+  "id_origen": 2336,
+  "slug": "mini-toji",
+  "titulo": "Mini Toji",
+  "titulo_corto": "Mini Toji",
+  "sinopsis": "¿Estas chicas tienen que pelear y elegir no pelear cada día?\n\n¡Los personajes del anime 'Toji no Miko' se han reducido y se han reunido!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mini-toji.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mini-toji/",
+  "episodios": [
+    {
+      "id_origen": 38622,
+      "numero": 0,
+      "titulo": "Mini Toji - 0",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a6d1e278423fbef9df21749fcf01fab.jpg",
+      "url_origen": "https://jkanime.net/mini-toji/0/",
+      "publicado_en_origen": "2019-01-05 18:51:32"
+    },
+    {
+      "id_origen": 38656,
+      "numero": 1,
+      "titulo": "Mini Toji - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47b44b9beb1cfa6dfe1ed044b240db61.jpg",
+      "url_origen": "https://jkanime.net/mini-toji/1/",
+      "publicado_en_origen": "2019-01-12 18:48:39"
+    },
+    {
+      "id_origen": 38710,
+      "numero": 2,
+      "titulo": "Mini Toji - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fd197375f70ec1dbed7d724343ce448.jpg",
+      "url_origen": "https://jkanime.net/mini-toji/2/",
+      "publicado_en_origen": "2019-01-19 20:58:55"
+    },
+    {
+      "id_origen": 38775,
+      "numero": 3,
+      "titulo": "Mini Toji - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf7065ddd8146156c055e0f61d01dcec.jpg",
+      "url_origen": "https://jkanime.net/mini-toji/3/",
+      "publicado_en_origen": "2019-02-03 01:07:50"
+    },
+    {
+      "id_origen": 38776,
+      "numero": 4,
+      "titulo": "Mini Toji - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1580cb083169e06b7e5af0481196b674.jpg",
+      "url_origen": "https://jkanime.net/mini-toji/4/",
+      "publicado_en_origen": "2019-02-03 01:07:54"
+    },
+    {
+      "id_origen": 38842,
+      "numero": 5,
+      "titulo": "Mini Toji - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d41380111f8558d2a5a9da7a095bbd0f.jpg",
+      "url_origen": "https://jkanime.net/mini-toji/5/",
+      "publicado_en_origen": "2019-02-10 02:47:40"
+    },
+    {
+      "id_origen": 38901,
+      "numero": 6,
+      "titulo": "Mini Toji - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6dc54236a1eec66569a098d8984177e.jpg",
+      "url_origen": "https://jkanime.net/mini-toji/6/",
+      "publicado_en_origen": "2019-02-16 22:25:34"
+    },
+    {
+      "id_origen": 38986,
+      "numero": 7,
+      "titulo": "Mini Toji - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c65179850bb8bbbdcde179bbb5823f2c.jpg",
+      "url_origen": "https://jkanime.net/mini-toji/7/",
+      "publicado_en_origen": "2019-02-23 18:33:47"
+    },
+    {
+      "id_origen": 39066,
+      "numero": 8,
+      "titulo": "Mini Toji - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_380300f2977be97431f05aacf79c59d8.jpg",
+      "url_origen": "https://jkanime.net/mini-toji/8/",
+      "publicado_en_origen": "2019-03-03 03:42:00"
+    },
+    {
+      "id_origen": 39285,
+      "numero": 9,
+      "titulo": "Mini Toji - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfa61ee5a29df76a62e395006a2a60c4.jpg",
+      "url_origen": "https://jkanime.net/mini-toji/9/",
+      "publicado_en_origen": "2019-03-10 05:09:36"
+    },
+    {
+      "id_origen": 39336,
+      "numero": 10,
+      "titulo": "Mini Toji - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02dbe7f07a799718d80ddf18d709bdc2.jpg",
+      "url_origen": "https://jkanime.net/mini-toji/10/",
+      "publicado_en_origen": "2019-03-17 10:54:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2336",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:38:41+00:00"
+}

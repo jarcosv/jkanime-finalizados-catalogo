@@ -1,0 +1,117 @@
+{
+  "id_origen": 3458,
+  "slug": "ayaka",
+  "titulo": "Ayaka",
+  "titulo_corto": "Ayaka",
+  "sinopsis": "Yanagi Yukito, un huérfano, tiene un encuentro fatídico con un extraño discípulo de su difunto padre. Este enigmático individuo lo lleva a Ayakajima, su lugar de origen, compuesto por siete islas envueltas en rumores de criaturas míticas llamadas \"Mitama\" y dragones. En Ayakajima, Yukito se encuentra con los demás discípulos de su padre, quienes se dedican a preservar la armonía de las islas. Sin embargo, el frágil equilibrio que protegen enfrenta un inminente colapso.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ayaka.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ayaka/",
+  "episodios": [
+    {
+      "id_origen": 53280,
+      "numero": 1,
+      "titulo": "Ayaka - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8b6e74e442b431603b91942b7e8e460.jpg",
+      "url_origen": "https://jkanime.net/ayaka/1/",
+      "publicado_en_origen": "2023-07-01 14:37:47"
+    },
+    {
+      "id_origen": 53347,
+      "numero": 2,
+      "titulo": "Ayaka - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ff2e1a69e334c1627fbeae8de29560b.jpg",
+      "url_origen": "https://jkanime.net/ayaka/2/",
+      "publicado_en_origen": "2023-07-08 15:01:57"
+    },
+    {
+      "id_origen": 53420,
+      "numero": 3,
+      "titulo": "Ayaka - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1966baa2ba71cb8b9a18f9f053fb04b.jpg",
+      "url_origen": "https://jkanime.net/ayaka/3/",
+      "publicado_en_origen": "2023-07-15 13:47:25"
+    },
+    {
+      "id_origen": 53500,
+      "numero": 4,
+      "titulo": "Ayaka - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eae5ba01d4993c47270b527a8c296856.jpg",
+      "url_origen": "https://jkanime.net/ayaka/4/",
+      "publicado_en_origen": "2023-07-22 15:37:16"
+    },
+    {
+      "id_origen": 53589,
+      "numero": 5,
+      "titulo": "Ayaka - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e51c01fb4c8d98a8e7250996ca9c1141.jpg",
+      "url_origen": "https://jkanime.net/ayaka/5/",
+      "publicado_en_origen": "2023-07-29 19:32:10"
+    },
+    {
+      "id_origen": 53665,
+      "numero": 6,
+      "titulo": "Ayaka - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34c59cd81fd8c8cef12d6808c8c31d27.jpg",
+      "url_origen": "https://jkanime.net/ayaka/6/",
+      "publicado_en_origen": "2023-08-05 13:55:07"
+    },
+    {
+      "id_origen": 53719,
+      "numero": 7,
+      "titulo": "Ayaka - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b69278a46669a1ee31f3c3e99fe977f8.jpg",
+      "url_origen": "https://jkanime.net/ayaka/7/",
+      "publicado_en_origen": "2023-08-12 13:54:10"
+    },
+    {
+      "id_origen": 53815,
+      "numero": 8,
+      "titulo": "Ayaka - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e73a5996c43fa58f8967e39af6160356.jpg",
+      "url_origen": "https://jkanime.net/ayaka/8/",
+      "publicado_en_origen": "2023-08-19 16:33:36"
+    },
+    {
+      "id_origen": 53876,
+      "numero": 9,
+      "titulo": "Ayaka - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7dba9e45b5f1cad68f4432f5729a88e.jpg",
+      "url_origen": "https://jkanime.net/ayaka/9/",
+      "publicado_en_origen": "2023-08-26 14:03:49"
+    },
+    {
+      "id_origen": 53973,
+      "numero": 10,
+      "titulo": "Ayaka - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26438707e0ff9f24a88254c8f36d3ecd.jpg",
+      "url_origen": "https://jkanime.net/ayaka/10/",
+      "publicado_en_origen": "2023-09-02 16:31:28"
+    },
+    {
+      "id_origen": 54050,
+      "numero": 11,
+      "titulo": "Ayaka - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54ff0ddbcb3ceac60e2d8943749de70d.jpg",
+      "url_origen": "https://jkanime.net/ayaka/11/",
+      "publicado_en_origen": "2023-09-09 14:22:29"
+    },
+    {
+      "id_origen": 54134,
+      "numero": 12,
+      "titulo": "Ayaka - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea3398a7a0c8a23eba27eaaa3f35fdcf.jpg",
+      "url_origen": "https://jkanime.net/ayaka/12/",
+      "publicado_en_origen": "2023-09-16 13:56:46"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3458",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:18:13+00:00"
+}

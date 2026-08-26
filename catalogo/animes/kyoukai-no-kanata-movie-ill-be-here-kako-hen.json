@@ -1,0 +1,29 @@
+{
+  "id_origen": 1537,
+  "slug": "kyoukai-no-kanata-movie-ill-be-here-kako-hen",
+  "titulo": "Kyoukai no Kanata Movie: I´ll Be Here - Kako-hen",
+  "titulo_corto": "Kyoukai no Kanata Movie: I´ll ...",
+  "sinopsis": "Primera de dos películas, resume la serie de Kyoukai no Kanata.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kyoukai-no-kanata-movie-ill-be-here-kako-hen.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kyoukai-no-kanata-movie-ill-be-here-kako-hen/",
+  "episodios": [
+    {
+      "id_origen": 27501,
+      "numero": 1,
+      "titulo": "Kyoukai no Kanata Movie: I´ll Be Here - Kako-hen",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e31fe01bd51d1368eb9c4d9a3e4284e.jpg",
+      "url_origen": "https://jkanime.net/kyoukai-no-kanata-movie-ill-be-here-kako-hen/1/",
+      "publicado_en_origen": "2015-04-16 22:34:59"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1537",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:36:13+00:00"
+}

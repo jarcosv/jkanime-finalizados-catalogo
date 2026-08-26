@@ -1,0 +1,29 @@
+{
+  "id_origen": 712,
+  "slug": "cencoroll",
+  "titulo": "Cencoroll",
+  "titulo_corto": "Cencoroll",
+  "sinopsis": "Cencoroll es una pelicula del año 2009 que fue dirigida, escrita y animada solo por una persona, el mangaka Atsuya Uki.  La mascota de Tetsu es un blob gigante que puede mutar en cualquier cosa. Ellos se comunican por medio de telepatía y es tan fuerte como para combatir con otros monstruos blobs gigantes. Tetsu preferiría quedarse solo pero una extraña chica encuentra a su blob más interesante de lo que hubiera esperado. Desafortunadamente también lo hace el dueño de un blob rival.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/cencoroll.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/cencoroll/",
+  "episodios": [
+    {
+      "id_origen": 18363,
+      "numero": 1,
+      "titulo": "Cencoroll",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0029f088c57ad3b6ec589f9ba4f7a057.jpg",
+      "url_origen": "https://jkanime.net/cencoroll/1/",
+      "publicado_en_origen": "2012-11-08 15:10:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:20+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "712",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:23:16+00:00"
+}

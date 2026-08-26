@@ -1,0 +1,29 @@
+{
+  "id_origen": 2375,
+  "slug": "oushitsu-kyoushi-heine-movie",
+  "titulo": "Oushitsu Kyoushi Heine Movie",
+  "titulo_corto": "Oushitsu Kyoushi Heine Movie",
+  "sinopsis": "Los cuatro principes del Reino de Granzreich pretenden convertirse en el proximo rey. Bajo la guia del tutor real Heine Wittgenstein, mientras superan varios obstaculos y algunas veces dudan, crecen poco a poco.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/oushitsu-kyoushi-heine-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/oushitsu-kyoushi-heine-movie/",
+  "episodios": [
+    {
+      "id_origen": 38988,
+      "numero": 1,
+      "titulo": "Oushitsu Kyoushi Heine Movie - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b66d116fd05ff70ce34863f5ccadd6c.jpg",
+      "url_origen": "https://jkanime.net/oushitsu-kyoushi-heine-movie/1/",
+      "publicado_en_origen": "2019-02-24 06:48:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:12+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2375",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:49+00:00"
+}

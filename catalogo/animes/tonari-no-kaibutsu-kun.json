@@ -1,0 +1,125 @@
+{
+  "id_origen": 679,
+  "slug": "tonari-no-kaibutsu-kun",
+  "titulo": "Tonari no Kaibutsu-kun",
+  "titulo_corto": "Tonari no Kaibutsu-kun",
+  "sinopsis": "Shizuku Mizutani es una chica a la que no le interesa nada aparte de sus estudios y sus planes de futuro, mientras Yoshida es el chico que está siempre ausente y al que cuando un día Shizuku le toque llevarle los deberes a su casa, se creerá que ella quiere ser su amiga. Por cosas de la vida, ella descubre que él no es tan malo como le pintan en el instituto y acabará siendo más amable con él… hasta que él decide declararle su amor.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tonari-no-kaibutsu-kun.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/",
+  "episodios": [
+    {
+      "id_origen": 17621,
+      "numero": 1,
+      "titulo": "Tonari no Kaibutsu-kun - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d1f9ed41c577b9ad97ebe248806ca70.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/1/",
+      "publicado_en_origen": "2012-10-01 12:57:39"
+    },
+    {
+      "id_origen": 17675,
+      "numero": 2,
+      "titulo": "Tonari no Kaibutsu-kun - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_383d3906a81567a4790639391dc4ecd7.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/2/",
+      "publicado_en_origen": "2012-10-08 12:54:16"
+    },
+    {
+      "id_origen": 17815,
+      "numero": 3,
+      "titulo": "Tonari no Kaibutsu-kun - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42b1c6a5d2205c2a61dcc08c028e4592.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/3/",
+      "publicado_en_origen": "2012-10-15 12:53:56"
+    },
+    {
+      "id_origen": 18052,
+      "numero": 4,
+      "titulo": "Tonari no Kaibutsu-kun - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58f170c366f582dba770b94119f6099a.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/4/",
+      "publicado_en_origen": "2012-10-22 12:50:24"
+    },
+    {
+      "id_origen": 18128,
+      "numero": 5,
+      "titulo": "Tonari no Kaibutsu-kun - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_718010c95cc6dac83386e13c4635def8.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/5/",
+      "publicado_en_origen": "2012-10-29 12:46:24"
+    },
+    {
+      "id_origen": 18262,
+      "numero": 6,
+      "titulo": "Tonari no Kaibutsu-kun - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2dd6f963d9acac8cff87b962bdce534c.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/6/",
+      "publicado_en_origen": "2012-11-05 14:55:18"
+    },
+    {
+      "id_origen": 18424,
+      "numero": 7,
+      "titulo": "Tonari no Kaibutsu-kun - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c79efb56648ced184df825121b9a698.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/7/",
+      "publicado_en_origen": "2012-11-12 14:58:52"
+    },
+    {
+      "id_origen": 18461,
+      "numero": 8,
+      "titulo": "Tonari no Kaibutsu-kun - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bdfd03512668577fa1d90ede340beda.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/8/",
+      "publicado_en_origen": "2012-11-19 14:49:44"
+    },
+    {
+      "id_origen": 18530,
+      "numero": 9,
+      "titulo": "Tonari no Kaibutsu-kun - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75291728e2d8458a104b6abd0b062b70.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/9/",
+      "publicado_en_origen": "2012-11-26 14:53:34"
+    },
+    {
+      "id_origen": 18563,
+      "numero": 10,
+      "titulo": "Tonari no Kaibutsu-kun - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dc7f3464a4839e6009992502eabb7a1.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/10/",
+      "publicado_en_origen": "2012-12-03 14:48:05"
+    },
+    {
+      "id_origen": 18597,
+      "numero": 11,
+      "titulo": "Tonari no Kaibutsu-kun - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4dda1a5c7be4a1472c1d136f1cd568f6.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/11/",
+      "publicado_en_origen": "2012-12-10 14:52:13"
+    },
+    {
+      "id_origen": 18744,
+      "numero": 12,
+      "titulo": "Tonari no Kaibutsu-kun - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18b67afe27829441b0845c36bfbc30d1.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/12/",
+      "publicado_en_origen": "2012-12-17 14:49:13"
+    },
+    {
+      "id_origen": 18783,
+      "numero": 13,
+      "titulo": "Tonari no Kaibutsu-kun - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ff4a061e94d139f016b2ca7dd0a1541.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-kaibutsu-kun/13/",
+      "publicado_en_origen": "2012-12-24 14:42:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "679",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:49:49+00:00"
+}

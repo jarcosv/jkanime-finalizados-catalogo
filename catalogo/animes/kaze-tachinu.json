@@ -1,0 +1,29 @@
+{
+  "id_origen": 4757,
+  "slug": "kaze-tachinu",
+  "titulo": "Kaze Tachinu",
+  "titulo_corto": "Kaze Tachinu",
+  "sinopsis": "Aunque la miopía de Jirou Horikoshi le impide llegar a ser piloto, abandona su ciudad natal para estudiar ingeniería aeronáutica en la Universidad Imperial de Tokio con un único objetivo: diseñar y construir aviones, al igual que su héroe, el pionero italiano de la aviación Giovanni Battista Caproni. Su llegada a la capital coincide con el Gran Terremoto de Kanto de 1923, durante el cual salva a una criada al servicio de la familia de una joven llamada Naoko Satomi; este desastroso suceso marca el inicio de más de dos décadas de agitación social y malestar que conducirán a la eventual rendición de Japón en la Segunda Guerra Mundial.\r\n\r\nPara Jirou, los años previos a la producción de su infame caza Mitsubishi A6M Zero pondrán a prueba cada fibra de su ser. Sus numerosos viajes y experiencias vitales no hacen más que impulsarlo a seguir adelante, incluso cuando se da cuenta tanto del papel de sus creaciones en la guerra como de las duras realidades de su vida personal. A medida que pasa el tiempo, debe enfrentarse a una pregunta imposible: ¿a qué precio persigue su hermoso sueño?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kaze-tachinu.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kaze-tachinu/",
+  "episodios": [
+    {
+      "id_origen": 74226,
+      "numero": 1,
+      "titulo": "Kaze Tachinu",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_824e86060f1690a471d7f9c5ca2cb1c0.jpg",
+      "url_origen": "https://jkanime.net/kaze-tachinu/1/",
+      "publicado_en_origen": "2026-06-09 16:02:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4757",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:34:15+00:00"
+}

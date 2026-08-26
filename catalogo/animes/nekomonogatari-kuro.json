@@ -1,0 +1,53 @@
+{
+  "id_origen": 728,
+  "slug": "nekomonogatari-kuro",
+  "titulo": "Nekomonogatari: Kuro",
+  "titulo_corto": "Nekomonogatari: Kuro",
+  "sinopsis": "Durante la Golden Week, Tsubasa Hanekawa, una chica de 17 años, ha tenido una experiencia sobrenatural, un encuentro con Nekomata, la tranquilidad que aparenta la representante de la clase, es un contraste de lo que ocurre con la relación actual con su familia, los hechos ocurridos la cual la llevan a enredarse con este ser sobrenatural, Koyomi Araragi se verá envuelto en estos hechos, los cuales con la ayuda de Oshino Meme, y la intervención de Oshino Shinobu, intentaran librar a la representante de la clase de ese ser la cual la ha poseído.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nekomonogatari-kuro.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nekomonogatari-kuro/",
+  "episodios": [
+    {
+      "id_origen": 18812,
+      "numero": 1,
+      "titulo": "Nekomonogatari: Kuro - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff5f900bac84c058978c6b16f895131f.jpg",
+      "url_origen": "https://jkanime.net/nekomonogatari-kuro/1/",
+      "publicado_en_origen": "2013-01-01 17:48:42"
+    },
+    {
+      "id_origen": 18839,
+      "numero": 2,
+      "titulo": "Nekomonogatari: Kuro - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02c988e1e2c701afc4dae1df08630f87.jpg",
+      "url_origen": "https://jkanime.net/nekomonogatari-kuro/2/",
+      "publicado_en_origen": "2013-01-02 03:11:20"
+    },
+    {
+      "id_origen": 18924,
+      "numero": 3,
+      "titulo": "Nekomonogatari: Kuro - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_911ab169c2439cbc201acc1e13d557eb.jpg",
+      "url_origen": "https://jkanime.net/nekomonogatari-kuro/3/",
+      "publicado_en_origen": "2013-01-03 18:35:13"
+    },
+    {
+      "id_origen": 18937,
+      "numero": 4,
+      "titulo": "Nekomonogatari: Kuro - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b99814179da563893e7a98826c8e17b.jpg",
+      "url_origen": "https://jkanime.net/nekomonogatari-kuro/4/",
+      "publicado_en_origen": "2013-01-05 17:36:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "728",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:40:11+00:00"
+}

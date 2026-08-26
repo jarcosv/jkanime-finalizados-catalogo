@@ -1,0 +1,29 @@
+{
+  "id_origen": 1092,
+  "slug": "keroro-2014",
+  "titulo": "Keroro",
+  "titulo_corto": "Keroro",
+  "sinopsis": "Nueva serie de Keroro compuesta de episodios cortos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/keroro-2014.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/keroro-2014/",
+  "episodios": [
+    {
+      "id_origen": 23039,
+      "numero": 1,
+      "titulo": "Keroro - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/keroro-2014.jpg",
+      "url_origen": "https://jkanime.net/keroro-2014/1/",
+      "publicado_en_origen": "2014-03-22 12:00:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1092",
+  "cantidad_episodios_declarada": 23,
+  "detalle_extraido_en": "2026-08-26T18:34:26+00:00"
+}

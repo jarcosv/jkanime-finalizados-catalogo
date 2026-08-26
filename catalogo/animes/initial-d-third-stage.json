@@ -1,0 +1,37 @@
+{
+  "id_origen": 708,
+  "slug": "initial-d-third-stage",
+  "titulo": "Initial D Third Stage",
+  "titulo_corto": "Initial D Third Stage",
+  "sinopsis": "Apenas antes de graduarse de la secundaria, Takumi es sondeado por el líder de los Redsuns Ryosuke Takahashi, quien le ofrece unirse a su nuevo equipo para recorrer el país en busca de victorias y récords. Antes de decidirse, Takumi volverá a verse las caras con el líder de los Emperors Kyouichi y tendrá un nuevo reto..con el hijo del archirival del padre de Takumi, Bunta...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/initial-d-third-stage.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/initial-d-third-stage/",
+  "episodios": [
+    {
+      "id_origen": 18329,
+      "numero": 1,
+      "titulo": "Initial D Third Stage",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dba396ce4ff24aaf5597b973a6fcb6df.jpg",
+      "url_origen": "https://jkanime.net/initial-d-third-stage/1/",
+      "publicado_en_origen": "2012-11-07 05:59:50"
+    },
+    {
+      "id_origen": 18358,
+      "numero": 2,
+      "titulo": "Initial D Third Stage",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d926f01bf79efe88c67b87d5fbc16bb1.jpg",
+      "url_origen": "https://jkanime.net/initial-d-third-stage/2/",
+      "publicado_en_origen": "2012-11-07 18:11:56"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "708",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:31:53+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 2867,
+  "slug": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova",
+  "titulo": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen OVA",
+  "titulo_corto": "Kaguya-sama wa Kokurasetai: Te...",
+  "sinopsis": "Ovas de Kaguya-sama.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova/",
+  "episodios": [
+    {
+      "id_origen": 45538,
+      "numero": 1,
+      "titulo": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c290319041a7b75c60a6261f74fea51.jpg",
+      "url_origen": "https://jkanime.net/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova/1/",
+      "publicado_en_origen": "2021-05-21 00:39:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2867",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:33:17+00:00"
+}

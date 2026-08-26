@@ -1,0 +1,29 @@
+{
+  "id_origen": 4607,
+  "slug": "smile-precure-movie-ehon-no-naka-wa-minna-chiguhagu",
+  "titulo": "Smile Precure! Movie: Ehon no Naka wa Minna Chiguhagu!",
+  "titulo_corto": "Smile Precure! Movie: Ehon no ...",
+  "sinopsis": "La película transporta a las Precure a un mundo dentro de un libro ilustrado, donde son guiadas por Nico, un misterioso habitante del mundo del libro ilustrado.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/smile-precure-movie-ehon-no-naka-wa-minna-chiguhagu.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/smile-precure-movie-ehon-no-naka-wa-minna-chiguhagu/",
+  "episodios": [
+    {
+      "id_origen": 71200,
+      "numero": 1,
+      "titulo": "Smile Precure! Movie: Ehon no Naka wa Minna Chiguhagu!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4addedcf8b4175d7f12d2b263eb893a3.jpg",
+      "url_origen": "https://jkanime.net/smile-precure-movie-ehon-no-naka-wa-minna-chiguhagu/1/",
+      "publicado_en_origen": "2026-02-05 17:02:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4607",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:13+00:00"
+}

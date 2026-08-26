@@ -1,0 +1,613 @@
+{
+  "id_origen": 32,
+  "slug": "monster",
+  "titulo": "Monster",
+  "titulo_corto": "Monster",
+  "sinopsis": "Kenso Tenma, un reconocido medico cirujano de origen japonés que vive en Alemania con una gran reputación, está a punto de experimentar una historia que le cambiará la vida: en el año 1986 en Dusseldorf mientras se preparaba para operar a una personalidad que llegaba en estado crítico, una pareja de niños también llegaba al hospital; la niña se encontraba en estado de shock y el niño estaba grave con una herida de bala en la cabeza. Debatiéndose entre lo más ético y en la moral, Tenma accede a operar al niño yendo en contra de sus superiores lo que le acarrearía problemas ya que con la muerte del paciente anterior, los directivos del hospital se encargarían de arruinar su reputación. Sin embargo las cosas empeoran cuando los directivos son asesinados en extrañas circunstancias y Tenma siendo el más favorecido por estos crímenes, es señalado de ser el sospechoso. Han pasado 9 años y un fantasma de su pasado ha regresado.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/monster.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/monster/",
+  "episodios": [
+    {
+      "id_origen": 505,
+      "numero": 1,
+      "titulo": "Monster 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8c0653fea13f91bf3c48159f7c24f78.jpg",
+      "url_origen": "https://jkanime.net/monster/1/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 506,
+      "numero": 2,
+      "titulo": "Monster 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff4d5fbbafdf976cfdc032e3bde78de5.jpg",
+      "url_origen": "https://jkanime.net/monster/2/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 507,
+      "numero": 3,
+      "titulo": "Monster 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d6cc4b2d139a53512fb8cbb3086ae2e.jpg",
+      "url_origen": "https://jkanime.net/monster/3/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 508,
+      "numero": 4,
+      "titulo": "Monster 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_389bc7bb1e1c2a5e7e147703232a88f6.jpg",
+      "url_origen": "https://jkanime.net/monster/4/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 509,
+      "numero": 5,
+      "titulo": "Monster 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2230b853516e7b05d79744fbd4c9c13.jpg",
+      "url_origen": "https://jkanime.net/monster/5/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 510,
+      "numero": 6,
+      "titulo": "Monster 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_087408522c31eeb1f982bc0eaf81d35f.jpg",
+      "url_origen": "https://jkanime.net/monster/6/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 511,
+      "numero": 7,
+      "titulo": "Monster 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a760880003e7ddedfef56acb3b09697f.jpg",
+      "url_origen": "https://jkanime.net/monster/7/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 512,
+      "numero": 8,
+      "titulo": "Monster 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10a7cdd970fe135cf4f7bb55c0e3b59f.jpg",
+      "url_origen": "https://jkanime.net/monster/8/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 513,
+      "numero": 9,
+      "titulo": "Monster 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3dc4876f3f08201c7c76cb71fa1da439.jpg",
+      "url_origen": "https://jkanime.net/monster/9/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 514,
+      "numero": 10,
+      "titulo": "Monster 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59b90e1005a220e2ebc542eb9d950b1e.jpg",
+      "url_origen": "https://jkanime.net/monster/10/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 515,
+      "numero": 11,
+      "titulo": "Monster 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b8a61594b1f4c4db0902a8a395ced93.jpg",
+      "url_origen": "https://jkanime.net/monster/11/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 516,
+      "numero": 12,
+      "titulo": "Monster 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3f27a324736617f20abbf2ffd806f6d.jpg",
+      "url_origen": "https://jkanime.net/monster/12/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 517,
+      "numero": 13,
+      "titulo": "Monster 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38913e1d6a7b94cb0f55994f679f5956.jpg",
+      "url_origen": "https://jkanime.net/monster/13/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 518,
+      "numero": 14,
+      "titulo": "Monster 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebd9629fc3ae5e9f6611e2ee05a31cef.jpg",
+      "url_origen": "https://jkanime.net/monster/14/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 519,
+      "numero": 15,
+      "titulo": "Monster 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63538fe6ef330c13a05a3ed7e599d5f7.jpg",
+      "url_origen": "https://jkanime.net/monster/15/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 520,
+      "numero": 16,
+      "titulo": "Monster 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf67355a3333e6e143439161adc2d82e.jpg",
+      "url_origen": "https://jkanime.net/monster/16/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 521,
+      "numero": 17,
+      "titulo": "Monster 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07563a3fe3bbe7e3ba84431ad9d055af.jpg",
+      "url_origen": "https://jkanime.net/monster/17/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 522,
+      "numero": 18,
+      "titulo": "Monster 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53fde96fcc4b4ce72d7739202324cd49.jpg",
+      "url_origen": "https://jkanime.net/monster/18/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 523,
+      "numero": 19,
+      "titulo": "Monster 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bb232c0b13c774965ef8558f0fbd615.jpg",
+      "url_origen": "https://jkanime.net/monster/19/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 524,
+      "numero": 20,
+      "titulo": "Monster 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba2fd310dcaa8781a9a652a31baf3c68.jpg",
+      "url_origen": "https://jkanime.net/monster/20/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 525,
+      "numero": 21,
+      "titulo": "Monster 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69421f032498c97020180038fddb8e24.jpg",
+      "url_origen": "https://jkanime.net/monster/21/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 526,
+      "numero": 22,
+      "titulo": "Monster 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85422afb467e9456013a2a51d4dff702.jpg",
+      "url_origen": "https://jkanime.net/monster/22/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 527,
+      "numero": 23,
+      "titulo": "Monster 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13f320e7b5ead1024ac95c3b208610db.jpg",
+      "url_origen": "https://jkanime.net/monster/23/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 528,
+      "numero": 24,
+      "titulo": "Monster 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4be00279ee2e0a53eafdaa94a151e2c.jpg",
+      "url_origen": "https://jkanime.net/monster/24/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 529,
+      "numero": 25,
+      "titulo": "Monster 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37f0e884fbad9667e38940169d0a3c95.jpg",
+      "url_origen": "https://jkanime.net/monster/25/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 530,
+      "numero": 26,
+      "titulo": "Monster 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d64a340bcb633f536d56e51874281454.jpg",
+      "url_origen": "https://jkanime.net/monster/26/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 531,
+      "numero": 27,
+      "titulo": "Monster 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fcbc61acd0479dc77e3cccc0f5ffca7.jpg",
+      "url_origen": "https://jkanime.net/monster/27/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 532,
+      "numero": 28,
+      "titulo": "Monster 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_298f95e1bf9136124592c8d4825a06fc.jpg",
+      "url_origen": "https://jkanime.net/monster/28/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 533,
+      "numero": 29,
+      "titulo": "Monster 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df877f3865752637daa540ea9cbc474f.jpg",
+      "url_origen": "https://jkanime.net/monster/29/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 534,
+      "numero": 30,
+      "titulo": "Monster 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c399862d3b9d6b76c8436e924a68c45b.jpg",
+      "url_origen": "https://jkanime.net/monster/30/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 535,
+      "numero": 31,
+      "titulo": "Monster 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33e8075e9970de0cfea955afd4644bb2.jpg",
+      "url_origen": "https://jkanime.net/monster/31/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 536,
+      "numero": 32,
+      "titulo": "Monster 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65658fde58ab3c2b6e5132a39fae7cb9.jpg",
+      "url_origen": "https://jkanime.net/monster/32/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 537,
+      "numero": 33,
+      "titulo": "Monster 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ea1649a31336092c05438df996a3e59.jpg",
+      "url_origen": "https://jkanime.net/monster/33/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 538,
+      "numero": 34,
+      "titulo": "Monster 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bcdf75ad237b8e02e301f4091fb6bc8.jpg",
+      "url_origen": "https://jkanime.net/monster/34/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 539,
+      "numero": 35,
+      "titulo": "Monster 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5737034557ef5b8c02c0e46513b98f90.jpg",
+      "url_origen": "https://jkanime.net/monster/35/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 540,
+      "numero": 36,
+      "titulo": "Monster 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b72e31dac81715466cd580a448cf823.jpg",
+      "url_origen": "https://jkanime.net/monster/36/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 541,
+      "numero": 37,
+      "titulo": "Monster 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16c222aa19898e5058938167c8ab6c57.jpg",
+      "url_origen": "https://jkanime.net/monster/37/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 542,
+      "numero": 38,
+      "titulo": "Monster 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7dcd340d84f762eba80aa538b0c527f7.jpg",
+      "url_origen": "https://jkanime.net/monster/38/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 543,
+      "numero": 39,
+      "titulo": "Monster 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81448138f5f163ccdba4acc69819f280.jpg",
+      "url_origen": "https://jkanime.net/monster/39/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 544,
+      "numero": 40,
+      "titulo": "Monster 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97e8527feaf77a97fc38f34216141515.jpg",
+      "url_origen": "https://jkanime.net/monster/40/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 545,
+      "numero": 41,
+      "titulo": "Monster 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_647bba344396e7c8170902bcf2e15551.jpg",
+      "url_origen": "https://jkanime.net/monster/41/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 546,
+      "numero": 42,
+      "titulo": "Monster 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed265bc903a5a097f61d3ec064d96d2e.jpg",
+      "url_origen": "https://jkanime.net/monster/42/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 547,
+      "numero": 43,
+      "titulo": "Monster 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c75b6f114c23a4d7ea11331e7c00e73c.jpg",
+      "url_origen": "https://jkanime.net/monster/43/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 548,
+      "numero": 44,
+      "titulo": "Monster 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d34201a5b85900908db6cae92723617.jpg",
+      "url_origen": "https://jkanime.net/monster/44/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 549,
+      "numero": 45,
+      "titulo": "Monster 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccb1d45fb76f7c5a0bf619f979c6cf36.jpg",
+      "url_origen": "https://jkanime.net/monster/45/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 550,
+      "numero": 46,
+      "titulo": "Monster 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01f78be6f7cad02658508fe4616098a9.jpg",
+      "url_origen": "https://jkanime.net/monster/46/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 551,
+      "numero": 47,
+      "titulo": "Monster 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f24d240521d99071c93af3917215ef7.jpg",
+      "url_origen": "https://jkanime.net/monster/47/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 552,
+      "numero": 48,
+      "titulo": "Monster 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94c7bb58efc3b337800875b5d382a072.jpg",
+      "url_origen": "https://jkanime.net/monster/48/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 553,
+      "numero": 49,
+      "titulo": "Monster 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f387624df552cea2f369918c5e1e12bc.jpg",
+      "url_origen": "https://jkanime.net/monster/49/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 554,
+      "numero": 50,
+      "titulo": "Monster 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e388103a391daabe3de1d76a6739ccd.jpg",
+      "url_origen": "https://jkanime.net/monster/50/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 555,
+      "numero": 51,
+      "titulo": "Monster 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15de21c670ae7c3f6f3f1f37029303c9.jpg",
+      "url_origen": "https://jkanime.net/monster/51/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 556,
+      "numero": 52,
+      "titulo": "Monster 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11b921ef080f7736089c757404650e40.jpg",
+      "url_origen": "https://jkanime.net/monster/52/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 557,
+      "numero": 53,
+      "titulo": "Monster 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e2713a6efee97bacb63e52c54f0ada0.jpg",
+      "url_origen": "https://jkanime.net/monster/53/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 558,
+      "numero": 54,
+      "titulo": "Monster 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bb91f73e9d31ea2830a5e73ce3ed328.jpg",
+      "url_origen": "https://jkanime.net/monster/54/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 559,
+      "numero": 55,
+      "titulo": "Monster 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a0772443a0739141292a5429b952fe6.jpg",
+      "url_origen": "https://jkanime.net/monster/55/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 560,
+      "numero": 56,
+      "titulo": "Monster 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9a6653e48976138166de32772b1bf40.jpg",
+      "url_origen": "https://jkanime.net/monster/56/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 561,
+      "numero": 57,
+      "titulo": "Monster 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58ae749f25eded36f486bc85feb3f0ab.jpg",
+      "url_origen": "https://jkanime.net/monster/57/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 562,
+      "numero": 58,
+      "titulo": "Monster 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e4b5fbbbb602b6d35bea8460aa8f8e5.jpg",
+      "url_origen": "https://jkanime.net/monster/58/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 563,
+      "numero": 59,
+      "titulo": "Monster 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8eefcfdf5990e441f0fb6f3fad709e21.jpg",
+      "url_origen": "https://jkanime.net/monster/59/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 564,
+      "numero": 60,
+      "titulo": "Monster 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1728efbda81692282ba642aafd57be3a.jpg",
+      "url_origen": "https://jkanime.net/monster/60/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 565,
+      "numero": 61,
+      "titulo": "Monster 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbcb58ac2e496207586df2854b17995f.jpg",
+      "url_origen": "https://jkanime.net/monster/61/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 566,
+      "numero": 62,
+      "titulo": "Monster 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db85e2590b6109813dafa101ceb2faeb.jpg",
+      "url_origen": "https://jkanime.net/monster/62/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 567,
+      "numero": 63,
+      "titulo": "Monster 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99c5e07b4d5de9d18c350cdf64c5aa3d.jpg",
+      "url_origen": "https://jkanime.net/monster/63/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 568,
+      "numero": 64,
+      "titulo": "Monster 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd458505749b2941217ddd59394240e8.jpg",
+      "url_origen": "https://jkanime.net/monster/64/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 569,
+      "numero": 65,
+      "titulo": "Monster 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b16ebc056e613024c057be590b542eb.jpg",
+      "url_origen": "https://jkanime.net/monster/65/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 570,
+      "numero": 66,
+      "titulo": "Monster 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a86c450b76fb8c371afead6410d55534.jpg",
+      "url_origen": "https://jkanime.net/monster/66/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 571,
+      "numero": 67,
+      "titulo": "Monster 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9892a989183de32e976c6f04e700201.jpg",
+      "url_origen": "https://jkanime.net/monster/67/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 572,
+      "numero": 68,
+      "titulo": "Monster 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6b4b2a746ed40e1af829d1fa82daa10.jpg",
+      "url_origen": "https://jkanime.net/monster/68/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 573,
+      "numero": 69,
+      "titulo": "Monster 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5f6ad6ce374177eef023bf5d0c018b6.jpg",
+      "url_origen": "https://jkanime.net/monster/69/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 574,
+      "numero": 70,
+      "titulo": "Monster 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0e52b27a7a5d6a1a87373dffa53dbe5.jpg",
+      "url_origen": "https://jkanime.net/monster/70/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 575,
+      "numero": 71,
+      "titulo": "Monster 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffeabd223de0d4eacb9a3e6e53e5448d.jpg",
+      "url_origen": "https://jkanime.net/monster/71/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 576,
+      "numero": 72,
+      "titulo": "Monster 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7aeed74714116f3b292a982238f83d2.jpg",
+      "url_origen": "https://jkanime.net/monster/72/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 577,
+      "numero": 73,
+      "titulo": "Monster 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fde9264cf376fffe2ee4ddf4a988880d.jpg",
+      "url_origen": "https://jkanime.net/monster/73/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 578,
+      "numero": 74,
+      "titulo": "Monster 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8849b052492b5106526b2331e526138.jpg",
+      "url_origen": "https://jkanime.net/monster/74/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "32",
+  "cantidad_episodios_declarada": 74,
+  "detalle_extraido_en": "2026-08-26T18:39:15+00:00"
+}

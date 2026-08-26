@@ -1,0 +1,29 @@
+{
+  "id_origen": 1242,
+  "slug": "recorder-to-randoseru-mi-special",
+  "titulo": "Recorder to Randoseru Mi☆ Special",
+  "titulo_corto": "Recorder to Randoseru Mi☆ Spec...",
+  "sinopsis": "Especial valido como episodio 13 de Recorder to Randoseru Mi☆",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/recorder-to-randoseru-mi-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/recorder-to-randoseru-mi-special/",
+  "episodios": [
+    {
+      "id_origen": 24542,
+      "numero": 1,
+      "titulo": "Recorder to Randoseru Mi☆ Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9b30a509250079ed5b2b1773e829db0.jpg",
+      "url_origen": "https://jkanime.net/recorder-to-randoseru-mi-special/1/",
+      "publicado_en_origen": "2014-08-25 01:21:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1242",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:43:44+00:00"
+}

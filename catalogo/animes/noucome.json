@@ -1,0 +1,101 @@
+{
+  "id_origen": 981,
+  "slug": "noucome",
+  "titulo": "Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru",
+  "titulo_corto": "Ore no Nounai Sentakushi ga, G...",
+  "sinopsis": "La historia está protagonizada por Kanade Amakusa, un muchacho maldito con un poder llamado “Elección Absoluta”. De repente aparece en su mente un cuestionario con dos opciones, debiendo escoger una y haciéndose realidad por ridícula que esta sea. Por ejemplo, le puede tocar escoger entre ir desnudo de cintura para abajo o desnudo de cintura para arriba a clase. \nEn una ocasión llega a clase, le toca escoger nuevamente ente: \"una preciosa chica cae ante él o es él el que se cae desde la azotea vestido de mujer\". Evidentemente escoge la primera opción, y así una chica rubia llamada Chocolat cae ante él.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/noucome.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/noucome/",
+  "episodios": [
+    {
+      "id_origen": 21701,
+      "numero": 1,
+      "titulo": "Noucome - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed1dac006b5ef6170e646d7eb9ee2d1a.jpg",
+      "url_origen": "https://jkanime.net/noucome/1/",
+      "publicado_en_origen": "2013-10-09 14:07:17"
+    },
+    {
+      "id_origen": 21752,
+      "numero": 2,
+      "titulo": "Noucome - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e91896d95a8e2468961d0a1cc72b306.jpg",
+      "url_origen": "https://jkanime.net/noucome/2/",
+      "publicado_en_origen": "2013-10-16 14:06:05"
+    },
+    {
+      "id_origen": 21805,
+      "numero": 3,
+      "titulo": "Noucome - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51408f16e6a66189aabbf50de954e504.jpg",
+      "url_origen": "https://jkanime.net/noucome/3/",
+      "publicado_en_origen": "2013-10-23 14:07:20"
+    },
+    {
+      "id_origen": 21858,
+      "numero": 4,
+      "titulo": "Noucome - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5ff1a4d4bc44f3834181a6ca58b91c8.jpg",
+      "url_origen": "https://jkanime.net/noucome/4/",
+      "publicado_en_origen": "2013-10-30 14:08:14"
+    },
+    {
+      "id_origen": 21907,
+      "numero": 5,
+      "titulo": "Noucome - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1114c80b1403391c2dca875f2cc1310.jpg",
+      "url_origen": "https://jkanime.net/noucome/5/",
+      "publicado_en_origen": "2013-11-06 15:15:47"
+    },
+    {
+      "id_origen": 21959,
+      "numero": 6,
+      "titulo": "Noucome - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4eed5c7364331eec1dff54ecd7811999.jpg",
+      "url_origen": "https://jkanime.net/noucome/6/",
+      "publicado_en_origen": "2013-11-13 15:10:16"
+    },
+    {
+      "id_origen": 22013,
+      "numero": 7,
+      "titulo": "Noucome - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d1fc7492245772b81ed0555881afc31.jpg",
+      "url_origen": "https://jkanime.net/noucome/7/",
+      "publicado_en_origen": "2013-11-20 15:14:46"
+    },
+    {
+      "id_origen": 22065,
+      "numero": 8,
+      "titulo": "Noucome - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bfda19bd8d869e39d1996f29b9c6133.jpg",
+      "url_origen": "https://jkanime.net/noucome/8/",
+      "publicado_en_origen": "2013-11-27 15:07:56"
+    },
+    {
+      "id_origen": 22115,
+      "numero": 9,
+      "titulo": "Noucome - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9836ba478550a1e6ffe8a013a8a0a4b.jpg",
+      "url_origen": "https://jkanime.net/noucome/9/",
+      "publicado_en_origen": "2013-12-04 15:07:32"
+    },
+    {
+      "id_origen": 22168,
+      "numero": 10,
+      "titulo": "Noucome - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_028437bbd96d8f46126ea2bea318dcd2.jpg",
+      "url_origen": "https://jkanime.net/noucome/10/",
+      "publicado_en_origen": "2013-12-11 15:07:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "981",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:41:29+00:00"
+}

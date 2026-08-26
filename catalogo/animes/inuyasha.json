@@ -1,0 +1,1357 @@
+{
+  "id_origen": 213,
+  "slug": "inuyasha",
+  "titulo": "InuYasha",
+  "titulo_corto": "InuYasha",
+  "sinopsis": "Se basa en la historia de una joven llamada Kagome (Aome en latino) que al cumplir 15 años viaja atraves del tiempo por medio de un pozo mágico (que se encuentra en un templo que esta en su casa) hasta regresar a la época de las guerras civiles es allí donde encuentra al personaje principal (Inuyasha). Kagome es la reencarnación de la sacerdotisa Kikyo quien era la poseedora de una perla muy poderosa que villanos y demonios quieren para hacerse mas poderosos llamada la perla de Shikon: Kagome tenia esta perla en sus interior y sale al ambiente debido a que un demonio se la quita depues la perla es cortada en miles de pedazos que se dispersan con la tierra y ahora Inuyasha y Kagome tiene  que recolectar estos fragmentos para evitar que caigan en manos equivocadas en esto pasaran por muchas aventuras conocerán amigos y enemigos tendran batallas algunas veces estarán en peligro de morir. Alo largo de la historia se hacen notar historias antiguas que tiene que ver con la perla.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/inuyasha.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/inuyasha/",
+  "episodios": [
+    {
+      "id_origen": 5865,
+      "numero": 1,
+      "titulo": "Inuyasha 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4669d6db6d5b6739b9194e999d907924.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/1/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5866,
+      "numero": 2,
+      "titulo": "Inuyasha 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7471fdc77b3435276507cc8f2dc2569.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/2/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5867,
+      "numero": 3,
+      "titulo": "Inuyasha 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc9e62695def29ccdb9eb3fed5b4c8c8.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/3/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5868,
+      "numero": 4,
+      "titulo": "Inuyasha 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c41dd99a69df04044aa4e33ece9c9249.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/4/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5869,
+      "numero": 5,
+      "titulo": "Inuyasha 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c26774d852f62440fc746ea4cdd57f6.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/5/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5870,
+      "numero": 6,
+      "titulo": "Inuyasha 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f74a54f39b3123ad272ca0a06e7463f.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/6/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5871,
+      "numero": 7,
+      "titulo": "Inuyasha 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07bba581a2dd8d098a3be0f683560643.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/7/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5872,
+      "numero": 8,
+      "titulo": "Inuyasha 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94f192dee566b018e0acf31e1f99a2d9.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/8/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5873,
+      "numero": 9,
+      "titulo": "Inuyasha 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ee6f2b3b68a212d3b7a4f6557eb8cc7.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/9/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5874,
+      "numero": 10,
+      "titulo": "Inuyasha 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85d6e9c8255c0364fb67b5ac8a25eea3.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/10/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5875,
+      "numero": 11,
+      "titulo": "Inuyasha 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_767d01b4bac1a1e8824c9b9f7cc79a04.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/11/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5876,
+      "numero": 12,
+      "titulo": "Inuyasha 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdc0eb412a84fa549afe68373d9087e9.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/12/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5877,
+      "numero": 13,
+      "titulo": "Inuyasha 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c344336196d5ec19bd54fd14befdde87.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/13/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5878,
+      "numero": 14,
+      "titulo": "Inuyasha 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0ae4561193dbf6e4cf7e8f4006948e3.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/14/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5879,
+      "numero": 15,
+      "titulo": "Inuyasha 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_927e838a450e2fe6225edfc3d12e2463.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/15/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5880,
+      "numero": 16,
+      "titulo": "Inuyasha 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_055e31fa43e652cb4ab6c0ee845c8d36.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/16/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5881,
+      "numero": 17,
+      "titulo": "Inuyasha 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d378765f17a856b7ba8bf1541cafb69.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/17/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5882,
+      "numero": 18,
+      "titulo": "Inuyasha 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dffac38df13c3a801f1b8994f9303bcc.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/18/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5883,
+      "numero": 19,
+      "titulo": "Inuyasha 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1cdd433a18e3949d6e64b68564a7c0d.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/19/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5884,
+      "numero": 20,
+      "titulo": "Inuyasha 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ed2d3454c5eea71148b11d0c25104ff.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/20/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5885,
+      "numero": 21,
+      "titulo": "Inuyasha 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75877cb75154206c4e65e76b88a12712.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/21/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5886,
+      "numero": 22,
+      "titulo": "Inuyasha 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5300ef422e613b74fbf759d293aaab6a.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/22/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5887,
+      "numero": 23,
+      "titulo": "Inuyasha 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7cfd5df443b4eb0d69886a583b33de4c.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/23/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5888,
+      "numero": 24,
+      "titulo": "Inuyasha 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a54b19a13b6712dc04d1b49215423d8.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/24/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5889,
+      "numero": 25,
+      "titulo": "Inuyasha 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3bf6e4db673b6449c2f7d13ee6ec9c0.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/25/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5890,
+      "numero": 26,
+      "titulo": "Inuyasha 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc95fa5740ba01a870cfa52f671fe1e4.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/26/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5891,
+      "numero": 27,
+      "titulo": "Inuyasha 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d9dabe52805a1ea21864b09f3397593.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/27/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5892,
+      "numero": 28,
+      "titulo": "Inuyasha 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1daf122cde863010844459363cd31db.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/28/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5893,
+      "numero": 29,
+      "titulo": "Inuyasha 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c950cde9b3f83f41721788e3315a14a3.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/29/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5894,
+      "numero": 30,
+      "titulo": "Inuyasha 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8973ba741e7bd6450d8023552f43728e.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/30/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5895,
+      "numero": 31,
+      "titulo": "Inuyasha 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33853141e0873909be88f5c3e6144cc6.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/31/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5896,
+      "numero": 32,
+      "titulo": "Inuyasha 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a914ecef9c12ffdb9bede64bb703d877.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/32/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5897,
+      "numero": 33,
+      "titulo": "Inuyasha 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9fd5ec4c141a95257aa99ef1b590672.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/33/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5898,
+      "numero": 34,
+      "titulo": "Inuyasha 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eecccd8ff4107946c78d42265cd474b5.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/34/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5899,
+      "numero": 35,
+      "titulo": "Inuyasha 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_362c99307cdc3f2d8b410652386a9dd1.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/35/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5900,
+      "numero": 36,
+      "titulo": "Inuyasha 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd0efcca272f704a760c3b61dcc70fd0.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/36/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5901,
+      "numero": 37,
+      "titulo": "Inuyasha 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4661398cb1a3abd3ffe58600bf11322.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/37/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5902,
+      "numero": 38,
+      "titulo": "Inuyasha 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70a32110fff0f26d301e58ebbca9cb9f.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/38/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5903,
+      "numero": 39,
+      "titulo": "Inuyasha 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_367147f1755502d9bc6189f8e2c3005d.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/39/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5904,
+      "numero": 40,
+      "titulo": "Inuyasha 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05ae14d7ae387b93370d142d82220f1b.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/40/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5905,
+      "numero": 41,
+      "titulo": "Inuyasha 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_148148d62be67e0916a833931bd32b26.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/41/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5906,
+      "numero": 42,
+      "titulo": "Inuyasha 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d96718a701f5bfba283bbdc71dfa5c4.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/42/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5907,
+      "numero": 43,
+      "titulo": "Inuyasha 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bcf8dd060e5ea0bff484b4a4127cb47.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/43/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5908,
+      "numero": 44,
+      "titulo": "Inuyasha 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8804f94e16ba5b680e239a554a08f7d2.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/44/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5909,
+      "numero": 45,
+      "titulo": "Inuyasha 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b16759a62899465ab21e2e79d2ef75c.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/45/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5910,
+      "numero": 46,
+      "titulo": "Inuyasha 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79385312dbee4c9e7270b26e4b3e1459.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/46/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5911,
+      "numero": 47,
+      "titulo": "Inuyasha 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84a955d5ff75f508ec01007bc2b9b301.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/47/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5912,
+      "numero": 48,
+      "titulo": "Inuyasha 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eddeb82df22554fa67c641e3f8a25566.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/48/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5913,
+      "numero": 49,
+      "titulo": "Inuyasha 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_941c377c73c0efed759c993f1b859526.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/49/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5914,
+      "numero": 50,
+      "titulo": "Inuyasha 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd5bfdeb57f7c75d400de61e99d78e2e.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/50/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5915,
+      "numero": 51,
+      "titulo": "Inuyasha 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ba196c7a6e89eafd0954de80fc1b224.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/51/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5916,
+      "numero": 52,
+      "titulo": "Inuyasha 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5f441cd5f43eb2f2c024e1f8b5d00cd.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/52/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5917,
+      "numero": 53,
+      "titulo": "Inuyasha 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78e092e6f3d8a7b10a82c6abd756d748.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/53/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5918,
+      "numero": 54,
+      "titulo": "Inuyasha 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15ae3b9d6286f1b2a489ea4f3f4abaed.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/54/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5919,
+      "numero": 55,
+      "titulo": "Inuyasha 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd755a6c6b699f3262bcc2aa46ab507e.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/55/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5920,
+      "numero": 56,
+      "titulo": "Inuyasha 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c4ea5258ef3fb3fb1fc48fee9b4408c.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/56/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5921,
+      "numero": 57,
+      "titulo": "Inuyasha 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b59442085644532ef03417a3e5a76437.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/57/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5922,
+      "numero": 58,
+      "titulo": "Inuyasha 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d76d8deea9c19cc9aaf2237d2bf2f785.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/58/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5923,
+      "numero": 59,
+      "titulo": "Inuyasha 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_418db2ea5d227a9ea8db8e5357ca2084.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/59/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5924,
+      "numero": 60,
+      "titulo": "Inuyasha 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5fcc35c94879a4afad61cacca56192c.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/60/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5925,
+      "numero": 61,
+      "titulo": "Inuyasha 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_979a3f14bae523dc5101c52120c535e9.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/61/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5926,
+      "numero": 62,
+      "titulo": "Inuyasha 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8a427afafda854020c951467cc2b4b7.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/62/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5927,
+      "numero": 63,
+      "titulo": "Inuyasha 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8afe805c097dab1f1e5bdd57f8d2931.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/63/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5928,
+      "numero": 64,
+      "titulo": "Inuyasha 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ae1da0fe37c98412768453f82490da2.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/64/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5929,
+      "numero": 65,
+      "titulo": "Inuyasha 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05f17e3cfa5de42020eaa6df34fb4805.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/65/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5930,
+      "numero": 66,
+      "titulo": "Inuyasha 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b199f42a9909061516b6ce6d334af6d.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/66/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5931,
+      "numero": 67,
+      "titulo": "Inuyasha 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa1b6b26d690368d6f74a35a7daa0916.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/67/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5932,
+      "numero": 68,
+      "titulo": "Inuyasha 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d191ef6e236bd1b9bdb9ff4743c47fe.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/68/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5933,
+      "numero": 69,
+      "titulo": "Inuyasha 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5d42e4024cc540befb48f466820e25f.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/69/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5934,
+      "numero": 70,
+      "titulo": "Inuyasha 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b852316cf9d2d41bec07321928afe96.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/70/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5935,
+      "numero": 71,
+      "titulo": "Inuyasha 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_234dd9e577ac5892481bc60663ffa405.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/71/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5936,
+      "numero": 72,
+      "titulo": "Inuyasha 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60131a2a3f223dc8f4753bcc5771660c.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/72/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5937,
+      "numero": 73,
+      "titulo": "Inuyasha 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15a50c8ba6a0002a2fa7e5d8c0a40bd9.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/73/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5938,
+      "numero": 74,
+      "titulo": "Inuyasha 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62e0973455fd26eb03e91d5741a4a3bb.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/74/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5939,
+      "numero": 75,
+      "titulo": "Inuyasha 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a88d5f412f2ad376f8597d28cbd3720.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/75/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5940,
+      "numero": 76,
+      "titulo": "Inuyasha 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c17028c9b6e0c5deaad29665d582284a.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/76/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5941,
+      "numero": 77,
+      "titulo": "Inuyasha 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0b60d939b4a80628dfd66b1e0bb65fa.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/77/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5942,
+      "numero": 78,
+      "titulo": "Inuyasha 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0dd033cbe58aa5ea27747271bfd84e3.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/78/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5943,
+      "numero": 79,
+      "titulo": "Inuyasha 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a3f54913bf27e648d1759c18d007165.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/79/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5944,
+      "numero": 80,
+      "titulo": "Inuyasha 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90f4760fcc9b69c13da7368c5c2917f3.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/80/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5945,
+      "numero": 81,
+      "titulo": "Inuyasha 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e907f44e0a9616314cf3d964d4e3c93.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/81/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5946,
+      "numero": 82,
+      "titulo": "Inuyasha 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_926ffc0ca56636b9e73c565cf994ea5a.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/82/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5947,
+      "numero": 83,
+      "titulo": "Inuyasha 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e05fb01c4c2aa78872ff38b73e69197.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/83/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5948,
+      "numero": 84,
+      "titulo": "Inuyasha 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd0b43eac0392accf3624b7372dec36e.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/84/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5949,
+      "numero": 85,
+      "titulo": "Inuyasha 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c2a1b8eada4803abd90386df241cbf3.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/85/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5950,
+      "numero": 86,
+      "titulo": "Inuyasha 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e148bbf8d64abf4aac7ea4a3c5560aee.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/86/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5951,
+      "numero": 87,
+      "titulo": "Inuyasha 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_800b03685c22049f049801f6841861a2.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/87/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5952,
+      "numero": 88,
+      "titulo": "Inuyasha 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_761efc843ff05ab74ed358713dd51c1b.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/88/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5953,
+      "numero": 89,
+      "titulo": "Inuyasha 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e769e03a9d329b2e864b4bf4ff54ff39.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/89/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5954,
+      "numero": 90,
+      "titulo": "Inuyasha 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f0928c25ff3f884e8d2fa38835bd328.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/90/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5955,
+      "numero": 91,
+      "titulo": "Inuyasha 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a67c8c9a961b4182688768dd9ba015fe.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/91/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5956,
+      "numero": 92,
+      "titulo": "Inuyasha 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a4bbceda17a6253386bc9eb45240e25.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/92/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5957,
+      "numero": 93,
+      "titulo": "Inuyasha 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5eca8dc3820cad9fe56a3bafda65ca1.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/93/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5958,
+      "numero": 94,
+      "titulo": "Inuyasha 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fdd149fcaa7058caccc9c4ad5b0d89a.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/94/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5959,
+      "numero": 95,
+      "titulo": "Inuyasha 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_010e406df2463597c58286a93f8b3160.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/95/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5960,
+      "numero": 96,
+      "titulo": "Inuyasha 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_233f1dd0f3f537bcb7a338ea74d63483.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/96/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5961,
+      "numero": 97,
+      "titulo": "Inuyasha 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_094366eaa7a4b5d7f9ed227f212b3649.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/97/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5962,
+      "numero": 98,
+      "titulo": "Inuyasha 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_baeabb8ff01160eec0b5db7da2805f57.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/98/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5963,
+      "numero": 99,
+      "titulo": "Inuyasha 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_680390c55bbd9ce416d1d69a9ab4760d.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/99/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5964,
+      "numero": 100,
+      "titulo": "Inuyasha 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c67ba7c4c5c0cd4cc3e3a7146fe5c015.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/100/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5965,
+      "numero": 101,
+      "titulo": "Inuyasha 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94cb02feb750f20bad8a85dfe7e18d11.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/101/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5966,
+      "numero": 102,
+      "titulo": "Inuyasha 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95c8f422f9c3308d391cbcefae21d5ad.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/102/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5967,
+      "numero": 103,
+      "titulo": "Inuyasha 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8682cc30db9c025ecd3fee433f8ab54c.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/103/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5968,
+      "numero": 104,
+      "titulo": "Inuyasha 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c97dbeee3b0d40ced7f514b99a93d93.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/104/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5969,
+      "numero": 105,
+      "titulo": "Inuyasha 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_631e9c01c190fc1515b9fe3865abbb15.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/105/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5970,
+      "numero": 106,
+      "titulo": "Inuyasha 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_857c41bc36ba2d1be4e16d321e3f15b7.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/106/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5971,
+      "numero": 107,
+      "titulo": "Inuyasha 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73983c01982794632e0270cd0006d407.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/107/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5972,
+      "numero": 108,
+      "titulo": "Inuyasha 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8a3a3c3234392b0add43c5f9c05a246.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/108/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5973,
+      "numero": 109,
+      "titulo": "Inuyasha 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6de59d960d3bb8a6346c058930f3cd28.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/109/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5974,
+      "numero": 110,
+      "titulo": "Inuyasha 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e1cacfb27da22fb243ff2debf4443a0.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/110/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5975,
+      "numero": 111,
+      "titulo": "Inuyasha 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32cfdce9631d8c7906e8e9d6e68b514b.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/111/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5976,
+      "numero": 112,
+      "titulo": "Inuyasha 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e10534dd65cf727692c0f9c44ba613f8.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/112/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5977,
+      "numero": 113,
+      "titulo": "Inuyasha 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7eb532aef980c36170c0b4426f082b87.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/113/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5978,
+      "numero": 114,
+      "titulo": "Inuyasha 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5ae7b1f180083e8a49e55e4d488bbec.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/114/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5979,
+      "numero": 115,
+      "titulo": "Inuyasha 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d7d394c9d0c886e9247542e06ebb705.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/115/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5980,
+      "numero": 116,
+      "titulo": "Inuyasha 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63dfdeb1ff9ff09ecc3f05d2d7221ffa.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/116/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5981,
+      "numero": 117,
+      "titulo": "Inuyasha 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abb9d15b3293a96a3ea116867b2b16d5.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/117/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5982,
+      "numero": 118,
+      "titulo": "Inuyasha 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c23497bd62a8f8a0981fdc9cbd3c30d9.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/118/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5983,
+      "numero": 119,
+      "titulo": "Inuyasha 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0cb82dbdcda47e2ad7b7aaf69573906e.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/119/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5984,
+      "numero": 120,
+      "titulo": "Inuyasha 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f2cba89a7116c7c6b0a769572d5fad9.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/120/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5985,
+      "numero": 121,
+      "titulo": "Inuyasha 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fccc64972a9468a11f125cadb090e89e.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/121/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5986,
+      "numero": 122,
+      "titulo": "Inuyasha 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd45c64e026040dbcb83395829d2aea5.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/122/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5987,
+      "numero": 123,
+      "titulo": "Inuyasha 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f9d88fe83d3e7fce3136e510b0a9a38.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/123/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5988,
+      "numero": 124,
+      "titulo": "Inuyasha 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfbfa7ddcfffeb581f50edcf9a0204bb.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/124/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5989,
+      "numero": 125,
+      "titulo": "Inuyasha 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ae6464c6b5d51b363d7d96f97132c75.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/125/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5990,
+      "numero": 126,
+      "titulo": "Inuyasha 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cba81c5c6cac4ce77157631fc2dc277.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/126/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5991,
+      "numero": 127,
+      "titulo": "Inuyasha 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0356641f421b381e475776b602a5da8.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/127/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5992,
+      "numero": 128,
+      "titulo": "Inuyasha 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_675f9820626f5bc0afb47b57890b466e.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/128/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5993,
+      "numero": 129,
+      "titulo": "Inuyasha 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32e0bd1497aa43e02a42f47d9d6515ad.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/129/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5994,
+      "numero": 130,
+      "titulo": "Inuyasha 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edb446b67d69adbfe9a21068982000c2.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/130/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5995,
+      "numero": 131,
+      "titulo": "Inuyasha 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcd4c889d516a54d5371f00e3fdd70dc.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/131/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5996,
+      "numero": 132,
+      "titulo": "Inuyasha 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d3215ae97598264ad6529613774a038.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/132/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 11010,
+      "numero": 133,
+      "titulo": "InuYasha 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1a2c3fed88e9b3ba5bc3625c074a04e.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/133/",
+      "publicado_en_origen": "2011-07-23 11:02:50"
+    },
+    {
+      "id_origen": 11011,
+      "numero": 134,
+      "titulo": "InuYasha 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35569d4c2d840bb30f2ee92838b6f177.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/134/",
+      "publicado_en_origen": "2011-07-23 11:03:11"
+    },
+    {
+      "id_origen": 5997,
+      "numero": 135,
+      "titulo": "Inuyasha 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_077fd57e57aab32087b0466fe6ebcca8.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/135/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5998,
+      "numero": 136,
+      "titulo": "Inuyasha 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b98a3773ecf715751d3cf0fb6dcba424.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/136/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5999,
+      "numero": 137,
+      "titulo": "Inuyasha 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cca289d2a4acd14c1cd9a84ffb41dd29.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/137/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6000,
+      "numero": 138,
+      "titulo": "Inuyasha 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8c6dd982010fce8701ce1aef8a2d40a.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/138/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6001,
+      "numero": 139,
+      "titulo": "Inuyasha 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea1818cbe59c23b20f1a10a8aa083a82.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/139/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6002,
+      "numero": 140,
+      "titulo": "Inuyasha 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b01078e96f65f2ad6573ce6fecc944d.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/140/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6003,
+      "numero": 141,
+      "titulo": "Inuyasha 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7acba01022004f2ce03bf56ca56ec6f4.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/141/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6004,
+      "numero": 142,
+      "titulo": "Inuyasha 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_636efd4f9aeb5781e9ea815cdd633e52.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/142/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6005,
+      "numero": 143,
+      "titulo": "Inuyasha 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50c1f44e426560f3f2cdcb3e19e39903.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/143/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6006,
+      "numero": 144,
+      "titulo": "Inuyasha 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91ba4a4478a66bee9812b0804b6f9d1b.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/144/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6007,
+      "numero": 145,
+      "titulo": "Inuyasha 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bacadc62d6e67d7897cef027fa2d416c.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/145/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6008,
+      "numero": 146,
+      "titulo": "Inuyasha 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_569ff987c643b4bedf504efda8f786c2.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/146/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 11012,
+      "numero": 147,
+      "titulo": "InuYasha 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6358755a5c0aa01034c9870f842a467.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/147/",
+      "publicado_en_origen": "2011-07-23 11:04:10"
+    },
+    {
+      "id_origen": 11013,
+      "numero": 148,
+      "titulo": "InuYasha 148",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99f6a934a7cf277f2eaece8e3ce619b2.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/148/",
+      "publicado_en_origen": "2011-07-23 11:04:37"
+    },
+    {
+      "id_origen": 6009,
+      "numero": 149,
+      "titulo": "Inuyasha 149",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37d7902cb2d3de686e497e31624d82e0.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/149/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6010,
+      "numero": 150,
+      "titulo": "Inuyasha 150",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4c455df3c54f292ae22f6791fd2553e.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/150/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6011,
+      "numero": 151,
+      "titulo": "Inuyasha 151",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3b80d30a727c738f3cff0941f6bc55a.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/151/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6012,
+      "numero": 152,
+      "titulo": "Inuyasha 152",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c4c937b67cc8d785cea1e42ccea185c.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/152/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6013,
+      "numero": 153,
+      "titulo": "Inuyasha 153",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fd7f981e10b41330b618129afcaab2d.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/153/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6014,
+      "numero": 154,
+      "titulo": "Inuyasha 154",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f68928ec5b6fae14708854b8fd0cf08.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/154/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6015,
+      "numero": 155,
+      "titulo": "Inuyasha 155",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a378f8490c8d6af8647a753812f6e31.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/155/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6016,
+      "numero": 156,
+      "titulo": "Inuyasha 156",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_593906af0d138e69f49d251d3e7cbed0.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/156/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6017,
+      "numero": 157,
+      "titulo": "Inuyasha 157",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fef6f971605336724b5e6c0c12dc2534.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/157/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6018,
+      "numero": 158,
+      "titulo": "Inuyasha 158",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d2a5f7d4afa5d0530789d3066945330.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/158/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6019,
+      "numero": 159,
+      "titulo": "Inuyasha 159",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5218f316b3f85b751c613a06aa18010d.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/159/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6020,
+      "numero": 160,
+      "titulo": "Inuyasha 160",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac2a728f9f17b5d860b6dabd80a5162f.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/160/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6021,
+      "numero": 161,
+      "titulo": "Inuyasha 161",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b075703bbe07a50ddcccfaac424bb6d9.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/161/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6022,
+      "numero": 162,
+      "titulo": "Inuyasha 162",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da54dd5a0398011cdfa50d559c2c0ef8.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/162/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6023,
+      "numero": 163,
+      "titulo": "Inuyasha 163",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ba9af181751761d3b387f74ded2d783.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/163/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6024,
+      "numero": 164,
+      "titulo": "Inuyasha 164",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bd8fdb090f1f5eb66a00c84dbc5ad51.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/164/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6025,
+      "numero": 165,
+      "titulo": "Inuyasha 165",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5eed6c6e569d984796ebca9c1169451e.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/165/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 11014,
+      "numero": 166,
+      "titulo": "InuYasha 166",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ed6f34466ebc301e3f09c1dedb6cfb2.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/166/",
+      "publicado_en_origen": "2011-07-23 11:09:50"
+    },
+    {
+      "id_origen": 11015,
+      "numero": 167,
+      "titulo": "InuYasha 167",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa5bc34d6bd5933dd73ae2251bff88e8.jpg",
+      "url_origen": "https://jkanime.net/inuyasha/167/",
+      "publicado_en_origen": "2011-07-23 11:10:07"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "213",
+  "cantidad_episodios_declarada": 167,
+  "detalle_extraido_en": "2026-08-26T18:32:07+00:00"
+}

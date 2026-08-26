@@ -1,0 +1,29 @@
+{
+  "id_origen": 721,
+  "slug": "acchi-kocchi-placeprincess",
+  "titulo": "Acchi Kocchi: Place=Princess",
+  "titulo_corto": "Acchi Kocchi: Place=Princess",
+  "sinopsis": "Episodio especial valido como numero 13 de Acchi Kocchi incluido en el Volumen 6 del BD/Dvd.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/acchi-kocchi-placeprincess.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/acchi-kocchi-placeprincess/",
+  "episodios": [
+    {
+      "id_origen": 18568,
+      "numero": 1,
+      "titulo": "Acchi Kocchi: Place=Princess",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/acchi-kocchi-placeprincess.jpg",
+      "url_origen": "https://jkanime.net/acchi-kocchi-placeprincess/1/",
+      "publicado_en_origen": "2012-12-05 15:21:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "721",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:15:08+00:00"
+}

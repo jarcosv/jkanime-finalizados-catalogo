@@ -1,0 +1,605 @@
+{
+  "id_origen": 627,
+  "slug": "yu-gi-oh-zexal",
+  "titulo": "Yu☆Gi☆Oh! Zexal",
+  "titulo_corto": "Yu☆Gi☆Oh! Zexal",
+  "sinopsis": "La serie es la cuarta de la farnauisia Yu-Gi-Oh Tiene como protagonista a un chico llamado Tsukumo Yuma, cuyo padres desaparecieron, tiene una hermana mayor (Akari) y una abuela (Haru)...  En el trasncurso de la historia Yuma irá encontrando nuevos amigos y rivales.  Yuma junto a sus amigos emprenden un viaje de emociones y nuevas aventuras nunca antes vistas en Yu-Gi-Oh",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yu-gi-oh-zexal/",
+  "episodios": [
+    {
+      "id_origen": 49230,
+      "numero": 1,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eef3298c9cda3e9623ea25d2230ec88e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/1/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49231,
+      "numero": 2,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b47ea67781941189af94d2e217161684.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/2/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49232,
+      "numero": 3,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44b169b864f2beeb97b1d5b282a3ca93.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/3/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49233,
+      "numero": 4,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_874d0049df81546e041a1d82a75f5046.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/4/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49234,
+      "numero": 5,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19bc302af9c5056c233dc2305619041d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/5/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49235,
+      "numero": 6,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e57665b8faf05c967a801eb5aedfa0a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/6/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49236,
+      "numero": 7,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c229eb911f585be823686b4cfccb35f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/7/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49237,
+      "numero": 8,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebea519cc0cae7f746ec818c8df32992.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/8/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49238,
+      "numero": 9,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbb500b2959b76223815fa8c62550516.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/9/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49239,
+      "numero": 10,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f99f66c4ee12dec951c234ad811b6716.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/10/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49240,
+      "numero": 11,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d374d0c18780e492c3d2e63f91752d0d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/11/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49241,
+      "numero": 12,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a2831d578da49e38936bc3fa5ce5ca6.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/12/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49242,
+      "numero": 13,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52c79bb4791baa4cee27125eafc09e1c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/13/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49243,
+      "numero": 14,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1c3d70c85702d16041f30678c9c2ba3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/14/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49244,
+      "numero": 15,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc6c40a57bca562c8067d1062eb91e6c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/15/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49245,
+      "numero": 16,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87760659a610879e83b0cb7684dc821e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/16/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49246,
+      "numero": 17,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16e89c067271451870b831a22e05a136.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/17/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49247,
+      "numero": 18,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba4278d87c889a403ee2f0a1be307de7.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/18/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49248,
+      "numero": 19,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90342b048ad8a0b5ad5411839c02c169.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/19/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49249,
+      "numero": 20,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1cbfa9c878ef8692c1ae21e4cfa11000.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/20/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49250,
+      "numero": 21,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc0c7120d78fdcf57974574359fc2445.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/21/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49251,
+      "numero": 22,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9867275dffcde95f6f4ec8ca56a4d53f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/22/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49252,
+      "numero": 23,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a06df17094fd9599cad32555b897a0d3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/23/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49253,
+      "numero": 24,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb5baa5a1c966f95c78dd39327f7dbd3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/24/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49254,
+      "numero": 25,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01b5df4ce38b543427a9497df6a6e55d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/25/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49255,
+      "numero": 26,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aaf511de2b8a34a8da04758826d1abb3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/26/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49256,
+      "numero": 27,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e34be3aba22acfd0538e4b0fd963ed0d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/27/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49257,
+      "numero": 28,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7f32eb1ed57f8ce0c77128c51d1f759.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/28/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49258,
+      "numero": 29,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fcbf0a290e4dba30d5702ec0ed9444e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/29/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49259,
+      "numero": 30,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c8d31c02ff77587df09f1e89fc52b16.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/30/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49260,
+      "numero": 31,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f70d19c41c092696766a57abe1b4266.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/31/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49261,
+      "numero": 32,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbe5f8f0ea71bc8a0b91e1307e3f74ab.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/32/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49262,
+      "numero": 33,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3f0bf3bab7b197f173b2fc81a275eae.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/33/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49263,
+      "numero": 34,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ffd6130f73d7f56bbb4945039a91131.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/34/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49264,
+      "numero": 35,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_772b0baed68e072715d9958602a7a8c3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/35/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49265,
+      "numero": 36,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea54a67714cbfdd77698426ccbdc23b2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/36/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49266,
+      "numero": 37,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f159dfb71adadd9ed3956f59a97c248.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/37/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49267,
+      "numero": 38,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dbafa1bd602541ba5249cf8cc388acf.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/38/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49268,
+      "numero": 39,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0d09ad8cf586c7097caf3a153961a65.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/39/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49269,
+      "numero": 40,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78c793baf5212093953257d855dc2203.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/40/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49270,
+      "numero": 41,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_460066ec29274e9c86d952a27dc83f5f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/41/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49271,
+      "numero": 42,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46cdab6ee8d08331f2369b4b04a4a4d5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/42/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49272,
+      "numero": 43,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_790e2f9976b29bf0967e6bf4f2490da8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/43/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49273,
+      "numero": 44,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c051e687e5a624f4543dd6adca7508b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/44/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49274,
+      "numero": 45,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2bfe9ac5b7599f4c6dbd5b83972d4c5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/45/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49275,
+      "numero": 46,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86db00ea09965c14268bcb96bfa6f834.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/46/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49276,
+      "numero": 47,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_313686839349f02ad9f7bf1ec81db552.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/47/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49277,
+      "numero": 48,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b672a4ef6b0fe8b994efa382c5a53c3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/48/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49278,
+      "numero": 49,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e327f32dbb22d433600688b7e9af0db.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/49/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49279,
+      "numero": 50,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4810e3ec0a42f9824768643af3d99313.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/50/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49280,
+      "numero": 51,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06dc745ebe65fdc0b40a6360a1876967.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/51/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49281,
+      "numero": 52,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49dc7cd8ce0972b8a305b2d14202a000.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/52/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49282,
+      "numero": 53,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9d56e4df9f4a94e2a2ef288d126f9da.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/53/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49283,
+      "numero": 54,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31b7dbebefaf552b556cb54e164f94c5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/54/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49284,
+      "numero": 55,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea79ec9858e427c0b3465baa341bef7b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/55/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49285,
+      "numero": 56,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1558cccd99d12f15331f34747737d64.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/56/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49286,
+      "numero": 57,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b71afec3f95426de83dbd6c81622a37.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/57/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49287,
+      "numero": 58,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_017e3cdfbb52cd9828ec3136354c54b2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/58/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49288,
+      "numero": 59,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3067c356701b93f393f765bed1256bfd.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/59/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49289,
+      "numero": 60,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_973e0a48e49acde21a9e0a3463589860.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/60/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49290,
+      "numero": 61,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3b5cb5dec3aa02af6dd16a5738b6b04.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/61/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49291,
+      "numero": 62,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e06933b93b8ec7f863656f6f08f0417.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/62/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49292,
+      "numero": 63,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51d81424aa2d36bf4248ae8a4a3cc885.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/63/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49293,
+      "numero": 64,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c5d7eba7610493f33dd6b68d75ef87c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/64/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49294,
+      "numero": 65,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7574933a1b39d861a171370e4582ec28.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/65/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49295,
+      "numero": 66,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_472a3b0078de94d9743715bad1d9fb90.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/66/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49296,
+      "numero": 67,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e1536b061e7ec942c58bb29ae459ff4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/67/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49297,
+      "numero": 68,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/68/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49298,
+      "numero": 69,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bdee46fbdd7870d3018884fb7be2a72b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/69/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49299,
+      "numero": 70,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_843966e79e757cf797b7dfe514e30af1.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/70/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49300,
+      "numero": 71,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd39400710867187ef39d00d99991082.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/71/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49301,
+      "numero": 72,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6205b11554ae09686d1186cd15744a02.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/72/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    },
+    {
+      "id_origen": 49302,
+      "numero": 73,
+      "titulo": "Yu☆Gi☆Oh! Zexal - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28e335e762e26a85af8789e7264b5a97.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal/73/",
+      "publicado_en_origen": "2022-05-11 22:57:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "627",
+  "cantidad_episodios_declarada": 73,
+  "detalle_extraido_en": "2026-08-26T18:53:49+00:00"
+}

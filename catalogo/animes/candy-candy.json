@@ -1,0 +1,941 @@
+{
+  "id_origen": 459,
+  "slug": "candy-candy",
+  "titulo": "Candy Candy",
+  "titulo_corto": "Candy Candy",
+  "sinopsis": "Cuenta la historia de una niña llamada Candy White, quien es abandonada en un hogar para niños huerfanos junnto a otro bebe el cual es llamado Annie, conforme esta niña va creciendo va teniendo nuevas aventuras, amores,amigos y mas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/candy-candy.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/candy-candy/",
+  "episodios": [
+    {
+      "id_origen": 13518,
+      "numero": 1,
+      "titulo": "Candy Candy - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f419f44d19be2787d4830e3bd79dd43f.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/1/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13519,
+      "numero": 2,
+      "titulo": "Candy Candy - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4843444b2cd1c2d4b2b261e396c5da4a.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/2/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13520,
+      "numero": 3,
+      "titulo": "Candy Candy - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2410f01cc34c57702bbec8f884db18d5.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/3/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13521,
+      "numero": 4,
+      "titulo": "Candy Candy - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2a58d530f82792e08c9ffb0e7f0ee1f.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/4/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13522,
+      "numero": 5,
+      "titulo": "Candy Candy - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_468cbac056133a996283cca7e2976336.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/5/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13523,
+      "numero": 6,
+      "titulo": "Candy Candy - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58a64841d710f8f56ebebb6aeba57a98.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/6/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13524,
+      "numero": 7,
+      "titulo": "Candy Candy - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94845a3ed9806f1cef14973830dd8c39.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/7/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13525,
+      "numero": 8,
+      "titulo": "Candy Candy - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aec3d6abde16f9aad1970fad0fed2cb3.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/8/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13526,
+      "numero": 9,
+      "titulo": "Candy Candy - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d532f8e870faf8a0d8f6433b7952f38d.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/9/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13527,
+      "numero": 10,
+      "titulo": "Candy Candy - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b4219720cc03460e2e65140f5bad4db.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/10/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13528,
+      "numero": 11,
+      "titulo": "Candy Candy - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec62f93b5e03666fe7429882aa7c0207.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/11/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13529,
+      "numero": 12,
+      "titulo": "Candy Candy - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57b838f084bb77c72c6a493a5fc4a0cd.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/12/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13530,
+      "numero": 13,
+      "titulo": "Candy Candy - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e96560b68b0d11e80e48fb30b5f8b01d.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/13/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13531,
+      "numero": 14,
+      "titulo": "Candy Candy - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e185111ced5be9d23745229b5fff2f16.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/14/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13532,
+      "numero": 15,
+      "titulo": "Candy Candy - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48c49b993e040952bd64cf8362e5068b.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/15/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13533,
+      "numero": 16,
+      "titulo": "Candy Candy - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34113f84ba95703fef6b6187de70d6e0.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/16/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13534,
+      "numero": 17,
+      "titulo": "Candy Candy - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4204dc3a11678c6b1d0be57cfe0a21b0.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/17/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13535,
+      "numero": 18,
+      "titulo": "Candy Candy - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_106dcf42d88466444a4f5c6455c4d2ee.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/18/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13536,
+      "numero": 19,
+      "titulo": "Candy Candy - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3d2924150c8fc0c437925e9bc080941.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/19/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13537,
+      "numero": 20,
+      "titulo": "Candy Candy - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec9b954aefd15bc4fffe92f5683d1dd2.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/20/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13538,
+      "numero": 21,
+      "titulo": "Candy Candy - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d84baaa70a252bc91bb2349cd9e8b231.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/21/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13539,
+      "numero": 22,
+      "titulo": "Candy Candy - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95743904f0de5aa6327dee27efdc81b4.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/22/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13540,
+      "numero": 23,
+      "titulo": "Candy Candy - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_414f7d4cf68fce9015532f85372d58da.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/23/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13541,
+      "numero": 24,
+      "titulo": "Candy Candy - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42a7e8017ab9578358f118300f4720fb.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/24/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13542,
+      "numero": 25,
+      "titulo": "Candy Candy - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f28c49d8be62973ac7716e0b87dae2f9.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/25/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13543,
+      "numero": 26,
+      "titulo": "Candy Candy - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e5281ee978b78d6f5728aad8f28fedb.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/26/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13544,
+      "numero": 27,
+      "titulo": "Candy Candy - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bed827b4857bf056d05980661990ccdc.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/27/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13545,
+      "numero": 28,
+      "titulo": "Candy Candy - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bae00fb8b4115786ba5dbbb67b9b177a.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/28/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13546,
+      "numero": 29,
+      "titulo": "Candy Candy - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04ef32630d2b67bf4fe2ef795ec67af9.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/29/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13547,
+      "numero": 30,
+      "titulo": "Candy Candy - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2edfb49eafd8d8946543d4504bf90c38.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/30/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13548,
+      "numero": 31,
+      "titulo": "Candy Candy - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f73f9ab6a0f3235ab7c4554ea19e09b7.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/31/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13549,
+      "numero": 32,
+      "titulo": "Candy Candy - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d78f6439e652fdbf801d103430d2e12.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/32/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13550,
+      "numero": 33,
+      "titulo": "Candy Candy - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98f958ee1bb503e1fba9c90574ecbdb8.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/33/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13551,
+      "numero": 34,
+      "titulo": "Candy Candy - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1259817cfe2264b52ebda0aea245db63.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/34/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13552,
+      "numero": 35,
+      "titulo": "Candy Candy - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdad431591373e47eba5ab6c984c2b55.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/35/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13553,
+      "numero": 36,
+      "titulo": "Candy Candy - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b0b190604cb556e2a00b412b7156370.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/36/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13554,
+      "numero": 37,
+      "titulo": "Candy Candy - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a9f57c5dadf5bc6555a2e754ca3cfa7.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/37/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13555,
+      "numero": 38,
+      "titulo": "Candy Candy - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a1434df03dd6a92adda40a337914256.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/38/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13556,
+      "numero": 39,
+      "titulo": "Candy Candy - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8910f41d3f22b34450934ea4c13eacf5.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/39/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13557,
+      "numero": 40,
+      "titulo": "Candy Candy - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b695c680f92ed7efbe95d056782827ad.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/40/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13558,
+      "numero": 41,
+      "titulo": "Candy Candy - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e3115f9d6ac3c663e9a264fcefb6cd7.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/41/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13559,
+      "numero": 42,
+      "titulo": "Candy Candy - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64f9f403cbe1b6f341975cfa85484349.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/42/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13560,
+      "numero": 43,
+      "titulo": "Candy Candy - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1028301bbff33a4443273d3d86a3d99.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/43/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13561,
+      "numero": 44,
+      "titulo": "Candy Candy - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7dfd48cc83cb097a47814268187b697.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/44/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13562,
+      "numero": 45,
+      "titulo": "Candy Candy - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6482081cc9fd2748f7457d6ab23506d.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/45/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13563,
+      "numero": 46,
+      "titulo": "Candy Candy - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5276818eded29a652edfb6a40c9308c4.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/46/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13564,
+      "numero": 47,
+      "titulo": "Candy Candy - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d473d250193acc1cb049f2840310c2c4.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/47/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13565,
+      "numero": 48,
+      "titulo": "Candy Candy - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71b10b95017ebdaa1984b0ded4c2a173.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/48/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13566,
+      "numero": 49,
+      "titulo": "Candy Candy - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bea9e07f447fd088811cc81697a4d4e.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/49/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13567,
+      "numero": 50,
+      "titulo": "Candy Candy - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c9ffefacf5fdeb898460f35ce928ad0.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/50/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13568,
+      "numero": 51,
+      "titulo": "Candy Candy - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04cd6b3a4a100219aef16baf900d804e.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/51/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13569,
+      "numero": 52,
+      "titulo": "Candy Candy - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdcfb1c07205f7057b0a305eb21e72d5.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/52/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13570,
+      "numero": 53,
+      "titulo": "Candy Candy - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_282ed79347cfc23fc4a700154d671e05.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/53/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13571,
+      "numero": 54,
+      "titulo": "Candy Candy - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34d2379317fb3635602ad19abbabf397.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/54/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13572,
+      "numero": 55,
+      "titulo": "Candy Candy - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f85a33edd5813b5f91631e5d1ff9099.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/55/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13573,
+      "numero": 56,
+      "titulo": "Candy Candy - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23dc0af4dd299ca63fb05702bf686e6b.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/56/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13574,
+      "numero": 57,
+      "titulo": "Candy Candy - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96a83c96abbe6d0b40c72b279ebdf76e.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/57/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13575,
+      "numero": 58,
+      "titulo": "Candy Candy - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a8a64171a9145f6a47e5b3544632e3b.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/58/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13576,
+      "numero": 59,
+      "titulo": "Candy Candy - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_842ca578342915ccb8ae069595ba7233.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/59/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13577,
+      "numero": 60,
+      "titulo": "Candy Candy - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb8fbba83e94ed1b810468317bf9d286.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/60/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13578,
+      "numero": 61,
+      "titulo": "Candy Candy - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_770148201c79c84e752d0b31aebdabc7.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/61/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13579,
+      "numero": 62,
+      "titulo": "Candy Candy - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e13dd027be0f2152ce387ac0ea83d863.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/62/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13580,
+      "numero": 63,
+      "titulo": "Candy Candy - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_100f962d991f6846fc9b3e6699ed9b13.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/63/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13581,
+      "numero": 64,
+      "titulo": "Candy Candy - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_117cdc17fa822afc77008dd9ba74b6af.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/64/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13582,
+      "numero": 65,
+      "titulo": "Candy Candy - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_40882bebd317419cfcea3adc3dcfae6c.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/65/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13583,
+      "numero": 66,
+      "titulo": "Candy Candy - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad7fe02e59ae7d37c32f8dd238662d0d.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/66/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13584,
+      "numero": 67,
+      "titulo": "Candy Candy - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31c1d3f0e9138ff2f553f8a271dda663.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/67/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13585,
+      "numero": 68,
+      "titulo": "Candy Candy - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3600ee41761c7da0116a12ea8b6588e.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/68/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13586,
+      "numero": 69,
+      "titulo": "Candy Candy - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e53ba686b7ad2ec7825f0f4afff80a1b.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/69/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13587,
+      "numero": 70,
+      "titulo": "Candy Candy - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efc52ad8c8b25e39ff87d69407971378.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/70/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13588,
+      "numero": 71,
+      "titulo": "Candy Candy - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49d8e07d99ea659f7b7c42fae98836a1.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/71/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13589,
+      "numero": 72,
+      "titulo": "Candy Candy - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05f56d5f042aa4dce70f211d2a981e15.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/72/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13590,
+      "numero": 73,
+      "titulo": "Candy Candy - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d075e2fdbc8e2e66a47b39a0652ce31.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/73/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13591,
+      "numero": 74,
+      "titulo": "Candy Candy - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36d838a7f08b7ac8295662b7b104440b.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/74/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13592,
+      "numero": 75,
+      "titulo": "Candy Candy - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ef899fe33f78d18506d037fd734f900.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/75/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13593,
+      "numero": 76,
+      "titulo": "Candy Candy - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_908c762ed8a762118027b6aff6d866c2.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/76/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13594,
+      "numero": 77,
+      "titulo": "Candy Candy - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86f01e5c7135b53cf58b68d44c449156.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/77/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13595,
+      "numero": 78,
+      "titulo": "Candy Candy - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e30c5701e13a4e6e137d71eb71c416b4.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/78/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13596,
+      "numero": 79,
+      "titulo": "Candy Candy - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31ab328e47c4ea3fe3015eb7eaa59af9.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/79/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13597,
+      "numero": 80,
+      "titulo": "Candy Candy - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3be1c8a8a04cde774ab30e06a41b5b2.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/80/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13598,
+      "numero": 81,
+      "titulo": "Candy Candy - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d8a7e57e629a238f50961910df61fe0.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/81/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13599,
+      "numero": 82,
+      "titulo": "Candy Candy - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aeda4e5a3a22f1e1b0cfe7a8191fb21a.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/82/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13600,
+      "numero": 83,
+      "titulo": "Candy Candy - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8ed252ad439861c556d1031b6d8d51f.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/83/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13601,
+      "numero": 84,
+      "titulo": "Candy Candy - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7ead1d09ab4349af3d7158e3da29564.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/84/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13602,
+      "numero": 85,
+      "titulo": "Candy Candy - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7419ae04f248e5105ac3d0700389775.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/85/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13603,
+      "numero": 86,
+      "titulo": "Candy Candy - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d51ecc3c1796c717e164b0102fd8a98.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/86/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13604,
+      "numero": 87,
+      "titulo": "Candy Candy - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a77054e9d6c3fb75907aed15140ca1e6.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/87/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13605,
+      "numero": 88,
+      "titulo": "Candy Candy - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f266449cd5af9f0a409d02703b414f94.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/88/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13606,
+      "numero": 89,
+      "titulo": "Candy Candy - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4acbedbe977480d19b7b682d4878cae2.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/89/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13607,
+      "numero": 90,
+      "titulo": "Candy Candy - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d479263a1438a8f9e85937a3a2d4f4a8.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/90/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13608,
+      "numero": 91,
+      "titulo": "Candy Candy - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_487648b2b65867706a16ae2fc325112e.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/91/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13609,
+      "numero": 92,
+      "titulo": "Candy Candy - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ad2eb46c0f9ac3bddd60f8eaca8a772.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/92/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13610,
+      "numero": 93,
+      "titulo": "Candy Candy - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58efa70ac9501993f69ac68489db09ad.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/93/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13611,
+      "numero": 94,
+      "titulo": "Candy Candy - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_556950cd2810a798637000e9e438aac5.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/94/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13612,
+      "numero": 95,
+      "titulo": "Candy Candy - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ff0bbc7c4dde77be85a27a1c5ba6d6c.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/95/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13613,
+      "numero": 96,
+      "titulo": "Candy Candy - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7da9599ceaa0dd2498d02cc7985f5bde.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/96/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13614,
+      "numero": 97,
+      "titulo": "Candy Candy - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca6d44105c8d58368d11134a0e2146ff.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/97/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13615,
+      "numero": 98,
+      "titulo": "Candy Candy - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f334c47648f6c8f9eb0bc8c416f217a2.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/98/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13616,
+      "numero": 99,
+      "titulo": "Candy Candy - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea415b5f7047769aac77f70df7226a85.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/99/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13617,
+      "numero": 100,
+      "titulo": "Candy Candy - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88fce63f42b8b78770aae2e70ccb67bc.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/100/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13618,
+      "numero": 101,
+      "titulo": "Candy Candy - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34f8150045a976a95a6a16248623f28b.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/101/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13619,
+      "numero": 102,
+      "titulo": "Candy Candy - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bacdf41fd247d01b0203e599892f99ba.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/102/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13620,
+      "numero": 103,
+      "titulo": "Candy Candy - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0cb3720a75ae4f06cab3cd260c7be14.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/103/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13621,
+      "numero": 104,
+      "titulo": "Candy Candy - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72a18efb5f9cc44f119aeac6fe4bb42a.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/104/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13622,
+      "numero": 105,
+      "titulo": "Candy Candy - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_177fdb0c18f85f1fa5dcfc76d9b2cdd9.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/105/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13623,
+      "numero": 106,
+      "titulo": "Candy Candy - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6aa3f7e91ef087b5e9f647e25241745f.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/106/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13624,
+      "numero": 107,
+      "titulo": "Candy Candy - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e832d017315675c79731378fad5c15e6.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/107/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13625,
+      "numero": 108,
+      "titulo": "Candy Candy - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4375b1899f2a38ba3d4c7d08793325ec.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/108/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13626,
+      "numero": 109,
+      "titulo": "Candy Candy - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92a795b46873063e419773b4f310fc29.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/109/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13627,
+      "numero": 110,
+      "titulo": "Candy Candy - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_581c2ccb2333cbefb5909c5b06953f60.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/110/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13628,
+      "numero": 111,
+      "titulo": "Candy Candy - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d868f39a91226158ba7e495d145a0ad5.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/111/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13629,
+      "numero": 112,
+      "titulo": "Candy Candy - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bb2cdd9a728af16a32aee019a012fb0.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/112/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13630,
+      "numero": 113,
+      "titulo": "Candy Candy - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0ba3ef0fbb84634cbda64006c598618.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/113/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13631,
+      "numero": 114,
+      "titulo": "Candy Candy - 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb4e345e4246a6264a5050d32e227b79.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/114/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    },
+    {
+      "id_origen": 13632,
+      "numero": 115,
+      "titulo": "Candy Candy - 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7e5d59efb3188413e6049cef06b2f5b.jpg",
+      "url_origen": "https://jkanime.net/candy-candy/115/",
+      "publicado_en_origen": "2011-12-08 18:26:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "459",
+  "cantidad_episodios_declarada": 115,
+  "detalle_extraido_en": "2026-08-26T18:22:34+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 3054,
+  "slug": "getsuyoubi-no-tawawa-2-special",
+  "titulo": "Getsuyoubi no Tawawa 2 Special",
+  "titulo_corto": "Getsuyoubi no Tawawa 2 Special",
+  "sinopsis": "Episodio 13 no emitido incluido con el lanzamiento en Blu-ray de Getsuyoubi no Tawawa 2.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/getsuyoubi-no-tawawa-2-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/getsuyoubi-no-tawawa-2-special/",
+  "episodios": [
+    {
+      "id_origen": 48275,
+      "numero": 1,
+      "titulo": "Getsuyoubi no Tawawa 2 Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c937a83c368471c796797f022e275555.jpg",
+      "url_origen": "https://jkanime.net/getsuyoubi-no-tawawa-2-special/1/",
+      "publicado_en_origen": "2022-02-15 14:20:07"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3054",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:28:07+00:00"
+}

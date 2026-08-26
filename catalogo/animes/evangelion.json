@@ -1,0 +1,229 @@
+{
+  "id_origen": 205,
+  "slug": "evangelion",
+  "titulo": "Neon Genesis Evangelion",
+  "titulo_corto": "Neon Genesis Evangelion",
+  "sinopsis": "Según cuentan los libros de historia, el 13 de Septiembre del 2000, un enorme meteorito chocó contra la Antártida, causando el derretimiento del Polo Sur y la consecuente inundación y destrucción de todas las ciudades costeras. A este evento crucial se lo denomino Segundo Impacto -El primero fue el que destruyó a los dinosaurios-. La Tierra atravesó luego de ello un estado de crisis y catástrofes naturales y más de mitad de la población humana murió. Han pasado 15 años desde el Segundo Impacto cuando Tokyo-3, es atacada por un misterioso ser orgánico gigante, sin embargo esto no parece ser una sorpresa para un selecto grupo de gente de una organización de la ONU llamada NERV. Ellos se refieren al enemigo como \"Tercer Ángel\" y han desarrollado unos enigmáticos robots gigantes llamados EVA con una particularidad, solo pueden ser piloteados por jóvenes de 14 años con caracteristicas no del todo claras.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/evangelion.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/evangelion/",
+  "episodios": [
+    {
+      "id_origen": 5521,
+      "numero": 1,
+      "titulo": "Evangelion 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a94ecfa54dcb88a2fa993bfa6388f9e.jpg",
+      "url_origen": "https://jkanime.net/evangelion/1/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5522,
+      "numero": 2,
+      "titulo": "Evangelion 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_132d6c1408f2492456848667346b54b6.jpg",
+      "url_origen": "https://jkanime.net/evangelion/2/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5523,
+      "numero": 3,
+      "titulo": "Evangelion 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e92e1b476bb5262d793fd40931e0ed53.jpg",
+      "url_origen": "https://jkanime.net/evangelion/3/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5524,
+      "numero": 4,
+      "titulo": "Evangelion 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81e3225c6ad49623167a4309eb4b2e75.jpg",
+      "url_origen": "https://jkanime.net/evangelion/4/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5525,
+      "numero": 5,
+      "titulo": "Evangelion 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b17d3264fd9070a5be706c853ccd720.jpg",
+      "url_origen": "https://jkanime.net/evangelion/5/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5526,
+      "numero": 6,
+      "titulo": "Evangelion 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3eefceb8087e964f89c2d59e8a249915.jpg",
+      "url_origen": "https://jkanime.net/evangelion/6/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5527,
+      "numero": 7,
+      "titulo": "Evangelion 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e41e164f7485ec4a28741a2d0ea41c74.jpg",
+      "url_origen": "https://jkanime.net/evangelion/7/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5528,
+      "numero": 8,
+      "titulo": "Evangelion 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_848c4965359e617d5e16c924b4a85fd9.jpg",
+      "url_origen": "https://jkanime.net/evangelion/8/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5529,
+      "numero": 9,
+      "titulo": "Evangelion 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db0513583c7b05237076d942baab7ce9.jpg",
+      "url_origen": "https://jkanime.net/evangelion/9/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5530,
+      "numero": 10,
+      "titulo": "Evangelion 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_412604be30f701b1b1e3124c252065e6.jpg",
+      "url_origen": "https://jkanime.net/evangelion/10/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5531,
+      "numero": 11,
+      "titulo": "Evangelion 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5a28f81834b6df2b6db6d3e5e2635c7.jpg",
+      "url_origen": "https://jkanime.net/evangelion/11/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5532,
+      "numero": 12,
+      "titulo": "Evangelion 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_378fb9f589cf7930275f25e4b5afbddd.jpg",
+      "url_origen": "https://jkanime.net/evangelion/12/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5533,
+      "numero": 13,
+      "titulo": "Evangelion 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8965f76632d7672e7d3cf29c87ecaa0c.jpg",
+      "url_origen": "https://jkanime.net/evangelion/13/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5534,
+      "numero": 14,
+      "titulo": "Evangelion 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de6b1cf3fb0a3aa1244d30f7b8c29c41.jpg",
+      "url_origen": "https://jkanime.net/evangelion/14/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5535,
+      "numero": 15,
+      "titulo": "Evangelion 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ec69dd44416c46745f6edd947b470cd.jpg",
+      "url_origen": "https://jkanime.net/evangelion/15/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5536,
+      "numero": 16,
+      "titulo": "Evangelion 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1134ac57b5b1d38b7d70c1b6feaa28cf.jpg",
+      "url_origen": "https://jkanime.net/evangelion/16/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5537,
+      "numero": 17,
+      "titulo": "Evangelion 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae3f58a127f6c1f12c4942432d1f246a.jpg",
+      "url_origen": "https://jkanime.net/evangelion/17/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5538,
+      "numero": 18,
+      "titulo": "Evangelion 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e886e4b377efe990f936dde0d9c98ca.jpg",
+      "url_origen": "https://jkanime.net/evangelion/18/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5539,
+      "numero": 19,
+      "titulo": "Evangelion 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f998fe2862e4dbab7e4d18de41d02d3b.jpg",
+      "url_origen": "https://jkanime.net/evangelion/19/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5540,
+      "numero": 20,
+      "titulo": "Evangelion 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86edc93505434db5aa0e091e50e678b7.jpg",
+      "url_origen": "https://jkanime.net/evangelion/20/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5541,
+      "numero": 21,
+      "titulo": "Evangelion 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c63926ebcabda26b5cdb31b5cc91efb.jpg",
+      "url_origen": "https://jkanime.net/evangelion/21/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5542,
+      "numero": 22,
+      "titulo": "Evangelion 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd4d08cd70f4be1982372107b3b448ef.jpg",
+      "url_origen": "https://jkanime.net/evangelion/22/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5543,
+      "numero": 23,
+      "titulo": "Evangelion 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a10a26631d45928cb8be4ebabbee8b8d.jpg",
+      "url_origen": "https://jkanime.net/evangelion/23/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5544,
+      "numero": 24,
+      "titulo": "Evangelion 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97785e0500ad16c18574c64189ccf4b4.jpg",
+      "url_origen": "https://jkanime.net/evangelion/24/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5545,
+      "numero": 25,
+      "titulo": "Evangelion 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4270771aa8df98b3317d174170ca046.jpg",
+      "url_origen": "https://jkanime.net/evangelion/25/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5546,
+      "numero": 26,
+      "titulo": "Evangelion 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24646475ed957884ca39b0c1d9cc06b2.jpg",
+      "url_origen": "https://jkanime.net/evangelion/26/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "205",
+  "cantidad_episodios_declarada": 26,
+  "detalle_extraido_en": "2026-08-26T18:40:14+00:00"
+}

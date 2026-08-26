@@ -1,0 +1,221 @@
+{
+  "id_origen": 984,
+  "slug": "gundam-build-fighters",
+  "titulo": "Gundam Build Fighters",
+  "titulo_corto": "Gundam Build Fighters",
+  "sinopsis": "La historia se desarrolla en un futuro cercano en que las “Batallas GunPla”, competiciones entre gunplas, se han hecho tan populares que se habla del “Segundo Boom de los GunPla”. Sei Iori, es un estudiante hijo único del dueño de una tienda de modelismo. Quizás por eso su habilidad construyendo gunplas es notable, pero no cuenta con experiencia en Batallas GunPla. Un día se encuentra con Reiji, un misterioso muchacho que resulta ser un experto en las Batallas GunPla. Juntos intentarán alcanzar el prestigioso “Campeonato Mundial de Batallas GunPla”.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gundam-build-fighters.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gundam-build-fighters/",
+  "episodios": [
+    {
+      "id_origen": 21696,
+      "numero": 1,
+      "titulo": "Gundam Build Fighters - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d83a3ece517109abe8c5127136eb6145.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/1/",
+      "publicado_en_origen": "2013-10-08 16:17:21"
+    },
+    {
+      "id_origen": 21740,
+      "numero": 2,
+      "titulo": "Gundam Build Fighters - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9259551918ca646cfa759a8c5fb599e5.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/2/",
+      "publicado_en_origen": "2013-10-14 22:28:05"
+    },
+    {
+      "id_origen": 21799,
+      "numero": 3,
+      "titulo": "Gundam Build Fighters - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f331614971dfec6c9c560629f1270dcb.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/3/",
+      "publicado_en_origen": "2013-10-22 17:30:25"
+    },
+    {
+      "id_origen": 21853,
+      "numero": 4,
+      "titulo": "Gundam Build Fighters - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8aad818fe5983b60b3a41bcc9289803.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/4/",
+      "publicado_en_origen": "2013-10-29 16:42:02"
+    },
+    {
+      "id_origen": 21917,
+      "numero": 5,
+      "titulo": "Gundam Build Fighters - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f60f15f6029190a80a3f9c046ab00d2.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/5/",
+      "publicado_en_origen": "2013-11-07 19:47:08"
+    },
+    {
+      "id_origen": 21992,
+      "numero": 6,
+      "titulo": "Gundam Build Fighters - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71541653edfd81ee0ae62fb1fd1be011.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/6/",
+      "publicado_en_origen": "2013-11-17 23:42:00"
+    },
+    {
+      "id_origen": 22027,
+      "numero": 7,
+      "titulo": "Gundam Build Fighters - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12f743edf866f7a7ff81368543dcd1a1.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/7/",
+      "publicado_en_origen": "2013-11-23 08:32:45"
+    },
+    {
+      "id_origen": 22090,
+      "numero": 8,
+      "titulo": "Gundam Build Fighters - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_462b7359bda3d8ed2873c091c2f3b367.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/8/",
+      "publicado_en_origen": "2013-12-01 03:33:28"
+    },
+    {
+      "id_origen": 22170,
+      "numero": 9,
+      "titulo": "Gundam Build Fighters - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3b9b7febd4be079b884e7c47f55f1ab.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/9/",
+      "publicado_en_origen": "2013-12-11 22:33:40"
+    },
+    {
+      "id_origen": 22171,
+      "numero": 10,
+      "titulo": "Gundam Build Fighters - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06b0bd7fc4e16b5caeeecde6de7474b5.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/10/",
+      "publicado_en_origen": "2013-12-11 22:44:24"
+    },
+    {
+      "id_origen": 22218,
+      "numero": 11,
+      "titulo": "Gundam Build Fighters - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1cc6b3e0e95cc75684bb7b090e71b5f.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/11/",
+      "publicado_en_origen": "2013-12-16 17:59:07"
+    },
+    {
+      "id_origen": 22279,
+      "numero": 12,
+      "titulo": "Gundam Build Fighters - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_503440008c1a25ad5ad968c1458533bc.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/12/",
+      "publicado_en_origen": "2013-12-24 23:45:39"
+    },
+    {
+      "id_origen": 22377,
+      "numero": 13,
+      "titulo": "Gundam Build Fighters - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e5085b1a8633688490ba0fe7fe2862f.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/13/",
+      "publicado_en_origen": "2014-01-07 02:01:34"
+    },
+    {
+      "id_origen": 22441,
+      "numero": 14,
+      "titulo": "Gundam Build Fighters - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_275c8bcb2fd8fa798e3f55703bb8c40d.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/14/",
+      "publicado_en_origen": "2014-01-14 20:06:09"
+    },
+    {
+      "id_origen": 22493,
+      "numero": 15,
+      "titulo": "Gundam Build Fighters - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6dad0d5e6efdb6f79c443dcb3002ad0.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/15/",
+      "publicado_en_origen": "2014-01-21 01:29:25"
+    },
+    {
+      "id_origen": 22559,
+      "numero": 16,
+      "titulo": "Gundam Build Fighters - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_246ba26b5b33d037405f55b240be4777.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/16/",
+      "publicado_en_origen": "2014-01-29 11:02:59"
+    },
+    {
+      "id_origen": 22618,
+      "numero": 17,
+      "titulo": "Gundam Build Fighters - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61d2763add034ec9837a2a36c8f21bce.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/17/",
+      "publicado_en_origen": "2014-02-04 22:55:14"
+    },
+    {
+      "id_origen": 22689,
+      "numero": 18,
+      "titulo": "Gundam Build Fighters - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d79ee33c5f2e4b7594fd3d3b67f36ed.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/18/",
+      "publicado_en_origen": "2014-02-11 21:25:17"
+    },
+    {
+      "id_origen": 22741,
+      "numero": 19,
+      "titulo": "Gundam Build Fighters - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf8377e918bc9ca5e173d0226382e338.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/19/",
+      "publicado_en_origen": "2014-02-18 17:18:49"
+    },
+    {
+      "id_origen": 22807,
+      "numero": 20,
+      "titulo": "Gundam Build Fighters - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1bad13934791680a1d90abb4abb26e2.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/20/",
+      "publicado_en_origen": "2014-02-26 01:00:38"
+    },
+    {
+      "id_origen": 22870,
+      "numero": 21,
+      "titulo": "Gundam Build Fighters - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bcd9ecdada91ad9da498b58877cc8f18.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/21/",
+      "publicado_en_origen": "2014-03-04 22:26:06"
+    },
+    {
+      "id_origen": 22935,
+      "numero": 22,
+      "titulo": "Gundam Build Fighters - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2047faa23a3afb0518e063b768386764.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/22/",
+      "publicado_en_origen": "2014-03-11 22:53:45"
+    },
+    {
+      "id_origen": 22994,
+      "numero": 23,
+      "titulo": "Gundam Build Fighters - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0eec9cfc8ea6b4edc679b19030b78d03.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/23/",
+      "publicado_en_origen": "2014-03-18 23:31:32"
+    },
+    {
+      "id_origen": 23073,
+      "numero": 24,
+      "titulo": "Gundam Build Fighters - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_432bb7cac8a262cdea28cb357545d50a.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/24/",
+      "publicado_en_origen": "2014-03-25 20:30:57"
+    },
+    {
+      "id_origen": 23120,
+      "numero": 25,
+      "titulo": "Gundam Build Fighters - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a813f6133031aa997c1223aca7ef7cf8.jpg",
+      "url_origen": "https://jkanime.net/gundam-build-fighters/25/",
+      "publicado_en_origen": "2014-04-01 20:34:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "984",
+  "cantidad_episodios_declarada": 25,
+  "detalle_extraido_en": "2026-08-26T18:29:17+00:00"
+}

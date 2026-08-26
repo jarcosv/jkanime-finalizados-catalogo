@@ -1,0 +1,125 @@
+{
+  "id_origen": 3160,
+  "slug": "lycoris-recoil",
+  "titulo": "Lycoris Recoil",
+  "titulo_corto": "Lycoris Recoil",
+  "sinopsis": "Este café de Japón se puede encargar de mucho: servir deliciosos postres y bebidas, entregas a domicilio y eliminar zombies, monstruos gigantes y más. ¿Tienes un problema? ¡Llámalos!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/lycoris-recoil.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/lycoris-recoil/",
+  "episodios": [
+    {
+      "id_origen": 49778,
+      "numero": 1,
+      "titulo": "Lycoris Recoil - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5e455602e8673031a3b8a26470917b7.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/1/",
+      "publicado_en_origen": "2022-07-02 12:12:30"
+    },
+    {
+      "id_origen": 49827,
+      "numero": 2,
+      "titulo": "Lycoris Recoil - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f348df19c8a828020c5d1d5b231ad6b0.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/2/",
+      "publicado_en_origen": "2022-07-09 12:27:00"
+    },
+    {
+      "id_origen": 49887,
+      "numero": 3,
+      "titulo": "Lycoris Recoil - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22ffd504007c22634ef2e7f6ef05358b.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/3/",
+      "publicado_en_origen": "2022-07-16 18:54:38"
+    },
+    {
+      "id_origen": 49938,
+      "numero": 4,
+      "titulo": "Lycoris Recoil - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8cb1ca01f21e6c6480c1487144d5cac.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/4/",
+      "publicado_en_origen": "2022-07-23 12:18:55"
+    },
+    {
+      "id_origen": 49991,
+      "numero": 5,
+      "titulo": "Lycoris Recoil - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_196c5a9a0d798b27dd4a2f18e6117204.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/5/",
+      "publicado_en_origen": "2022-07-30 12:39:20"
+    },
+    {
+      "id_origen": 50062,
+      "numero": 6,
+      "titulo": "Lycoris Recoil - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7021f314603410d62083acf81ad112e.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/6/",
+      "publicado_en_origen": "2022-08-06 12:52:02"
+    },
+    {
+      "id_origen": 50176,
+      "numero": 7,
+      "titulo": "Lycoris Recoil - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7ab86f74f270ffbdd9384086451a804.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/7/",
+      "publicado_en_origen": "2022-08-13 12:10:56"
+    },
+    {
+      "id_origen": 50240,
+      "numero": 8,
+      "titulo": "Lycoris Recoil - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00d5d6ae16024e5dc939589abcd2646b.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/8/",
+      "publicado_en_origen": "2022-08-20 13:05:59"
+    },
+    {
+      "id_origen": 50354,
+      "numero": 9,
+      "titulo": "Lycoris Recoil - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b8d5c450f9938e40149b8eb85d95637.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/9/",
+      "publicado_en_origen": "2022-08-27 12:10:00"
+    },
+    {
+      "id_origen": 50424,
+      "numero": 10,
+      "titulo": "Lycoris Recoil - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e200b4bad29878be0dde1e73d50c9c6f.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/10/",
+      "publicado_en_origen": "2022-09-03 12:47:56"
+    },
+    {
+      "id_origen": 50518,
+      "numero": 11,
+      "titulo": "Lycoris Recoil - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7608cd1347c8cdc14160d71b351841d.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/11/",
+      "publicado_en_origen": "2022-09-10 12:15:57"
+    },
+    {
+      "id_origen": 50576,
+      "numero": 12,
+      "titulo": "Lycoris Recoil - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d75dfecca4717bc17ffb2a191726648.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/12/",
+      "publicado_en_origen": "2022-09-17 14:25:37"
+    },
+    {
+      "id_origen": 50635,
+      "numero": 13,
+      "titulo": "Lycoris Recoil - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b09aaeec55fb2df237251644ca81c8d.jpg",
+      "url_origen": "https://jkanime.net/lycoris-recoil/13/",
+      "publicado_en_origen": "2022-09-24 12:35:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3160",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:36:57+00:00"
+}

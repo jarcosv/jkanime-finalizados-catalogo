@@ -1,0 +1,405 @@
+{
+  "id_origen": 152,
+  "slug": "jigoku-sensei-nube",
+  "titulo": "Jigoku Sensei Nube",
+  "titulo_corto": "Jigoku Sensei Nube",
+  "sinopsis": "Narra las aventuras de Meisuke Nueno un maestro de la escuela primaria Dohmori, también conocido como Nube, tiene la capacidad de exorcizar demonios y espíritus gracias al poder de un poderoso demonio que encerró en su mano izquierda la cual siempre cubre con un guante negro. La historia se basa en las aventuras y travesuras de los alumnos de Nube en la escuela, su relación amorosa con la maestra Ritsuko y después con Yukime, una mujer de la nieve.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/jigoku-sensei-nube/",
+  "episodios": [
+    {
+      "id_origen": 3782,
+      "numero": 1,
+      "titulo": "Jigoku Sensei Nube 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f87e955fd6b89f8963b6934beb077d6e.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/1/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3783,
+      "numero": 2,
+      "titulo": "Jigoku Sensei Nube 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1aa3d9c6ce672447e1e5d0f1b5207e85.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/2/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3784,
+      "numero": 3,
+      "titulo": "Jigoku Sensei Nube 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e16e74a63567ecb44ade5c87002bb1d9.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/3/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3785,
+      "numero": 4,
+      "titulo": "Jigoku Sensei Nube 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44feb0096faa8326192570788b38c1d1.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/4/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3786,
+      "numero": 5,
+      "titulo": "Jigoku Sensei Nube 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34306d99c63613fad5b2a140398c0420.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/5/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3787,
+      "numero": 6,
+      "titulo": "Jigoku Sensei Nube 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3175210f90bfc7ea82901db0ef7452f.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/6/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3788,
+      "numero": 7,
+      "titulo": "Jigoku Sensei Nube 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_deb74a85a4a68465b75c721d45db5d3b.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/7/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3789,
+      "numero": 8,
+      "titulo": "Jigoku Sensei Nube 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_335d3d1cd7ef05ec77714a215134914c.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/8/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3790,
+      "numero": 9,
+      "titulo": "Jigoku Sensei Nube 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e73fecc08ee9b0e1a876614ec3178bac.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/9/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3791,
+      "numero": 10,
+      "titulo": "Jigoku Sensei Nube 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_690bb330e5e7e3e07867fafc4d32ec82.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/10/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3792,
+      "numero": 11,
+      "titulo": "Jigoku Sensei Nube 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ecb679fd35dcfd0f0894c399590be1a.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/11/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3793,
+      "numero": 12,
+      "titulo": "Jigoku Sensei Nube 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c157297d1a1ff043255bfb18530caaa2.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/12/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3794,
+      "numero": 13,
+      "titulo": "Jigoku Sensei Nube 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_916d3891a243c10fede49f9c276f1a20.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/13/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3795,
+      "numero": 14,
+      "titulo": "Jigoku Sensei Nube 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42547f5a44d87da3bc40ee5d09624606.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/14/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3796,
+      "numero": 15,
+      "titulo": "Jigoku Sensei Nube 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41c542dfe6e4fc3deb251d64cf6ed2e4.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/15/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3797,
+      "numero": 16,
+      "titulo": "Jigoku Sensei Nube 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36072923bfc3cf47745d704feb489480.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/16/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3798,
+      "numero": 17,
+      "titulo": "Jigoku Sensei Nube 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c82836ed448c41094025b4a872c5341e.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/17/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3799,
+      "numero": 18,
+      "titulo": "Jigoku Sensei Nube 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58521e4e2bd3d4b988cbd17d7365df3c.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/18/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3800,
+      "numero": 19,
+      "titulo": "Jigoku Sensei Nube 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63c6598e9ddd2961e7dfa4d4eb8144a1.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/19/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3801,
+      "numero": 20,
+      "titulo": "Jigoku Sensei Nube 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95323660ed2124450caaac2c46b5ed90.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/20/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3802,
+      "numero": 21,
+      "titulo": "Jigoku Sensei Nube 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3614f463b2d42aba2700556d42740d0.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/21/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3803,
+      "numero": 22,
+      "titulo": "Jigoku Sensei Nube 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e97399278d24e6bbf3a2d5e9c8d34262.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/22/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3804,
+      "numero": 23,
+      "titulo": "Jigoku Sensei Nube 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37968ad196a5085f5ed91e58df8c2cef.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/23/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3805,
+      "numero": 24,
+      "titulo": "Jigoku Sensei Nube 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98cac9d33aad44bb31800130e8c50b5f.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/24/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3806,
+      "numero": 25,
+      "titulo": "Jigoku Sensei Nube 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e7264477cf9b6b237a0d254cf0324e2.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/25/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3807,
+      "numero": 26,
+      "titulo": "Jigoku Sensei Nube 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43a115cbd6f4788924537365be3d6012.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/26/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3808,
+      "numero": 27,
+      "titulo": "Jigoku Sensei Nube 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd8d5260c8131ca7aeea5d41796d1a0a.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/27/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3809,
+      "numero": 28,
+      "titulo": "Jigoku Sensei Nube 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38ef4b66cb25e92abe4d594acb841471.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/28/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3810,
+      "numero": 29,
+      "titulo": "Jigoku Sensei Nube 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02ae6a786bbf135d3d223cbc0e770b6e.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/29/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3811,
+      "numero": 30,
+      "titulo": "Jigoku Sensei Nube 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8068fee5f49946b3a8f85b1007cd40bb.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/30/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3812,
+      "numero": 31,
+      "titulo": "Jigoku Sensei Nube 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_40dba662fae60cd3bcceaa76a82d2873.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/31/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3813,
+      "numero": 32,
+      "titulo": "Jigoku Sensei Nube 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a49e3c3a03ebde64f85c0bacd8a08e2.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/32/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3814,
+      "numero": 33,
+      "titulo": "Jigoku Sensei Nube 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c563c2c394023a07d56ad6b3eb09537a.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/33/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3815,
+      "numero": 34,
+      "titulo": "Jigoku Sensei Nube 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_143758ee65fb29d30caa170c0db0ed36.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/34/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3816,
+      "numero": 35,
+      "titulo": "Jigoku Sensei Nube 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c911241d00294e8bb714eee2e83fa475.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/35/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3817,
+      "numero": 36,
+      "titulo": "Jigoku Sensei Nube 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa6c94460e902005a0b660266190c8ba.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/36/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3818,
+      "numero": 37,
+      "titulo": "Jigoku Sensei Nube 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b994697479c5716eda77e8e9713e5f0f.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/37/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3819,
+      "numero": 38,
+      "titulo": "Jigoku Sensei Nube 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb1848290d5a7de9c9ccabc67fefa211.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/38/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3820,
+      "numero": 39,
+      "titulo": "Jigoku Sensei Nube 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91e50fe1e39af2869d3336eaaeebdb43.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/39/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3821,
+      "numero": 40,
+      "titulo": "Jigoku Sensei Nube 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c04c19c2c2474dbf5f7ac4372c5b9af1.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/40/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3822,
+      "numero": 41,
+      "titulo": "Jigoku Sensei Nube 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e57098d0318a954d1443e2974a38fac.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/41/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3823,
+      "numero": 42,
+      "titulo": "Jigoku Sensei Nube 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bca382c81484983f2d437f97d1e141f3.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/42/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3824,
+      "numero": 43,
+      "titulo": "Jigoku Sensei Nube 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67974233917cea0e42a49a2fb7eb4cf4.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/43/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3825,
+      "numero": 44,
+      "titulo": "Jigoku Sensei Nube 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c24fe9f765a44048868b5a620f05678e.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/44/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3826,
+      "numero": 45,
+      "titulo": "Jigoku Sensei Nube 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a292f1c5874b2be8395ffd75f313937f.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/45/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3827,
+      "numero": 46,
+      "titulo": "Jigoku Sensei Nube 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5b8c484824d8a06f4f3d570bc420313.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/46/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3828,
+      "numero": 47,
+      "titulo": "Jigoku Sensei Nube 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46d3f6029f6170ebccb28945964d09bf.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/47/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3829,
+      "numero": 48,
+      "titulo": "Jigoku Sensei Nube 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7d0858d41a6c29b873e4aba411e6d04.jpg",
+      "url_origen": "https://jkanime.net/jigoku-sensei-nube/48/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "152",
+  "cantidad_episodios_declarada": 49,
+  "detalle_extraido_en": "2026-08-26T18:32:41+00:00"
+}

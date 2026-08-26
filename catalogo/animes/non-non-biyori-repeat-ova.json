@@ -1,0 +1,29 @@
+{
+  "id_origen": 1893,
+  "slug": "non-non-biyori-repeat-ova",
+  "titulo": "Non Non Biyori Repeat OVA",
+  "titulo_corto": "Non Non Biyori Repeat OVA",
+  "sinopsis": "OVA incluída en el décimo volumen del manga",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/non-non-biyori-repeat-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/non-non-biyori-repeat-ova/",
+  "episodios": [
+    {
+      "id_origen": 32886,
+      "numero": 1,
+      "titulo": "Non Non Biyori Repeat OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec47f9657c90a6db70e5e4f1cd1f7a02.jpg",
+      "url_origen": "https://jkanime.net/non-non-biyori-repeat-ova/1/",
+      "publicado_en_origen": "2016-09-26 15:34:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1893",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:46+00:00"
+}

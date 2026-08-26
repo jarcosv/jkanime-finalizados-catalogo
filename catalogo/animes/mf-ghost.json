@@ -1,0 +1,117 @@
+{
+  "id_origen": 3527,
+  "slug": "mf-ghost",
+  "titulo": "MF Ghost",
+  "titulo_corto": "MF Ghost",
+  "sinopsis": "En el 202X, autos autónomos eléctricos dominan Japón, pero el circuito de carreras MFG destaca al usar autos a combustión. Kanata, piloto japonés-británico de 19 años, llega para participar en MFG y encontrar a su padre desaparecido. A pesar de desventajas técnicas, destaca compitiendo en un Toyota 86 prestado por Ogata. Takumi Fujiwara, legendario piloto, es su entrenador. MFG nota a Kanata, marcando un nuevo cambio.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mf-ghost/",
+  "episodios": [
+    {
+      "id_origen": 54293,
+      "numero": 1,
+      "titulo": "MF Ghost - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_faf8d857aeb8560519eb91f28391b094.jpg",
+      "url_origen": "https://jkanime.net/mf-ghost/1/",
+      "publicado_en_origen": "2023-09-30 18:55:03"
+    },
+    {
+      "id_origen": 54383,
+      "numero": 2,
+      "titulo": "MF Ghost - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80702ee9b70138b9ed0617513087f4f0.jpg",
+      "url_origen": "https://jkanime.net/mf-ghost/2/",
+      "publicado_en_origen": "2023-10-08 14:14:16"
+    },
+    {
+      "id_origen": 54474,
+      "numero": 3,
+      "titulo": "MF Ghost - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9735f54e60d90ee816bc4e4e5d9dfefb.jpg",
+      "url_origen": "https://jkanime.net/mf-ghost/3/",
+      "publicado_en_origen": "2023-10-15 12:44:09"
+    },
+    {
+      "id_origen": 54590,
+      "numero": 4,
+      "titulo": "MF Ghost - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afe64385753523fa8eadb9a80aee36f7.jpg",
+      "url_origen": "https://jkanime.net/mf-ghost/4/",
+      "publicado_en_origen": "2023-10-23 02:06:24"
+    },
+    {
+      "id_origen": 54681,
+      "numero": 5,
+      "titulo": "MF Ghost - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37336cc2989464cdc3378e1405132c0f.jpg",
+      "url_origen": "https://jkanime.net/mf-ghost/5/",
+      "publicado_en_origen": "2023-10-29 14:06:00"
+    },
+    {
+      "id_origen": 54774,
+      "numero": 6,
+      "titulo": "MF Ghost - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f29e711ae545ed27132386abec2326b.jpg",
+      "url_origen": "https://jkanime.net/mf-ghost/6/",
+      "publicado_en_origen": "2023-11-06 00:25:49"
+    },
+    {
+      "id_origen": 54876,
+      "numero": 7,
+      "titulo": "MF Ghost - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_912054edd9073e9f0271b92a93316893.jpg",
+      "url_origen": "https://jkanime.net/mf-ghost/7/",
+      "publicado_en_origen": "2023-11-12 15:26:44"
+    },
+    {
+      "id_origen": 54966,
+      "numero": 8,
+      "titulo": "MF Ghost - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f4013baf8f1554cd0fd5ed43b22f97c.jpg",
+      "url_origen": "https://jkanime.net/mf-ghost/8/",
+      "publicado_en_origen": "2023-11-19 14:58:48"
+    },
+    {
+      "id_origen": 55062,
+      "numero": 9,
+      "titulo": "MF Ghost - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78234da970d2a8371f0f958fe1a995a0.jpg",
+      "url_origen": "https://jkanime.net/mf-ghost/9/",
+      "publicado_en_origen": "2023-11-26 13:36:23"
+    },
+    {
+      "id_origen": 55150,
+      "numero": 10,
+      "titulo": "MF Ghost - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ed951d064c37211c533d5bea670fa6b.jpg",
+      "url_origen": "https://jkanime.net/mf-ghost/10/",
+      "publicado_en_origen": "2023-12-03 17:48:14"
+    },
+    {
+      "id_origen": 55244,
+      "numero": 11,
+      "titulo": "MF Ghost - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2c9e81d384aacdbf09418ab0339f395.jpg",
+      "url_origen": "https://jkanime.net/mf-ghost/11/",
+      "publicado_en_origen": "2023-12-10 15:18:36"
+    },
+    {
+      "id_origen": 55341,
+      "numero": 12,
+      "titulo": "MF Ghost - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ef0a679236bab48d442bd2e892d405d.jpg",
+      "url_origen": "https://jkanime.net/mf-ghost/12/",
+      "publicado_en_origen": "2023-12-17 14:05:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3527",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:38:29+00:00"
+}

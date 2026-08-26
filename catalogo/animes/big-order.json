@@ -1,0 +1,29 @@
+{
+  "id_origen": 1735,
+  "slug": "big-order",
+  "titulo": "Big Order",
+  "titulo_corto": "Big Order",
+  "sinopsis": "La historia está protagonizada por un estudiante de instituto llamado Eiji Hoshimiya que guarda un secreto: Cuando era más joven deseaba la destrucción del mundo. Las hadas dan a ciertas personas poderes especiales llamados Orders. Lo que los Orders pueden hacer con sus poderes depende de sus deseos. Diez años después de la Gran Destrucción, Eiji lucha para adecuarse a su inmenso poder.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/big-order.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/big-order/",
+  "episodios": [
+    {
+      "id_origen": 30476,
+      "numero": 1,
+      "titulo": "Big Order",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b53c87a7be4dc51411e59867566d1c71.jpg",
+      "url_origen": "https://jkanime.net/big-order/1/",
+      "publicado_en_origen": "2016-01-01 17:43:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1735",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:19:50+00:00"
+}

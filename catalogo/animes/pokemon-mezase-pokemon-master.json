@@ -1,0 +1,109 @@
+{
+  "id_origen": 3314,
+  "slug": "pokemon-mezase-pokemon-master",
+  "titulo": "Pokemon: Mezase Pokemon Master",
+  "titulo_corto": "Pokemon: Mezase Pokemon Master",
+  "sinopsis": "Historia final con Satoshi y Pikachu para concluir Pokémon (2019) .",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-mezase-pokemon-master.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pokemon-mezase-pokemon-master/",
+  "episodios": [
+    {
+      "id_origen": 51571,
+      "numero": 1,
+      "titulo": "Pokemon: Mezase Pokemon Master - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67d0ace010b3257741e8185585311870.jpg",
+      "url_origen": "https://jkanime.net/pokemon-mezase-pokemon-master/1/",
+      "publicado_en_origen": "2023-01-14 09:54:39"
+    },
+    {
+      "id_origen": 51641,
+      "numero": 2,
+      "titulo": "Pokemon: Mezase Pokemon Master - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_847b561b91e91213a350f5d5da832bdc.jpg",
+      "url_origen": "https://jkanime.net/pokemon-mezase-pokemon-master/2/",
+      "publicado_en_origen": "2023-01-21 12:36:44"
+    },
+    {
+      "id_origen": 51718,
+      "numero": 3,
+      "titulo": "Pokemon: Mezase Pokemon Master - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07fb5c6cb5b9b55b0f6ca81542e57955.jpg",
+      "url_origen": "https://jkanime.net/pokemon-mezase-pokemon-master/3/",
+      "publicado_en_origen": "2023-01-28 10:59:45"
+    },
+    {
+      "id_origen": 51779,
+      "numero": 4,
+      "titulo": "Pokemon: Mezase Pokemon Master - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1ba819f942b1dd0aeef9eb827809663.jpg",
+      "url_origen": "https://jkanime.net/pokemon-mezase-pokemon-master/4/",
+      "publicado_en_origen": "2023-02-03 20:45:42"
+    },
+    {
+      "id_origen": 51851,
+      "numero": 5,
+      "titulo": "Pokemon: Mezase Pokemon Master - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47c6568c1293b43ca711e5f30cc13b4a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-mezase-pokemon-master/5/",
+      "publicado_en_origen": "2023-02-10 22:33:47"
+    },
+    {
+      "id_origen": 51917,
+      "numero": 6,
+      "titulo": "Pokemon: Mezase Pokemon Master - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79add1a620f13463548ac1f5a2a6fa80.jpg",
+      "url_origen": "https://jkanime.net/pokemon-mezase-pokemon-master/6/",
+      "publicado_en_origen": "2023-02-17 20:28:04"
+    },
+    {
+      "id_origen": 51977,
+      "numero": 7,
+      "titulo": "Pokemon: Mezase Pokemon Master - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38e40145beda90bd7820470317a5cc80.jpg",
+      "url_origen": "https://jkanime.net/pokemon-mezase-pokemon-master/7/",
+      "publicado_en_origen": "2023-02-24 22:17:00"
+    },
+    {
+      "id_origen": 52037,
+      "numero": 8,
+      "titulo": "Pokemon: Mezase Pokemon Master - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_411297e714e79141e9c507873fa5b356.jpg",
+      "url_origen": "https://jkanime.net/pokemon-mezase-pokemon-master/8/",
+      "publicado_en_origen": "2023-03-03 22:46:44"
+    },
+    {
+      "id_origen": 52151,
+      "numero": 9,
+      "titulo": "Pokemon: Mezase Pokemon Master - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4136620fc62345d56d1ede23c1cf6f91.jpg",
+      "url_origen": "https://jkanime.net/pokemon-mezase-pokemon-master/9/",
+      "publicado_en_origen": "2023-03-13 01:08:29"
+    },
+    {
+      "id_origen": 52181,
+      "numero": 10,
+      "titulo": "Pokemon: Mezase Pokemon Master - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-mezase-pokemon-master.jpg",
+      "url_origen": "https://jkanime.net/pokemon-mezase-pokemon-master/10/",
+      "publicado_en_origen": "2023-03-18 10:56:56"
+    },
+    {
+      "id_origen": 52234,
+      "numero": 11,
+      "titulo": "Pokemon: Mezase Pokemon Master - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6af74e0ed1989eee9ba5aabb360b70b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-mezase-pokemon-master/11/",
+      "publicado_en_origen": "2023-03-24 20:05:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3314",
+  "cantidad_episodios_declarada": 11,
+  "detalle_extraido_en": "2026-08-26T18:42:40+00:00"
+}

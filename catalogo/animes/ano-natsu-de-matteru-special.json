@@ -1,0 +1,29 @@
+{
+  "id_origen": 1334,
+  "slug": "ano-natsu-de-matteru-special",
+  "titulo": "Ano Natsu de Matteru Special",
+  "titulo_corto": "Ano Natsu de Matteru Special",
+  "sinopsis": "Episodio especial de Ano Natsu de Matteru.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ano-natsu-de-matteru-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ano-natsu-de-matteru-special/",
+  "episodios": [
+    {
+      "id_origen": 25251,
+      "numero": 1,
+      "titulo": "Ano Natsu de Matteru Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8f7da8e2d75253e4003cbc4c24286ac.jpg",
+      "url_origen": "https://jkanime.net/ano-natsu-de-matteru-special/1/",
+      "publicado_en_origen": "2014-10-31 11:07:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1334",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:16:46+00:00"
+}

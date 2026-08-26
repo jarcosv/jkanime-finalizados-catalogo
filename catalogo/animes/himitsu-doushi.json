@@ -1,0 +1,29 @@
+{
+  "id_origen": 4905,
+  "slug": "himitsu-doushi",
+  "titulo": "Himitsu Doushi",
+  "titulo_corto": "Himitsu Doushi",
+  "sinopsis": "",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/himitsu-doushi.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/himitsu-doushi/",
+  "episodios": [
+    {
+      "id_origen": 76137,
+      "numero": 1,
+      "titulo": "Himitsu Doushi",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80eb7f38da69bbf187fb27d75c2e3c96.jpg",
+      "url_origen": "https://jkanime.net/himitsu-doushi/1/",
+      "publicado_en_origen": "2026-08-07 16:35:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:32+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4905",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:30:45+00:00"
+}

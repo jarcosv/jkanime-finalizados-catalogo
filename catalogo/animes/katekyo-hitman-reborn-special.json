@@ -1,0 +1,29 @@
+{
+  "id_origen": 719,
+  "slug": "katekyo-hitman-reborn-special",
+  "titulo": "Katekyo Hitman Reborn! Special",
+  "titulo_corto": "Katekyo Hitman Reborn! Special",
+  "sinopsis": "Un episodio en Internet solo independiente especial de Katekyo Hitman Reborn! en el sitio web Shounen-Jump, donde los personajes principales van a diferentes puntos turísticos de Japón. Se pondrá a la venta en DVD en julio de 2010, y escenas extra será incluido.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/katekyo-hitman-reborn-special.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/katekyo-hitman-reborn-special/",
+  "episodios": [
+    {
+      "id_origen": 18481,
+      "numero": 1,
+      "titulo": "Katekyo Hitman Reborn! Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebcc54f79222a80f49b949532df637c4.jpg",
+      "url_origen": "https://jkanime.net/katekyo-hitman-reborn-special/1/",
+      "publicado_en_origen": "2012-11-22 00:33:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "719",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:34:10+00:00"
+}

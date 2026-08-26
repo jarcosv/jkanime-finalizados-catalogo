@@ -1,0 +1,85 @@
+{
+  "id_origen": 3932,
+  "slug": "wangpai-yushi",
+  "titulo": "Wangpai Yushi",
+  "titulo_corto": "Wangpai Yushi",
+  "sinopsis": "En un mundo donde el yin y el yang han perdido su equilibrio y el día se ha fusionado con la noche, humanos y monstruos aprenden a coexistir. Nuestros esforzados censores hacen todo lo posible por combatir a los monstruos «indomables» en esta alegre historia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/wangpai-yushi.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/wangpai-yushi/",
+  "episodios": [
+    {
+      "id_origen": 60477,
+      "numero": 1,
+      "titulo": "Wangpai Yushi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07023fdbafaf3a8bbf2692bec4a5c6dd.jpg",
+      "url_origen": "https://jkanime.net/wangpai-yushi/1/",
+      "publicado_en_origen": "2024-11-01 12:38:59"
+    },
+    {
+      "id_origen": 60497,
+      "numero": 2,
+      "titulo": "Wangpai Yushi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d61cd9e334118b477f115cc5dfe93706.jpg",
+      "url_origen": "https://jkanime.net/wangpai-yushi/2/",
+      "publicado_en_origen": "2024-11-02 14:20:07"
+    },
+    {
+      "id_origen": 60517,
+      "numero": 3,
+      "titulo": "Wangpai Yushi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cafcb188147055c82e982fada99ad289.jpg",
+      "url_origen": "https://jkanime.net/wangpai-yushi/3/",
+      "publicado_en_origen": "2024-11-04 10:26:58"
+    },
+    {
+      "id_origen": 60544,
+      "numero": 4,
+      "titulo": "Wangpai Yushi - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d116f098a7ecc222f01fce31c4031b7.jpg",
+      "url_origen": "https://jkanime.net/wangpai-yushi/4/",
+      "publicado_en_origen": "2024-11-06 13:11:03"
+    },
+    {
+      "id_origen": 60557,
+      "numero": 5,
+      "titulo": "Wangpai Yushi - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_455b1ca8725ed1563f9503a80201d38a.jpg",
+      "url_origen": "https://jkanime.net/wangpai-yushi/5/",
+      "publicado_en_origen": "2024-11-07 13:21:51"
+    },
+    {
+      "id_origen": 60595,
+      "numero": 6,
+      "titulo": "Wangpai Yushi - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82f1ffa887bf5d9dd73407b6b2e1abfb.jpg",
+      "url_origen": "https://jkanime.net/wangpai-yushi/6/",
+      "publicado_en_origen": "2024-11-10 09:50:23"
+    },
+    {
+      "id_origen": 60836,
+      "numero": 7,
+      "titulo": "Wangpai Yushi - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2deba0feb2ab4d7565971d06053a3537.jpg",
+      "url_origen": "https://jkanime.net/wangpai-yushi/7/",
+      "publicado_en_origen": "2024-11-29 19:12:55"
+    },
+    {
+      "id_origen": 60926,
+      "numero": 8,
+      "titulo": "Wangpai Yushi - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e30ca7d5fced0b00f0213e16d0944b5.jpg",
+      "url_origen": "https://jkanime.net/wangpai-yushi/8/",
+      "publicado_en_origen": "2024-12-04 14:42:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3932",
+  "cantidad_episodios_declarada": 39,
+  "detalle_extraido_en": "2026-08-26T18:51:45+00:00"
+}

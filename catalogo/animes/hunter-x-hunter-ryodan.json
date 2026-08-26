@@ -1,0 +1,85 @@
+{
+  "id_origen": 224,
+  "slug": "hunter-x-hunter-ryodan",
+  "titulo": "Hunter x Hunter OVA",
+  "titulo_corto": "Hunter x Hunter OVA",
+  "sinopsis": "El Grupo de Ladrones y Asesinos \"Genei Ryodan\" proviene de la ciudad de las Estrellas Fugaces, esta ciudad está fuera de toda jurisdicción, es por eso que en este lugar no hay leyes ni reglas.\nLa mafia y esta ciudad poseían una estrecha relación colaborando unos a otros. Pero el Genei Ryodan rompió este lazo y arrasó con las principales cabezas de la mafia.\nEl Genei Ryodan también llamado \"La Araña\" consta de una cabeza y doce patas, la cabeza es el líder de la Araña, llamado Kuroro Lucifer, le siguen las doce patas que son: (lista de los integrantes del Ryodan según la fuerza de cada uno)\nUbogin, Phinx, Hysoka, Franklin, Feitan\n, Machi, Kuroro, Bonorenolf, Nobunaga, Shalnark, Pakunoda, Shizuku y Kurotopi.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hunter-x-hunter-ryodan.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hunter-x-hunter-ryodan/",
+  "episodios": [
+    {
+      "id_origen": 6207,
+      "numero": 1,
+      "titulo": "Hunter X Hunter Ryodan 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62db9e3397c76207a687c360e0243317.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-ryodan/1/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6208,
+      "numero": 2,
+      "titulo": "Hunter X Hunter Ryodan 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69dd2eff9b6a421d5ce262b093bdab23.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-ryodan/2/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6209,
+      "numero": 3,
+      "titulo": "Hunter X Hunter Ryodan 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5446f217e9504bc593ad9dcf2ec88dda.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-ryodan/3/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6210,
+      "numero": 4,
+      "titulo": "Hunter X Hunter Ryodan 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e564618b1a0f9a0e5b043f63d43fc065.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-ryodan/4/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6211,
+      "numero": 5,
+      "titulo": "Hunter X Hunter Ryodan 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f34132b15dd02f282a11ea1e322a96d.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-ryodan/5/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6212,
+      "numero": 6,
+      "titulo": "Hunter X Hunter Ryodan 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a83eabfb7fa303a2d85dbc6f37483e5.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-ryodan/6/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6213,
+      "numero": 7,
+      "titulo": "Hunter X Hunter Ryodan 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e275193bc089e9b3ca1aeef3c44be496.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-ryodan/7/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6214,
+      "numero": 8,
+      "titulo": "Hunter X Hunter Ryodan 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05e97c207235d63ceb1db43c60db7bbb.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-ryodan/8/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "224",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:31:17+00:00"
+}

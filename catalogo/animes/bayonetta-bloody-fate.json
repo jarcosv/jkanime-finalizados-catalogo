@@ -1,0 +1,29 @@
+{
+  "id_origen": 1075,
+  "slug": "bayonetta-bloody-fate",
+  "titulo": "Bayonetta: Bloody Fate",
+  "titulo_corto": "Bayonetta: Bloody Fate",
+  "sinopsis": "Hace mucho tiempo en una ciudad llamada Vigrid, los sabios (seres de la luz) y las brujas (seres de la oscuridad) vivían en armonía. El mundo de los hombres, el infierno y el paraíso estaban en orden, hasta que se desató odio entre estos clanes, provocando una guerra sangrienta que terminó con la existencia de las brujas en Europa durante la Edad Media. Todas murieron, excepto Bayonetta, que despertó después de 500 años de sueño y se encuentra en una zona desconocida sin recuerdos de quién o qué es",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bayonetta-bloody-fate.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bayonetta-bloody-fate/",
+  "episodios": [
+    {
+      "id_origen": 22766,
+      "numero": 1,
+      "titulo": "Bayonetta: Bloody Fate",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5774b6bb3970f53874a09e9eec130980.jpg",
+      "url_origen": "https://jkanime.net/bayonetta-bloody-fate/1/",
+      "publicado_en_origen": "2014-02-21 04:06:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1075",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:19:23+00:00"
+}

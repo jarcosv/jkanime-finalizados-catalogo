@@ -1,0 +1,45 @@
+{
+  "id_origen": 897,
+  "slug": "genshiken-ova",
+  "titulo": "Genshiken OVA",
+  "titulo_corto": "Genshiken OVA",
+  "sinopsis": "Seguimos con las andanzas de nuestro grupo de otakus favoritos con la continuación directa de la serie que ya hicimos en su día. Ha pasado ya un año y vuelve a ser época de reclutamiento de novatos para la Sociedad para el Estudio de la Cultura Visual Moderna (Genshiken)... Sasahara y Madarame se encargarán de ello, siempre y cuando Saki no se los espante como las otras veces.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/genshiken-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/genshiken-ova/",
+  "episodios": [
+    {
+      "id_origen": 20974,
+      "numero": 1,
+      "titulo": "Genshiken OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61e40fcd266f6924734eefc31492e4b7.jpg",
+      "url_origen": "https://jkanime.net/genshiken-ova/1/",
+      "publicado_en_origen": "2013-07-04 04:14:09"
+    },
+    {
+      "id_origen": 20975,
+      "numero": 2,
+      "titulo": "Genshiken OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_baa9c50420112c3411e4d87614108554.jpg",
+      "url_origen": "https://jkanime.net/genshiken-ova/2/",
+      "publicado_en_origen": "2013-07-04 04:14:09"
+    },
+    {
+      "id_origen": 20976,
+      "numero": 3,
+      "titulo": "Genshiken OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecb1be291b099432237e456f3aed9f12.jpg",
+      "url_origen": "https://jkanime.net/genshiken-ova/3/",
+      "publicado_en_origen": "2013-07-04 04:14:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "897",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:28:05+00:00"
+}

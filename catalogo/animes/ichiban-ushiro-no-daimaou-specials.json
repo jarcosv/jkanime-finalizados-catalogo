@@ -1,0 +1,69 @@
+{
+  "id_origen": 4422,
+  "slug": "ichiban-ushiro-no-daimaou-specials",
+  "titulo": "Ichiban Ushiro no Daimaou Specials",
+  "titulo_corto": "Ichiban Ushiro no Daimaou Spec...",
+  "sinopsis": "Especiales en DVD/BD de Ichiban Ushiro no Daimaou.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ichiban-ushiro-no-daimaou-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ichiban-ushiro-no-daimaou-specials/",
+  "episodios": [
+    {
+      "id_origen": 68168,
+      "numero": 1,
+      "titulo": "Ichiban Ushiro no Daimaou Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f353d9b6becb96eb3aad21fe081f5c2e.jpg",
+      "url_origen": "https://jkanime.net/ichiban-ushiro-no-daimaou-specials/1/",
+      "publicado_en_origen": "2025-10-21 23:12:42"
+    },
+    {
+      "id_origen": 68169,
+      "numero": 2,
+      "titulo": "Ichiban Ushiro no Daimaou Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da09f92c8398627fe7ee2cfcebc84878.jpg",
+      "url_origen": "https://jkanime.net/ichiban-ushiro-no-daimaou-specials/2/",
+      "publicado_en_origen": "2025-10-21 23:12:42"
+    },
+    {
+      "id_origen": 68170,
+      "numero": 3,
+      "titulo": "Ichiban Ushiro no Daimaou Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de02e498af701df6eb77b82b48413c04.jpg",
+      "url_origen": "https://jkanime.net/ichiban-ushiro-no-daimaou-specials/3/",
+      "publicado_en_origen": "2025-10-21 23:12:42"
+    },
+    {
+      "id_origen": 68171,
+      "numero": 4,
+      "titulo": "Ichiban Ushiro no Daimaou Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dc0240ca71c40e93767d41ffe64dd9d.jpg",
+      "url_origen": "https://jkanime.net/ichiban-ushiro-no-daimaou-specials/4/",
+      "publicado_en_origen": "2025-10-21 23:12:42"
+    },
+    {
+      "id_origen": 68172,
+      "numero": 5,
+      "titulo": "Ichiban Ushiro no Daimaou Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_050021b2a52b3c479e11d9aa8bca3137.jpg",
+      "url_origen": "https://jkanime.net/ichiban-ushiro-no-daimaou-specials/5/",
+      "publicado_en_origen": "2025-10-21 23:12:42"
+    },
+    {
+      "id_origen": 68173,
+      "numero": 6,
+      "titulo": "Ichiban Ushiro no Daimaou Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8b879e4c73afce5d01a8cdc118a563d.jpg",
+      "url_origen": "https://jkanime.net/ichiban-ushiro-no-daimaou-specials/6/",
+      "publicado_en_origen": "2025-10-21 23:12:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4422",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:31:32+00:00"
+}

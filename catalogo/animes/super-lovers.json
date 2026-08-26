@@ -1,0 +1,101 @@
+{
+  "id_origen": 1806,
+  "slug": "super-lovers",
+  "titulo": "Super Lovers",
+  "titulo_corto": "Super Lovers",
+  "sinopsis": "La historia de Super Lovers está protagonizada por un chico de instituto llamado Haru y su madre, que viven en el extranjero. Su madre le ordena que cuide y “civilice” a su hermano adoptivo Ren, un joven salvaje al que no le gusta hablar con las personas. Aunque su relación al inicio no es precisamente un camino de rosas, al ir madurando comienzan a comprenderse el uno al otro.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/super-lovers.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/super-lovers/",
+  "episodios": [
+    {
+      "id_origen": 31288,
+      "numero": 1,
+      "titulo": "Super Lovers - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1146d96286ade57a9fa715376dae4c20.jpg",
+      "url_origen": "https://jkanime.net/super-lovers/1/",
+      "publicado_en_origen": "2016-04-06 16:45:45"
+    },
+    {
+      "id_origen": 31343,
+      "numero": 2,
+      "titulo": "Super Lovers - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ecca9950b8e48cca47014655c2c4789.jpg",
+      "url_origen": "https://jkanime.net/super-lovers/2/",
+      "publicado_en_origen": "2016-04-13 16:44:27"
+    },
+    {
+      "id_origen": 31392,
+      "numero": 3,
+      "titulo": "Super Lovers - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1a535724274b293f9623a791919c16e.jpg",
+      "url_origen": "https://jkanime.net/super-lovers/3/",
+      "publicado_en_origen": "2016-04-20 16:45:03"
+    },
+    {
+      "id_origen": 31444,
+      "numero": 4,
+      "titulo": "Super Lovers - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25d55f01734adca809111ca46b5344c0.jpg",
+      "url_origen": "https://jkanime.net/super-lovers/4/",
+      "publicado_en_origen": "2016-04-27 16:44:17"
+    },
+    {
+      "id_origen": 31500,
+      "numero": 5,
+      "titulo": "Super Lovers - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce08d2c316a39561ddfeb8a8ba9cbd1f.jpg",
+      "url_origen": "https://jkanime.net/super-lovers/5/",
+      "publicado_en_origen": "2016-05-04 16:46:31"
+    },
+    {
+      "id_origen": 31555,
+      "numero": 6,
+      "titulo": "Super Lovers - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a37a2f337787c01bfb6be2204887fa2.jpg",
+      "url_origen": "https://jkanime.net/super-lovers/6/",
+      "publicado_en_origen": "2016-05-11 16:44:35"
+    },
+    {
+      "id_origen": 31609,
+      "numero": 7,
+      "titulo": "Super Lovers - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3ad4331d5fac2ce23e520b0cc0fcb5e.jpg",
+      "url_origen": "https://jkanime.net/super-lovers/7/",
+      "publicado_en_origen": "2016-05-18 17:11:15"
+    },
+    {
+      "id_origen": 31664,
+      "numero": 8,
+      "titulo": "Super Lovers - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3484575740e7d74362f6a1ab0ac89a50.jpg",
+      "url_origen": "https://jkanime.net/super-lovers/8/",
+      "publicado_en_origen": "2016-05-25 16:50:05"
+    },
+    {
+      "id_origen": 31717,
+      "numero": 9,
+      "titulo": "Super Lovers - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dbdb6a977dd83e68f9078c05da938c6.jpg",
+      "url_origen": "https://jkanime.net/super-lovers/9/",
+      "publicado_en_origen": "2016-06-01 16:46:41"
+    },
+    {
+      "id_origen": 31769,
+      "numero": 10,
+      "titulo": "Super Lovers - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23e18616d10dc96e93805413b83969be.jpg",
+      "url_origen": "https://jkanime.net/super-lovers/10/",
+      "publicado_en_origen": "2016-06-08 16:47:45"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1806",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:48:05+00:00"
+}

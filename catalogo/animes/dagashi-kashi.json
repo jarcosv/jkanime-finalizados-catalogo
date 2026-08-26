@@ -1,0 +1,117 @@
+{
+  "id_origen": 1746,
+  "slug": "dagashi-kashi",
+  "titulo": "Dagashi Kashi",
+  "titulo_corto": "Dagashi Kashi",
+  "sinopsis": "El padre de Shikada Kokonotsu posee una tienda de dulces en una zona rural, y su plan es que sea su hijo quien se encargue del negocio familiar algún día. Sin embargo, lo que Kokonotsu quiere realmente es ser autor de manga. Un día de verano aparece en la tienda Shidare Hotari, una preciosa pero rarita chica que pertenece a una famosa cadena de tiendas de dulces. Al haber escuchado de la fama del padre del protagonista, quiere que su local se una a la compañía de su familia. El padre sin embargo le dice que solo aceptará la oferta si convence a su hijo de que herede el negocio en el futuro.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dagashi-kashi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dagashi-kashi/",
+  "episodios": [
+    {
+      "id_origen": 30499,
+      "numero": 1,
+      "titulo": "Dagashi Kashi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a305437dff38f3b83f52900567a91ed.jpg",
+      "url_origen": "https://jkanime.net/dagashi-kashi/1/",
+      "publicado_en_origen": "2016-01-07 16:59:05"
+    },
+    {
+      "id_origen": 30566,
+      "numero": 2,
+      "titulo": "Dagashi Kashi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71c5ac516da3a947454404f77fbbf58a.jpg",
+      "url_origen": "https://jkanime.net/dagashi-kashi/2/",
+      "publicado_en_origen": "2016-01-14 16:29:40"
+    },
+    {
+      "id_origen": 30625,
+      "numero": 3,
+      "titulo": "Dagashi Kashi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50f0a48e0c1f60f822f218c3e419d1a4.jpg",
+      "url_origen": "https://jkanime.net/dagashi-kashi/3/",
+      "publicado_en_origen": "2016-01-21 16:30:45"
+    },
+    {
+      "id_origen": 30691,
+      "numero": 4,
+      "titulo": "Dagashi Kashi - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57c0ef6ca5eb27bf4dd7ff5bc1ba7d0d.jpg",
+      "url_origen": "https://jkanime.net/dagashi-kashi/4/",
+      "publicado_en_origen": "2016-01-28 18:40:40"
+    },
+    {
+      "id_origen": 30751,
+      "numero": 5,
+      "titulo": "Dagashi Kashi - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6b35e5217428f5021e113525a55e6f4.jpg",
+      "url_origen": "https://jkanime.net/dagashi-kashi/5/",
+      "publicado_en_origen": "2016-02-05 15:28:45"
+    },
+    {
+      "id_origen": 30869,
+      "numero": 6,
+      "titulo": "Dagashi Kashi - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbea0e6a82f856ae53f9c827665af265.jpg",
+      "url_origen": "https://jkanime.net/dagashi-kashi/6/",
+      "publicado_en_origen": "2016-02-18 19:28:08"
+    },
+    {
+      "id_origen": 30931,
+      "numero": 7,
+      "titulo": "Dagashi Kashi - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba5d35769aa3568f9333a89fa8796938.jpg",
+      "url_origen": "https://jkanime.net/dagashi-kashi/7/",
+      "publicado_en_origen": "2016-02-25 19:41:16"
+    },
+    {
+      "id_origen": 31002,
+      "numero": 8,
+      "titulo": "Dagashi Kashi - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce49d66b1ddfeb732c56810c4736e3c3.jpg",
+      "url_origen": "https://jkanime.net/dagashi-kashi/8/",
+      "publicado_en_origen": "2016-03-03 23:38:14"
+    },
+    {
+      "id_origen": 31073,
+      "numero": 9,
+      "titulo": "Dagashi Kashi - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_683768cf9ad8eecfd2e847498002cd29.jpg",
+      "url_origen": "https://jkanime.net/dagashi-kashi/9/",
+      "publicado_en_origen": "2016-03-10 22:28:42"
+    },
+    {
+      "id_origen": 31135,
+      "numero": 10,
+      "titulo": "Dagashi Kashi - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c358fd9b46b9fddccddd7a427e522f9b.jpg",
+      "url_origen": "https://jkanime.net/dagashi-kashi/10/",
+      "publicado_en_origen": "2016-03-17 22:10:28"
+    },
+    {
+      "id_origen": 31195,
+      "numero": 11,
+      "titulo": "Dagashi Kashi - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16a153a27394122922a55fb102f602e3.jpg",
+      "url_origen": "https://jkanime.net/dagashi-kashi/11/",
+      "publicado_en_origen": "2016-03-24 22:37:00"
+    },
+    {
+      "id_origen": 31252,
+      "numero": 12,
+      "titulo": "Dagashi Kashi - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba175daa622b2e728f513dbe744803f6.jpg",
+      "url_origen": "https://jkanime.net/dagashi-kashi/12/",
+      "publicado_en_origen": "2016-03-31 22:19:59"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1746",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:24:17+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1599,
+  "slug": "sousei-no-aquarion-evol",
+  "titulo": "Sousei no Aquarion Evol",
+  "titulo_corto": "Sousei no Aquarion Evol",
+  "sinopsis": "Episodio Especial OVA llamada Sousei no Aquarion Love.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sousei-no-aquarion-evol.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sousei-no-aquarion-evol/",
+  "episodios": [
+    {
+      "id_origen": 28616,
+      "numero": 1,
+      "titulo": "Sousei no Aquarion Evol",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sousei-no-aquarion-evol.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-aquarion-evol/1/",
+      "publicado_en_origen": "2015-07-03 19:12:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1599",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:30+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 644,
+  "slug": "one-piece-episode-of-nami",
+  "titulo": "One Piece: Episode of Nami",
+  "titulo_corto": "One Piece: Episode of Nami",
+  "sinopsis": "Episodio especial que está basado en el arco de Nami (uno de los primeros de la serie), y estará realizado completamente desde cero.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece-episode-of-nami.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-piece-episode-of-nami/",
+  "episodios": [
+    {
+      "id_origen": 17192,
+      "numero": 1,
+      "titulo": "One Piece: Episodio de Nami - Koukaishi no Namida to Nakama no Kizuna",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aff272815fa63358420d88a9c6d37b91.jpg",
+      "url_origen": "https://jkanime.net/one-piece-episode-of-nami/1/",
+      "publicado_en_origen": "2012-09-14 01:23:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "644",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:09+00:00"
+}

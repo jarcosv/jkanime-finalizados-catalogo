@@ -1,0 +1,45 @@
+{
+  "id_origen": 2330,
+  "slug": "ikkitousen-western-wolves",
+  "titulo": "Ikkitousen: Western Wolves",
+  "titulo_corto": "Ikkitousen: Western Wolves",
+  "sinopsis": "OVA de Ikkitousen",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ikkitousen-western-wolves.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ikkitousen-western-wolves/",
+  "episodios": [
+    {
+      "id_origen": 38615,
+      "numero": 1,
+      "titulo": "Ikkitousen: Western Wolves - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff342ebc4c38bf532854050e89acf973.jpg",
+      "url_origen": "https://jkanime.net/ikkitousen-western-wolves/1/",
+      "publicado_en_origen": "2019-01-03 17:26:29"
+    },
+    {
+      "id_origen": 38798,
+      "numero": 2,
+      "titulo": "Ikkitousen: Western Wolves - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3ce0e9bbd3632fd840eb99737ecdde4.jpg",
+      "url_origen": "https://jkanime.net/ikkitousen-western-wolves/2/",
+      "publicado_en_origen": "2019-02-04 21:45:03"
+    },
+    {
+      "id_origen": 39456,
+      "numero": 3,
+      "titulo": "Ikkitousen: Western Wolves - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c14cc363e3d609b7ad37a3535047341b.jpg",
+      "url_origen": "https://jkanime.net/ikkitousen-western-wolves/3/",
+      "publicado_en_origen": "2019-03-30 17:56:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2330",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:31:44+00:00"
+}

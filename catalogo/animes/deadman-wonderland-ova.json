@@ -1,0 +1,29 @@
+{
+  "id_origen": 438,
+  "slug": "deadman-wonderland-ova",
+  "titulo": "Deadman Wonderland OVA",
+  "titulo_corto": "Deadman Wonderland OVA",
+  "sinopsis": "OVA incluido con el undécimo volumen del manga Deadman Wonderland. Se centra en el pasado Senji, con él como protagonista.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/deadman-wonderland-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/deadman-wonderland-ova/",
+  "episodios": [
+    {
+      "id_origen": 12738,
+      "numero": 1,
+      "titulo": "Deadman Wonderland OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_889b8a538b90aab7d224bba4306971fb.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland-ova/1/",
+      "publicado_en_origen": "2011-10-15 23:48:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:11+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "438",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:40+00:00"
+}

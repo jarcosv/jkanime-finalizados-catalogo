@@ -1,0 +1,29 @@
+{
+  "id_origen": 1377,
+  "slug": "neon-genesis-evangelion-the-end-of-evangelion",
+  "titulo": "Neon Genesis Evangelion: The End of Evangelion",
+  "titulo_corto": "Neon Genesis Evangelion: The E...",
+  "sinopsis": "El final original de Neon Genesis Evangelion mostrado en los dos últimos capítulos de la serie de TV fue criticado unánimemente debido a la enorme cantidad de preguntas que dejó sin resolver. Sin más remedio, GAINAX decidió rehacer el final lanzando la película The End of Evangelion (El Final de Evangelion), que sustituye a los dos últimos episodios de la serie de TV. The End of Evangelion nos narra los acontecimientos ocurridos tras la muerte del último Ángel, revelándose un plan orquestado desde las sombras para forzar la evolución de la Humanidad, con un carácter cada vez más apocalíptico y oscuro mientras avanza la película, resolviendo las dudas dejadas de lado en el final original.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/neon-genesis-evangelion-the-end-of-evangelion.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/neon-genesis-evangelion-the-end-of-evangelion/",
+  "episodios": [
+    {
+      "id_origen": 25939,
+      "numero": 1,
+      "titulo": "Neon Genesis Evangelion: The End of Evangelion",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f58ce25aeb1d1cf74703aeabda1b3a3.jpg",
+      "url_origen": "https://jkanime.net/neon-genesis-evangelion-the-end-of-evangelion/1/",
+      "publicado_en_origen": "2014-12-23 15:58:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1377",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:13+00:00"
+}

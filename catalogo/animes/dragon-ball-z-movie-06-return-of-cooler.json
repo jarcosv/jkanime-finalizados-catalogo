@@ -1,0 +1,29 @@
+{
+  "id_origen": 498,
+  "slug": "dragon-ball-z-movie-06-return-of-cooler",
+  "titulo": "Dragon Ball Z Movie 06: Return of Cooler",
+  "titulo_corto": "Dragon Ball Z Movie 06: Return...",
+  "sinopsis": "Cuando Dende, el nuevo kamisama, se entera de que el planeta Namek está en peligro, pide ayuda a Goku y sus amigos para que salven su planeta natal. Al llegar, Goku y los demás se dan cuenta de que una especie de estrella esta atacando al planeta. Detrás de todo esto esta Cooler, el hermano mayor de Freezer, al que pensaban que Goku había vencido.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-z-movie-06-return-of-cooler.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-z-movie-06-return-of-cooler/",
+  "episodios": [
+    {
+      "id_origen": 14549,
+      "numero": 1,
+      "titulo": "Dragon Ball Z Movie 06: Return of Cooler",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d111f133fa0ea545d48291f9b0a72b2d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z-movie-06-return-of-cooler/1/",
+      "publicado_en_origen": "2012-01-16 20:34:16"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "498",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:45+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id_origen": 4438,
+  "slug": "otona-no-bouguya-san-rimen",
+  "titulo": "Otona no Bouguya-san (Rimen)",
+  "titulo_corto": "Otona no Bouguya-san (Rimen)",
+  "sinopsis": "Onas de Armor Shop for Ladies",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/otona-no-bouguya-san-rimen.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/otona-no-bouguya-san-rimen/",
+  "episodios": [
+    {
+      "id_origen": 68534,
+      "numero": 1,
+      "titulo": "Otona no Bouguya-san (Rimen) - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f90285a5470d0c9e3d8664ef2da1da7a.jpg",
+      "url_origen": "https://jkanime.net/otona-no-bouguya-san-rimen/1/",
+      "publicado_en_origen": "2025-11-06 12:14:53"
+    },
+    {
+      "id_origen": 68535,
+      "numero": 2,
+      "titulo": "Otona no Bouguya-san (Rimen) - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df84abffacd66816b7539365eb44bfd6.jpg",
+      "url_origen": "https://jkanime.net/otona-no-bouguya-san-rimen/2/",
+      "publicado_en_origen": "2025-11-06 12:14:53"
+    },
+    {
+      "id_origen": 68536,
+      "numero": 3,
+      "titulo": "Otona no Bouguya-san (Rimen) - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d28e81fc106d583428d290c1b545e548.jpg",
+      "url_origen": "https://jkanime.net/otona-no-bouguya-san-rimen/3/",
+      "publicado_en_origen": "2025-11-06 12:14:53"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:12+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4438",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:41:45+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id_origen": 1002,
+  "slug": "shingeki-no-kyojin-ova",
+  "titulo": "Shingeki no Kyojin OVA",
+  "titulo_corto": "Shingeki no Kyojin OVA",
+  "sinopsis": "Ovas incluidas con el volumen de edicion limitada de Shingeki no Kyojin y manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shingeki-no-kyojin-ilse-no-techou.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shingeki-no-kyojin-ova/",
+  "episodios": [
+    {
+      "id_origen": 22157,
+      "numero": 1,
+      "titulo": "Shingeki no Kyojin: Ilse no Techou",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c47f7c40acb430047f501a2d5345776.jpg",
+      "url_origen": "https://jkanime.net/shingeki-no-kyojin-ova/1/",
+      "publicado_en_origen": "2013-12-09 19:23:18"
+    },
+    {
+      "id_origen": 23180,
+      "numero": 2,
+      "titulo": "Shingeki no Kyojin OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db782d22265fd45c6af25f3bb5fc6a1a.jpg",
+      "url_origen": "https://jkanime.net/shingeki-no-kyojin-ova/2/",
+      "publicado_en_origen": "2014-04-12 00:47:55"
+    },
+    {
+      "id_origen": 24247,
+      "numero": 3,
+      "titulo": "Shingeki no Kyojin OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0545e6b6d8155dbab4bed76d44bf754.jpg",
+      "url_origen": "https://jkanime.net/shingeki-no-kyojin-ova/3/",
+      "publicado_en_origen": "2014-08-08 18:59:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1002",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:46:24+00:00"
+}

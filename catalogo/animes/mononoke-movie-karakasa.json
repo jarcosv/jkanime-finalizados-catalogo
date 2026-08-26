@@ -1,0 +1,29 @@
+{
+  "id_origen": 3939,
+  "slug": "mononoke-movie-karakasa",
+  "titulo": "Mononoke Movie: Karakasa",
+  "titulo_corto": "Mononoke Movie: Karakasa",
+  "sinopsis": "Asa y Kame entablan una amistad inmediata cuando llegan al mismo tiempo para su primer día de servicio en el Ooku, el espléndido palacio de placer que alberga el harén de Lord Tenshi. Las dos jóvenes están allí para unirse a los cientos de sirvientas a las que los hombres tienen prohibida la entrada, con la decapitación inmediata como precio por entrar ilegalmente. Pronto queda claro que tras el lujoso estilo de vida y las rutinas ritualizadas de los Ooku se esconden siniestros planes y cínicas rivalidades. Mientras tanto, un misterioso vendedor de pociones errante, conocido únicamente como el Vendedor de Medicinas, se introduce sutilmente en los Ooku, al tiempo que una extraña amenaza de otro mundo comienza a revelarse.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mononoke-movie-karakasa.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mononoke-movie-karakasa/",
+  "episodios": [
+    {
+      "id_origen": 60812,
+      "numero": 1,
+      "titulo": "Mononoke Movie: Karakasa",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4413484fe51cdf71d9bfb00c3bf2249d.jpg",
+      "url_origen": "https://jkanime.net/mononoke-movie-karakasa/1/",
+      "publicado_en_origen": "2024-11-28 15:28:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3939",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:10+00:00"
+}

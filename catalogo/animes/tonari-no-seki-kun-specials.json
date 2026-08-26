@@ -1,0 +1,37 @@
+{
+  "id_origen": 1164,
+  "slug": "tonari-no-seki-kun-specials",
+  "titulo": "Tonari no Seki-kun Specials",
+  "titulo_corto": "Tonari no Seki-kun Specials",
+  "sinopsis": "Especiales no emitidos incluidos en el set de DVD de Tonari no Seki-kun",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tonari-no-seki-kun-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tonari-no-seki-kun-specials/",
+  "episodios": [
+    {
+      "id_origen": 23705,
+      "numero": 1,
+      "titulo": "Tonari no Seki-kun Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e5bda9137acc28a03969f32fcad74cc.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-seki-kun-specials/1/",
+      "publicado_en_origen": "2014-06-09 15:53:27"
+    },
+    {
+      "id_origen": 23716,
+      "numero": 2,
+      "titulo": "Tonari no Seki-kun Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9e834c333498cfdfc276179353ea600.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-seki-kun-specials/2/",
+      "publicado_en_origen": "2014-06-11 15:26:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1164",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:49:51+00:00"
+}

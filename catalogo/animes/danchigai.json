@@ -1,0 +1,117 @@
+{
+  "id_origen": 1615,
+  "slug": "danchigai",
+  "titulo": "Danchigai",
+  "titulo_corto": "Danchigai",
+  "sinopsis": "Cuenta la historia de Haruki y sus cuatro hermanas cuya vida parece monótona (aunque sus hermanas no le dejan ni descansar). No obstante, a Haruki le gusta su vida.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/danchigai.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/danchigai/",
+  "episodios": [
+    {
+      "id_origen": 28667,
+      "numero": 1,
+      "titulo": "Danchigai - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ff6e4e242c43c4d51c98e65659083a3.jpg",
+      "url_origen": "https://jkanime.net/danchigai/1/",
+      "publicado_en_origen": "2015-07-09 12:34:19"
+    },
+    {
+      "id_origen": 28731,
+      "numero": 2,
+      "titulo": "Danchigai - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45b36e5ecc568d49a32b60f80f332b69.jpg",
+      "url_origen": "https://jkanime.net/danchigai/2/",
+      "publicado_en_origen": "2015-07-16 12:33:24"
+    },
+    {
+      "id_origen": 28797,
+      "numero": 3,
+      "titulo": "Danchigai - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f93f4793c2783325b8b6e96c21f3ce5e.jpg",
+      "url_origen": "https://jkanime.net/danchigai/3/",
+      "publicado_en_origen": "2015-07-23 12:47:39"
+    },
+    {
+      "id_origen": 28864,
+      "numero": 4,
+      "titulo": "Danchigai - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f886c49bf71918b9d39801a9dcb9167.jpg",
+      "url_origen": "https://jkanime.net/danchigai/4/",
+      "publicado_en_origen": "2015-07-30 12:33:48"
+    },
+    {
+      "id_origen": 28930,
+      "numero": 5,
+      "titulo": "Danchigai - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4feeda018954b3a901f25f66e7f911e.jpg",
+      "url_origen": "https://jkanime.net/danchigai/5/",
+      "publicado_en_origen": "2015-08-06 12:35:29"
+    },
+    {
+      "id_origen": 28988,
+      "numero": 6,
+      "titulo": "Danchigai - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0d26bf79de52c1ebbcb63c52542825f.jpg",
+      "url_origen": "https://jkanime.net/danchigai/6/",
+      "publicado_en_origen": "2015-08-13 12:44:10"
+    },
+    {
+      "id_origen": 29053,
+      "numero": 7,
+      "titulo": "Danchigai - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_609e37f3e61f118ba50b9ba0e49f5cdc.jpg",
+      "url_origen": "https://jkanime.net/danchigai/7/",
+      "publicado_en_origen": "2015-08-20 12:34:24"
+    },
+    {
+      "id_origen": 29124,
+      "numero": 8,
+      "titulo": "Danchigai - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_285440c1920db8887db5645e46429ac4.jpg",
+      "url_origen": "https://jkanime.net/danchigai/8/",
+      "publicado_en_origen": "2015-08-27 12:34:48"
+    },
+    {
+      "id_origen": 29196,
+      "numero": 9,
+      "titulo": "Danchigai - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3a0629cee6dbd0a211ab379a406f0fb.jpg",
+      "url_origen": "https://jkanime.net/danchigai/9/",
+      "publicado_en_origen": "2015-09-03 12:33:27"
+    },
+    {
+      "id_origen": 29325,
+      "numero": 10,
+      "titulo": "Danchigai - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fee801ecfba08d39cd8ebed9fdcbe7e9.jpg",
+      "url_origen": "https://jkanime.net/danchigai/10/",
+      "publicado_en_origen": "2015-09-10 12:36:37"
+    },
+    {
+      "id_origen": 29579,
+      "numero": 11,
+      "titulo": "Danchigai - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37c77fc83549b5204e788fb979887c92.jpg",
+      "url_origen": "https://jkanime.net/danchigai/11/",
+      "publicado_en_origen": "2015-09-17 12:34:08"
+    },
+    {
+      "id_origen": 29645,
+      "numero": 12,
+      "titulo": "Danchigai - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bff87c59e3fbc5e1ded2fe3ce1d9865.jpg",
+      "url_origen": "https://jkanime.net/danchigai/12/",
+      "publicado_en_origen": "2015-09-24 12:33:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1615",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:24:22+00:00"
+}

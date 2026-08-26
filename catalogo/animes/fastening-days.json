@@ -1,0 +1,29 @@
+{
+  "id_origen": 1337,
+  "slug": "fastening-days",
+  "titulo": "Fastening Days",
+  "titulo_corto": "Fastening Days",
+  "sinopsis": "Yoji y Kei, viven en una ciudad en un futuro no tan distante con madre adoptiva, Anna. Pero estos niños aparentemente normales tienen un secreto escondido que incluso a su madre la tomará desprevenida.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fastening-days.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fastening-days/",
+  "episodios": [
+    {
+      "id_origen": 25292,
+      "numero": 1,
+      "titulo": "Fastening Days",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bb5f8d030f5e6e4b6d137c6990f0772.jpg",
+      "url_origen": "https://jkanime.net/fastening-days/1/",
+      "publicado_en_origen": "2014-11-03 19:49:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1337",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:45+00:00"
+}

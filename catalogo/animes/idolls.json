@@ -1,0 +1,101 @@
+{
+  "id_origen": 2780,
+  "slug": "idolls",
+  "titulo": "Idolls!",
+  "titulo_corto": "Idolls!",
+  "sinopsis": "¡A por el Hoi Hoi Hall! ¡Una apasionada pero calmada historia de 10 días con unas idols luchan por llenar una sala de conciertos con 100 personas!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/idolls.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/idolls/",
+  "episodios": [
+    {
+      "id_origen": 44341,
+      "numero": 1,
+      "titulo": "Idolls! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a7ac5ec1c290b547e0045b8e89d5ce4.jpg",
+      "url_origen": "https://jkanime.net/idolls/1/",
+      "publicado_en_origen": "2021-01-08 12:27:50"
+    },
+    {
+      "id_origen": 44404,
+      "numero": 2,
+      "titulo": "Idolls! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77a86db24f4897976c3b8879b4f3d47a.jpg",
+      "url_origen": "https://jkanime.net/idolls/2/",
+      "publicado_en_origen": "2021-01-15 12:09:47"
+    },
+    {
+      "id_origen": 44469,
+      "numero": 3,
+      "titulo": "Idolls! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f65585815af3ec9c0d394e3cf58488f1.jpg",
+      "url_origen": "https://jkanime.net/idolls/3/",
+      "publicado_en_origen": "2021-01-22 12:16:52"
+    },
+    {
+      "id_origen": 44536,
+      "numero": 4,
+      "titulo": "Idolls! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_146777c25fa9755117e2a841be9f1c92.jpg",
+      "url_origen": "https://jkanime.net/idolls/4/",
+      "publicado_en_origen": "2021-01-29 12:31:31"
+    },
+    {
+      "id_origen": 44623,
+      "numero": 5,
+      "titulo": "Idolls! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a9ad9efd062c8172bbaa1b6288a4ac4.jpg",
+      "url_origen": "https://jkanime.net/idolls/5/",
+      "publicado_en_origen": "2021-02-07 13:17:15"
+    },
+    {
+      "id_origen": 44672,
+      "numero": 6,
+      "titulo": "Idolls! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_796e73dfbfd1d95967d2d55fce773f97.jpg",
+      "url_origen": "https://jkanime.net/idolls/6/",
+      "publicado_en_origen": "2021-02-12 12:23:55"
+    },
+    {
+      "id_origen": 44738,
+      "numero": 7,
+      "titulo": "Idolls! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a8e92de76e8511cda8a11cbb937a020.jpg",
+      "url_origen": "https://jkanime.net/idolls/7/",
+      "publicado_en_origen": "2021-02-19 12:32:44"
+    },
+    {
+      "id_origen": 44813,
+      "numero": 8,
+      "titulo": "Idolls! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38a53a52f4de3322241231253815e10a.jpg",
+      "url_origen": "https://jkanime.net/idolls/8/",
+      "publicado_en_origen": "2021-02-26 19:14:48"
+    },
+    {
+      "id_origen": 44878,
+      "numero": 9,
+      "titulo": "Idolls! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f02960e7904985af88da8437958f4c10.jpg",
+      "url_origen": "https://jkanime.net/idolls/9/",
+      "publicado_en_origen": "2021-03-05 12:11:20"
+    },
+    {
+      "id_origen": 44943,
+      "numero": 10,
+      "titulo": "Idolls! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2404acc0827133844e0a3c396af3dd0.jpg",
+      "url_origen": "https://jkanime.net/idolls/10/",
+      "publicado_en_origen": "2021-03-12 12:10:36"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:01+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2780",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:31:39+00:00"
+}

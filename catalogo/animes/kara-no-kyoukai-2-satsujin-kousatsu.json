@@ -1,0 +1,29 @@
+{
+  "id_origen": 1079,
+  "slug": "kara-no-kyoukai-2-satsujin-kousatsu",
+  "titulo": "Kara no Kyoukai 2: Satsujin Kousatsu",
+  "titulo_corto": "Kara no Kyoukai 2: Satsujin Ko...",
+  "sinopsis": "Segunda pelicula de Kara no Kyoukai.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kara-no-kyoukai-2-satsujin-kousatsu.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kara-no-kyoukai-2-satsujin-kousatsu/",
+  "episodios": [
+    {
+      "id_origen": 22810,
+      "numero": 1,
+      "titulo": "Kara no Kyoukai 2: Satsujin Kousatsu (Part 1)",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34ce7c7c929def87490d7326d2a2b70f.jpg",
+      "url_origen": "https://jkanime.net/kara-no-kyoukai-2-satsujin-kousatsu/1/",
+      "publicado_en_origen": "2014-02-26 11:57:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1079",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:33:58+00:00"
+}

@@ -1,0 +1,117 @@
+{
+  "id_origen": 2354,
+  "slug": "endro",
+  "titulo": "Endro~!",
+  "titulo_corto": "Endro~!",
+  "sinopsis": "En la Isla de Naral, una tierra de magia y espada, monstruos y humanos conviven pacíficamente. Hace mucho tiempo existió un terrorífico Señor Demoníaco, pero ya hace mucho tiempo que el primer Héroe acabó con él y liberó la Isla de Naral de su reinado. Pese a todo, el Señor Demoníaco resucitará una y otra vez con los años, pero con él, siempre surgirá un héroe que acabe nuevamente con su existencia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/endro.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/endro/",
+  "episodios": [
+    {
+      "id_origen": 38655,
+      "numero": 1,
+      "titulo": "Endro~! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07c39cc05627b620d77b78ec5d833fd5.jpg",
+      "url_origen": "https://jkanime.net/endro/1/",
+      "publicado_en_origen": "2019-01-12 18:42:54"
+    },
+    {
+      "id_origen": 38709,
+      "numero": 2,
+      "titulo": "Endro~! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a46c74a81c9c5bc97fe8a291551f3b3.jpg",
+      "url_origen": "https://jkanime.net/endro/2/",
+      "publicado_en_origen": "2019-01-19 20:58:35"
+    },
+    {
+      "id_origen": 38773,
+      "numero": 3,
+      "titulo": "Endro~! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98fc5ad418460333b8fe9f514c707f70.jpg",
+      "url_origen": "https://jkanime.net/endro/3/",
+      "publicado_en_origen": "2019-02-03 00:57:54"
+    },
+    {
+      "id_origen": 38774,
+      "numero": 4,
+      "titulo": "Endro~! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28d3112cf7b258af4217521f5771643f.jpg",
+      "url_origen": "https://jkanime.net/endro/4/",
+      "publicado_en_origen": "2019-02-03 00:57:59"
+    },
+    {
+      "id_origen": 38841,
+      "numero": 5,
+      "titulo": "Endro~! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f9e3113eb869488d3b9e80931e75946.jpg",
+      "url_origen": "https://jkanime.net/endro/5/",
+      "publicado_en_origen": "2019-02-10 02:35:16"
+    },
+    {
+      "id_origen": 38900,
+      "numero": 6,
+      "titulo": "Endro~! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bde5cb52f6b5890917e387c55b36c577.jpg",
+      "url_origen": "https://jkanime.net/endro/6/",
+      "publicado_en_origen": "2019-02-16 22:25:32"
+    },
+    {
+      "id_origen": 38981,
+      "numero": 7,
+      "titulo": "Endro~! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_740db62814c09f5f0f6e781e915b15ac.jpg",
+      "url_origen": "https://jkanime.net/endro/7/",
+      "publicado_en_origen": "2019-02-23 17:18:17"
+    },
+    {
+      "id_origen": 39062,
+      "numero": 8,
+      "titulo": "Endro~! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36c3c8c1f957eb0ce81d88dc1bfc98de.jpg",
+      "url_origen": "https://jkanime.net/endro/8/",
+      "publicado_en_origen": "2019-03-02 17:31:55"
+    },
+    {
+      "id_origen": 39284,
+      "numero": 9,
+      "titulo": "Endro~! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cde6da1f7a10ac294b1dbc1c1733352.jpg",
+      "url_origen": "https://jkanime.net/endro/9/",
+      "publicado_en_origen": "2019-03-10 05:09:36"
+    },
+    {
+      "id_origen": 39332,
+      "numero": 10,
+      "titulo": "Endro~! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f72838a46139d9e8c1d71c9204376a88.jpg",
+      "url_origen": "https://jkanime.net/endro/10/",
+      "publicado_en_origen": "2019-03-16 16:06:54"
+    },
+    {
+      "id_origen": 39384,
+      "numero": 11,
+      "titulo": "Endro~! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e281f682fab884aafadb53f9711eaffb.jpg",
+      "url_origen": "https://jkanime.net/endro/11/",
+      "publicado_en_origen": "2019-03-23 18:11:56"
+    },
+    {
+      "id_origen": 39453,
+      "numero": 12,
+      "titulo": "Endro~! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6668ef0ca3092b1efab304fbf65e4e6.jpg",
+      "url_origen": "https://jkanime.net/endro/12/",
+      "publicado_en_origen": "2019-03-30 16:16:59"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:12+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2354",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:26:18+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 1964,
+  "slug": "monster-musume-no-iru-nichijou-ova",
+  "titulo": "Monster Musume no Iru Nichijou OVA",
+  "titulo_corto": "Monster Musume no Iru Nichijou...",
+  "sinopsis": "OVAs Incluidos con el volumen 11 y 12 del manga.\n\nOVA 1: Miia, Cerea, Mero y Kurusu van a la piscina.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/monster-musume-no-iru-nichijou-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/monster-musume-no-iru-nichijou-ova/",
+  "episodios": [
+    {
+      "id_origen": 33335,
+      "numero": 1,
+      "titulo": "Monster Musume no Iru Nichijou OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dda4bdea15022bac2479280f775d1fb7.jpg",
+      "url_origen": "https://jkanime.net/monster-musume-no-iru-nichijou-ova/1/",
+      "publicado_en_origen": "2016-11-12 17:41:21"
+    },
+    {
+      "id_origen": 34533,
+      "numero": 2,
+      "titulo": "Monster Musume no Iru Nichijou OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc3e6127ca2263a0a9375a2efab8dae4.jpg",
+      "url_origen": "https://jkanime.net/monster-musume-no-iru-nichijou-ova/2/",
+      "publicado_en_origen": "2017-04-12 22:12:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1964",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:39:11+00:00"
+}

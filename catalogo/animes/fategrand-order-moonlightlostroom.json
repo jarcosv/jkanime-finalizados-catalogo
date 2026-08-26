@@ -1,0 +1,29 @@
+{
+  "id_origen": 2564,
+  "slug": "fategrand-order-moonlightlostroom",
+  "titulo": "Fate/Grand Order: Moonlight/Lostroom",
+  "titulo_corto": "Fate/Grand Order: Moonlight/Lo...",
+  "sinopsis": "Breve centrado en una \"Habitación perdida\" donde puede encontrar lo que se perdió, o los que perdieron. Esta habitación, que no pertenece a nadie, yace olvidada en un rincón de Caldea.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fategrand-order-moonlightlostroom.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fategrand-order-moonlightlostroom/",
+  "episodios": [
+    {
+      "id_origen": 41840,
+      "numero": 1,
+      "titulo": "Fate/Grand Order: Moonlight/Lostroom",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b77c5003e50ca16259a2ead6c914e260.jpg",
+      "url_origen": "https://jkanime.net/fategrand-order-moonlightlostroom/1/",
+      "publicado_en_origen": "2019-12-31 11:18:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2564",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:47+00:00"
+}

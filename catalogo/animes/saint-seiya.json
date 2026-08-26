@@ -1,0 +1,933 @@
+{
+  "id_origen": 42,
+  "slug": "saint-seiya",
+  "titulo": "Saint Seiya",
+  "titulo_corto": "Saint Seiya",
+  "sinopsis": "Cuenta la historia de un grupo de jovenes guerreros denominados Santos (o caballeros en varias traducciones), quienes luchan por proteger a la diosa griega Atenea de las fuerzas del mal. Para luchar, los Santos sólo utilizan su energía interior (denominada cosmos), sus puños y armaduras que les sirven de protección y que además están inspiradas en constelaciones o seres de la mitología griega y escandinava.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saint-seiya.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/saint-seiya/",
+  "episodios": [
+    {
+      "id_origen": 772,
+      "numero": 1,
+      "titulo": "Saint Seiya Santuario 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e57c6b956a6521b28495f2886ca0977a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/1/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 773,
+      "numero": 2,
+      "titulo": "Saint Seiya Santuario 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86b122d4358357d834a87ce618a55de0.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/2/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 774,
+      "numero": 3,
+      "titulo": "Saint Seiya Santuario 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e0928de075538c593fbdabb0c5ef2c3.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/3/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 775,
+      "numero": 4,
+      "titulo": "Saint Seiya Santuario 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0f168ce8900fa56e57789e2a2f2c9d0.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/4/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 776,
+      "numero": 5,
+      "titulo": "Saint Seiya Santuario 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c6744c9d42ec2cb9e8885b54ff744d0.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/5/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 777,
+      "numero": 6,
+      "titulo": "Saint Seiya Santuario 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1c1592588411002af340cbaedd6fc33.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/6/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 778,
+      "numero": 7,
+      "titulo": "Saint Seiya Santuario 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e07413354875be01a996dc560274708e.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/7/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 779,
+      "numero": 8,
+      "titulo": "Saint Seiya Santuario 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67d96d458abdef21792e6d8e590244e7.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/8/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 780,
+      "numero": 9,
+      "titulo": "Saint Seiya Santuario 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8e864d04c95572d1aece099af852d0a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/9/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 781,
+      "numero": 10,
+      "titulo": "Saint Seiya Santuario 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7143d7fbadfa4693b9eec507d9d37443.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/10/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 782,
+      "numero": 11,
+      "titulo": "Saint Seiya Santuario 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72da7fd6d1302c0a159f6436d01e9eb0.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/11/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 783,
+      "numero": 12,
+      "titulo": "Saint Seiya Santuario 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e0721b2c6977135b916ef286bcb49ec.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/12/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 784,
+      "numero": 13,
+      "titulo": "Saint Seiya Santuario 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc8001f834f6a5f0561080d134d53d29.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/13/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 785,
+      "numero": 14,
+      "titulo": "Saint Seiya Santuario 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b04a686b0ad13dce35fa99fa4161c65.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/14/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 786,
+      "numero": 15,
+      "titulo": "Saint Seiya Santuario 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61b4a64be663682e8cb037d9719ad8cd.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/15/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 787,
+      "numero": 16,
+      "titulo": "Saint Seiya Santuario 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3621f1454cacf995530ea53652ddf8fb.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/16/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 788,
+      "numero": 17,
+      "titulo": "Saint Seiya Santuario 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c15da1f2b5e5ed6e6837a3802f0d1593.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/17/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 789,
+      "numero": 18,
+      "titulo": "Saint Seiya Santuario 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68053af2923e00204c3ca7c6a3150cf7.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/18/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 790,
+      "numero": 19,
+      "titulo": "Saint Seiya Santuario 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2dace78f80bc92e6d7493423d729448e.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/19/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 791,
+      "numero": 20,
+      "titulo": "Saint Seiya Santuario 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df7f28ac89ca37bf1abd2f6c184fe1cf.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/20/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 792,
+      "numero": 21,
+      "titulo": "Saint Seiya Santuario 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96ea64f3a1aa2fd00c72faacf0cb8ac9.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/21/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 793,
+      "numero": 22,
+      "titulo": "Saint Seiya Santuario 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da8ce53cf0240070ce6c69c48cd588ee.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/22/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 794,
+      "numero": 23,
+      "titulo": "Saint Seiya Santuario 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82489c9737cc245530c7a6ebef3753ec.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/23/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 795,
+      "numero": 24,
+      "titulo": "Saint Seiya Santuario 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c590f01490190db0ed02a5070e20f01.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/24/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 796,
+      "numero": 25,
+      "titulo": "Saint Seiya Santuario 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35cf8659cfcb13224cbd47863a34fc58.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/25/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 797,
+      "numero": 26,
+      "titulo": "Saint Seiya Santuario 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_beb22fb694d513edcf5533cf006dfeae.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/26/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 798,
+      "numero": 27,
+      "titulo": "Saint Seiya Santuario 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e3cfc48eccf81a0d57663e129aef3cb.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/27/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 799,
+      "numero": 28,
+      "titulo": "Saint Seiya Santuario 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28267ab848bcf807b2ed53c3a8f8fc8a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/28/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 800,
+      "numero": 29,
+      "titulo": "Saint Seiya Santuario 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a53928fa4dd31e82c6ef826f341daec.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/29/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 801,
+      "numero": 30,
+      "titulo": "Saint Seiya Santuario 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1905aedab9bf2477edc068a355bba31a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/30/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 802,
+      "numero": 31,
+      "titulo": "Saint Seiya Santuario 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1141938ba2c2b13f5505d7c424ebae5f.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/31/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 11073,
+      "numero": 32,
+      "titulo": "Saint Seiya - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_840348ae33163924c1d29fd2c22faf13.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/32/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 803,
+      "numero": 33,
+      "titulo": "Saint Seiya Santuario 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1aa48fc4880bb0c9b8a3bf979d3b917e.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/33/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 804,
+      "numero": 34,
+      "titulo": "Saint Seiya Santuario 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc5689792e08eb2e219dce49e64c885b.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/34/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 805,
+      "numero": 35,
+      "titulo": "Saint Seiya Santuario 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_846c260d715e5b854ffad5f70a516c88.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/35/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 806,
+      "numero": 36,
+      "titulo": "Saint Seiya Santuario 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d58072be2820e8682c0a27c0518e805e.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/36/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 807,
+      "numero": 37,
+      "titulo": "Saint Seiya Santuario 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e7b33fdea3adc80ebd648fffb665bb8.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/37/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 808,
+      "numero": 38,
+      "titulo": "Saint Seiya Santuario 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8ecbabae151abacba7dbde04f761c37.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/38/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 809,
+      "numero": 39,
+      "titulo": "Saint Seiya Santuario 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32b30a250abd6331e03a2a1f16466346.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/39/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 810,
+      "numero": 40,
+      "titulo": "Saint Seiya Santuario 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6edc1cd1f36e45daf6d7824d7bb2283.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/40/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 11074,
+      "numero": 41,
+      "titulo": "Saint Seiya - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_daecf755df5b1d637033bb29b319c39a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/41/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11075,
+      "numero": 42,
+      "titulo": "Saint Seiya - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c528e25e1fdeaf9d8160dc24dbf4d60.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/42/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11076,
+      "numero": 43,
+      "titulo": "Saint Seiya - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96b8294326cb6595573cf2689f3f6dda.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/43/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11077,
+      "numero": 44,
+      "titulo": "Saint Seiya - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_644c87da09444b4942bef3299de94372.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/44/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11078,
+      "numero": 45,
+      "titulo": "Saint Seiya - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b015f24e9c4eaa54104d9abcbc99b2d0.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/45/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11079,
+      "numero": 46,
+      "titulo": "Saint Seiya - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21f2a5c3244b531186b4e7f91d555861.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/46/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11080,
+      "numero": 47,
+      "titulo": "Saint Seiya - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f13cf4ddf6fc50c0d39a1d5aeb57dd8.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/47/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11081,
+      "numero": 48,
+      "titulo": "Saint Seiya - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77772713a7d7e02b10ca9bd90e4f6a31.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/48/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11082,
+      "numero": 49,
+      "titulo": "Saint Seiya - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bcd83a98bc4ee323ec93c0f0e704d04.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/49/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11083,
+      "numero": 50,
+      "titulo": "Saint Seiya - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9877c66299c5b98d81fed12827d87e4b.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/50/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11084,
+      "numero": 51,
+      "titulo": "Saint Seiya - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a23156abfd4a114c35b930b836064e8b.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/51/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11085,
+      "numero": 52,
+      "titulo": "Saint Seiya - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43b2dd1c93748297cfbbea4d31247641.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/52/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11086,
+      "numero": 53,
+      "titulo": "Saint Seiya - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df321578b4f5f132345d2e6b39743126.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/53/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11087,
+      "numero": 54,
+      "titulo": "Saint Seiya - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a82aac2169c9a76e374b2f4c96bfa0a0.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/54/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11088,
+      "numero": 55,
+      "titulo": "Saint Seiya - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2b6806d6ed60d2d87b0dd5ae62e6f20.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/55/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11089,
+      "numero": 56,
+      "titulo": "Saint Seiya - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_087bc7552322045ad94868390dce5b37.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/56/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11090,
+      "numero": 57,
+      "titulo": "Saint Seiya - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5839ddf15d7eafa3befa98544d2c1e9d.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/57/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11091,
+      "numero": 58,
+      "titulo": "Saint Seiya - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f508afaa848fefb2033d262ad7237a5c.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/58/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11092,
+      "numero": 59,
+      "titulo": "Saint Seiya - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6605cf6f932aa6510d637af51c820a6a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/59/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11093,
+      "numero": 60,
+      "titulo": "Saint Seiya - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3722e31eaa9efae6938cc5c435365dfd.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/60/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11094,
+      "numero": 61,
+      "titulo": "Saint Seiya - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e946209592563be0f01c844ab2170f0c.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/61/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11095,
+      "numero": 62,
+      "titulo": "Saint Seiya - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec5de3e8dc6bd121a79794021bf20cb1.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/62/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11096,
+      "numero": 63,
+      "titulo": "Saint Seiya - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50c257453449e7c4b40cf5a13cea6ca7.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/63/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11097,
+      "numero": 64,
+      "titulo": "Saint Seiya - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6dfc6b7c601ac2978357b7a81e2d7ae.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/64/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11098,
+      "numero": 65,
+      "titulo": "Saint Seiya - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de91676848de8e7b9a92578c93fa60da.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/65/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11099,
+      "numero": 66,
+      "titulo": "Saint Seiya - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_533d2891bb1b332f3845f7bfd09b78ef.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/66/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11100,
+      "numero": 67,
+      "titulo": "Saint Seiya - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_624c54021cda44b56c92aa798ebadd9e.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/67/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11101,
+      "numero": 68,
+      "titulo": "Saint Seiya - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4db4fc1ef9ae443ced49d00f2192445.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/68/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11102,
+      "numero": 69,
+      "titulo": "Saint Seiya - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52c4608c2f126708211b9e0a60eaf050.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/69/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11103,
+      "numero": 70,
+      "titulo": "Saint Seiya - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb25b181bed28630afa6c026a6ed31fe.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/70/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11104,
+      "numero": 71,
+      "titulo": "Saint Seiya - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf03faf089665754a8af5dce381a42ca.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/71/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11105,
+      "numero": 72,
+      "titulo": "Saint Seiya - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0f07e680de407b0f12abf15bd520097.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/72/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11106,
+      "numero": 73,
+      "titulo": "Saint Seiya - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b15c09f68d56c3bd35de82aefd6702bd.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/73/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11107,
+      "numero": 74,
+      "titulo": "Saint Seiya - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37e79373884f0f0b70b5cb91fb947148.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/74/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11108,
+      "numero": 75,
+      "titulo": "Saint Seiya - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bd9cae0be467d9523a8489230163366.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/75/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11109,
+      "numero": 76,
+      "titulo": "Saint Seiya - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a52db09e45a58b3e50bcc6213785282.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/76/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11110,
+      "numero": 77,
+      "titulo": "Saint Seiya - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_805d94d14046509f82c7bdb1819c64af.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/77/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11111,
+      "numero": 78,
+      "titulo": "Saint Seiya - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0baee9d279d34fa1dfd71aadb908c3f.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/78/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11112,
+      "numero": 79,
+      "titulo": "Saint Seiya - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afcb7a2f1c158286b48062cd885a9866.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/79/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11113,
+      "numero": 80,
+      "titulo": "Saint Seiya - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b009c2f8e8d230c498c2db26678dd77.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/80/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11114,
+      "numero": 81,
+      "titulo": "Saint Seiya - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed1db771321105b3c0dbc70a661b9b10.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/81/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11115,
+      "numero": 82,
+      "titulo": "Saint Seiya - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7dcd79b773dc85c89b84862cdedb6cf.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/82/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11116,
+      "numero": 83,
+      "titulo": "Saint Seiya - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e4faae72b1c3cbd446a70e89e59d8fc.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/83/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11117,
+      "numero": 84,
+      "titulo": "Saint Seiya - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_307eb8ee16198da891c521eca21464c1.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/84/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11118,
+      "numero": 85,
+      "titulo": "Saint Seiya - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d585d095b00cd2f5b50acb64add23834.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/85/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11119,
+      "numero": 86,
+      "titulo": "Saint Seiya - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2d56b6b53ce40332aec920b78d030c1.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/86/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11120,
+      "numero": 87,
+      "titulo": "Saint Seiya - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20c8b2aa5b567ae19224040bc52b36f1.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/87/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11121,
+      "numero": 88,
+      "titulo": "Saint Seiya - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fb94b5238b785967da7765e33a7d8aa.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/88/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11122,
+      "numero": 89,
+      "titulo": "Saint Seiya - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bf0ccdbb4d3ebbcb990af74bd78c658.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/89/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11123,
+      "numero": 90,
+      "titulo": "Saint Seiya - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5397f1497b5cdaad7253fdc92db610b.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/90/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11124,
+      "numero": 91,
+      "titulo": "Saint Seiya - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3050c2fe9297974cbf4328fa4f98d42.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/91/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11125,
+      "numero": 92,
+      "titulo": "Saint Seiya - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbca7635077d4074f8d30094a3176972.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/92/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11126,
+      "numero": 93,
+      "titulo": "Saint Seiya - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b74c9847e45c3be47e0d1a8f92bcab8.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/93/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11127,
+      "numero": 94,
+      "titulo": "Saint Seiya - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2f69d4be0295d46325a2ff1b925faf2.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/94/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11128,
+      "numero": 95,
+      "titulo": "Saint Seiya - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_293c3b96edea6588bc4b9415c3be4e66.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/95/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11129,
+      "numero": 96,
+      "titulo": "Saint Seiya - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64714a86909d401f8feb83e8c2d94b23.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/96/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11130,
+      "numero": 97,
+      "titulo": "Saint Seiya - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14faf969228fc18fcd4fcf59437b0c97.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/97/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11131,
+      "numero": 98,
+      "titulo": "Saint Seiya - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e896db75d35788e14104e4eb490e725b.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/98/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11132,
+      "numero": 99,
+      "titulo": "Saint Seiya - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9de6a144a3cc26cb4b3c47b206a121a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/99/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11133,
+      "numero": 100,
+      "titulo": "Saint Seiya - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_652c208b21f13f6e995bfc1154a1a2e5.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/100/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11134,
+      "numero": 101,
+      "titulo": "Saint Seiya - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f8c36919400d501da7b9211735b71f2.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/101/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11135,
+      "numero": 102,
+      "titulo": "Saint Seiya - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47599716060306c09493e977bbbce22e.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/102/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11136,
+      "numero": 103,
+      "titulo": "Saint Seiya - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad0efad9dd0abaec4b8f9aaa489ec2f1.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/103/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11137,
+      "numero": 104,
+      "titulo": "Saint Seiya - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76ba9f564ebbc35b1014ac498fafadd0.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/104/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11138,
+      "numero": 105,
+      "titulo": "Saint Seiya - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e19999864bb17b5cf10e68e3c7e6276.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/105/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11139,
+      "numero": 106,
+      "titulo": "Saint Seiya - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c7f7c2dae5b4e1dd398cffb26391a58.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/106/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11140,
+      "numero": 107,
+      "titulo": "Saint Seiya - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81f7acabd411274fcf65ce2070ed568a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/107/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11141,
+      "numero": 108,
+      "titulo": "Saint Seiya - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ceefb51ae9ec399a69540c895f4519f.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/108/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11142,
+      "numero": 109,
+      "titulo": "Saint Seiya - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b20bd2a22c7f0aef29ab5a4cb1934f71.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/109/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11143,
+      "numero": 110,
+      "titulo": "Saint Seiya - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16f8e136ee5693823268874e58795216.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/110/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11144,
+      "numero": 111,
+      "titulo": "Saint Seiya - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3103deb68465747643608bb0f506dee6.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/111/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11145,
+      "numero": 112,
+      "titulo": "Saint Seiya - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e8dc0f571ac8e270a4a3ff986430e96.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/112/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11146,
+      "numero": 113,
+      "titulo": "Saint Seiya - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c42d4338e4e653d3ad3f12340edf005.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/113/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    },
+    {
+      "id_origen": 11147,
+      "numero": 114,
+      "titulo": "Saint Seiya - 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eed054ecd7a0a544cf73292836023ffe.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya/114/",
+      "publicado_en_origen": "2011-08-04 11:22:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "42",
+  "cantidad_episodios_declarada": 114,
+  "detalle_extraido_en": "2026-08-26T18:44:39+00:00"
+}

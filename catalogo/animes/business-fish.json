@@ -1,0 +1,29 @@
+{
+  "id_origen": 2488,
+  "slug": "business-fish",
+  "titulo": "Business Fish",
+  "titulo_corto": "Business Fish",
+  "sinopsis": "Aun falta sinopsis pero es de un pescado",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/business-fish.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/business-fish/",
+  "episodios": [
+    {
+      "id_origen": 40615,
+      "numero": 1,
+      "titulo": "Business Fish - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/business-fish.jpg",
+      "url_origen": "https://jkanime.net/business-fish/1/",
+      "publicado_en_origen": "2019-08-01 20:25:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2488",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:22:15+00:00"
+}

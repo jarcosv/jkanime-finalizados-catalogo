@@ -1,0 +1,69 @@
+{
+  "id_origen": 3258,
+  "slug": "lupin-zero",
+  "titulo": "Lupin Zero",
+  "titulo_corto": "Lupin Zero",
+  "sinopsis": "¿Cómo se convirtió este joven en un notorio caballero ladrón \"Lupin III\"?\n\nBasado libremente en Young Lupin III del manga original, Lupin Zero contará una historia original nostálgica pero completamente nueva, y finalmente levantará el velo sobre los humildes comienzos de Lupin III. Ambientado durante la era en la que se publicó por primera vez la serie original, el anime muestra al joven Lupin III corriendo por las calles de Japón en la década de 1960 durante el auge económico del país.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/lupin-zero.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/lupin-zero/",
+  "episodios": [
+    {
+      "id_origen": 51383,
+      "numero": 1,
+      "titulo": "Lupin Zero - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffb18a5898c9fa82aa8b9b58dbc3aeff.jpg",
+      "url_origen": "https://jkanime.net/lupin-zero/1/",
+      "publicado_en_origen": "2022-12-17 13:46:38"
+    },
+    {
+      "id_origen": 51384,
+      "numero": 2,
+      "titulo": "Lupin Zero - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bea6f456bea46c20ca7d96b68746dc71.jpg",
+      "url_origen": "https://jkanime.net/lupin-zero/2/",
+      "publicado_en_origen": "2022-12-17 13:47:03"
+    },
+    {
+      "id_origen": 51427,
+      "numero": 3,
+      "titulo": "Lupin Zero - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01bf863ff3f7af74128cad56c0b5af60.jpg",
+      "url_origen": "https://jkanime.net/lupin-zero/3/",
+      "publicado_en_origen": "2022-12-23 14:10:11"
+    },
+    {
+      "id_origen": 51476,
+      "numero": 4,
+      "titulo": "Lupin Zero - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e68d24bfcfb64571d1c44e49b524185.jpg",
+      "url_origen": "https://jkanime.net/lupin-zero/4/",
+      "publicado_en_origen": "2022-12-31 11:06:59"
+    },
+    {
+      "id_origen": 51564,
+      "numero": 5,
+      "titulo": "Lupin Zero - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f31e7936f7c20a9fe52e0a5f700f432.jpg",
+      "url_origen": "https://jkanime.net/lupin-zero/5/",
+      "publicado_en_origen": "2023-01-13 16:40:15"
+    },
+    {
+      "id_origen": 51792,
+      "numero": 6,
+      "titulo": "Lupin Zero - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10a8ea335a4cacf2abae268a8da09b64.jpg",
+      "url_origen": "https://jkanime.net/lupin-zero/6/",
+      "publicado_en_origen": "2023-02-04 14:43:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3258",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:36:56+00:00"
+}

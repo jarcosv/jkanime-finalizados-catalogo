@@ -1,0 +1,45 @@
+{
+  "id_origen": 1832,
+  "slug": "ajin-ova",
+  "titulo": "Ajin OVA",
+  "titulo_corto": "Ajin OVA",
+  "sinopsis": "El peor escenario y el más temido por el Comité de Control Aijin: “El Incidente Shinya Nakamura”. ¡La verdad será finalmente revelada!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ajin-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ajin-ova/",
+  "episodios": [
+    {
+      "id_origen": 31705,
+      "numero": 1,
+      "titulo": "Ajin OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5bfd2f128b8ad4744560fda1eab52bb.jpg",
+      "url_origen": "https://jkanime.net/ajin-ova/1/",
+      "publicado_en_origen": "2016-05-30 14:28:54"
+    },
+    {
+      "id_origen": 43366,
+      "numero": 2,
+      "titulo": "Ajin OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39ecc5282d4511dca4c757113e1312d1.jpg",
+      "url_origen": "https://jkanime.net/ajin-ova/2/",
+      "publicado_en_origen": "2020-08-23 03:58:03"
+    },
+    {
+      "id_origen": 43367,
+      "numero": 3,
+      "titulo": "Ajin OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2024bb88e892c25cfab097cce2d24fa.jpg",
+      "url_origen": "https://jkanime.net/ajin-ova/3/",
+      "publicado_en_origen": "2020-08-23 03:58:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1832",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:15:44+00:00"
+}

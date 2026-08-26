@@ -1,0 +1,29 @@
+{
+  "id_origen": 1165,
+  "slug": "miss-monochrome-supporter",
+  "titulo": "Miss Monochrome: Supporter",
+  "titulo_corto": "Miss Monochrome: Supporter",
+  "sinopsis": "Miss Monochrome intenta ayudar al equipo de Japón que lo disfruten.\n\nEspecial con motivo del mundial de fútbol.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/miss-monochrome-supporter.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/miss-monochrome-supporter/",
+  "episodios": [
+    {
+      "id_origen": 23768,
+      "numero": 1,
+      "titulo": "Miss Monochrome: Supporter",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/miss-monochrome-supporter.jpg",
+      "url_origen": "https://jkanime.net/miss-monochrome-supporter/1/",
+      "publicado_en_origen": "2014-06-17 23:21:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1165",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:38:45+00:00"
+}

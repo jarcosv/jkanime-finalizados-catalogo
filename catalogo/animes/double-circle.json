@@ -1,0 +1,69 @@
+{
+  "id_origen": 1010,
+  "slug": "double-circle",
+  "titulo": "Double Circle",
+  "titulo_corto": "Double Circle",
+  "sinopsis": "La historia se centra en la ciudad de Kawasaki donde se está llevando a cabo un proyecto de concientización energetica llamado Ciudad Inteligente (Smart City) y Sus Heroes protegeran la ciudad de cualquier peligro.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/double-circle.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/double-circle/",
+  "episodios": [
+    {
+      "id_origen": 22268,
+      "numero": 1,
+      "titulo": "Double Circle - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/double-circle.jpg",
+      "url_origen": "https://jkanime.net/double-circle/1/",
+      "publicado_en_origen": "2013-12-23 03:45:52"
+    },
+    {
+      "id_origen": 22530,
+      "numero": 2,
+      "titulo": "Double Circle - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/double-circle.jpg",
+      "url_origen": "https://jkanime.net/double-circle/2/",
+      "publicado_en_origen": "2014-01-25 20:07:44"
+    },
+    {
+      "id_origen": 23424,
+      "numero": 3,
+      "titulo": "Double Circle - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/double-circle.jpg",
+      "url_origen": "https://jkanime.net/double-circle/3/",
+      "publicado_en_origen": "2014-05-07 17:11:04"
+    },
+    {
+      "id_origen": 23639,
+      "numero": 4,
+      "titulo": "Double Circle - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/double-circle.jpg",
+      "url_origen": "https://jkanime.net/double-circle/4/",
+      "publicado_en_origen": "2014-06-01 19:54:27"
+    },
+    {
+      "id_origen": 24615,
+      "numero": 5,
+      "titulo": "Double Circle - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/double-circle.jpg",
+      "url_origen": "https://jkanime.net/double-circle/5/",
+      "publicado_en_origen": "2014-09-01 21:23:06"
+    },
+    {
+      "id_origen": 24966,
+      "numero": 6,
+      "titulo": "Double Circle - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/double-circle.jpg",
+      "url_origen": "https://jkanime.net/double-circle/6/",
+      "publicado_en_origen": "2014-10-01 20:40:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1010",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:25:24+00:00"
+}

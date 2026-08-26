@@ -1,0 +1,45 @@
+{
+  "id_origen": 4269,
+  "slug": "bungaku-shoujo-memoire",
+  "titulo": "\"Bungaku Shoujo\" Memoire",
+  "titulo_corto": "\"Bungaku Shoujo\" Memoire",
+  "sinopsis": "Episodios que muestran las historias de fondo de las heroínas principales de la película \"Bungaku Shoujo\" Movie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bungaku-shoujo-memoire.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bungaku-shoujo-memoire/",
+  "episodios": [
+    {
+      "id_origen": 65668,
+      "numero": 1,
+      "titulo": "\"Bungaku Shoujo\" Memoire - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8fc7b417909fe204dd1c48110290df9.jpg",
+      "url_origen": "https://jkanime.net/bungaku-shoujo-memoire/1/",
+      "publicado_en_origen": "2025-08-02 21:34:10"
+    },
+    {
+      "id_origen": 65669,
+      "numero": 2,
+      "titulo": "\"Bungaku Shoujo\" Memoire - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f07792137fd60ec7e58f4b2c4ebddb3.jpg",
+      "url_origen": "https://jkanime.net/bungaku-shoujo-memoire/2/",
+      "publicado_en_origen": "2025-08-02 21:34:10"
+    },
+    {
+      "id_origen": 65670,
+      "numero": 3,
+      "titulo": "\"Bungaku Shoujo\" Memoire - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6edc1b58389c3b9e521976c60c4f3a18.jpg",
+      "url_origen": "https://jkanime.net/bungaku-shoujo-memoire/3/",
+      "publicado_en_origen": "2025-08-02 21:34:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4269",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:14:23+00:00"
+}

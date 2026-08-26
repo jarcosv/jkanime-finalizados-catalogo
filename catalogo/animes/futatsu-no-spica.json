@@ -1,0 +1,181 @@
+{
+  "id_origen": 4603,
+  "slug": "futatsu-no-spica",
+  "titulo": "Futatsu no Spica",
+  "titulo_corto": "Futatsu no Spica",
+  "sinopsis": "Cuando Kamogawa Asumi era solo un bebé, su madre resultó gravemente herida al estrellarse un cohete contra el suelo. Cinco años después, tras permanecer en coma todo ese tiempo, la madre de Asumi finalmente fallece, y la pequeña lucha por aceptar la muerte de una madre a la que apenas recuerda. En medio de su confusión, conoce a «Lion-san», un extraño personaje que lleva una máscara de león y dice ser un fantasma. Lion-san ayuda a Asumi a enterrar las cenizas de su madre y, finalmente, Asumi toma su propia decisión: «Cuando sea mayor, voy a ser piloto de cohetes».",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/futatsu-no-spica.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/futatsu-no-spica/",
+  "episodios": [
+    {
+      "id_origen": 71077,
+      "numero": 1,
+      "titulo": "Futatsu no Spica - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61680a157379bf2418945af1c8bba8b1.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/1/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71078,
+      "numero": 2,
+      "titulo": "Futatsu no Spica - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aba8d25c4ab8921d328b1f9af73292f4.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/2/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71079,
+      "numero": 3,
+      "titulo": "Futatsu no Spica - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a82eb6666905f799bf3be0f3541fe43.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/3/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71080,
+      "numero": 4,
+      "titulo": "Futatsu no Spica - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5685c4fabb66183dc0eb5f3e33c32163.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/4/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71081,
+      "numero": 5,
+      "titulo": "Futatsu no Spica - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9291e2e992c20c261bd5b886becc83f.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/5/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71082,
+      "numero": 6,
+      "titulo": "Futatsu no Spica - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a043251939645945505b619f250dd3eb.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/6/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71083,
+      "numero": 7,
+      "titulo": "Futatsu no Spica - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c398c8a7c6699287add274fc17bea435.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/7/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71084,
+      "numero": 8,
+      "titulo": "Futatsu no Spica - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3a3fd41eddcaea5d12cfd2de8f5cf3a.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/8/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71085,
+      "numero": 9,
+      "titulo": "Futatsu no Spica - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87f765bf9b057be96c2959ef48fd1d96.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/9/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71086,
+      "numero": 10,
+      "titulo": "Futatsu no Spica - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7d385e67ce6fcb8e8e3db6f7d311b79.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/10/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71087,
+      "numero": 11,
+      "titulo": "Futatsu no Spica - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f89a5c21b8253b636291077b01f9bde.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/11/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71088,
+      "numero": 12,
+      "titulo": "Futatsu no Spica - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1adb66d5e76b656d95f0305262a3fdd4.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/12/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71089,
+      "numero": 13,
+      "titulo": "Futatsu no Spica - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0eb029d409b646850162e03cf5c155ae.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/13/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71090,
+      "numero": 14,
+      "titulo": "Futatsu no Spica - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3dda3a55d049739ef97db2f0989125e9.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/14/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71091,
+      "numero": 15,
+      "titulo": "Futatsu no Spica - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b43b38608b49079bda93412a731df8f.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/15/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71092,
+      "numero": 16,
+      "titulo": "Futatsu no Spica - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a01f4134499e325ae910cdf40b1269ae.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/16/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71093,
+      "numero": 17,
+      "titulo": "Futatsu no Spica - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11a208043bc41a0dfba9c36c3a9e2d6a.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/17/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71094,
+      "numero": 18,
+      "titulo": "Futatsu no Spica - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d5a444533350355a997979157ff7e43.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/18/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71095,
+      "numero": 19,
+      "titulo": "Futatsu no Spica - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26ca938d82dbde2a1f39c2985fe5ae16.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/19/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    },
+    {
+      "id_origen": 71096,
+      "numero": 20,
+      "titulo": "Futatsu no Spica - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4f5741a9f689484d414b0b32e8ae41a.jpg",
+      "url_origen": "https://jkanime.net/futatsu-no-spica/20/",
+      "publicado_en_origen": "2026-01-29 11:06:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4603",
+  "cantidad_episodios_declarada": 20,
+  "detalle_extraido_en": "2026-08-26T18:27:38+00:00"
+}

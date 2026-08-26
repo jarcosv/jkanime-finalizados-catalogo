@@ -1,0 +1,29 @@
+{
+  "id_origen": 763,
+  "slug": "hyouka-motsubeki-mono-wa",
+  "titulo": "Hyouka: Motsubeki Mono wa",
+  "titulo_corto": "Hyouka: Motsubeki Mono wa",
+  "sinopsis": "Episodio 11.5, una ova incluida en el tercer volumen del manga. Un episodio de fanservice en una piscina.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hyouka-motsubeki-mono-wa.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hyouka-motsubeki-mono-wa/",
+  "episodios": [
+    {
+      "id_origen": 19021,
+      "numero": 1,
+      "titulo": "Hyouka: Motsubeki Mono wa",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_159fc249207cc45fd95a7e17308aaba1.jpg",
+      "url_origen": "https://jkanime.net/hyouka-motsubeki-mono-wa/1/",
+      "publicado_en_origen": "2013-01-13 13:38:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "763",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:31:28+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1485,
+  "slug": "ongaku-shoujo",
+  "titulo": "Ongaku Shoujo",
+  "titulo_corto": "Ongaku Shoujo",
+  "sinopsis": "Eri Kumagai, una chica a quien le gusta quedarse en casa, se encuentra un día con una misteriosa pero energética estudiante transferida, llamada Haru Chitose. El encuentro entre ambas cambiara su vida diaria. Sin darse cuenta, encontrarán algo especial que las une... A Eri solía encantarle cantar y a Haru le encanto escuchar el canto de Eri. La historia sigue a las dos durante un verano de su vida en el instituto y como su amor por la música a veces se superpone y, a veces pasa de una a otra.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ongaku-shoujo.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ongaku-shoujo/",
+  "episodios": [
+    {
+      "id_origen": 27342,
+      "numero": 1,
+      "titulo": "Ongaku Shoujo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ongaku-shoujo.jpg",
+      "url_origen": "https://jkanime.net/ongaku-shoujo/1/",
+      "publicado_en_origen": "2015-03-30 16:24:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1485",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:17+00:00"
+}

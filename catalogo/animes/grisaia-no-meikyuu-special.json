@@ -1,0 +1,29 @@
+{
+  "id_origen": 1632,
+  "slug": "grisaia-no-meikyuu-special",
+  "titulo": "Grisaia no Meikyuu Special",
+  "titulo_corto": "Grisaia no Meikyuu Special",
+  "sinopsis": "Especial incluido en el volumen Blu-ray/DVD de Grisaia no Meikyuu.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/grisaia-no-meikyuu-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/grisaia-no-meikyuu-special/",
+  "episodios": [
+    {
+      "id_origen": 29110,
+      "numero": 1,
+      "titulo": "Grisaia no Meikyuu Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbe6ce6a3f92aa796ef05b887d97a891.jpg",
+      "url_origen": "https://jkanime.net/grisaia-no-meikyuu-special/1/",
+      "publicado_en_origen": "2015-08-25 14:56:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1632",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:29:06+00:00"
+}

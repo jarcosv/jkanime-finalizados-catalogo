@@ -1,0 +1,45 @@
+{
+  "id_origen": 3181,
+  "slug": "totsukuni-no-shoujo-2022",
+  "titulo": "Totsukuni no Shoujo (2022)",
+  "titulo_corto": "Totsukuni no Shoujo (2022)",
+  "sinopsis": "OVA incluido con la edición especial de la historia paralela del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/totsukuni-no-shoujo-2022.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/totsukuni-no-shoujo-2022/",
+  "episodios": [
+    {
+      "id_origen": 50043,
+      "numero": 1,
+      "titulo": "Totsukuni no Shoujo (2022) - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddb332da3493409477d6d7934a14604f.jpg",
+      "url_origen": "https://jkanime.net/totsukuni-no-shoujo-2022/1/",
+      "publicado_en_origen": "2022-08-05 14:35:52"
+    },
+    {
+      "id_origen": 50044,
+      "numero": 2,
+      "titulo": "Totsukuni no Shoujo (2022) - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f30e85386b0b98903004680a415d038.jpg",
+      "url_origen": "https://jkanime.net/totsukuni-no-shoujo-2022/2/",
+      "publicado_en_origen": "2022-08-05 14:35:55"
+    },
+    {
+      "id_origen": 50045,
+      "numero": 3,
+      "titulo": "Totsukuni no Shoujo (2022) - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04700887902544dc4ee6621fe7e4ba4c.jpg",
+      "url_origen": "https://jkanime.net/totsukuni-no-shoujo-2022/3/",
+      "publicado_en_origen": "2022-08-05 14:36:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3181",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:49:58+00:00"
+}

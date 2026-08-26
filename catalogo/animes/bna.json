@@ -1,0 +1,117 @@
+{
+  "id_origen": 2617,
+  "slug": "bna",
+  "titulo": "BNA",
+  "titulo_corto": "BNA",
+  "sinopsis": "BNA se desarrolla en un siglo XXI en el que la existencia de animales humanoides se ha revelado al mundo después de vivir en la oscuridad durante siglos. Un día, un estudiante de secundaria llamado Michiru de repente se convierte en una persona tanuki. Después de vivir en Anima City, donde conoce al lobo Ogami Shiro, continúa investigando por qué se convirtió en un animal y se mezcla en eventos aún más extraños en el proceso.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bna.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bna/",
+  "episodios": [
+    {
+      "id_origen": 42517,
+      "numero": 1,
+      "titulo": "BNA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed8856951cf76b4e53c7850dcd16c2f0.jpg",
+      "url_origen": "https://jkanime.net/bna/1/",
+      "publicado_en_origen": "2020-03-22 14:10:35"
+    },
+    {
+      "id_origen": 42519,
+      "numero": 2,
+      "titulo": "BNA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08580950119c1a77a2398f806e77db75.jpg",
+      "url_origen": "https://jkanime.net/bna/2/",
+      "publicado_en_origen": "2020-03-22 14:36:57"
+    },
+    {
+      "id_origen": 42525,
+      "numero": 3,
+      "titulo": "BNA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c77791b126e1e33dc95c13a3d914e11.jpg",
+      "url_origen": "https://jkanime.net/bna/3/",
+      "publicado_en_origen": "2020-03-22 21:28:29"
+    },
+    {
+      "id_origen": 42527,
+      "numero": 4,
+      "titulo": "BNA - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f6abd819fde7defc29b69f7fb2d9fb6.jpg",
+      "url_origen": "https://jkanime.net/bna/4/",
+      "publicado_en_origen": "2020-03-22 22:11:17"
+    },
+    {
+      "id_origen": 42532,
+      "numero": 5,
+      "titulo": "BNA - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36aaee658d23e166aa4813f697465347.jpg",
+      "url_origen": "https://jkanime.net/bna/5/",
+      "publicado_en_origen": "2020-03-23 14:46:05"
+    },
+    {
+      "id_origen": 42765,
+      "numero": 6,
+      "titulo": "BNA - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1e32544dc409b126235d7b5bc98246e.jpg",
+      "url_origen": "https://jkanime.net/bna/6/",
+      "publicado_en_origen": "2020-04-26 15:34:51"
+    },
+    {
+      "id_origen": 42811,
+      "numero": 7,
+      "titulo": "BNA - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16d6ee3ca938689918718cc3b332fc35.jpg",
+      "url_origen": "https://jkanime.net/bna/7/",
+      "publicado_en_origen": "2020-05-06 03:30:18"
+    },
+    {
+      "id_origen": 42812,
+      "numero": 8,
+      "titulo": "BNA - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e19c514704b21ce61f8b65df529904e2.jpg",
+      "url_origen": "https://jkanime.net/bna/8/",
+      "publicado_en_origen": "2020-05-06 03:30:22"
+    },
+    {
+      "id_origen": 42815,
+      "numero": 9,
+      "titulo": "BNA - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5f26eb284909fb8f3719559f57babc4.jpg",
+      "url_origen": "https://jkanime.net/bna/9/",
+      "publicado_en_origen": "2020-05-06 15:58:12"
+    },
+    {
+      "id_origen": 42819,
+      "numero": 10,
+      "titulo": "BNA - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35a4d59f4afb1fc480e759a20dd385a1.jpg",
+      "url_origen": "https://jkanime.net/bna/10/",
+      "publicado_en_origen": "2020-05-07 00:57:46"
+    },
+    {
+      "id_origen": 42820,
+      "numero": 11,
+      "titulo": "BNA - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b88f3e86f89a892d7677fffad99c65f.jpg",
+      "url_origen": "https://jkanime.net/bna/11/",
+      "publicado_en_origen": "2020-05-07 00:57:51"
+    },
+    {
+      "id_origen": 42824,
+      "numero": 12,
+      "titulo": "BNA - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4de20dd98d2ca78fd643bdc4f0a6359b.jpg",
+      "url_origen": "https://jkanime.net/bna/12/",
+      "publicado_en_origen": "2020-05-07 14:58:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2617",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:20:46+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1975,
+  "slug": "koro-sensei-quest",
+  "titulo": "Koro-sensei Quest!",
+  "titulo_corto": "Koro-sensei Quest!",
+  "sinopsis": "Vuelve la clase de asesinato pero ahora  Koro-sensei es un rey demonio en un mundo de magia y espada.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koro-sensei-quest.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/koro-sensei-quest/",
+  "episodios": [
+    {
+      "id_origen": 33746,
+      "numero": 1,
+      "titulo": "Koro-sensei Quest! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koro-sensei-quest.jpg",
+      "url_origen": "https://jkanime.net/koro-sensei-quest/1/",
+      "publicado_en_origen": "2016-12-23 19:22:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1975",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:35:39+00:00"
+}

@@ -1,0 +1,125 @@
+{
+  "id_origen": 2017,
+  "slug": "granblue-fantasy-the-animation",
+  "titulo": "Granblue Fantasy The Animation",
+  "titulo_corto": "Granblue Fantasy The Animation",
+  "sinopsis": "Asumiremos el papel del protagonista, quien sale de su pueblo natal en busca de “la isla de las estrellas” de la que hablaba una carta de sus padres y se topará con una misteriosa niña que huye del imperio, llamada Lyria.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/granblue-fantasy-the-animation.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/",
+  "episodios": [
+    {
+      "id_origen": 33907,
+      "numero": 1,
+      "titulo": "Granblue Fantasy The Animation - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e0ccc57136661028ea5f440ed4e53d8.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/1/",
+      "publicado_en_origen": "2017-01-21 13:35:57"
+    },
+    {
+      "id_origen": 33908,
+      "numero": 2,
+      "titulo": "Granblue Fantasy The Animation - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf56d3ff4ea20391eeb73af2dc7e0d07.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/2/",
+      "publicado_en_origen": "2017-01-21 13:45:34"
+    },
+    {
+      "id_origen": 34555,
+      "numero": 3,
+      "titulo": "Granblue Fantasy The Animation - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5385961c08290e3097e9e4784c65807.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/3/",
+      "publicado_en_origen": "2017-04-15 15:13:29"
+    },
+    {
+      "id_origen": 34616,
+      "numero": 4,
+      "titulo": "Granblue Fantasy The Animation - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0277973332b3692beae52448f71f787.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/4/",
+      "publicado_en_origen": "2017-04-22 19:19:30"
+    },
+    {
+      "id_origen": 34671,
+      "numero": 5,
+      "titulo": "Granblue Fantasy The Animation - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92da6da0dd22c47af75d1a7d8c3e07b2.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/5/",
+      "publicado_en_origen": "2017-04-29 16:13:31"
+    },
+    {
+      "id_origen": 34718,
+      "numero": 6,
+      "titulo": "Granblue Fantasy The Animation - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0528dea9bbc7d49632849e66267cefd4.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/6/",
+      "publicado_en_origen": "2017-05-06 15:37:16"
+    },
+    {
+      "id_origen": 34771,
+      "numero": 7,
+      "titulo": "Granblue Fantasy The Animation - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1739ce2df38ca14a27b2d878267439c1.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/7/",
+      "publicado_en_origen": "2017-05-13 15:29:44"
+    },
+    {
+      "id_origen": 34818,
+      "numero": 8,
+      "titulo": "Granblue Fantasy The Animation - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3de809f0da843c4f73fbff60159632be.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/8/",
+      "publicado_en_origen": "2017-05-20 15:29:47"
+    },
+    {
+      "id_origen": 34872,
+      "numero": 9,
+      "titulo": "Granblue Fantasy The Animation - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b08d78964e17a35d839c83272194e1c4.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/9/",
+      "publicado_en_origen": "2017-05-27 15:14:32"
+    },
+    {
+      "id_origen": 34923,
+      "numero": 10,
+      "titulo": "Granblue Fantasy The Animation - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1513643106945f0a83ba5eebc765743c.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/10/",
+      "publicado_en_origen": "2017-06-03 15:30:51"
+    },
+    {
+      "id_origen": 34974,
+      "numero": 11,
+      "titulo": "Granblue Fantasy The Animation - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_976797cb85805d626fc5642aa5244ba0.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/11/",
+      "publicado_en_origen": "2017-06-10 15:51:15"
+    },
+    {
+      "id_origen": 35025,
+      "numero": 12,
+      "titulo": "Granblue Fantasy The Animation - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7974dc9314dabaab55462b7ab1b3d3c9.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/12/",
+      "publicado_en_origen": "2017-06-17 15:22:19"
+    },
+    {
+      "id_origen": 35077,
+      "numero": 13,
+      "titulo": "Granblue Fantasy The Animation - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b3b2788ec4de81c7e3ed614ea6c169f.jpg",
+      "url_origen": "https://jkanime.net/granblue-fantasy-the-animation/13/",
+      "publicado_en_origen": "2017-06-24 15:51:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2017",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:28:57+00:00"
+}

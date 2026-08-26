@@ -1,0 +1,61 @@
+{
+  "id_origen": 2244,
+  "slug": "digimon-adventure-tri-6-bokura-no-mirai",
+  "titulo": "Digimon Adventure tri. 6: Bokura no Mirai",
+  "titulo_corto": "Digimon Adventure tri. 6: Boku...",
+  "sinopsis": "Sexta y ultima pelicula de Digimon Adventure tri.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-adventure-tri-6-bokura-no-mirai.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/digimon-adventure-tri-6-bokura-no-mirai/",
+  "episodios": [
+    {
+      "id_origen": 37156,
+      "numero": 1,
+      "titulo": "Digimon Adventure tri. 6: Bokura no Mirai",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c4e4914cf140a06afac88eadea9d765.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-6-bokura-no-mirai/1/",
+      "publicado_en_origen": "2018-05-04 14:09:09"
+    },
+    {
+      "id_origen": 37158,
+      "numero": 2,
+      "titulo": "Digimon Adventure tri. 6: Bokura no Mirai",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80ee6b4e99b7282ccb7d6688af1b6edc.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-6-bokura-no-mirai/2/",
+      "publicado_en_origen": "2018-05-04 14:21:52"
+    },
+    {
+      "id_origen": 37161,
+      "numero": 3,
+      "titulo": "Digimon Adventure tri. 6: Bokura no Mirai",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25da35c3caae93fe52ceb26ba1d5adb1.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-6-bokura-no-mirai/3/",
+      "publicado_en_origen": "2018-05-04 14:45:09"
+    },
+    {
+      "id_origen": 37162,
+      "numero": 4,
+      "titulo": "Digimon Adventure tri. 6: Bokura no Mirai",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61aaff0c8c9eb2ad890af217556b3394.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-6-bokura-no-mirai/4/",
+      "publicado_en_origen": "2018-05-04 14:53:56"
+    },
+    {
+      "id_origen": 37163,
+      "numero": 5,
+      "titulo": "Digimon Adventure tri. 6: Bokura no Mirai",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7204958ab2a72430f7c9c8bbea79be0.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-6-bokura-no-mirai/5/",
+      "publicado_en_origen": "2018-05-04 15:01:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2244",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:05+00:00"
+}

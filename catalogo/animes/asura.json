@@ -1,0 +1,29 @@
+{
+  "id_origen": 810,
+  "slug": "asura",
+  "titulo": "Asura",
+  "titulo_corto": "Asura",
+  "sinopsis": "Asura es un drama que trata de las vivencias de un niño que hace lo que sea por sobrevivir. Ambientada en el japón medieval",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/asura.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/asura/",
+  "episodios": [
+    {
+      "id_origen": 19996,
+      "numero": 1,
+      "titulo": "Asura",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b37ffe9e8f67937ea21dc01fd2c41a39.jpg",
+      "url_origen": "https://jkanime.net/asura/1/",
+      "publicado_en_origen": "2013-03-31 22:49:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "810",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:18:06+00:00"
+}

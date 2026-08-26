@@ -1,0 +1,37 @@
+{
+  "id_origen": 2380,
+  "slug": "soutai-sekai",
+  "titulo": "Soutai Sekai",
+  "titulo_corto": "Soutai Sekai",
+  "sinopsis": "La historia se desarrolla en Japon en 2020. La historia se centra en Shin Hazama, y aparece una version de sí mismo que llevo una vida diferente en otro Japon. Se abre una grieta en la vida cotidiana que el creia imposible cambiar. Los niños y las niñas tienen que decidir que pensar y elegir cuando el mundo cambia por completo. La batalla con otro mundo y con otro yo comienza.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/soutai-sekai.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/soutai-sekai/",
+  "episodios": [
+    {
+      "id_origen": 39047,
+      "numero": 1,
+      "titulo": "Soutai Sekai - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/soutai-sekai.jpg",
+      "url_origen": "https://jkanime.net/soutai-sekai/1/",
+      "publicado_en_origen": "2019-03-01 16:04:11"
+    },
+    {
+      "id_origen": 39050,
+      "numero": 2,
+      "titulo": "Soutai Sekai - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/soutai-sekai.jpg",
+      "url_origen": "https://jkanime.net/soutai-sekai/2/",
+      "publicado_en_origen": "2019-03-01 18:18:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2380",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:47:33+00:00"
+}

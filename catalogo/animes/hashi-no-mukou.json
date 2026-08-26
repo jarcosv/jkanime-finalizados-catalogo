@@ -1,0 +1,29 @@
+{
+  "id_origen": 1326,
+  "slug": "hashi-no-mukou",
+  "titulo": "Hashi no Mukou",
+  "titulo_corto": "Hashi no Mukou",
+  "sinopsis": "Existe una vieja historia sobre los niños desaparecidos a la orilla del río. Este hecho ha atormentado a Otoha desde que su pequeño amigo Shiro desapareció cuando tenía siete años. Después de muchos años, vuelve a su pueblo como reportera para cubrir la disputa entre el gobierno y los disidentes. Cuando se separa del grupo, cree que alguien podría estar jugando con su desesperación en las profundidades del pueblo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hashi-no-mukou.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hashi-no-mukou/",
+  "episodios": [
+    {
+      "id_origen": 25109,
+      "numero": 1,
+      "titulo": "Hashi no Mukou",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b759459d85d5c74ebd26499bbdb165e1.jpg",
+      "url_origen": "https://jkanime.net/hashi-no-mukou/1/",
+      "publicado_en_origen": "2014-10-16 20:17:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1326",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:29:59+00:00"
+}

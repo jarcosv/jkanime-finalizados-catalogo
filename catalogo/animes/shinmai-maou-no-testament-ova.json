@@ -1,0 +1,29 @@
+{
+  "id_origen": 1570,
+  "slug": "shinmai-maou-no-testament-ova",
+  "titulo": "Shinmai Maou no Testament OVA",
+  "titulo_corto": "Shinmai Maou no Testament OVA",
+  "sinopsis": "Ova valida como episodio 13 de Shinmai Maou no Testament",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shinmai-maou-no-testament-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shinmai-maou-no-testament-ova/",
+  "episodios": [
+    {
+      "id_origen": 28536,
+      "numero": 1,
+      "titulo": "Shinmai Maou no Testament OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c86f3bbcab249f879058d1825887571.jpg",
+      "url_origen": "https://jkanime.net/shinmai-maou-no-testament-ova/1/",
+      "publicado_en_origen": "2015-06-22 14:04:07"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1570",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:46:34+00:00"
+}

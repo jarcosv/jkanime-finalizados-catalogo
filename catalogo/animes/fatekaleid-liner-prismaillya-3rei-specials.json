@@ -1,0 +1,45 @@
+{
+  "id_origen": 1969,
+  "slug": "fatekaleid-liner-prismaillya-3rei-specials",
+  "titulo": "Fate/kaleid liner Prisma☆Illya 3rei!! Specials",
+  "titulo_corto": "Fate/kaleid liner Prisma☆Illya...",
+  "sinopsis": "Especiales incluídos en los Bluray/DVD",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fatekaleid-liner-prismaillya-3rei-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fatekaleid-liner-prismaillya-3rei-specials/",
+  "episodios": [
+    {
+      "id_origen": 33523,
+      "numero": 1,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 3rei!! Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6464f626c63c3c7be4a97e711d55970c.jpg",
+      "url_origen": "https://jkanime.net/fatekaleid-liner-prismaillya-3rei-specials/1/",
+      "publicado_en_origen": "2016-12-01 19:40:23"
+    },
+    {
+      "id_origen": 33524,
+      "numero": 2,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 3rei!! Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_685677a17902e2dbc239ca05391544e1.jpg",
+      "url_origen": "https://jkanime.net/fatekaleid-liner-prismaillya-3rei-specials/2/",
+      "publicado_en_origen": "2016-12-01 19:50:38"
+    },
+    {
+      "id_origen": 33525,
+      "numero": 3,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 3rei!! Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e38d727ecdd5bd1591bb6f8ab47d38bd.jpg",
+      "url_origen": "https://jkanime.net/fatekaleid-liner-prismaillya-3rei-specials/3/",
+      "publicado_en_origen": "2016-12-01 20:01:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1969",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:26:53+00:00"
+}

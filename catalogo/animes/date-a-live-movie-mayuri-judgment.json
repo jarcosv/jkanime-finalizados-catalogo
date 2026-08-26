@@ -1,0 +1,29 @@
+{
+  "id_origen": 1772,
+  "slug": "date-a-live-movie-mayuri-judgment",
+  "titulo": "Date A Live Movie: Mayuri Judgment",
+  "titulo_corto": "Date A Live Movie: Mayuri Judg...",
+  "sinopsis": "Película de la franquicia Date A Live, anunciada al final de Date a Live II.\nEl guión de la película no cubre ninguna de las novelas, pero está supervisado por el autor original.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/date-a-live-movie-mayuri-judgment.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/date-a-live-movie-mayuri-judgment/",
+  "episodios": [
+    {
+      "id_origen": 30987,
+      "numero": 1,
+      "titulo": "Date A Live Movie: Mayuri Judgment",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbe0c3bf910dea29774c3926f51b7f91.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-movie-mayuri-judgment/1/",
+      "publicado_en_origen": "2016-03-02 00:11:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1772",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:36+00:00"
+}

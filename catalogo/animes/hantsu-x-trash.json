@@ -1,0 +1,45 @@
+{
+  "id_origen": 1687,
+  "slug": "hantsu-x-trash",
+  "titulo": "Hantsu x Trash",
+  "titulo_corto": "Hantsu x Trash",
+  "sinopsis": "La historia gira en torno a Youhei Hamaji, un estudiante de instituto sin propósitos en la vida que recibe una invitación para unirse a un club en el que puede \"tocar chicas tanto como quiera\". Así, el chico termina en el club de waterpolo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hantsu-x-trash.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hantsu-x-trash/",
+  "episodios": [
+    {
+      "id_origen": 29739,
+      "numero": 1,
+      "titulo": "Hantsu x Trash",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f88d23e18b9c290f92240a327d865e8.jpg",
+      "url_origen": "https://jkanime.net/hantsu-x-trash/1/",
+      "publicado_en_origen": "2015-10-06 15:09:32"
+    },
+    {
+      "id_origen": 31869,
+      "numero": 2,
+      "titulo": "Hantsu x Trash - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c53efb25385f33b9aaddf6bbc3b8bc33.jpg",
+      "url_origen": "https://jkanime.net/hantsu-x-trash/2/",
+      "publicado_en_origen": "2016-06-21 21:09:20"
+    },
+    {
+      "id_origen": 33291,
+      "numero": 3,
+      "titulo": "Hantsu x Trash - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_285e64713c29d274017bd475136dbaa1.jpg",
+      "url_origen": "https://jkanime.net/hantsu-x-trash/3/",
+      "publicado_en_origen": "2016-11-08 19:51:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1687",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:29:54+00:00"
+}

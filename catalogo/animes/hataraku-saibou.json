@@ -1,0 +1,85 @@
+{
+  "id_origen": 2775,
+  "slug": "hataraku-saibou",
+  "titulo": "Hataraku Saibou!!",
+  "titulo_corto": "Hataraku Saibou!!",
+  "sinopsis": "segunda temporada de Hataraku Saibou",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hataraku-saibou.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hataraku-saibou/",
+  "episodios": [
+    {
+      "id_origen": 44336,
+      "numero": 1,
+      "titulo": "Hataraku Saibou!! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0941839a257545ab919cd01ae3e568b5.jpg",
+      "url_origen": "https://jkanime.net/hataraku-saibou/1/",
+      "publicado_en_origen": "2021-01-07 14:39:42"
+    },
+    {
+      "id_origen": 44398,
+      "numero": 2,
+      "titulo": "Hataraku Saibou!! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25fa2d39a0143f1f30c36eece145a526.jpg",
+      "url_origen": "https://jkanime.net/hataraku-saibou/2/",
+      "publicado_en_origen": "2021-01-14 14:35:10"
+    },
+    {
+      "id_origen": 44463,
+      "numero": 3,
+      "titulo": "Hataraku Saibou!! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c724bedfba9b4aeb92b446fbb6baf31c.jpg",
+      "url_origen": "https://jkanime.net/hataraku-saibou/3/",
+      "publicado_en_origen": "2021-01-21 14:49:26"
+    },
+    {
+      "id_origen": 44529,
+      "numero": 4,
+      "titulo": "Hataraku Saibou!! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_224892e1a550016dd66c9c6edc1c2583.jpg",
+      "url_origen": "https://jkanime.net/hataraku-saibou/4/",
+      "publicado_en_origen": "2021-01-28 14:08:43"
+    },
+    {
+      "id_origen": 44597,
+      "numero": 5,
+      "titulo": "Hataraku Saibou!! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1003d98ad99b26605042ec3c65eaad87.jpg",
+      "url_origen": "https://jkanime.net/hataraku-saibou/5/",
+      "publicado_en_origen": "2021-02-04 14:09:54"
+    },
+    {
+      "id_origen": 44669,
+      "numero": 6,
+      "titulo": "Hataraku Saibou!! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50c8932f79e0369ac94e06e9c6bd86e5.jpg",
+      "url_origen": "https://jkanime.net/hataraku-saibou/6/",
+      "publicado_en_origen": "2021-02-11 21:07:13"
+    },
+    {
+      "id_origen": 44731,
+      "numero": 7,
+      "titulo": "Hataraku Saibou!! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_180d9ac0990bb42907fe9cc7aa3eb5a1.jpg",
+      "url_origen": "https://jkanime.net/hataraku-saibou/7/",
+      "publicado_en_origen": "2021-02-18 14:07:10"
+    },
+    {
+      "id_origen": 44805,
+      "numero": 8,
+      "titulo": "Hataraku Saibou!! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_033c253e16760c3b1de8b9c807e10bf7.jpg",
+      "url_origen": "https://jkanime.net/hataraku-saibou/8/",
+      "publicado_en_origen": "2021-02-25 14:34:45"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:01+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2775",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:30:02+00:00"
+}

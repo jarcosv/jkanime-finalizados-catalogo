@@ -1,0 +1,29 @@
+{
+  "id_origen": 2162,
+  "slug": "net-juu-no-susume-special",
+  "titulo": "Net-juu no Susume Special",
+  "titulo_corto": "Net-juu no Susume Special",
+  "sinopsis": "Episodio especial donde veremos cómo progresa la relación entre Yuta y Moriko y también un extraño sueño que tienen nuestros protagonistas",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/net-juu-no-susume-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/net-juu-no-susume-special/",
+  "episodios": [
+    {
+      "id_origen": 36250,
+      "numero": 1,
+      "titulo": "Net-juu no Susume Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1803742335a36a204b9df8ec6ff20a36.jpg",
+      "url_origen": "https://jkanime.net/net-juu-no-susume-special/1/",
+      "publicado_en_origen": "2017-12-15 15:03:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2162",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:15+00:00"
+}

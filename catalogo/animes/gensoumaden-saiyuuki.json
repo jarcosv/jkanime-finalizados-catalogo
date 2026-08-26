@@ -1,0 +1,421 @@
+{
+  "id_origen": 4467,
+  "slug": "gensoumaden-saiyuuki",
+  "titulo": "Gensoumaden Saiyuuki",
+  "titulo_corto": "Gensoumaden Saiyuuki",
+  "sinopsis": "Hace muchos años, los humanos y los demonios vivían en armonía. Pero esa unidad terminó cuando los demonios comenzaron a atacar a los humanos y tramaron una misión para liberar a Gyumao, un demonio malvado encarcelado durante miles de años. Ahora, Genjo Sanzo, un sacerdote renegado, debe aliarse con tres demonios —Sha Gojyo, Son Goku y Cho Hakkai— y embarcarse en un peligroso viaje hacia el oeste para impedir que estos demonios resuciten a Gyumao y restaurar el equilibrio entre humanos y demonios en la Tierra.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gensoumaden-saiyuuki.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/",
+  "episodios": [
+    {
+      "id_origen": 69146,
+      "numero": 1,
+      "titulo": "Gensoumaden Saiyuuki - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd45854f91be0c1fcdfc7e5a74eea906.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/1/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69147,
+      "numero": 2,
+      "titulo": "Gensoumaden Saiyuuki - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46cf452795ae92147819034cc0a575ae.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/2/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69148,
+      "numero": 3,
+      "titulo": "Gensoumaden Saiyuuki - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b65c30e2e858b33870f18fab3cd640e5.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/3/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69149,
+      "numero": 4,
+      "titulo": "Gensoumaden Saiyuuki - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73c32ad1202b5e60ee489c8d201417e5.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/4/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69150,
+      "numero": 5,
+      "titulo": "Gensoumaden Saiyuuki - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f4d574087f52aa15fb29d0eac28e7b1.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/5/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69151,
+      "numero": 6,
+      "titulo": "Gensoumaden Saiyuuki - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0395f7d51460af9829ba4bc947e13204.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/6/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69152,
+      "numero": 7,
+      "titulo": "Gensoumaden Saiyuuki - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99ac5e033f0e4deccd60cddae21fb5b5.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/7/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69153,
+      "numero": 8,
+      "titulo": "Gensoumaden Saiyuuki - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3c60bdabbccf4e1ad333de85a1e6572.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/8/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69154,
+      "numero": 9,
+      "titulo": "Gensoumaden Saiyuuki - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61777f7b81d993043df865779406a73c.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/9/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69155,
+      "numero": 10,
+      "titulo": "Gensoumaden Saiyuuki - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7770d59acbb7519be9ca5da6a19c8306.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/10/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69156,
+      "numero": 11,
+      "titulo": "Gensoumaden Saiyuuki - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c86c564688b5e1cd5ed7ef48f2c85275.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/11/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69157,
+      "numero": 12,
+      "titulo": "Gensoumaden Saiyuuki - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34ba52f4a1b85bb60bf1d69817ac742c.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/12/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69158,
+      "numero": 13,
+      "titulo": "Gensoumaden Saiyuuki - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91ff3e6dcae781a4fb09e172380d1b77.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/13/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69159,
+      "numero": 14,
+      "titulo": "Gensoumaden Saiyuuki - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd5b3206b4f1a9f11782bcaf49b0d3b4.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/14/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69160,
+      "numero": 15,
+      "titulo": "Gensoumaden Saiyuuki - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_686eb7c34f665bec805ab4ea7a66f09e.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/15/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69161,
+      "numero": 16,
+      "titulo": "Gensoumaden Saiyuuki - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8578cba1b6d809e492480f87113180bc.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/16/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69162,
+      "numero": 17,
+      "titulo": "Gensoumaden Saiyuuki - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d38be5d531f8865cd124b8e834002ae.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/17/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69163,
+      "numero": 18,
+      "titulo": "Gensoumaden Saiyuuki - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3eecb194afbede963a3a0918edb19d9b.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/18/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69164,
+      "numero": 19,
+      "titulo": "Gensoumaden Saiyuuki - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_018ae69ea510b5fd14096826739a4268.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/19/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69165,
+      "numero": 20,
+      "titulo": "Gensoumaden Saiyuuki - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d9366cb6218a9081d1a26baa3a926e1.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/20/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69166,
+      "numero": 21,
+      "titulo": "Gensoumaden Saiyuuki - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea575de787cf307a65b25796fdaad7d4.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/21/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69167,
+      "numero": 22,
+      "titulo": "Gensoumaden Saiyuuki - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7ed617d68a57fc59025d6e08b49fd35.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/22/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69168,
+      "numero": 23,
+      "titulo": "Gensoumaden Saiyuuki - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46ff56b18413d0b83f45c1edbf47a705.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/23/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69169,
+      "numero": 24,
+      "titulo": "Gensoumaden Saiyuuki - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_991a8b3937ed9d245ac21fa2f192da2a.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/24/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69170,
+      "numero": 25,
+      "titulo": "Gensoumaden Saiyuuki - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9887a86892eaa9e3820819a2b9d11f54.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/25/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69171,
+      "numero": 26,
+      "titulo": "Gensoumaden Saiyuuki - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6950ce1f16e6413b84eceb46d5f949b.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/26/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69172,
+      "numero": 27,
+      "titulo": "Gensoumaden Saiyuuki - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f36fdaf9c852631a1cb4a226ebf6ba8c.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/27/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69173,
+      "numero": 28,
+      "titulo": "Gensoumaden Saiyuuki - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fce00187dac2001edfad458132694224.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/28/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69174,
+      "numero": 29,
+      "titulo": "Gensoumaden Saiyuuki - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a6be975168f7e05fb95be9f127079fd.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/29/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69175,
+      "numero": 30,
+      "titulo": "Gensoumaden Saiyuuki - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d77a7c764ad140d1de21aaafd097a60.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/30/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69176,
+      "numero": 31,
+      "titulo": "Gensoumaden Saiyuuki - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30dde2f733ac176cc56b48ddb27e51a1.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/31/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69177,
+      "numero": 32,
+      "titulo": "Gensoumaden Saiyuuki - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_965c783aa96e4bc33da69670eae1a46c.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/32/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69178,
+      "numero": 33,
+      "titulo": "Gensoumaden Saiyuuki - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c2f9ae8975df870182a4b74604951e3.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/33/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69179,
+      "numero": 34,
+      "titulo": "Gensoumaden Saiyuuki - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c11d0ec164427e53ee7f76f264d15cd.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/34/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69180,
+      "numero": 35,
+      "titulo": "Gensoumaden Saiyuuki - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d956dde89b152b67bb890eebf8d76d7f.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/35/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69181,
+      "numero": 36,
+      "titulo": "Gensoumaden Saiyuuki - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da0ac265f57d0147e22cf71ef0458d34.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/36/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69182,
+      "numero": 37,
+      "titulo": "Gensoumaden Saiyuuki - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da81347001f8cb18768b0fc080cc8776.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/37/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69183,
+      "numero": 38,
+      "titulo": "Gensoumaden Saiyuuki - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6e85107976d83128c976ca61dc1624e.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/38/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69184,
+      "numero": 39,
+      "titulo": "Gensoumaden Saiyuuki - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b45720d691247a3e44d60f2188829d0b.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/39/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69185,
+      "numero": 40,
+      "titulo": "Gensoumaden Saiyuuki - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7560817ba302fb185101fa6f36622ca.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/40/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69186,
+      "numero": 41,
+      "titulo": "Gensoumaden Saiyuuki - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31d86b660df0af87c78f6e74cd7fe550.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/41/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69187,
+      "numero": 42,
+      "titulo": "Gensoumaden Saiyuuki - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbb9c7e8d7695f71d32193e735a3cc60.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/42/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69188,
+      "numero": 43,
+      "titulo": "Gensoumaden Saiyuuki - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e39411a325448b06f47d60038853ecd.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/43/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69189,
+      "numero": 44,
+      "titulo": "Gensoumaden Saiyuuki - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19ee4e4e5a82e229910d806dfbe68554.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/44/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69190,
+      "numero": 45,
+      "titulo": "Gensoumaden Saiyuuki - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7aaec276f96989e6a51d02410ada86bb.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/45/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69191,
+      "numero": 46,
+      "titulo": "Gensoumaden Saiyuuki - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc798990e40e34ccfba90d31fcb12299.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/46/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69192,
+      "numero": 47,
+      "titulo": "Gensoumaden Saiyuuki - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e68f575472564d316b3be8e8dc62046.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/47/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69193,
+      "numero": 48,
+      "titulo": "Gensoumaden Saiyuuki - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8a1c8432cfdeef1dad6e28961887110.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/48/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69194,
+      "numero": 49,
+      "titulo": "Gensoumaden Saiyuuki - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f4e05d342c447386a7e48e97be36b44.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/49/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    },
+    {
+      "id_origen": 69195,
+      "numero": 50,
+      "titulo": "Gensoumaden Saiyuuki - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_951c4a1ffc132c60f9d1d5f14e5786a2.jpg",
+      "url_origen": "https://jkanime.net/gensoumaden-saiyuuki/50/",
+      "publicado_en_origen": "2025-11-28 00:05:45"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4467",
+  "cantidad_episodios_declarada": 50,
+  "detalle_extraido_en": "2026-08-26T18:28:08+00:00"
+}

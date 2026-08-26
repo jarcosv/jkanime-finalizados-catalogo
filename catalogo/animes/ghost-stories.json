@@ -1,0 +1,181 @@
+{
+  "id_origen": 88,
+  "slug": "ghost-stories",
+  "titulo": "Ghost Stories",
+  "titulo_corto": "Ghost Stories",
+  "sinopsis": "Cuando la madre de Clare muere, ella, su padre y pequeño hermano, se mudan a la ciudad en la cual se crió su madre. Allí ella estudiara  en la misma escuela a la que acudió su madre cuando era niña (la escuela nueva, por que su madre fue a la vieja escuela). Lo que Clare no sabe es que, su familia materna posee una habilidad especial la de luchar contra fantasmas y detener a los fantasmas malignos, habilidad que ella heredó. Por desgracia, al morir la madre de Clare, un árbol sagrado en el que la madre de Clare había encerrado a los fantasmas es tirado, así los fantasmas que antes su madre había capturado son liberados gracias a el poder psíquico de Clare; al darse cuenta de esto, la protagonista busca consejo de su madre a través de un diario que ella llevaba a la escuela y descubre que, donde antes habia paginas en blanco, ahora había informacion escrita sobre todos y cada uno de los espectros con los que se enfrentara en el transcurso de la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ghost-stories.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ghost-stories/",
+  "episodios": [
+    {
+      "id_origen": 2038,
+      "numero": 1,
+      "titulo": "Gakkou No Kaidan 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2557911c1bf75c2b643afb4ecbfc8ec2.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2039,
+      "numero": 2,
+      "titulo": "Gakkou No Kaidan 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a48564053b3c7b54800246348c7fa4a0.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2040,
+      "numero": 3,
+      "titulo": "Gakkou No Kaidan 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c144c47ecba6f8318128703ca9e2601.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2041,
+      "numero": 4,
+      "titulo": "Gakkou No Kaidan 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89885ff2c83a10305ee08bd507c1049c.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2042,
+      "numero": 5,
+      "titulo": "Gakkou No Kaidan 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71e09b16e21f7b6919bbfc43f6a5b2f0.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2043,
+      "numero": 6,
+      "titulo": "Gakkou No Kaidan 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d79c6256b9bdac53a55801a066b70da3.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2044,
+      "numero": 7,
+      "titulo": "Gakkou No Kaidan 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8330f857a17c53d217014ee776bfd50.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/7/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2045,
+      "numero": 8,
+      "titulo": "Gakkou No Kaidan 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0189caa552598b845b29b17a427692d1.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/8/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2046,
+      "numero": 9,
+      "titulo": "Gakkou No Kaidan 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3875115bacc48cca24ac51ee4b0e7975.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/9/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2047,
+      "numero": 10,
+      "titulo": "Gakkou No Kaidan 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a501bebf79d570651ff601788ea9d16d.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/10/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2048,
+      "numero": 11,
+      "titulo": "Gakkou No Kaidan 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_051928341be67dcba03f0e04104d9047.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/11/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2049,
+      "numero": 12,
+      "titulo": "Gakkou No Kaidan 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06b1338ba02add2b5d2da67663b19ebe.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/12/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2050,
+      "numero": 13,
+      "titulo": "Gakkou No Kaidan 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aebf7782a3d445f43cf30ee2c0d84dee.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/13/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2051,
+      "numero": 14,
+      "titulo": "Gakkou No Kaidan 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9813e9550fee3110373c21fa012eee7.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/14/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2052,
+      "numero": 15,
+      "titulo": "Gakkou No Kaidan 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_584b98aac2dddf59ee2cf19ca4ccb75e.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/15/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2053,
+      "numero": 16,
+      "titulo": "Gakkou No Kaidan 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3e52c300b822a8123e7ace55fe15c08.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/16/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2054,
+      "numero": 17,
+      "titulo": "Gakkou No Kaidan 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_955cb567b6e38f4c6b3f28cc857fc38c.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/17/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2055,
+      "numero": 18,
+      "titulo": "Gakkou No Kaidan 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9afefc52942cb83c7c1f14b2139b09ba.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/18/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2056,
+      "numero": 19,
+      "titulo": "Gakkou No Kaidan 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a96d3afec184766bfeca7a9f989fc7e7.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/19/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2057,
+      "numero": 20,
+      "titulo": "Gakkou No Kaidan 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df4fe8a8bcd5c95cdb640aa9793bb32b.jpg",
+      "url_origen": "https://jkanime.net/ghost-stories/20/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "88",
+  "cantidad_episodios_declarada": 19,
+  "detalle_extraido_en": "2026-08-26T18:28:13+00:00"
+}

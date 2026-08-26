@@ -1,0 +1,693 @@
+{
+  "id_origen": 177,
+  "slug": "pokemon-best-wishes",
+  "titulo": "Pokemon Best Wishes!",
+  "titulo_corto": "Pokemon Best Wishes!",
+  "sinopsis": "En esta nueva temporada y generacion (5ta generacion), Ash y su Pikachu comienzan su viaje por la Region Isshu. En su camino, se hacen dos nuevos compañeros: Iris y Dento y como sucede en el mundo de los Pokemon, cada uno tiene un sueño, pero todavia no se sabe cual sera el sueño de Dento ni de Iris. Cuando aparecio el boceto, se vio: primero, Kibago que se encuentra al lado de Iris y que segun el vídeo de Pokemon Sunday es su Pokemon inicial. Segundo, el Pokemon murcielago, Koromori, arriba de Jessie. Y por ultimo, aparecieron las evoluciones de Tsutaaja y Mijumaru. Ademas de esto, al final derecho del boceto, aparece un hombre con un Umbreon junto a el y podría ser su compañero. El titulo tiene que ver con los nombres de los juegos por las iniciales BW que son Best Wishes y Black and White. Personajes Estos son los personajes conocidos hasta el momento.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-best-wishes.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pokemon-best-wishes/",
+  "episodios": [
+    {
+      "id_origen": 4365,
+      "numero": 1,
+      "titulo": "pokemon best wishes 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3e0f226df6865b28fb677548370f467.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/1/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4366,
+      "numero": 2,
+      "titulo": "pokemon best wishes 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db209d71df52e8a3595972ef488b636a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/2/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4367,
+      "numero": 3,
+      "titulo": "pokemon best wishes 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1138d90ef0a0848a542e57d1595f58ea.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/3/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4368,
+      "numero": 4,
+      "titulo": "pokemon best wishes 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae0909a324fb2530e205e52d40266418.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/4/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4369,
+      "numero": 5,
+      "titulo": "pokemon best wishes 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_665d5cbb82b5785d9f344c46417c6c36.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/5/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4370,
+      "numero": 6,
+      "titulo": "pokemon best wishes 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ee70b7987a735c046ac30a1556272c8.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/6/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4371,
+      "numero": 7,
+      "titulo": "pokemon best wishes 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1377e22fd81057b3e65aefd5fc634b64.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/7/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4372,
+      "numero": 8,
+      "titulo": "pokemon best wishes 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e51e0f3b6b60070219ccb91bb619a6b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/8/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4373,
+      "numero": 9,
+      "titulo": "pokemon best wishes 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a118806694c9d9b1091fe94039ae462a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/9/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 14019,
+      "numero": 10,
+      "titulo": "Pokemon Best Wishes! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_251ea3991fd165bfd231aa53cd439968.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/10/",
+      "publicado_en_origen": "2011-12-21 12:29:40"
+    },
+    {
+      "id_origen": 4374,
+      "numero": 11,
+      "titulo": "pokemon best wishes 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_526c321538d951fe8d2b9abf54dbdb91.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/11/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4375,
+      "numero": 12,
+      "titulo": "pokemon best wishes 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f06ae085fe74cd78ad5e89496b197fe1.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/12/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4376,
+      "numero": 13,
+      "titulo": "pokemon best wishes 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_789a283923884fb1c9598f796581a39d.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/13/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4377,
+      "numero": 14,
+      "titulo": "pokemon best wishes 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f04ac8eadb8a829a4c2117ade0f23da.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/14/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4378,
+      "numero": 15,
+      "titulo": "pokemon best wishes 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50a074e6a8da4662ae0a29edde722179.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/15/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4379,
+      "numero": 16,
+      "titulo": "pokemon best wishes 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f187c8bc462403c4646ab271007edf4.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/16/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4380,
+      "numero": 17,
+      "titulo": "pokemon best wishes 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b1905b5d4641830901acf76c957cfb1.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/17/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4381,
+      "numero": 18,
+      "titulo": "pokemon best wishes 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2e9dd9dcd97fd12a2cb62e2bf7cbe35.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/18/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4382,
+      "numero": 19,
+      "titulo": "pokemon best wishes 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bab7341f4429f78ade492da0318aa42.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/19/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4383,
+      "numero": 20,
+      "titulo": "pokemon best wishes 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6de4bfe9504589a457d6e92fae4f9613.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/20/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4384,
+      "numero": 21,
+      "titulo": "pokemon best wishes 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12e59a33dea1bf0630f46edfe13d6ea2.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/21/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4385,
+      "numero": 22,
+      "titulo": "pokemon best wishes 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65f148c815a4ebfaf8eb150460ba94fc.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/22/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 11420,
+      "numero": 23,
+      "titulo": "Pokemon Best Wishes! 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-best-wishes.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/23/",
+      "publicado_en_origen": "2011-09-04 15:59:50"
+    },
+    {
+      "id_origen": 11421,
+      "numero": 24,
+      "titulo": "Pokemon Best Wishes! 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-best-wishes.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/24/",
+      "publicado_en_origen": "2011-09-04 16:03:08"
+    },
+    {
+      "id_origen": 11422,
+      "numero": 25,
+      "titulo": "Pokemon Best Wishes! 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f39fd0e38564affec2f1038cb4bd56fe.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/25/",
+      "publicado_en_origen": "2011-09-04 16:03:24"
+    },
+    {
+      "id_origen": 11423,
+      "numero": 26,
+      "titulo": "Pokemon Best Wishes! 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4793db902bf3f6e97069337540625c11.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/26/",
+      "publicado_en_origen": "2011-09-04 16:04:20"
+    },
+    {
+      "id_origen": 11424,
+      "numero": 27,
+      "titulo": "Pokemon Best Wishes! 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15d0beeeeaa7f86a5f2c6b493c29776f.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/27/",
+      "publicado_en_origen": "2011-09-04 16:04:33"
+    },
+    {
+      "id_origen": 11425,
+      "numero": 28,
+      "titulo": "Pokemon Best Wishes! 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b651cae8df57ba4f067380ea9ea6ae73.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/28/",
+      "publicado_en_origen": "2011-09-04 16:05:28"
+    },
+    {
+      "id_origen": 11426,
+      "numero": 29,
+      "titulo": "Pokemon Best Wishes! 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_874f44f0fc7f98682c91ecbf990e5a2f.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/29/",
+      "publicado_en_origen": "2011-09-04 16:06:06"
+    },
+    {
+      "id_origen": 11427,
+      "numero": 30,
+      "titulo": "Pokemon Best Wishes! 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bea086e2b8b1ae2295818dd84714a128.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/30/",
+      "publicado_en_origen": "2011-09-04 16:06:41"
+    },
+    {
+      "id_origen": 11428,
+      "numero": 31,
+      "titulo": "Pokemon Best Wishes! 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7314d504754f8d59517932ccb4f89d13.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/31/",
+      "publicado_en_origen": "2011-09-04 16:07:20"
+    },
+    {
+      "id_origen": 11429,
+      "numero": 32,
+      "titulo": "Pokemon Best Wishes! 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ba889650589407203d06949bdf6983d.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/32/",
+      "publicado_en_origen": "2011-09-04 16:07:46"
+    },
+    {
+      "id_origen": 11430,
+      "numero": 33,
+      "titulo": "Pokemon Best Wishes! 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0d2fe50debfaec6b2d7bafdd9d936c8.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/33/",
+      "publicado_en_origen": "2011-09-04 16:08:17"
+    },
+    {
+      "id_origen": 11431,
+      "numero": 34,
+      "titulo": "Pokemon Best Wishes! 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b7c8d13e4b2f08895fb7bcead930b46.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/34/",
+      "publicado_en_origen": "2011-09-04 16:08:43"
+    },
+    {
+      "id_origen": 11432,
+      "numero": 35,
+      "titulo": "Pokemon Best Wishes! 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57335eb19f0669886d99414968f976c3.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/35/",
+      "publicado_en_origen": "2011-09-04 16:09:10"
+    },
+    {
+      "id_origen": 11433,
+      "numero": 36,
+      "titulo": "Pokemon Best Wishes! 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56a32ddf374ecd774959be244161cb72.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/36/",
+      "publicado_en_origen": "2011-09-04 16:09:37"
+    },
+    {
+      "id_origen": 11434,
+      "numero": 37,
+      "titulo": "Pokemon Best Wishes! 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c13ffb792c2cc71a9202bea953215f5a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/37/",
+      "publicado_en_origen": "2011-09-04 16:10:03"
+    },
+    {
+      "id_origen": 11435,
+      "numero": 38,
+      "titulo": "Pokemon Best Wishes! 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fe3d1eba30c8f2f8de4261ce4352f48.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/38/",
+      "publicado_en_origen": "2011-09-04 16:10:28"
+    },
+    {
+      "id_origen": 11436,
+      "numero": 39,
+      "titulo": "Pokemon Best Wishes! 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff70ea41bc4d78c076f1a002add81da6.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/39/",
+      "publicado_en_origen": "2011-09-04 16:10:54"
+    },
+    {
+      "id_origen": 11437,
+      "numero": 40,
+      "titulo": "Pokemon Best Wishes! 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6e4228a1ac71c06c3aa8c0fb9686bd6.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/40/",
+      "publicado_en_origen": "2011-09-04 16:11:38"
+    },
+    {
+      "id_origen": 11438,
+      "numero": 41,
+      "titulo": "Pokemon Best Wishes! 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a799f9c485e4b911fb1c78cb7e753e5.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/41/",
+      "publicado_en_origen": "2011-09-04 16:12:02"
+    },
+    {
+      "id_origen": 11439,
+      "numero": 42,
+      "titulo": "Pokemon Best Wishes! 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_981fda867ad3a7693c11ec00d2835b86.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/42/",
+      "publicado_en_origen": "2011-09-04 16:12:27"
+    },
+    {
+      "id_origen": 11440,
+      "numero": 43,
+      "titulo": "Pokemon Best Wishes! 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acf8b366843afe53ac7efe9af8c1b90b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/43/",
+      "publicado_en_origen": "2011-09-04 16:12:51"
+    },
+    {
+      "id_origen": 11441,
+      "numero": 44,
+      "titulo": "Pokemon Best Wishes! 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79f56e5e3e0e999b3c139f225838d41f.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/44/",
+      "publicado_en_origen": "2011-09-04 16:13:26"
+    },
+    {
+      "id_origen": 11442,
+      "numero": 45,
+      "titulo": "Pokemon Best Wishes! 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb1d78edc3b427d8f919a169d6931636.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/45/",
+      "publicado_en_origen": "2011-09-04 16:13:54"
+    },
+    {
+      "id_origen": 11443,
+      "numero": 46,
+      "titulo": "Pokemon Best Wishes! 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5b564f638f409e68b3f7e0aae45d366.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/46/",
+      "publicado_en_origen": "2011-09-04 16:15:17"
+    },
+    {
+      "id_origen": 47549,
+      "numero": 47,
+      "titulo": "Pokemon Best Wishes! - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b9abef7829ab6e15c9670b52e9f0fcb.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/47/",
+      "publicado_en_origen": "2021-12-12 17:27:44"
+    },
+    {
+      "id_origen": 47550,
+      "numero": 48,
+      "titulo": "Pokemon Best Wishes! - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88e738d960794a160b099e2c3aa7189d.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/48/",
+      "publicado_en_origen": "2021-12-12 17:27:44"
+    },
+    {
+      "id_origen": 47585,
+      "numero": 49,
+      "titulo": "Pokemon Best Wishes! - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4c54190d253fa7bf8d2a188c03bd448.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/49/",
+      "publicado_en_origen": "2021-12-12 17:30:37"
+    },
+    {
+      "id_origen": 47586,
+      "numero": 50,
+      "titulo": "Pokemon Best Wishes! - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a61e6125da7b8ef20256b20e2406406.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/50/",
+      "publicado_en_origen": "2021-12-12 17:30:37"
+    },
+    {
+      "id_origen": 47551,
+      "numero": 51,
+      "titulo": "Pokemon Best Wishes! - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf5252d535fea32032d629b2892757d0.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/51/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47552,
+      "numero": 52,
+      "titulo": "Pokemon Best Wishes! - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a687f78b9842c87225e74921765feb1b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/52/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47553,
+      "numero": 53,
+      "titulo": "Pokemon Best Wishes! - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_117e095c504b6c88805d75f3fc837102.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/53/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47554,
+      "numero": 54,
+      "titulo": "Pokemon Best Wishes! - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea8ef8e4d485b31880a627bd3c61bb2c.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/54/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47555,
+      "numero": 55,
+      "titulo": "Pokemon Best Wishes! - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ee0ece946bb41031a0f2550467f3546.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/55/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47556,
+      "numero": 56,
+      "titulo": "Pokemon Best Wishes! - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36b3d2f1755bb2eefb004b1b8f13f072.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/56/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47557,
+      "numero": 57,
+      "titulo": "Pokemon Best Wishes! - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_383e1febfb5246868b834d73c3344c86.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/57/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47558,
+      "numero": 58,
+      "titulo": "Pokemon Best Wishes! - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dde7ef1aa1780c54441e83dbb1d4a1ed.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/58/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47559,
+      "numero": 59,
+      "titulo": "Pokemon Best Wishes! - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67b7a2e1f1d445a5e5f55d3f74f9f172.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/59/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47560,
+      "numero": 60,
+      "titulo": "Pokemon Best Wishes! - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25393b46957e31fcdc605d76428cae67.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/60/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47561,
+      "numero": 61,
+      "titulo": "Pokemon Best Wishes! - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66d45c358a3576dd30bd5e8b30b40315.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/61/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47562,
+      "numero": 62,
+      "titulo": "Pokemon Best Wishes! - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fcbcbf224af35d5f956a1a130552b59.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/62/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47563,
+      "numero": 63,
+      "titulo": "Pokemon Best Wishes! - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e74c55f07c0f992947fbe7b6b6ab8eae.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/63/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47564,
+      "numero": 64,
+      "titulo": "Pokemon Best Wishes! - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56852300c43eeb8674290c2d6f383a30.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/64/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47565,
+      "numero": 65,
+      "titulo": "Pokemon Best Wishes! - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce09fd97787a8334edbe0b3168cb4370.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/65/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47566,
+      "numero": 66,
+      "titulo": "Pokemon Best Wishes! - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4a758aadfcc265a9e34f76415246c42.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/66/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47567,
+      "numero": 67,
+      "titulo": "Pokemon Best Wishes! - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d20dd5c593b1f4579b49ce894416989f.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/67/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47568,
+      "numero": 68,
+      "titulo": "Pokemon Best Wishes! - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9cfda111d54261aaba42282a9569f7e.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/68/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47569,
+      "numero": 69,
+      "titulo": "Pokemon Best Wishes! - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9afc97fe5dd1689adf1940721c0c1909.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/69/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47570,
+      "numero": 70,
+      "titulo": "Pokemon Best Wishes! - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8e3a7bc9f96f3ce85b3e3197a1bd40a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/70/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47571,
+      "numero": 71,
+      "titulo": "Pokemon Best Wishes! - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2971e160e4105a177b632c300bfa2bac.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/71/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47572,
+      "numero": 72,
+      "titulo": "Pokemon Best Wishes! - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30e05e44e620ef12586bed5352dcd218.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/72/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47573,
+      "numero": 73,
+      "titulo": "Pokemon Best Wishes! - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab70ec30a58a11d658ea0b8eb938fa27.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/73/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47574,
+      "numero": 74,
+      "titulo": "Pokemon Best Wishes! - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c70bb5cfd0305c9d18312d92f820c321.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/74/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47575,
+      "numero": 75,
+      "titulo": "Pokemon Best Wishes! - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91d054b242704a7a9196a568fb02974a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/75/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47576,
+      "numero": 76,
+      "titulo": "Pokemon Best Wishes! - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5adc3ad31cc0aa43aaab7f4e75a9f00d.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/76/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47577,
+      "numero": 77,
+      "titulo": "Pokemon Best Wishes! - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9631bea70bc3ae4018bff0eac2c0986.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/77/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47578,
+      "numero": 78,
+      "titulo": "Pokemon Best Wishes! - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6860ab49acd7a5f3fcaee171cd6b7dc5.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/78/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47579,
+      "numero": 79,
+      "titulo": "Pokemon Best Wishes! - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6dd0ef38856fd5fb21aed5223aea9e66.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/79/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47580,
+      "numero": 80,
+      "titulo": "Pokemon Best Wishes! - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd486da79d6fd3483352afffaa3535bb.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/80/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47581,
+      "numero": 81,
+      "titulo": "Pokemon Best Wishes! - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be569b5d9cc0a822ef0c548d37255950.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/81/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47582,
+      "numero": 82,
+      "titulo": "Pokemon Best Wishes! - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90f489687126854b708f866befcec1ea.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/82/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47583,
+      "numero": 83,
+      "titulo": "Pokemon Best Wishes! - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c938d97fb333d4b1fbf906b760afa29b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/83/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    },
+    {
+      "id_origen": 47584,
+      "numero": 84,
+      "titulo": "Pokemon Best Wishes! - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76bf79e9a0a4c128d97dbd6900773f4b.jpg",
+      "url_origen": "https://jkanime.net/pokemon-best-wishes/84/",
+      "publicado_en_origen": "2021-12-12 17:29:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:15+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "177",
+  "cantidad_episodios_declarada": 84,
+  "detalle_extraido_en": "2026-08-26T18:42:26+00:00"
+}

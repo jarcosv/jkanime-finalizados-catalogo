@@ -1,0 +1,29 @@
+{
+  "id_origen": 1465,
+  "slug": "free-eternal-summer-special",
+  "titulo": "Free!: Eternal Summer OVA",
+  "titulo_corto": "Free!: Eternal Summer OVA",
+  "sinopsis": "Episodio includo con el volumen 7 del Blu-ray/DVD.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/free-eternal-summer-special.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/free-eternal-summer-special/",
+  "episodios": [
+    {
+      "id_origen": 27137,
+      "numero": 1,
+      "titulo": "Free!: Eternal Summer OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f760a053c4fc2b0e7a369b42fd7f68c.jpg",
+      "url_origen": "https://jkanime.net/free-eternal-summer-special/1/",
+      "publicado_en_origen": "2015-03-18 18:35:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1465",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:27:12+00:00"
+}

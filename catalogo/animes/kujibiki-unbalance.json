@@ -1,0 +1,45 @@
+{
+  "id_origen": 899,
+  "slug": "kujibiki-unbalance",
+  "titulo": "Kujibiki Unbalance",
+  "titulo_corto": "Kujibiki Unbalance",
+  "sinopsis": "Chihiro Enamoto es la protagonista de la serie, es una estudiante del prestigioso colegio de secundaria Rikkyoin. En este Instituto, se compite anualmente para ser miembro del consejo estudiantil. Para ello se hacen grupos y se compite a través de pruebas físicas y mentales (competiciones en la cocina, de natación, pruebas extremas de calor y frío, incluso una puesta en escena en situación de guerra). El trabajo en equipo y cooperación es fundamental para ganar.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kujibiki-unbalance.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kujibiki-unbalance/",
+  "episodios": [
+    {
+      "id_origen": 20989,
+      "numero": 1,
+      "titulo": "Kujibiki Unbalance - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30f240dc14aa708deda6f0a0606ff810.jpg",
+      "url_origen": "https://jkanime.net/kujibiki-unbalance/1/",
+      "publicado_en_origen": "2013-07-04 05:23:09"
+    },
+    {
+      "id_origen": 20990,
+      "numero": 2,
+      "titulo": "Kujibiki Unbalance - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67b7b196a1d3529edd7d8a896d1b7b1d.jpg",
+      "url_origen": "https://jkanime.net/kujibiki-unbalance/2/",
+      "publicado_en_origen": "2013-07-04 05:23:09"
+    },
+    {
+      "id_origen": 20991,
+      "numero": 3,
+      "titulo": "Kujibiki Unbalance - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6953af76df8ac424ed91eecfe6bf582.jpg",
+      "url_origen": "https://jkanime.net/kujibiki-unbalance/3/",
+      "publicado_en_origen": "2013-07-04 05:23:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:32+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "899",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:35:48+00:00"
+}

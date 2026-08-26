@@ -1,0 +1,61 @@
+{
+  "id_origen": 1803,
+  "slug": "brotherhood-final-fantasy-xv",
+  "titulo": "Brotherhood: Final Fantasy XV",
+  "titulo_corto": "Brotherhood: Final Fantasy XV",
+  "sinopsis": "El anime se enfocará en cómo Noctis se hizo amigo con los otros personajes de Final Fantasy XV.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/brotherhood-final-fantasy-xv.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/brotherhood-final-fantasy-xv/",
+  "episodios": [
+    {
+      "id_origen": 31249,
+      "numero": 1,
+      "titulo": "Brotherhood: Final Fantasy XV - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e996baa3ea3551a5a981b7f0e13d5374.jpg",
+      "url_origen": "https://jkanime.net/brotherhood-final-fantasy-xv/1/",
+      "publicado_en_origen": "2016-03-31 13:33:14"
+    },
+    {
+      "id_origen": 32062,
+      "numero": 2,
+      "titulo": "Brotherhood: Final Fantasy XV - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbd605ddc237390493f76ac3ef280202.jpg",
+      "url_origen": "https://jkanime.net/brotherhood-final-fantasy-xv/2/",
+      "publicado_en_origen": "2016-07-05 21:36:30"
+    },
+    {
+      "id_origen": 32244,
+      "numero": 3,
+      "titulo": "Brotherhood: Final Fantasy XV - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33865889e522b68ecc0ddac89ab25522.jpg",
+      "url_origen": "https://jkanime.net/brotherhood-final-fantasy-xv/3/",
+      "publicado_en_origen": "2016-07-07 23:32:21"
+    },
+    {
+      "id_origen": 32570,
+      "numero": 4,
+      "titulo": "Brotherhood: Final Fantasy XV - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed345cd362ffd0cd0efd90b5c2182243.jpg",
+      "url_origen": "https://jkanime.net/brotherhood-final-fantasy-xv/4/",
+      "publicado_en_origen": "2016-08-17 18:10:19"
+    },
+    {
+      "id_origen": 32814,
+      "numero": 5,
+      "titulo": "Brotherhood: Final Fantasy XV - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6e868a7d51f67a210dc306357c6e525.jpg",
+      "url_origen": "https://jkanime.net/brotherhood-final-fantasy-xv/5/",
+      "publicado_en_origen": "2016-09-18 02:47:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:36+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1803",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:21:45+00:00"
+}

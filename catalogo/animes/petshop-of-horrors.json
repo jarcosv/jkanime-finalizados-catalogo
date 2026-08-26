@@ -1,0 +1,53 @@
+{
+  "id_origen": 87,
+  "slug": "petshop-of-horrors",
+  "titulo": "Petshop of Horrors",
+  "titulo_corto": "Petshop of Horrors",
+  "sinopsis": "En Chinatown, hay una pequeña tienda de animales que posee extraños y misteriosos animales. En esta tienda se puede obtener cualquier animal, pero antes mira bien las cláusulas del contrato, ya que si incumples alguna de ellas las consecuencias seran imprevisibles y seran solo culpa tuya.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/petshop-of-horrors.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/petshop-of-horrors/",
+  "episodios": [
+    {
+      "id_origen": 2034,
+      "numero": 1,
+      "titulo": "Pet Shop of Horrors 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d198bd736a97e7cecfdf8f4f2027ef80.jpg",
+      "url_origen": "https://jkanime.net/petshop-of-horrors/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2035,
+      "numero": 2,
+      "titulo": "Pet Shop of Horrors 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b0f658cbffd284984fb11d90254081f.jpg",
+      "url_origen": "https://jkanime.net/petshop-of-horrors/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2036,
+      "numero": 3,
+      "titulo": "Pet Shop of Horrors 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f48c04ffab49ff0e5d1176244fdfb65c.jpg",
+      "url_origen": "https://jkanime.net/petshop-of-horrors/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2037,
+      "numero": 4,
+      "titulo": "Pet Shop of Horrors 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23d2e1578544b172cca332ff74bddf5f.jpg",
+      "url_origen": "https://jkanime.net/petshop-of-horrors/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "87",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:42:10+00:00"
+}

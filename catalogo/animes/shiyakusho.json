@@ -1,0 +1,29 @@
+{
+  "id_origen": 4850,
+  "slug": "shiyakusho",
+  "titulo": "Shiyakusho",
+  "titulo_corto": "Shiyakusho",
+  "sinopsis": "Episodio corto que celebra el capítulo 100 y el volumen 20 del manga «Shiyakusho» y que adapta el capítulo «Ashita no Watashi».",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shiyakusho.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shiyakusho/",
+  "episodios": [
+    {
+      "id_origen": 74778,
+      "numero": 1,
+      "titulo": "Shiyakusho",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96134b8f1d9303e5ce8d89d7a783a143.jpg",
+      "url_origen": "https://jkanime.net/shiyakusho/1/",
+      "publicado_en_origen": "2026-07-04 12:59:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4850",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:46:43+00:00"
+}

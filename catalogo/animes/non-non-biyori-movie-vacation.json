@@ -1,0 +1,29 @@
+{
+  "id_origen": 2385,
+  "slug": "non-non-biyori-movie-vacation",
+  "titulo": "Non Non Biyori Movie: Vacation",
+  "titulo_corto": "Non Non Biyori Movie: Vacation",
+  "sinopsis": "Las vacaciones de verano estan llegando a su fin. Cuando Suguru gana un viaje gratis a Okinawa, todos los cinco estudiantes de la sucursal de Asahigaoka están emocionados de terminar sus vacaciones con una explosión. Junto con Hikage, Konomi, su maestra y el dueño de la tienda de dulces, todos van a Okinawa para un divertido viaje de tres días. Allí, Natsumi se hace amiga de Aoi, la chica que ayuda en el hotel donde se hospedan.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/non-non-biyori-movie-vacation.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/non-non-biyori-movie-vacation/",
+  "episodios": [
+    {
+      "id_origen": 39275,
+      "numero": 1,
+      "titulo": "Non Non Biyori Movie: Vacation - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfab173bb4e49a200b37e660e2677709.jpg",
+      "url_origen": "https://jkanime.net/non-non-biyori-movie-vacation/1/",
+      "publicado_en_origen": "2019-03-08 16:47:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2385",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:44+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "id_origen": 4576,
+  "slug": "hokuto-no-ken-kenougun-zako-tachi-no-banka",
+  "titulo": "Hokuto no Ken: Kenougun Zako-tachi no Banka",
+  "titulo_corto": "Hokuto no Ken: Kenougun Zako-t...",
+  "sinopsis": "Un joven llamado Nobu, que busca trabajo en un mundo postapocalíptico, acaba siendo engañado para unirse al ejército de Raoh.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hokuto-no-ken-kenougun-zako-tachi-no-banka.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hokuto-no-ken-kenougun-zako-tachi-no-banka/",
+  "episodios": [
+    {
+      "id_origen": 70817,
+      "numero": 1,
+      "titulo": "Hokuto no Ken: Kenougun Zako-tachi no Banka - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f864913641c042fa4d4286e12f6c184.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-kenougun-zako-tachi-no-banka/1/",
+      "publicado_en_origen": "2026-01-15 19:37:15"
+    },
+    {
+      "id_origen": 70983,
+      "numero": 2,
+      "titulo": "Hokuto no Ken: Kenougun Zako-tachi no Banka - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35c3c169662a422813aaf85ecebbb9c5.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-kenougun-zako-tachi-no-banka/2/",
+      "publicado_en_origen": "2026-01-23 15:54:07"
+    },
+    {
+      "id_origen": 71067,
+      "numero": 3,
+      "titulo": "Hokuto no Ken: Kenougun Zako-tachi no Banka - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8721551afe0bd20edc57d0fb4042a8b7.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-kenougun-zako-tachi-no-banka/3/",
+      "publicado_en_origen": "2026-01-29 14:15:01"
+    },
+    {
+      "id_origen": 71354,
+      "numero": 4,
+      "titulo": "Hokuto no Ken: Kenougun Zako-tachi no Banka - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5dd9c8263a83f2c78e54c2e2cbee3511.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-kenougun-zako-tachi-no-banka/4/",
+      "publicado_en_origen": "2026-02-06 16:10:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:22+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4576",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:30:58+00:00"
+}

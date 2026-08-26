@@ -1,0 +1,125 @@
+{
+  "id_origen": 2097,
+  "slug": "18if",
+  "titulo": "18if",
+  "titulo_corto": "18if",
+  "sinopsis": "Proyecto multimedia que deriva de la franquicia The Art of 18 y que por ahora cuenta con un juego para móviles y otro de realidad de virtual. En este anime seguiremos al protagonista, Haruto, en su travesía por el mundo de los sueños.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/18if/",
+  "episodios": [
+    {
+      "id_origen": 35143,
+      "numero": 1,
+      "titulo": "18if - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/1/",
+      "publicado_en_origen": "2017-07-07 16:22:18"
+    },
+    {
+      "id_origen": 35197,
+      "numero": 2,
+      "titulo": "18if - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/2/",
+      "publicado_en_origen": "2017-07-14 18:47:50"
+    },
+    {
+      "id_origen": 35238,
+      "numero": 3,
+      "titulo": "18if - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/3/",
+      "publicado_en_origen": "2017-07-21 13:43:31"
+    },
+    {
+      "id_origen": 35286,
+      "numero": 4,
+      "titulo": "18if - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/4/",
+      "publicado_en_origen": "2017-07-28 13:37:02"
+    },
+    {
+      "id_origen": 35344,
+      "numero": 5,
+      "titulo": "18if - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/5/",
+      "publicado_en_origen": "2017-08-04 14:19:22"
+    },
+    {
+      "id_origen": 35395,
+      "numero": 6,
+      "titulo": "18if - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/6/",
+      "publicado_en_origen": "2017-08-11 23:10:21"
+    },
+    {
+      "id_origen": 35438,
+      "numero": 7,
+      "titulo": "18if - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/7/",
+      "publicado_en_origen": "2017-08-18 13:48:58"
+    },
+    {
+      "id_origen": 35486,
+      "numero": 8,
+      "titulo": "18if - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/8/",
+      "publicado_en_origen": "2017-08-25 15:18:18"
+    },
+    {
+      "id_origen": 35534,
+      "numero": 9,
+      "titulo": "18if - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/9/",
+      "publicado_en_origen": "2017-09-01 17:16:16"
+    },
+    {
+      "id_origen": 35592,
+      "numero": 10,
+      "titulo": "18if - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/10/",
+      "publicado_en_origen": "2017-09-08 18:41:11"
+    },
+    {
+      "id_origen": 35650,
+      "numero": 11,
+      "titulo": "18if - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/11/",
+      "publicado_en_origen": "2017-09-16 16:53:56"
+    },
+    {
+      "id_origen": 35699,
+      "numero": 12,
+      "titulo": "18if - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/12/",
+      "publicado_en_origen": "2017-09-23 15:58:04"
+    },
+    {
+      "id_origen": 35726,
+      "numero": 13,
+      "titulo": "18if - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/18if.jpg",
+      "url_origen": "https://jkanime.net/18if/13/",
+      "publicado_en_origen": "2017-09-29 17:22:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2097",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:14:37+00:00"
+}

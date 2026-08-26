@@ -1,0 +1,37 @@
+{
+  "id_origen": 1548,
+  "slug": "sousei-no-aquarion-ova",
+  "titulo": "Sousei no Aquarion OVA",
+  "titulo_corto": "Sousei no Aquarion OVA",
+  "sinopsis": "OVAS de Sousei no Aquarion: Uragiri no Tsubasa",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sousei-no-aquarion-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sousei-no-aquarion-ova/",
+  "episodios": [
+    {
+      "id_origen": 28049,
+      "numero": 1,
+      "titulo": "Sousei no Aquarion OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddf20ca99b0ddd9a0e505ed7830ea299.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-aquarion-ova/1/",
+      "publicado_en_origen": "2015-06-10 10:34:14"
+    },
+    {
+      "id_origen": 28050,
+      "numero": 2,
+      "titulo": "Sousei no Aquarion OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4d35e93d6c0787428f2fdf6a29457e0.jpg",
+      "url_origen": "https://jkanime.net/sousei-no-aquarion-ova/2/",
+      "publicado_en_origen": "2015-06-10 10:34:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1548",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:47:31+00:00"
+}

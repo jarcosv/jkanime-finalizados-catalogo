@@ -1,0 +1,29 @@
+{
+  "id_origen": 781,
+  "slug": "joshiraku-ova",
+  "titulo": "Joshiraku OVA",
+  "titulo_corto": "Joshiraku OVA",
+  "sinopsis": "OVA incluída dentro del quinto volumen del manga",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/joshiraku-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/joshiraku-ova/",
+  "episodios": [
+    {
+      "id_origen": 19550,
+      "numero": 1,
+      "titulo": "Joshiraku OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ee0208730157b0b4d5d44705f954895.jpg",
+      "url_origen": "https://jkanime.net/joshiraku-ova/1/",
+      "publicado_en_origen": "2013-03-08 22:55:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "781",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:32:58+00:00"
+}

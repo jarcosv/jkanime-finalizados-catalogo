@@ -1,0 +1,101 @@
+{
+  "id_origen": 1821,
+  "slug": "big-order-tv",
+  "titulo": "Big Order (TV)",
+  "titulo_corto": "Big Order (TV)",
+  "sinopsis": "La historia de Big Order está protagonizada por Eiji Hoshimiya, un estudiante de instituto bastante introvertido que guarda un secreto: cuando era más joven deseó la destrucción del mundo. Esto no sería reseñable si no fuera por la existencia de las Hadas, seres capaces de convertir a humanos normales y corrientes en Orders y dotarlos así de poderes especiales. Así pues, hace 10 años Eiji fue el responsable de la Gran Destrucción. ¿Será capaz de aprender a sobrellevar su pasado y el inmenso poder que atesora en su interior?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/big-order-tv.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/big-order-tv/",
+  "episodios": [
+    {
+      "id_origen": 31356,
+      "numero": 1,
+      "titulo": "Big Order (TV) - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f795ee135dd0eab5014a56ff3e47df7.jpg",
+      "url_origen": "https://jkanime.net/big-order-tv/1/",
+      "publicado_en_origen": "2016-04-15 16:53:07"
+    },
+    {
+      "id_origen": 31407,
+      "numero": 2,
+      "titulo": "Big Order (TV) - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d533c9bac8862a184b2ad4374a9090f.jpg",
+      "url_origen": "https://jkanime.net/big-order-tv/2/",
+      "publicado_en_origen": "2016-04-22 17:20:15"
+    },
+    {
+      "id_origen": 31460,
+      "numero": 3,
+      "titulo": "Big Order (TV) - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3db893ff5d6c0e9dccfed451a741853f.jpg",
+      "url_origen": "https://jkanime.net/big-order-tv/3/",
+      "publicado_en_origen": "2016-04-29 16:51:43"
+    },
+    {
+      "id_origen": 31517,
+      "numero": 4,
+      "titulo": "Big Order (TV) - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ccac9113628ef98fb521ea5ca319a70.jpg",
+      "url_origen": "https://jkanime.net/big-order-tv/4/",
+      "publicado_en_origen": "2016-05-06 16:52:03"
+    },
+    {
+      "id_origen": 31570,
+      "numero": 5,
+      "titulo": "Big Order (TV) - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c8dcf919f8a604f3a488b0e4b0f1420.jpg",
+      "url_origen": "https://jkanime.net/big-order-tv/5/",
+      "publicado_en_origen": "2016-05-13 16:49:51"
+    },
+    {
+      "id_origen": 31624,
+      "numero": 6,
+      "titulo": "Big Order (TV) - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_493c8b3821e768713a4d1c5b1e7f5ad4.jpg",
+      "url_origen": "https://jkanime.net/big-order-tv/6/",
+      "publicado_en_origen": "2016-05-20 16:55:16"
+    },
+    {
+      "id_origen": 31678,
+      "numero": 7,
+      "titulo": "Big Order (TV) - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d4c6e964bc0078884cb7b22838b827b.jpg",
+      "url_origen": "https://jkanime.net/big-order-tv/7/",
+      "publicado_en_origen": "2016-05-27 17:01:35"
+    },
+    {
+      "id_origen": 31733,
+      "numero": 8,
+      "titulo": "Big Order (TV) - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93aaa29263d4040a9099001cc887d333.jpg",
+      "url_origen": "https://jkanime.net/big-order-tv/8/",
+      "publicado_en_origen": "2016-06-03 16:50:00"
+    },
+    {
+      "id_origen": 31785,
+      "numero": 9,
+      "titulo": "Big Order (TV) - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8aff4d955cd8461e94156de3c712b712.jpg",
+      "url_origen": "https://jkanime.net/big-order-tv/9/",
+      "publicado_en_origen": "2016-06-10 16:55:58"
+    },
+    {
+      "id_origen": 31838,
+      "numero": 10,
+      "titulo": "Big Order (TV) - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34d9bc930a015793c49566b023b6ae9f.jpg",
+      "url_origen": "https://jkanime.net/big-order-tv/10/",
+      "publicado_en_origen": "2016-06-17 16:50:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1821",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:19:50+00:00"
+}

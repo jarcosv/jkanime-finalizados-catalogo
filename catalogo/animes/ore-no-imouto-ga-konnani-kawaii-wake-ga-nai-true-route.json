@@ -1,0 +1,53 @@
+{
+  "id_origen": 788,
+  "slug": "ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-true-route",
+  "titulo": "OreImo True Route",
+  "titulo_corto": "OreImo True Route",
+  "sinopsis": "El verdadero final de OreImo. Cuatro episodios que se separan a partir del episodio 11 trasmitido en tv, presentando un final alternativo. Esta ruta en contraste al final expuesto en el anime, que fue un final escrito solo para la serie, son mas fieles a la novela ligera en que esta basada.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-true-route.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-true-route/",
+  "episodios": [
+    {
+      "id_origen": 19644,
+      "numero": 1,
+      "titulo": "OreImo True Route - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5218f6c84f93bd3d2d9a888a720ccd9.jpg",
+      "url_origen": "https://jkanime.net/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-true-route/1/",
+      "publicado_en_origen": "2013-03-16 19:32:02"
+    },
+    {
+      "id_origen": 19645,
+      "numero": 2,
+      "titulo": "OreImo True Route - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34dd3675a36242216e981ddc1c3064b0.jpg",
+      "url_origen": "https://jkanime.net/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-true-route/2/",
+      "publicado_en_origen": "2013-03-16 19:32:03"
+    },
+    {
+      "id_origen": 19646,
+      "numero": 3,
+      "titulo": "OreImo True Route - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d61a328561119583444e250036006e81.jpg",
+      "url_origen": "https://jkanime.net/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-true-route/3/",
+      "publicado_en_origen": "2013-03-16 19:32:03"
+    },
+    {
+      "id_origen": 19647,
+      "numero": 4,
+      "titulo": "OreImo True Route - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a93c7100f7f6f9815964812e831054e5.jpg",
+      "url_origen": "https://jkanime.net/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-true-route/4/",
+      "publicado_en_origen": "2013-03-16 19:32:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "788",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:41:35+00:00"
+}

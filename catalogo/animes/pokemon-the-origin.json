@@ -1,0 +1,53 @@
+{
+  "id_origen": 965,
+  "slug": "pokemon-the-origin",
+  "titulo": "Pokemon: The Origin",
+  "titulo_corto": "Pokemon: The Origin",
+  "sinopsis": "El anime estará protagonizado por el personaje principal y el rival de los juegos de Nintendo Pokémon Rojo y Pokémon verde originales.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-the-origin.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pokemon-the-origin/",
+  "episodios": [
+    {
+      "id_origen": 21602,
+      "numero": 1,
+      "titulo": "Pokemon: The Origin - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_973bc36f4729330b7993f2fdb1a7f9e7.jpg",
+      "url_origen": "https://jkanime.net/pokemon-the-origin/1/",
+      "publicado_en_origen": "2013-10-03 13:54:55"
+    },
+    {
+      "id_origen": 21603,
+      "numero": 2,
+      "titulo": "Pokemon: The Origin - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c828991bf51544cf79c2141168c359c7.jpg",
+      "url_origen": "https://jkanime.net/pokemon-the-origin/2/",
+      "publicado_en_origen": "2013-10-03 13:55:53"
+    },
+    {
+      "id_origen": 21613,
+      "numero": 3,
+      "titulo": "Pokemon: The Origin - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a01b448690083588db6c9dbc171031a.jpg",
+      "url_origen": "https://jkanime.net/pokemon-the-origin/3/",
+      "publicado_en_origen": "2013-10-04 21:55:29"
+    },
+    {
+      "id_origen": 21614,
+      "numero": 4,
+      "titulo": "Pokemon: The Origin - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4717c244331eb475a42e5f58945e945c.jpg",
+      "url_origen": "https://jkanime.net/pokemon-the-origin/4/",
+      "publicado_en_origen": "2013-10-04 22:22:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "965",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:42:40+00:00"
+}

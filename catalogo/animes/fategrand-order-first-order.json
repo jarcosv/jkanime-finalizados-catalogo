@@ -1,0 +1,29 @@
+{
+  "id_origen": 1976,
+  "slug": "fategrand-order-first-order",
+  "titulo": "Fate/Grand Order: First Order",
+  "titulo_corto": "Fate/Grand Order: First Order",
+  "sinopsis": "Fate/Grand Order: First Order Especial, la historia se fija en el año 2015, durante la era final sobre la cual la magia todavía tenía una fuerte influencia. la organización de supervivencia y seguridad de la humanidad, caldea, se estableció para observar el mundo que sólo puede ser visto por la magia y el mundo que sólo puede ser medido por la ciencia; así como para evitar la extinción final de la humanidad.  gracias a los esfuerzos de muchos investigadores, el camino de la historia humana se ha asegurado durante 100 años en el futuro. sin embargo, sin advertencia, el reino del futuro que estuvo bajo constante observación por la caldea desapareció. la extinción de la humanidad en 2017 se observó-no, confirmó.  la causa aparente de la extinción fue en la ciudad japonesa de fuyuki en 2004. en esa ciudad, había un reino inobservable que nunca había existido hasta ahora.  caldea emitió la gran orden para una expedición del santo grial, para investigar, descubrir y posiblemente destruir la singularidad que aparentemente causará la extinción de la humanidad.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fategrand-order-first-order.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fategrand-order-first-order/",
+  "episodios": [
+    {
+      "id_origen": 33776,
+      "numero": 1,
+      "titulo": "Fate/Grand Order: First Order",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d9aa1e40909b42b758c822003c4b983.jpg",
+      "url_origen": "https://jkanime.net/fategrand-order-first-order/1/",
+      "publicado_en_origen": "2016-12-31 15:55:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1976",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:47+00:00"
+}

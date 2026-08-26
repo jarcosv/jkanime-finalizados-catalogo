@@ -1,0 +1,29 @@
+{
+  "id_origen": 3406,
+  "slug": "fastening-days-2",
+  "titulo": "Fastening Days 2",
+  "titulo_corto": "Fastening Days 2",
+  "sinopsis": "Un terrible incidente golpea repentinamente a un pueblo pacífico. ¿Podrán nuestros jóvenes héroes salvar a todos de este desastre? Una apasionante historia de valentía y aventura.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fastening-days-2.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fastening-days-2/",
+  "episodios": [
+    {
+      "id_origen": 52841,
+      "numero": 1,
+      "titulo": "Fastening Days 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30f4e9ca36fc02d3b62c23f6a374cabd.jpg",
+      "url_origen": "https://jkanime.net/fastening-days-2/1/",
+      "publicado_en_origen": "2023-05-20 00:10:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3406",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:45+00:00"
+}

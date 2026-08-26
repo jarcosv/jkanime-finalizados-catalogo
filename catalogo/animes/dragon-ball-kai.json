@@ -1,0 +1,797 @@
+{
+  "id_origen": 81,
+  "slug": "dragon-ball-kai",
+  "titulo": "Dragon Ball Kai",
+  "titulo_corto": "Dragon Ball Kai",
+  "sinopsis": "Es una remasterización de dragon ball z la cual constara de 97 capítulos + 1 especial, resumiendo la historia y eliminando el relleno haciendo un enfoque en lo mas importante de la historia este nuevo proyecto se dio a conocer en el TAF 2009 (Tokyo International Anime fair 2009). La serie siguió a cargo de Toei Animation. La serie finaliza luego de la saga de Cell.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-kai.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-kai/",
+  "episodios": [
+    {
+      "id_origen": 1835,
+      "numero": 1,
+      "titulo": "Dragon Ball Kai 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfce06801e1a85d6d06f1fdd4475dacd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1836,
+      "numero": 2,
+      "titulo": "Dragon Ball Kai 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f26dab9bf6a137c3b6782e562794c2f2.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1837,
+      "numero": 3,
+      "titulo": "Dragon Ball Kai 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85f007f8c50dd25f5a45fca73cad64bd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1838,
+      "numero": 4,
+      "titulo": "Dragon Ball Kai 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7657583058394c828ee150fada65345.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1839,
+      "numero": 5,
+      "titulo": "Dragon Ball Kai 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_728f206c2a01bf572b5940d7d9a8fa4c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1840,
+      "numero": 6,
+      "titulo": "Dragon Ball Kai 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_201d7288b4c18a679e48b31c72c30ded.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1841,
+      "numero": 7,
+      "titulo": "Dragon Ball Kai 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8dfff4676a47048d6f0c4ef899593dd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/7/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1842,
+      "numero": 8,
+      "titulo": "Dragon Ball Kai 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57c0531e13f40b91b3b0f1a30b529a1d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/8/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1843,
+      "numero": 9,
+      "titulo": "Dragon Ball Kai 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4888241374e8c62ddd9b4c3cfd091f96.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/9/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1844,
+      "numero": 10,
+      "titulo": "Dragon Ball Kai 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06a15eb1c3836723b53e4abca8d9b879.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/10/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1845,
+      "numero": 11,
+      "titulo": "Dragon Ball Kai 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59bcda7c438bad7d2afffe9e2fed00be.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/11/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1846,
+      "numero": 12,
+      "titulo": "Dragon Ball Kai 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f45a1078feb35de77d26b3f7a52ef502.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/12/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1847,
+      "numero": 13,
+      "titulo": "Dragon Ball Kai 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82cadb0649a3af4968404c9f6031b233.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/13/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1848,
+      "numero": 14,
+      "titulo": "Dragon Ball Kai 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7385db9a3f11415bc0e9e2625fae3734.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/14/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1849,
+      "numero": 15,
+      "titulo": "Dragon Ball Kai 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd63a3eec3319fd9c84c942a08316e00.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/15/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1850,
+      "numero": 16,
+      "titulo": "Dragon Ball Kai 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c3039bd5842dca3d944faab91447818.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/16/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1851,
+      "numero": 17,
+      "titulo": "Dragon Ball Kai 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff1418e8cc993fe8abcfe3ce2003e5c5.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/17/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1852,
+      "numero": 18,
+      "titulo": "Dragon Ball Kai 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb1e78328c46506b46a4ac4a1e378b91.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/18/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1853,
+      "numero": 19,
+      "titulo": "Dragon Ball Kai 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7503cfacd12053d309b6bed5c89de212.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/19/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1854,
+      "numero": 20,
+      "titulo": "Dragon Ball Kai 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49ad23d1ec9fa4bd8d77d02681df5cfa.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/20/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1855,
+      "numero": 21,
+      "titulo": "Dragon Ball Kai 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ae07dcb33ec3b7c814df797cbda0f87.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/21/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1856,
+      "numero": 22,
+      "titulo": "Dragon Ball Kai 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c947bc2f7ff007b86a9428b74654de5.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/22/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1857,
+      "numero": 23,
+      "titulo": "Dragon Ball Kai 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3545bd79d31f9a72d3a78690adf73fc.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/23/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1858,
+      "numero": 24,
+      "titulo": "Dragon Ball Kai 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7fd118e6f226a71b5f1ffe10efd0a78.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/24/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1859,
+      "numero": 25,
+      "titulo": "Dragon Ball Kai 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_537de305e941fccdbba5627e3eefbb24.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/25/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1860,
+      "numero": 26,
+      "titulo": "Dragon Ball Kai 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96c5c28becf18e71190460a9955aa4d8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/26/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1861,
+      "numero": 27,
+      "titulo": "Dragon Ball Kai 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9d1152547c0bde01830b7e8bd60024c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/27/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1862,
+      "numero": 28,
+      "titulo": "Dragon Ball Kai 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e87337f366f72daa424dae11df0538c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/28/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1863,
+      "numero": 29,
+      "titulo": "Dragon Ball Kai 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09fb05dd477d4ae6479985ca56c5a12d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/29/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1864,
+      "numero": 30,
+      "titulo": "Dragon Ball Kai 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d072677d210ac4c03ba046120f0802ec.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/30/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1865,
+      "numero": 31,
+      "titulo": "Dragon Ball Kai 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69d1fc78dbda242c43ad6590368912d4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/31/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1866,
+      "numero": 32,
+      "titulo": "Dragon Ball Kai 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19de10adbaa1b2ee13f77f679fa1483a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/32/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1867,
+      "numero": 33,
+      "titulo": "Dragon Ball Kai 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a19acd7d2689207f9047f8cb01357370.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/33/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1868,
+      "numero": 34,
+      "titulo": "Dragon Ball Kai 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c164bbc9d6c72a52c599bbb43d8db8e1.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/34/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1869,
+      "numero": 35,
+      "titulo": "Dragon Ball Kai 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68c694de94e6c110f42e587e8e48d852.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/35/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1870,
+      "numero": 36,
+      "titulo": "Dragon Ball Kai 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d305281faf947ca7acade9ad5c8c818c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/36/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1871,
+      "numero": 37,
+      "titulo": "Dragon Ball Kai 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb8feff253bb6c834deb61ec76baa893.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/37/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1872,
+      "numero": 38,
+      "titulo": "Dragon Ball Kai 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f25f6e326adb93c5787175dda209ab6.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/38/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1873,
+      "numero": 39,
+      "titulo": "Dragon Ball Kai 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4b2aeb2453bdadaa45cbe9882ffefcf.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/39/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1874,
+      "numero": 40,
+      "titulo": "Dragon Ball Kai 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_958adb57686c2fdec5796398de5f317a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/40/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1875,
+      "numero": 41,
+      "titulo": "Dragon Ball Kai 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e9e346dc5fd268b49bf418523af8679.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/41/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 14644,
+      "numero": 42,
+      "titulo": "Dragon Ball Kai - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58c1dbad4977b4c106bca8015477757e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/42/",
+      "publicado_en_origen": "2012-02-04 13:26:42"
+    },
+    {
+      "id_origen": 1876,
+      "numero": 43,
+      "titulo": "Dragon Ball Kai 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba9a56ce0a9bfa26e8ed9e10b2cc8f46.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/43/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1877,
+      "numero": 44,
+      "titulo": "Dragon Ball Kai 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f31b20466ae89669f9741e047487eb37.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/44/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1878,
+      "numero": 45,
+      "titulo": "Dragon Ball Kai 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc5d637ed5e62c36ecb73b654b05ba2a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/45/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1879,
+      "numero": 46,
+      "titulo": "Dragon Ball Kai 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44a2e0804995faf8d2e3b084a1e2db1d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/46/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1880,
+      "numero": 47,
+      "titulo": "Dragon Ball Kai 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3214a6d842cc69597f9edf26df552e43.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/47/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1881,
+      "numero": 48,
+      "titulo": "Dragon Ball Kai 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4568df26077653eeadf29596708c94b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/48/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 14645,
+      "numero": 49,
+      "titulo": "Dragon Ball Kai - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93e4d7106625e1b0f2eb8af065c83452.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/49/",
+      "publicado_en_origen": "2012-02-04 13:26:42"
+    },
+    {
+      "id_origen": 14646,
+      "numero": 50,
+      "titulo": "Dragon Ball Kai - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfc0a2d63b0d7a1ce1cd07ffe3a3aea7.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/50/",
+      "publicado_en_origen": "2012-02-04 13:26:42"
+    },
+    {
+      "id_origen": 14647,
+      "numero": 51,
+      "titulo": "Dragon Ball Kai - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e35284b6966864480f02bc12997b8b49.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/51/",
+      "publicado_en_origen": "2012-02-04 13:26:42"
+    },
+    {
+      "id_origen": 1882,
+      "numero": 52,
+      "titulo": "Dragon Ball Kai 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1314fc026da60d837353d20aefaf054.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/52/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1883,
+      "numero": 53,
+      "titulo": "Dragon Ball Kai 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c45008212f7bdf6eab6050c2a564435a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/53/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1884,
+      "numero": 54,
+      "titulo": "Dragon Ball Kai 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0fcf351df4eb6786e9bb6fc4e2dee02.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/54/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 14648,
+      "numero": 55,
+      "titulo": "Dragon Ball Kai - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f868165832607a918f0a7670496d1ab.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/55/",
+      "publicado_en_origen": "2012-02-04 13:26:42"
+    },
+    {
+      "id_origen": 14649,
+      "numero": 56,
+      "titulo": "Dragon Ball Kai - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b54a39e62236c79ee0536b932f6e76b3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/56/",
+      "publicado_en_origen": "2012-02-04 13:26:42"
+    },
+    {
+      "id_origen": 14650,
+      "numero": 57,
+      "titulo": "Dragon Ball Kai - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0ab525d634e80fd8e20e3d6dc00b11c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/57/",
+      "publicado_en_origen": "2012-02-04 13:26:42"
+    },
+    {
+      "id_origen": 14651,
+      "numero": 58,
+      "titulo": "Dragon Ball Kai - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6baadc89159617043965f9e1889224e7.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/58/",
+      "publicado_en_origen": "2012-02-04 13:26:42"
+    },
+    {
+      "id_origen": 1885,
+      "numero": 59,
+      "titulo": "Dragon Ball Kai 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d523773c6b194f37b938d340d5d02232.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/59/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1886,
+      "numero": 60,
+      "titulo": "Dragon Ball Kai 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c366c2c97d47b02b24c3ecade4c40a01.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/60/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1887,
+      "numero": 61,
+      "titulo": "Dragon Ball Kai 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7302e3f5e7c072aea8801faf8a492be0.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/61/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1888,
+      "numero": 62,
+      "titulo": "Dragon Ball Kai 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d1b2a5ff364606ff041650887723470.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/62/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1889,
+      "numero": 63,
+      "titulo": "Dragon Ball Kai 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68148596109e38cf9367d27875e185be.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/63/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1890,
+      "numero": 64,
+      "titulo": "Dragon Ball Kai 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_865dfbde8a344b44095495f3591f7407.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/64/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1891,
+      "numero": 65,
+      "titulo": "Dragon Ball Kai 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13168e6a2e6c84b4b7de9390c0ef5ec5.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/65/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1892,
+      "numero": 66,
+      "titulo": "Dragon Ball Kai 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca460332316d6da84b08b9bcf39b687b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/66/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1893,
+      "numero": 67,
+      "titulo": "Dragon Ball Kai 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56f9f88906aebf4ad985aaec7fa01313.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/67/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1894,
+      "numero": 68,
+      "titulo": "Dragon Ball Kai 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fa9e41bfec0725742cc9d15ef594120.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/68/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1895,
+      "numero": 69,
+      "titulo": "Dragon Ball Kai 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_059fdcd96baeb75112f09fa1dcc740cc.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/69/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1896,
+      "numero": 70,
+      "titulo": "Dragon Ball Kai 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e06f967fb0d355592be4e7674fa31d26.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/70/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1897,
+      "numero": 71,
+      "titulo": "Dragon Ball Kai 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af3303f852abeccd793068486a391626.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/71/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1898,
+      "numero": 72,
+      "titulo": "Dragon Ball Kai 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11f524c3fbfeeca4aa916edcb6b6392e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/72/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1899,
+      "numero": 73,
+      "titulo": "Dragon Ball Kai 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6be5336db2c119736cf48f475e051bfe.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/73/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1901,
+      "numero": 74,
+      "titulo": "Dragon Ball Kai 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d54e99a6c03704e95e6965532dec148b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/74/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1900,
+      "numero": 75,
+      "titulo": "Dragon Ball Kai 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fdb62f932adf55af2c0e09e55861964.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/75/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1902,
+      "numero": 76,
+      "titulo": "Dragon Ball Kai 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc4ddc15f9f4b4b06ef7844d6bb53abf.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/76/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1903,
+      "numero": 77,
+      "titulo": "Dragon Ball Kai 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_944626adf9e3b76a3919b50dc0b080a4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/77/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1904,
+      "numero": 78,
+      "titulo": "Dragon Ball Kai 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c91591a8d461c2869b9f535ded3e213e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/78/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1905,
+      "numero": 79,
+      "titulo": "Dragon Ball Kai 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73e0f7487b8e5297182c5a711d20bf26.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/79/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1906,
+      "numero": 80,
+      "titulo": "Dragon Ball Kai 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dea9ddb25cbf2352cf4dec30222a02a5.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/80/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1907,
+      "numero": 81,
+      "titulo": "Dragon Ball Kai 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77369e37b2aa1404f416275183ab055f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/81/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1908,
+      "numero": 82,
+      "titulo": "Dragon Ball Kai 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65699726a3c601b9f31bf04019c8593c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/82/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1909,
+      "numero": 83,
+      "titulo": "Dragon Ball Kai 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0609154fa35b3194026346c9cac2a248.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/83/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1910,
+      "numero": 84,
+      "titulo": "Dragon Ball Kai 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab7314887865c4265e896c6e209d1cd6.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/84/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1911,
+      "numero": 85,
+      "titulo": "Dragon Ball Kai 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04df4d434d481c5bb723be1b6df1ee65.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/85/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1912,
+      "numero": 86,
+      "titulo": "Dragon Ball Kai 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff7d0f525b3be596a51fb919492c099c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/86/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 12165,
+      "numero": 87,
+      "titulo": "Dragon Ball Kai 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b1a9e41c7cb15669337c1a583af31f8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/87/",
+      "publicado_en_origen": "2011-09-14 16:13:24"
+    },
+    {
+      "id_origen": 12166,
+      "numero": 88,
+      "titulo": "Dragon Ball Kai 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58be687cd9a13d7776b1918f57243b35.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/88/",
+      "publicado_en_origen": "2011-09-14 16:14:00"
+    },
+    {
+      "id_origen": 12167,
+      "numero": 89,
+      "titulo": "Dragon Ball Kai 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c84974a7c5b56145b54496b1695cc09.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/89/",
+      "publicado_en_origen": "2011-09-14 16:14:57"
+    },
+    {
+      "id_origen": 1913,
+      "numero": 90,
+      "titulo": "Dragon Ball Kai 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c44799b04a1c72e3c8593a53e8000c78.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/90/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1914,
+      "numero": 91,
+      "titulo": "Dragon Ball Kai 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07a4e20a7bbeeb7a736682b26b16ebe8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/91/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1915,
+      "numero": 92,
+      "titulo": "Dragon Ball Kai 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b432f34c5a997c8e7c806a895ecc5e25.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/92/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1916,
+      "numero": 93,
+      "titulo": "Dragon Ball Kai 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65fc52ed8f88c81323a418ca94cec2ed.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/93/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1917,
+      "numero": 94,
+      "titulo": "Dragon Ball Kai 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb79f8fa58b91d3af6c9c991f63962d3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/94/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1918,
+      "numero": 95,
+      "titulo": "Dragon Ball Kai 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e74c0d42b4433905293aab661fcf8ddb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/95/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 14652,
+      "numero": 96,
+      "titulo": "Dragon Ball Kai - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f3ea482c9513bf4548f302a46d9932d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/96/",
+      "publicado_en_origen": "2012-02-04 13:26:42"
+    },
+    {
+      "id_origen": 1919,
+      "numero": 97,
+      "titulo": "Dragon Ball Kai 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c8a58fa97c205ff222de3685497742c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai/97/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "81",
+  "cantidad_episodios_declarada": 97,
+  "detalle_extraido_en": "2026-08-26T18:25:41+00:00"
+}

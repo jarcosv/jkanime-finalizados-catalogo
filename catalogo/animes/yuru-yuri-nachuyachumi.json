@@ -1,0 +1,29 @@
+{
+  "id_origen": 1448,
+  "slug": "yuru-yuri-nachuyachumi",
+  "titulo": "Yuru Yuri Nachuyachumi!",
+  "titulo_corto": "Yuru Yuri Nachuyachumi!",
+  "sinopsis": "Ova Nachuyachumi de Yuru Yuri",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yuru-yuri-nachuyachumi.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yuru-yuri-nachuyachumi/",
+  "episodios": [
+    {
+      "id_origen": 26793,
+      "numero": 1,
+      "titulo": "Yuru Yuri Nachuyachumi!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84b3f2becbf70a03239d7fae55dcaa40.jpg",
+      "url_origen": "https://jkanime.net/yuru-yuri-nachuyachumi/1/",
+      "publicado_en_origen": "2015-02-20 17:58:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1448",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:53:34+00:00"
+}

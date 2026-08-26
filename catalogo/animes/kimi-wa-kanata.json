@@ -1,0 +1,29 @@
+{
+  "id_origen": 2994,
+  "slug": "kimi-wa-kanata",
+  "titulo": "Kimi wa Kanata",
+  "titulo_corto": "Kimi wa Kanata",
+  "sinopsis": "Mio siente algo por su amiga de la infancia Arata, pero no puede transmitir sus sentimientos. Un día, mientras continúan su delicada relación, los dos pelean por algo trivial. Después de dejar que las tensiones se calmen, Mio va a hacer las paces con él bajo la lluvia torrencial. Mientras se dirigía, sufre un accidente de tráfico. Cuando recupera la conciencia, un mundo misterioso y desconocido aparece ante sus ojos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimi-wa-kanata.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimi-wa-kanata/",
+  "episodios": [
+    {
+      "id_origen": 47488,
+      "numero": 1,
+      "titulo": "Kimi wa Kanata",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcc4103fcaf40d4720096ea4ed0fa2a7.jpg",
+      "url_origen": "https://jkanime.net/kimi-wa-kanata/1/",
+      "publicado_en_origen": "2021-12-05 14:32:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2994",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:34:48+00:00"
+}

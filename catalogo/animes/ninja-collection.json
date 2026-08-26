@@ -1,0 +1,125 @@
+{
+  "id_origen": 2697,
+  "slug": "ninja-collection",
+  "titulo": "Ninja Collection",
+  "titulo_corto": "Ninja Collection",
+  "sinopsis": "Tokio, una ciudad repleta de sueños y deseos. Un antiguo clan de ninjas sigue en activo hoy en día, y tras heredad ancestrales técnicas, se dedican a cumplir sus misiones alejados de las miradas de la gente. Fusionándose con la oscuridad de la ciudad, acaban con todo tipo de criaturas inhumanas... La gente los llama Tokeshu",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ninja-collection.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ninja-collection/",
+  "episodios": [
+    {
+      "id_origen": 43145,
+      "numero": 1,
+      "titulo": "Ninja Collection - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d1dfde9304bff15332bf4b308a47b50.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/1/",
+      "publicado_en_origen": "2020-07-13 14:27:07"
+    },
+    {
+      "id_origen": 43175,
+      "numero": 2,
+      "titulo": "Ninja Collection - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c78b12691f2b2a94639b7674eba07e4.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/2/",
+      "publicado_en_origen": "2020-07-20 00:53:31"
+    },
+    {
+      "id_origen": 43210,
+      "numero": 3,
+      "titulo": "Ninja Collection - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e9e522510b41cda61ce6460b460fec3.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/3/",
+      "publicado_en_origen": "2020-07-27 01:07:05"
+    },
+    {
+      "id_origen": 43253,
+      "numero": 4,
+      "titulo": "Ninja Collection - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7fcfc37e5d55dfb218312264ea999ac.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/4/",
+      "publicado_en_origen": "2020-08-03 01:03:51"
+    },
+    {
+      "id_origen": 43291,
+      "numero": 5,
+      "titulo": "Ninja Collection - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_933aef03173f263ee5b7eb84a5dd19e1.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/5/",
+      "publicado_en_origen": "2020-08-10 02:25:52"
+    },
+    {
+      "id_origen": 43331,
+      "numero": 6,
+      "titulo": "Ninja Collection - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e05641a720572ccd068ba6a8ef9ff632.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/6/",
+      "publicado_en_origen": "2020-08-16 23:34:04"
+    },
+    {
+      "id_origen": 43372,
+      "numero": 7,
+      "titulo": "Ninja Collection - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_733621458c9b6701100b8c4c19647a8d.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/7/",
+      "publicado_en_origen": "2020-08-23 19:38:08"
+    },
+    {
+      "id_origen": 43419,
+      "numero": 8,
+      "titulo": "Ninja Collection - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a7f9cbe4a4b087568bc1769ad8b09f4.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/8/",
+      "publicado_en_origen": "2020-08-30 18:27:20"
+    },
+    {
+      "id_origen": 43517,
+      "numero": 9,
+      "titulo": "Ninja Collection - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f27e4860cdd0eb27a3d1113428a941e0.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/9/",
+      "publicado_en_origen": "2020-09-13 21:38:05"
+    },
+    {
+      "id_origen": 43554,
+      "numero": 10,
+      "titulo": "Ninja Collection - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71d8c7b32b506beb1d6469832a153576.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/10/",
+      "publicado_en_origen": "2020-09-20 19:45:33"
+    },
+    {
+      "id_origen": 43823,
+      "numero": 11,
+      "titulo": "Ninja Collection - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56f63261671fdfe71cd4f4e0f16f90c4.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/11/",
+      "publicado_en_origen": "2020-10-25 23:31:54"
+    },
+    {
+      "id_origen": 43824,
+      "numero": 12,
+      "titulo": "Ninja Collection - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38079fb5e58a4ca17329d3eb9b309749.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/12/",
+      "publicado_en_origen": "2020-10-25 23:31:59"
+    },
+    {
+      "id_origen": 43825,
+      "numero": 13,
+      "titulo": "Ninja Collection - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a31856c66090c6d9dce2e1395d690ce.jpg",
+      "url_origen": "https://jkanime.net/ninja-collection/13/",
+      "publicado_en_origen": "2020-10-25 23:32:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2697",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:40:28+00:00"
+}

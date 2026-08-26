@@ -1,0 +1,45 @@
+{
+  "id_origen": 2497,
+  "slug": "sinbi-apateu-ghost-ball-bimil",
+  "titulo": "Sinbi Apateu: Ghost Ball Bimil",
+  "titulo_corto": "Sinbi Apateu: Ghost Ball Bimil",
+  "sinopsis": "Con la ayuda de un duende de 102 años que habita debajo de su edificio de apartamentos embrujado, dos hermanos lidian con fantasmas y adquieren misterios espeluznantes.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sinbi-apateu-ghost-ball-bimil.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sinbi-apateu-ghost-ball-bimil/",
+  "episodios": [
+    {
+      "id_origen": 41028,
+      "numero": 1,
+      "titulo": "Sinbi Apateu: Ghost Ball Bimil - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sinbi-apateu-ghost-ball-bimil.jpg",
+      "url_origen": "https://jkanime.net/sinbi-apateu-ghost-ball-bimil/1/",
+      "publicado_en_origen": "2019-09-12 19:47:08"
+    },
+    {
+      "id_origen": 41029,
+      "numero": 2,
+      "titulo": "Sinbi Apateu: Ghost Ball Bimil - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sinbi-apateu-ghost-ball-bimil.jpg",
+      "url_origen": "https://jkanime.net/sinbi-apateu-ghost-ball-bimil/2/",
+      "publicado_en_origen": "2019-09-12 19:47:47"
+    },
+    {
+      "id_origen": 41089,
+      "numero": 3,
+      "titulo": "Sinbi Apateu: Ghost Ball Bimil - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sinbi-apateu-ghost-ball-bimil.jpg",
+      "url_origen": "https://jkanime.net/sinbi-apateu-ghost-ball-bimil/3/",
+      "publicado_en_origen": "2019-09-21 17:54:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2497",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:47:06+00:00"
+}

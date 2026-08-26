@@ -1,0 +1,125 @@
+{
+  "id_origen": 2575,
+  "slug": "pet",
+  "titulo": "Pet",
+  "titulo_corto": "Pet",
+  "sinopsis": "Hay personas que pueden meterse en la mente de las personas y controlar sus recuerdos. Este poder se usa para erradicar misterios y casos, o peor, para asesinar. El potencial de dicho poder es lo suficientemente fuerte como para destruir las mentes de las personas, sin embargo, puede ser contraproducente y devorar el propio corazon. Para contrarrestarlo, las cadenas se utilizan para bloquear y proteger los corazones debiles y peligrosos del otro. Por el creciente miedo y desden de uno, en consecuencia son llamados como una \"mascota\".",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pet.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pet/",
+  "episodios": [
+    {
+      "id_origen": 41859,
+      "numero": 1,
+      "titulo": "Pet - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb75f42fe20b58737e3e9b4771bf1048.jpg",
+      "url_origen": "https://jkanime.net/pet/1/",
+      "publicado_en_origen": "2020-01-06 14:00:40"
+    },
+    {
+      "id_origen": 41922,
+      "numero": 2,
+      "titulo": "Pet - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab1417ecaf41d8fb741fade9be0b8ab1.jpg",
+      "url_origen": "https://jkanime.net/pet/2/",
+      "publicado_en_origen": "2020-01-13 14:32:53"
+    },
+    {
+      "id_origen": 41981,
+      "numero": 3,
+      "titulo": "Pet - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6dda8f32d9ddc2a9ffe87be7d361a5c9.jpg",
+      "url_origen": "https://jkanime.net/pet/3/",
+      "publicado_en_origen": "2020-01-21 14:23:32"
+    },
+    {
+      "id_origen": 42032,
+      "numero": 4,
+      "titulo": "Pet - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f93dad05756be0b6ecfd7e7ae641639c.jpg",
+      "url_origen": "https://jkanime.net/pet/4/",
+      "publicado_en_origen": "2020-01-27 14:28:34"
+    },
+    {
+      "id_origen": 42095,
+      "numero": 5,
+      "titulo": "Pet - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_603a60c30fc626443b4652fd1f63de04.jpg",
+      "url_origen": "https://jkanime.net/pet/5/",
+      "publicado_en_origen": "2020-02-03 14:42:56"
+    },
+    {
+      "id_origen": 42150,
+      "numero": 6,
+      "titulo": "Pet - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efbd774fdce204077f64ad083665abb0.jpg",
+      "url_origen": "https://jkanime.net/pet/6/",
+      "publicado_en_origen": "2020-02-10 14:12:56"
+    },
+    {
+      "id_origen": 42199,
+      "numero": 7,
+      "titulo": "Pet - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0260f9d42dabf3b109e60acef594ad0.jpg",
+      "url_origen": "https://jkanime.net/pet/7/",
+      "publicado_en_origen": "2020-02-17 15:07:23"
+    },
+    {
+      "id_origen": 42250,
+      "numero": 8,
+      "titulo": "Pet - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_303d09a481bce164f789fd69627aaf49.jpg",
+      "url_origen": "https://jkanime.net/pet/8/",
+      "publicado_en_origen": "2020-02-24 14:40:24"
+    },
+    {
+      "id_origen": 42299,
+      "numero": 9,
+      "titulo": "Pet - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_081c243a74472af67b65145cff5221c7.jpg",
+      "url_origen": "https://jkanime.net/pet/9/",
+      "publicado_en_origen": "2020-03-02 13:40:25"
+    },
+    {
+      "id_origen": 42356,
+      "numero": 10,
+      "titulo": "Pet - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_624de0e2880d2c67f2e639b36f451580.jpg",
+      "url_origen": "https://jkanime.net/pet/10/",
+      "publicado_en_origen": "2020-03-09 18:58:21"
+    },
+    {
+      "id_origen": 42411,
+      "numero": 11,
+      "titulo": "Pet - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1e3d3d65a1a6105edb9e1c785b97ab5.jpg",
+      "url_origen": "https://jkanime.net/pet/11/",
+      "publicado_en_origen": "2020-03-16 19:25:04"
+    },
+    {
+      "id_origen": 42530,
+      "numero": 12,
+      "titulo": "Pet - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ede8eb28f99ac378ad24129fcfa1bfb.jpg",
+      "url_origen": "https://jkanime.net/pet/12/",
+      "publicado_en_origen": "2020-03-23 13:48:27"
+    },
+    {
+      "id_origen": 42584,
+      "numero": 13,
+      "titulo": "Pet - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_917652aa518c7e4f75a9f41bbf03909e.jpg",
+      "url_origen": "https://jkanime.net/pet/13/",
+      "publicado_en_origen": "2020-03-30 14:59:14"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2575",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:42:08+00:00"
+}

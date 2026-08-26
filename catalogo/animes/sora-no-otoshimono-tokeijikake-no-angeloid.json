@@ -1,0 +1,29 @@
+{
+  "id_origen": 467,
+  "slug": "sora-no-otoshimono-tokeijikake-no-angeloid",
+  "titulo": "Sora no Otoshimono: Tokeijikake no Angeloid",
+  "titulo_corto": "Sora no Otoshimono: Tokeijikak...",
+  "sinopsis": "Cine la adaptacion de la manga Sora no Otoshimono, sobre la base de arco de Kazane Hiyori.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sora-no-otoshimono-tokeijikake-no-angeloid.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sora-no-otoshimono-tokeijikake-no-angeloid/",
+  "episodios": [
+    {
+      "id_origen": 15102,
+      "numero": 1,
+      "titulo": "Sora no Otoshimono: Tokeijikake no Angeloid",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_575dc1140c7f125454530f5541b003e1.jpg",
+      "url_origen": "https://jkanime.net/sora-no-otoshimono-tokeijikake-no-angeloid/1/",
+      "publicado_en_origen": "2012-03-01 13:57:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "467",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:22+00:00"
+}

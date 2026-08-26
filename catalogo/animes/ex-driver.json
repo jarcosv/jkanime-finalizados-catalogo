@@ -1,0 +1,69 @@
+{
+  "id_origen": 4189,
+  "slug": "ex-driver",
+  "titulo": "eX-Driver",
+  "titulo_corto": "eX-Driver",
+  "sinopsis": "eX-Driver está ambientado en el futuro, donde todo el transporte está controlado fácilmente por la IA. Aunque, como todas las máquinas, tienden a averiarse, perder el control o ser reprogramadas. Aquí es donde tres estudiantes de secundaria con coches no controlados por IA -un Subaru WRX, un Caterham Super 7 y un Lotus Europa- entran en acción para salvar el día y garantizar la seguridad del público en todo momento.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ex-driver.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ex-driver/",
+  "episodios": [
+    {
+      "id_origen": 64027,
+      "numero": 1,
+      "titulo": "eX-Driver - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c93c6e9a4125ec420cddf1eac450f45f.jpg",
+      "url_origen": "https://jkanime.net/ex-driver/1/",
+      "publicado_en_origen": "2025-06-26 12:44:49"
+    },
+    {
+      "id_origen": 64028,
+      "numero": 2,
+      "titulo": "eX-Driver - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_362d773568da67c02dc9ac21ce5eee69.jpg",
+      "url_origen": "https://jkanime.net/ex-driver/2/",
+      "publicado_en_origen": "2025-06-26 12:44:49"
+    },
+    {
+      "id_origen": 64029,
+      "numero": 3,
+      "titulo": "eX-Driver - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f3d7ff5527d54e796895cb9e3935dbf.jpg",
+      "url_origen": "https://jkanime.net/ex-driver/3/",
+      "publicado_en_origen": "2025-06-26 12:44:49"
+    },
+    {
+      "id_origen": 64030,
+      "numero": 4,
+      "titulo": "eX-Driver - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c95a077bbc63756f703050209a785b3.jpg",
+      "url_origen": "https://jkanime.net/ex-driver/4/",
+      "publicado_en_origen": "2025-06-26 12:44:49"
+    },
+    {
+      "id_origen": 64031,
+      "numero": 5,
+      "titulo": "eX-Driver - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3dab99494fbfbc07c51a9dd5051d0389.jpg",
+      "url_origen": "https://jkanime.net/ex-driver/5/",
+      "publicado_en_origen": "2025-06-26 12:44:49"
+    },
+    {
+      "id_origen": 64032,
+      "numero": 6,
+      "titulo": "eX-Driver - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03e9990360b76566887206049d3fc637.jpg",
+      "url_origen": "https://jkanime.net/ex-driver/6/",
+      "publicado_en_origen": "2025-06-26 12:44:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4189",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:26:30+00:00"
+}

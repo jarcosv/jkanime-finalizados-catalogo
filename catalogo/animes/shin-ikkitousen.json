@@ -1,0 +1,45 @@
+{
+  "id_origen": 3126,
+  "slug": "shin-ikkitousen",
+  "titulo": "Shin Ikkitousen",
+  "titulo_corto": "Shin Ikkitousen",
+  "sinopsis": "Shin Ikkitousen es una serie de OVAs basada en el manga secuela del mismo nombre. Consta de tres episodios animados por el estudio Arms. El primer episodio recibió una pre-estreno el 27 de marzo de 2022, mientras que la transmisión oficialmente comenzó el 17 de mayo de 2022.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shin-ikkitousen.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shin-ikkitousen/",
+  "episodios": [
+    {
+      "id_origen": 49348,
+      "numero": 1,
+      "titulo": "Shin Ikkitousen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9c892e2c283d74916880d3190eba780.jpg",
+      "url_origen": "https://jkanime.net/shin-ikkitousen/1/",
+      "publicado_en_origen": "2022-05-17 12:36:02"
+    },
+    {
+      "id_origen": 49465,
+      "numero": 2,
+      "titulo": "Shin Ikkitousen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2cc7645821fa3f2560b783faed98646b.jpg",
+      "url_origen": "https://jkanime.net/shin-ikkitousen/2/",
+      "publicado_en_origen": "2022-05-25 21:06:00"
+    },
+    {
+      "id_origen": 49510,
+      "numero": 3,
+      "titulo": "Shin Ikkitousen - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_556a1f51fe42f64c0e5865070262c2a5.jpg",
+      "url_origen": "https://jkanime.net/shin-ikkitousen/3/",
+      "publicado_en_origen": "2022-05-31 10:29:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3126",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:46:14+00:00"
+}

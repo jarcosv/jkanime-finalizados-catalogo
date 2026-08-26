@@ -1,0 +1,53 @@
+{
+  "id_origen": 880,
+  "slug": "tamayura",
+  "titulo": "Tamayura",
+  "titulo_corto": "Tamayura",
+  "sinopsis": "En su primer año de Escuela Secundaria, Sawatari Fuu se muda a Takehara, un pintoresco poblado cerca a Hiroshima, en el Mar Interior. Su padre, quien fallecio, crecio en Takehara. Ella ama tomar fotografias, cosa que no dejara por ningun segundo de capturar los bellísimo escenarios del lugar con su vieja camara, una Rollei35S. Este \"Motivador\" anime Slice Of Life (Recuento de vida) del director de ARIA siguela ella y a los amigos que se reúnen alrededor de ella y como ella viene a querer a su nuevo hogar. Curiosamente, Tamayura se le dicen a las esferas luminosas que sin querer aparecen en las fotografías, como las que puedes observar en la parte inferior de la imagen: para Sawatari son señal de felicidad.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tamayura.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tamayura/",
+  "episodios": [
+    {
+      "id_origen": 20924,
+      "numero": 1,
+      "titulo": "Tamayura - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f6922d7e707cc6877ea974d7f920589.jpg",
+      "url_origen": "https://jkanime.net/tamayura/1/",
+      "publicado_en_origen": "2013-06-28 23:02:59"
+    },
+    {
+      "id_origen": 20925,
+      "numero": 2,
+      "titulo": "Tamayura - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_175b0230afbb0ad5a51a2c70b9c768df.jpg",
+      "url_origen": "https://jkanime.net/tamayura/2/",
+      "publicado_en_origen": "2013-06-28 23:02:59"
+    },
+    {
+      "id_origen": 20926,
+      "numero": 3,
+      "titulo": "Tamayura - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c39795cb0bf6b6135138917091c41d6d.jpg",
+      "url_origen": "https://jkanime.net/tamayura/3/",
+      "publicado_en_origen": "2013-06-28 23:02:59"
+    },
+    {
+      "id_origen": 20927,
+      "numero": 4,
+      "titulo": "Tamayura - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ae61e13278118c23dae392753edacf8.jpg",
+      "url_origen": "https://jkanime.net/tamayura/4/",
+      "publicado_en_origen": "2013-06-28 23:02:59"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "880",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:48:33+00:00"
+}

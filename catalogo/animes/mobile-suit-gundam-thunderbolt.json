@@ -1,0 +1,53 @@
+{
+  "id_origen": 1732,
+  "slug": "mobile-suit-gundam-thunderbolt",
+  "titulo": "Mobile Suit Gundam Thunderbolt",
+  "titulo_corto": "Mobile Suit Gundam Thunderbolt",
+  "sinopsis": "La historia del manga se desarrolla durante UC 0079, en la Guerra de un Año, al igual que la primera Mobile Suit Gundam, y sigue las batallas entre dos grandes pilotos del Principado de Zeon y la Federación Terrestre en el “Sector Thunderbolt”, una zona repleta de escombros de colonias espaciales y naves de guerra.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mobile-suit-gundam-thunderbolt.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mobile-suit-gundam-thunderbolt/",
+  "episodios": [
+    {
+      "id_origen": 30474,
+      "numero": 1,
+      "titulo": "Mobile Suit Gundam Thunderbolt - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f7abb37320b715c8ed68c86d29d93a7.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-thunderbolt/1/",
+      "publicado_en_origen": "2016-01-01 15:02:15"
+    },
+    {
+      "id_origen": 47507,
+      "numero": 2,
+      "titulo": "Mobile Suit Gundam Thunderbolt - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a080c3b21aced9b1f9832871cdf4a381.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-thunderbolt/2/",
+      "publicado_en_origen": "2021-12-09 00:43:31"
+    },
+    {
+      "id_origen": 47508,
+      "numero": 3,
+      "titulo": "Mobile Suit Gundam Thunderbolt - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c54c0e87e5883b70dc2488ffad09d9d.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-thunderbolt/3/",
+      "publicado_en_origen": "2021-12-09 00:43:31"
+    },
+    {
+      "id_origen": 47509,
+      "numero": 4,
+      "titulo": "Mobile Suit Gundam Thunderbolt - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f320924d8b6d15e190ed513cca7e715e.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-thunderbolt/4/",
+      "publicado_en_origen": "2021-12-09 00:43:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1732",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:38:57+00:00"
+}

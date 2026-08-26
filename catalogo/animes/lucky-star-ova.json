@@ -1,0 +1,29 @@
+{
+  "id_origen": 129,
+  "slug": "lucky-star-ova",
+  "titulo": "Lucky ☆ Star OVA",
+  "titulo_corto": "Lucky ☆ Star OVA",
+  "sinopsis": "Esta OVA se centra en unas cuantas historias, en las cuales podemos ver a las protagonistas de la serie involucradas, como siempre, en nuevas locuras y problemas. Lo particular de esta OVA es que cada una es contada o vista desde el punto de vista de una de las protagonistas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/lucky-star-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/lucky-star-ova/",
+  "episodios": [
+    {
+      "id_origen": 10874,
+      "numero": 1,
+      "titulo": "Lucky Star OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f754186469a933256d7d64095e963594.jpg",
+      "url_origen": "https://jkanime.net/lucky-star-ova/1/",
+      "publicado_en_origen": "2011-07-12 13:27:14"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "129",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:36:50+00:00"
+}

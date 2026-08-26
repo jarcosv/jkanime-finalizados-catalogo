@@ -1,0 +1,29 @@
+{
+  "id_origen": 506,
+  "slug": "my-neighbor-totoro",
+  "titulo": "My Neighbor Totoro",
+  "titulo_corto": "My Neighbor Totoro",
+  "sinopsis": "La película es un retrato de la vida rural japonesa en los años cincuenta. Un profesor universitario se muda junto a sus dos hijas a una casa cerca de un bosque mientras su mujer se recupera de tuberculosis en un sanatorio rural. Sus hijas descubren la existencia de los \"conejillos de polvo\", de este modo aprenden que hay seres que no todos pueden ver, como los espíritus del bosque, solamente aquellos de corazón puro. Mei, de cuatro años de edad, resulta fascinada al encontrar dos pequeños espíritus y se determina a encontrar al rey del bosque, Totoro.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/my-neighbor-totoro.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/my-neighbor-totoro/",
+  "episodios": [
+    {
+      "id_origen": 14566,
+      "numero": 1,
+      "titulo": "My Neighbor Totoro",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6201090a4cf6e501f9f0d7a1c75c584d.jpg",
+      "url_origen": "https://jkanime.net/my-neighbor-totoro/1/",
+      "publicado_en_origen": "2012-01-19 13:17:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "506",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:33+00:00"
+}

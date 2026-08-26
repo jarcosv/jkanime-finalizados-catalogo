@@ -1,0 +1,117 @@
+{
+  "id_origen": 95,
+  "slug": "seiken-no-blacksmith",
+  "titulo": "Seiken no Blacksmith",
+  "titulo_corto": "Seiken no Blacksmith",
+  "sinopsis": "La historia toma lugar después de una terrible guerra que cayó sobre una tierra por un contrato con un demonio. Cecily Campbell, hija de un antiguo noble y ahora una caballero (sí, eso mismo) se encuentra con un joven que derrota a unos matones con un poder misterioso que proviene de su espada. Ese joven el poder del mismo \"contrato con el demonio\" que se ha convertido en tabú, ahora que reina la paz. Cecily ha estado buscando un herrero (o herrero en inglés) que pueda reparar una vieja espada que heredó de su padre, y ese misterioso joven resulta ser una herrero llamado Luke. Y así comienzan sus aventuras juntos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/seiken-no-blacksmith.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/seiken-no-blacksmith/",
+  "episodios": [
+    {
+      "id_origen": 2180,
+      "numero": 1,
+      "titulo": "The Sacred Blacksmith 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a1dd98341fafc1dfe9bcf36360e6b84.jpg",
+      "url_origen": "https://jkanime.net/seiken-no-blacksmith/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2181,
+      "numero": 2,
+      "titulo": "The Sacred Blacksmith 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_100d9f30ca54b18d14821dc88fea0631.jpg",
+      "url_origen": "https://jkanime.net/seiken-no-blacksmith/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2182,
+      "numero": 3,
+      "titulo": "The Sacred Blacksmith 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d51b416788b6ee70eb0c381c06efc9f1.jpg",
+      "url_origen": "https://jkanime.net/seiken-no-blacksmith/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2183,
+      "numero": 4,
+      "titulo": "The Sacred Blacksmith 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2056d8c1dec3d12cbce646b348d189d1.jpg",
+      "url_origen": "https://jkanime.net/seiken-no-blacksmith/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2184,
+      "numero": 5,
+      "titulo": "The Sacred Blacksmith 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00a03ec6533ca7f5c644d198d815329c.jpg",
+      "url_origen": "https://jkanime.net/seiken-no-blacksmith/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2185,
+      "numero": 6,
+      "titulo": "The Sacred Blacksmith 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f12ee9734e1edf70ed02d9829018b3d9.jpg",
+      "url_origen": "https://jkanime.net/seiken-no-blacksmith/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2186,
+      "numero": 7,
+      "titulo": "The Sacred Blacksmith 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81b3833e2504647f9d794f7d7b9bf341.jpg",
+      "url_origen": "https://jkanime.net/seiken-no-blacksmith/7/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2187,
+      "numero": 8,
+      "titulo": "The Sacred Blacksmith 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2ad76f2326fbc6b56a45a56c59fafdb.jpg",
+      "url_origen": "https://jkanime.net/seiken-no-blacksmith/8/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2188,
+      "numero": 9,
+      "titulo": "The Sacred Blacksmith 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b440509a0106086a67bc2ea9df0a1dab.jpg",
+      "url_origen": "https://jkanime.net/seiken-no-blacksmith/9/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2189,
+      "numero": 10,
+      "titulo": "The Sacred Blacksmith 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c6a0198177bfcc9bd93f6aab94aad3c.jpg",
+      "url_origen": "https://jkanime.net/seiken-no-blacksmith/10/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2190,
+      "numero": 11,
+      "titulo": "The Sacred Blacksmith 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a87257e5308197df43230edf4ad1dae.jpg",
+      "url_origen": "https://jkanime.net/seiken-no-blacksmith/11/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 2191,
+      "numero": 12,
+      "titulo": "The Sacred Blacksmith 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71560ce98c8250ce57a6a970c9991a5f.jpg",
+      "url_origen": "https://jkanime.net/seiken-no-blacksmith/12/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:20+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "95",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:45:15+00:00"
+}

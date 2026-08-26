@@ -1,0 +1,29 @@
+{
+  "id_origen": 1003,
+  "slug": "sacred-seven-shirogane-no-tsubasa",
+  "titulo": "Sacred Seven: Shirogane no Tsubasa",
+  "titulo_corto": "Sacred Seven: Shirogane no Tsu...",
+  "sinopsis": "Un especial protagonizando las batallas de Alma y Knight.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sacred-seven-shirogane-no-tsubasa.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sacred-seven-shirogane-no-tsubasa/",
+  "episodios": [
+    {
+      "id_origen": 22169,
+      "numero": 1,
+      "titulo": "Sacred Seven: Shirogane no Tsubasa",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29d1165b61ef7dc62cecf00ea22b1d93.jpg",
+      "url_origen": "https://jkanime.net/sacred-seven-shirogane-no-tsubasa/1/",
+      "publicado_en_origen": "2013-12-11 19:28:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1003",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:44:24+00:00"
+}

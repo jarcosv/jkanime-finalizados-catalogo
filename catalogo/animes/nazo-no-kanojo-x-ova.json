@@ -1,0 +1,29 @@
+{
+  "id_origen": 626,
+  "slug": "nazo-no-kanojo-x-ova",
+  "titulo": "Nazo no Kanojo X OVA",
+  "titulo_corto": "Nazo no Kanojo X OVA",
+  "sinopsis": "OVA incluida con el 9mo. volumen del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazo-no-kanojo-x-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nazo-no-kanojo-x-ova/",
+  "episodios": [
+    {
+      "id_origen": 16777,
+      "numero": 1,
+      "titulo": "Nazo no Kanojo X OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbb277905c67ac8f363f7a22e50eb95b.jpg",
+      "url_origen": "https://jkanime.net/nazo-no-kanojo-x-ova/1/",
+      "publicado_en_origen": "2012-08-27 20:33:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "626",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:07+00:00"
+}

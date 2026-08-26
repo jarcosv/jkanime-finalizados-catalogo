@@ -1,0 +1,69 @@
+{
+  "id_origen": 528,
+  "slug": "highschool-dxd-specials",
+  "titulo": "Highschool DxD Specials",
+  "titulo_corto": "Highschool DxD Specials",
+  "sinopsis": "Especiales del DVD/Blu-Ray de  Highscool DXD",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/highschool-dxd-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/highschool-dxd-specials/",
+  "episodios": [
+    {
+      "id_origen": 74533,
+      "numero": 1,
+      "titulo": "Highschool DxD Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0650fe3ca41508a791afcc4f158e0beb.jpg",
+      "url_origen": "https://jkanime.net/highschool-dxd-specials/1/",
+      "publicado_en_origen": "2026-06-19 22:47:27"
+    },
+    {
+      "id_origen": 74534,
+      "numero": 2,
+      "titulo": "Highschool DxD Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_746dcd443156cc7e50cbeacc9ad9a77f.jpg",
+      "url_origen": "https://jkanime.net/highschool-dxd-specials/2/",
+      "publicado_en_origen": "2026-06-19 22:47:27"
+    },
+    {
+      "id_origen": 74535,
+      "numero": 3,
+      "titulo": "Highschool DxD Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_273aa0965fadcdccb98bc4ecd14006dc.jpg",
+      "url_origen": "https://jkanime.net/highschool-dxd-specials/3/",
+      "publicado_en_origen": "2026-06-19 22:47:27"
+    },
+    {
+      "id_origen": 74536,
+      "numero": 4,
+      "titulo": "Highschool DxD Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c07d738b749d3fa110c6074efedf463d.jpg",
+      "url_origen": "https://jkanime.net/highschool-dxd-specials/4/",
+      "publicado_en_origen": "2026-06-19 22:47:27"
+    },
+    {
+      "id_origen": 74537,
+      "numero": 5,
+      "titulo": "Highschool DxD Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5d411e47f75518bfe2bfc00a10b04e0.jpg",
+      "url_origen": "https://jkanime.net/highschool-dxd-specials/5/",
+      "publicado_en_origen": "2026-06-19 22:47:27"
+    },
+    {
+      "id_origen": 74538,
+      "numero": 6,
+      "titulo": "Highschool DxD Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_194f4c53bb846d94c06fa054f6055752.jpg",
+      "url_origen": "https://jkanime.net/highschool-dxd-specials/6/",
+      "publicado_en_origen": "2026-06-19 22:47:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "528",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:30:35+00:00"
+}

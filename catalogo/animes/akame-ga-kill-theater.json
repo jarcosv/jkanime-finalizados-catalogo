@@ -1,0 +1,213 @@
+{
+  "id_origen": 1220,
+  "slug": "akame-ga-kill-theater",
+  "titulo": "Akame ga Kill! Theater",
+  "titulo_corto": "Akame ga Kill! Theater",
+  "sinopsis": "Pequeños especiales emitidos online.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/akame-ga-kill-theater.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/akame-ga-kill-theater/",
+  "episodios": [
+    {
+      "id_origen": 23988,
+      "numero": 1,
+      "titulo": "Akame ga Kill! Theater - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0abd6e6385c00b0960a292aa8522351.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/1/",
+      "publicado_en_origen": "2014-07-14 04:07:21"
+    },
+    {
+      "id_origen": 24000,
+      "numero": 2,
+      "titulo": "Akame ga Kill! Theater - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9adc4df9a0d423c165f63f40eb3a0df.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/2/",
+      "publicado_en_origen": "2014-07-15 13:18:13"
+    },
+    {
+      "id_origen": 24063,
+      "numero": 3,
+      "titulo": "Akame ga Kill! Theater - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f51cf26546d2015352cabae5d9b01b81.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/3/",
+      "publicado_en_origen": "2014-07-22 08:15:50"
+    },
+    {
+      "id_origen": 24122,
+      "numero": 4,
+      "titulo": "Akame ga Kill! Theater - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_251b4805008712ec04e69c6569bfb189.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/4/",
+      "publicado_en_origen": "2014-07-29 03:54:21"
+    },
+    {
+      "id_origen": 24192,
+      "numero": 5,
+      "titulo": "Akame ga Kill! Theater - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45c279002a2f09dafffe35f3ca26f309.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/5/",
+      "publicado_en_origen": "2014-08-05 00:20:23"
+    },
+    {
+      "id_origen": 24427,
+      "numero": 6,
+      "titulo": "Akame ga Kill! Theater - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be3811292c9b557753b303d5d194cf60.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/6/",
+      "publicado_en_origen": "2014-08-14 11:07:30"
+    },
+    {
+      "id_origen": 24508,
+      "numero": 7,
+      "titulo": "Akame ga Kill! Theater - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8c0e172cbf7b81bb804df0092b53ae9.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/7/",
+      "publicado_en_origen": "2014-08-21 14:58:13"
+    },
+    {
+      "id_origen": 24558,
+      "numero": 8,
+      "titulo": "Akame ga Kill! Theater - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b4f363a4a6eae200c5096791b87dcf2.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/8/",
+      "publicado_en_origen": "2014-08-27 15:00:45"
+    },
+    {
+      "id_origen": 24612,
+      "numero": 9,
+      "titulo": "Akame ga Kill! Theater - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76969f7fee96b8295e430c80528fa01b.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/9/",
+      "publicado_en_origen": "2014-09-01 15:34:11"
+    },
+    {
+      "id_origen": 24774,
+      "numero": 10,
+      "titulo": "Akame ga Kill! Theater - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_683a1c93fba8f45836af5ebf08c662f8.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/10/",
+      "publicado_en_origen": "2014-09-15 03:32:45"
+    },
+    {
+      "id_origen": 24775,
+      "numero": 11,
+      "titulo": "Akame ga Kill! Theater - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32a9499124964b7f18c19a85d13c1a05.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/11/",
+      "publicado_en_origen": "2014-09-15 03:39:19"
+    },
+    {
+      "id_origen": 24843,
+      "numero": 12,
+      "titulo": "Akame ga Kill! Theater - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_534345ffbb29478b3fce2db5de81be6f.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/12/",
+      "publicado_en_origen": "2014-09-23 03:29:43"
+    },
+    {
+      "id_origen": 24947,
+      "numero": 13,
+      "titulo": "Akame ga Kill! Theater - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44aeabc3c16b195ba97b91a17dfd6f05.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/13/",
+      "publicado_en_origen": "2014-09-29 03:52:55"
+    },
+    {
+      "id_origen": 25010,
+      "numero": 14,
+      "titulo": "Akame ga Kill! Theater - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8cae5112c2129ad4b825e8388c749b3d.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/14/",
+      "publicado_en_origen": "2014-10-06 12:53:47"
+    },
+    {
+      "id_origen": 25074,
+      "numero": 15,
+      "titulo": "Akame ga Kill! Theater - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9b3736658339a45ba4369383702a4fe.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/15/",
+      "publicado_en_origen": "2014-10-13 09:58:06"
+    },
+    {
+      "id_origen": 25150,
+      "numero": 16,
+      "titulo": "Akame ga Kill! Theater - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32600351773d885ac6fe1873947e7dfa.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/16/",
+      "publicado_en_origen": "2014-10-20 19:30:07"
+    },
+    {
+      "id_origen": 25222,
+      "numero": 17,
+      "titulo": "Akame ga Kill! Theater - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb02df1865e291f64cc263d80f5ae3a5.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/17/",
+      "publicado_en_origen": "2014-10-28 13:02:58"
+    },
+    {
+      "id_origen": 25288,
+      "numero": 18,
+      "titulo": "Akame ga Kill! Theater - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6f05a7baab2fe0eea07e59bd5b0b317.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/18/",
+      "publicado_en_origen": "2014-11-03 13:52:20"
+    },
+    {
+      "id_origen": 25403,
+      "numero": 19,
+      "titulo": "Akame ga Kill! Theater - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d268221f68f96be176c05c7de5ad9501.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/19/",
+      "publicado_en_origen": "2014-11-14 11:03:08"
+    },
+    {
+      "id_origen": 25581,
+      "numero": 20,
+      "titulo": "Akame ga Kill! Theater - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ee030658c15b8934be3d6202ded2b24.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/20/",
+      "publicado_en_origen": "2014-11-26 23:56:13"
+    },
+    {
+      "id_origen": 25582,
+      "numero": 21,
+      "titulo": "Akame ga Kill! Theater - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1212ef2e184032938c4aab379b13a471.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/21/",
+      "publicado_en_origen": "2014-11-27 01:01:42"
+    },
+    {
+      "id_origen": 25718,
+      "numero": 22,
+      "titulo": "Akame ga Kill! Theater - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa52fe4473729124230024795fc530df.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/22/",
+      "publicado_en_origen": "2014-12-08 12:53:18"
+    },
+    {
+      "id_origen": 25795,
+      "numero": 23,
+      "titulo": "Akame ga Kill! Theater - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d94c59b53ea6a9eec0a47ae789867098.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/23/",
+      "publicado_en_origen": "2014-12-13 14:10:16"
+    },
+    {
+      "id_origen": 25815,
+      "numero": 24,
+      "titulo": "Akame ga Kill! Theater - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5465772e1379d52a6ffc40444c7cbf09.jpg",
+      "url_origen": "https://jkanime.net/akame-ga-kill-theater/24/",
+      "publicado_en_origen": "2014-12-14 20:43:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1220",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:15:49+00:00"
+}

@@ -1,0 +1,117 @@
+{
+  "id_origen": 2693,
+  "slug": "uzaki-chan-wa-asobitai",
+  "titulo": "Uzaki-chan wa Asobitai!",
+  "titulo_corto": "Uzaki-chan wa Asobitai!",
+  "sinopsis": "El único deseo de Sakurai Shinichi es un poco de paz y tranquilidad. Pero Uzaki Hana, su bullicioso y bien dotado estudiante de secundaria, tiene otros planes. Todo lo que ella quiere es pasar el rato y burlarse de él. Con la ayuda de su encanto y su persistencia, ¡este podría ser el comienzo de una hermosa relación!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/uzaki-chan-wa-asobitai.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/",
+  "episodios": [
+    {
+      "id_origen": 43129,
+      "numero": 1,
+      "titulo": "Uzaki-chan wa Asobitai! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f9f69256d91652afad06c9c4894cce6.jpg",
+      "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/1/",
+      "publicado_en_origen": "2020-07-10 14:15:24"
+    },
+    {
+      "id_origen": 43161,
+      "numero": 2,
+      "titulo": "Uzaki-chan wa Asobitai! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b07237be800d559b7ab9eb2398d4c7d5.jpg",
+      "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/2/",
+      "publicado_en_origen": "2020-07-17 13:56:52"
+    },
+    {
+      "id_origen": 43194,
+      "numero": 3,
+      "titulo": "Uzaki-chan wa Asobitai! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56e4bd3f359025fba2d2e080cb2c25a9.jpg",
+      "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/3/",
+      "publicado_en_origen": "2020-07-24 13:29:07"
+    },
+    {
+      "id_origen": 43235,
+      "numero": 4,
+      "titulo": "Uzaki-chan wa Asobitai! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_185579414f75374765553e6113a4b9ee.jpg",
+      "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/4/",
+      "publicado_en_origen": "2020-07-31 13:35:29"
+    },
+    {
+      "id_origen": 43273,
+      "numero": 5,
+      "titulo": "Uzaki-chan wa Asobitai! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15bf3e20b7f13928232ff17a02c62f8b.jpg",
+      "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/5/",
+      "publicado_en_origen": "2020-08-07 14:09:14"
+    },
+    {
+      "id_origen": 43312,
+      "numero": 6,
+      "titulo": "Uzaki-chan wa Asobitai! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ea8a1f62e96aa638379b4cdd5090013.jpg",
+      "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/6/",
+      "publicado_en_origen": "2020-08-14 13:31:12"
+    },
+    {
+      "id_origen": 43349,
+      "numero": 7,
+      "titulo": "Uzaki-chan wa Asobitai! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ff5f362073a3e37fcf98867f5b4f527.jpg",
+      "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/7/",
+      "publicado_en_origen": "2020-08-21 14:03:55"
+    },
+    {
+      "id_origen": 43401,
+      "numero": 8,
+      "titulo": "Uzaki-chan wa Asobitai! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20fd0c71352a517c6ae07cb4b9f72c01.jpg",
+      "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/8/",
+      "publicado_en_origen": "2020-08-28 12:57:47"
+    },
+    {
+      "id_origen": 43464,
+      "numero": 9,
+      "titulo": "Uzaki-chan wa Asobitai! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c1487a542f4b4c0b2f14890514f178b.jpg",
+      "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/9/",
+      "publicado_en_origen": "2020-09-04 13:36:36"
+    },
+    {
+      "id_origen": 43499,
+      "numero": 10,
+      "titulo": "Uzaki-chan wa Asobitai! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e74df46fbad5c5dfe88af7f33125a3f7.jpg",
+      "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/10/",
+      "publicado_en_origen": "2020-09-11 13:34:42"
+    },
+    {
+      "id_origen": 43535,
+      "numero": 11,
+      "titulo": "Uzaki-chan wa Asobitai! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_581b87f8c38532b6e3cbb05a43836400.jpg",
+      "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/11/",
+      "publicado_en_origen": "2020-09-18 13:47:21"
+    },
+    {
+      "id_origen": 43604,
+      "numero": 12,
+      "titulo": "Uzaki-chan wa Asobitai! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a18da6c55f8f8dd30381f25a3b4385bf.jpg",
+      "url_origen": "https://jkanime.net/uzaki-chan-wa-asobitai/12/",
+      "publicado_en_origen": "2020-09-25 16:16:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2693",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:51:24+00:00"
+}

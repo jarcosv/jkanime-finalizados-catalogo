@@ -1,0 +1,85 @@
+{
+  "id_origen": 4503,
+  "slug": "bubblegum-crisis",
+  "titulo": "Bubblegum Crisis",
+  "titulo_corto": "Bubblegum Crisis",
+  "sinopsis": "Es el año 2032, siete años después de que el segundo gran terremoto de Kanto devastara Tokio. Ahora, la ciudad renace como MegaTokio, construida gracias al trabajo de unas bestias mecánicas conocidas como «Boomers». Creada originalmente para beneficiar a la humanidad, la misteriosa corporación conocida como Genom ahora produce Boomers con un increíble poder destructivo como un nuevo tipo de armamento avanzado, capaces de disfrazarse de humanos.\r\n\r\nLa Policía AD es una nueva unidad especial creada para hacer frente al creciente número de delitos relacionados con los Boomers. Abrumada por la gran cantidad de delitos y la disparidad de fuerzas, la Policía AD ofrece poca resistencia a los Boomers. Una misteriosa fuerza vigilante conocida como Knight Sabers, que lleva trajes de combate más avanzados que los militares, es la única esperanza de protección de los ciudadanos. Lideradas por Sylia Stingray, Priscilla «Priss» Asagiri, Nene Romanova y Linna Yamazaki, estas hermosas chicas eliminan a cualquier Boomer que se salga de la línea.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bubblegum-crisis.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bubblegum-crisis/",
+  "episodios": [
+    {
+      "id_origen": 69976,
+      "numero": 1,
+      "titulo": "Bubblegum Crisis - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4725bd9d5d039533395823446253f26a.jpg",
+      "url_origen": "https://jkanime.net/bubblegum-crisis/1/",
+      "publicado_en_origen": "2025-12-11 09:38:58"
+    },
+    {
+      "id_origen": 69977,
+      "numero": 2,
+      "titulo": "Bubblegum Crisis - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_226605d0a46e9466b9dfb689ef15b917.jpg",
+      "url_origen": "https://jkanime.net/bubblegum-crisis/2/",
+      "publicado_en_origen": "2025-12-11 09:38:58"
+    },
+    {
+      "id_origen": 69978,
+      "numero": 3,
+      "titulo": "Bubblegum Crisis - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5dcfe7a70a6c85a1df64efe1eee6b0d6.jpg",
+      "url_origen": "https://jkanime.net/bubblegum-crisis/3/",
+      "publicado_en_origen": "2025-12-11 09:38:58"
+    },
+    {
+      "id_origen": 69979,
+      "numero": 4,
+      "titulo": "Bubblegum Crisis - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b214e92ca0b869773400a43522d2926.jpg",
+      "url_origen": "https://jkanime.net/bubblegum-crisis/4/",
+      "publicado_en_origen": "2025-12-11 09:38:58"
+    },
+    {
+      "id_origen": 69980,
+      "numero": 5,
+      "titulo": "Bubblegum Crisis - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c2d827b8e30f9e7af3b44bd5aa3b939.jpg",
+      "url_origen": "https://jkanime.net/bubblegum-crisis/5/",
+      "publicado_en_origen": "2025-12-11 09:38:58"
+    },
+    {
+      "id_origen": 69981,
+      "numero": 6,
+      "titulo": "Bubblegum Crisis - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6bc21dc459adcc0a5316889edec4486c.jpg",
+      "url_origen": "https://jkanime.net/bubblegum-crisis/6/",
+      "publicado_en_origen": "2025-12-11 09:38:58"
+    },
+    {
+      "id_origen": 69982,
+      "numero": 7,
+      "titulo": "Bubblegum Crisis - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d166109c822680dee12a336db17920b2.jpg",
+      "url_origen": "https://jkanime.net/bubblegum-crisis/7/",
+      "publicado_en_origen": "2025-12-11 09:38:58"
+    },
+    {
+      "id_origen": 69983,
+      "numero": 8,
+      "titulo": "Bubblegum Crisis - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e59876e5c45853fd0f471059fbbe863.jpg",
+      "url_origen": "https://jkanime.net/bubblegum-crisis/8/",
+      "publicado_en_origen": "2025-12-11 09:38:58"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4503",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:21:54+00:00"
+}

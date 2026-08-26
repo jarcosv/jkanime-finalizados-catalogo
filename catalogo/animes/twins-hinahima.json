@@ -1,0 +1,29 @@
+{
+  "id_origen": 4076,
+  "slug": "twins-hinahima",
+  "titulo": "Twins Hinahima",
+  "titulo_corto": "Twins Hinahima",
+  "sinopsis": "Dos chicas de instituto, Himari y Hinana, sueñan con convertirse en virales. Mientras graban todo tipo de temas que podrían convertirse en candente actualidad, notan algo raro y entran en un mundo extraño.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/twins-hinahima.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/twins-hinahima/",
+  "episodios": [
+    {
+      "id_origen": 62608,
+      "numero": 1,
+      "titulo": "Twins Hinahima - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c994032d575982bdb710c4c1bdf7387.jpg",
+      "url_origen": "https://jkanime.net/twins-hinahima/1/",
+      "publicado_en_origen": "2025-04-09 11:46:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4076",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:50:50+00:00"
+}

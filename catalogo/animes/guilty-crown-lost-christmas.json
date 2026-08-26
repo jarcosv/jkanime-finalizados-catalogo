@@ -1,0 +1,29 @@
+{
+  "id_origen": 612,
+  "slug": "guilty-crown-lost-christmas",
+  "titulo": "Guilty Crown: Lost Christmas",
+  "titulo_corto": "Guilty Crown: Lost Christmas",
+  "sinopsis": "Corto Animado de 12 Minutos de duración incluido como extra en la Edicion Limitada del videojuego de PC.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/guilty-crown-lost-christmas.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/guilty-crown-lost-christmas/",
+  "episodios": [
+    {
+      "id_origen": 16494,
+      "numero": 1,
+      "titulo": "Guilty Crown: Lost Christmas",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27253445de7e4ce1cff3853ee2b357b2.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown-lost-christmas/1/",
+      "publicado_en_origen": "2012-07-30 12:06:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "612",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:29:11+00:00"
+}

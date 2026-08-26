@@ -1,0 +1,37 @@
+{
+  "id_origen": 673,
+  "slug": "accel-world-ex",
+  "titulo": "Accel World EX",
+  "titulo_corto": "Accel World EX",
+  "sinopsis": "Ova de Accel World incluidas en la edicion limitada del juego para PS3",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/accel-world-ex.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/accel-world-ex/",
+  "episodios": [
+    {
+      "id_origen": 17599,
+      "numero": 1,
+      "titulo": "Accel World OVA: Ginyoku no Kakusei",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae64862963de122e67bd777f85f5bfb9.jpg",
+      "url_origen": "https://jkanime.net/accel-world-ex/1/",
+      "publicado_en_origen": "2012-09-29 14:48:24"
+    },
+    {
+      "id_origen": 19492,
+      "numero": 2,
+      "titulo": "Accel World EX - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8baf3a74f2ae5c8d592cd9d9000fa931.jpg",
+      "url_origen": "https://jkanime.net/accel-world-ex/2/",
+      "publicado_en_origen": "2013-03-05 15:10:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "673",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:15:06+00:00"
+}

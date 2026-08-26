@@ -1,0 +1,29 @@
+{
+  "id_origen": 4836,
+  "slug": "luca",
+  "titulo": "Luca",
+  "titulo_corto": "Luca",
+  "sinopsis": "El cortometraje narra la historia de una estudiante, Nene, que se encuentra con una entidad capaz de cambiar de forma llamada Luca.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/luca.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/luca/",
+  "episodios": [
+    {
+      "id_origen": 74479,
+      "numero": 1,
+      "titulo": "Luca",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7365c6f56e231e96955bb1b3e214361.jpg",
+      "url_origen": "https://jkanime.net/luca/1/",
+      "publicado_en_origen": "2026-06-20 01:21:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4836",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:36:50+00:00"
+}

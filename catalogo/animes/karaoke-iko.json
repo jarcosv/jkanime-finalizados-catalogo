@@ -1,0 +1,61 @@
+{
+  "id_origen": 4176,
+  "slug": "karaoke-iko",
+  "titulo": "Karaoke Iko!",
+  "titulo_corto": "Karaoke Iko!",
+  "sinopsis": "Nada preocupa más a Satomi Oka que la inminente competencia final de coro de su carrera en la escuela secundaria, hasta que un extraño lo aborda desde las sombras y le exige: \"¡Vamos a hacer karaoke!\" Como yakuza, Kyouji Narita no se asusta fácilmente, pero una perspectiva aterradora lo ha llevado a buscar la ayuda de Satomi. ¡El jefe está organizando un concurso de karaoke, y el perdedor se verá obligado a hacerse un tatuaje para ser seleccionado y aplicado tortuosamente por el propio jefe! Oka ha asistido a muchos ensayos vocales a lo largo de los años, ¡pero nunca a sesiones de karaoke uno a uno con un gánster!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/karaoke-iko.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/karaoke-iko/",
+  "episodios": [
+    {
+      "id_origen": 65135,
+      "numero": 1,
+      "titulo": "Karaoke Iko! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0630ad6b8ba8788bc1f492aff8c13d8.jpg",
+      "url_origen": "https://jkanime.net/karaoke-iko/1/",
+      "publicado_en_origen": "2025-07-25 01:08:38"
+    },
+    {
+      "id_origen": 65550,
+      "numero": 2,
+      "titulo": "Karaoke Iko! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ea032e28391d8b53babe75a4d394efa.jpg",
+      "url_origen": "https://jkanime.net/karaoke-iko/2/",
+      "publicado_en_origen": "2025-07-31 18:26:04"
+    },
+    {
+      "id_origen": 66082,
+      "numero": 3,
+      "titulo": "Karaoke Iko! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_143f2ccaa3cdfda3bf861c0c30e1c8fe.jpg",
+      "url_origen": "https://jkanime.net/karaoke-iko/3/",
+      "publicado_en_origen": "2025-08-07 15:02:10"
+    },
+    {
+      "id_origen": 66493,
+      "numero": 4,
+      "titulo": "Karaoke Iko! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23755f07d4be0e2a82015a349e7b7c87.jpg",
+      "url_origen": "https://jkanime.net/karaoke-iko/4/",
+      "publicado_en_origen": "2025-08-14 13:40:31"
+    },
+    {
+      "id_origen": 67677,
+      "numero": 5,
+      "titulo": "Karaoke Iko! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37b7cf732c1caaf4a462dcbfd0ef3cd7.jpg",
+      "url_origen": "https://jkanime.net/karaoke-iko/5/",
+      "publicado_en_origen": "2025-09-25 15:47:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4176",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:34:03+00:00"
+}

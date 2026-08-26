@@ -1,0 +1,221 @@
+{
+  "id_origen": 1442,
+  "slug": "one-outs",
+  "titulo": "One Outs",
+  "titulo_corto": "One Outs",
+  "sinopsis": "La historia se basa en un pitcher llamado Tokuchi Tōa capaz de lanzar rectas a tan solo 134 km/h (83 millas/h), a pesar de no contar con un amplio repertorio de lanzamientos ni contar con una buena velocidad es el rey indiscutible de una forma de béisbol llamda \"One Out\". La historia empieza cuando Hiromichi Kojima; el bateador estrella del ficticio equipo de los Lycaons de la Liga Japonesa del Pacífico, viaja a la isla de Okinawa para entrenarse y superar una mala racha y aquí es donde conoce a Tokuchi. Debido a la insistencia de Kojima, Tokuchi firma con los Lycaons pero con un contrato inusual: gana 5.000.000 yen por cada bateador que elimine, pero pierde 50.000.000 de yen por cada punto que pierda, significando esto que no puede dar bases por bola, ni permitir hits ni errores. Llegarán o no los Lycaons a ganar la liga...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-outs.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-outs/",
+  "episodios": [
+    {
+      "id_origen": 26688,
+      "numero": 1,
+      "titulo": "One Outs - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cb9b6afe97b8c5fffb19af9227f8a36.jpg",
+      "url_origen": "https://jkanime.net/one-outs/1/",
+      "publicado_en_origen": "2015-02-12 02:32:23"
+    },
+    {
+      "id_origen": 26689,
+      "numero": 2,
+      "titulo": "One Outs - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c1b748dffe74069de48429ee20cfc96.jpg",
+      "url_origen": "https://jkanime.net/one-outs/2/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26690,
+      "numero": 3,
+      "titulo": "One Outs - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_005fa89da7d48e0c0cd6536000ed2cb5.jpg",
+      "url_origen": "https://jkanime.net/one-outs/3/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26691,
+      "numero": 4,
+      "titulo": "One Outs - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_408c43f7f18fd6b4f50bf3857aecbd3f.jpg",
+      "url_origen": "https://jkanime.net/one-outs/4/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26692,
+      "numero": 5,
+      "titulo": "One Outs - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d564b42a715a624dbc939d5434e6262.jpg",
+      "url_origen": "https://jkanime.net/one-outs/5/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26693,
+      "numero": 6,
+      "titulo": "One Outs - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14d9f3a29e7fb45297564da4fe44473e.jpg",
+      "url_origen": "https://jkanime.net/one-outs/6/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26694,
+      "numero": 7,
+      "titulo": "One Outs - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9577390e8eeb4fae6241266d2f2ab279.jpg",
+      "url_origen": "https://jkanime.net/one-outs/7/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26695,
+      "numero": 8,
+      "titulo": "One Outs - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff0a431a29c728e766168d412be85567.jpg",
+      "url_origen": "https://jkanime.net/one-outs/8/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26696,
+      "numero": 9,
+      "titulo": "One Outs - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a03175e68893309a3c69d0b9e018bcca.jpg",
+      "url_origen": "https://jkanime.net/one-outs/9/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26697,
+      "numero": 10,
+      "titulo": "One Outs - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e7f535455049bda7e8c9df49e3d293c.jpg",
+      "url_origen": "https://jkanime.net/one-outs/10/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26698,
+      "numero": 11,
+      "titulo": "One Outs - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45b60dbddc4b267a67ced2c509beb4f2.jpg",
+      "url_origen": "https://jkanime.net/one-outs/11/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26699,
+      "numero": 12,
+      "titulo": "One Outs - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1124ba177f7d0f77f243297b70d5b005.jpg",
+      "url_origen": "https://jkanime.net/one-outs/12/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26700,
+      "numero": 13,
+      "titulo": "One Outs - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60ab18c55fc1bf45b70467fbe57fe52f.jpg",
+      "url_origen": "https://jkanime.net/one-outs/13/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26701,
+      "numero": 14,
+      "titulo": "One Outs - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99e2065433798079f2164a8ff38630c0.jpg",
+      "url_origen": "https://jkanime.net/one-outs/14/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26702,
+      "numero": 15,
+      "titulo": "One Outs - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_968d86564d7a6e674ffc4189b4e68009.jpg",
+      "url_origen": "https://jkanime.net/one-outs/15/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26703,
+      "numero": 16,
+      "titulo": "One Outs - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c9732f5f96c20148599b15c49030fd6.jpg",
+      "url_origen": "https://jkanime.net/one-outs/16/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26704,
+      "numero": 17,
+      "titulo": "One Outs - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5e07cc9b49607a00a6d5c9be9b2c364.jpg",
+      "url_origen": "https://jkanime.net/one-outs/17/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26705,
+      "numero": 18,
+      "titulo": "One Outs - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_066dac329055466b3d5094adc421744f.jpg",
+      "url_origen": "https://jkanime.net/one-outs/18/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26706,
+      "numero": 19,
+      "titulo": "One Outs - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f7a60f5b11570565d67df2d0c4135c7.jpg",
+      "url_origen": "https://jkanime.net/one-outs/19/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26707,
+      "numero": 20,
+      "titulo": "One Outs - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bbb6e4fb82cc56a8124b8e4dc22a28e.jpg",
+      "url_origen": "https://jkanime.net/one-outs/20/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26708,
+      "numero": 21,
+      "titulo": "One Outs - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_960ece0c426539e38c52b22a0c676482.jpg",
+      "url_origen": "https://jkanime.net/one-outs/21/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26709,
+      "numero": 22,
+      "titulo": "One Outs - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4a12972fe22abc2a39bf7aff3e8a534.jpg",
+      "url_origen": "https://jkanime.net/one-outs/22/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26710,
+      "numero": 23,
+      "titulo": "One Outs - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aefcbdbbfe049e42b4392e21cde2f9c4.jpg",
+      "url_origen": "https://jkanime.net/one-outs/23/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26711,
+      "numero": 24,
+      "titulo": "One Outs - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45fe7c4d0a9c4104b3157fea2f233ad5.jpg",
+      "url_origen": "https://jkanime.net/one-outs/24/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    },
+    {
+      "id_origen": 26712,
+      "numero": 25,
+      "titulo": "One Outs - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_621937d0e97e2559f2170a66a2218089.jpg",
+      "url_origen": "https://jkanime.net/one-outs/25/",
+      "publicado_en_origen": "2015-02-12 02:32:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:23+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1442",
+  "cantidad_episodios_declarada": 25,
+  "detalle_extraido_en": "2026-08-26T18:41:05+00:00"
+}

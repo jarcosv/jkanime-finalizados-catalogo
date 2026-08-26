@@ -1,0 +1,29 @@
+{
+  "id_origen": 3474,
+  "slug": "suzume-no-tojimari",
+  "titulo": "Suzume no Tojimari",
+  "titulo_corto": "Suzume no Tojimari",
+  "sinopsis": "Un día, de camino a la escuela, Suzume Iwato se topa con Souta Munakata, un joven que busca áreas abandonadas. La chica de secundaria dirige a Souta a una ruina cercana, pero por pura curiosidad, ella misma decide dirigirse al mismo destino.\n\nUna vez allí, Suzume descubre una puerta aislada con un universo onírico más allá, un lugar que puede ver y sentir, pero al que no puede entrar. Una piedra extraña descansa en el suelo cerca, pero se convierte en una criatura parecida a un gato y se escabulle cuando Suzume la levanta. Repentinamente asustada, regresa a su escuela, sin darse cuenta de que su acto de dejar la puerta abierta tendrá consecuencias.\n\nCon la \"piedra angular\" liberada, el mal dentro del otro universo ahora puede escapar libremente y causar estragos en todo Japón. Con la intención de corregir su peligroso error, Suzume se une a Souta, cuyo verdadero objetivo es evitar que el mal se encone, para encontrar y cerrar todas las puertas abiertas antes de que el país sea destruido.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/suzume-no-tojimari.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/suzume-no-tojimari/",
+  "episodios": [
+    {
+      "id_origen": 53297,
+      "numero": 1,
+      "titulo": "Suzume no Tojimari",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_231f6c949c35826f38595be5a45ba19d.jpg",
+      "url_origen": "https://jkanime.net/suzume-no-tojimari/1/",
+      "publicado_en_origen": "2023-07-01 22:15:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3474",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:48:09+00:00"
+}

@@ -1,0 +1,829 @@
+{
+  "id_origen": 195,
+  "slug": "slam-dunk",
+  "titulo": "Slam Dunk",
+  "titulo_corto": "Slam Dunk",
+  "sinopsis": "Un estudiante de preparatoria llamado Hanamichi Sakuragi, que sufre una serie de rechazos amorosos hasta que un buen día conoce a una chica a quien le fascina el baloncesto. A causa de esto Hanamichi fingirá ser un deportista y se inscribirá en el club de baloncesto del colegio con la esperanza de poder impresionarla y salir con ella. Aunque con el tiempo descubrirá en el baloncesto un deporte que lo exigirá y pondrá a prueba sacando lo mejor de él.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/slam-dunk.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/slam-dunk/",
+  "episodios": [
+    {
+      "id_origen": 4696,
+      "numero": 1,
+      "titulo": "Slam Dunk 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7d35509ab19d0cd2256a219de0fe0ff.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/1/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4697,
+      "numero": 2,
+      "titulo": "Slam Dunk 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_700fdb2ba62d4554dc268c65add4b16e.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/2/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4698,
+      "numero": 3,
+      "titulo": "Slam Dunk 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1068bceb19323fe72b2b344ccf85c254.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/3/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4699,
+      "numero": 4,
+      "titulo": "Slam Dunk 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4772c1b987f1f6d8c9d4ef0f3b764f7a.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/4/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4700,
+      "numero": 5,
+      "titulo": "Slam Dunk 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4414e538a5475ec0244673b7f2f7dbb.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/5/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4701,
+      "numero": 6,
+      "titulo": "Slam Dunk 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9ad5f2808f68eea468621a04c49efe1.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/6/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4702,
+      "numero": 7,
+      "titulo": "Slam Dunk 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84fdbc3ac902561c00871c9b0c226756.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/7/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4703,
+      "numero": 8,
+      "titulo": "Slam Dunk 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac4395adcb3da3b2af3d3972d7a10221.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/8/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4704,
+      "numero": 9,
+      "titulo": "Slam Dunk 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecb47fbb07a752413640f82a945530f8.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/9/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4705,
+      "numero": 10,
+      "titulo": "Slam Dunk 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d33174c464c877fb03e77efdab4ae804.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/10/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4706,
+      "numero": 11,
+      "titulo": "Slam Dunk 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_daad8d509446c856e52d79f897232876.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/11/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4707,
+      "numero": 12,
+      "titulo": "Slam Dunk 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fd98f856d3ca2086168f264a117ed7c.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/12/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4708,
+      "numero": 13,
+      "titulo": "Slam Dunk 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db182d2552835bec774847e06406bfa2.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/13/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4709,
+      "numero": 14,
+      "titulo": "Slam Dunk 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc9c8c705927bf419147ab7491c54896.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/14/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4710,
+      "numero": 15,
+      "titulo": "Slam Dunk 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a78e17c964d3593d89cde3fb678f6a14.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/15/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4711,
+      "numero": 16,
+      "titulo": "Slam Dunk 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b52340b4de4566b804c9880aa0b4af5f.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/16/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4712,
+      "numero": 17,
+      "titulo": "Slam Dunk 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd294168a234d75851d6f26f02723ab1.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/17/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4713,
+      "numero": 18,
+      "titulo": "Slam Dunk 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_007d4a1214289aea09b9759ae1324e96.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/18/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4714,
+      "numero": 19,
+      "titulo": "Slam Dunk 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb59b747f88a35e0d452377f60f7c25f.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/19/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4715,
+      "numero": 20,
+      "titulo": "Slam Dunk 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b0fa0e4c041548bb6289e15d865a696.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/20/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4716,
+      "numero": 21,
+      "titulo": "Slam Dunk 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc5fcb0018cecacba559dc512740091b.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/21/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4717,
+      "numero": 22,
+      "titulo": "Slam Dunk 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a344877f11195aaf947ccfe48ee9c89.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/22/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4718,
+      "numero": 23,
+      "titulo": "Slam Dunk 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb181e83b9ac6be1b28b2a2b26dcd73e.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/23/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4719,
+      "numero": 24,
+      "titulo": "Slam Dunk 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da2bd66b01e29045b235112639d02347.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/24/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4720,
+      "numero": 25,
+      "titulo": "Slam Dunk 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d71dd235287466052f1630f31bde7932.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/25/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4721,
+      "numero": 26,
+      "titulo": "Slam Dunk 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c47e93742387750baba2e238558fa12d.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/26/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4722,
+      "numero": 27,
+      "titulo": "Slam Dunk 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1b035b71ef5f8e1e7c1d6c0c5032faa.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/27/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4723,
+      "numero": 28,
+      "titulo": "Slam Dunk 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53420bd6e6798761679772a7dd012674.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/28/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4724,
+      "numero": 29,
+      "titulo": "Slam Dunk 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd03de08bfdff4d8ab01117276564cc7.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/29/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4725,
+      "numero": 30,
+      "titulo": "Slam Dunk 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_102b905d54a908ae26000ed4801734b0.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/30/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4726,
+      "numero": 31,
+      "titulo": "Slam Dunk 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9ff6540c092abd6a77908c034710a04.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/31/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4727,
+      "numero": 32,
+      "titulo": "Slam Dunk 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fb52e71b837628ac16539c1ff911667.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/32/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4728,
+      "numero": 33,
+      "titulo": "Slam Dunk 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71f07bf95f0113eefab12552181dd832.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/33/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4729,
+      "numero": 34,
+      "titulo": "Slam Dunk 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a425170bf40e8d6ee473b271d96dae18.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/34/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4730,
+      "numero": 35,
+      "titulo": "Slam Dunk 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13d7dc096493e1f77fb4ccf3eaf79df1.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/35/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4731,
+      "numero": 36,
+      "titulo": "Slam Dunk 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_096ffc299200f51751b08da6d865ae95.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/36/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4732,
+      "numero": 37,
+      "titulo": "Slam Dunk 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd1d83de2517a02d4e221ede9a681432.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/37/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4733,
+      "numero": 38,
+      "titulo": "Slam Dunk 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_901797aebf0b23ecbab534d61ad33bb1.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/38/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4734,
+      "numero": 39,
+      "titulo": "Slam Dunk 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_373e4c5d8edfa8b74fd4b6791d0cf6dc.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/39/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4735,
+      "numero": 40,
+      "titulo": "Slam Dunk 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a512294422de868f8474d22344636f16.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/40/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4736,
+      "numero": 41,
+      "titulo": "Slam Dunk 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8df6a65941e4c9da40a4fb899de65c55.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/41/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4737,
+      "numero": 42,
+      "titulo": "Slam Dunk 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b22ed7eafe03b63112ef3ff52f0b99db.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/42/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4738,
+      "numero": 43,
+      "titulo": "Slam Dunk 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2e06e9a80370952f6ec5463c77cbace.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/43/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4739,
+      "numero": 44,
+      "titulo": "Slam Dunk 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3507289cfdc8c9ae93f4098111a13f9.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/44/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4740,
+      "numero": 45,
+      "titulo": "Slam Dunk 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f304eddb4ad6007a3093fd6d963a1d2.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/45/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4741,
+      "numero": 46,
+      "titulo": "Slam Dunk 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5585a4d4b12277fee5cad0880611bc6.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/46/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4742,
+      "numero": 47,
+      "titulo": "Slam Dunk 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0205b87490c847182672e8d371e9948.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/47/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4743,
+      "numero": 48,
+      "titulo": "Slam Dunk 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db9e6eef2eb4f0d8c55ecc7beaf2d78d.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/48/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4744,
+      "numero": 49,
+      "titulo": "Slam Dunk 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42778ef0b5805a96f9511e20b5611fce.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/49/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4745,
+      "numero": 50,
+      "titulo": "Slam Dunk 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01b6397888c09d84f3dc89d807aa1004.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/50/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4746,
+      "numero": 51,
+      "titulo": "Slam Dunk 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de905148259ea27fa49e2303ef2e0017.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/51/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4747,
+      "numero": 52,
+      "titulo": "Slam Dunk 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b645e524a1512ce68947d3b9c948aa46.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/52/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4748,
+      "numero": 53,
+      "titulo": "Slam Dunk 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b65f2ecd2900ba6ae49a14d9c4b16fb4.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/53/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4749,
+      "numero": 54,
+      "titulo": "Slam Dunk 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91665c93b72f55b2e4f1048fc8289d04.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/54/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4750,
+      "numero": 55,
+      "titulo": "Slam Dunk 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39dd987a9d27f1045aa0ad3ed5995dd2.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/55/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4751,
+      "numero": 56,
+      "titulo": "Slam Dunk 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebad33b3c9fa1d10327bb55f9e79e2f3.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/56/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4752,
+      "numero": 57,
+      "titulo": "Slam Dunk 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91299a41773c667d2ee8cddc3f6eeb64.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/57/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4753,
+      "numero": 58,
+      "titulo": "Slam Dunk 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfc6aa246e88ab3e32caeaaecf433550.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/58/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4754,
+      "numero": 59,
+      "titulo": "Slam Dunk 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84899ae725ba49884f4c85c086f1b340.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/59/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4755,
+      "numero": 60,
+      "titulo": "Slam Dunk 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7c628dced6a691f1fd31aebc647a0a8.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/60/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4756,
+      "numero": 61,
+      "titulo": "Slam Dunk 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c678aec6e828c899b32a099c14ee882c.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/61/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4757,
+      "numero": 62,
+      "titulo": "Slam Dunk 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d80126524c1e9641333502c664fc6ca1.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/62/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4758,
+      "numero": 63,
+      "titulo": "Slam Dunk 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bfce127947574733b19da0f30739fcd.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/63/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4759,
+      "numero": 64,
+      "titulo": "Slam Dunk 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d914a6c6d93c8df063b9099a076a488c.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/64/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4760,
+      "numero": 65,
+      "titulo": "Slam Dunk 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7d161ac8d8a76529d39d9f5b4249ccb.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/65/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4761,
+      "numero": 66,
+      "titulo": "Slam Dunk 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d2b2061826a5df3221116a5085a6052.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/66/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4762,
+      "numero": 67,
+      "titulo": "Slam Dunk 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea81a3d20bf98ef2c9bef9dc24ec777a.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/67/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4763,
+      "numero": 68,
+      "titulo": "Slam Dunk 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_191c62d342811d1a0d3d0528ec35cd2d.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/68/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4764,
+      "numero": 69,
+      "titulo": "Slam Dunk 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f60f6b0d129342bb6a226305aaf842b7.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/69/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4765,
+      "numero": 70,
+      "titulo": "Slam Dunk 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cfe795a0a3c7bc1683f2efd8837dde0c.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/70/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4766,
+      "numero": 71,
+      "titulo": "Slam Dunk 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9abe36658bff8131d5a0923ebc196d0e.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/71/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4767,
+      "numero": 72,
+      "titulo": "Slam Dunk 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3f61f3a8034cbfb5ecf0d785e750fb3.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/72/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4768,
+      "numero": 73,
+      "titulo": "Slam Dunk 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a77befc3b608d6ed363567685f70e1e.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/73/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4769,
+      "numero": 74,
+      "titulo": "Slam Dunk 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dab10c50dc668cd8560df444ff3a4227.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/74/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4770,
+      "numero": 75,
+      "titulo": "Slam Dunk 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dcf9082a17123c1adc46b4f19dc90e6c.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/75/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4771,
+      "numero": 76,
+      "titulo": "Slam Dunk 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a571fe98a2ba453e84923b447d79cff.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/76/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4772,
+      "numero": 77,
+      "titulo": "Slam Dunk 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5d736809766d46260d816d8dbc9eb44.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/77/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4773,
+      "numero": 78,
+      "titulo": "Slam Dunk 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3eae62bba9ddf64f69d49dc48e2dd214.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/78/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4774,
+      "numero": 79,
+      "titulo": "Slam Dunk 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c5ebe834bb61a2e5ab8ef38f8d940f3.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/79/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4775,
+      "numero": 80,
+      "titulo": "Slam Dunk 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_538a50fb36b97123adc3627cbdb223bf.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/80/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4776,
+      "numero": 81,
+      "titulo": "Slam Dunk 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04c6906524cd877e833fe26ddaddc62f.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/81/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4777,
+      "numero": 82,
+      "titulo": "Slam Dunk 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c36b1132ac829ece87dda55d77ac06a4.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/82/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4778,
+      "numero": 83,
+      "titulo": "Slam Dunk 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_085ccaddbd3aa270b1d72beef6bbc5ca.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/83/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4779,
+      "numero": 84,
+      "titulo": "Slam Dunk 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eafc8fe9c61d6760ae284c29840bbf0b.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/84/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4780,
+      "numero": 85,
+      "titulo": "Slam Dunk 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e50a717c4febd75e03b348b0be851fa.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/85/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4781,
+      "numero": 86,
+      "titulo": "Slam Dunk 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a50d83a1e70e9d96c3357438aed7a44.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/86/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4782,
+      "numero": 87,
+      "titulo": "Slam Dunk 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a376802c0811f1b9088828288eb0d3f0.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/87/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4783,
+      "numero": 88,
+      "titulo": "Slam Dunk 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8289889263db4a40463e3f358bb7c7a1.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/88/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4784,
+      "numero": 89,
+      "titulo": "Slam Dunk 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5dedb42b34e50082065a783265ce28a8.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/89/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4785,
+      "numero": 90,
+      "titulo": "Slam Dunk 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d0787d664c95f8c2adb1da311af3c78.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/90/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4786,
+      "numero": 91,
+      "titulo": "Slam Dunk 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d3b7f1f8a7625f8d5e700dcf0d9ae68.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/91/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4787,
+      "numero": 92,
+      "titulo": "Slam Dunk 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5c1bda1194f9423d744e0ef67df94ee.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/92/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4788,
+      "numero": 93,
+      "titulo": "Slam Dunk 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48c00ae965e23b2869f8eaa13d2dcefa.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/93/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4789,
+      "numero": 94,
+      "titulo": "Slam Dunk 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6adbe8b2ab3a52e619c526eff905468a.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/94/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4790,
+      "numero": 95,
+      "titulo": "Slam Dunk 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a02387b02ce7de2dac4b925892f68fb.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/95/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4791,
+      "numero": 96,
+      "titulo": "Slam Dunk 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b87517992f7dce71b674976b280257d2.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/96/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4792,
+      "numero": 97,
+      "titulo": "Slam Dunk 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ff3e350028d0cfcb92c3a87a57585b1.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/97/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4793,
+      "numero": 98,
+      "titulo": "Slam Dunk 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b28d8e3ccb1ff9d46fa2d9e70222c9e7.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/98/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4794,
+      "numero": 99,
+      "titulo": "Slam Dunk 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18a4e1366eb78af25ed5cfc306e8f873.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/99/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4795,
+      "numero": 100,
+      "titulo": "Slam Dunk 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_adf7ee2dcf142b0e11888e72b43fcb75.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/100/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 4796,
+      "numero": 101,
+      "titulo": "Slam Dunk 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c96ebeee051996333b6d70b2da6191b0.jpg",
+      "url_origen": "https://jkanime.net/slam-dunk/101/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "195",
+  "cantidad_episodios_declarada": 101,
+  "detalle_extraido_en": "2026-08-26T18:47:15+00:00"
+}

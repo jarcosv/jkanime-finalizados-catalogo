@@ -1,0 +1,125 @@
+{
+  "id_origen": 1609,
+  "slug": "sore-ga-seiyuu",
+  "titulo": "Sore ga Seiyuu!",
+  "titulo_corto": "Sore ga Seiyuu!",
+  "sinopsis": "La historia se centra en Futaba Ichinose, Ichigo Moesaki y Rin Kohana, tres aprendices de seiyuu que nos cuentan sus experiencias en esta industria.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sore-ga-seiyuu.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sore-ga-seiyuu/",
+  "episodios": [
+    {
+      "id_origen": 28649,
+      "numero": 1,
+      "titulo": "Sore ga Seiyuu! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae490cce121bcb4989be859bcbda433a.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/1/",
+      "publicado_en_origen": "2015-07-07 16:08:52"
+    },
+    {
+      "id_origen": 28719,
+      "numero": 2,
+      "titulo": "Sore ga Seiyuu! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19f560c0fc2e02c530e64152bb9ec137.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/2/",
+      "publicado_en_origen": "2015-07-14 14:54:55"
+    },
+    {
+      "id_origen": 28784,
+      "numero": 3,
+      "titulo": "Sore ga Seiyuu! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_619543fb0bbc7a6ee1e64de621542c31.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/3/",
+      "publicado_en_origen": "2015-07-21 13:26:43"
+    },
+    {
+      "id_origen": 28852,
+      "numero": 4,
+      "titulo": "Sore ga Seiyuu! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1b036022a6aaa7d187caae163216533.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/4/",
+      "publicado_en_origen": "2015-07-28 17:26:53"
+    },
+    {
+      "id_origen": 28916,
+      "numero": 5,
+      "titulo": "Sore ga Seiyuu! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ff25221f48d387c7526f0abb70093f2.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/5/",
+      "publicado_en_origen": "2015-08-04 15:53:57"
+    },
+    {
+      "id_origen": 28973,
+      "numero": 6,
+      "titulo": "Sore ga Seiyuu! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6ceb6cde9578ed6229ba2da69234a14.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/6/",
+      "publicado_en_origen": "2015-08-11 16:49:39"
+    },
+    {
+      "id_origen": 29039,
+      "numero": 7,
+      "titulo": "Sore ga Seiyuu! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9301cb784fa8d1f29d1125c71184ab94.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/7/",
+      "publicado_en_origen": "2015-08-18 16:01:33"
+    },
+    {
+      "id_origen": 29109,
+      "numero": 8,
+      "titulo": "Sore ga Seiyuu! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ace2e260c8163925254bc878b9eb8ca.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/8/",
+      "publicado_en_origen": "2015-08-25 14:44:36"
+    },
+    {
+      "id_origen": 29181,
+      "numero": 9,
+      "titulo": "Sore ga Seiyuu! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a455d2b84726913fe7652efdc0cfadc.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/9/",
+      "publicado_en_origen": "2015-09-01 13:33:59"
+    },
+    {
+      "id_origen": 29306,
+      "numero": 10,
+      "titulo": "Sore ga Seiyuu! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5f1d4219be6d4dafe14bc929d5c2808.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/10/",
+      "publicado_en_origen": "2015-09-08 13:08:20"
+    },
+    {
+      "id_origen": 29428,
+      "numero": 11,
+      "titulo": "Sore ga Seiyuu! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35c86d11621ca9f4cc9276c307397c6d.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/11/",
+      "publicado_en_origen": "2015-09-15 17:12:48"
+    },
+    {
+      "id_origen": 29634,
+      "numero": 12,
+      "titulo": "Sore ga Seiyuu! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed924d520ed1f8559df02ddc121ae835.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/12/",
+      "publicado_en_origen": "2015-09-22 17:08:43"
+    },
+    {
+      "id_origen": 29681,
+      "numero": 13,
+      "titulo": "Sore ga Seiyuu! - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3eec1ed838fd558428398779631b66a5.jpg",
+      "url_origen": "https://jkanime.net/sore-ga-seiyuu/13/",
+      "publicado_en_origen": "2015-09-29 17:21:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1609",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:47:24+00:00"
+}

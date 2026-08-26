@@ -1,0 +1,37 @@
+{
+  "id_origen": 4286,
+  "slug": "ichigo-mashimaro-encore",
+  "titulo": "Ichigo Mashimaro Encore",
+  "titulo_corto": "Ichigo Mashimaro Encore",
+  "sinopsis": "Ichigo Mashimaro encore es una OVA de dos episodios que continúa la historia de la serie anterior de OVAs de Ichigo Mashimaro.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ichigo-mashimaro-encore.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ichigo-mashimaro-encore/",
+  "episodios": [
+    {
+      "id_origen": 66077,
+      "numero": 1,
+      "titulo": "Ichigo Mashimaro Encore - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66bca3bf86b68162abce23d76ae9bf2b.jpg",
+      "url_origen": "https://jkanime.net/ichigo-mashimaro-encore/1/",
+      "publicado_en_origen": "2025-08-06 16:13:10"
+    },
+    {
+      "id_origen": 66078,
+      "numero": 2,
+      "titulo": "Ichigo Mashimaro Encore - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea05dbd2c922ee1843c6375268ff62fb.jpg",
+      "url_origen": "https://jkanime.net/ichigo-mashimaro-encore/2/",
+      "publicado_en_origen": "2025-08-06 16:13:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:22+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4286",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:31:34+00:00"
+}

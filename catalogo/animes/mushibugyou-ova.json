@@ -1,0 +1,45 @@
+{
+  "id_origen": 1350,
+  "slug": "mushibugyou-ova",
+  "titulo": "Mushibugyou OVA",
+  "titulo_corto": "Mushibugyou OVA",
+  "sinopsis": "Ovas incluidas en los DVD",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mushibugyou-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mushibugyou-ova/",
+  "episodios": [
+    {
+      "id_origen": 25566,
+      "numero": 1,
+      "titulo": "Mushibugyou OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mushibugyou-ova.jpg",
+      "url_origen": "https://jkanime.net/mushibugyou-ova/1/",
+      "publicado_en_origen": "2014-11-25 15:32:53"
+    },
+    {
+      "id_origen": 26499,
+      "numero": 2,
+      "titulo": "Mushibugyou OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mushibugyou-ova.jpg",
+      "url_origen": "https://jkanime.net/mushibugyou-ova/2/",
+      "publicado_en_origen": "2015-01-26 22:46:09"
+    },
+    {
+      "id_origen": 26500,
+      "numero": 3,
+      "titulo": "Mushibugyou OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mushibugyou-ova.jpg",
+      "url_origen": "https://jkanime.net/mushibugyou-ova/3/",
+      "publicado_en_origen": "2015-01-26 22:58:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1350",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:39:24+00:00"
+}

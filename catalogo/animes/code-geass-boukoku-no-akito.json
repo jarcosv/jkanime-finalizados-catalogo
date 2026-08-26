@@ -1,0 +1,61 @@
+{
+  "id_origen": 676,
+  "slug": "code-geass-boukoku-no-akito",
+  "titulo": "Code Geass: Boukoku no Akito",
+  "titulo_corto": "Code Geass: Boukoku no Akito",
+  "sinopsis": "La historia se dessarolla en el 2017 donde veremos a un grupo de de 11 jovenes pilotos de los conocidos Knightamre (ahora con una nueva generación) que deberán ir al frente de guerra en Europa a rescatar a algunos compañeros atrapados, la misión solo tiene un 5% de posibilidades de éxito y se sabe que dentro de este grupo de jóvenes se encuentra nuestro protagonista llamado Hyuga Akito, un eleven pertenecienta al ejercito de E.U, quien es un soldado que lo perdió todo por la guerra y ahora busca ayudar a sus amigos para no repetir la historia de dolor.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/code-geass-boukoku-no-akito.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/code-geass-boukoku-no-akito/",
+  "episodios": [
+    {
+      "id_origen": 17604,
+      "numero": 1,
+      "titulo": "Code Geass: Boukoku no Akito - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ba5243c88dd19c466dee8cb5bc8eb35.jpg",
+      "url_origen": "https://jkanime.net/code-geass-boukoku-no-akito/1/",
+      "publicado_en_origen": "2012-09-30 06:33:51"
+    },
+    {
+      "id_origen": 22267,
+      "numero": 2,
+      "titulo": "Code Geass: Boukoku no Akito - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79001f4bcb3e16121f9d63d61264138d.jpg",
+      "url_origen": "https://jkanime.net/code-geass-boukoku-no-akito/2/",
+      "publicado_en_origen": "2013-12-23 00:16:25"
+    },
+    {
+      "id_origen": 27784,
+      "numero": 3,
+      "titulo": "Code Geass: Boukoku no Akito - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fb2e1b55397557a0f3e4370d3ae2073.jpg",
+      "url_origen": "https://jkanime.net/code-geass-boukoku-no-akito/3/",
+      "publicado_en_origen": "2015-05-16 18:56:11"
+    },
+    {
+      "id_origen": 29252,
+      "numero": 4,
+      "titulo": "Code Geass: Boukoku no Akito - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6041ef06e090787195a16cbb1acd5bf3.jpg",
+      "url_origen": "https://jkanime.net/code-geass-boukoku-no-akito/4/",
+      "publicado_en_origen": "2015-09-05 19:46:24"
+    },
+    {
+      "id_origen": 31162,
+      "numero": 5,
+      "titulo": "Code Geass: Boukoku no Akito - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc6a03346a8c24eacf57bdf97c1f9c9e.jpg",
+      "url_origen": "https://jkanime.net/code-geass-boukoku-no-akito/5/",
+      "publicado_en_origen": "2016-03-19 23:36:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "676",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:23:54+00:00"
+}

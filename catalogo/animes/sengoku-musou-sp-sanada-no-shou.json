@@ -1,0 +1,29 @@
+{
+  "id_origen": 1361,
+  "slug": "sengoku-musou-sp-sanada-no-shou",
+  "titulo": "Sengoku Musou SP: Sanada no Shou",
+  "titulo_corto": "Sengoku Musou SP: Sanada no Sh...",
+  "sinopsis": "Especial producido con motivo del lanzamiento del videojuego \"Sengoku Musou 4\" (conocido próximamente en occidente como \"Samurai Warriors 4\") para PS3 y PS-VITA. La historia sigue el arco de los hermanos Nobuyuki y Yukimura Sanada, los cuales después de la muerte de su señor Shingen Takeda, buscarán la manera de mantener vivo su clan, a pesar de los intentos de Ieyasu Tokugawa para obtener a toda costa la provincia de Ueda.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sengoku-musou-sp-sanada-no-shou.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sengoku-musou-sp-sanada-no-shou/",
+  "episodios": [
+    {
+      "id_origen": 25756,
+      "numero": 1,
+      "titulo": "Sengoku Musou SP: Sanada no Shou",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sengoku-musou-sp-sanada-no-shou.jpg",
+      "url_origen": "https://jkanime.net/sengoku-musou-sp-sanada-no-shou/1/",
+      "publicado_en_origen": "2014-12-09 22:21:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1361",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:45:33+00:00"
+}

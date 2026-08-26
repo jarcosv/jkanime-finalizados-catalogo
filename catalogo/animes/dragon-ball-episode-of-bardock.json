@@ -1,0 +1,29 @@
+{
+  "id_origen": 461,
+  "slug": "dragon-ball-episode-of-bardock",
+  "titulo": "Dragon Ball: Episode of Bardock",
+  "titulo_corto": "Dragon Ball: Episode of Bardoc...",
+  "sinopsis": "Este especial de Dragon Ball nos narra hechos sucedidos después de que Bardock falleciera, aparentemente, a manos de Frezzer después de lanzar la Death Ball para destruir al plantea Vegeta.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-episode-of-bardock.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-episode-of-bardock/",
+  "episodios": [
+    {
+      "id_origen": 14020,
+      "numero": 1,
+      "titulo": "Dragon Ball: Episode of Bardock",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4a4ccddfa91dcb33b30f0b1e210c9eb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-episode-of-bardock/1/",
+      "publicado_en_origen": "2011-12-21 20:08:36"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "461",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:54+00:00"
+}

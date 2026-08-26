@@ -1,0 +1,117 @@
+{
+  "id_origen": 1038,
+  "slug": "strange-plus",
+  "titulo": "Strange+",
+  "titulo_corto": "Strange+",
+  "sinopsis": "La historia de Strange+ gira en torno a una agencia de detectives un tanto peculiar. El protagonista de la serie, un muchacho llamado Kou, acude a los suburbios para buscar a Takumi, su hermano mayor que desapareció años atrás.\n\nTakumi dirige ahora la Agencia de Detectives Mikuni, por lo que a pesar de que Kou insiste en llevarlo de vuelta a su hogar, éste rehuye la idea. Así es como el muchacho acaba trabajando para la agencia, haciendo las tareas más extrañas que uno pueda imaginar",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/strange-plus.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/strange-plus/",
+  "episodios": [
+    {
+      "id_origen": 22389,
+      "numero": 1,
+      "titulo": "Strange+ - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46ca21dbd421969e00792c3cae595065.jpg",
+      "url_origen": "https://jkanime.net/strange-plus/1/",
+      "publicado_en_origen": "2014-01-09 13:37:22"
+    },
+    {
+      "id_origen": 22450,
+      "numero": 2,
+      "titulo": "Strange+ - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39f3a91f7def5376b696f85ccde52382.jpg",
+      "url_origen": "https://jkanime.net/strange-plus/2/",
+      "publicado_en_origen": "2014-01-16 13:36:12"
+    },
+    {
+      "id_origen": 22508,
+      "numero": 3,
+      "titulo": "Strange+ - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46bc56d0ff6bad9dca3578cbbe5ed486.jpg",
+      "url_origen": "https://jkanime.net/strange-plus/3/",
+      "publicado_en_origen": "2014-01-23 13:32:44"
+    },
+    {
+      "id_origen": 22567,
+      "numero": 4,
+      "titulo": "Strange+ - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c64350c9477e1ea35aa37a5a73d4e042.jpg",
+      "url_origen": "https://jkanime.net/strange-plus/4/",
+      "publicado_en_origen": "2014-01-30 13:32:46"
+    },
+    {
+      "id_origen": 22630,
+      "numero": 5,
+      "titulo": "Strange+ - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e21cc1d36a6a93d33f9b72adfea44b8f.jpg",
+      "url_origen": "https://jkanime.net/strange-plus/5/",
+      "publicado_en_origen": "2014-02-06 13:35:34"
+    },
+    {
+      "id_origen": 22699,
+      "numero": 6,
+      "titulo": "Strange+ - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07dfc1ba2a5e4395d243d0a619619f5b.jpg",
+      "url_origen": "https://jkanime.net/strange-plus/6/",
+      "publicado_en_origen": "2014-02-13 13:34:40"
+    },
+    {
+      "id_origen": 22756,
+      "numero": 7,
+      "titulo": "Strange+ - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fbe4099ee6be0eef38dc1a983619b8c.jpg",
+      "url_origen": "https://jkanime.net/strange-plus/7/",
+      "publicado_en_origen": "2014-02-20 14:16:21"
+    },
+    {
+      "id_origen": 22820,
+      "numero": 8,
+      "titulo": "Strange+ - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69a23c56e38a32ba6bd726d47e722e9f.jpg",
+      "url_origen": "https://jkanime.net/strange-plus/8/",
+      "publicado_en_origen": "2014-02-27 14:23:16"
+    },
+    {
+      "id_origen": 22879,
+      "numero": 9,
+      "titulo": "Strange+ - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92a9a751b5a531b7ba815907cd444adc.jpg",
+      "url_origen": "https://jkanime.net/strange-plus/9/",
+      "publicado_en_origen": "2014-03-06 13:35:32"
+    },
+    {
+      "id_origen": 22943,
+      "numero": 10,
+      "titulo": "Strange+ - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd9ff6393ae3278cf017fbfb56b38c85.jpg",
+      "url_origen": "https://jkanime.net/strange-plus/10/",
+      "publicado_en_origen": "2014-03-13 12:32:50"
+    },
+    {
+      "id_origen": 23019,
+      "numero": 11,
+      "titulo": "Strange+ - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c66ecade1fe6cf8e9c92080459986ff.jpg",
+      "url_origen": "https://jkanime.net/strange-plus/11/",
+      "publicado_en_origen": "2014-03-20 12:32:36"
+    },
+    {
+      "id_origen": 23078,
+      "numero": 12,
+      "titulo": "Strange+ - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3cba56280a207ddd1f58c8614ac13ce.jpg",
+      "url_origen": "https://jkanime.net/strange-plus/12/",
+      "publicado_en_origen": "2014-03-27 12:34:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:57+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1038",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:47:49+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1886,
+  "slug": "one-piece-heart-of-gold",
+  "titulo": "One Piece: Heart of Gold",
+  "titulo_corto": "One Piece: Heart of Gold",
+  "sinopsis": "La historia se centra en el Corazón de Oro, un tesoro codiciado por todos, incluso por Gild Tesoro. Un día, los Piratas del Sombrero de Paja se encuentran con una chica llamada Orga que resulta saber la localización de ese famoso tesoro. Juntos zarpan al mar en búsqueda de aventuras y un botín, siendo la isla Alquimia su destino.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece-heart-of-gold.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-piece-heart-of-gold/",
+  "episodios": [
+    {
+      "id_origen": 32349,
+      "numero": 1,
+      "titulo": "One Piece: Heart of Gold",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ed6f8773d6adc2285a4d98d10bc228c.jpg",
+      "url_origen": "https://jkanime.net/one-piece-heart-of-gold/1/",
+      "publicado_en_origen": "2016-07-21 03:28:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1886",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:09+00:00"
+}

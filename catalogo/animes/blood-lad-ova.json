@@ -1,0 +1,29 @@
+{
+  "id_origen": 999,
+  "slug": "blood-lad-ova",
+  "titulo": "Blood Lad OVA",
+  "titulo_corto": "Blood Lad OVA",
+  "sinopsis": "Incluida con el décimo volumen de edición limitada del manga Blood Lad.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/blood-lad-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/blood-lad-ova/",
+  "episodios": [
+    {
+      "id_origen": 22117,
+      "numero": 1,
+      "titulo": "Blood Lad OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1747774b79e1da589f5eafc576b4c2e1.jpg",
+      "url_origen": "https://jkanime.net/blood-lad-ova/1/",
+      "publicado_en_origen": "2013-12-04 19:34:44"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "999",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:20:29+00:00"
+}

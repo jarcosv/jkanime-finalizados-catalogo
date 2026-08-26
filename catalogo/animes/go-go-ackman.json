@@ -1,0 +1,29 @@
+{
+  "id_origen": 4839,
+  "slug": "go-go-ackman",
+  "titulo": "Go! Go! Ackman",
+  "titulo_corto": "Go! Go! Ackman",
+  "sinopsis": "Un demonio llamado «Ackman» que viaja buscando matar humanos para tomar sus almas y venderlas en el infierno. Perseguido por un ángel llamado Tenshi, que en sus intentos por detenerlo termina causando más muerte y destrucción que el mismo Ackman.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/go-go-ackman.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/go-go-ackman/",
+  "episodios": [
+    {
+      "id_origen": 74540,
+      "numero": 1,
+      "titulo": "Go! Go! Ackman",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6948a8e279e86f7730e1111268532b09.jpg",
+      "url_origen": "https://jkanime.net/go-go-ackman/1/",
+      "publicado_en_origen": "2026-06-20 03:15:53"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4839",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:28:44+00:00"
+}

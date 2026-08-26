@@ -1,0 +1,29 @@
+{
+  "id_origen": 4830,
+  "slug": "kidou-keisatsu-patlabor-the-movie",
+  "titulo": "Kidou Keisatsu Patlabor the Movie",
+  "titulo_corto": "Kidou Keisatsu Patlabor the Mo...",
+  "sinopsis": "El Proyecto Babilonia consiste en una renovación a gran escala de los barrios de Tokio, que incluye la creación de islas artificiales en la bahía. Gracias al uso de los «Labors» —robots creados expresamente para realizar trabajos—, los arquitectos y los equipos de construcción pueden avanzar de forma más eficiente en el desarrollo de esta remodelación. Cuando una figura clave en la concepción del Proyecto aparece muerta tras suicidarse en circunstancias misteriosas, la unidad policial Patlabor del capitán Kiichi Gotou recibe el encargo de llegar al fondo de esta extraña situación.\r\n\r\nA medida que varios «Labors» comienzan a volverse locos y un programa de IA pirateado pone en peligro a la población de Tokio, la joven piloto Noa Izumi y su Patlabor Alphonse trabajan bajo las órdenes de Gotou para salvar a la ciudad y a toda la nación de una enorme conspiración de proporciones bíblicas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kidou-keisatsu-patlabor-the-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kidou-keisatsu-patlabor-the-movie/",
+  "episodios": [
+    {
+      "id_origen": 74362,
+      "numero": 1,
+      "titulo": "Kidou Keisatsu Patlabor the Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b497329636cd5b853fee451c6e5d5cad.jpg",
+      "url_origen": "https://jkanime.net/kidou-keisatsu-patlabor-the-movie/1/",
+      "publicado_en_origen": "2026-06-17 04:58:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4830",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:34:27+00:00"
+}

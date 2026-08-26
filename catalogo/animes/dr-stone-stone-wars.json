@@ -1,0 +1,109 @@
+{
+  "id_origen": 2805,
+  "slug": "dr-stone-stone-wars",
+  "titulo": "Dr. Stone: Stone Wars",
+  "titulo_corto": "Dr. Stone: Stone Wars",
+  "sinopsis": "Segunda temporada de Dr. Stone.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dr-stone-stone-wars.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dr-stone-stone-wars/",
+  "episodios": [
+    {
+      "id_origen": 44392,
+      "numero": 1,
+      "titulo": "Dr. Stone: Stone Wars - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29ecd48788baa6e9046fde7219548b65.jpg",
+      "url_origen": "https://jkanime.net/dr-stone-stone-wars/1/",
+      "publicado_en_origen": "2021-01-14 11:46:59"
+    },
+    {
+      "id_origen": 44458,
+      "numero": 2,
+      "titulo": "Dr. Stone: Stone Wars - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c5d0b35798bffadf8f67ef0af84d183.jpg",
+      "url_origen": "https://jkanime.net/dr-stone-stone-wars/2/",
+      "publicado_en_origen": "2021-01-21 11:45:28"
+    },
+    {
+      "id_origen": 44524,
+      "numero": 3,
+      "titulo": "Dr. Stone: Stone Wars - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3518523747eac6db7b48a08e17fbdda.jpg",
+      "url_origen": "https://jkanime.net/dr-stone-stone-wars/3/",
+      "publicado_en_origen": "2021-01-28 11:46:59"
+    },
+    {
+      "id_origen": 44594,
+      "numero": 4,
+      "titulo": "Dr. Stone: Stone Wars - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9117b58934e7639cd9a09be9db43fb7d.jpg",
+      "url_origen": "https://jkanime.net/dr-stone-stone-wars/4/",
+      "publicado_en_origen": "2021-02-04 12:02:01"
+    },
+    {
+      "id_origen": 44662,
+      "numero": 5,
+      "titulo": "Dr. Stone: Stone Wars - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b310acc61b824bed34736ac28969bef.jpg",
+      "url_origen": "https://jkanime.net/dr-stone-stone-wars/5/",
+      "publicado_en_origen": "2021-02-11 11:40:48"
+    },
+    {
+      "id_origen": 44727,
+      "numero": 6,
+      "titulo": "Dr. Stone: Stone Wars - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57c1b7b72487b5ad15e6f2abe2370c17.jpg",
+      "url_origen": "https://jkanime.net/dr-stone-stone-wars/6/",
+      "publicado_en_origen": "2021-02-18 12:15:28"
+    },
+    {
+      "id_origen": 44800,
+      "numero": 7,
+      "titulo": "Dr. Stone: Stone Wars - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e14a5d75ca4ddc3ced0122d6b37126a0.jpg",
+      "url_origen": "https://jkanime.net/dr-stone-stone-wars/7/",
+      "publicado_en_origen": "2021-02-25 11:38:37"
+    },
+    {
+      "id_origen": 44867,
+      "numero": 8,
+      "titulo": "Dr. Stone: Stone Wars - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ae6f950c21c7ae0d7e53c889283b0f8.jpg",
+      "url_origen": "https://jkanime.net/dr-stone-stone-wars/8/",
+      "publicado_en_origen": "2021-03-04 12:09:59"
+    },
+    {
+      "id_origen": 44934,
+      "numero": 9,
+      "titulo": "Dr. Stone: Stone Wars - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_355c140f1cff8ab915913705e3b87229.jpg",
+      "url_origen": "https://jkanime.net/dr-stone-stone-wars/9/",
+      "publicado_en_origen": "2021-03-11 11:42:59"
+    },
+    {
+      "id_origen": 45006,
+      "numero": 10,
+      "titulo": "Dr. Stone: Stone Wars - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19d5254bda3efc525d2fbc731215b282.jpg",
+      "url_origen": "https://jkanime.net/dr-stone-stone-wars/10/",
+      "publicado_en_origen": "2021-03-18 10:41:58"
+    },
+    {
+      "id_origen": 45071,
+      "numero": 11,
+      "titulo": "Dr. Stone: Stone Wars - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bc9645a5623ba22b8e136133eb8af33.jpg",
+      "url_origen": "https://jkanime.net/dr-stone-stone-wars/11/",
+      "publicado_en_origen": "2021-03-25 11:39:53"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2805",
+  "cantidad_episodios_declarada": 11,
+  "detalle_extraido_en": "2026-08-26T18:25:31+00:00"
+}

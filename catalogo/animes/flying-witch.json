@@ -1,0 +1,117 @@
+{
+  "id_origen": 1819,
+  "slug": "flying-witch",
+  "titulo": "Flying Witch",
+  "titulo_corto": "Flying Witch",
+  "sinopsis": "La historia cómica está protagonizada por Makoto Kowata, una bruja de 15 años, y el resto de chicos y chicas de su vida diaria. Junto a su gato negro Chito, la chica se muda de Yokohama a Aomori para vivir con un primo en la zona norte de Japón.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/flying-witch.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/flying-witch/",
+  "episodios": [
+    {
+      "id_origen": 31315,
+      "numero": 1,
+      "titulo": "Flying Witch - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78f25aa54f838ebef52df7eb2f4dabd8.jpg",
+      "url_origen": "https://jkanime.net/flying-witch/1/",
+      "publicado_en_origen": "2016-04-09 18:09:23"
+    },
+    {
+      "id_origen": 31368,
+      "numero": 2,
+      "titulo": "Flying Witch - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dba76338497e2ebab41d96388c47ff26.jpg",
+      "url_origen": "https://jkanime.net/flying-witch/2/",
+      "publicado_en_origen": "2016-04-17 01:55:11"
+    },
+    {
+      "id_origen": 31418,
+      "numero": 3,
+      "titulo": "Flying Witch - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c219b83bdbd3fc9bf4fa8526d4368ea1.jpg",
+      "url_origen": "https://jkanime.net/flying-witch/3/",
+      "publicado_en_origen": "2016-04-23 20:11:48"
+    },
+    {
+      "id_origen": 31471,
+      "numero": 4,
+      "titulo": "Flying Witch - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78cba486049b9522d556899edb9f10bd.jpg",
+      "url_origen": "https://jkanime.net/flying-witch/4/",
+      "publicado_en_origen": "2016-04-30 18:10:35"
+    },
+    {
+      "id_origen": 31529,
+      "numero": 5,
+      "titulo": "Flying Witch - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d3d99bab1c841a23a2d7b50ebd7b7bb.jpg",
+      "url_origen": "https://jkanime.net/flying-witch/5/",
+      "publicado_en_origen": "2016-05-07 20:39:42"
+    },
+    {
+      "id_origen": 31581,
+      "numero": 6,
+      "titulo": "Flying Witch - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a714b6bada5e4ad469abf003c9d2c3d8.jpg",
+      "url_origen": "https://jkanime.net/flying-witch/6/",
+      "publicado_en_origen": "2016-05-14 20:10:46"
+    },
+    {
+      "id_origen": 31635,
+      "numero": 7,
+      "titulo": "Flying Witch - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1915f6556ef3ac2c9fd7fef0d0bbba3f.jpg",
+      "url_origen": "https://jkanime.net/flying-witch/7/",
+      "publicado_en_origen": "2016-05-21 20:11:12"
+    },
+    {
+      "id_origen": 31688,
+      "numero": 8,
+      "titulo": "Flying Witch - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d1fb6b4eec12bee96b88020c7afadb8.jpg",
+      "url_origen": "https://jkanime.net/flying-witch/8/",
+      "publicado_en_origen": "2016-05-28 18:13:47"
+    },
+    {
+      "id_origen": 31743,
+      "numero": 9,
+      "titulo": "Flying Witch - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59b6525364c77d1e6f9c79c53e387954.jpg",
+      "url_origen": "https://jkanime.net/flying-witch/9/",
+      "publicado_en_origen": "2016-06-04 18:44:10"
+    },
+    {
+      "id_origen": 31796,
+      "numero": 10,
+      "titulo": "Flying Witch - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45e7200bd1dbaf868c1b69de0dec23b9.jpg",
+      "url_origen": "https://jkanime.net/flying-witch/10/",
+      "publicado_en_origen": "2016-06-11 19:10:29"
+    },
+    {
+      "id_origen": 31894,
+      "numero": 11,
+      "titulo": "Flying Witch - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca50333df78f2f7bd42ac688af0af3e9.jpg",
+      "url_origen": "https://jkanime.net/flying-witch/11/",
+      "publicado_en_origen": "2016-06-25 18:14:39"
+    },
+    {
+      "id_origen": 31895,
+      "numero": 12,
+      "titulo": "Flying Witch - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bbc7449ca4ad63ba9e6094180cc65cb.jpg",
+      "url_origen": "https://jkanime.net/flying-witch/12/",
+      "publicado_en_origen": "2016-06-25 18:35:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1819",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:27:06+00:00"
+}

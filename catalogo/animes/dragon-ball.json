@@ -1,0 +1,1245 @@
+{
+  "id_origen": 266,
+  "slug": "dragon-ball",
+  "titulo": "Dragon Ball",
+  "titulo_corto": "Dragon Ball",
+  "sinopsis": "Con Goku como protagonista principal de la historia, el argumento se centra en la búsqueda de las legendarias esferas del dragon, un total de siete que al ser reunidas daban lugar a la aparición del dragón sagrado que puede conceder cualquier deseo. Goku, con la ayuda de su compañera Bulma además de  otros personajes que se irán uniendo con el paso de la historia, se adentrará en la búsqueda de las esferas del dragon y desafiará a todo tipo de villanos para convertirse en el hombre más fuerte del mundo. También se hará especial incapié al Budokai Tenkaichi, un gran Torneo Mundial de Artes Marciales en el que los mejores luchadores de todo el Mundo se darán cita, batiéndose en Duelo a fin de demostrar quien es el mas fuerte luchador sobre la Tierra.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball/",
+  "episodios": [
+    {
+      "id_origen": 13704,
+      "numero": 1,
+      "titulo": "Dragon Ball - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11997aab46c754fb90f36b9d8e4eaf99.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/1/",
+      "publicado_en_origen": "2011-12-14 12:02:41"
+    },
+    {
+      "id_origen": 13705,
+      "numero": 2,
+      "titulo": "Dragon Ball - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fa315bff7fae22608236c2aa527fbd8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/2/",
+      "publicado_en_origen": "2011-12-14 12:02:41"
+    },
+    {
+      "id_origen": 14807,
+      "numero": 3,
+      "titulo": "Dragon Ball - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e240e7dde1c1a18499e136f075403f75.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/3/",
+      "publicado_en_origen": "2012-02-13 16:33:55"
+    },
+    {
+      "id_origen": 14808,
+      "numero": 4,
+      "titulo": "Dragon Ball - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c00306da25dd21c664a2404d553029b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/4/",
+      "publicado_en_origen": "2012-02-13 16:33:55"
+    },
+    {
+      "id_origen": 14809,
+      "numero": 5,
+      "titulo": "Dragon Ball - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4042d0c6a49921c64c6406c8921c9139.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/5/",
+      "publicado_en_origen": "2012-02-13 16:33:55"
+    },
+    {
+      "id_origen": 14810,
+      "numero": 6,
+      "titulo": "Dragon Ball - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca2d05e1c5b3d2b271fb96cf2e7f4cda.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/6/",
+      "publicado_en_origen": "2012-02-13 16:33:55"
+    },
+    {
+      "id_origen": 14811,
+      "numero": 7,
+      "titulo": "Dragon Ball - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e11fe8529da207b7f069d6477a41368.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/7/",
+      "publicado_en_origen": "2012-02-13 16:33:55"
+    },
+    {
+      "id_origen": 14812,
+      "numero": 8,
+      "titulo": "Dragon Ball - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8fa522f781a96a3999321da05dfde8c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/8/",
+      "publicado_en_origen": "2012-02-13 16:33:55"
+    },
+    {
+      "id_origen": 14813,
+      "numero": 9,
+      "titulo": "Dragon Ball - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86b901f502ab8e135137f2083b91f3ec.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/9/",
+      "publicado_en_origen": "2012-02-13 16:33:55"
+    },
+    {
+      "id_origen": 15279,
+      "numero": 10,
+      "titulo": "Dragon Ball - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_083ae7ea9e5e3ba6e3aab3a8b20bfeb8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/10/",
+      "publicado_en_origen": "2012-03-30 09:31:12"
+    },
+    {
+      "id_origen": 15280,
+      "numero": 11,
+      "titulo": "Dragon Ball - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0736e8d5f3581a125a2e9872c3dfbca2.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/11/",
+      "publicado_en_origen": "2012-03-30 09:31:12"
+    },
+    {
+      "id_origen": 15281,
+      "numero": 12,
+      "titulo": "Dragon Ball - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e770aa80a2e8d114e79e888e4670634b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/12/",
+      "publicado_en_origen": "2012-03-30 09:31:12"
+    },
+    {
+      "id_origen": 14814,
+      "numero": 13,
+      "titulo": "Dragon Ball - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_173e2619a507a324eb10f969df13a372.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/13/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14815,
+      "numero": 14,
+      "titulo": "Dragon Ball - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1490523b8cd2c130b29656613850cf8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/14/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14816,
+      "numero": 15,
+      "titulo": "Dragon Ball - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f663b8c9b8331a8c625007b4337601ec.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/15/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14817,
+      "numero": 16,
+      "titulo": "Dragon Ball - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90e08c6d15d206857d4fd54fa2f334bc.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/16/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14818,
+      "numero": 17,
+      "titulo": "Dragon Ball - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae0de04da95f06c3c85934ea84bcccc0.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/17/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14819,
+      "numero": 18,
+      "titulo": "Dragon Ball - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a35e2f4a3fa64ee63ab18d8072b3a806.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/18/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14820,
+      "numero": 19,
+      "titulo": "Dragon Ball - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d4233a54febe35fbf7749c3affb8e15.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/19/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14821,
+      "numero": 20,
+      "titulo": "Dragon Ball - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00b5d2692a781b6a9d3d1522c6e9d1ad.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/20/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14822,
+      "numero": 21,
+      "titulo": "Dragon Ball - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7006bc554a1a9de85c416551c10368e2.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/21/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14823,
+      "numero": 22,
+      "titulo": "Dragon Ball - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24e6e6721e0a39950780dfb8f91e53ed.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/22/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14824,
+      "numero": 23,
+      "titulo": "Dragon Ball - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69650a619af368c12a6ee24947ad7572.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/23/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14825,
+      "numero": 24,
+      "titulo": "Dragon Ball - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_722fd8c97825bdea860322e28ac6dcbd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/24/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14826,
+      "numero": 25,
+      "titulo": "Dragon Ball - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58eaa69d86c0bb41c0f334b95b6c8cf2.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/25/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14827,
+      "numero": 26,
+      "titulo": "Dragon Ball - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb50ef2594daff9dd6322cbb5489bcbc.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/26/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 14828,
+      "numero": 27,
+      "titulo": "Dragon Ball - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_544a66d5696a6e07b69dc8df98d6f825.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/27/",
+      "publicado_en_origen": "2012-02-13 16:35:00"
+    },
+    {
+      "id_origen": 15282,
+      "numero": 28,
+      "titulo": "Dragon Ball - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35068fbf1ec706142e1f75fa23ee1995.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/28/",
+      "publicado_en_origen": "2012-03-30 09:31:12"
+    },
+    {
+      "id_origen": 14829,
+      "numero": 29,
+      "titulo": "Dragon Ball - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc0fef626c330003179e5377ee02750f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/29/",
+      "publicado_en_origen": "2012-02-13 16:35:29"
+    },
+    {
+      "id_origen": 14830,
+      "numero": 30,
+      "titulo": "Dragon Ball - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e798a0d5dea21ef441815910d5943598.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/30/",
+      "publicado_en_origen": "2012-02-13 16:35:29"
+    },
+    {
+      "id_origen": 14831,
+      "numero": 31,
+      "titulo": "Dragon Ball - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b6973d6fcab6b7bce360dc3a87a1293.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/31/",
+      "publicado_en_origen": "2012-02-13 16:35:29"
+    },
+    {
+      "id_origen": 14832,
+      "numero": 32,
+      "titulo": "Dragon Ball - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_669ea75f1504b326e37d132fec021ee8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/32/",
+      "publicado_en_origen": "2012-02-13 16:35:29"
+    },
+    {
+      "id_origen": 15283,
+      "numero": 33,
+      "titulo": "Dragon Ball - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a80ff02f8227904e65413f89ee1719e6.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/33/",
+      "publicado_en_origen": "2012-03-30 09:31:12"
+    },
+    {
+      "id_origen": 14833,
+      "numero": 34,
+      "titulo": "Dragon Ball - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eabeed77c370a6a4258a6373af2d137d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/34/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14834,
+      "numero": 35,
+      "titulo": "Dragon Ball - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c71dd758876eed351796c7cd2e56a54.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/35/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14835,
+      "numero": 36,
+      "titulo": "Dragon Ball - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e60cfb63ef8bedd98f6868c6accf1c2.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/36/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14836,
+      "numero": 37,
+      "titulo": "Dragon Ball - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d16c8f18bdee715020ec90b5ec04e9d4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/37/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14837,
+      "numero": 38,
+      "titulo": "Dragon Ball - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b619892e6df1fdaf1eb92ed22a80914a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/38/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14838,
+      "numero": 39,
+      "titulo": "Dragon Ball - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f6aea3724faf620b6c218b66ae7310d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/39/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14839,
+      "numero": 40,
+      "titulo": "Dragon Ball - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4e3432b305e7e30ce4e6f981f260cce.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/40/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14840,
+      "numero": 41,
+      "titulo": "Dragon Ball - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2a394d317ae9d89985646fa98565f36.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/41/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14841,
+      "numero": 42,
+      "titulo": "Dragon Ball - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2aca752107ac2bde4cd02805118de503.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/42/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14842,
+      "numero": 43,
+      "titulo": "Dragon Ball - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8aad11ad0535421ef52a534d5cce4bd3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/43/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14843,
+      "numero": 44,
+      "titulo": "Dragon Ball - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d111e37ef301d7036f983b85de910b0.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/44/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14844,
+      "numero": 45,
+      "titulo": "Dragon Ball - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b91c7142134f116729e1a2f2693350b6.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/45/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14845,
+      "numero": 46,
+      "titulo": "Dragon Ball - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea9b6cd30546ce1e20bd2f6df7e82e64.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/46/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14846,
+      "numero": 47,
+      "titulo": "Dragon Ball - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ac4dbd83735534bcebc28c845dafccd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/47/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14847,
+      "numero": 48,
+      "titulo": "Dragon Ball - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c7c8ec529d898f2a3ba4d0666b4468f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/48/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14848,
+      "numero": 49,
+      "titulo": "Dragon Ball - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1392a70e4978d9890a1a1d40a11edbe8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/49/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14849,
+      "numero": 50,
+      "titulo": "Dragon Ball - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f25c6ac5f918996124bfb5cb65201434.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/50/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14850,
+      "numero": 51,
+      "titulo": "Dragon Ball - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db0d4963149c89b0cc76ffd6aaacf002.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/51/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14851,
+      "numero": 52,
+      "titulo": "Dragon Ball - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c334ba61fe74aa5c2172b40beaf5bdb1.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/52/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14852,
+      "numero": 53,
+      "titulo": "Dragon Ball - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_839541bfa1e1f4a879c4a5d4e5f6d88b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/53/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14853,
+      "numero": 54,
+      "titulo": "Dragon Ball - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d2c18c1aaeac9fcc028dd14f4c074ce.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/54/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14854,
+      "numero": 55,
+      "titulo": "Dragon Ball - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70522cd467f1001ad2c2d009707f61d9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/55/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14855,
+      "numero": 56,
+      "titulo": "Dragon Ball - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f0e0ddd3be45a94e4941c890a8ed1d1.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/56/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14856,
+      "numero": 57,
+      "titulo": "Dragon Ball - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b050b09d2d80bdc271a775f5b4639258.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/57/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14857,
+      "numero": 58,
+      "titulo": "Dragon Ball - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17440cbf2d556ce0c945559586426aaa.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/58/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14858,
+      "numero": 59,
+      "titulo": "Dragon Ball - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffdc7fa7222f38cac5455d928f2b021b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/59/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14859,
+      "numero": 60,
+      "titulo": "Dragon Ball - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c064251d2c99adbee465c50f05bda944.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/60/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14860,
+      "numero": 61,
+      "titulo": "Dragon Ball - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d6f064d4b257e01d5595f970ed714fc.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/61/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14861,
+      "numero": 62,
+      "titulo": "Dragon Ball - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7274f01abe1fc0622bd2ff06724950c1.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/62/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14862,
+      "numero": 63,
+      "titulo": "Dragon Ball - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_524e30e771dba8110c0241a0882023d0.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/63/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14863,
+      "numero": 64,
+      "titulo": "Dragon Ball - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abe6f17ee7a1e4775951399035e00841.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/64/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14864,
+      "numero": 65,
+      "titulo": "Dragon Ball - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2cc88bcc7302f28d93e2d31c511986b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/65/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14865,
+      "numero": 66,
+      "titulo": "Dragon Ball - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_305ec2f907e0fcbb74f06fef40c9a4ac.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/66/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 14866,
+      "numero": 67,
+      "titulo": "Dragon Ball - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b77dd47a0fdceb8afde02dd6cae9ddf.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/67/",
+      "publicado_en_origen": "2012-02-13 16:36:31"
+    },
+    {
+      "id_origen": 15284,
+      "numero": 68,
+      "titulo": "Dragon Ball - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66a1942cfad91ff0ee99daf86e674d55.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/68/",
+      "publicado_en_origen": "2012-03-30 09:31:12"
+    },
+    {
+      "id_origen": 14867,
+      "numero": 69,
+      "titulo": "Dragon Ball - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c113d499cd1461d6bc2f2db7c99fcd47.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/69/",
+      "publicado_en_origen": "2012-02-13 16:36:56"
+    },
+    {
+      "id_origen": 14868,
+      "numero": 70,
+      "titulo": "Dragon Ball - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f277335b0fda4885798095b94a3d0bc8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/70/",
+      "publicado_en_origen": "2012-02-13 16:36:56"
+    },
+    {
+      "id_origen": 14869,
+      "numero": 71,
+      "titulo": "Dragon Ball - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14d2bc475177e1dde633b4ca1972d53c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/71/",
+      "publicado_en_origen": "2012-02-13 16:36:56"
+    },
+    {
+      "id_origen": 14870,
+      "numero": 72,
+      "titulo": "Dragon Ball - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d7466dd4217d4f000c48e9f2cdbfce9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/72/",
+      "publicado_en_origen": "2012-02-13 16:36:56"
+    },
+    {
+      "id_origen": 15285,
+      "numero": 73,
+      "titulo": "Dragon Ball - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4930ad58efbbde24d596a387e89adf9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/73/",
+      "publicado_en_origen": "2012-03-30 09:31:12"
+    },
+    {
+      "id_origen": 14871,
+      "numero": 74,
+      "titulo": "Dragon Ball - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55e71b4408e917b9c7bb0df7d0b81af4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/74/",
+      "publicado_en_origen": "2012-02-13 16:37:15"
+    },
+    {
+      "id_origen": 14872,
+      "numero": 75,
+      "titulo": "Dragon Ball - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a598e7d200bf02558d5534839884b7a3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/75/",
+      "publicado_en_origen": "2012-02-13 16:37:15"
+    },
+    {
+      "id_origen": 14873,
+      "numero": 76,
+      "titulo": "Dragon Ball - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9de64b0aa92114521bfc07918df7b47.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/76/",
+      "publicado_en_origen": "2012-02-13 16:37:15"
+    },
+    {
+      "id_origen": 14874,
+      "numero": 77,
+      "titulo": "Dragon Ball - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b23f2a9eddbae15529dc68d16d4d4c9c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/77/",
+      "publicado_en_origen": "2012-02-13 16:37:15"
+    },
+    {
+      "id_origen": 15286,
+      "numero": 78,
+      "titulo": "Dragon Ball - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_865e434f7f48e0e93f69cbb938b06809.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/78/",
+      "publicado_en_origen": "2012-03-30 09:31:12"
+    },
+    {
+      "id_origen": 14875,
+      "numero": 79,
+      "titulo": "Dragon Ball - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5cbd8331fac120a295879dc62b0d10ed.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/79/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14876,
+      "numero": 80,
+      "titulo": "Dragon Ball - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94bd3f4d79c60af8831740e58a68dd6e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/80/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14877,
+      "numero": 81,
+      "titulo": "Dragon Ball - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_201ecef3255bae210a1b2c0ae4a21c7a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/81/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14878,
+      "numero": 82,
+      "titulo": "Dragon Ball - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ee8b1eafadac937e6e03d8866cef9bf.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/82/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14879,
+      "numero": 83,
+      "titulo": "Dragon Ball - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e98549a4cb29369fb6dbb48ab0b6e018.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/83/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14880,
+      "numero": 84,
+      "titulo": "Dragon Ball - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d252ff9d89ac9d3420b565f70fccd08.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/84/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14881,
+      "numero": 85,
+      "titulo": "Dragon Ball - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41069c81282ba6e19583432967917da9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/85/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14882,
+      "numero": 86,
+      "titulo": "Dragon Ball - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8feb0f39cfe2d43f62def3b8e657992.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/86/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14883,
+      "numero": 87,
+      "titulo": "Dragon Ball - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c22f802f4e2192468fbc9485e31d062f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/87/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14884,
+      "numero": 88,
+      "titulo": "Dragon Ball - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2705e8fde87cd2883e9fc1f00335685f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/88/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14885,
+      "numero": 89,
+      "titulo": "Dragon Ball - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_608c52894a47a2e6e35b9c555500b1e8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/89/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14886,
+      "numero": 90,
+      "titulo": "Dragon Ball - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c7f9ec6a570ab270604c03a8614d588.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/90/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14887,
+      "numero": 91,
+      "titulo": "Dragon Ball - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df6af7afd03086cd9331f08187159a9a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/91/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14888,
+      "numero": 92,
+      "titulo": "Dragon Ball - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6090cd636e93a4a4574e97002734900.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/92/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14889,
+      "numero": 93,
+      "titulo": "Dragon Ball - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab0590a53625f02c33db3355d65bcee3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/93/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14890,
+      "numero": 94,
+      "titulo": "Dragon Ball - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10c91cbec1b70835824b898ef16a0de7.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/94/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14891,
+      "numero": 95,
+      "titulo": "Dragon Ball - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09a7ae5955da82295abd34ba63761291.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/95/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14892,
+      "numero": 96,
+      "titulo": "Dragon Ball - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13d7a90018676759a713064bbec1b25c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/96/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 14893,
+      "numero": 97,
+      "titulo": "Dragon Ball - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6b77526860d3c83f1d5b398e5c470b6.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/97/",
+      "publicado_en_origen": "2012-02-13 16:37:53"
+    },
+    {
+      "id_origen": 15287,
+      "numero": 98,
+      "titulo": "Dragon Ball - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9a8c56824cfbe66f28f85edbbe83e09.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/98/",
+      "publicado_en_origen": "2012-03-30 09:31:12"
+    },
+    {
+      "id_origen": 14894,
+      "numero": 99,
+      "titulo": "Dragon Ball - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7c603d749620911ae33948d0d688b6a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/99/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14895,
+      "numero": 100,
+      "titulo": "Dragon Ball - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f1d7043087ae82ff6a62662b62a0fbc.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/100/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14896,
+      "numero": 101,
+      "titulo": "Dragon Ball - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00755a54ea07fa69087afa4ffe9955e7.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/101/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14897,
+      "numero": 102,
+      "titulo": "Dragon Ball - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e12763b8e7913fb0504b6ea3e79d354.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/102/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14898,
+      "numero": 103,
+      "titulo": "Dragon Ball - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_722bdebbbc5e6f165bdb8a939be2a35f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/103/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14899,
+      "numero": 104,
+      "titulo": "Dragon Ball - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d761a2f967adfa6ce9660a1738c8306.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/104/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14900,
+      "numero": 105,
+      "titulo": "Dragon Ball - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_831afb1be63c21f215df9217656e75fb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/105/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14901,
+      "numero": 106,
+      "titulo": "Dragon Ball - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d6df9d6b61916e55451a4ffc7e45561.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/106/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14902,
+      "numero": 107,
+      "titulo": "Dragon Ball - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b662c2bc1569e2da1612f9ed47a400a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/107/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14903,
+      "numero": 108,
+      "titulo": "Dragon Ball - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5e11aabb461ba905d18092ba0815c6c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/108/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14904,
+      "numero": 109,
+      "titulo": "Dragon Ball - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d51f8f228dbea3e6f3e6421385707f68.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/109/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14905,
+      "numero": 110,
+      "titulo": "Dragon Ball - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee0f002f5b3dd22bd87c23569a6c72a4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/110/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14906,
+      "numero": 111,
+      "titulo": "Dragon Ball - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af7f963b59e84066e2110e5a07209d8b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/111/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14907,
+      "numero": 112,
+      "titulo": "Dragon Ball - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bd00b198a4acdcdd6de880c3bbc917d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/112/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14908,
+      "numero": 113,
+      "titulo": "Dragon Ball - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6eea81fa0417b0068e614074225a9daf.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/113/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14909,
+      "numero": 114,
+      "titulo": "Dragon Ball - 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8b64946ebc86a5e23e1605a2943210c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/114/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14910,
+      "numero": 115,
+      "titulo": "Dragon Ball - 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2d890039c3615ffe346e353e950850f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/115/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14911,
+      "numero": 116,
+      "titulo": "Dragon Ball - 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01c8a64a2b3c66c05c2dbf9df27510eb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/116/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14912,
+      "numero": 117,
+      "titulo": "Dragon Ball - 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7a09dca296f4517c1c7b5ca5e72c412.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/117/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14913,
+      "numero": 118,
+      "titulo": "Dragon Ball - 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c06b57c153593ad97339f96585f6692a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/118/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14914,
+      "numero": 119,
+      "titulo": "Dragon Ball - 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d41b5422b44a34d123006225fd1d3484.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/119/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14915,
+      "numero": 120,
+      "titulo": "Dragon Ball - 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec9b606d4c0673aa256696c06cc9e785.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/120/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14916,
+      "numero": 121,
+      "titulo": "Dragon Ball - 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00b99e87221c9afb0c0c23c3fb403307.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/121/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14917,
+      "numero": 122,
+      "titulo": "Dragon Ball - 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f9e0c06d86af4c03ce5ec9fc618db10.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/122/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14918,
+      "numero": 123,
+      "titulo": "Dragon Ball - 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5dd07d944fdcaba5af8b6828ed55f69.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/123/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14919,
+      "numero": 124,
+      "titulo": "Dragon Ball - 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b156769842d5235767f769b5c8617399.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/124/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14920,
+      "numero": 125,
+      "titulo": "Dragon Ball - 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4aac89cf9a63cc7ee5328725120289b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/125/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14921,
+      "numero": 126,
+      "titulo": "Dragon Ball - 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3989fd6bcf000eeba6633fa4c003b6b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/126/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14922,
+      "numero": 127,
+      "titulo": "Dragon Ball - 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3895c46ab7fd528108dc9da3d3745f88.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/127/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14923,
+      "numero": 128,
+      "titulo": "Dragon Ball - 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_710ba4b1ef9012bff1eb921d2275e042.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/128/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14924,
+      "numero": 129,
+      "titulo": "Dragon Ball - 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e269c86c81a094e0e9aefbefb5514ce.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/129/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14925,
+      "numero": 130,
+      "titulo": "Dragon Ball - 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef8051ce270059a142fcb0b3e47b1cd4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/130/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14926,
+      "numero": 131,
+      "titulo": "Dragon Ball - 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_490efb66c5016fa88d6fcbc4e505a7ef.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/131/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14927,
+      "numero": 132,
+      "titulo": "Dragon Ball - 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01741e5669e3f7622b92810ab0449276.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/132/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14928,
+      "numero": 133,
+      "titulo": "Dragon Ball - 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79f53927eb6603ae6c54b55ff7a39803.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/133/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14929,
+      "numero": 134,
+      "titulo": "Dragon Ball - 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5243958a762063341dc82d2bbf0f5f33.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/134/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14930,
+      "numero": 135,
+      "titulo": "Dragon Ball - 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2109366d68770c5528aa56705516f364.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/135/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14931,
+      "numero": 136,
+      "titulo": "Dragon Ball - 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5b0e516bb635da95ca6c4d230800d44.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/136/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14932,
+      "numero": 137,
+      "titulo": "Dragon Ball - 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c08ae30017dd59ab94acc5eb90d0920b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/137/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14933,
+      "numero": 138,
+      "titulo": "Dragon Ball - 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d8875e24e23d69f253a077f447ed7c3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/138/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14934,
+      "numero": 139,
+      "titulo": "Dragon Ball - 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3041b624a29b78cd03e5dda98f917661.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/139/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14935,
+      "numero": 140,
+      "titulo": "Dragon Ball - 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e2020a9be8dde3fd1fdd77c4d3b9762.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/140/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14936,
+      "numero": 141,
+      "titulo": "Dragon Ball - 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_500d2e6424f6fe03447c9d3545e6b376.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/141/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14937,
+      "numero": 142,
+      "titulo": "Dragon Ball - 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_129d98d6e137d64ffafd9406ea6c450d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/142/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14938,
+      "numero": 143,
+      "titulo": "Dragon Ball - 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9fd61fc1d487cfacd6260db596096c9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/143/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14939,
+      "numero": 144,
+      "titulo": "Dragon Ball - 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_435ad9b3729fb0ca87e1aeca02f48b5b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/144/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14940,
+      "numero": 145,
+      "titulo": "Dragon Ball - 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01de4c21eacf934da60552507a4696e6.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/145/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14941,
+      "numero": 146,
+      "titulo": "Dragon Ball - 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2419822e9c0e9b994a1cc4b66f6c7eab.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/146/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14942,
+      "numero": 147,
+      "titulo": "Dragon Ball - 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e292a02eb5db4f6bb4c1d17c9496771.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/147/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14943,
+      "numero": 148,
+      "titulo": "Dragon Ball - 148",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ee99048971f0284e4c36e56c2502977.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/148/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14944,
+      "numero": 149,
+      "titulo": "Dragon Ball - 149",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc32f8c132c0fb39c91d4f3dad7085a4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/149/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14945,
+      "numero": 150,
+      "titulo": "Dragon Ball - 150",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9968e290a0f71cd8188ab5642988a60.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/150/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14946,
+      "numero": 151,
+      "titulo": "Dragon Ball - 151",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15bc005c266883ec57a2fae120a349b3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/151/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14947,
+      "numero": 152,
+      "titulo": "Dragon Ball - 152",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a600c968f4e6a843dcaf600c1694e42.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/152/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    },
+    {
+      "id_origen": 14948,
+      "numero": 153,
+      "titulo": "Dragon Ball - 153",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca2269a193ca0bd45e48f334b39d3b2e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball/153/",
+      "publicado_en_origen": "2012-02-13 16:38:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "266",
+  "cantidad_episodios_declarada": 153,
+  "detalle_extraido_en": "2026-08-26T18:25:41+00:00"
+}

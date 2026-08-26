@@ -1,0 +1,37 @@
+{
+  "id_origen": 2361,
+  "slug": "eromanga-sensei-ova",
+  "titulo": "Eromanga-sensei OVA",
+  "titulo_corto": "Eromanga-sensei OVA",
+  "sinopsis": "Ova de Eromanga-sensei",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/eromanga-sensei-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/eromanga-sensei-ova/",
+  "episodios": [
+    {
+      "id_origen": 38682,
+      "numero": 1,
+      "titulo": "Eromanga-sensei OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94266168611faef77b81da13549edc4c.jpg",
+      "url_origen": "https://jkanime.net/eromanga-sensei-ova/1/",
+      "publicado_en_origen": "2019-01-15 19:31:02"
+    },
+    {
+      "id_origen": 38683,
+      "numero": 2,
+      "titulo": "Eromanga-sensei OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce59ae595b0603be063a5169c69d2243.jpg",
+      "url_origen": "https://jkanime.net/eromanga-sensei-ova/2/",
+      "publicado_en_origen": "2019-01-15 23:26:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:12+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2361",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:26:23+00:00"
+}

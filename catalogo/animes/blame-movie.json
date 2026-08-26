@@ -1,0 +1,29 @@
+{
+  "id_origen": 3653,
+  "slug": "blame-movie",
+  "titulo": "Blame! Movie",
+  "titulo_corto": "Blame! Movie",
+  "sinopsis": "En un futuro lejano, la civilización se ha integrado completamente con la cibertecnología, dando lugar a ciudades automatizadas. Un virus provoca que estos sistemas automatizados funcionen mal.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/blame-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/blame-movie/",
+  "episodios": [
+    {
+      "id_origen": 55822,
+      "numero": 1,
+      "titulo": "Blame! Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_881f0760cc47a24c8806831680f60900.jpg",
+      "url_origen": "https://jkanime.net/blame-movie/1/",
+      "publicado_en_origen": "2024-02-01 19:33:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3653",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:20:17+00:00"
+}

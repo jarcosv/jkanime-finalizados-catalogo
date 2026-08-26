@@ -1,0 +1,53 @@
+{
+  "id_origen": 2116,
+  "slug": "digimon-adventure-tri-5-kyousei",
+  "titulo": "Digimon Adventure tri. 5: Kyousei",
+  "titulo_corto": "Digimon Adventure tri. 5: Kyou...",
+  "sinopsis": "Quinta Pelicula de Digimon Adventure tri.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-adventure-tri-5-kyousei.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/digimon-adventure-tri-5-kyousei/",
+  "episodios": [
+    {
+      "id_origen": 35721,
+      "numero": 1,
+      "titulo": "Digimon Adventure tri. 5: Kyousei",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a545d4c9d7e524e92d84d5afc9cb8d6b.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-5-kyousei/1/",
+      "publicado_en_origen": "2017-09-29 14:49:57"
+    },
+    {
+      "id_origen": 35722,
+      "numero": 2,
+      "titulo": "Digimon Adventure tri. 5: Kyousei",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_917ad2565258f410a86a57d6cfa47a8f.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-5-kyousei/2/",
+      "publicado_en_origen": "2017-09-29 14:54:13"
+    },
+    {
+      "id_origen": 35723,
+      "numero": 3,
+      "titulo": "Digimon Adventure tri. 5: Kyousei",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15869308eb7795a355e6ef565a2c6d53.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-5-kyousei/3/",
+      "publicado_en_origen": "2017-09-29 15:15:57"
+    },
+    {
+      "id_origen": 35724,
+      "numero": 4,
+      "titulo": "Digimon Adventure tri. 5: Kyousei - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d1482e5b98498fb5c7784247734c3c8.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-5-kyousei/4/",
+      "publicado_en_origen": "2017-09-29 15:24:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:23+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2116",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:05+00:00"
+}

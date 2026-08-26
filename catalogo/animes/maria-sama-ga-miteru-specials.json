@@ -1,0 +1,77 @@
+{
+  "id_origen": 4302,
+  "slug": "maria-sama-ga-miteru-specials",
+  "titulo": "Maria-sama ga Miteru Specials",
+  "titulo_corto": "Maria-sama ga Miteru Specials",
+  "sinopsis": "Una serie de especiales incluidos en los lanzamientos en DVD de Maria-sama ga Miteru.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/maria-sama-ga-miteru-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/maria-sama-ga-miteru-specials/",
+  "episodios": [
+    {
+      "id_origen": 66400,
+      "numero": 1,
+      "titulo": "Maria-sama ga Miteru Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bdf99e3e767efbcc1ad0fa32470e9f4.jpg",
+      "url_origen": "https://jkanime.net/maria-sama-ga-miteru-specials/1/",
+      "publicado_en_origen": "2025-08-10 22:53:20"
+    },
+    {
+      "id_origen": 66401,
+      "numero": 2,
+      "titulo": "Maria-sama ga Miteru Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a148a5bfce4d6a324f221f91256538b.jpg",
+      "url_origen": "https://jkanime.net/maria-sama-ga-miteru-specials/2/",
+      "publicado_en_origen": "2025-08-10 22:53:20"
+    },
+    {
+      "id_origen": 66402,
+      "numero": 3,
+      "titulo": "Maria-sama ga Miteru Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9979f281ee5e6521da859a821020662.jpg",
+      "url_origen": "https://jkanime.net/maria-sama-ga-miteru-specials/3/",
+      "publicado_en_origen": "2025-08-10 22:53:20"
+    },
+    {
+      "id_origen": 66403,
+      "numero": 4,
+      "titulo": "Maria-sama ga Miteru Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f1e6a3101e282118bb6a1eb3c59d02a.jpg",
+      "url_origen": "https://jkanime.net/maria-sama-ga-miteru-specials/4/",
+      "publicado_en_origen": "2025-08-10 22:53:20"
+    },
+    {
+      "id_origen": 66404,
+      "numero": 5,
+      "titulo": "Maria-sama ga Miteru Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6433821a5deba86e1f4a39147c0cc2c6.jpg",
+      "url_origen": "https://jkanime.net/maria-sama-ga-miteru-specials/5/",
+      "publicado_en_origen": "2025-08-10 22:53:20"
+    },
+    {
+      "id_origen": 66405,
+      "numero": 6,
+      "titulo": "Maria-sama ga Miteru Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bc96a3fd139396b99c16dbcb94623f2.jpg",
+      "url_origen": "https://jkanime.net/maria-sama-ga-miteru-specials/6/",
+      "publicado_en_origen": "2025-08-10 22:53:20"
+    },
+    {
+      "id_origen": 66406,
+      "numero": 7,
+      "titulo": "Maria-sama ga Miteru Specials - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_621ec3550486efcd0e62fdb37b3d3754.jpg",
+      "url_origen": "https://jkanime.net/maria-sama-ga-miteru-specials/7/",
+      "publicado_en_origen": "2025-08-10 22:53:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4302",
+  "cantidad_episodios_declarada": 7,
+  "detalle_extraido_en": "2026-08-26T18:37:57+00:00"
+}

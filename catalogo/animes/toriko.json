@@ -1,0 +1,1197 @@
+{
+  "id_origen": 635,
+  "slug": "toriko",
+  "titulo": "Toriko",
+  "titulo_corto": "Toriko",
+  "sinopsis": "En un mundo donde el sabor y la comida son lo mas importante esta Toriko, un cazador de la comida mas preciada que es regularmente contratado por “El Rico”. Toriko es un hombre con talento inhumano para cazar los más feroces y raros animales para completar su última cena definitiva. Luego esta su tímido compañero quien es inspirado por la grandeza de Toriko y quien lo acompaña a lo largo de su aventura en la búsqueda del sabor definitivo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/toriko.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/toriko/",
+  "episodios": [
+    {
+      "id_origen": 16989,
+      "numero": 1,
+      "titulo": "Toriko - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_634b9206656831123c8782279320a0a5.jpg",
+      "url_origen": "https://jkanime.net/toriko/1/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 16990,
+      "numero": 2,
+      "titulo": "Toriko - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e4869c12089468fa69ceca248253b17.jpg",
+      "url_origen": "https://jkanime.net/toriko/2/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 16991,
+      "numero": 3,
+      "titulo": "Toriko - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84c4f0b0bf96a0cd9082433e88811703.jpg",
+      "url_origen": "https://jkanime.net/toriko/3/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 16992,
+      "numero": 4,
+      "titulo": "Toriko - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b025801b78399a165d40f04c78399463.jpg",
+      "url_origen": "https://jkanime.net/toriko/4/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 16993,
+      "numero": 5,
+      "titulo": "Toriko - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5f31ecf4111f3bbfa2b36f851379d6e.jpg",
+      "url_origen": "https://jkanime.net/toriko/5/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 16994,
+      "numero": 6,
+      "titulo": "Toriko - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53c94cef17f0ee088aca6e081ccc3882.jpg",
+      "url_origen": "https://jkanime.net/toriko/6/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 16995,
+      "numero": 7,
+      "titulo": "Toriko - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d21263560dafaaf303e72c3ea33208f.jpg",
+      "url_origen": "https://jkanime.net/toriko/7/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 16996,
+      "numero": 8,
+      "titulo": "Toriko - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8ff7030a0d078bec25f25c9b705d228.jpg",
+      "url_origen": "https://jkanime.net/toriko/8/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 16997,
+      "numero": 9,
+      "titulo": "Toriko - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a49ffb16c3666d2f693bc7b5fdca969d.jpg",
+      "url_origen": "https://jkanime.net/toriko/9/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 16998,
+      "numero": 10,
+      "titulo": "Toriko - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9e7aeae02fade22d8a268303051be75.jpg",
+      "url_origen": "https://jkanime.net/toriko/10/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 16999,
+      "numero": 11,
+      "titulo": "Toriko - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d4bf338b9f623355c3dfc9f20aa2b53.jpg",
+      "url_origen": "https://jkanime.net/toriko/11/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17000,
+      "numero": 12,
+      "titulo": "Toriko - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1d4b6452378d64ccbfe7f20fca7843c.jpg",
+      "url_origen": "https://jkanime.net/toriko/12/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17001,
+      "numero": 13,
+      "titulo": "Toriko - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c2d760f60a6ea70b0a10ef9ff2351f5.jpg",
+      "url_origen": "https://jkanime.net/toriko/13/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17002,
+      "numero": 14,
+      "titulo": "Toriko - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64502272bd02ef05cfeb5ea9fcfc285b.jpg",
+      "url_origen": "https://jkanime.net/toriko/14/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17003,
+      "numero": 15,
+      "titulo": "Toriko - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_020f6fecd026539260779d34aa1a6944.jpg",
+      "url_origen": "https://jkanime.net/toriko/15/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17004,
+      "numero": 16,
+      "titulo": "Toriko - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15727725d8796a98b77975b777e43cb9.jpg",
+      "url_origen": "https://jkanime.net/toriko/16/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17005,
+      "numero": 17,
+      "titulo": "Toriko - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79308b8c5a5f5f37f56b8ddcab734fab.jpg",
+      "url_origen": "https://jkanime.net/toriko/17/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17006,
+      "numero": 18,
+      "titulo": "Toriko - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fb15019103809d7311d26d2e8bb47ed.jpg",
+      "url_origen": "https://jkanime.net/toriko/18/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17007,
+      "numero": 19,
+      "titulo": "Toriko - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_726bd18c52afc248015dcdbc463c6f85.jpg",
+      "url_origen": "https://jkanime.net/toriko/19/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17008,
+      "numero": 20,
+      "titulo": "Toriko - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cef347a99ab5be3642ec79a8e2c0bc87.jpg",
+      "url_origen": "https://jkanime.net/toriko/20/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17009,
+      "numero": 21,
+      "titulo": "Toriko - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8db1625bead0f643f7f7913edc2a8434.jpg",
+      "url_origen": "https://jkanime.net/toriko/21/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17010,
+      "numero": 22,
+      "titulo": "Toriko - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1345df26413e5a97ce4bddd35cad74b8.jpg",
+      "url_origen": "https://jkanime.net/toriko/22/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17011,
+      "numero": 23,
+      "titulo": "Toriko - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25819c8fe224033cc89bafa6a16cdd04.jpg",
+      "url_origen": "https://jkanime.net/toriko/23/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17012,
+      "numero": 24,
+      "titulo": "Toriko - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1780e9ba97e0174d231898c0bbfe79b5.jpg",
+      "url_origen": "https://jkanime.net/toriko/24/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17013,
+      "numero": 25,
+      "titulo": "Toriko - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ee2f957cab60715fac7a587a62fab46.jpg",
+      "url_origen": "https://jkanime.net/toriko/25/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17014,
+      "numero": 26,
+      "titulo": "Toriko - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_373321f3ae1bebd3f6818359b0f8f6e6.jpg",
+      "url_origen": "https://jkanime.net/toriko/26/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17015,
+      "numero": 27,
+      "titulo": "Toriko - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_690f9037d32604b195becdf8dce82890.jpg",
+      "url_origen": "https://jkanime.net/toriko/27/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17016,
+      "numero": 28,
+      "titulo": "Toriko - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a26e06b13f79d245c0ea522d3a398da0.jpg",
+      "url_origen": "https://jkanime.net/toriko/28/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17017,
+      "numero": 29,
+      "titulo": "Toriko - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3444e049a3a88560cba360c18001932.jpg",
+      "url_origen": "https://jkanime.net/toriko/29/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17018,
+      "numero": 30,
+      "titulo": "Toriko - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3db718a011f94f39dd49b576d785b08.jpg",
+      "url_origen": "https://jkanime.net/toriko/30/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17019,
+      "numero": 31,
+      "titulo": "Toriko - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_597a335cf6a10ec4f1861d6397a2fcdf.jpg",
+      "url_origen": "https://jkanime.net/toriko/31/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17020,
+      "numero": 32,
+      "titulo": "Toriko - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_408ea263486e7815e5e5cce5ee432353.jpg",
+      "url_origen": "https://jkanime.net/toriko/32/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17021,
+      "numero": 33,
+      "titulo": "Toriko - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3418782f19ba5d9a4e992474eb65d250.jpg",
+      "url_origen": "https://jkanime.net/toriko/33/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17022,
+      "numero": 34,
+      "titulo": "Toriko - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15322a5c9ba9bef26eb1388393e25a01.jpg",
+      "url_origen": "https://jkanime.net/toriko/34/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17023,
+      "numero": 35,
+      "titulo": "Toriko - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4768620a673136ae86da54a779b72766.jpg",
+      "url_origen": "https://jkanime.net/toriko/35/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17024,
+      "numero": 36,
+      "titulo": "Toriko - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65c0277ea758218c418ef9580692af22.jpg",
+      "url_origen": "https://jkanime.net/toriko/36/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17025,
+      "numero": 37,
+      "titulo": "Toriko - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4f26beeb0ae24b92ffd355f5e9c5fda.jpg",
+      "url_origen": "https://jkanime.net/toriko/37/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17026,
+      "numero": 38,
+      "titulo": "Toriko - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12f6de45d4efe308cfeeca3f1d0bc3af.jpg",
+      "url_origen": "https://jkanime.net/toriko/38/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17027,
+      "numero": 39,
+      "titulo": "Toriko - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7cb85538a4093e82fe8c551341057388.jpg",
+      "url_origen": "https://jkanime.net/toriko/39/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17028,
+      "numero": 40,
+      "titulo": "Toriko - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c512bddcbdebb96f50d886ccb249a752.jpg",
+      "url_origen": "https://jkanime.net/toriko/40/",
+      "publicado_en_origen": "2012-09-07 18:29:18"
+    },
+    {
+      "id_origen": 17030,
+      "numero": 41,
+      "titulo": "Toriko - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74d2b98d66f5e375d2ee3a7d9e4e1354.jpg",
+      "url_origen": "https://jkanime.net/toriko/41/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17031,
+      "numero": 42,
+      "titulo": "Toriko - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dfe163fd649f3b985fa8efd30a54391.jpg",
+      "url_origen": "https://jkanime.net/toriko/42/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17032,
+      "numero": 43,
+      "titulo": "Toriko - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02921182231b86367ac80f0a6cfcb901.jpg",
+      "url_origen": "https://jkanime.net/toriko/43/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17033,
+      "numero": 44,
+      "titulo": "Toriko - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbc4bc535f95f5f8d1b30bf34e4b4fbe.jpg",
+      "url_origen": "https://jkanime.net/toriko/44/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17034,
+      "numero": 45,
+      "titulo": "Toriko - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85da0ea73f51b181e3ce81a57d62f5b8.jpg",
+      "url_origen": "https://jkanime.net/toriko/45/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17035,
+      "numero": 46,
+      "titulo": "Toriko - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58ef9df15219a07d73b176b3e664d735.jpg",
+      "url_origen": "https://jkanime.net/toriko/46/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17036,
+      "numero": 47,
+      "titulo": "Toriko - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68ad8922e887bc33e8f1bfd2ba26e6c8.jpg",
+      "url_origen": "https://jkanime.net/toriko/47/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17037,
+      "numero": 48,
+      "titulo": "Toriko - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5739286cebed3495484f106535d1932a.jpg",
+      "url_origen": "https://jkanime.net/toriko/48/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17038,
+      "numero": 49,
+      "titulo": "Toriko - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02bf1a8bb2a792e32a8b9d57c293b349.jpg",
+      "url_origen": "https://jkanime.net/toriko/49/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17039,
+      "numero": 50,
+      "titulo": "Toriko - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b228fef87b3d5a1f8f8f5d8af8a1ea25.jpg",
+      "url_origen": "https://jkanime.net/toriko/50/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17040,
+      "numero": 51,
+      "titulo": "Toriko - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9680c4b2639ed223c2793005f0048418.jpg",
+      "url_origen": "https://jkanime.net/toriko/51/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17041,
+      "numero": 52,
+      "titulo": "Toriko - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9426e9770a77cbcaefe1fb3a7e36327d.jpg",
+      "url_origen": "https://jkanime.net/toriko/52/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17042,
+      "numero": 53,
+      "titulo": "Toriko - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a96179f5027c861921aaa4c88ddcf85.jpg",
+      "url_origen": "https://jkanime.net/toriko/53/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17043,
+      "numero": 54,
+      "titulo": "Toriko - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33097b67fa51e0115312196ee8231b5b.jpg",
+      "url_origen": "https://jkanime.net/toriko/54/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17044,
+      "numero": 55,
+      "titulo": "Toriko - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02a4f95155ad30321d3a88b53b85f2d6.jpg",
+      "url_origen": "https://jkanime.net/toriko/55/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17045,
+      "numero": 56,
+      "titulo": "Toriko - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8295ef3608eee6550ef7ef27d4000177.jpg",
+      "url_origen": "https://jkanime.net/toriko/56/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17046,
+      "numero": 57,
+      "titulo": "Toriko - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db90e948252c7d1753efe6fc9612dabe.jpg",
+      "url_origen": "https://jkanime.net/toriko/57/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17047,
+      "numero": 58,
+      "titulo": "Toriko - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d118d975f3cdf403187a078f3a06f866.jpg",
+      "url_origen": "https://jkanime.net/toriko/58/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17048,
+      "numero": 59,
+      "titulo": "Toriko - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83584fd991eed3055f7b446843f1200e.jpg",
+      "url_origen": "https://jkanime.net/toriko/59/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17049,
+      "numero": 60,
+      "titulo": "Toriko - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9c8cde98a8d6dfda2273e26fedaeda8.jpg",
+      "url_origen": "https://jkanime.net/toriko/60/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17050,
+      "numero": 61,
+      "titulo": "Toriko - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9aeadabd8172e574de598c611e410eed.jpg",
+      "url_origen": "https://jkanime.net/toriko/61/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17051,
+      "numero": 62,
+      "titulo": "Toriko - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba66841940a5fb383b6258d37ed444dc.jpg",
+      "url_origen": "https://jkanime.net/toriko/62/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17052,
+      "numero": 63,
+      "titulo": "Toriko - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_40ab3567559c1b511cd5f61365aae953.jpg",
+      "url_origen": "https://jkanime.net/toriko/63/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17053,
+      "numero": 64,
+      "titulo": "Toriko - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b527e953c64bdaef2ca06d4b3c4e59b1.jpg",
+      "url_origen": "https://jkanime.net/toriko/64/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17054,
+      "numero": 65,
+      "titulo": "Toriko - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07fb6ce39032041f0d9e1cbeb08f2fb2.jpg",
+      "url_origen": "https://jkanime.net/toriko/65/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17055,
+      "numero": 66,
+      "titulo": "Toriko - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e9d4f159d588700cf812f18d9920017.jpg",
+      "url_origen": "https://jkanime.net/toriko/66/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17056,
+      "numero": 67,
+      "titulo": "Toriko - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f834c6dc78805618e628fa9f02a39e4.jpg",
+      "url_origen": "https://jkanime.net/toriko/67/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17057,
+      "numero": 68,
+      "titulo": "Toriko - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea091ca6d4f474a765f3777597b384f8.jpg",
+      "url_origen": "https://jkanime.net/toriko/68/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17058,
+      "numero": 69,
+      "titulo": "Toriko - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_523f43693bfa6c607d2fe43b43ba96fd.jpg",
+      "url_origen": "https://jkanime.net/toriko/69/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17059,
+      "numero": 70,
+      "titulo": "Toriko - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d6c3e4023165b5a99515b9bf87cb41d.jpg",
+      "url_origen": "https://jkanime.net/toriko/70/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17060,
+      "numero": 71,
+      "titulo": "Toriko - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f8f593af6b09a7d68c36ed5a2a56b3e.jpg",
+      "url_origen": "https://jkanime.net/toriko/71/",
+      "publicado_en_origen": "2012-09-07 19:20:49"
+    },
+    {
+      "id_origen": 17152,
+      "numero": 72,
+      "titulo": "Toriko - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7cd4536abacd24976a94ce7e5e10939.jpg",
+      "url_origen": "https://jkanime.net/toriko/72/",
+      "publicado_en_origen": "2012-09-12 21:00:30"
+    },
+    {
+      "id_origen": 17249,
+      "numero": 73,
+      "titulo": "Toriko - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_918d58be2384bacb0c9bfc0481364d1a.jpg",
+      "url_origen": "https://jkanime.net/toriko/73/",
+      "publicado_en_origen": "2012-09-19 21:39:44"
+    },
+    {
+      "id_origen": 17556,
+      "numero": 74,
+      "titulo": "Toriko - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1af2f80dc87577a2c309b3ee992a07c5.jpg",
+      "url_origen": "https://jkanime.net/toriko/74/",
+      "publicado_en_origen": "2012-09-27 15:37:36"
+    },
+    {
+      "id_origen": 17633,
+      "numero": 75,
+      "titulo": "Toriko - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef58947dc33e8fc85af0f246352112f7.jpg",
+      "url_origen": "https://jkanime.net/toriko/75/",
+      "publicado_en_origen": "2012-10-05 10:16:46"
+    },
+    {
+      "id_origen": 17679,
+      "numero": 76,
+      "titulo": "Toriko - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_413dbafedc2c8a00fd0f6983affcc50b.jpg",
+      "url_origen": "https://jkanime.net/toriko/76/",
+      "publicado_en_origen": "2012-10-10 01:32:53"
+    },
+    {
+      "id_origen": 17851,
+      "numero": 77,
+      "titulo": "Toriko - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce6846556e8c145e84416120fd93e50c.jpg",
+      "url_origen": "https://jkanime.net/toriko/77/",
+      "publicado_en_origen": "2012-10-17 00:55:05"
+    },
+    {
+      "id_origen": 18069,
+      "numero": 78,
+      "titulo": "Toriko - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b4c9cfacb612f3dbfaa3576d9fff4cd.jpg",
+      "url_origen": "https://jkanime.net/toriko/78/",
+      "publicado_en_origen": "2012-10-23 17:43:19"
+    },
+    {
+      "id_origen": 18159,
+      "numero": 79,
+      "titulo": "Toriko - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f33f9a831253704b1f9d34523f001ae.jpg",
+      "url_origen": "https://jkanime.net/toriko/79/",
+      "publicado_en_origen": "2012-10-31 03:39:26"
+    },
+    {
+      "id_origen": 18302,
+      "numero": 80,
+      "titulo": "Toriko - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38d526e00fad4f0b9b4534405e5badfd.jpg",
+      "url_origen": "https://jkanime.net/toriko/80/",
+      "publicado_en_origen": "2012-11-07 01:24:47"
+    },
+    {
+      "id_origen": 18435,
+      "numero": 81,
+      "titulo": "Toriko - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6076870474b1ea11f0fbdbaffe86d3fc.jpg",
+      "url_origen": "https://jkanime.net/toriko/81/",
+      "publicado_en_origen": "2012-11-15 04:03:37"
+    },
+    {
+      "id_origen": 18516,
+      "numero": 82,
+      "titulo": "Toriko - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_013cea97990e3c1fd64dacf0d32f7582.jpg",
+      "url_origen": "https://jkanime.net/toriko/82/",
+      "publicado_en_origen": "2012-11-23 18:46:50"
+    },
+    {
+      "id_origen": 18545,
+      "numero": 83,
+      "titulo": "Toriko - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da27d51c6cf1872b5d8089dfe221c35a.jpg",
+      "url_origen": "https://jkanime.net/toriko/83/",
+      "publicado_en_origen": "2012-11-30 06:01:08"
+    },
+    {
+      "id_origen": 18567,
+      "numero": 84,
+      "titulo": "Toriko - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f01807ad5d67de3e46e244252dd55e5.jpg",
+      "url_origen": "https://jkanime.net/toriko/84/",
+      "publicado_en_origen": "2012-12-04 23:37:37"
+    },
+    {
+      "id_origen": 18611,
+      "numero": 85,
+      "titulo": "Toriko - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_643d54cbb5e50cf4a6e978af475a98a2.jpg",
+      "url_origen": "https://jkanime.net/toriko/85/",
+      "publicado_en_origen": "2012-12-13 07:21:43"
+    },
+    {
+      "id_origen": 18750,
+      "numero": 86,
+      "titulo": "Toriko - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6070e54fb69614dce3d06d1ae4682d37.jpg",
+      "url_origen": "https://jkanime.net/toriko/86/",
+      "publicado_en_origen": "2012-12-19 01:51:11"
+    },
+    {
+      "id_origen": 18787,
+      "numero": 87,
+      "titulo": "Toriko - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce9d84d48b2448b7e7c4bac79f5a7bd9.jpg",
+      "url_origen": "https://jkanime.net/toriko/87/",
+      "publicado_en_origen": "2012-12-26 13:43:44"
+    },
+    {
+      "id_origen": 18965,
+      "numero": 88,
+      "titulo": "Toriko - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb7f08e109f0b2bfa5e7e2d1233fa6d6.jpg",
+      "url_origen": "https://jkanime.net/toriko/88/",
+      "publicado_en_origen": "2013-01-09 15:35:09"
+    },
+    {
+      "id_origen": 19087,
+      "numero": 89,
+      "titulo": "Toriko - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db4b852fceaa5260e33e1cfcfe37fbb9.jpg",
+      "url_origen": "https://jkanime.net/toriko/89/",
+      "publicado_en_origen": "2013-01-17 21:23:15"
+    },
+    {
+      "id_origen": 19132,
+      "numero": 90,
+      "titulo": "Toriko - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75b769beb7e88dc7c59c1adb2006533c.jpg",
+      "url_origen": "https://jkanime.net/toriko/90/",
+      "publicado_en_origen": "2013-01-22 12:54:36"
+    },
+    {
+      "id_origen": 19188,
+      "numero": 91,
+      "titulo": "Toriko - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48e3d4150e4efd6b044b7101c222b6ad.jpg",
+      "url_origen": "https://jkanime.net/toriko/91/",
+      "publicado_en_origen": "2013-01-30 09:39:12"
+    },
+    {
+      "id_origen": 19262,
+      "numero": 92,
+      "titulo": "Toriko - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a7fcebb1365ff225fcd4c5712017153.jpg",
+      "url_origen": "https://jkanime.net/toriko/92/",
+      "publicado_en_origen": "2013-02-06 17:14:08"
+    },
+    {
+      "id_origen": 19311,
+      "numero": 93,
+      "titulo": "Toriko - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b2a8f2b014bb326fd82ee313704e78c.jpg",
+      "url_origen": "https://jkanime.net/toriko/93/",
+      "publicado_en_origen": "2013-02-13 21:29:05"
+    },
+    {
+      "id_origen": 19386,
+      "numero": 94,
+      "titulo": "Toriko - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b62d8976329e9c1c304baa4427f8e0a2.jpg",
+      "url_origen": "https://jkanime.net/toriko/94/",
+      "publicado_en_origen": "2013-02-20 20:35:48"
+    },
+    {
+      "id_origen": 19535,
+      "numero": 95,
+      "titulo": "Toriko - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4526ff9c12cbeaf09fff0a778938b52e.jpg",
+      "url_origen": "https://jkanime.net/toriko/95/",
+      "publicado_en_origen": "2013-03-06 18:41:27"
+    },
+    {
+      "id_origen": 19682,
+      "numero": 96,
+      "titulo": "Toriko - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0f5bb23392d44cd7d25e62198a7cb7b.jpg",
+      "url_origen": "https://jkanime.net/toriko/96/",
+      "publicado_en_origen": "2013-03-20 00:17:29"
+    },
+    {
+      "id_origen": 19967,
+      "numero": 97,
+      "titulo": "Toriko - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b60adcb70283fea07596c9a73ddfb899.jpg",
+      "url_origen": "https://jkanime.net/toriko/97/",
+      "publicado_en_origen": "2013-03-26 19:22:47"
+    },
+    {
+      "id_origen": 20023,
+      "numero": 98,
+      "titulo": "Toriko 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99a805bc0d0845bf489b9b09ad69ea30.jpg",
+      "url_origen": "https://jkanime.net/toriko/98/",
+      "publicado_en_origen": "2013-04-02 17:30:21"
+    },
+    {
+      "id_origen": 20091,
+      "numero": 99,
+      "titulo": "Toriko - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ac462c3beb1a7bb86506bb0218c55af.jpg",
+      "url_origen": "https://jkanime.net/toriko/99/",
+      "publicado_en_origen": "2013-04-10 03:56:49"
+    },
+    {
+      "id_origen": 20323,
+      "numero": 100,
+      "titulo": "Toriko 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b6b2c2092fa735afd2b9b1da3d5db43.jpg",
+      "url_origen": "https://jkanime.net/toriko/100/",
+      "publicado_en_origen": "2013-04-17 21:55:27"
+    },
+    {
+      "id_origen": 20363,
+      "numero": 101,
+      "titulo": "Toriko - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58f03e4be24a4ff9d2d3ba639f11fd6a.jpg",
+      "url_origen": "https://jkanime.net/toriko/101/",
+      "publicado_en_origen": "2013-04-24 16:30:07"
+    },
+    {
+      "id_origen": 20405,
+      "numero": 102,
+      "titulo": "Toriko - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acef922769a4ac259c0e0a0043049627.jpg",
+      "url_origen": "https://jkanime.net/toriko/102/",
+      "publicado_en_origen": "2013-04-30 22:06:15"
+    },
+    {
+      "id_origen": 20446,
+      "numero": 103,
+      "titulo": "Toriko - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1134cfb56d4c87a67f57d3bc51bd2a3f.jpg",
+      "url_origen": "https://jkanime.net/toriko/103/",
+      "publicado_en_origen": "2013-05-08 22:45:18"
+    },
+    {
+      "id_origen": 20483,
+      "numero": 104,
+      "titulo": "Toriko - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70c8f994a37f42dc783d951ffaa80ef8.jpg",
+      "url_origen": "https://jkanime.net/toriko/104/",
+      "publicado_en_origen": "2013-05-14 23:29:33"
+    },
+    {
+      "id_origen": 20518,
+      "numero": 105,
+      "titulo": "Toriko - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbacbbc9deb01ff97bfa8f71da0171e0.jpg",
+      "url_origen": "https://jkanime.net/toriko/105/",
+      "publicado_en_origen": "2013-05-22 15:25:01"
+    },
+    {
+      "id_origen": 20560,
+      "numero": 106,
+      "titulo": "Toriko - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43f5ae8ef1a6bcfb761e9af381a006f5.jpg",
+      "url_origen": "https://jkanime.net/toriko/106/",
+      "publicado_en_origen": "2013-05-30 16:16:02"
+    },
+    {
+      "id_origen": 20595,
+      "numero": 107,
+      "titulo": "Toriko - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da652f1b9a11aa3b355627beaaf50d33.jpg",
+      "url_origen": "https://jkanime.net/toriko/107/",
+      "publicado_en_origen": "2013-06-04 23:26:03"
+    },
+    {
+      "id_origen": 20631,
+      "numero": 108,
+      "titulo": "Toriko - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_485a14fd62b66db23227ab287b1eea1b.jpg",
+      "url_origen": "https://jkanime.net/toriko/108/",
+      "publicado_en_origen": "2013-06-11 11:49:18"
+    },
+    {
+      "id_origen": 20672,
+      "numero": 109,
+      "titulo": "Toriko - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9a94fc61d256b45beca8baf2b7c6808.jpg",
+      "url_origen": "https://jkanime.net/toriko/109/",
+      "publicado_en_origen": "2013-06-18 20:03:52"
+    },
+    {
+      "id_origen": 20775,
+      "numero": 110,
+      "titulo": "Toriko - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d31ca42bef8caac3c5c1bf09c5eabd17.jpg",
+      "url_origen": "https://jkanime.net/toriko/110/",
+      "publicado_en_origen": "2013-06-26 07:12:11"
+    },
+    {
+      "id_origen": 20958,
+      "numero": 111,
+      "titulo": "Toriko - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58aeb181265efefda62c3475bec08882.jpg",
+      "url_origen": "https://jkanime.net/toriko/111/",
+      "publicado_en_origen": "2013-07-02 18:32:52"
+    },
+    {
+      "id_origen": 21052,
+      "numero": 112,
+      "titulo": "Toriko - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1196e4d5f25b0c1c3e45ee482191aad.jpg",
+      "url_origen": "https://jkanime.net/toriko/112/",
+      "publicado_en_origen": "2013-07-11 22:30:58"
+    },
+    {
+      "id_origen": 21093,
+      "numero": 113,
+      "titulo": "Toriko - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dacbf079ffedc402d67968f7757064dd.jpg",
+      "url_origen": "https://jkanime.net/toriko/113/",
+      "publicado_en_origen": "2013-07-16 20:55:46"
+    },
+    {
+      "id_origen": 21135,
+      "numero": 114,
+      "titulo": "Toriko - 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87191796a64e570bc2ce6f722d7f8277.jpg",
+      "url_origen": "https://jkanime.net/toriko/114/",
+      "publicado_en_origen": "2013-07-23 00:50:20"
+    },
+    {
+      "id_origen": 21183,
+      "numero": 115,
+      "titulo": "Toriko - 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7644abae9d51f072401f013b5d42d53.jpg",
+      "url_origen": "https://jkanime.net/toriko/115/",
+      "publicado_en_origen": "2013-07-30 14:21:06"
+    },
+    {
+      "id_origen": 21279,
+      "numero": 116,
+      "titulo": "Toriko - 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b040016a9f9b158b9e2110fd9299979b.jpg",
+      "url_origen": "https://jkanime.net/toriko/116/",
+      "publicado_en_origen": "2013-08-14 12:05:38"
+    },
+    {
+      "id_origen": 21344,
+      "numero": 117,
+      "titulo": "Toriko - 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d29759865b9aac303dc0a80dd358b90.jpg",
+      "url_origen": "https://jkanime.net/toriko/117/",
+      "publicado_en_origen": "2013-08-24 01:59:42"
+    },
+    {
+      "id_origen": 21392,
+      "numero": 118,
+      "titulo": "Toriko - 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b681006b27581d5351925dcd2039a79b.jpg",
+      "url_origen": "https://jkanime.net/toriko/118/",
+      "publicado_en_origen": "2013-08-31 13:49:09"
+    },
+    {
+      "id_origen": 21429,
+      "numero": 119,
+      "titulo": "Toriko - 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a42c6d96e478f1d17de4125dd591e306.jpg",
+      "url_origen": "https://jkanime.net/toriko/119/",
+      "publicado_en_origen": "2013-09-05 14:46:00"
+    },
+    {
+      "id_origen": 21482,
+      "numero": 120,
+      "titulo": "Toriko - 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b80d1ec3ddec44d03ab7b4d32a6ae480.jpg",
+      "url_origen": "https://jkanime.net/toriko/120/",
+      "publicado_en_origen": "2013-09-13 10:24:45"
+    },
+    {
+      "id_origen": 21516,
+      "numero": 121,
+      "titulo": "Toriko - 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e64860da9a6248363a016357d47bd65f.jpg",
+      "url_origen": "https://jkanime.net/toriko/121/",
+      "publicado_en_origen": "2013-09-17 15:41:00"
+    },
+    {
+      "id_origen": 21567,
+      "numero": 122,
+      "titulo": "Toriko - 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3350f342187a513cfe28119c59dc9038.jpg",
+      "url_origen": "https://jkanime.net/toriko/122/",
+      "publicado_en_origen": "2013-09-27 08:40:05"
+    },
+    {
+      "id_origen": 21609,
+      "numero": 123,
+      "titulo": "Toriko - 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6578ea8c336aa704c7e8ea2c5f19353b.jpg",
+      "url_origen": "https://jkanime.net/toriko/123/",
+      "publicado_en_origen": "2013-10-04 12:04:06"
+    },
+    {
+      "id_origen": 21714,
+      "numero": 124,
+      "titulo": "Toriko - 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_686f00871cd791c737f62de38ef67fb4.jpg",
+      "url_origen": "https://jkanime.net/toriko/124/",
+      "publicado_en_origen": "2013-10-11 15:13:49"
+    },
+    {
+      "id_origen": 21767,
+      "numero": 125,
+      "titulo": "Toriko - 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdeeafb8118bb5cf2fd45b00d389e03a.jpg",
+      "url_origen": "https://jkanime.net/toriko/125/",
+      "publicado_en_origen": "2013-10-18 16:02:10"
+    },
+    {
+      "id_origen": 21827,
+      "numero": 126,
+      "titulo": "Toriko - 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0147fa9611db0b7cd706139ae2170494.jpg",
+      "url_origen": "https://jkanime.net/toriko/126/",
+      "publicado_en_origen": "2013-10-26 13:08:25"
+    },
+    {
+      "id_origen": 21881,
+      "numero": 127,
+      "titulo": "Toriko - 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce5b54471d6429e7414522ceb08291a7.jpg",
+      "url_origen": "https://jkanime.net/toriko/127/",
+      "publicado_en_origen": "2013-11-02 22:03:01"
+    },
+    {
+      "id_origen": 21941,
+      "numero": 128,
+      "titulo": "Toriko - 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_502875cfe610e2c1769d79cfd9b0190a.jpg",
+      "url_origen": "https://jkanime.net/toriko/128/",
+      "publicado_en_origen": "2013-11-10 16:47:52"
+    },
+    {
+      "id_origen": 21993,
+      "numero": 129,
+      "titulo": "Toriko - 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cda6eea50e92e0d0b6d22b6b54364ff0.jpg",
+      "url_origen": "https://jkanime.net/toriko/129/",
+      "publicado_en_origen": "2013-11-18 11:50:21"
+    },
+    {
+      "id_origen": 22001,
+      "numero": 130,
+      "titulo": "Toriko - 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_299a48c40fac744498626b1df660d9c3.jpg",
+      "url_origen": "https://jkanime.net/toriko/130/",
+      "publicado_en_origen": "2013-11-19 00:14:15"
+    },
+    {
+      "id_origen": 22055,
+      "numero": 131,
+      "titulo": "Toriko - 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8371d58a2140475594cb7a1c22f0baaa.jpg",
+      "url_origen": "https://jkanime.net/toriko/131/",
+      "publicado_en_origen": "2013-11-26 00:03:28"
+    },
+    {
+      "id_origen": 22106,
+      "numero": 132,
+      "titulo": "Toriko - 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54d4a3cc8acfb4ce31efda598e37450e.jpg",
+      "url_origen": "https://jkanime.net/toriko/132/",
+      "publicado_en_origen": "2013-12-03 12:24:45"
+    },
+    {
+      "id_origen": 22151,
+      "numero": 133,
+      "titulo": "Toriko - 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87a3a183ff1e3fab595915b6ec077b1a.jpg",
+      "url_origen": "https://jkanime.net/toriko/133/",
+      "publicado_en_origen": "2013-12-09 14:13:49"
+    },
+    {
+      "id_origen": 22212,
+      "numero": 134,
+      "titulo": "Toriko - 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b290bf3b1b039227841d89f5f145a80.jpg",
+      "url_origen": "https://jkanime.net/toriko/134/",
+      "publicado_en_origen": "2013-12-16 14:18:59"
+    },
+    {
+      "id_origen": 22275,
+      "numero": 135,
+      "titulo": "Toriko - 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b41f13b014afedf7837484559960da6.jpg",
+      "url_origen": "https://jkanime.net/toriko/135/",
+      "publicado_en_origen": "2013-12-24 11:22:32"
+    },
+    {
+      "id_origen": 22374,
+      "numero": 136,
+      "titulo": "Toriko - 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54bca850f1d973d680f529625844e378.jpg",
+      "url_origen": "https://jkanime.net/toriko/136/",
+      "publicado_en_origen": "2014-01-06 14:16:58"
+    },
+    {
+      "id_origen": 22439,
+      "numero": 137,
+      "titulo": "Toriko - 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad0a5cf8176cf1ebc54a07b5aeee9d85.jpg",
+      "url_origen": "https://jkanime.net/toriko/137/",
+      "publicado_en_origen": "2014-01-14 16:59:44"
+    },
+    {
+      "id_origen": 22495,
+      "numero": 138,
+      "titulo": "Toriko - 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16a60161dde5bc7860b6e6d6ee27c5fd.jpg",
+      "url_origen": "https://jkanime.net/toriko/138/",
+      "publicado_en_origen": "2014-01-21 11:55:23"
+    },
+    {
+      "id_origen": 22546,
+      "numero": 139,
+      "titulo": "Toriko - 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2a4d34f5e4caeab38d3d6b5720e7e48.jpg",
+      "url_origen": "https://jkanime.net/toriko/139/",
+      "publicado_en_origen": "2014-01-27 14:14:13"
+    },
+    {
+      "id_origen": 22607,
+      "numero": 140,
+      "titulo": "Toriko - 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_737d3708ec65e41cf504aee654131672.jpg",
+      "url_origen": "https://jkanime.net/toriko/140/",
+      "publicado_en_origen": "2014-02-03 14:07:14"
+    },
+    {
+      "id_origen": 22675,
+      "numero": 141,
+      "titulo": "Toriko - 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e632c3db5602c1e2639897989497ca5.jpg",
+      "url_origen": "https://jkanime.net/toriko/141/",
+      "publicado_en_origen": "2014-02-10 14:13:50"
+    },
+    {
+      "id_origen": 22732,
+      "numero": 142,
+      "titulo": "Toriko - 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0f548652e8a7292eb72153ee4f3b411.jpg",
+      "url_origen": "https://jkanime.net/toriko/142/",
+      "publicado_en_origen": "2014-02-17 14:07:29"
+    },
+    {
+      "id_origen": 22799,
+      "numero": 143,
+      "titulo": "Toriko - 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdc65480cfdc7050e405953f036e4a15.jpg",
+      "url_origen": "https://jkanime.net/toriko/143/",
+      "publicado_en_origen": "2014-02-24 14:11:42"
+    },
+    {
+      "id_origen": 22859,
+      "numero": 144,
+      "titulo": "Toriko - 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c6609017eb196817ebf7bb4af7e52b0.jpg",
+      "url_origen": "https://jkanime.net/toriko/144/",
+      "publicado_en_origen": "2014-03-03 14:10:37"
+    },
+    {
+      "id_origen": 22988,
+      "numero": 145,
+      "titulo": "Toriko - 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18464425b5cec45cbfdd485c61b33f38.jpg",
+      "url_origen": "https://jkanime.net/toriko/145/",
+      "publicado_en_origen": "2014-03-18 09:32:05"
+    },
+    {
+      "id_origen": 23062,
+      "numero": 146,
+      "titulo": "Toriko - 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6706f0da72316a555818858ae81eb84e.jpg",
+      "url_origen": "https://jkanime.net/toriko/146/",
+      "publicado_en_origen": "2014-03-24 13:43:47"
+    },
+    {
+      "id_origen": 23111,
+      "numero": 147,
+      "titulo": "Toriko - 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ffd8e40d538d8b30ce61cbabff98065.jpg",
+      "url_origen": "https://jkanime.net/toriko/147/",
+      "publicado_en_origen": "2014-03-31 13:10:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "635",
+  "cantidad_episodios_declarada": 147,
+  "detalle_extraido_en": "2026-08-26T18:50:06+00:00"
+}

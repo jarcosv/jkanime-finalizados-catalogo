@@ -1,0 +1,29 @@
+{
+  "id_origen": 4924,
+  "slug": "ahiru-kun-no-chiisana-bouken",
+  "titulo": "Ahiru-kun no Chiisana Bouken",
+  "titulo_corto": "Ahiru-kun no Chiisana Bouken",
+  "sinopsis": "Trata sobre un tierno pato. Muestra un viaje pequeño y sencillo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ahiru-kun-no-chiisana-bouken.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ahiru-kun-no-chiisana-bouken/",
+  "episodios": [
+    {
+      "id_origen": 76736,
+      "numero": 1,
+      "titulo": "Ahiru-kun no Chiisana Bouken",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8bbb900fee0a6c5b8236d542f5a3daa0.jpg",
+      "url_origen": "https://jkanime.net/ahiru-kun-no-chiisana-bouken/1/",
+      "publicado_en_origen": "2026-08-24 16:54:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4924",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:15:17+00:00"
+}

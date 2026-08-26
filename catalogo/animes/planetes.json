@@ -1,0 +1,229 @@
+{
+  "id_origen": 4296,
+  "slug": "planetes",
+  "titulo": "Planetes",
+  "titulo_corto": "Planetes",
+  "sinopsis": "En el año 2075 la humanidad ha alcanzado un punto donde viajar entre la Tierra, la Luna y las estaciones espaciales en parte de la vida diaria. Sin embargo, el progreso de la tecnología en el espacio ha resultado también un problema con los residuos espaciales, que pueden causar grandes daños a las naves y a los equipos. Esta es la historia de la Sección de Recogida de Residuos de Technora, su especialista en trabajos EVA (Extra Vehicular Activity), Hachirota “Hachimaki” Hocino, y la recién llegada al grupo, Ai Tanabe.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/planetes.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/planetes/",
+  "episodios": [
+    {
+      "id_origen": 66191,
+      "numero": 1,
+      "titulo": "Planetes - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c2e4c7a77865ed6b7e22cc08d05b01f.jpg",
+      "url_origen": "https://jkanime.net/planetes/1/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66192,
+      "numero": 2,
+      "titulo": "Planetes - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a11299de1404e80a41fdc75d21a84e50.jpg",
+      "url_origen": "https://jkanime.net/planetes/2/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66193,
+      "numero": 3,
+      "titulo": "Planetes - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ddfe1aa9a21086e5c450a599a6428ea.jpg",
+      "url_origen": "https://jkanime.net/planetes/3/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66194,
+      "numero": 4,
+      "titulo": "Planetes - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ee8afffac7c4a09f3c0d21bb96506a8.jpg",
+      "url_origen": "https://jkanime.net/planetes/4/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66195,
+      "numero": 5,
+      "titulo": "Planetes - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4c5db216ca90ed83f6fbcc9644b76fa.jpg",
+      "url_origen": "https://jkanime.net/planetes/5/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66196,
+      "numero": 6,
+      "titulo": "Planetes - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6fac677fa6d0975336b7cbeb6a03129.jpg",
+      "url_origen": "https://jkanime.net/planetes/6/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66197,
+      "numero": 7,
+      "titulo": "Planetes - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab79afb591e9925cfd6920d9c71c7403.jpg",
+      "url_origen": "https://jkanime.net/planetes/7/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66198,
+      "numero": 8,
+      "titulo": "Planetes - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3542ff52625d89b96d645a34bc1e370.jpg",
+      "url_origen": "https://jkanime.net/planetes/8/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66199,
+      "numero": 9,
+      "titulo": "Planetes - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd4973bc20c2e735c003a76588cb0c03.jpg",
+      "url_origen": "https://jkanime.net/planetes/9/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66200,
+      "numero": 10,
+      "titulo": "Planetes - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3dd2ae5a14664ceeacb320593f28a67.jpg",
+      "url_origen": "https://jkanime.net/planetes/10/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66201,
+      "numero": 11,
+      "titulo": "Planetes - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e731077c03aaa9982c7bbe8bf3809f6.jpg",
+      "url_origen": "https://jkanime.net/planetes/11/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66202,
+      "numero": 12,
+      "titulo": "Planetes - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ec49d2229d0f4cf948dcda753ba0f08.jpg",
+      "url_origen": "https://jkanime.net/planetes/12/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66203,
+      "numero": 13,
+      "titulo": "Planetes - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76b9bcb5a1a9029b7e7440d565d7d1a2.jpg",
+      "url_origen": "https://jkanime.net/planetes/13/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66204,
+      "numero": 14,
+      "titulo": "Planetes - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4af7bcc9b96250bcb8aafd75c7b5d9d.jpg",
+      "url_origen": "https://jkanime.net/planetes/14/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66205,
+      "numero": 15,
+      "titulo": "Planetes - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a78409bec5993f505619823342ef2b0e.jpg",
+      "url_origen": "https://jkanime.net/planetes/15/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66206,
+      "numero": 16,
+      "titulo": "Planetes - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd9b323865a28446829ec44061a5325b.jpg",
+      "url_origen": "https://jkanime.net/planetes/16/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66207,
+      "numero": 17,
+      "titulo": "Planetes - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00ab798ee179a8e5d899ce77f7519f2f.jpg",
+      "url_origen": "https://jkanime.net/planetes/17/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66208,
+      "numero": 18,
+      "titulo": "Planetes - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_371d2247404fc2dcc206af302848529a.jpg",
+      "url_origen": "https://jkanime.net/planetes/18/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66209,
+      "numero": 19,
+      "titulo": "Planetes - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b1cb6c27a4763a0f8e77bc6f34abb5d.jpg",
+      "url_origen": "https://jkanime.net/planetes/19/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66210,
+      "numero": 20,
+      "titulo": "Planetes - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_597904fb5840c80a75003cff342e43aa.jpg",
+      "url_origen": "https://jkanime.net/planetes/20/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66211,
+      "numero": 21,
+      "titulo": "Planetes - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44faddaadca74bae9e42a40203825158.jpg",
+      "url_origen": "https://jkanime.net/planetes/21/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66212,
+      "numero": 22,
+      "titulo": "Planetes - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32ceed42c0cbaeabbf7b594a72849e8a.jpg",
+      "url_origen": "https://jkanime.net/planetes/22/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66213,
+      "numero": 23,
+      "titulo": "Planetes - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0df368e1372262c2e9292f1a243a9247.jpg",
+      "url_origen": "https://jkanime.net/planetes/23/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66214,
+      "numero": 24,
+      "titulo": "Planetes - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a8d545b05e49edd0f5d5fd3fbc3883d.jpg",
+      "url_origen": "https://jkanime.net/planetes/24/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66215,
+      "numero": 25,
+      "titulo": "Planetes - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00cc89868efcfa651cf4a2c1b13a09dc.jpg",
+      "url_origen": "https://jkanime.net/planetes/25/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    },
+    {
+      "id_origen": 66216,
+      "numero": 26,
+      "titulo": "Planetes - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63938549082fbfb4d8d5436cbec21b37.jpg",
+      "url_origen": "https://jkanime.net/planetes/26/",
+      "publicado_en_origen": "2025-08-09 23:05:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4296",
+  "cantidad_episodios_declarada": 26,
+  "detalle_extraido_en": "2026-08-26T18:42:18+00:00"
+}

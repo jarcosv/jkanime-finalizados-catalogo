@@ -1,0 +1,29 @@
+{
+  "id_origen": 372,
+  "slug": "arashi-no-yoru-ni",
+  "titulo": "Arashi no Yoru ni",
+  "titulo_corto": "Arashi no Yoru ni",
+  "sinopsis": "Dos amigos enemigos naturales deben superar los problemas que causa su amistad, Gabu (el lobo) y Mei (la pequeña cabra) deben elegir entre seguir su amistad aunque tengan que dejar a sus respectivas familias o dejarse de lado para seguir con su vida de cazador y presa.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/arashi-no-yoru-ni.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/arashi-no-yoru-ni/",
+  "episodios": [
+    {
+      "id_origen": 14018,
+      "numero": 1,
+      "titulo": "Arashi no Yoru ni",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebc82ddcaa790d66bba665311ead3045.jpg",
+      "url_origen": "https://jkanime.net/arashi-no-yoru-ni/1/",
+      "publicado_en_origen": "2011-12-21 12:23:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "372",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:17:23+00:00"
+}

@@ -1,0 +1,109 @@
+{
+  "id_origen": 1884,
+  "slug": "battery",
+  "titulo": "Battery",
+  "titulo_corto": "Battery",
+  "sinopsis": "Takumi Harada es un joven que se muda a un pequeño pueblo de montaña en la prefectura de Okayama durante las vacaciones de primavera, justo antes de entrar a secundaria, debido al trabajo de su padre. Takumi es pitcher, y tras mudarse pierde la fe en su propio talento, pero su compañero de clase Ko Nagakura aparece ante él. Ko es catcher y tiene un fuerte deseo de formar una buena batería con Takumi, e intentará convencerle por todos los medios.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/battery.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/battery/",
+  "episodios": [
+    {
+      "id_origen": 32300,
+      "numero": 1,
+      "titulo": "Battery - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f57bce28faaaea3f907428563a4437c.jpg",
+      "url_origen": "https://jkanime.net/battery/1/",
+      "publicado_en_origen": "2016-07-14 23:08:03"
+    },
+    {
+      "id_origen": 32358,
+      "numero": 2,
+      "titulo": "Battery - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_454ff46780a58d90242d4a987af54633.jpg",
+      "url_origen": "https://jkanime.net/battery/2/",
+      "publicado_en_origen": "2016-07-21 18:42:12"
+    },
+    {
+      "id_origen": 32414,
+      "numero": 3,
+      "titulo": "Battery - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5928ecabcdc8f26faaa44e79476af2f0.jpg",
+      "url_origen": "https://jkanime.net/battery/3/",
+      "publicado_en_origen": "2016-07-28 18:23:38"
+    },
+    {
+      "id_origen": 32470,
+      "numero": 4,
+      "titulo": "Battery - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ba2e3e63336e31e2474cac0fd74bb40.jpg",
+      "url_origen": "https://jkanime.net/battery/4/",
+      "publicado_en_origen": "2016-08-04 18:08:18"
+    },
+    {
+      "id_origen": 32524,
+      "numero": 5,
+      "titulo": "Battery - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d15ff2db80a89807d24869fd9ffb1700.jpg",
+      "url_origen": "https://jkanime.net/battery/5/",
+      "publicado_en_origen": "2016-08-11 17:58:27"
+    },
+    {
+      "id_origen": 32576,
+      "numero": 6,
+      "titulo": "Battery - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca14cd6c279d15639a51915b4b7917bc.jpg",
+      "url_origen": "https://jkanime.net/battery/6/",
+      "publicado_en_origen": "2016-08-18 17:53:53"
+    },
+    {
+      "id_origen": 32630,
+      "numero": 7,
+      "titulo": "Battery - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0789e47353cb91045d7bd8a39bff5d0b.jpg",
+      "url_origen": "https://jkanime.net/battery/7/",
+      "publicado_en_origen": "2016-08-25 17:59:16"
+    },
+    {
+      "id_origen": 32684,
+      "numero": 8,
+      "titulo": "Battery - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb838bff2c2120b9237cac812c1019f8.jpg",
+      "url_origen": "https://jkanime.net/battery/8/",
+      "publicado_en_origen": "2016-09-01 18:25:07"
+    },
+    {
+      "id_origen": 32739,
+      "numero": 9,
+      "titulo": "Battery - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_878beb277120b9c30076e2fb2e982162.jpg",
+      "url_origen": "https://jkanime.net/battery/9/",
+      "publicado_en_origen": "2016-09-08 18:22:42"
+    },
+    {
+      "id_origen": 32834,
+      "numero": 10,
+      "titulo": "Battery - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d4375c2cc0fd3842600003f183bd34c.jpg",
+      "url_origen": "https://jkanime.net/battery/10/",
+      "publicado_en_origen": "2016-09-20 20:23:47"
+    },
+    {
+      "id_origen": 32849,
+      "numero": 11,
+      "titulo": "Battery - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f551334a0e3f64650913cc80a50d4d78.jpg",
+      "url_origen": "https://jkanime.net/battery/11/",
+      "publicado_en_origen": "2016-09-22 18:04:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1884",
+  "cantidad_episodios_declarada": 11,
+  "detalle_extraido_en": "2026-08-26T18:19:20+00:00"
+}

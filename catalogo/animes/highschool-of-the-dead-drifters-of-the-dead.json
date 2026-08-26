@@ -1,0 +1,29 @@
+{
+  "id_origen": 413,
+  "slug": "highschool-of-the-dead-drifters-of-the-dead",
+  "titulo": "Highschool of the Dead: Drifters of the Dead",
+  "titulo_corto": "Highschool of the Dead: Drifte...",
+  "sinopsis": "Una OVA de Highschool of the Dead basada en el septimo volumen del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/highschool-of-the-dead-drifters-of-the-dead.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/highschool-of-the-dead-drifters-of-the-dead/",
+  "episodios": [
+    {
+      "id_origen": 10991,
+      "numero": 1,
+      "titulo": "Ova 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35d58f24d7a7701719c983a1ef1979b1.jpg",
+      "url_origen": "https://jkanime.net/highschool-of-the-dead-drifters-of-the-dead/1/",
+      "publicado_en_origen": "2011-07-19 17:10:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "413",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:30:36+00:00"
+}

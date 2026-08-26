@@ -1,0 +1,109 @@
+{
+  "id_origen": 2605,
+  "slug": "arp-backstage-pass",
+  "titulo": "ARP Backstage Pass",
+  "titulo_corto": "ARP Backstage Pass",
+  "sinopsis": "ARP Backstage Pass",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/arp-backstage-pass.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/arp-backstage-pass/",
+  "episodios": [
+    {
+      "id_origen": 41924,
+      "numero": 1,
+      "titulo": "ARP Backstage Pass - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1823d84d3a1658907dac3f1c08d9b4f0.jpg",
+      "url_origen": "https://jkanime.net/arp-backstage-pass/1/",
+      "publicado_en_origen": "2020-01-13 17:01:35"
+    },
+    {
+      "id_origen": 41978,
+      "numero": 2,
+      "titulo": "ARP Backstage Pass - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_249e668af438f5d1be557f71e67bfd14.jpg",
+      "url_origen": "https://jkanime.net/arp-backstage-pass/2/",
+      "publicado_en_origen": "2020-01-20 16:06:34"
+    },
+    {
+      "id_origen": 42036,
+      "numero": 3,
+      "titulo": "ARP Backstage Pass - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70ad728834909498af0cd35020c14f43.jpg",
+      "url_origen": "https://jkanime.net/arp-backstage-pass/3/",
+      "publicado_en_origen": "2020-01-27 15:37:07"
+    },
+    {
+      "id_origen": 42153,
+      "numero": 4,
+      "titulo": "ARP Backstage Pass - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70217dd96da535e0b862ae12245c8906.jpg",
+      "url_origen": "https://jkanime.net/arp-backstage-pass/4/",
+      "publicado_en_origen": "2020-02-10 16:14:03"
+    },
+    {
+      "id_origen": 42201,
+      "numero": 5,
+      "titulo": "ARP Backstage Pass - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fca7ac68a9bcfe7ec3a017257471f198.jpg",
+      "url_origen": "https://jkanime.net/arp-backstage-pass/5/",
+      "publicado_en_origen": "2020-02-17 15:32:28"
+    },
+    {
+      "id_origen": 42252,
+      "numero": 6,
+      "titulo": "ARP Backstage Pass - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa0b77ceb5f375388fba9a76d7d6d953.jpg",
+      "url_origen": "https://jkanime.net/arp-backstage-pass/6/",
+      "publicado_en_origen": "2020-02-24 15:14:17"
+    },
+    {
+      "id_origen": 42353,
+      "numero": 7,
+      "titulo": "ARP Backstage Pass - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d11fefd8716b42d3decf26d287610fe.jpg",
+      "url_origen": "https://jkanime.net/arp-backstage-pass/7/",
+      "publicado_en_origen": "2020-03-09 18:58:17"
+    },
+    {
+      "id_origen": 42408,
+      "numero": 8,
+      "titulo": "ARP Backstage Pass - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4208c962bda954ddcbbc9dcd21c0aa0a.jpg",
+      "url_origen": "https://jkanime.net/arp-backstage-pass/8/",
+      "publicado_en_origen": "2020-03-16 19:25:00"
+    },
+    {
+      "id_origen": 42531,
+      "numero": 9,
+      "titulo": "ARP Backstage Pass - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8c55309203c03395961d6dcad5a68fe.jpg",
+      "url_origen": "https://jkanime.net/arp-backstage-pass/9/",
+      "publicado_en_origen": "2020-03-23 14:31:55"
+    },
+    {
+      "id_origen": 42583,
+      "numero": 10,
+      "titulo": "ARP Backstage Pass - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef5b0acc4a9fef53a0b84fea9ea01c69.jpg",
+      "url_origen": "https://jkanime.net/arp-backstage-pass/10/",
+      "publicado_en_origen": "2020-03-30 14:59:12"
+    },
+    {
+      "id_origen": 43148,
+      "numero": 11,
+      "titulo": "ARP Backstage Pass - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abae7d98a0ce038be2705fc36f5de8d9.jpg",
+      "url_origen": "https://jkanime.net/arp-backstage-pass/11/",
+      "publicado_en_origen": "2020-07-14 03:41:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2605",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:17:41+00:00"
+}

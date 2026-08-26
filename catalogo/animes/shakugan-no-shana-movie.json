@@ -1,0 +1,29 @@
+{
+  "id_origen": 365,
+  "slug": "shakugan-no-shana-movie",
+  "titulo": "Shakugan no Shana Movie",
+  "titulo_corto": "Shakugan no Shana Movie",
+  "sinopsis": "La historia nos cuenta como un simple humano llamado Sakai Yuji se encuentra con La Caballera de fuego y ojos rojos. Ella es una Flame Haze la cual se encarga de eliminar a los Guze de Tomogara que afecten el equilibrio del mundo. Al conocerla y darse cuenta de que el enrealidad ya esta muerto y que solo es un remplazo mejor conocidos como \"Mistes\", generados por una pequeña parte de energia de existencia la cual con el tiempo se consume y la persona desaparece sin dejar rastro, nadie se acuerda de dicha persona. Pero es ahi donde Yuji convence a la Flame Haze de la verdad deeste mundo y la llama Shana.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shakugan-no-shana-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shakugan-no-shana-movie/",
+  "episodios": [
+    {
+      "id_origen": 49351,
+      "numero": 1,
+      "titulo": "Shakugan no Shana Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shakugan-no-shana-movie.jpg",
+      "url_origen": "https://jkanime.net/shakugan-no-shana-movie/1/",
+      "publicado_en_origen": "2022-05-17 18:18:36"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "365",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:45:53+00:00"
+}

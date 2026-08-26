@@ -1,0 +1,85 @@
+{
+  "id_origen": 2580,
+  "slug": "overflow",
+  "titulo": "Overflow",
+  "titulo_corto": "Overflow",
+  "sinopsis": "\"Hermano, ¿realmente nos estamos bañando juntos?\"\nY así, comenzó una experiencia de baño prohibida.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/overflow.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/overflow/",
+  "episodios": [
+    {
+      "id_origen": 41869,
+      "numero": 1,
+      "titulo": "Overflow - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_670fb2f689bec017e618ab7ec99c2308.jpg",
+      "url_origen": "https://jkanime.net/overflow/1/",
+      "publicado_en_origen": "2020-01-07 15:08:24"
+    },
+    {
+      "id_origen": 41918,
+      "numero": 2,
+      "titulo": "Overflow - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e8f1f7c2e446cabefd299853e768bf7.jpg",
+      "url_origen": "https://jkanime.net/overflow/2/",
+      "publicado_en_origen": "2020-01-12 20:01:37"
+    },
+    {
+      "id_origen": 42029,
+      "numero": 3,
+      "titulo": "Overflow - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52bba0492bf9dafb0adc932f95c72407.jpg",
+      "url_origen": "https://jkanime.net/overflow/3/",
+      "publicado_en_origen": "2020-01-26 15:32:42"
+    },
+    {
+      "id_origen": 42033,
+      "numero": 4,
+      "titulo": "Overflow - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8627a5992a7f67f8c1e3db85cf9c23eb.jpg",
+      "url_origen": "https://jkanime.net/overflow/4/",
+      "publicado_en_origen": "2020-01-27 14:52:16"
+    },
+    {
+      "id_origen": 42093,
+      "numero": 5,
+      "titulo": "Overflow - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d41713518555a98a693df6e98d14229.jpg",
+      "url_origen": "https://jkanime.net/overflow/5/",
+      "publicado_en_origen": "2020-02-02 19:30:15"
+    },
+    {
+      "id_origen": 42147,
+      "numero": 6,
+      "titulo": "Overflow - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8641042a65f0cb99c82df186d88b182.jpg",
+      "url_origen": "https://jkanime.net/overflow/6/",
+      "publicado_en_origen": "2020-02-09 21:07:40"
+    },
+    {
+      "id_origen": 42196,
+      "numero": 7,
+      "titulo": "Overflow - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e77ed13c0304ebec4e12f5beb25c3b4.jpg",
+      "url_origen": "https://jkanime.net/overflow/7/",
+      "publicado_en_origen": "2020-02-16 23:36:12"
+    },
+    {
+      "id_origen": 43252,
+      "numero": 8,
+      "titulo": "Overflow - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_467df6e5f3be06ac88b2dbcaf92afcc5.jpg",
+      "url_origen": "https://jkanime.net/overflow/8/",
+      "publicado_en_origen": "2020-08-02 14:50:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2580",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:41:50+00:00"
+}

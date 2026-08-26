@@ -1,0 +1,29 @@
+{
+  "id_origen": 4702,
+  "slug": "kaijuu-no-kodomo",
+  "titulo": "Kaijuu no Kodomo",
+  "titulo_corto": "Kaijuu no Kodomo",
+  "sinopsis": "Las vacaciones de verano de Ruka Azumi transcurren de forma bastante normal: se pasa todo el tiempo en la cancha de balonmano para evitar a su única compañera de piso, su madre alcohólica. Cuando un incidente durante un entrenamiento provoca la expulsión de Ruka del equipo de balonmano, se ve obligada a buscar otras formas de entretenerse, y acaba yendo al acuario donde trabaja su padre. Allí conoce a Umi, un misterioso chico criado por dugongos que se encuentra recluido en el acuario para investigar su extraño cuerpo, dependiente del agua.\r\n\r\nRuka y Umi se hacen amigos rápidamente, y pronto se les une Sora, el hermano de Umi, quien también tiene una relación inusual con el océano. Juntos, el trío explora un deslumbrante mundo submarino mientras descubre un peculiar «festival» para el que se están preparando todas las criaturas marinas del mundo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kaijuu-no-kodomo.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kaijuu-no-kodomo/",
+  "episodios": [
+    {
+      "id_origen": 72234,
+      "numero": 1,
+      "titulo": "Kaijuu no Kodomo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97a448f933a7f67d943f9fa535d4b1f1.jpg",
+      "url_origen": "https://jkanime.net/kaijuu-no-kodomo/1/",
+      "publicado_en_origen": "2026-03-25 03:40:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4702",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:33:25+00:00"
+}

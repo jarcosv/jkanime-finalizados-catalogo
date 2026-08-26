@@ -1,0 +1,29 @@
+{
+  "id_origen": 3741,
+  "slug": "kurayukaba",
+  "titulo": "Kurayukaba",
+  "titulo_corto": "Kurayukaba",
+  "sinopsis": "El negocio va lento para la Agencia de Detectives Ootsuji. Soutarou y su compañero juvenil Saki aceptarán cualquier trabajo que se les presente, incluso uno que parezca mucho más arriesgado de lo que vale. Es temporada de festivales en la ciudad, pero lejos de la vista del público, ha ocurrido una ola de misteriosas desapariciones. Un periodista contrata a Soutarou para investigar, sugiriendo que las respuestas podrían estar en algún lugar de la Oscuridad, el notorio y anárquico laberinto que es el subsuelo físico, social y moral de la ciudad. Soutarou subcontrata el trabajo a Saki, pero pronto se arrepiente cuando el niño también desaparece. ¡Ahora Soutarou se ve obligado a aventurarse en la Oscuridad y enfrentarse a sus dudosos habitantes subterráneos, incluida la maliciosa pandilla de Las Máscaras Risueños y el escuadrón de policía renegado que pilotea el temible tren blindado Demon 463!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kurayukaba.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kurayukaba/",
+  "episodios": [
+    {
+      "id_origen": 56876,
+      "numero": 1,
+      "titulo": "Kurayukaba",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de99f3e4137231b75919926b1017fca3.jpg",
+      "url_origen": "https://jkanime.net/kurayukaba/1/",
+      "publicado_en_origen": "2024-04-15 11:02:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3741",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:35:54+00:00"
+}

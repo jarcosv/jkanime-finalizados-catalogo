@@ -1,0 +1,541 @@
+{
+  "id_origen": 4715,
+  "slug": "cardfight-vanguard",
+  "titulo": "Cardfight!! Vanguard",
+  "titulo_corto": "Cardfight!! Vanguard",
+  "sinopsis": "El juego de cartas Cardfight Vanguard, que ha conquistado el mundo, ha animado a mucha gente a incorporar los juegos de cartas a su vida cotidiana. A los jugadores de este popular juego se les conoce como «cardfighters» y suelen enfrentarse entre sí en tiendas de cartas. El juego ha inspirado a mucha gente, entre ellos al tranquilo y tímido Aichi Sendou, a quien sus compañeros suelen ridiculizar y acosar. Cada vez que se siente desanimado, echa un vistazo a Blaster Blade —una carta rara y legendaria que le regalaron cuando era pequeño— y encuentra la motivación para seguir adelante con su vida.\r\n\r\nSin embargo, un día, el matón de la escuela, Katsumi Morikawa, se fija en el tesoro de Aichi y le arrebata la carta. Tras una serie de acontecimientos, Aichi pronto descubre que la carta está ahora en manos de Toshiki Kai, un cardfighter que se ha convertido en el más fuerte de la ciudad a pesar de haber llegado hace poco. Para empeorar las cosas, Kai se niega a devolver la carta a menos que Aichi le derrote en una partida.\r\n\r\nPara sorpresa de todos, Aichi está a la altura de las circunstancias. Mientras reúne su valor y se imagina a sí mismo ganando esta batalla decisiva, Aichi comienza a abrirse camino en el aventurero mundo de Cardfight Vanguard.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/cardfight-vanguard.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/cardfight-vanguard/",
+  "episodios": [
+    {
+      "id_origen": 72791,
+      "numero": 1,
+      "titulo": "Cardfight!! Vanguard - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a80f22e70b5b14b4733cb4f5c9e26a14.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/1/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72792,
+      "numero": 2,
+      "titulo": "Cardfight!! Vanguard - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d84efbd5a0e138880a17a775ff29cbee.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/2/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72793,
+      "numero": 3,
+      "titulo": "Cardfight!! Vanguard - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45a85b91d9e82a61f072cf96c29ffdbb.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/3/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72794,
+      "numero": 4,
+      "titulo": "Cardfight!! Vanguard - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1145ebf16998ce7eab70f1225fcfba6.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/4/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72795,
+      "numero": 5,
+      "titulo": "Cardfight!! Vanguard - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf5df887c77b4f65b74d2c8a71a394cb.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/5/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72796,
+      "numero": 6,
+      "titulo": "Cardfight!! Vanguard - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b47026f0a3f0512a4cb03fd56ff1c59.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/6/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72797,
+      "numero": 7,
+      "titulo": "Cardfight!! Vanguard - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e9a0c2cbef86d1ce3ff33f02d8542f5.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/7/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72798,
+      "numero": 8,
+      "titulo": "Cardfight!! Vanguard - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53c2acb0d5e0341ba3abe749386c716b.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/8/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72799,
+      "numero": 9,
+      "titulo": "Cardfight!! Vanguard - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c353b849fabd11cc13ad12a0324a6ece.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/9/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72800,
+      "numero": 10,
+      "titulo": "Cardfight!! Vanguard - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd9ab510538601a5f97b2eb52dfab62e.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/10/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72801,
+      "numero": 11,
+      "titulo": "Cardfight!! Vanguard - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06c6f93122c0fd0691cd3704f24cfee6.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/11/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72802,
+      "numero": 12,
+      "titulo": "Cardfight!! Vanguard - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8603c36ca0bcbdf4458e47eeacbe1c3d.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/12/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72803,
+      "numero": 13,
+      "titulo": "Cardfight!! Vanguard - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afac41981147e95a11642c37068e2215.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/13/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72804,
+      "numero": 14,
+      "titulo": "Cardfight!! Vanguard - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7c015e506b7cad510f9bf526a77fee7.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/14/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72805,
+      "numero": 15,
+      "titulo": "Cardfight!! Vanguard - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47b5d302c55ada4712b6cdcfccda2d05.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/15/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72806,
+      "numero": 16,
+      "titulo": "Cardfight!! Vanguard - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d6ceee2a7b83e674a0668d68abdfc9b.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/16/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72807,
+      "numero": 17,
+      "titulo": "Cardfight!! Vanguard - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c2e43012253e73a08ecd503e5ce9da6.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/17/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72808,
+      "numero": 18,
+      "titulo": "Cardfight!! Vanguard - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b1256f51a1b714ab1d5cb2badefa088.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/18/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72809,
+      "numero": 19,
+      "titulo": "Cardfight!! Vanguard - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a0198954bbdd0ae3497abf9cf81bea7.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/19/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72810,
+      "numero": 20,
+      "titulo": "Cardfight!! Vanguard - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9469e99838e1c5c4bc8c9b339cd2b773.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/20/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72811,
+      "numero": 21,
+      "titulo": "Cardfight!! Vanguard - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebfec2ff51589bc6e8cc2a4759eab59f.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/21/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72812,
+      "numero": 22,
+      "titulo": "Cardfight!! Vanguard - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac6031cb7d8b1ade62ddf82e254e314d.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/22/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72813,
+      "numero": 23,
+      "titulo": "Cardfight!! Vanguard - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c416e748142888a8411fd0ef4b2c90f1.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/23/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72814,
+      "numero": 24,
+      "titulo": "Cardfight!! Vanguard - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_540aa648680555162b8bac47a452e01d.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/24/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72815,
+      "numero": 25,
+      "titulo": "Cardfight!! Vanguard - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1148841bac7ca3c0aeaf63d12b4eaee8.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/25/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72816,
+      "numero": 26,
+      "titulo": "Cardfight!! Vanguard - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ac87536e1ed9f0958465af27f0a97a8.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/26/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72817,
+      "numero": 27,
+      "titulo": "Cardfight!! Vanguard - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6943addd97d1ceeb3018421c13ab9b92.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/27/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72818,
+      "numero": 28,
+      "titulo": "Cardfight!! Vanguard - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4d09d318d6154cbf1ee3908a475287b.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/28/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72819,
+      "numero": 29,
+      "titulo": "Cardfight!! Vanguard - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2db8bf52bf39f3bf145ca554836c7ffd.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/29/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72820,
+      "numero": 30,
+      "titulo": "Cardfight!! Vanguard - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6661ac73ffe37412ee11a0e3025108db.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/30/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72821,
+      "numero": 31,
+      "titulo": "Cardfight!! Vanguard - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d48fd285f9d2ac9dd9a3d14ebf024aa.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/31/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72822,
+      "numero": 32,
+      "titulo": "Cardfight!! Vanguard - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdc0029a1b9f7fd23e465084e403a86a.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/32/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72823,
+      "numero": 33,
+      "titulo": "Cardfight!! Vanguard - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72cc0c65d5afb83535a6a1baa5932059.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/33/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72824,
+      "numero": 34,
+      "titulo": "Cardfight!! Vanguard - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2b79a8f3832068d1de5d74eb3c35dcf.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/34/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72825,
+      "numero": 35,
+      "titulo": "Cardfight!! Vanguard - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14b922cf4de63fb9ee19b36db861f33c.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/35/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72826,
+      "numero": 36,
+      "titulo": "Cardfight!! Vanguard - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6f091ef97906beebb7b6b0c05406e14.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/36/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72827,
+      "numero": 37,
+      "titulo": "Cardfight!! Vanguard - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e1aba854de9741edfc1d44f320070d7.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/37/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72828,
+      "numero": 38,
+      "titulo": "Cardfight!! Vanguard - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5903fa824095f2f72207d54585878b49.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/38/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72829,
+      "numero": 39,
+      "titulo": "Cardfight!! Vanguard - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82dcb64d950d4819cc370091ded38840.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/39/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72830,
+      "numero": 40,
+      "titulo": "Cardfight!! Vanguard - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d4f77c70b2d1d737d005b95d8625649.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/40/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72831,
+      "numero": 41,
+      "titulo": "Cardfight!! Vanguard - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0828698c935799c5a50123987cc16c7f.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/41/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72832,
+      "numero": 42,
+      "titulo": "Cardfight!! Vanguard - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf57df1caa5198114badcb525cb50af0.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/42/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72833,
+      "numero": 43,
+      "titulo": "Cardfight!! Vanguard - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1582d811977bca4e5587c4645d517b2.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/43/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72834,
+      "numero": 44,
+      "titulo": "Cardfight!! Vanguard - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08d7d0a34499e623de2ac52017d99080.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/44/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72835,
+      "numero": 45,
+      "titulo": "Cardfight!! Vanguard - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df2867601f3bb3a0335b3bdd29142cf8.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/45/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72836,
+      "numero": 46,
+      "titulo": "Cardfight!! Vanguard - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50c3d4d75f8814400f39a36308382ef3.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/46/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72837,
+      "numero": 47,
+      "titulo": "Cardfight!! Vanguard - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_40b00a994bc50e4870640e97f06034e3.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/47/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72838,
+      "numero": 48,
+      "titulo": "Cardfight!! Vanguard - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae9667ee7ba7a77319dae7db75626396.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/48/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72839,
+      "numero": 49,
+      "titulo": "Cardfight!! Vanguard - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec989f8741cba00783153ae52fa38e41.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/49/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72840,
+      "numero": 50,
+      "titulo": "Cardfight!! Vanguard - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42ba74c2e1f103642ef1360770546924.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/50/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72841,
+      "numero": 51,
+      "titulo": "Cardfight!! Vanguard - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36516aaa5466cc3b229c5cb375611258.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/51/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72842,
+      "numero": 52,
+      "titulo": "Cardfight!! Vanguard - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f5338a713f77f6dfe6ee643c5e89039.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/52/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72843,
+      "numero": 53,
+      "titulo": "Cardfight!! Vanguard - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f98ba8c0122e6b00ef6ceee042fc351.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/53/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72844,
+      "numero": 54,
+      "titulo": "Cardfight!! Vanguard - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e7db91326065f4d7755acd1bf04662e.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/54/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72845,
+      "numero": 55,
+      "titulo": "Cardfight!! Vanguard - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fea562585a71353f8161b043039ff09.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/55/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72846,
+      "numero": 56,
+      "titulo": "Cardfight!! Vanguard - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a934db8055707cb4f690bee60ad14dae.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/56/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72847,
+      "numero": 57,
+      "titulo": "Cardfight!! Vanguard - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddd3b22078790e9c1dad3dda5e33ae77.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/57/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72848,
+      "numero": 58,
+      "titulo": "Cardfight!! Vanguard - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2717818b88f630604ab6135ba7ecb7a.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/58/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72849,
+      "numero": 59,
+      "titulo": "Cardfight!! Vanguard - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05a7341c4c51c6d1b536d6b023572646.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/59/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72850,
+      "numero": 60,
+      "titulo": "Cardfight!! Vanguard - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76a4173cdf59a00df4dc24a53cefab7e.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/60/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72851,
+      "numero": 61,
+      "titulo": "Cardfight!! Vanguard - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f1d3ef9685cd473d71a748fac702b2c.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/61/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72852,
+      "numero": 62,
+      "titulo": "Cardfight!! Vanguard - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_006c36cf66ee9a28e065202ed26e95a3.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/62/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72853,
+      "numero": 63,
+      "titulo": "Cardfight!! Vanguard - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48e8500cc719e4c373c8a53dbe28d7ce.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/63/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72854,
+      "numero": 64,
+      "titulo": "Cardfight!! Vanguard - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7986386432d0ac71b34d4250efc9e475.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/64/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    },
+    {
+      "id_origen": 72855,
+      "numero": 65,
+      "titulo": "Cardfight!! Vanguard - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a055c461edfcc7dc228f3d920069818d.jpg",
+      "url_origen": "https://jkanime.net/cardfight-vanguard/65/",
+      "publicado_en_origen": "2026-04-29 02:35:58"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4715",
+  "cantidad_episodios_declarada": 65,
+  "detalle_extraido_en": "2026-08-26T18:23:13+00:00"
+}

@@ -1,0 +1,101 @@
+{
+  "id_origen": 130,
+  "slug": "hellsing-ultimate",
+  "titulo": "Hellsing Ultimate",
+  "titulo_corto": "Hellsing Ultimate",
+  "sinopsis": "Hellsing es una organización que se dedica a detener a los malvados que acechan en la oscuridad, los vampiros. También se encargan de otros monstruos de la noche y los matan. La organización existe hace mucho tiempo y su liderazgo ha ido pasando de padres a hijos durante siglos. Sin embargo, hoy en día, la jefa actual de la organización encontró algo muy importante, su arma mas mortal y poderosa, el inmortal vampiro, Alucard, que esta sometido a la organización por sellos restrictivos y obedece las ordenes de cada uno de los lideres de la familia a lo largo de los siglos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hellsing-ultimate.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hellsing-ultimate/",
+  "episodios": [
+    {
+      "id_origen": 3002,
+      "numero": 1,
+      "titulo": "Hellsing Ultimate 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d806ca13ca3449af72a1ea5aedbed26a.jpg",
+      "url_origen": "https://jkanime.net/hellsing-ultimate/1/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3003,
+      "numero": 2,
+      "titulo": "Hellsing Ultimate 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4380923dd651c195b1631af7c829187.jpg",
+      "url_origen": "https://jkanime.net/hellsing-ultimate/2/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3004,
+      "numero": 3,
+      "titulo": "Hellsing Ultimate 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20479c788fb27378c2c99eadcf207e7f.jpg",
+      "url_origen": "https://jkanime.net/hellsing-ultimate/3/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3005,
+      "numero": 4,
+      "titulo": "Hellsing Ultimate 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a61ed715ee66c48bacf237fa7bb5289.jpg",
+      "url_origen": "https://jkanime.net/hellsing-ultimate/4/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3006,
+      "numero": 5,
+      "titulo": "Hellsing Ultimate 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f268dfb0fbef44de0f668a022707b86.jpg",
+      "url_origen": "https://jkanime.net/hellsing-ultimate/5/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3007,
+      "numero": 6,
+      "titulo": "Hellsing Ultimate 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a724b9124acc7b5058ed75a31a9c2919.jpg",
+      "url_origen": "https://jkanime.net/hellsing-ultimate/6/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 3008,
+      "numero": 7,
+      "titulo": "Hellsing Ultimate 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c02f9de3c2f3040751818aacc7f60b74.jpg",
+      "url_origen": "https://jkanime.net/hellsing-ultimate/7/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 14302,
+      "numero": 8,
+      "titulo": "Hellsing Ultimate - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65be44ae7088566069cc3bef454174a7.jpg",
+      "url_origen": "https://jkanime.net/hellsing-ultimate/8/",
+      "publicado_en_origen": "2012-01-06 15:58:46"
+    },
+    {
+      "id_origen": 15108,
+      "numero": 9,
+      "titulo": "Hellsing Ultimate - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c441b7798fc290a8dd307ef9cc698aa9.jpg",
+      "url_origen": "https://jkanime.net/hellsing-ultimate/9/",
+      "publicado_en_origen": "2012-03-02 12:20:44"
+    },
+    {
+      "id_origen": 18810,
+      "numero": 10,
+      "titulo": "Hellsing Ultimate - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_772cf17cfbe478b49a62fc40c42fec68.jpg",
+      "url_origen": "https://jkanime.net/hellsing-ultimate/10/",
+      "publicado_en_origen": "2012-12-31 16:00:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "130",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:30:15+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1357,
+  "slug": "date-a-live-ii-encore",
+  "titulo": "Date A Live II: Encore OVA",
+  "titulo_corto": "Date A Live II: Encore OVA",
+  "sinopsis": "OVA de DATE A LIVE II, incluida como extra del tercer volumen de DATE A LIVE Encore, adaptando la historia de Kurumi Star Festival.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/date-a-live-ii-encore.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/date-a-live-ii-encore/",
+  "episodios": [
+    {
+      "id_origen": 25713,
+      "numero": 1,
+      "titulo": "Date A Live II: Encore OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a390ff7af39b581d079075b5f848662e.jpg",
+      "url_origen": "https://jkanime.net/date-a-live-ii-encore/1/",
+      "publicado_en_origen": "2014-12-07 18:29:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1357",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:35+00:00"
+}

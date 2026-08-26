@@ -1,0 +1,29 @@
+{
+  "id_origen": 674,
+  "slug": "boku-wa-tomodachi-ga-sukunai-add-on-disc",
+  "titulo": "Boku wa Tomodachi ga Sukunai: Add-on Disc",
+  "titulo_corto": "Boku wa Tomodachi ga Sukunai: ...",
+  "sinopsis": "Episodio no transmitido en TV, distribuido en formato OVA.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/boku-wa-tomodachi-ga-sukunai-add-on-disc.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/boku-wa-tomodachi-ga-sukunai-add-on-disc/",
+  "episodios": [
+    {
+      "id_origen": 17600,
+      "numero": 1,
+      "titulo": "Boku wa Tomodachi ga Sukunai: Add-on Disc",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82a008560ab8fa4bd01994e2ff52bb6a.jpg",
+      "url_origen": "https://jkanime.net/boku-wa-tomodachi-ga-sukunai-add-on-disc/1/",
+      "publicado_en_origen": "2012-09-29 16:37:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "674",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:21:14+00:00"
+}

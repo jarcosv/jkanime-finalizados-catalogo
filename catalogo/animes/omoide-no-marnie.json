@@ -1,0 +1,29 @@
+{
+  "id_origen": 1484,
+  "slug": "omoide-no-marnie",
+  "titulo": "Omoide no Marnie",
+  "titulo_corto": "Omoide no Marnie",
+  "sinopsis": "Anna no tiene ningún amigo, ni siquiera en su vecindario, hasta conoce a una misteriosa chica llamada Marnie que tendrá mucho que contar sobre su pasado. Con el tiempo, Anna se dará cuenta de que la soledad no es lo único que tiene en común con Marnie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/omoide-no-marnie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/omoide-no-marnie/",
+  "episodios": [
+    {
+      "id_origen": 27337,
+      "numero": 1,
+      "titulo": "Omoide no Marnie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0dd4332bc8f0e9692eaa585b1b20c712.jpg",
+      "url_origen": "https://jkanime.net/omoide-no-marnie/1/",
+      "publicado_en_origen": "2015-03-30 09:30:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1484",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:03+00:00"
+}

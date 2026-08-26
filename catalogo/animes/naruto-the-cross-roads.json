@@ -1,0 +1,29 @@
+{
+  "id_origen": 4912,
+  "slug": "naruto-the-cross-roads",
+  "titulo": "Naruto: The Cross Roads",
+  "titulo_corto": "Naruto: The Cross Roads",
+  "sinopsis": "La operación para encontrar a una persona desaparecida se tuerce cuando Kakashi Hatake cae en una trampa sospechosa y se separa de sus alumnos, Naruto Uzumaki, Sasuke Uchiha y Sakura Haruno. Para empeorar las cosas, el trío sufre una emboscada a manos de unos ninjas misteriosos que capturan a Sakura, lo que lleva a Naruto y Sasuke a lanzarse en su persecución.\r\n\r\nMientras los dos chicos se enzarzan en una peligrosa batalla, ni siquiera el inquietante descubrimiento de Sasuke sobre la misión puede disuadirles de su empeño por reunir al equipo y cumplir su objetivo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/naruto-the-cross-roads.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/naruto-the-cross-roads/",
+  "episodios": [
+    {
+      "id_origen": 76498,
+      "numero": 1,
+      "titulo": "Naruto: The Cross Roads",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9e99674b8b83ac16cb8dcc76300446f.jpg",
+      "url_origen": "https://jkanime.net/naruto-the-cross-roads/1/",
+      "publicado_en_origen": "2026-08-16 16:43:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4912",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:00+00:00"
+}

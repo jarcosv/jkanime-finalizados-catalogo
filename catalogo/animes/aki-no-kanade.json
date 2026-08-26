@@ -1,0 +1,29 @@
+{
+  "id_origen": 1524,
+  "slug": "aki-no-kanade",
+  "titulo": "Aki no Kanade",
+  "titulo_corto": "Aki no Kanade",
+  "sinopsis": "La historia está protagonizada por Aki Miyagawa, quien decidió mudarse a Tokio para perseguir su sueño de convertirse en percusionista de taiko, pero fue incapaz de mantener un buen equilibrio entre sus estrictas sesiones de práctica y su trabajo a media jornada. Ahora, 15 años después, vuelve para enseñar a otros para un festival de taiko.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/aki-no-kanade.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/aki-no-kanade/",
+  "episodios": [
+    {
+      "id_origen": 27396,
+      "numero": 1,
+      "titulo": "Aki no Kanade",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c16a6252497d1e45a8844a40af844fc.jpg",
+      "url_origen": "https://jkanime.net/aki-no-kanade/1/",
+      "publicado_en_origen": "2015-04-05 12:41:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1524",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:15:55+00:00"
+}

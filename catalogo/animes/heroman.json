@@ -1,0 +1,229 @@
+{
+  "id_origen": 48,
+  "slug": "heroman",
+  "titulo": "Heroman",
+  "titulo_corto": "Heroman",
+  "sinopsis": "La historia se centra en un chico llamado Joey que encuentra un robot de juguete cerca de la costa oeste de Estados Unidos. El juguete se convierte en Heroman, un robot gigante que Joey pilotea contra el mal.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heroman.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/heroman/",
+  "episodios": [
+    {
+      "id_origen": 940,
+      "numero": 1,
+      "titulo": "heroman 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d6dc35e506fc23349dd10ee68dabb64.jpg",
+      "url_origen": "https://jkanime.net/heroman/1/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 941,
+      "numero": 2,
+      "titulo": "heroman 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92262bf907af914b95a0fc33c3f33bf6.jpg",
+      "url_origen": "https://jkanime.net/heroman/2/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 942,
+      "numero": 3,
+      "titulo": "heroman 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b55ec28c52d5f6205684a473a2193564.jpg",
+      "url_origen": "https://jkanime.net/heroman/3/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 943,
+      "numero": 4,
+      "titulo": "heroman 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f885d0fbe2e131bfc9d98363e55d1d4.jpg",
+      "url_origen": "https://jkanime.net/heroman/4/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 944,
+      "numero": 5,
+      "titulo": "heroman 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64223ccf70bbb65a3a4aceac37e21016.jpg",
+      "url_origen": "https://jkanime.net/heroman/5/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 945,
+      "numero": 6,
+      "titulo": "heroman 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b6538a44a1dfdc2b83477cd76dee98e.jpg",
+      "url_origen": "https://jkanime.net/heroman/6/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 946,
+      "numero": 7,
+      "titulo": "heroman 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8c41c4a18675a74e01c8a20e8a0f662.jpg",
+      "url_origen": "https://jkanime.net/heroman/7/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 947,
+      "numero": 8,
+      "titulo": "heroman 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4b31ce7d95c75ca70d50c19aef08bf1.jpg",
+      "url_origen": "https://jkanime.net/heroman/8/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 948,
+      "numero": 9,
+      "titulo": "heroman 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58e4d44e550d0f7ee0a23d6b02d9b0db.jpg",
+      "url_origen": "https://jkanime.net/heroman/9/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 949,
+      "numero": 10,
+      "titulo": "heroman 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cef96dcc9b8035d23f69e30bb19218a.jpg",
+      "url_origen": "https://jkanime.net/heroman/10/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 950,
+      "numero": 11,
+      "titulo": "heroman 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3d68b461bd9d3533ee1dd3ce4628ed4.jpg",
+      "url_origen": "https://jkanime.net/heroman/11/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 951,
+      "numero": 12,
+      "titulo": "heroman 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c1d4df596d01da60385f0bb17a4a9e0.jpg",
+      "url_origen": "https://jkanime.net/heroman/12/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 952,
+      "numero": 13,
+      "titulo": "heroman 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6cb2a3c14431b55aa50c06529eaa21b.jpg",
+      "url_origen": "https://jkanime.net/heroman/13/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 953,
+      "numero": 14,
+      "titulo": "heroman 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9232fe81225bcaef853ae32870a2b0fe.jpg",
+      "url_origen": "https://jkanime.net/heroman/14/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 954,
+      "numero": 15,
+      "titulo": "heroman 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6395ebd0f4b478145ecfbaf939454fa4.jpg",
+      "url_origen": "https://jkanime.net/heroman/15/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 955,
+      "numero": 16,
+      "titulo": "heroman 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef4e3b775c934dada217712d76f3d51f.jpg",
+      "url_origen": "https://jkanime.net/heroman/16/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 956,
+      "numero": 17,
+      "titulo": "heroman 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_168908dd3227b8358eababa07fcaf091.jpg",
+      "url_origen": "https://jkanime.net/heroman/17/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 957,
+      "numero": 18,
+      "titulo": "heroman 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ba596643cbbbc20318224181fa46b28.jpg",
+      "url_origen": "https://jkanime.net/heroman/18/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 958,
+      "numero": 19,
+      "titulo": "heroman 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d240e3d38a8882ecad8633c8f9c78c9b.jpg",
+      "url_origen": "https://jkanime.net/heroman/19/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 959,
+      "numero": 20,
+      "titulo": "heroman 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f840be9b8db4d3fbd5ba2ce59211f55.jpg",
+      "url_origen": "https://jkanime.net/heroman/20/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 960,
+      "numero": 21,
+      "titulo": "heroman 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_437d7d1d97917cd627a34a6a0fb41136.jpg",
+      "url_origen": "https://jkanime.net/heroman/21/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 961,
+      "numero": 22,
+      "titulo": "heroman 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d707329bece455a462b58ce00d1194c9.jpg",
+      "url_origen": "https://jkanime.net/heroman/22/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 962,
+      "numero": 23,
+      "titulo": "heroman 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c936263f3428a40227908d5a3847c0b.jpg",
+      "url_origen": "https://jkanime.net/heroman/23/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 963,
+      "numero": 24,
+      "titulo": "heroman 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ce927f875864094e3906a4a0b5ece68.jpg",
+      "url_origen": "https://jkanime.net/heroman/24/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 964,
+      "numero": 25,
+      "titulo": "heroman 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8065d07da4a77621450aa84fee5656d9.jpg",
+      "url_origen": "https://jkanime.net/heroman/25/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 965,
+      "numero": 26,
+      "titulo": "heroman 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eeb69a3cb92300456b6a5f4162093851.jpg",
+      "url_origen": "https://jkanime.net/heroman/26/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "48",
+  "cantidad_episodios_declarada": 26,
+  "detalle_extraido_en": "2026-08-26T18:30:18+00:00"
+}

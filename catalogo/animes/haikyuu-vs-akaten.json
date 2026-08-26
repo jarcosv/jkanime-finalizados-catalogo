@@ -1,0 +1,29 @@
+{
+  "id_origen": 1831,
+  "slug": "haikyuu-vs-akaten",
+  "titulo": "Haikyuu!!: vs. Akaten",
+  "titulo_corto": "Haikyuu!!: vs. Akaten",
+  "sinopsis": "Episodio que toma lugar después de la primera temporada, Hinata y Kageyama reprueban en un examen y entra en conflicto con su campamento de entrenamiento.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/haikyuu-vs-akaten.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/haikyuu-vs-akaten/",
+  "episodios": [
+    {
+      "id_origen": 31526,
+      "numero": 1,
+      "titulo": "Haikyuu!!: vs. Akaten",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_357eef2143cfb46c8d49017ebd7689b5.jpg",
+      "url_origen": "https://jkanime.net/haikyuu-vs-akaten/1/",
+      "publicado_en_origen": "2016-05-07 15:53:07"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1831",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:29:32+00:00"
+}

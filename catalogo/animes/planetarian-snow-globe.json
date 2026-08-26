@@ -1,0 +1,29 @@
+{
+  "id_origen": 2813,
+  "slug": "planetarian-snow-globe",
+  "titulo": "Planetarian: Snow Globe",
+  "titulo_corto": "Planetarian: Snow Globe",
+  "sinopsis": "El nuevo OVA contará con el cuento precuela \"Snow Globe\", que debutó como parte de un volumen de novela ligera que se incluye con una versión de edición limitada del juego original para PC.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/planetarian-snow-globe.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/planetarian-snow-globe/",
+  "episodios": [
+    {
+      "id_origen": 44798,
+      "numero": 1,
+      "titulo": "Planetarian: Snow Globe",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aae949560dc494ff1879a46cfdb0cfb8.jpg",
+      "url_origen": "https://jkanime.net/planetarian-snow-globe/1/",
+      "publicado_en_origen": "2021-02-25 10:59:07"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2813",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:42:17+00:00"
+}

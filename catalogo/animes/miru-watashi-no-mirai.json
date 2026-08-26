@@ -1,0 +1,61 @@
+{
+  "id_origen": 4075,
+  "slug": "miru-watashi-no-mirai",
+  "titulo": "Miru: Watashi no Mirai",
+  "titulo_corto": "Miru: Watashi no Mirai",
+  "sinopsis": "“Confrontación y Armonía entre el Hombre y la Naturaleza”\r\n\r\nEl protagonista navegará desafíos y crecimiento personal, esforzándose por preservar el entorno requerido para nuestra existencia, mientras que la presencia de robots se representará a lo largo de su viaje.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/miru-watashi-no-mirai.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/miru-watashi-no-mirai/",
+  "episodios": [
+    {
+      "id_origen": 62843,
+      "numero": 1,
+      "titulo": "Miru: Watashi no Mirai - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c05ff1f75e6cd8101590b3259f97791.jpg",
+      "url_origen": "https://jkanime.net/miru-watashi-no-mirai/1/",
+      "publicado_en_origen": "2025-04-21 10:23:14"
+    },
+    {
+      "id_origen": 63146,
+      "numero": 2,
+      "titulo": "Miru: Watashi no Mirai - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63792af078b698349ac63b062dfffe06.jpg",
+      "url_origen": "https://jkanime.net/miru-watashi-no-mirai/2/",
+      "publicado_en_origen": "2025-05-13 10:42:22"
+    },
+    {
+      "id_origen": 63337,
+      "numero": 3,
+      "titulo": "Miru: Watashi no Mirai - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_191fefda6ec9ecdfa82328e6f8c000c2.jpg",
+      "url_origen": "https://jkanime.net/miru-watashi-no-mirai/3/",
+      "publicado_en_origen": "2025-05-27 23:36:54"
+    },
+    {
+      "id_origen": 63483,
+      "numero": 4,
+      "titulo": "Miru: Watashi no Mirai - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c718700b83f1f34a5492d3bc828a32c.jpg",
+      "url_origen": "https://jkanime.net/miru-watashi-no-mirai/4/",
+      "publicado_en_origen": "2025-06-11 15:26:49"
+    },
+    {
+      "id_origen": 64331,
+      "numero": 5,
+      "titulo": "Miru: Watashi no Mirai - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf0b59dca54fd7b7807af3fd3bf0e960.jpg",
+      "url_origen": "https://jkanime.net/miru-watashi-no-mirai/5/",
+      "publicado_en_origen": "2025-07-09 17:53:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4075",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:38:44+00:00"
+}

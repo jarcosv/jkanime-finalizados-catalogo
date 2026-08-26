@@ -1,0 +1,29 @@
+{
+  "id_origen": 4822,
+  "slug": "ichigo-100-special-2",
+  "titulo": "Ichigo 100% Special 2",
+  "titulo_corto": "Ichigo 100% Special 2",
+  "sinopsis": "El padre de Yui le prohíbe quedarse en casa de Junpei y decide que asistirá a un instituto local en lugar de a la Academia Oumi. Junpei la visita con la intención de aclarar un malentendido por el bien de Yui. El episodio tiene lugar antes del episodio 10 de la serie de televisión «Ichigo 100%».",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ichigo-100-special-2.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ichigo-100-special-2/",
+  "episodios": [
+    {
+      "id_origen": 74261,
+      "numero": 1,
+      "titulo": "Ichigo 100% Special 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dff2427259cee41a9a539fdf3ea550b5.jpg",
+      "url_origen": "https://jkanime.net/ichigo-100-special-2/1/",
+      "publicado_en_origen": "2026-06-11 15:44:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4822",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:31:33+00:00"
+}

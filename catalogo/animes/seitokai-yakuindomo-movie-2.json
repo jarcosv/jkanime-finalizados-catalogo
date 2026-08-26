@@ -1,0 +1,29 @@
+{
+  "id_origen": 2866,
+  "slug": "seitokai-yakuindomo-movie-2",
+  "titulo": "Seitokai Yakuindomo Movie 2",
+  "titulo_corto": "Seitokai Yakuindomo Movie 2",
+  "sinopsis": "segunda pelicula de Seitokai Yakuindomo",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/seitokai-yakuindomo-movie-2.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/seitokai-yakuindomo-movie-2/",
+  "episodios": [
+    {
+      "id_origen": 45394,
+      "numero": 1,
+      "titulo": "Seitokai Yakuindomo Movie 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ad8f43fa3e8291b5104a3aeff8b4c6b.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-movie-2/1/",
+      "publicado_en_origen": "2021-05-02 21:50:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2866",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:45:24+00:00"
+}

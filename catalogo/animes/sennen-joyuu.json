@@ -1,0 +1,29 @@
+{
+  "id_origen": 4706,
+  "slug": "sennen-joyuu",
+  "titulo": "Sennen Joyuu",
+  "titulo_corto": "Sennen Joyuu",
+  "sinopsis": "A principios del nuevo milenio, los edificios en ruinas del estudio Ginei están a punto de ser demolidos. El ex empleado y cineasta Genya Tachibana decide conmemorar esta ocasión con un documental sobre la actriz estrella de la compañía: Chiyoko Fujiwara, la recatada estrella del cine de la era Shōwa. Tras haber conseguido por fin permiso para entrevistar a la estrella retirada, un Genya embelesado arrastra consigo al cínico cámara Kyouji Ida para conocerla, dispuesto a devolver a su ídolo de toda la vida al centro de la atención una vez más.\r\n\r\nEscondidos en este recóndito refugio de montaña se encuentran mil años de historia condensados en una sola vida, a la espera de ser narrados. Los recuerdos de Chiyoko los llevan a un viaje ilusorio a través de la historia del cine japonés que trasciende los límites de la realidad; la saga de su carrera como actriz se entrelaza con su filmografía, los actores de su vida se funden a la perfección con los personajes de la pantalla, y el presente se confunde con el pasado. Aunque la actriz se retirara en el apogeo de su carrera hace 30 años, el telón del escenario de su vida aún no ha caído.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sennen-joyuu.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sennen-joyuu/",
+  "episodios": [
+    {
+      "id_origen": 72286,
+      "numero": 1,
+      "titulo": "Sennen Joyuu",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34126ecdd5e11ab1d33544786a4e3146.jpg",
+      "url_origen": "https://jkanime.net/sennen-joyuu/1/",
+      "publicado_en_origen": "2026-03-28 15:21:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4706",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:45:38+00:00"
+}

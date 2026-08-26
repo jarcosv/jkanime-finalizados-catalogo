@@ -1,0 +1,29 @@
+{
+  "id_origen": 247,
+  "slug": "el-viaje-de-chihiro",
+  "titulo": "Spirited Away",
+  "titulo_corto": "Spirited Away",
+  "sinopsis": "Se trata de Chihiro, quien con sus padres se mudan a vivir a otra cuidad, aunque ella no esta de acuerdo con dicha decision.  Al no encontrar el camino correcto a casa, se pierden en un bosque misterioso; llegan al final del camino y se encuentran de frente a un tunel.  Al llegar al otro lado del tunel encuentran un pueblito deshabitado pero con muchos restaurantes, al no encontrarse nadie, sus padres deciden empezar a comer y pagar luego. Al ponerse el sol se convierten en cerdos. Ahora Chihiro tienen que hacer lo imposible para hacer que sus padres vuelven a la normalidad y asi llevarselos de vuelta a casa.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/el-viaje-de-chihiro.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/el-viaje-de-chihiro/",
+  "episodios": [
+    {
+      "id_origen": 10836,
+      "numero": 1,
+      "titulo": "Spirited Away",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97e49161287e7a4f9b745366e4f9431b.jpg",
+      "url_origen": "https://jkanime.net/el-viaje-de-chihiro/1/",
+      "publicado_en_origen": "2011-07-08 17:33:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "247",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:39+00:00"
+}

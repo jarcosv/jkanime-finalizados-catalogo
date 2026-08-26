@@ -1,0 +1,429 @@
+{
+  "id_origen": 114,
+  "slug": "soul-eater",
+  "titulo": "Soul Eater",
+  "titulo_corto": "Soul Eater",
+  "sinopsis": "En el Mundo de los Muertos, los altos cargos portan armas llamadas \"Guadañas Mortales\". Éstas se consiguen cuando el alma de una Guadaña (creada por un Técnico especialista) consigue comerse 99 almas humano-demonio y 1 alma de bruja. Pero la vida no siempre es fácil, ni para Técnicos ni para Guadañas, y puede costar trabajo llegar a ser una \"Guadaña Mortal\". Soul y Maka son los protagonistas de este anime (Soul el arma y Maka el técnico) junto con Black Star y su arma Tsubaki, y Death the Kid con las hermanas Thompson como armas (pistolas).",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/soul-eater.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/soul-eater/",
+  "episodios": [
+    {
+      "id_origen": 2545,
+      "numero": 1,
+      "titulo": "Soul Eater 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d28de8ff9bb6a3fa41fddfdc28f3bc1.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/1/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2546,
+      "numero": 2,
+      "titulo": "Soul Eater 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92a0e7a415d64ebafcb16a8ca817cde4.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/2/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2547,
+      "numero": 3,
+      "titulo": "Soul Eater 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86ecfcbc1e9f1ae5ee2d71910877da36.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/3/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2548,
+      "numero": 4,
+      "titulo": "Soul Eater 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e4a2c65bdaddd66a53422d93daebe68.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/4/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2549,
+      "numero": 5,
+      "titulo": "Soul Eater 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b21f9f98829dea9a48fd8aaddc1f159d.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/5/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2550,
+      "numero": 6,
+      "titulo": "Soul Eater 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85353d3b2f39b9c9b5ee3576578c04b7.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/6/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2551,
+      "numero": 7,
+      "titulo": "Soul Eater 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_921c2dc40d0b979c2910298d2f880152.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/7/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2552,
+      "numero": 8,
+      "titulo": "Soul Eater 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4be5a36cbaca8ab9d2066debfe4e65c1.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/8/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2553,
+      "numero": 9,
+      "titulo": "Soul Eater 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7619beb6eb189509885fbc192d2874b.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/9/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2554,
+      "numero": 10,
+      "titulo": "Soul Eater 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c59fd6fbe0e9793ec2b27971221cace.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/10/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2555,
+      "numero": 11,
+      "titulo": "Soul Eater 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5acdc9ca5d99ae66afdfe1eea0e3b26b.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/11/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2556,
+      "numero": 12,
+      "titulo": "Soul Eater 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d94108e907bb8311d8802b48fd54b4a.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/12/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2557,
+      "numero": 13,
+      "titulo": "Soul Eater 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1680829293f2a8541efa2647a0290f88.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/13/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2558,
+      "numero": 14,
+      "titulo": "Soul Eater 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2288f691b58edecadcc9a8691762b4fd.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/14/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2559,
+      "numero": 15,
+      "titulo": "Soul Eater 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5baa9c23ac3e015ad287b17a3d4afa3.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/15/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2560,
+      "numero": 16,
+      "titulo": "Soul Eater 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb0ecdb070a1a0ac46de0cd733d39cf3.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/16/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2561,
+      "numero": 17,
+      "titulo": "Soul Eater 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59eb5dd36914c29b299c84b7ddaf08ec.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/17/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2562,
+      "numero": 18,
+      "titulo": "Soul Eater 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbab2adc8f9d078009ee3fa810bea142.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/18/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2563,
+      "numero": 19,
+      "titulo": "Soul Eater 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbd22ba3bd0df8f385bdac3e9f8be207.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/19/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2564,
+      "numero": 20,
+      "titulo": "Soul Eater 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8169e05e2a0debcb15458f2cc1eff0ea.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/20/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2565,
+      "numero": 21,
+      "titulo": "Soul Eater 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6acf4b0f69f6f6e60e9a815938aa1ff.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/21/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2566,
+      "numero": 22,
+      "titulo": "Soul Eater 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42fe880812925e520249e808937738d2.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/22/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2567,
+      "numero": 23,
+      "titulo": "Soul Eater 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dda04f9d634145a9c68d5dfe53b21272.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/23/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2568,
+      "numero": 24,
+      "titulo": "Soul Eater 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48c3ec5c3a93a9e294a8a6392ccedeb4.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/24/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2569,
+      "numero": 25,
+      "titulo": "Soul Eater 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02f657d55eaf1c4840ce8d66fcdaf90c.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/25/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2570,
+      "numero": 26,
+      "titulo": "Soul Eater 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_852c44ddce7e0c7e4c64d86147300831.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/26/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2571,
+      "numero": 27,
+      "titulo": "Soul Eater 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_283085d30e10513624c8cece7993f4de.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/27/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2572,
+      "numero": 28,
+      "titulo": "Soul Eater 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0e90532fb42ac6de18e25e95db73047.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/28/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2573,
+      "numero": 29,
+      "titulo": "Soul Eater 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60519c3dd22587d6de04d5f1e28bd41d.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/29/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2574,
+      "numero": 30,
+      "titulo": "Soul Eater 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f125da0b3432ed853c0b6f7ee5aaa6b.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/30/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2575,
+      "numero": 31,
+      "titulo": "Soul Eater 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fecf2c550171d3195c879d115440ae45.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/31/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2576,
+      "numero": 32,
+      "titulo": "Soul Eater 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef1e491a766ce3127556063d49bc2f98.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/32/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2577,
+      "numero": 33,
+      "titulo": "Soul Eater 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74934548253bcab8490ebd74afed7031.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/33/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2578,
+      "numero": 34,
+      "titulo": "Soul Eater 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9457fc28ceb408103e13533e4a5b6bd1.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/34/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2579,
+      "numero": 35,
+      "titulo": "Soul Eater 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b168fdba5ee5ea262cc2d4c0b457697.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/35/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2580,
+      "numero": 36,
+      "titulo": "Soul Eater 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17b3c7061788dbe82de5abe9f6fe22b3.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/36/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2581,
+      "numero": 37,
+      "titulo": "Soul Eater 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_309a8e73b2cdb95fc1affa8845504e87.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/37/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2582,
+      "numero": 38,
+      "titulo": "Soul Eater 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e83722522e8aeb7512b7075311316b7.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/38/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2583,
+      "numero": 39,
+      "titulo": "Soul Eater 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eaa52f3366768bca401dca9ea5b181dd.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/39/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2584,
+      "numero": 40,
+      "titulo": "Soul Eater 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92426b262d11b0ade77387cf8416e153.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/40/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2585,
+      "numero": 41,
+      "titulo": "Soul Eater 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36e729ec173b94133d8fa552e4029f8b.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/41/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2586,
+      "numero": 42,
+      "titulo": "Soul Eater 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c57168a952f5d46724cf35dfc3d48a7f.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/42/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2587,
+      "numero": 43,
+      "titulo": "Soul Eater 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef0917ea498b1665ad6c701057155abe.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/43/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2588,
+      "numero": 44,
+      "titulo": "Soul Eater 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb89fd138b104dcf8e2077ad2a23954d.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/44/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2589,
+      "numero": 45,
+      "titulo": "Soul Eater 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_743c41a921516b04afde48bb48e28ce6.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/45/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2590,
+      "numero": 46,
+      "titulo": "Soul Eater 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7876acb66640bad41f1e1371ef30c180.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/46/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2591,
+      "numero": 47,
+      "titulo": "Soul Eater 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_978fce5bcc4eccc88ad48ce3914124a2.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/47/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2592,
+      "numero": 48,
+      "titulo": "Soul Eater 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18bb68e2b38e4a8ce7cf4f6b2625768c.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/48/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2593,
+      "numero": 49,
+      "titulo": "Soul Eater 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_026a39ae63343c68b5223a95f3e17616.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/49/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2594,
+      "numero": 50,
+      "titulo": "Soul Eater 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce758408f6ef98d7c7a7b786eca7b3a8.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/50/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2595,
+      "numero": 51,
+      "titulo": "Soul Eater 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_453fadbd8a1a3af50a9df4df899537b5.jpg",
+      "url_origen": "https://jkanime.net/soul-eater/51/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "114",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:47:30+00:00"
+}

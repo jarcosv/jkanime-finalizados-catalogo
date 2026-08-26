@@ -1,0 +1,29 @@
+{
+  "id_origen": 499,
+  "slug": "dragon-ball-z-movie-07-super-android-13",
+  "titulo": "Dragon Ball Z Movie 07: Super Android 13",
+  "titulo_corto": "Dragon Ball Z Movie 07: Super ...",
+  "sinopsis": "Después de que el Dr. Gero muriera asesinado por #17, la computadora central no quedo desactivada, sino que siguió trabajando. Este trabajo consistió en crear tres nuevos androides: #13, #14 y #15; diseñados con el único propósito de matar a Goku.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-z-movie-07-super-android-13.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-z-movie-07-super-android-13/",
+  "episodios": [
+    {
+      "id_origen": 14550,
+      "numero": 1,
+      "titulo": "Dragon Ball Z Movie 07: Super Android 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03e03424a898e574153a10db9a4db79a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z-movie-07-super-android-13/1/",
+      "publicado_en_origen": "2012-01-16 20:35:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "499",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:47+00:00"
+}

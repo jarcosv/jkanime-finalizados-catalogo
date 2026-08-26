@@ -1,0 +1,29 @@
+{
+  "id_origen": 4100,
+  "slug": "boku-no-hero-academia-the-movie-4-youre-next",
+  "titulo": "Boku no Hero Academia the Movie 4: You're Next",
+  "titulo_corto": "Boku no Hero Academia the Movi...",
+  "sinopsis": "La cuarta película de Boku no Hero Academia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/boku-no-hero-academia-the-movie-4-youre-next.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/boku-no-hero-academia-the-movie-4-youre-next/",
+  "episodios": [
+    {
+      "id_origen": 62840,
+      "numero": 1,
+      "titulo": "Boku no Hero Academia the Movie 4: You're Next",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a42031cb742be375e798ded3f459b9b0.jpg",
+      "url_origen": "https://jkanime.net/boku-no-hero-academia-the-movie-4-youre-next/1/",
+      "publicado_en_origen": "2025-04-21 10:15:53"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4100",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:20:59+00:00"
+}

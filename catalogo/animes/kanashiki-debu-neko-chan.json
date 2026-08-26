@@ -1,0 +1,29 @@
+{
+  "id_origen": 3028,
+  "slug": "kanashiki-debu-neko-chan",
+  "titulo": "Kanashiki Debu Neko-chan",
+  "titulo_corto": "Kanashiki Debu Neko-chan",
+  "sinopsis": "La historia de este anime se centra en un gato llamado Maru, que fue adoptado por su dueña, Anna, en un refugio de la ciudad de Matsuyama. Maru es consentido por la familia, comiendo hasta hartarse y creciendo grande y gordo. Pasa sus días frente a la ventana, viendo el jardín.\n\nPero el día en que la familia adopta a otro gato llamado Cerisier, Maru se pone muy celoso. Luego de enfrentarlo y recibir palabras crueles de parte de la familia, Maru le hace caso a su instinto y decide abandonar a la familia, en favor de conocer el mundo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kanashiki-debu-neko-chan.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kanashiki-debu-neko-chan/",
+  "episodios": [
+    {
+      "id_origen": 49910,
+      "numero": 1,
+      "titulo": "Kanashiki Debu Neko-chan - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88701e1fa71c1891c2dfac5e1c9038ba.jpg",
+      "url_origen": "https://jkanime.net/kanashiki-debu-neko-chan/1/",
+      "publicado_en_origen": "2022-07-19 19:47:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3028",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:33:47+00:00"
+}

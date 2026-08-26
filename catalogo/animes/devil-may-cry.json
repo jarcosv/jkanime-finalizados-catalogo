@@ -1,0 +1,117 @@
+{
+  "id_origen": 40,
+  "slug": "devil-may-cry",
+  "titulo": "Devil May Cry",
+  "titulo_corto": "Devil May Cry",
+  "sinopsis": "Dante esta a cargo de una tienda que hace de todo llamada Devil may cry. Con un mal carácter y una mala paga hace los trabajos para saldar todas sus deudas. Después de su primera misión a tenido que quedarse con una niña que según él es insoportable, pero esa niña tiene algo especial, es la heredera de una familia millonaria y de un poder que ni ella conoce.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/devil-may-cry.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/devil-may-cry/",
+  "episodios": [
+    {
+      "id_origen": 747,
+      "numero": 1,
+      "titulo": "Devil May Cry 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d317bdcf4aafcfc22149d77babee96d.jpg",
+      "url_origen": "https://jkanime.net/devil-may-cry/1/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 748,
+      "numero": 2,
+      "titulo": "Devil May Cry 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e49b8b4053df9505e1f48c3a701c0682.jpg",
+      "url_origen": "https://jkanime.net/devil-may-cry/2/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 749,
+      "numero": 3,
+      "titulo": "Devil May Cry 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b056eb1587586b71e2da9acfe4fbd19e.jpg",
+      "url_origen": "https://jkanime.net/devil-may-cry/3/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 750,
+      "numero": 4,
+      "titulo": "Devil May Cry 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b137fdd1f79d56c7edf3365fea7520f2.jpg",
+      "url_origen": "https://jkanime.net/devil-may-cry/4/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 751,
+      "numero": 5,
+      "titulo": "Devil May Cry 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_912d2b1c7b2826caf99687388d2e8f7c.jpg",
+      "url_origen": "https://jkanime.net/devil-may-cry/5/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 752,
+      "numero": 6,
+      "titulo": "Devil May Cry 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1d33d0dfec820b41b54430b50e96b5c.jpg",
+      "url_origen": "https://jkanime.net/devil-may-cry/6/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 753,
+      "numero": 7,
+      "titulo": "Devil May Cry 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f2268bd1d3d3ebaabb04d6b5d099425.jpg",
+      "url_origen": "https://jkanime.net/devil-may-cry/7/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 754,
+      "numero": 8,
+      "titulo": "Devil May Cry 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_872488f88d1b2db54d55bc8bba2fad1b.jpg",
+      "url_origen": "https://jkanime.net/devil-may-cry/8/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 755,
+      "numero": 9,
+      "titulo": "Devil May Cry 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccb0989662211f61edae2e26d58ea92f.jpg",
+      "url_origen": "https://jkanime.net/devil-may-cry/9/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 756,
+      "numero": 10,
+      "titulo": "Devil May Cry 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2823f4797102ce1a1aec05359cc16dd9.jpg",
+      "url_origen": "https://jkanime.net/devil-may-cry/10/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 757,
+      "numero": 11,
+      "titulo": "Devil May Cry 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_470e7a4f017a5476afb7eeb3f8b96f9b.jpg",
+      "url_origen": "https://jkanime.net/devil-may-cry/11/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 758,
+      "numero": 12,
+      "titulo": "Devil May Cry 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf62768ca46b6c3b5bea9515d1a1fc45.jpg",
+      "url_origen": "https://jkanime.net/devil-may-cry/12/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:26+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "40",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:24:50+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id_origen": 265,
+  "slug": "tsubasa-tokyo-revelations",
+  "titulo": "Tsubasa Chronicle: Tokyo Revelations",
+  "titulo_corto": "Tsubasa Chronicle: Tokyo Revel...",
+  "sinopsis": "Tsubasa Tokyo Revelations abarca el mundo de Tokyo que no salio en las temporadas anteriores, tanto Sakura, Shaoran, Fai y Kurogane continúan sus viajes a través de muchos mundos, el otro \"Shaoran\" despierta y Fei Wong Reed revela la intención y el misterio del ojo derecho Shaoran.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tsubasa-tokyo-revelations.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tsubasa-tokyo-revelations/",
+  "episodios": [
+    {
+      "id_origen": 7135,
+      "numero": 1,
+      "titulo": "Tsubasa Tokyo Revelations 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_604f2c31e67034642b288d76a8df11d5.jpg",
+      "url_origen": "https://jkanime.net/tsubasa-tokyo-revelations/1/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7136,
+      "numero": 2,
+      "titulo": "Tsubasa Tokyo Revelations 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0f3cac4d12fa2668b1ffbc4e3254253.jpg",
+      "url_origen": "https://jkanime.net/tsubasa-tokyo-revelations/2/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 7137,
+      "numero": 3,
+      "titulo": "Tsubasa Tokyo Revelations 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb77649f5d53798edfa0ff40dae46322.jpg",
+      "url_origen": "https://jkanime.net/tsubasa-tokyo-revelations/3/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "265",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:50:20+00:00"
+}

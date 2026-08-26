@@ -1,0 +1,45 @@
+{
+  "id_origen": 2547,
+  "slug": "high-score-girl-extra-stage",
+  "titulo": "High Score Girl: Extra Stage",
+  "titulo_corto": "High Score Girl: Extra Stage",
+  "sinopsis": "Episodios 13-15 de High Score Girl.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/high-score-girl-extra-stage.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/high-score-girl-extra-stage/",
+  "episodios": [
+    {
+      "id_origen": 41348,
+      "numero": 1,
+      "titulo": "High Score Girl: Extra Stage - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cc38fba0b52be891d8c90da8431be17.jpg",
+      "url_origen": "https://jkanime.net/high-score-girl-extra-stage/1/",
+      "publicado_en_origen": "2019-10-25 16:43:08"
+    },
+    {
+      "id_origen": 41349,
+      "numero": 2,
+      "titulo": "High Score Girl: Extra Stage - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a7591885c84083e68131e312f132f44.jpg",
+      "url_origen": "https://jkanime.net/high-score-girl-extra-stage/2/",
+      "publicado_en_origen": "2019-10-25 16:43:08"
+    },
+    {
+      "id_origen": 41350,
+      "numero": 3,
+      "titulo": "High Score Girl: Extra Stage - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_091e1aa4c04a35cb5fda25ff85e9ad87.jpg",
+      "url_origen": "https://jkanime.net/high-score-girl-extra-stage/3/",
+      "publicado_en_origen": "2019-10-25 16:43:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:12+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2547",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:30:34+00:00"
+}

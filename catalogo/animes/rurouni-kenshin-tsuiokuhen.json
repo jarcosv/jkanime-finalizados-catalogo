@@ -1,0 +1,53 @@
+{
+  "id_origen": 455,
+  "slug": "rurouni-kenshin-tsuiokuhen",
+  "titulo": "Rurouni Kenshin: Tsuiokuhen",
+  "titulo_corto": "Rurouni Kenshin: Tsuiokuhen",
+  "sinopsis": "Un joven niño llamado Shinta es salvado por Hiko Seijuro y dado el nombre de Kenshin. Él entrena a Kenshin en el camino de Hiten Mitsurugi Ryuu, una técnica de espada sin rival. Como la guerra civil se intensifica, el joven Kenshin siente que su deber es ayudar a salvar personas. Lo que hace convertirse en el más temido Hitokiri Battousai.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rurouni-kenshin-tsuiokuhen.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/rurouni-kenshin-tsuiokuhen/",
+  "episodios": [
+    {
+      "id_origen": 13340,
+      "numero": 1,
+      "titulo": "Rurouni Kenshin: Tsuiokuhen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_883a8869eeaf7ba467da2a945d7771e2.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin-tsuiokuhen/1/",
+      "publicado_en_origen": "2011-12-03 01:09:32"
+    },
+    {
+      "id_origen": 13341,
+      "numero": 2,
+      "titulo": "Rurouni Kenshin: Tsuiokuhen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc506560e1f9f5f4a27c6614123e2e50.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin-tsuiokuhen/2/",
+      "publicado_en_origen": "2011-12-03 01:09:32"
+    },
+    {
+      "id_origen": 13342,
+      "numero": 3,
+      "titulo": "Rurouni Kenshin: Tsuiokuhen - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05c41063331401f53332b44885ea913d.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin-tsuiokuhen/3/",
+      "publicado_en_origen": "2011-12-03 01:09:32"
+    },
+    {
+      "id_origen": 13343,
+      "numero": 4,
+      "titulo": "Rurouni Kenshin: Tsuiokuhen - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5cb9cf7a3b66aed15faba79d226a332.jpg",
+      "url_origen": "https://jkanime.net/rurouni-kenshin-tsuiokuhen/4/",
+      "publicado_en_origen": "2011-12-03 01:09:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "455",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:44:15+00:00"
+}

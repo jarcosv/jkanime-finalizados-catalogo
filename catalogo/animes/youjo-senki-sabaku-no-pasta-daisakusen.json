@@ -1,0 +1,29 @@
+{
+  "id_origen": 4864,
+  "slug": "youjo-senki-sabaku-no-pasta-daisakusen",
+  "titulo": "Youjo Senki: Sabaku no Pasta Daisakusen",
+  "titulo_corto": "Youjo Senki: Sabaku no Pasta D...",
+  "sinopsis": "El 203.º Batallón de Magos Aéreos, liderado por Tanya, se ve obligado a luchar en el desierto del sur, en primera línea. Con el fin de proporcionar algo de comida para hacer frente a las duras condiciones, el coronel Rerugen envió pasta seca al campo de batalla. ¿Podrán Tanya y los demás disfrutar de esa deliciosa pasta en unas condiciones de escasez de agua?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-sabaku-no-pasta-daisakusen.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/youjo-senki-sabaku-no-pasta-daisakusen/",
+  "episodios": [
+    {
+      "id_origen": 75092,
+      "numero": 1,
+      "titulo": "Youjo Senki: Sabaku no Pasta Daisakusen",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_621464f0b8ee494b70c872cc5ddd2208.jpg",
+      "url_origen": "https://jkanime.net/youjo-senki-sabaku-no-pasta-daisakusen/1/",
+      "publicado_en_origen": "2026-07-15 05:35:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4864",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:53:01+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 2753,
+  "slug": "bem-movie-become-human",
+  "titulo": "Bem Movie: Become Human",
+  "titulo_corto": "Bem Movie: Become Human",
+  "sinopsis": "humanoides a mi :D",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bem-movie-become-human.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bem-movie-become-human/",
+  "episodios": [
+    {
+      "id_origen": 43856,
+      "numero": 1,
+      "titulo": "Bem Movie: Become Human",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc18cd01dacdd62719e6b4d59248c5e1.jpg",
+      "url_origen": "https://jkanime.net/bem-movie-become-human/1/",
+      "publicado_en_origen": "2020-10-30 14:14:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:03+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2753",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:19:32+00:00"
+}

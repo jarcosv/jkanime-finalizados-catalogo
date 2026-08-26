@@ -1,0 +1,101 @@
+{
+  "id_origen": 4833,
+  "slug": "nanatsu-no-bitoku",
+  "titulo": "Nanatsu no Bitoku",
+  "titulo_corto": "Nanatsu no Bitoku",
+  "sinopsis": "Los Siete Pecados Capitales, demonios del infierno, han movido ficha esparciendo su plaga por todo el mundo. El caos se ha apoderado del Paraíso, y los ángeles de “Las Siete Virtudes Celestiales” son enviadas a la tierra en busca de un candidato que se convierta en el “verdadero mesías”.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nanatsu-no-bitoku.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nanatsu-no-bitoku/",
+  "episodios": [
+    {
+      "id_origen": 74417,
+      "numero": 1,
+      "titulo": "Nanatsu no Bitoku - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f388c33050b6a5b970a47325865622df.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-bitoku/1/",
+      "publicado_en_origen": "2026-06-17 13:05:57"
+    },
+    {
+      "id_origen": 74418,
+      "numero": 2,
+      "titulo": "Nanatsu no Bitoku - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1195812dc30666154bd95239b5065be6.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-bitoku/2/",
+      "publicado_en_origen": "2026-06-17 13:05:57"
+    },
+    {
+      "id_origen": 74419,
+      "numero": 3,
+      "titulo": "Nanatsu no Bitoku - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e054b4e70fe618dfbb68f2a40eff03f.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-bitoku/3/",
+      "publicado_en_origen": "2026-06-17 13:05:57"
+    },
+    {
+      "id_origen": 74420,
+      "numero": 4,
+      "titulo": "Nanatsu no Bitoku - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_058142d6d8e10b24f8bd679d5d823523.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-bitoku/4/",
+      "publicado_en_origen": "2026-06-17 13:05:57"
+    },
+    {
+      "id_origen": 74421,
+      "numero": 5,
+      "titulo": "Nanatsu no Bitoku - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_398db9d8b1f26ace3a198681526ae08b.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-bitoku/5/",
+      "publicado_en_origen": "2026-06-17 13:05:57"
+    },
+    {
+      "id_origen": 74422,
+      "numero": 6,
+      "titulo": "Nanatsu no Bitoku - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a54750c6495f9b170168157570263855.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-bitoku/6/",
+      "publicado_en_origen": "2026-06-17 13:05:57"
+    },
+    {
+      "id_origen": 74423,
+      "numero": 7,
+      "titulo": "Nanatsu no Bitoku - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6f5c1063b2bd49081c8cd5e432c4391.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-bitoku/7/",
+      "publicado_en_origen": "2026-06-17 13:05:57"
+    },
+    {
+      "id_origen": 74424,
+      "numero": 8,
+      "titulo": "Nanatsu no Bitoku - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c28227ff55b0b598914bc27661d904e1.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-bitoku/8/",
+      "publicado_en_origen": "2026-06-17 13:05:57"
+    },
+    {
+      "id_origen": 74425,
+      "numero": 9,
+      "titulo": "Nanatsu no Bitoku - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1406b6711519bc1b8760a8e1ecc36993.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-bitoku/9/",
+      "publicado_en_origen": "2026-06-17 13:05:57"
+    },
+    {
+      "id_origen": 74426,
+      "numero": 10,
+      "titulo": "Nanatsu no Bitoku - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_617baa40dc349705514b77ebf54e3812.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-bitoku/10/",
+      "publicado_en_origen": "2026-06-17 13:05:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:20+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4833",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:39:40+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1474,
+  "slug": "shingeki-no-kyojin-movie-1-guren-no-yumiya",
+  "titulo": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+  "titulo_corto": "Shingeki no Kyojin Movie 1: Gu...",
+  "sinopsis": "Película de recapitulación de los episodios 1 al 13",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shingeki-no-kyojin-movie-1-guren-no-yumiya.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shingeki-no-kyojin-movie-1-guren-no-yumiya/",
+  "episodios": [
+    {
+      "id_origen": 27244,
+      "numero": 1,
+      "titulo": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba655f12a66201f445f6816a87ffe480.jpg",
+      "url_origen": "https://jkanime.net/shingeki-no-kyojin-movie-1-guren-no-yumiya/1/",
+      "publicado_en_origen": "2015-03-27 12:28:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1474",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:46:22+00:00"
+}

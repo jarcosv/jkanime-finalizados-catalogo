@@ -1,0 +1,53 @@
+{
+  "id_origen": 1773,
+  "slug": "kanojo-to-kanojo-no-neko-everything-flows",
+  "titulo": "Kanojo to Kanojo no Neko: Everything Flows",
+  "titulo_corto": "Kanojo to Kanojo no Neko: Ever...",
+  "sinopsis": "Anime basado en el corto original de Makoto Shinkai Kanojo to Kanojo no Neko, estrenado en 1999.\nEn el anime veremos a la chica, una futura universitaria que busca trabajo, viviendo sola con un gato negro.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kanojo-to-kanojo-no-neko-everything-flows.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kanojo-to-kanojo-no-neko-everything-flows/",
+  "episodios": [
+    {
+      "id_origen": 31007,
+      "numero": 1,
+      "titulo": "Kanojo to Kanojo no Neko: Everything Flows - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71c53d2fa50393f9549979e3488cab04.jpg",
+      "url_origen": "https://jkanime.net/kanojo-to-kanojo-no-neko-everything-flows/1/",
+      "publicado_en_origen": "2016-03-04 15:29:28"
+    },
+    {
+      "id_origen": 31081,
+      "numero": 2,
+      "titulo": "Kanojo to Kanojo no Neko: Everything Flows - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_712c755bf49c37568c2a9934f32e6155.jpg",
+      "url_origen": "https://jkanime.net/kanojo-to-kanojo-no-neko-everything-flows/2/",
+      "publicado_en_origen": "2016-03-11 16:39:41"
+    },
+    {
+      "id_origen": 31138,
+      "numero": 3,
+      "titulo": "Kanojo to Kanojo no Neko: Everything Flows - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_499d139d7c871d4b41ca6aade4419e42.jpg",
+      "url_origen": "https://jkanime.net/kanojo-to-kanojo-no-neko-everything-flows/3/",
+      "publicado_en_origen": "2016-03-18 14:30:53"
+    },
+    {
+      "id_origen": 31200,
+      "numero": 4,
+      "titulo": "Kanojo to Kanojo no Neko: Everything Flows - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb22f88f11afb43e5ad8075fc7b2491e.jpg",
+      "url_origen": "https://jkanime.net/kanojo-to-kanojo-no-neko-everything-flows/4/",
+      "publicado_en_origen": "2016-03-25 15:05:07"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:36+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1773",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:33:53+00:00"
+}

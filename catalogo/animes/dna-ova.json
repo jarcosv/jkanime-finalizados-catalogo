@@ -1,0 +1,45 @@
+{
+  "id_origen": 479,
+  "slug": "dna-ova",
+  "titulo": "DNA² OVA",
+  "titulo_corto": "DNA² OVA",
+  "sinopsis": "La nieta de Junta regresa en el tiempo con el fin de hacer a Junta el megaplayboy para que pueda seguir con su existencia. Con ella, también viaja un anciano con la intención de convertirlo en lo que su destino lo deparará para siempre, que son los propósitos principales de este anciano. Cuando empieza a ser atacado, Junta no tiene alternativa, y finalmente, tienen que convertirse en el megaplayboy para poder proteger a sus seres queridos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dna-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dna-ova/",
+  "episodios": [
+    {
+      "id_origen": 49435,
+      "numero": 1,
+      "titulo": "DNA² OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95956b13453a5aeea9db63de9ba64dec.jpg",
+      "url_origen": "https://jkanime.net/dna-ova/1/",
+      "publicado_en_origen": "2022-05-21 12:54:25"
+    },
+    {
+      "id_origen": 49436,
+      "numero": 2,
+      "titulo": "DNA² OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e8336b19eec4f492acff4a97a5a4bf4.jpg",
+      "url_origen": "https://jkanime.net/dna-ova/2/",
+      "publicado_en_origen": "2022-05-21 12:54:25"
+    },
+    {
+      "id_origen": 49437,
+      "numero": 3,
+      "titulo": "DNA² OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_326548fd71e387cee457208b8015e2b0.jpg",
+      "url_origen": "https://jkanime.net/dna-ova/3/",
+      "publicado_en_origen": "2022-05-21 12:54:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "479",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:25:13+00:00"
+}

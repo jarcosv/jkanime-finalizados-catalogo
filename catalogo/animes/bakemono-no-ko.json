@@ -1,0 +1,29 @@
+{
+  "id_origen": 3248,
+  "slug": "bakemono-no-ko",
+  "titulo": "Bakemono no Ko",
+  "titulo_corto": "Bakemono no Ko",
+  "sinopsis": "Kyuta es un niño solitario que vive en Tokio, y Kumatetsu es una criatura sobrenatural aislada en un mundo fantástico. Un día, el niño cruza la frontera al otro mundo y entabla amistad con Kumatetsu, que se convierte en su amigo y guía espiritual. Este encuentro les llevará a vivir multitud de aventuras.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bakemono-no-ko.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bakemono-no-ko/",
+  "episodios": [
+    {
+      "id_origen": 50824,
+      "numero": 1,
+      "titulo": "Bakemono no Ko",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8707910c5cf8853c837303ca4f60a839.jpg",
+      "url_origen": "https://jkanime.net/bakemono-no-ko/1/",
+      "publicado_en_origen": "2022-10-19 01:47:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3248",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:18:40+00:00"
+}

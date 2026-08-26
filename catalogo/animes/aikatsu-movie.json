@@ -1,0 +1,29 @@
+{
+  "id_origen": 1572,
+  "slug": "aikatsu-movie",
+  "titulo": "Aikatsu! Movie",
+  "titulo_corto": "Aikatsu! Movie",
+  "sinopsis": "Primera película de Aikatsu!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/aikatsu-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/aikatsu-movie/",
+  "episodios": [
+    {
+      "id_origen": 28553,
+      "numero": 1,
+      "titulo": "Aikatsu! Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_987abbb509e98a9b8cc08f57363e8733.jpg",
+      "url_origen": "https://jkanime.net/aikatsu-movie/1/",
+      "publicado_en_origen": "2015-06-25 11:07:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1572",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:15:29+00:00"
+}

@@ -1,0 +1,197 @@
+{
+  "id_origen": 509,
+  "slug": "guilty-crown",
+  "titulo": "Guilty Crown",
+  "titulo_corto": "Guilty Crown",
+  "sinopsis": "La historia se desarrolla en Tokyo, durante el año 2039, 10 años después que un virus llamado “Apocalipsis” atacase Japón, período al que se le conoce como \"Lost Christmas\", ahora se encuentra controlado por la organización de varias naciones llamado GHQ. Ohma Shu tiene 17 años y consigue poderes especiales, la Marca del Rey, cuando conoce a una chica llamada Yuzuriha Inori, que es vocalista de \"Egoist\" e integrante de la resistencia. Estos poderes le otorga el poder de materializar el corazón de las personas en armas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/guilty-crown.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/guilty-crown/",
+  "episodios": [
+    {
+      "id_origen": 14583,
+      "numero": 1,
+      "titulo": "Guilty Crown - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f80441fff22ab64f9036fc53cbfd4c2e.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/1/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14584,
+      "numero": 2,
+      "titulo": "Guilty Crown - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4a215133d24223a0bb308787ac7b7f5.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/2/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14585,
+      "numero": 3,
+      "titulo": "Guilty Crown - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68197667db0818801a9bb210793be9c9.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/3/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14586,
+      "numero": 4,
+      "titulo": "Guilty Crown - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfb3863762a64ef643d5c9ed51e60d2c.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/4/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14587,
+      "numero": 5,
+      "titulo": "Guilty Crown - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_928924fef1186460e350cefe4714b380.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/5/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14588,
+      "numero": 6,
+      "titulo": "Guilty Crown - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43d97d96a1d4b9842fd23d6cf95c4b38.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/6/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14589,
+      "numero": 7,
+      "titulo": "Guilty Crown - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac2ef27277eab81da1d8dea067dd80c1.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/7/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14590,
+      "numero": 8,
+      "titulo": "Guilty Crown - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc56459a18776e2a100854c16a1fd78b.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/8/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14591,
+      "numero": 9,
+      "titulo": "Guilty Crown - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ada77e9fac537039c9adb2787b9af7da.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/9/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14592,
+      "numero": 10,
+      "titulo": "Guilty Crown - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c51c55cec7054dd833f192a7895b378c.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/10/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14593,
+      "numero": 11,
+      "titulo": "Guilty Crown - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7878b14e9d762184301b06f3f609ead7.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/11/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14594,
+      "numero": 12,
+      "titulo": "Guilty Crown - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f775ec264c01adf8189da19ec86676fe.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/12/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14595,
+      "numero": 13,
+      "titulo": "Guilty Crown - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_076d75c0dd9ca27b2f674c8f5433f50b.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/13/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 14596,
+      "numero": 14,
+      "titulo": "Guilty Crown - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a4789e18b41063f512f76ebc5409d42.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/14/",
+      "publicado_en_origen": "2012-01-26 16:28:58"
+    },
+    {
+      "id_origen": 15066,
+      "numero": 15,
+      "titulo": "Guilty Crown - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_141c3ffedc2e23e6cdfb31a456bed268.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/15/",
+      "publicado_en_origen": "2012-02-24 16:23:34"
+    },
+    {
+      "id_origen": 15067,
+      "numero": 16,
+      "titulo": "Guilty Crown - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c2962f5fd32e7cf54968b00cb4ecea5.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/16/",
+      "publicado_en_origen": "2012-02-24 16:23:34"
+    },
+    {
+      "id_origen": 15068,
+      "numero": 17,
+      "titulo": "Guilty Crown - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3d2b39d8bc215f6540218d20280232a.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/17/",
+      "publicado_en_origen": "2012-02-24 16:23:34"
+    },
+    {
+      "id_origen": 15069,
+      "numero": 18,
+      "titulo": "Guilty Crown - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45e1ef0afb76fef33345fcac011c18bb.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/18/",
+      "publicado_en_origen": "2012-02-24 16:23:34"
+    },
+    {
+      "id_origen": 15120,
+      "numero": 19,
+      "titulo": "Guilty Crown - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_590fcadab00abacc5caaf30b51e91ad3.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/19/",
+      "publicado_en_origen": "2012-03-05 03:44:28"
+    },
+    {
+      "id_origen": 15143,
+      "numero": 20,
+      "titulo": "Guilty Crown - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c63ae1de85814ddb3cece1f18e6c7351.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/20/",
+      "publicado_en_origen": "2012-03-09 10:54:18"
+    },
+    {
+      "id_origen": 15217,
+      "numero": 21,
+      "titulo": "Guilty Crown - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c8ba697dbc0c69dbdbf8a1a544e788f.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/21/",
+      "publicado_en_origen": "2012-03-16 11:48:09"
+    },
+    {
+      "id_origen": 15233,
+      "numero": 22,
+      "titulo": "Guilty Crown - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87a7f631aba283357925824464be7f74.jpg",
+      "url_origen": "https://jkanime.net/guilty-crown/22/",
+      "publicado_en_origen": "2012-03-22 23:10:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:11+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "509",
+  "cantidad_episodios_declarada": 22,
+  "detalle_extraido_en": "2026-08-26T18:29:12+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 1372,
+  "slug": "ikkitousen-extravaganza-epoch",
+  "titulo": "Ikkitousen: Extravaganza Epoch",
+  "titulo_corto": "Ikkitousen: Extravaganza Epoch",
+  "sinopsis": "Nueva OVA de Ikkitousen.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ikkitousen-extravaganza-epoch.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ikkitousen-extravaganza-epoch/",
+  "episodios": [
+    {
+      "id_origen": 25924,
+      "numero": 1,
+      "titulo": "Ikkitousen: Extravaganza Epoch - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41d98b54063973ecbdcbe845ff38ff95.jpg",
+      "url_origen": "https://jkanime.net/ikkitousen-extravaganza-epoch/1/",
+      "publicado_en_origen": "2014-12-21 21:06:22"
+    },
+    {
+      "id_origen": 26033,
+      "numero": 2,
+      "titulo": "Ikkitousen: Extravaganza Epoch - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4b5a70ca8cf24d0eb4330748d1e72e5.jpg",
+      "url_origen": "https://jkanime.net/ikkitousen-extravaganza-epoch/2/",
+      "publicado_en_origen": "2014-12-28 17:03:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1372",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:31:44+00:00"
+}

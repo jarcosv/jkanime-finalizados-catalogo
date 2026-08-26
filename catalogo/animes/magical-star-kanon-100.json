@@ -1,0 +1,29 @@
+{
+  "id_origen": 895,
+  "slug": "magical-star-kanon-100",
+  "titulo": "Kami nomi zo Shiru Sekai:Magical☆Star Kanon 100%",
+  "titulo_corto": "Kami nomi zo Shiru Sekai:Magic...",
+  "sinopsis": "El spin-off Magical Star Kanon 100% se centra en la idol Kanon Nakagawa, aunque ahora será una chica mágica.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/magical-star-kanon-100.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/magical-star-kanon-100/",
+  "episodios": [
+    {
+      "id_origen": 20959,
+      "numero": 1,
+      "titulo": "Magical☆Star Kanon 100%",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20134e6c229321b9ca3f9e25c05c5293.jpg",
+      "url_origen": "https://jkanime.net/magical-star-kanon-100/1/",
+      "publicado_en_origen": "2013-07-03 04:26:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "895",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:33:38+00:00"
+}

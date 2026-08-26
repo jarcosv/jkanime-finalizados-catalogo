@@ -1,0 +1,85 @@
+{
+  "id_origen": 513,
+  "slug": "black-rock-shooter",
+  "titulo": "Black★Rock Shooter (TV)",
+  "titulo_corto": "Black★Rock Shooter (TV)",
+  "sinopsis": "Mato Kuroi una alegre y activa chica llega a su primer día de instituto, y una joven le llama la atención, se trata de Yomi Takanashi una chica madura que va a su misma clase. Ambas entablan amistad, una amistad que se irá fortaleciendo a traves del tiempo. Tras su llegada a segundo año de instituto son separadas y empiezan a distanciarse. Mientras tanto en algun lugar dos chicas se enfrentan entre ellas, una llevando una enorme arma de fuego de alto calibre (Black Rock Shooter) y la otra llevando una guadaña negra (Dead Master), ambas guardan un parecido considerable con las jovenes Yomi y Mato.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/black-rock-shooter.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/black-rock-shooter/",
+  "episodios": [
+    {
+      "id_origen": 14637,
+      "numero": 1,
+      "titulo": "Black★Rock Shooter (TV) - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18175d262a01ebf04bc03e38e48e3ffc.jpg",
+      "url_origen": "https://jkanime.net/black-rock-shooter/1/",
+      "publicado_en_origen": "2012-02-03 15:27:04"
+    },
+    {
+      "id_origen": 14779,
+      "numero": 2,
+      "titulo": "Black★Rock Shooter (TV) - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fa0a367bebe0a86970effd56746c459.jpg",
+      "url_origen": "https://jkanime.net/black-rock-shooter/2/",
+      "publicado_en_origen": "2012-02-10 13:58:36"
+    },
+    {
+      "id_origen": 15046,
+      "numero": 3,
+      "titulo": "Black★Rock Shooter (TV) - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0ae1e3078807c85d78d64f4ded5cdcb.jpg",
+      "url_origen": "https://jkanime.net/black-rock-shooter/3/",
+      "publicado_en_origen": "2012-02-17 12:02:57"
+    },
+    {
+      "id_origen": 15063,
+      "numero": 4,
+      "titulo": "Black★Rock Shooter (TV) - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f39f6f54273cc68d91eb7443932a64ad.jpg",
+      "url_origen": "https://jkanime.net/black-rock-shooter/4/",
+      "publicado_en_origen": "2012-02-24 01:32:14"
+    },
+    {
+      "id_origen": 15104,
+      "numero": 5,
+      "titulo": "Black★Rock Shooter (TV) - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c131278e28b4703f6466a4bdf0fa863e.jpg",
+      "url_origen": "https://jkanime.net/black-rock-shooter/5/",
+      "publicado_en_origen": "2012-03-02 01:38:26"
+    },
+    {
+      "id_origen": 15141,
+      "numero": 6,
+      "titulo": "Black★Rock Shooter (TV) - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_124243dcc405103dcf9419f38c89f078.jpg",
+      "url_origen": "https://jkanime.net/black-rock-shooter/6/",
+      "publicado_en_origen": "2012-03-09 01:30:00"
+    },
+    {
+      "id_origen": 15213,
+      "numero": 7,
+      "titulo": "Black★Rock Shooter (TV) - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05f7136bcb0b2ca2dff08f65bf468a55.jpg",
+      "url_origen": "https://jkanime.net/black-rock-shooter/7/",
+      "publicado_en_origen": "2012-03-16 00:49:21"
+    },
+    {
+      "id_origen": 15232,
+      "numero": 8,
+      "titulo": "Black★Rock Shooter (TV) - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66d65498077ac583806d1c8b684b946e.jpg",
+      "url_origen": "https://jkanime.net/black-rock-shooter/8/",
+      "publicado_en_origen": "2012-03-22 22:35:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "513",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:20:12+00:00"
+}

@@ -1,0 +1,69 @@
+{
+  "id_origen": 2367,
+  "slug": "masamune-datenicle",
+  "titulo": "Masamune Datenicle",
+  "titulo_corto": "Masamune Datenicle",
+  "sinopsis": "La historia de la batalla de la mayoría de edad se centrara en el famoso señor de la guerra japonés del siglo XVII, Date Masamune, cuando era joven. El clan Date tomó su nombre de la región Date de la antigua provincia de Mutsu, que forma parte de la actual ciudad de Date.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/masamune-datenicle.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/masamune-datenicle/",
+  "episodios": [
+    {
+      "id_origen": 38853,
+      "numero": 1,
+      "titulo": "Masamune Datenicle - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6923eb702e7fb7a542fc25cb1b7ea9e.jpg",
+      "url_origen": "https://jkanime.net/masamune-datenicle/1/",
+      "publicado_en_origen": "2019-02-10 17:41:54"
+    },
+    {
+      "id_origen": 38942,
+      "numero": 2,
+      "titulo": "Masamune Datenicle - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67c68199f158340828fc50c3f66c99c5.jpg",
+      "url_origen": "https://jkanime.net/masamune-datenicle/2/",
+      "publicado_en_origen": "2019-02-21 15:47:19"
+    },
+    {
+      "id_origen": 39302,
+      "numero": 3,
+      "titulo": "Masamune Datenicle - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb2876a1cf41b048fb41b4b478f30982.jpg",
+      "url_origen": "https://jkanime.net/masamune-datenicle/3/",
+      "publicado_en_origen": "2019-03-12 22:53:08"
+    },
+    {
+      "id_origen": 39303,
+      "numero": 4,
+      "titulo": "Masamune Datenicle - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70c7bdc758417aa5c47a1e63e62982b3.jpg",
+      "url_origen": "https://jkanime.net/masamune-datenicle/4/",
+      "publicado_en_origen": "2019-03-12 22:53:14"
+    },
+    {
+      "id_origen": 39304,
+      "numero": 5,
+      "titulo": "Masamune Datenicle - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_396a6e20890fc40d8f5e7cfd3fc3a288.jpg",
+      "url_origen": "https://jkanime.net/masamune-datenicle/5/",
+      "publicado_en_origen": "2019-03-12 22:53:21"
+    },
+    {
+      "id_origen": 39305,
+      "numero": 6,
+      "titulo": "Masamune Datenicle - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a9ee261949127cf848fadb72c8593d7.jpg",
+      "url_origen": "https://jkanime.net/masamune-datenicle/6/",
+      "publicado_en_origen": "2019-03-12 22:53:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2367",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:38:01+00:00"
+}

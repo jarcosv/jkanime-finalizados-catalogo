@@ -1,0 +1,29 @@
+{
+  "id_origen": 1455,
+  "slug": "hitsugi-no-chaika-ova",
+  "titulo": "Hitsugi no Chaika OVA",
+  "titulo_corto": "Hitsugi no Chaika OVA",
+  "sinopsis": "Episodio original como OVA incluida en el 12vo volumen de la novela de Hitsugi no Chaika.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hitsugi-no-chaika-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hitsugi-no-chaika-ova/",
+  "episodios": [
+    {
+      "id_origen": 26994,
+      "numero": 1,
+      "titulo": "Hitsugi no Chaika OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5c57642a4f73eae7413ce5ad2782158.jpg",
+      "url_origen": "https://jkanime.net/hitsugi-no-chaika-ova/1/",
+      "publicado_en_origen": "2015-03-07 21:00:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1455",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:30:56+00:00"
+}

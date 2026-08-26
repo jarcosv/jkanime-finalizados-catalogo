@@ -1,0 +1,45 @@
+{
+  "id_origen": 1252,
+  "slug": "shinryaku-ika-musume-ova",
+  "titulo": "Shinryaku!! Ika Musume OVA",
+  "titulo_corto": "Shinryaku!! Ika Musume OVA",
+  "sinopsis": "OVAs incluidas en el 12vo, 14vo y 17vo volumen del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shinryaku-ika-musume-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shinryaku-ika-musume-ova/",
+  "episodios": [
+    {
+      "id_origen": 24703,
+      "numero": 1,
+      "titulo": "Shinryaku!! Ika Musume - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shinryaku-ika-musume-ova.jpg",
+      "url_origen": "https://jkanime.net/shinryaku-ika-musume-ova/1/",
+      "publicado_en_origen": "2014-09-08 03:04:12"
+    },
+    {
+      "id_origen": 24704,
+      "numero": 2,
+      "titulo": "Shinryaku!! Ika Musume - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shinryaku-ika-musume-ova.jpg",
+      "url_origen": "https://jkanime.net/shinryaku-ika-musume-ova/2/",
+      "publicado_en_origen": "2014-09-08 03:04:12"
+    },
+    {
+      "id_origen": 25577,
+      "numero": 3,
+      "titulo": "Shinryaku!! Ika Musume OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shinryaku-ika-musume-ova.jpg",
+      "url_origen": "https://jkanime.net/shinryaku-ika-musume-ova/3/",
+      "publicado_en_origen": "2014-11-26 16:32:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1252",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:46:37+00:00"
+}

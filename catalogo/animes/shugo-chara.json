@@ -1,0 +1,429 @@
+{
+  "id_origen": 401,
+  "slug": "shugo-chara",
+  "titulo": "Shugo Chara!",
+  "titulo_corto": "Shugo Chara!",
+  "sinopsis": "La protagonista de la historia, Amu Hinamori, es una estudiante en la Primaria Seiyo. A primera vista, sus compañeros se refieren a ella como \"genial y picante\" y rumores se especulan sobre su vida personal. Sin embargo, su verdadera personalidad es la de una chica muy tímida que tiene problemas para mostrar su verdadera personalidad. Una noche, Amu desea tener el valor de mostrar sus \"supuestos\" sí. A la mañana siguiente se encuentra con tres huevos de colores-rojo, azul y verde-en su cama. Al principio, ella se alarma, pero se da cuenta que realmente deseo el poder de cambiar. Estos huevos eclosionan en tres personajes guardianes: Ran, Miki y Su. Los personajes guardianes ayudaran a Amu a descubrir quien es ella verdaderamente y cumplir sus sueños.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shugo-chara.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shugo-chara/",
+  "episodios": [
+    {
+      "id_origen": 8904,
+      "numero": 1,
+      "titulo": "Shugo Chara 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d98d76e2b5ba72023414d98e75403e79.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/1/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8905,
+      "numero": 2,
+      "titulo": "Shugo Chara 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bcbf838aad2d6d4f975380ee45ef8d8.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/2/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8906,
+      "numero": 3,
+      "titulo": "Shugo Chara 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41d6c2482cdf34113f998e9df192e148.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/3/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8907,
+      "numero": 4,
+      "titulo": "Shugo Chara 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bac4cbb6173335e862a1b3df635ee3ba.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/4/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8908,
+      "numero": 5,
+      "titulo": "Shugo Chara 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_161fd33f67dbfd29138ce3f165d5e5dd.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/5/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8909,
+      "numero": 6,
+      "titulo": "Shugo Chara 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc598895a76714dff4c34b2361569b37.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/6/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8910,
+      "numero": 7,
+      "titulo": "Shugo Chara 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86a1fa88adb5c33bd7a68ac2f9f3f96b.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/7/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8911,
+      "numero": 8,
+      "titulo": "Shugo Chara 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fed537780f3f29cc5d5f313bbda423c4.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/8/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8912,
+      "numero": 9,
+      "titulo": "Shugo Chara 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe27f92b1e3f4997567807f38d567a35.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/9/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8913,
+      "numero": 10,
+      "titulo": "Shugo Chara 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2487e8950121487ee653a97ba29d020.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/10/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8914,
+      "numero": 11,
+      "titulo": "Shugo Chara 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a7dc0811b68d34739654a26ebdb707f.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/11/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8915,
+      "numero": 12,
+      "titulo": "Shugo Chara 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a422e60213322845b85ae122de53269f.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/12/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8916,
+      "numero": 13,
+      "titulo": "Shugo Chara 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c688defd45ad6638febd469adb09ddf7.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/13/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8917,
+      "numero": 14,
+      "titulo": "Shugo Chara 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c351da15b5e8a743a21ee96a86e25df.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/14/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8918,
+      "numero": 15,
+      "titulo": "Shugo Chara 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb469043f774854635c4d72798291e9f.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/15/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8919,
+      "numero": 16,
+      "titulo": "Shugo Chara 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fd7c9fc436c0b439e0b56159eafacc8.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/16/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8920,
+      "numero": 17,
+      "titulo": "Shugo Chara 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3200dca98ebe9021d31c8cd58b5d995e.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/17/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8921,
+      "numero": 18,
+      "titulo": "Shugo Chara 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6101903146e4bbf4999c449d78441606.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/18/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8922,
+      "numero": 19,
+      "titulo": "Shugo Chara 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a751d6a0b6ef05cfe51b86e5d1458e6.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/19/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8923,
+      "numero": 20,
+      "titulo": "Shugo Chara 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fedc604da8b0f9af74b6cfc0fab2163c.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/20/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8924,
+      "numero": 21,
+      "titulo": "Shugo Chara 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdb2c3bab9d0701c4a050a4d8d782c7f.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/21/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8925,
+      "numero": 22,
+      "titulo": "Shugo Chara 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac597b7eca2b4a550ad15962eeeee42a.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/22/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8926,
+      "numero": 23,
+      "titulo": "Shugo Chara 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82b04cd5aa016d979fe048f3ddf0e8d3.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/23/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8927,
+      "numero": 24,
+      "titulo": "Shugo Chara 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e033fdb11f1faad86c9a492d4696ec31.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/24/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8928,
+      "numero": 25,
+      "titulo": "Shugo Chara 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3df80af53dce8435cf9ad6c3e7a403fd.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/25/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8929,
+      "numero": 26,
+      "titulo": "Shugo Chara 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47a5feca4ce02883a5643e295c7ce6cd.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/26/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8930,
+      "numero": 27,
+      "titulo": "Shugo Chara 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a38a1eb24d99699159da10e71c45577.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/27/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8931,
+      "numero": 28,
+      "titulo": "Shugo Chara 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32b8923dc22023d09a67564a1d45d210.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/28/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8932,
+      "numero": 29,
+      "titulo": "Shugo Chara 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_864465fb32ecad6a59c4050b91ee99fc.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/29/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8933,
+      "numero": 30,
+      "titulo": "Shugo Chara 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90918ccd19a67747cadd8dbf8368c742.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/30/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8934,
+      "numero": 31,
+      "titulo": "Shugo Chara 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56e2cacee3013d65899f9d0522a893f8.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/31/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8935,
+      "numero": 32,
+      "titulo": "Shugo Chara 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_313e98866f7643ecdbf07e2ba4cfc55b.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/32/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8936,
+      "numero": 33,
+      "titulo": "Shugo Chara 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a73de68f10e15626eb98701ecf03adb.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/33/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8937,
+      "numero": 34,
+      "titulo": "Shugo Chara 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f2dff7862a70f97a59a1fa02c3ec110.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/34/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8938,
+      "numero": 35,
+      "titulo": "Shugo Chara 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07fc15c9d169ee48573edd749d25945d.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/35/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8939,
+      "numero": 36,
+      "titulo": "Shugo Chara 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee1d21306cddf0e43641f1dc52d810be.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/36/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8940,
+      "numero": 37,
+      "titulo": "Shugo Chara 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2f94d8e28139ce8120147d24fe3b8f6.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/37/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8941,
+      "numero": 38,
+      "titulo": "Shugo Chara 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09ab23b6b607496f095feed7aaa1259b.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/38/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8942,
+      "numero": 39,
+      "titulo": "Shugo Chara 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bf75f7173e9ff794fc9c53515defaad.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/39/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8943,
+      "numero": 40,
+      "titulo": "Shugo Chara 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80c60e6ccca996995b273e51b04d6b9c.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/40/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8944,
+      "numero": 41,
+      "titulo": "Shugo Chara 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c97e7a5153badb6576d8939469f58336.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/41/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8945,
+      "numero": 42,
+      "titulo": "Shugo Chara 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48e59000d7dfcf6c1d96ce4a603ed738.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/42/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8946,
+      "numero": 43,
+      "titulo": "Shugo Chara 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfc89c3ee67d881255f8b097c4ed2d67.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/43/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8947,
+      "numero": 44,
+      "titulo": "Shugo Chara 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0f82e1046ccbd597c7f2a7bfba9e7dd.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/44/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8948,
+      "numero": 45,
+      "titulo": "Shugo Chara 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c58da3f0418ebdb53c02615f9ab7282.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/45/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8949,
+      "numero": 46,
+      "titulo": "Shugo Chara 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49afa3a1bba5280af6c4bf2fb5ea7669.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/46/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8950,
+      "numero": 47,
+      "titulo": "Shugo Chara 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c494d9524143b2ebe567475e985c19f7.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/47/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8951,
+      "numero": 48,
+      "titulo": "Shugo Chara 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ae5168b14a6091d623291902ac36e7c.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/48/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8952,
+      "numero": 49,
+      "titulo": "Shugo Chara 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3670ce0c315396e4836d7024abcf3dd.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/49/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8953,
+      "numero": 50,
+      "titulo": "Shugo Chara 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b02f0c434ba1da7396aca257d0eb1e2f.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/50/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    },
+    {
+      "id_origen": 8954,
+      "numero": 51,
+      "titulo": "Shugo Chara 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76e9a17937b75b73a8a430acf210feaf.jpg",
+      "url_origen": "https://jkanime.net/shugo-chara/51/",
+      "publicado_en_origen": "2011-07-06 10:31:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:26+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "401",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:46:59+00:00"
+}

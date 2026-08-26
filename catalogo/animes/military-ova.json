@@ -1,0 +1,29 @@
+{
+  "id_origen": 1536,
+  "slug": "military-ova",
+  "titulo": "Military! OVA",
+  "titulo_corto": "Military! OVA",
+  "sinopsis": "Episodio 13 incluído en los BD/DVD",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/military-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/military-ova/",
+  "episodios": [
+    {
+      "id_origen": 27495,
+      "numero": 1,
+      "titulo": "Military! OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/military-ova.jpg",
+      "url_origen": "https://jkanime.net/military-ova/1/",
+      "publicado_en_origen": "2015-04-16 13:04:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1536",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:38:36+00:00"
+}

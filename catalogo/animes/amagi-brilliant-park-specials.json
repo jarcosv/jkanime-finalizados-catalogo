@@ -1,0 +1,77 @@
+{
+  "id_origen": 1445,
+  "slug": "amagi-brilliant-park-specials",
+  "titulo": "Amagi Brilliant Park Specials",
+  "titulo_corto": "Amagi Brilliant Park Specials",
+  "sinopsis": "Especiales incluidos en los Bluray/DVD",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/amagi-brilliant-park-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/amagi-brilliant-park-specials/",
+  "episodios": [
+    {
+      "id_origen": 26754,
+      "numero": 1,
+      "titulo": "Amagi Brilliant Park Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ead3f24f650fcf6d8936af5c23ecafc4.jpg",
+      "url_origen": "https://jkanime.net/amagi-brilliant-park-specials/1/",
+      "publicado_en_origen": "2015-02-16 09:44:07"
+    },
+    {
+      "id_origen": 26755,
+      "numero": 2,
+      "titulo": "Amagi Brilliant Park Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b105ac0f79d9e167dbc3ea6d69e6145a.jpg",
+      "url_origen": "https://jkanime.net/amagi-brilliant-park-specials/2/",
+      "publicado_en_origen": "2015-02-16 10:52:08"
+    },
+    {
+      "id_origen": 27062,
+      "numero": 3,
+      "titulo": "Amagi Brilliant Park Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_861fc05a34bf88b3c689a89ef8f34384.jpg",
+      "url_origen": "https://jkanime.net/amagi-brilliant-park-specials/3/",
+      "publicado_en_origen": "2015-03-15 20:15:00"
+    },
+    {
+      "id_origen": 27846,
+      "numero": 4,
+      "titulo": "Amagi Brilliant Park Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e54c7a057f1d638a840d301ef7da5473.jpg",
+      "url_origen": "https://jkanime.net/amagi-brilliant-park-specials/4/",
+      "publicado_en_origen": "2015-05-23 16:39:18"
+    },
+    {
+      "id_origen": 28484,
+      "numero": 5,
+      "titulo": "Amagi Brilliant Park Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba3a3ae550894c78c7ff006c8ce28a99.jpg",
+      "url_origen": "https://jkanime.net/amagi-brilliant-park-specials/5/",
+      "publicado_en_origen": "2015-06-18 16:36:11"
+    },
+    {
+      "id_origen": 28510,
+      "numero": 6,
+      "titulo": "Amagi Brilliant Park Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e84ddd3458399dd0b627fce62517db47.jpg",
+      "url_origen": "https://jkanime.net/amagi-brilliant-park-specials/6/",
+      "publicado_en_origen": "2015-06-20 10:49:14"
+    },
+    {
+      "id_origen": 28652,
+      "numero": 7,
+      "titulo": "Amagi Brilliant Park Specials - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c98cf9a1bc982029683b6b136654777f.jpg",
+      "url_origen": "https://jkanime.net/amagi-brilliant-park-specials/7/",
+      "publicado_en_origen": "2015-07-08 11:50:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:48+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1445",
+  "cantidad_episodios_declarada": 7,
+  "detalle_extraido_en": "2026-08-26T18:16:21+00:00"
+}

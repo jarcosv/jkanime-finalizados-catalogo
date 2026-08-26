@@ -1,0 +1,29 @@
+{
+  "id_origen": 4876,
+  "slug": "ansatsu-kyoushitsu-movie-minna-no-jikan",
+  "titulo": "Ansatsu Kyoushitsu Movie: Minna no Jikan",
+  "titulo_corto": "Ansatsu Kyoushitsu Movie: Minn...",
+  "sinopsis": "Película Ansatsu Kyoushitsu: Minna no Jikan adapta episodios que se omitieron en la serie de anime original.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ansatsu-kyoushitsu-movie-minna-no-jikan.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ansatsu-kyoushitsu-movie-minna-no-jikan/",
+  "episodios": [
+    {
+      "id_origen": 75371,
+      "numero": 1,
+      "titulo": "Ansatsu Kyoushitsu Movie: Minna no Jikan",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db98adcaeac25c47a786b046ddbf3263.jpg",
+      "url_origen": "https://jkanime.net/ansatsu-kyoushitsu-movie-minna-no-jikan/1/",
+      "publicado_en_origen": "2026-07-24 02:23:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4876",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:16:53+00:00"
+}

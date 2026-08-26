@@ -1,0 +1,29 @@
+{
+  "id_origen": 2113,
+  "slug": "kimi-no-na-wa",
+  "titulo": "Kimi no Na wa.",
+  "titulo_corto": "Kimi no Na wa.",
+  "sinopsis": "La “historia de milagros y amor” gira en torno a Mitsuha y Taki. Mitsuha es una estudiante de secundaria que vive en un pueblo rural situado en las montañas. Su padre es el alcalde y no pasa mucho por casa, ella vive con su hermana pequeña estudiante de primaria y su abuela. Mitsuha tiene una personalidad honesta, pero a ella no le gustan las costumbres del santuario sintoísta de su familia, ni ella ni su padre participan en una campaña electoral. Ella se lamenta de que vive confinada en un pueblo rural y anhela el maravilloso estilo de vida de Tokio. Taki es un estudiante de secundaria que vive en el centro de Tokio. Él pasa su tiempo junto a sus amigos, trabajando a tiempo parcial en un restaurante italiano y está interesado en la arquitectura y las bellas artes. Un día, Mitsuha tiene un sueño en el que ella tiene el cuerpo de un hombre joven. Taki también tiene un sueño parecido y en el que él es una estudiante de secundaria en un pueblo en las montañas en él que nunca ha estado. ¿Cuál es el secreto de sus sueños?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimi-no-na-wa.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimi-no-na-wa/",
+  "episodios": [
+    {
+      "id_origen": 35350,
+      "numero": 1,
+      "titulo": "Kimi no Na wa.",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba3fe3d296f3e7269b66f163d31b3dc3.jpg",
+      "url_origen": "https://jkanime.net/kimi-no-na-wa/1/",
+      "publicado_en_origen": "2017-08-04 17:03:14"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2113",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:34:44+00:00"
+}

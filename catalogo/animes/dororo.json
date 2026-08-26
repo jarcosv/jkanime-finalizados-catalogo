@@ -1,0 +1,213 @@
+{
+  "id_origen": 2340,
+  "slug": "dororo",
+  "titulo": "Dororo",
+  "titulo_corto": "Dororo",
+  "sinopsis": "Daigo Kagemitsu es un temible samurái que entregó su futuro hijo a demonios, a cambio de ver cumplido su sueño de conquistar el país. Al cabo del tiempo, nació un niño deforme, al que faltaban cuarenta y ocho partes de su cuerpo. Su ambicioso padre lo arrojó al río, pero el pequeño logró sobrevivir y, con el tiempo, convertirse en un diestro espadachín llamado Hyakkimaru, «pequeño monstruo». Años después, con la ayuda del joven y avispado Dororo, quien afirma ser el mejor ladrón de Japón, Hyakkimaru emprenderá un viaje a lo largo del cual se enfrentará a los demonios para recuperar las partes de su cuerpo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dororo.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dororo/",
+  "episodios": [
+    {
+      "id_origen": 38632,
+      "numero": 1,
+      "titulo": "Dororo - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f0c1bb16491e573170058e03e7b75ed.jpg",
+      "url_origen": "https://jkanime.net/dororo/1/",
+      "publicado_en_origen": "2019-01-07 18:28:50"
+    },
+    {
+      "id_origen": 38670,
+      "numero": 2,
+      "titulo": "Dororo - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59495dda55063c90e74d8761976f3229.jpg",
+      "url_origen": "https://jkanime.net/dororo/2/",
+      "publicado_en_origen": "2019-01-14 15:48:48"
+    },
+    {
+      "id_origen": 38717,
+      "numero": 3,
+      "titulo": "Dororo - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e42265358eb361bda37e0958c0b5c940.jpg",
+      "url_origen": "https://jkanime.net/dororo/3/",
+      "publicado_en_origen": "2019-01-21 14:05:08"
+    },
+    {
+      "id_origen": 38791,
+      "numero": 4,
+      "titulo": "Dororo - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f56b0fc71e17fa72a6f8463788aae5a1.jpg",
+      "url_origen": "https://jkanime.net/dororo/4/",
+      "publicado_en_origen": "2019-02-04 12:51:06"
+    },
+    {
+      "id_origen": 38793,
+      "numero": 5,
+      "titulo": "Dororo - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a3c021c3468863faf3f09d860cf9108.jpg",
+      "url_origen": "https://jkanime.net/dororo/5/",
+      "publicado_en_origen": "2019-02-04 13:43:12"
+    },
+    {
+      "id_origen": 38854,
+      "numero": 6,
+      "titulo": "Dororo - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_def69d33d6671fc59c33a5328d7b5a37.jpg",
+      "url_origen": "https://jkanime.net/dororo/6/",
+      "publicado_en_origen": "2019-02-11 13:42:50"
+    },
+    {
+      "id_origen": 38910,
+      "numero": 7,
+      "titulo": "Dororo - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b3b9fe4c02990377fa615eeb3369ec9.jpg",
+      "url_origen": "https://jkanime.net/dororo/7/",
+      "publicado_en_origen": "2019-02-18 14:55:38"
+    },
+    {
+      "id_origen": 39012,
+      "numero": 8,
+      "titulo": "Dororo - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63e8cd622a63c57fc1b17a23e438d9ac.jpg",
+      "url_origen": "https://jkanime.net/dororo/8/",
+      "publicado_en_origen": "2019-02-25 14:38:10"
+    },
+    {
+      "id_origen": 39092,
+      "numero": 9,
+      "titulo": "Dororo - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49dda3f3dd880fba41cb7a7d74bd08bd.jpg",
+      "url_origen": "https://jkanime.net/dororo/9/",
+      "publicado_en_origen": "2019-03-04 15:33:15"
+    },
+    {
+      "id_origen": 39291,
+      "numero": 10,
+      "titulo": "Dororo - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82ade9609d9915ca5e830df04b7d90e2.jpg",
+      "url_origen": "https://jkanime.net/dororo/10/",
+      "publicado_en_origen": "2019-03-11 13:33:06"
+    },
+    {
+      "id_origen": 39347,
+      "numero": 11,
+      "titulo": "Dororo - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd1e8ec41900cc92ed2745181be96f1a.jpg",
+      "url_origen": "https://jkanime.net/dororo/11/",
+      "publicado_en_origen": "2019-03-18 19:57:54"
+    },
+    {
+      "id_origen": 39394,
+      "numero": 12,
+      "titulo": "Dororo - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b372f77062948ef874e4c2bbe7e6cee.jpg",
+      "url_origen": "https://jkanime.net/dororo/12/",
+      "publicado_en_origen": "2019-03-25 14:53:14"
+    },
+    {
+      "id_origen": 39572,
+      "numero": 13,
+      "titulo": "Dororo - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2114fa651bf766a228f65349d0ae22e2.jpg",
+      "url_origen": "https://jkanime.net/dororo/13/",
+      "publicado_en_origen": "2019-04-08 14:53:32"
+    },
+    {
+      "id_origen": 39620,
+      "numero": 14,
+      "titulo": "Dororo - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3741a74f9ef83f0954213dbc84619aaa.jpg",
+      "url_origen": "https://jkanime.net/dororo/14/",
+      "publicado_en_origen": "2019-04-15 17:54:47"
+    },
+    {
+      "id_origen": 39688,
+      "numero": 15,
+      "titulo": "Dororo - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b9c2023b5da0ffe9aa0a39285c836c6.jpg",
+      "url_origen": "https://jkanime.net/dororo/15/",
+      "publicado_en_origen": "2019-04-22 21:08:00"
+    },
+    {
+      "id_origen": 39742,
+      "numero": 16,
+      "titulo": "Dororo - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eecd44ca6cde2b98f9c7150cb135861c.jpg",
+      "url_origen": "https://jkanime.net/dororo/16/",
+      "publicado_en_origen": "2019-04-29 20:43:51"
+    },
+    {
+      "id_origen": 39789,
+      "numero": 17,
+      "titulo": "Dororo - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94243d5d15ba8508b70d6197ca46173a.jpg",
+      "url_origen": "https://jkanime.net/dororo/17/",
+      "publicado_en_origen": "2019-05-06 19:58:35"
+    },
+    {
+      "id_origen": 39867,
+      "numero": 18,
+      "titulo": "Dororo - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f539e92146eac32306bcb0f8ba374ec.jpg",
+      "url_origen": "https://jkanime.net/dororo/18/",
+      "publicado_en_origen": "2019-05-13 19:21:37"
+    },
+    {
+      "id_origen": 39945,
+      "numero": 19,
+      "titulo": "Dororo - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee7905f8b65b6ea3ac9c66a7845f2737.jpg",
+      "url_origen": "https://jkanime.net/dororo/19/",
+      "publicado_en_origen": "2019-05-20 19:44:49"
+    },
+    {
+      "id_origen": 40009,
+      "numero": 20,
+      "titulo": "Dororo - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f2f1d47c36d2ad8c27030b1b580b3f6.jpg",
+      "url_origen": "https://jkanime.net/dororo/20/",
+      "publicado_en_origen": "2019-05-27 17:19:54"
+    },
+    {
+      "id_origen": 40161,
+      "numero": 21,
+      "titulo": "Dororo - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_816db1628e55697e86b63406750fff4a.jpg",
+      "url_origen": "https://jkanime.net/dororo/21/",
+      "publicado_en_origen": "2019-06-04 03:07:06"
+    },
+    {
+      "id_origen": 40234,
+      "numero": 22,
+      "titulo": "Dororo - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51676091c6366bd05da30f9e0fe59aa0.jpg",
+      "url_origen": "https://jkanime.net/dororo/22/",
+      "publicado_en_origen": "2019-06-10 18:21:09"
+    },
+    {
+      "id_origen": 40276,
+      "numero": 23,
+      "titulo": "Dororo - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91739c997f8ae893f08fed62c1ed8441.jpg",
+      "url_origen": "https://jkanime.net/dororo/23/",
+      "publicado_en_origen": "2019-06-17 16:44:00"
+    },
+    {
+      "id_origen": 40338,
+      "numero": 24,
+      "titulo": "Dororo - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a9fa2197c5e405543c00bd501751082.jpg",
+      "url_origen": "https://jkanime.net/dororo/24/",
+      "publicado_en_origen": "2019-06-24 16:15:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2340",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:25:22+00:00"
+}

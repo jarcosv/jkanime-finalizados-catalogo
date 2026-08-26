@@ -1,0 +1,29 @@
+{
+  "id_origen": 1830,
+  "slug": "yowamushi-pedal-movie",
+  "titulo": "Yowamushi Pedal Movie",
+  "titulo_corto": "Yowamushi Pedal Movie",
+  "sinopsis": "Película de Yowamushi Pedal",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yowamushi-pedal-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yowamushi-pedal-movie/",
+  "episodios": [
+    {
+      "id_origen": 31509,
+      "numero": 1,
+      "titulo": "Yowamushi Pedal Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c26b0f501f781b43f0f9241d77b513d.jpg",
+      "url_origen": "https://jkanime.net/yowamushi-pedal-movie/1/",
+      "publicado_en_origen": "2016-05-06 02:26:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1830",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:53:09+00:00"
+}

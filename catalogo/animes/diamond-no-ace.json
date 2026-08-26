@@ -1,0 +1,621 @@
+{
+  "id_origen": 973,
+  "slug": "diamond-no-ace",
+  "titulo": "Diamond no Ace",
+  "titulo_corto": "Diamond no Ace",
+  "sinopsis": "Eijun Sawamura es un pitcher que entra en un prestigioso instituto, donde conoce a Kazuya Miyuki, un catcher brillante. Junto con el resto del equipo de béisbol del centro tratarán de ganar los campeonatos nacionales mediante su gran esfuerzo y dedicación",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/diamond-no-ace.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/diamond-no-ace/",
+  "episodios": [
+    {
+      "id_origen": 21673,
+      "numero": 1,
+      "titulo": "Diamond no Ace - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d421e49d5885b59c7aec69404514e3d.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/1/",
+      "publicado_en_origen": "2013-10-05 21:47:01"
+    },
+    {
+      "id_origen": 21723,
+      "numero": 2,
+      "titulo": "Diamond no Ace - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_977e672678ddfb70686145e6d1e8a397.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/2/",
+      "publicado_en_origen": "2013-10-12 21:25:23"
+    },
+    {
+      "id_origen": 21777,
+      "numero": 3,
+      "titulo": "Diamond no Ace - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4af620dcf393e73991770297343e60a.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/3/",
+      "publicado_en_origen": "2013-10-19 20:40:16"
+    },
+    {
+      "id_origen": 21831,
+      "numero": 4,
+      "titulo": "Diamond no Ace - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ac0d6f2a7e643934c4c056762c37596.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/4/",
+      "publicado_en_origen": "2013-10-26 20:37:39"
+    },
+    {
+      "id_origen": 21880,
+      "numero": 5,
+      "titulo": "Diamond no Ace - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66cadef07c67a314389a824fd8fa0cd1.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/5/",
+      "publicado_en_origen": "2013-11-02 20:38:19"
+    },
+    {
+      "id_origen": 21932,
+      "numero": 6,
+      "titulo": "Diamond no Ace - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbd18fe1f4137d8e0a0cfb72376985ef.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/6/",
+      "publicado_en_origen": "2013-11-09 21:51:39"
+    },
+    {
+      "id_origen": 21983,
+      "numero": 7,
+      "titulo": "Diamond no Ace - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3550bb0cfdaea287c6d57c41df1fa1b4.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/7/",
+      "publicado_en_origen": "2013-11-16 21:37:34"
+    },
+    {
+      "id_origen": 22035,
+      "numero": 8,
+      "titulo": "Diamond no Ace - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83f075354ac93f60d1c1ac9a15399196.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/8/",
+      "publicado_en_origen": "2013-11-23 21:42:22"
+    },
+    {
+      "id_origen": 22086,
+      "numero": 9,
+      "titulo": "Diamond no Ace - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00ad4587c5c242e23703ec19d8495824.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/9/",
+      "publicado_en_origen": "2013-11-30 21:43:10"
+    },
+    {
+      "id_origen": 22139,
+      "numero": 10,
+      "titulo": "Diamond no Ace - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d947c9ca81cef801cd8cd633c0e9b483.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/10/",
+      "publicado_en_origen": "2013-12-07 21:37:46"
+    },
+    {
+      "id_origen": 22194,
+      "numero": 11,
+      "titulo": "Diamond no Ace - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ff7d9eca2df771f960b2ab4d0c67e6e.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/11/",
+      "publicado_en_origen": "2013-12-14 21:44:45"
+    },
+    {
+      "id_origen": 22257,
+      "numero": 12,
+      "titulo": "Diamond no Ace - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c95cb8f9ba156ee10602195efd5fb6fa.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/12/",
+      "publicado_en_origen": "2013-12-21 22:09:10"
+    },
+    {
+      "id_origen": 22297,
+      "numero": 13,
+      "titulo": "Diamond no Ace - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c97bbe65e7d5958a5d4960d35b14895.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/13/",
+      "publicado_en_origen": "2013-12-28 21:38:51"
+    },
+    {
+      "id_origen": 22413,
+      "numero": 14,
+      "titulo": "Diamond no Ace - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec6b45e6329906a0068a8772960c6a60.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/14/",
+      "publicado_en_origen": "2014-01-11 21:40:31"
+    },
+    {
+      "id_origen": 22475,
+      "numero": 15,
+      "titulo": "Diamond no Ace - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d91c1cf7d81498111d05d241f838e51c.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/15/",
+      "publicado_en_origen": "2014-01-18 21:40:05"
+    },
+    {
+      "id_origen": 22531,
+      "numero": 16,
+      "titulo": "Diamond no Ace - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_653cc57fdfc9d495ada99a67c5c50a0e.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/16/",
+      "publicado_en_origen": "2014-01-25 21:36:49"
+    },
+    {
+      "id_origen": 22594,
+      "numero": 17,
+      "titulo": "Diamond no Ace - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_601b5cbe8c87380898b5911c1e904d31.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/17/",
+      "publicado_en_origen": "2014-02-01 21:37:04"
+    },
+    {
+      "id_origen": 22657,
+      "numero": 18,
+      "titulo": "Diamond no Ace - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fad979b110cf06be6f19e542b117e98.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/18/",
+      "publicado_en_origen": "2014-02-08 22:07:06"
+    },
+    {
+      "id_origen": 22722,
+      "numero": 19,
+      "titulo": "Diamond no Ace - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_697f31b39c120bea0d95112b65484d3f.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/19/",
+      "publicado_en_origen": "2014-02-15 21:39:46"
+    },
+    {
+      "id_origen": 22781,
+      "numero": 20,
+      "titulo": "Diamond no Ace - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_334d3bd3e5a6b1b08ef6cda3ab7243c9.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/20/",
+      "publicado_en_origen": "2014-02-22 22:00:30"
+    },
+    {
+      "id_origen": 22844,
+      "numero": 21,
+      "titulo": "Diamond no Ace - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae6a757b965961ebbec156a82c5c9f40.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/21/",
+      "publicado_en_origen": "2014-03-01 21:38:14"
+    },
+    {
+      "id_origen": 22905,
+      "numero": 22,
+      "titulo": "Diamond no Ace - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd9840da1d1e99d7a4455acf36785fc6.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/22/",
+      "publicado_en_origen": "2014-03-08 21:42:25"
+    },
+    {
+      "id_origen": 22969,
+      "numero": 23,
+      "titulo": "Diamond no Ace - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e77d11d5a1d68816f2439e6bb526894b.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/23/",
+      "publicado_en_origen": "2014-03-15 20:38:22"
+    },
+    {
+      "id_origen": 23045,
+      "numero": 24,
+      "titulo": "Diamond no Ace - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8218219cb109041baf61ea3cf8b7dd7e.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/24/",
+      "publicado_en_origen": "2014-03-22 20:39:49"
+    },
+    {
+      "id_origen": 23098,
+      "numero": 25,
+      "titulo": "Diamond no Ace - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56440f1f4118e270e5e6cee92ed220c3.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/25/",
+      "publicado_en_origen": "2014-03-29 20:44:18"
+    },
+    {
+      "id_origen": 23146,
+      "numero": 26,
+      "titulo": "Diamond no Ace - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1099cd51664559405dbb30d0f459df3.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/26/",
+      "publicado_en_origen": "2014-04-05 20:41:41"
+    },
+    {
+      "id_origen": 23202,
+      "numero": 27,
+      "titulo": "Diamond no Ace - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fd3f5fed2d59efc8c49d0bb97b85ad9.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/27/",
+      "publicado_en_origen": "2014-04-12 20:42:32"
+    },
+    {
+      "id_origen": 23260,
+      "numero": 28,
+      "titulo": "Diamond no Ace - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7f06a3e0ab3785cab98e8d0180d9784.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/28/",
+      "publicado_en_origen": "2014-04-19 20:41:27"
+    },
+    {
+      "id_origen": 23335,
+      "numero": 29,
+      "titulo": "Diamond no Ace - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc06df8f21ab805ccb2a7d9f396ed918.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/29/",
+      "publicado_en_origen": "2014-04-26 20:36:09"
+    },
+    {
+      "id_origen": 23397,
+      "numero": 30,
+      "titulo": "Diamond no Ace - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43514321536f88cdbe57368daaa688fd.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/30/",
+      "publicado_en_origen": "2014-05-03 20:38:59"
+    },
+    {
+      "id_origen": 23454,
+      "numero": 31,
+      "titulo": "Diamond no Ace - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6a6f0de57ba06b57e8d4a5120ce75b5.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/31/",
+      "publicado_en_origen": "2014-05-10 20:37:04"
+    },
+    {
+      "id_origen": 23509,
+      "numero": 32,
+      "titulo": "Diamond no Ace - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_524a502cb111c40b56529cf342c45a72.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/32/",
+      "publicado_en_origen": "2014-05-17 20:41:05"
+    },
+    {
+      "id_origen": 23571,
+      "numero": 33,
+      "titulo": "Diamond no Ace - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ad1108c03d602923d4b3384dbb26e20.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/33/",
+      "publicado_en_origen": "2014-05-24 20:38:38"
+    },
+    {
+      "id_origen": 23630,
+      "numero": 34,
+      "titulo": "Diamond no Ace - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_248f5896d397dc08b3b3a28a3c3361f6.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/34/",
+      "publicado_en_origen": "2014-05-31 20:39:10"
+    },
+    {
+      "id_origen": 23690,
+      "numero": 35,
+      "titulo": "Diamond no Ace - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bba744f5b4581db0ecf8eb6385c4c92a.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/35/",
+      "publicado_en_origen": "2014-06-07 20:50:22"
+    },
+    {
+      "id_origen": 23745,
+      "numero": 36,
+      "titulo": "Diamond no Ace - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_860fe1a72849de8657e95c3fbd819233.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/36/",
+      "publicado_en_origen": "2014-06-14 20:57:57"
+    },
+    {
+      "id_origen": 23844,
+      "numero": 37,
+      "titulo": "Diamond no Ace - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77ee059ad6403fbcfb6d50000da594db.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/37/",
+      "publicado_en_origen": "2014-06-28 20:38:06"
+    },
+    {
+      "id_origen": 23891,
+      "numero": 38,
+      "titulo": "Diamond no Ace - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb8054b490d695da02c573c665824b88.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/38/",
+      "publicado_en_origen": "2014-07-05 20:43:16"
+    },
+    {
+      "id_origen": 23973,
+      "numero": 39,
+      "titulo": "Diamond no Ace - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a8a0f2779706d8eff072fa34acfb143.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/39/",
+      "publicado_en_origen": "2014-07-12 20:43:42"
+    },
+    {
+      "id_origen": 24041,
+      "numero": 40,
+      "titulo": "Diamond no Ace - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_109673a937086b08c10d3e25d277b682.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/40/",
+      "publicado_en_origen": "2014-07-19 20:36:02"
+    },
+    {
+      "id_origen": 24103,
+      "numero": 41,
+      "titulo": "Diamond no Ace - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b8dbaa429f18373947e25594eb17f40.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/41/",
+      "publicado_en_origen": "2014-07-26 20:41:35"
+    },
+    {
+      "id_origen": 24168,
+      "numero": 42,
+      "titulo": "Diamond no Ace - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff67b4f15981e27c157d955922c4e509.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/42/",
+      "publicado_en_origen": "2014-08-02 19:38:21"
+    },
+    {
+      "id_origen": 24259,
+      "numero": 43,
+      "titulo": "Diamond no Ace - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b84931d049a63cf56e0a47379c26c5cf.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/43/",
+      "publicado_en_origen": "2014-08-09 19:44:50"
+    },
+    {
+      "id_origen": 24453,
+      "numero": 44,
+      "titulo": "Diamond no Ace - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_660724e3d5d5352745be10a2b89a1f84.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/44/",
+      "publicado_en_origen": "2014-08-16 19:42:56"
+    },
+    {
+      "id_origen": 24525,
+      "numero": 45,
+      "titulo": "Diamond no Ace - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68be68a4c8ce0d9d97e5259a649ce6a4.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/45/",
+      "publicado_en_origen": "2014-08-23 19:36:37"
+    },
+    {
+      "id_origen": 24589,
+      "numero": 46,
+      "titulo": "Diamond no Ace - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6ae7ed0c6df83e4bada48b9c9f2b5ff.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/46/",
+      "publicado_en_origen": "2014-08-30 19:40:36"
+    },
+    {
+      "id_origen": 24664,
+      "numero": 47,
+      "titulo": "Diamond no Ace - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3937a8212b6186a70f430fc5aaa2fd29.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/47/",
+      "publicado_en_origen": "2014-09-06 19:37:43"
+    },
+    {
+      "id_origen": 24758,
+      "numero": 48,
+      "titulo": "Diamond no Ace - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6423457ad5daa885f892d5abac69a43.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/48/",
+      "publicado_en_origen": "2014-09-13 19:39:40"
+    },
+    {
+      "id_origen": 24821,
+      "numero": 49,
+      "titulo": "Diamond no Ace - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4299f209da83da82b711f1d631cc607b.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/49/",
+      "publicado_en_origen": "2014-09-20 21:54:21"
+    },
+    {
+      "id_origen": 24933,
+      "numero": 50,
+      "titulo": "Diamond no Ace - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_942daac277daced487d09ddcbe753d73.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/50/",
+      "publicado_en_origen": "2014-09-27 19:44:15"
+    },
+    {
+      "id_origen": 24991,
+      "numero": 51,
+      "titulo": "Diamond no Ace - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b23f8dc9eb4ed500a662e396908d39b.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/51/",
+      "publicado_en_origen": "2014-10-04 19:38:20"
+    },
+    {
+      "id_origen": 25059,
+      "numero": 52,
+      "titulo": "Diamond no Ace - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f0a52ed96fe067cf5d07da7d86e99a3.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/52/",
+      "publicado_en_origen": "2014-10-11 19:40:44"
+    },
+    {
+      "id_origen": 25128,
+      "numero": 53,
+      "titulo": "Diamond no Ace - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_803a8c2d069729f26ac947b48f7fc776.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/53/",
+      "publicado_en_origen": "2014-10-18 19:36:33"
+    },
+    {
+      "id_origen": 25198,
+      "numero": 54,
+      "titulo": "Diamond no Ace - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e1593351be8d712406950f7e8b16eba.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/54/",
+      "publicado_en_origen": "2014-10-25 19:38:29"
+    },
+    {
+      "id_origen": 25270,
+      "numero": 55,
+      "titulo": "Diamond no Ace - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2afa67f25eb7e5a6832ae991bd386613.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/55/",
+      "publicado_en_origen": "2014-11-01 21:17:09"
+    },
+    {
+      "id_origen": 25341,
+      "numero": 56,
+      "titulo": "Diamond no Ace - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ddefcb8a5912083892616ef3c95a8b6.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/56/",
+      "publicado_en_origen": "2014-11-08 21:21:25"
+    },
+    {
+      "id_origen": 25535,
+      "numero": 57,
+      "titulo": "Diamond no Ace - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68f4f1c9069efc3169ccef543fc9b706.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/57/",
+      "publicado_en_origen": "2014-11-22 20:53:08"
+    },
+    {
+      "id_origen": 25612,
+      "numero": 58,
+      "titulo": "Diamond no Ace - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcbb3a1c04ec11f1506563c26ca63774.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/58/",
+      "publicado_en_origen": "2014-11-29 21:05:34"
+    },
+    {
+      "id_origen": 25700,
+      "numero": 59,
+      "titulo": "Diamond no Ace - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acbc967ba2de1f7dd869dbd00a14f832.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/59/",
+      "publicado_en_origen": "2014-12-06 22:55:53"
+    },
+    {
+      "id_origen": 25803,
+      "numero": 60,
+      "titulo": "Diamond no Ace - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fb292ae59ee45f603e48aed2b9b7491.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/60/",
+      "publicado_en_origen": "2014-12-13 20:40:56"
+    },
+    {
+      "id_origen": 25908,
+      "numero": 61,
+      "titulo": "Diamond no Ace - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a3b7cb8e155fef333abe4d5690b20a1.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/61/",
+      "publicado_en_origen": "2014-12-20 20:41:30"
+    },
+    {
+      "id_origen": 26021,
+      "numero": 62,
+      "titulo": "Diamond no Ace - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_663c32b3579961d11b0e6a0c05465033.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/62/",
+      "publicado_en_origen": "2014-12-27 20:11:52"
+    },
+    {
+      "id_origen": 26022,
+      "numero": 63,
+      "titulo": "Diamond no Ace - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e855c133ac38e1b4d136b6a4c12c4826.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/63/",
+      "publicado_en_origen": "2014-12-27 20:42:33"
+    },
+    {
+      "id_origen": 26359,
+      "numero": 64,
+      "titulo": "Diamond no Ace - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4cea765d2297b73222e8b57beae5a18.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/64/",
+      "publicado_en_origen": "2015-01-10 20:42:18"
+    },
+    {
+      "id_origen": 26418,
+      "numero": 65,
+      "titulo": "Diamond no Ace - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c25f582d47e0fb77eb1b59f2094602af.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/65/",
+      "publicado_en_origen": "2015-01-17 20:42:05"
+    },
+    {
+      "id_origen": 26476,
+      "numero": 66,
+      "titulo": "Diamond no Ace - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba16fd41fab7b93931b2e628c6e62441.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/66/",
+      "publicado_en_origen": "2015-01-24 20:39:06"
+    },
+    {
+      "id_origen": 26561,
+      "numero": 67,
+      "titulo": "Diamond no Ace - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b62510e29bba2eb5af6ba88c3dce08e0.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/67/",
+      "publicado_en_origen": "2015-01-31 20:39:57"
+    },
+    {
+      "id_origen": 26621,
+      "numero": 68,
+      "titulo": "Diamond no Ace - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe8cc9477d746cb4c6d1a0d09ea685cd.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/68/",
+      "publicado_en_origen": "2015-02-07 20:41:06"
+    },
+    {
+      "id_origen": 26743,
+      "numero": 69,
+      "titulo": "Diamond no Ace - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e150c862ec07920e8c0a6809302fb2a2.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/69/",
+      "publicado_en_origen": "2015-02-14 20:43:16"
+    },
+    {
+      "id_origen": 26810,
+      "numero": 70,
+      "titulo": "Diamond no Ace - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec03b704b8bd986e7e852755a258ef80.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/70/",
+      "publicado_en_origen": "2015-02-21 20:50:51"
+    },
+    {
+      "id_origen": 26934,
+      "numero": 71,
+      "titulo": "Diamond no Ace - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06cbf6501dcdeafc6fc5120fe39249e8.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/71/",
+      "publicado_en_origen": "2015-02-28 21:08:01"
+    },
+    {
+      "id_origen": 26993,
+      "numero": 72,
+      "titulo": "Diamond no Ace - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d14f7a40b5c0e95f6b5529810582f23.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/72/",
+      "publicado_en_origen": "2015-03-07 20:41:38"
+    },
+    {
+      "id_origen": 27049,
+      "numero": 73,
+      "titulo": "Diamond no Ace - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e7035e068f7046d16a509453862e0da.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/73/",
+      "publicado_en_origen": "2015-03-14 19:42:35"
+    },
+    {
+      "id_origen": 27199,
+      "numero": 74,
+      "titulo": "Diamond no Ace - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2202eeec3aeb5e6c7b99327035076a80.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/74/",
+      "publicado_en_origen": "2015-03-21 19:39:25"
+    },
+    {
+      "id_origen": 27280,
+      "numero": 75,
+      "titulo": "Diamond no Ace - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7144e2ba113bacdd760b73ae7478c74e.jpg",
+      "url_origen": "https://jkanime.net/diamond-no-ace/75/",
+      "publicado_en_origen": "2015-03-28 19:54:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "973",
+  "cantidad_episodios_declarada": 75,
+  "detalle_extraido_en": "2026-08-26T18:24:59+00:00"
+}

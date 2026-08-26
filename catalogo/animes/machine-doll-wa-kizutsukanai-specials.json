@@ -1,0 +1,69 @@
+{
+  "id_origen": 1020,
+  "slug": "machine-doll-wa-kizutsukanai-specials",
+  "titulo": "Machine-Doll wa Kizutsukanai Specials",
+  "titulo_corto": "Machine-Doll wa Kizutsukanai S...",
+  "sinopsis": "Especiales de Machine Doll Wa kizutsukanai.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/machine-doll-wa-kizutsukanai-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/machine-doll-wa-kizutsukanai-specials/",
+  "episodios": [
+    {
+      "id_origen": 22327,
+      "numero": 1,
+      "titulo": "Machine-Doll wa Kizutsukanai Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83c5e87562b294b468ac06ea06919851.jpg",
+      "url_origen": "https://jkanime.net/machine-doll-wa-kizutsukanai-specials/1/",
+      "publicado_en_origen": "2013-12-30 21:54:49"
+    },
+    {
+      "id_origen": 23066,
+      "numero": 2,
+      "titulo": "Machine-Doll wa Kizutsukanai Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfadb3951b95acdd8571548ae4d6cf0d.jpg",
+      "url_origen": "https://jkanime.net/machine-doll-wa-kizutsukanai-specials/2/",
+      "publicado_en_origen": "2014-03-24 23:59:52"
+    },
+    {
+      "id_origen": 23432,
+      "numero": 3,
+      "titulo": "Machine-Doll wa Kizutsukanai Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1cdbc566ab18141dbf2586d9707cdfdc.jpg",
+      "url_origen": "https://jkanime.net/machine-doll-wa-kizutsukanai-specials/3/",
+      "publicado_en_origen": "2014-05-08 18:09:28"
+    },
+    {
+      "id_origen": 23611,
+      "numero": 4,
+      "titulo": "Machine-Doll wa Kizutsukanai Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71103463cca58f868394462cc92e854d.jpg",
+      "url_origen": "https://jkanime.net/machine-doll-wa-kizutsukanai-specials/4/",
+      "publicado_en_origen": "2014-05-30 03:10:23"
+    },
+    {
+      "id_origen": 27281,
+      "numero": 5,
+      "titulo": "Machine-Doll wa Kizutsukanai Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16d2f02a8be0b104e69b6e15345623cf.jpg",
+      "url_origen": "https://jkanime.net/machine-doll-wa-kizutsukanai-specials/5/",
+      "publicado_en_origen": "2015-03-28 20:24:35"
+    },
+    {
+      "id_origen": 27282,
+      "numero": 6,
+      "titulo": "Machine-Doll wa Kizutsukanai Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be6a15f7d6746e60b539dc1bd36914eb.jpg",
+      "url_origen": "https://jkanime.net/machine-doll-wa-kizutsukanai-specials/6/",
+      "publicado_en_origen": "2015-03-28 20:26:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1020",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:37:01+00:00"
+}

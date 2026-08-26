@@ -1,0 +1,29 @@
+{
+  "id_origen": 617,
+  "slug": "one-piece-recap",
+  "titulo": "One Piece Recap",
+  "titulo_corto": "One Piece Recap",
+  "sinopsis": "Esta OVA es un resumen en conmemoracion de 10 años de One Piece desde el principio hasta la lucha entre Megallan y Luffy (aprox. 445 capitulos en menos de 30 min.)",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece-recap.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-piece-recap/",
+  "episodios": [
+    {
+      "id_origen": 16559,
+      "numero": 1,
+      "titulo": "One Piece: Promotion Reflection",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc0fc2d90d6102ba02d0206857eaac51.jpg",
+      "url_origen": "https://jkanime.net/one-piece-recap/1/",
+      "publicado_en_origen": "2012-08-14 03:30:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "617",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:07+00:00"
+}

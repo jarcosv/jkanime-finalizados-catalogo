@@ -1,0 +1,29 @@
+{
+  "id_origen": 1835,
+  "slug": "girls-und-panzer-der-film-arisu-war",
+  "titulo": "Girls und Panzer der Film: Arisu War!",
+  "titulo_corto": "Girls und Panzer der Film: Ari...",
+  "sinopsis": "Especial incluído en los Bluray/DB de Girls und Panzer der Film. Toma lugar después de los eventos ocurridos en la película.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/girls-und-panzer-der-film-arisu-war.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/girls-und-panzer-der-film-arisu-war/",
+  "episodios": [
+    {
+      "id_origen": 31818,
+      "numero": 1,
+      "titulo": "Girls und Panzer der Film: Arisu War!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba224f2bcea2cdd76611b651c3c78069.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-der-film-arisu-war/1/",
+      "publicado_en_origen": "2016-06-13 22:03:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1835",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:28:37+00:00"
+}

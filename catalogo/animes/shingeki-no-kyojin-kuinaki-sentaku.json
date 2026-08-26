@@ -1,0 +1,37 @@
+{
+  "id_origen": 1356,
+  "slug": "shingeki-no-kyojin-kuinaki-sentaku",
+  "titulo": "Shingeki no Kyojin: Kuinaki Sentaku",
+  "titulo_corto": "Shingeki no Kyojin: Kuinaki Se...",
+  "sinopsis": "Este Spin-off nos muestra el pasado de Levi, de como llego a pertenecer a las tropas de reconocimiento y sus primeras exploraciones fuera de la muralla.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shingeki-no-kyojin-kuinaki-sentaku.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shingeki-no-kyojin-kuinaki-sentaku/",
+  "episodios": [
+    {
+      "id_origen": 25712,
+      "numero": 1,
+      "titulo": "Shingeki no Kyojin: Kuinaki Sentaku - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bce15390acb84d49e513cb3f2963c523.jpg",
+      "url_origen": "https://jkanime.net/shingeki-no-kyojin-kuinaki-sentaku/1/",
+      "publicado_en_origen": "2014-12-07 16:58:07"
+    },
+    {
+      "id_origen": 27426,
+      "numero": 2,
+      "titulo": "Shingeki no Kyojin: Kuinaki Sentaku - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_707e46efb6783920d5b251ef598157a6.jpg",
+      "url_origen": "https://jkanime.net/shingeki-no-kyojin-kuinaki-sentaku/2/",
+      "publicado_en_origen": "2015-04-09 13:15:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1356",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:46:26+00:00"
+}

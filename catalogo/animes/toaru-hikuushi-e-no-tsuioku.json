@@ -1,0 +1,29 @@
+{
+  "id_origen": 1031,
+  "slug": "toaru-hikuushi-e-no-tsuioku",
+  "titulo": "Toaru Hikuushi e no Tsuioku",
+  "titulo_corto": "Toaru Hikuushi e no Tsuioku",
+  "sinopsis": "La historia de To Aru Hikūshi e no Tsuioku gira en torno a Charles Karino, un mercenario piloto aereo del Imperio Revaamu que tripula la doble plaza del hidroavión de reconocimiento Santa Cruz. Un día, él recibe una absurda asignación: volar en solitario más de 12.000 km en aguas enemigas para proteger una niña llamada Fana del Moral. Fana pasa a ser la siguiente de la línea de sucesión del trono del imperio y es una niña que posee una belleza equivalente a 5.000 rayos de luz.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/toaru-hikuushi-e-no-tsuioku.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/toaru-hikuushi-e-no-tsuioku/",
+  "episodios": [
+    {
+      "id_origen": 22347,
+      "numero": 1,
+      "titulo": "Toaru Hikuushi e no Tsuioku",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a07e2052b13d602da6022e533f3bed3d.jpg",
+      "url_origen": "https://jkanime.net/toaru-hikuushi-e-no-tsuioku/1/",
+      "publicado_en_origen": "2014-01-02 18:45:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:11+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1031",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:49:33+00:00"
+}

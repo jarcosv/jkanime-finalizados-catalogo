@@ -1,0 +1,61 @@
+{
+  "id_origen": 1068,
+  "slug": "wonder-momo",
+  "titulo": "Wonder Momo",
+  "titulo_corto": "Wonder Momo",
+  "sinopsis": "Un dia, un grupo de aliens planeando tomar la Tierra invaden Tokio. Momoko, quien aspira a ser una idol, se involucra en una pelea, y de una manera inesperada. Warudemon rey del imperio alien, usa varias tacticas para capturar a Momoko y a la gente a su alrededor.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/wonder-momo.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/wonder-momo/",
+  "episodios": [
+    {
+      "id_origen": 22629,
+      "numero": 1,
+      "titulo": "Wonder Momo - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebe1fe48a59dcf8de128d2339cb85835.jpg",
+      "url_origen": "https://jkanime.net/wonder-momo/1/",
+      "publicado_en_origen": "2014-02-06 13:28:52"
+    },
+    {
+      "id_origen": 22697,
+      "numero": 2,
+      "titulo": "Wonder Momo - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa28c122f092eabc3626a168bab8fb18.jpg",
+      "url_origen": "https://jkanime.net/wonder-momo/2/",
+      "publicado_en_origen": "2014-02-13 07:17:26"
+    },
+    {
+      "id_origen": 22752,
+      "numero": 3,
+      "titulo": "Wonder Momo - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68b7407a2379f6a314b9c0730f1864d5.jpg",
+      "url_origen": "https://jkanime.net/wonder-momo/3/",
+      "publicado_en_origen": "2014-02-20 06:45:44"
+    },
+    {
+      "id_origen": 22815,
+      "numero": 4,
+      "titulo": "Wonder Momo - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d33c10c1a53c1e860a631c00f02d748a.jpg",
+      "url_origen": "https://jkanime.net/wonder-momo/4/",
+      "publicado_en_origen": "2014-02-27 06:40:03"
+    },
+    {
+      "id_origen": 22875,
+      "numero": 5,
+      "titulo": "Wonder Momo - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcd91dd50d34c125ee7b1b5efe659b90.jpg",
+      "url_origen": "https://jkanime.net/wonder-momo/5/",
+      "publicado_en_origen": "2014-03-06 06:40:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1068",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:52:07+00:00"
+}

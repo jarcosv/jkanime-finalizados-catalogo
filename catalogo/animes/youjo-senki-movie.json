@@ -1,0 +1,29 @@
+{
+  "id_origen": 4857,
+  "slug": "youjo-senki-movie",
+  "titulo": "Youjo Senki Movie",
+  "titulo_corto": "Youjo Senki Movie",
+  "sinopsis": "Con sus ejércitos arrasando por todo el continente, el Imperio parece imparable. Tras asegurarse la victoria sobre los restos del ejército de la República, la victoria definitiva del Imperio está por fin al alcance de la mano. Sin embargo, se avecinan nubes negras en el este. La Federación de Russy, liderada por los comunistas, está reuniendo tropas en su frontera occidental, preparándose para entrar en guerra. Con el apoyo de un destacamento de magos voluntarios aliados —entre los que se encuentra Mary Sioux, la hija de un soldado asesinado por Tanya von Degurechaff—, la Federación está decidida a difundir el credo comunista y doblegar al Imperio.\r\n\r\nMientras tanto, Tanya y su batallón regresan a la capital imperial desde el frente sur. A su llegada, se les encarga investigar los movimientos de tropas en la frontera con la Federación. Cualquier escalada de violencia en este momento podría dar lugar a nuevos conflictos, sumiendo al mundo en una devastadora guerra mundial.\r\n\r\n¿Saldrá finalmente victorioso el Imperio de esta lucha, o se derrumbará ante enemigos superiores e ideologías radicalmente diferentes?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/youjo-senki-movie/",
+  "episodios": [
+    {
+      "id_origen": 74916,
+      "numero": 1,
+      "titulo": "Youjo Senki Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_897b4202bc7a6f44b03a8829408f6035.jpg",
+      "url_origen": "https://jkanime.net/youjo-senki-movie/1/",
+      "publicado_en_origen": "2026-07-08 13:59:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:12+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4857",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:53:00+00:00"
+}

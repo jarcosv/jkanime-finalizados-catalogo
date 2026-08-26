@@ -1,0 +1,637 @@
+{
+  "id_origen": 416,
+  "slug": "sket-dance",
+  "titulo": "SKET Dance",
+  "titulo_corto": "SKET Dance",
+  "sinopsis": "Las hilarantes desventuras de \"Sket Dance\", un trío de estudiantes de secundaria que ayudan a la gente como parte de su actividad del club. Himeko, la violenta \"yanqui\"-chica con una debilidad por las cosas lindas. Switch, el otaku inteligente que sólo habla a través de un Software de computadora. Y Bossun, el líder con un gran poder de concentración para resolver todos los casos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sket-dance.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sket-dance/",
+  "episodios": [
+    {
+      "id_origen": 11149,
+      "numero": 1,
+      "titulo": "SKET Dance - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51a6ce0252d8fa6e913524bdce8db490.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/1/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11150,
+      "numero": 2,
+      "titulo": "SKET Dance - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_accfa1212a61b379ba0b009549113863.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/2/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11151,
+      "numero": 3,
+      "titulo": "SKET Dance - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f9447c0f2b0d49e7f24c4c2e6f3bda5.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/3/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11152,
+      "numero": 4,
+      "titulo": "SKET Dance - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8bcfd3fedd67f9abb731ef4aca58448.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/4/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11153,
+      "numero": 5,
+      "titulo": "SKET Dance - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_498f940d9b933c529b06aa96d18f7eda.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/5/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11154,
+      "numero": 6,
+      "titulo": "SKET Dance - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67f36d6c644a9701979d7059161f3546.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/6/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11155,
+      "numero": 7,
+      "titulo": "SKET Dance - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1efa5d88238b08b7d0d285f2909295b.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/7/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11156,
+      "numero": 8,
+      "titulo": "SKET Dance - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df155694b52c187021971ad5e3123819.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/8/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11157,
+      "numero": 9,
+      "titulo": "SKET Dance - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89f692589fe6ce8f82cf75828b0821d3.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/9/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11158,
+      "numero": 10,
+      "titulo": "SKET Dance - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b937958e1e97402d2dfc7002ad0552e4.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/10/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11159,
+      "numero": 11,
+      "titulo": "SKET Dance - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7755e44489861b53ea6bf28421357bd.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/11/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11160,
+      "numero": 12,
+      "titulo": "SKET Dance - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_386a7f403925290ad57578b781db32c1.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/12/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11161,
+      "numero": 13,
+      "titulo": "SKET Dance - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2190834cf569ffab46854f84b2124104.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/13/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11162,
+      "numero": 14,
+      "titulo": "SKET Dance - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bbb9a5df34c69244286195a1154bc36.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/14/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11163,
+      "numero": 15,
+      "titulo": "SKET Dance - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17834a259d3d4f21a1d6f100b015ec93.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/15/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11164,
+      "numero": 16,
+      "titulo": "SKET Dance - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a4e1f98b2c8560d0a4d8206f4fa2f09.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/16/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11165,
+      "numero": 17,
+      "titulo": "SKET Dance - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8337a7365ec44f3d65434a5ea4d73d17.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/17/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11166,
+      "numero": 18,
+      "titulo": "SKET Dance - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1c13a13fc6b87616b787b986f98a111.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/18/",
+      "publicado_en_origen": "2011-08-05 22:41:54"
+    },
+    {
+      "id_origen": 11186,
+      "numero": 19,
+      "titulo": "SKET Dance 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51624edfeb2ba95fe669e7b2d2b3be80.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/19/",
+      "publicado_en_origen": "2011-08-13 01:44:56"
+    },
+    {
+      "id_origen": 11470,
+      "numero": 20,
+      "titulo": "SKET Dance 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_139ae036df3080e2678cdb11bb2b88de.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/20/",
+      "publicado_en_origen": "2011-09-06 19:57:30"
+    },
+    {
+      "id_origen": 11471,
+      "numero": 21,
+      "titulo": "SKET Dance 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_892d9369d20ca0bfedd0ba1cd9a557e7.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/21/",
+      "publicado_en_origen": "2011-09-06 19:58:19"
+    },
+    {
+      "id_origen": 11472,
+      "numero": 22,
+      "titulo": "SKET Dance 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7852f3d3a775b5188139a2c07024397.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/22/",
+      "publicado_en_origen": "2011-09-06 19:59:03"
+    },
+    {
+      "id_origen": 16072,
+      "numero": 23,
+      "titulo": "SKET Dance - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d2356339f13e4b3d5aec55ba88a6019.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/23/",
+      "publicado_en_origen": "2012-06-26 04:01:14"
+    },
+    {
+      "id_origen": 16073,
+      "numero": 24,
+      "titulo": "SKET Dance - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30580a4caf21ef930b7774a2eff4aa26.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/24/",
+      "publicado_en_origen": "2012-06-26 04:01:14"
+    },
+    {
+      "id_origen": 16074,
+      "numero": 25,
+      "titulo": "SKET Dance - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d18c59d33149e93443c87bf4d1ab535.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/25/",
+      "publicado_en_origen": "2012-06-26 04:01:14"
+    },
+    {
+      "id_origen": 16075,
+      "numero": 26,
+      "titulo": "SKET Dance - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3509679d8747ff9cf4257cddb67f72b.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/26/",
+      "publicado_en_origen": "2012-06-26 04:01:14"
+    },
+    {
+      "id_origen": 16076,
+      "numero": 27,
+      "titulo": "SKET Dance - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5717490cd17470a679e7b314ba139a95.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/27/",
+      "publicado_en_origen": "2012-06-26 04:01:14"
+    },
+    {
+      "id_origen": 16077,
+      "numero": 28,
+      "titulo": "SKET Dance - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55aef34e0d62637c23ad60186310cd4d.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/28/",
+      "publicado_en_origen": "2012-06-26 04:01:14"
+    },
+    {
+      "id_origen": 16078,
+      "numero": 29,
+      "titulo": "SKET Dance - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_035d4ef6febd5268f7589ea4017e9b82.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/29/",
+      "publicado_en_origen": "2012-06-26 04:01:14"
+    },
+    {
+      "id_origen": 16079,
+      "numero": 30,
+      "titulo": "SKET Dance - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cfc7c6a21387750bd3f2b14f8242d548.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/30/",
+      "publicado_en_origen": "2012-06-26 04:01:15"
+    },
+    {
+      "id_origen": 16080,
+      "numero": 31,
+      "titulo": "SKET Dance - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ef4b67e285d6b5ab177a181f802c920.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/31/",
+      "publicado_en_origen": "2012-06-26 04:01:15"
+    },
+    {
+      "id_origen": 16081,
+      "numero": 32,
+      "titulo": "SKET Dance - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6aeb3208dc5a2684a711578fbfdc3121.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/32/",
+      "publicado_en_origen": "2012-06-26 04:01:15"
+    },
+    {
+      "id_origen": 16082,
+      "numero": 33,
+      "titulo": "SKET Dance - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce76450247ac6867b5ecf1196bd840b1.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/33/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16083,
+      "numero": 34,
+      "titulo": "SKET Dance - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3dd26ce3b599b4fc1064800673f5b833.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/34/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16084,
+      "numero": 35,
+      "titulo": "SKET Dance - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd8193ce971b714c62ddc2291be2fd49.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/35/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16085,
+      "numero": 36,
+      "titulo": "SKET Dance - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb5ac34d9ac3cc3883230cb5b2b417bb.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/36/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16086,
+      "numero": 37,
+      "titulo": "SKET Dance - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1a143e596968b69cf21ce65f88b6159.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/37/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16087,
+      "numero": 38,
+      "titulo": "SKET Dance - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8336419bf14c0d8b02748bb61f3a1dc5.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/38/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16088,
+      "numero": 39,
+      "titulo": "SKET Dance - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c058b3ed935f6561ad6c22bbf8d57463.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/39/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16089,
+      "numero": 40,
+      "titulo": "SKET Dance - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffc240fc1e1b0a7046828ca0e7877d9f.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/40/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16090,
+      "numero": 41,
+      "titulo": "SKET Dance - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ac88c103b945977e9085785158dac19.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/41/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16091,
+      "numero": 42,
+      "titulo": "SKET Dance - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9d826b62995d8bfe6d12ccd4d3b9ffa.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/42/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16092,
+      "numero": 43,
+      "titulo": "SKET Dance - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24f984f75f37a51922de69604322ff08.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/43/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16093,
+      "numero": 44,
+      "titulo": "SKET Dance - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a43bf030e75e0614616467f596075f14.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/44/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16094,
+      "numero": 45,
+      "titulo": "SKET Dance - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d45d46f58f410b1ce58564e8955cab72.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/45/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16095,
+      "numero": 46,
+      "titulo": "SKET Dance - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0f13a12e828374f22b1be5980afae58.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/46/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16096,
+      "numero": 47,
+      "titulo": "SKET Dance - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f44f1b2dab84a36490fbd262cefdba89.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/47/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16097,
+      "numero": 48,
+      "titulo": "SKET Dance - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00a1793212795f6d222f69250c639cb7.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/48/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16098,
+      "numero": 49,
+      "titulo": "SKET Dance - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a65cdaa87ef58fd864ee42ce5fd25dff.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/49/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16099,
+      "numero": 50,
+      "titulo": "SKET Dance - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e2a95341631ba52ec8eb9c77a1ebd5b.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/50/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16100,
+      "numero": 51,
+      "titulo": "SKET Dance - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c0ddedc5328cfa7f7f97cab05b1338b.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/51/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16101,
+      "numero": 52,
+      "titulo": "SKET Dance - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_117007d714adf33db6d2653d903ebf2d.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/52/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16102,
+      "numero": 53,
+      "titulo": "SKET Dance - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ca4e9af5ea662a095c3243dc591bf54.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/53/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16103,
+      "numero": 54,
+      "titulo": "SKET Dance - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f5c01673292dca6425ee6f028fc2ffa.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/54/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16104,
+      "numero": 55,
+      "titulo": "SKET Dance - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21c9bc90ecc8a2e623d4f0beac82b4c8.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/55/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16105,
+      "numero": 56,
+      "titulo": "SKET Dance - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c1608a9365a88dc7e6a214c8b89e3f8.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/56/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16106,
+      "numero": 57,
+      "titulo": "SKET Dance - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cab8961422e0f17f3795d82388e9204b.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/57/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16107,
+      "numero": 58,
+      "titulo": "SKET Dance - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bff886bf82b0832959345270ad54024f.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/58/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16108,
+      "numero": 59,
+      "titulo": "SKET Dance - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4b571e3226f43fe7d658ce1c92c4b40.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/59/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16109,
+      "numero": 60,
+      "titulo": "SKET Dance - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e53da0660d5d695870b49aee039f9148.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/60/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16110,
+      "numero": 61,
+      "titulo": "SKET Dance - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37c66982c5d5bb81ae22bd45f9e270d0.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/61/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16111,
+      "numero": 62,
+      "titulo": "SKET Dance - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7ea80155da6839ccc5a6ec630e7578c.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/62/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 16112,
+      "numero": 63,
+      "titulo": "SKET Dance - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a09b1d63341c622851a50e02d48e19c.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/63/",
+      "publicado_en_origen": "2012-06-26 04:24:26"
+    },
+    {
+      "id_origen": 17505,
+      "numero": 64,
+      "titulo": "SKET Dance - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fe172670a333242920fc5dbf5e5c6a5.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/64/",
+      "publicado_en_origen": "2012-09-10 04:03:55"
+    },
+    {
+      "id_origen": 17506,
+      "numero": 65,
+      "titulo": "SKET Dance - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07b1e246e902a97f8d4ed5f0408fa838.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/65/",
+      "publicado_en_origen": "2012-09-10 04:03:55"
+    },
+    {
+      "id_origen": 17507,
+      "numero": 66,
+      "titulo": "SKET Dance - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2365a4db507862569752334234a29b50.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/66/",
+      "publicado_en_origen": "2012-09-10 04:03:55"
+    },
+    {
+      "id_origen": 17508,
+      "numero": 67,
+      "titulo": "SKET Dance - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_529d61de9a04a13e71dad539be290df4.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/67/",
+      "publicado_en_origen": "2012-09-10 04:03:55"
+    },
+    {
+      "id_origen": 17509,
+      "numero": 68,
+      "titulo": "SKET Dance - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d9e93e74dda5258e7febd6b52502418.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/68/",
+      "publicado_en_origen": "2012-09-10 04:03:55"
+    },
+    {
+      "id_origen": 17510,
+      "numero": 69,
+      "titulo": "SKET Dance - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3535fe1ed017a0632931c06769692cc4.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/69/",
+      "publicado_en_origen": "2012-09-10 04:03:55"
+    },
+    {
+      "id_origen": 17511,
+      "numero": 70,
+      "titulo": "SKET Dance - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b42a895fb052aa5ec44b75d31af69a2a.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/70/",
+      "publicado_en_origen": "2012-09-10 04:03:55"
+    },
+    {
+      "id_origen": 17512,
+      "numero": 71,
+      "titulo": "SKET Dance - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02c28f84c46deb0b993010f76fef4c0d.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/71/",
+      "publicado_en_origen": "2012-09-10 04:03:56"
+    },
+    {
+      "id_origen": 17513,
+      "numero": 72,
+      "titulo": "SKET Dance - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5faa4ad014bbddf9ae4006a0f03085e0.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/72/",
+      "publicado_en_origen": "2012-09-10 04:03:56"
+    },
+    {
+      "id_origen": 17514,
+      "numero": 73,
+      "titulo": "SKET Dance - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_537442dc2f31b1311163fef609949f9c.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/73/",
+      "publicado_en_origen": "2012-09-10 04:03:56"
+    },
+    {
+      "id_origen": 17515,
+      "numero": 74,
+      "titulo": "SKET Dance - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c55f710dea335821c0884d990c62b77.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/74/",
+      "publicado_en_origen": "2012-09-10 04:03:56"
+    },
+    {
+      "id_origen": 17516,
+      "numero": 75,
+      "titulo": "SKET Dance - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c97fc9737012376eee6fe4e2c9191c4d.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/75/",
+      "publicado_en_origen": "2012-09-13 04:03:56"
+    },
+    {
+      "id_origen": 17517,
+      "numero": 76,
+      "titulo": "SKET Dance - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea970b934031dcce24ca218b017a5503.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/76/",
+      "publicado_en_origen": "2012-09-20 04:03:56"
+    },
+    {
+      "id_origen": 17519,
+      "numero": 77,
+      "titulo": "SKET Dance - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18da25209752bcfe63457d81b0865f31.jpg",
+      "url_origen": "https://jkanime.net/sket-dance/77/",
+      "publicado_en_origen": "2012-09-27 05:03:14"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "416",
+  "cantidad_episodios_declarada": 77,
+  "detalle_extraido_en": "2026-08-26T18:47:10+00:00"
+}

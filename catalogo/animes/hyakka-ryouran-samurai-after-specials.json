@@ -1,0 +1,37 @@
+{
+  "id_origen": 1447,
+  "slug": "hyakka-ryouran-samurai-after-specials",
+  "titulo": "Hyakka Ryouran: Samurai After Specials",
+  "titulo_corto": "Hyakka Ryouran: Samurai After ...",
+  "sinopsis": "Especiales de Hyakka Ryouran: Samurai After",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hyakka-ryouran-samurai-after-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hyakka-ryouran-samurai-after-specials/",
+  "episodios": [
+    {
+      "id_origen": 26774,
+      "numero": 1,
+      "titulo": "Hyakka Ryouran: Samurai After Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f54b03e4f11c8bd9920741657069c6b6.jpg",
+      "url_origen": "https://jkanime.net/hyakka-ryouran-samurai-after-specials/1/",
+      "publicado_en_origen": "2015-02-18 22:00:32"
+    },
+    {
+      "id_origen": 28644,
+      "numero": 2,
+      "titulo": "Hyakka Ryouran: Samurai After Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1130d3f4bee922658eb1347e27ff55f3.jpg",
+      "url_origen": "https://jkanime.net/hyakka-ryouran-samurai-after-specials/2/",
+      "publicado_en_origen": "2015-07-06 14:36:46"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1447",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:31:22+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 491,
+  "slug": "naruto-shippuuden-movie-1",
+  "titulo": "Naruto: Shippuuden Movie 1",
+  "titulo_corto": "Naruto: Shippuuden Movie 1",
+  "sinopsis": "Hace años, un grupo de shinobis desato el poder de un dios de otro mundo, y con ese poder crearon un ejercito fantasma para unificar las 5 grandes naciones ninja en una sola. Solo el poder de la sacerdotisa de la villa demoniaca, logro sellar el poder del dios. El sello se dividió entre la villa demoniaca y la villa del pantano, quedando el cuerpo del dios en la villa del pantano, y su alma en la villa demoniaca. Pero actualmente, un grupo de ninjas a roto el sello de la villa demoniaca, y su alma se a liberado. Un nuevo ejercito fantasma se a levantado, y de nuevo la gran amenaza planea sobre las cinco naciones ninja. Los ninjas de konoha y del resto de naciones, libran batallas por todo el continente para derrotar al enemigo, pero la misión mas importante esta a cargo de Naruto y compañía. Tendrán que escoltar a la nueva sacerdotisa hacia la villa del pantano y sellar el alma del dios antes de que este se reencuentre con su cuerpo... De no ser así, seria el fin del mundo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/naruto-shippuuden-movie-1.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/naruto-shippuuden-movie-1/",
+  "episodios": [
+    {
+      "id_origen": 14542,
+      "numero": 1,
+      "titulo": "Pelicula 1: La muerte de Naruto",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d05aebfecc37280437b02591573d6e03.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuuden-movie-1/1/",
+      "publicado_en_origen": "2012-01-16 19:36:53"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:26+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "491",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:54+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 648,
+  "slug": "dragon-ball-z-movie-12-fusion-reborn",
+  "titulo": "Dragon Ball Z Movie 12: Fusion Reborn",
+  "titulo_corto": "Dragon Ball Z Movie 12: Fusion...",
+  "sinopsis": "En el otro mundo un un cuidador de espiritus comete un error y toda la maldad extraida de los espiritus se mete en él... Ahora goku y vegeta deberan unir sus poderes para derrotar a Janenba",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-z-movie-12-fusion-reborn.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-z-movie-12-fusion-reborn/",
+  "episodios": [
+    {
+      "id_origen": 17243,
+      "numero": 1,
+      "titulo": "Dragon Ball Z Movie 12: Fusion Reborn",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae196a7aa3d84ff79ea56c1ca54f0332.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z-movie-12-fusion-reborn/1/",
+      "publicado_en_origen": "2012-09-18 04:33:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "648",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:49+00:00"
+}

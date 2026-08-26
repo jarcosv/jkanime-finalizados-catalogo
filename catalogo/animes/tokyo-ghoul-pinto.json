@@ -1,0 +1,29 @@
+{
+  "id_origen": 1720,
+  "slug": "tokyo-ghoul-pinto",
+  "titulo": "Tokyo Ghoul: \"Pinto\"",
+  "titulo_corto": "Tokyo Ghoul: \"Pinto\"",
+  "sinopsis": "En esta OVA se adaptará la tercera historia de la novela Tokyo Ghoul: Hibi, en la que Shuu Tsukiyama y Chie Hori se conocen.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tokyo-ghoul-pinto.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tokyo-ghoul-pinto/",
+  "episodios": [
+    {
+      "id_origen": 30453,
+      "numero": 1,
+      "titulo": "Tokyo Ghoul: \"Pinto\"",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc076eb055ef5f8a60a41b6195e9f329.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ghoul-pinto/1/",
+      "publicado_en_origen": "2015-12-26 16:23:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1720",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:49:43+00:00"
+}

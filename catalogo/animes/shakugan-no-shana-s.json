@@ -1,0 +1,53 @@
+{
+  "id_origen": 445,
+  "slug": "shakugan-no-shana-s",
+  "titulo": "Shakugan no Shana S",
+  "titulo_corto": "Shakugan no Shana S",
+  "sinopsis": "4 OVAs episodio de la serie. Cada episodio incluirá historias diferentes lados de la fuente original.\n\nNos cuentan básicamente el pasado de Shana antes de encontrarse en la cuidad de Misaki.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shakugan-no-shana-s.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shakugan-no-shana-s/",
+  "episodios": [
+    {
+      "id_origen": 49352,
+      "numero": 1,
+      "titulo": "Shakugan no Shana S - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f6f19ea03fdcda778f33d42c250fc0a.jpg",
+      "url_origen": "https://jkanime.net/shakugan-no-shana-s/1/",
+      "publicado_en_origen": "2022-05-17 18:26:10"
+    },
+    {
+      "id_origen": 49353,
+      "numero": 2,
+      "titulo": "Shakugan no Shana S - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd233385e60c83bac665ba45233dadae.jpg",
+      "url_origen": "https://jkanime.net/shakugan-no-shana-s/2/",
+      "publicado_en_origen": "2022-05-17 18:26:10"
+    },
+    {
+      "id_origen": 49354,
+      "numero": 3,
+      "titulo": "Shakugan no Shana S - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b45357b8257d2ec975e90db3da32947e.jpg",
+      "url_origen": "https://jkanime.net/shakugan-no-shana-s/3/",
+      "publicado_en_origen": "2022-05-17 18:26:10"
+    },
+    {
+      "id_origen": 49355,
+      "numero": 4,
+      "titulo": "Shakugan no Shana S - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d847776976cb4d14fd28d53d9f326190.jpg",
+      "url_origen": "https://jkanime.net/shakugan-no-shana-s/4/",
+      "publicado_en_origen": "2022-05-17 18:26:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "445",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:45:54+00:00"
+}

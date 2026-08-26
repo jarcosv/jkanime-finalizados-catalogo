@@ -1,0 +1,117 @@
+{
+  "id_origen": 3545,
+  "slug": "bokura-no-ameiro-protocol",
+  "titulo": "Bokura no Ameiro Protocol",
+  "titulo_corto": "Bokura no Ameiro Protocol",
+  "sinopsis": "Shun Tokinoya, estudiante de secundaria, vive con su madre y hermana menor tras perder a su padre en un accidente. Abandonó su amado videojuego y trabaja en \"FOX ONE\", un café de deportes electrónicos. Divide su tiempo entre estudio, trabajo y socializar con amigos de la infancia con quienes compartía su pasión por los videojuegos. Enterado de las deudas de \"FOX ONE\", Shun y sus amigos buscan ganar el \"Campeonato Xaxerion\" para resolver el problema, lo que lo lleva de vuelta a los juegos en línea y al reencuentro con Bakuretsu-kun, antiguo compañero de juego.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bokura-no-ameiro-protocol.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/",
+  "episodios": [
+    {
+      "id_origen": 54374,
+      "numero": 1,
+      "titulo": "Bokura no Ameiro Protocol - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5cbd1eadae23661f36be1c963c4676a3.jpg",
+      "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/1/",
+      "publicado_en_origen": "2023-10-07 16:00:07"
+    },
+    {
+      "id_origen": 54464,
+      "numero": 2,
+      "titulo": "Bokura no Ameiro Protocol - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_279d90984c054cbb31cbf5b81abac2ee.jpg",
+      "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/2/",
+      "publicado_en_origen": "2023-10-14 14:31:24"
+    },
+    {
+      "id_origen": 54535,
+      "numero": 3,
+      "titulo": "Bokura no Ameiro Protocol - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a64b5a6293425954b046374fb7db6c1a.jpg",
+      "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/3/",
+      "publicado_en_origen": "2023-10-21 15:17:34"
+    },
+    {
+      "id_origen": 54670,
+      "numero": 4,
+      "titulo": "Bokura no Ameiro Protocol - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_018eac35f5cb14a4c2a8408581d0373d.jpg",
+      "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/4/",
+      "publicado_en_origen": "2023-10-28 14:30:24"
+    },
+    {
+      "id_origen": 54762,
+      "numero": 5,
+      "titulo": "Bokura no Ameiro Protocol - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8a78d9c0804ba6a905f9858fc28167f.jpg",
+      "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/5/",
+      "publicado_en_origen": "2023-11-04 14:17:05"
+    },
+    {
+      "id_origen": 54854,
+      "numero": 6,
+      "titulo": "Bokura no Ameiro Protocol - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e847e471d0b2e2a7127794f94f317071.jpg",
+      "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/6/",
+      "publicado_en_origen": "2023-11-11 15:24:53"
+    },
+    {
+      "id_origen": 54950,
+      "numero": 7,
+      "titulo": "Bokura no Ameiro Protocol - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af2221943be446d86282f8f370642521.jpg",
+      "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/7/",
+      "publicado_en_origen": "2023-11-18 15:46:30"
+    },
+    {
+      "id_origen": 55048,
+      "numero": 8,
+      "titulo": "Bokura no Ameiro Protocol - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71818c91f38a660ebad9b7597fe1ec53.jpg",
+      "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/8/",
+      "publicado_en_origen": "2023-11-25 15:34:05"
+    },
+    {
+      "id_origen": 55133,
+      "numero": 9,
+      "titulo": "Bokura no Ameiro Protocol - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61ecaef22ce8f52f36f61a124b32a2d6.jpg",
+      "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/9/",
+      "publicado_en_origen": "2023-12-02 15:22:14"
+    },
+    {
+      "id_origen": 55233,
+      "numero": 10,
+      "titulo": "Bokura no Ameiro Protocol - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ce3635f49837b92a1ed4ac2d1ce205f.jpg",
+      "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/10/",
+      "publicado_en_origen": "2023-12-09 17:05:19"
+    },
+    {
+      "id_origen": 55328,
+      "numero": 11,
+      "titulo": "Bokura no Ameiro Protocol - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29f2228196f38779feeb700d605fad95.jpg",
+      "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/11/",
+      "publicado_en_origen": "2023-12-16 15:20:46"
+    },
+    {
+      "id_origen": 55406,
+      "numero": 12,
+      "titulo": "Bokura no Ameiro Protocol - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bokura-no-ameiro-protocol.jpg",
+      "url_origen": "https://jkanime.net/bokura-no-ameiro-protocol/12/",
+      "publicado_en_origen": "2023-12-23 15:47:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3545",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:21:15+00:00"
+}

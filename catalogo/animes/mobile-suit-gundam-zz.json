@@ -1,0 +1,397 @@
+{
+  "id_origen": 1551,
+  "slug": "mobile-suit-gundam-zz",
+  "titulo": "Mobile Suit Gundam ZZ",
+  "titulo_corto": "Mobile Suit Gundam ZZ",
+  "sinopsis": "Secuela inmediata de Mobile Suit Z Gundam. Es el año 0088 del Universal Century, luego de la terrible batalla final contra los Titans, la nave Argama del AEUG, vuela por suministros y mantencion a la colonia Shangri-La en Side 1. Al llegar, Juadu Ashta, y su grupo de amigos adolescentes recolectores de Chatarra, ven con la llegada del Argama una oportunidad de hacer dinero robando uno de sus Mobile Suits, el Z Gundam.\nPero durante el robo, las cosas salen mal y Judau acaba conociendo a Kamille Bidan, un joven Newtype que hace que Judau cambie la perceción de las cosas que pasan a su alrededor. Pero no hay mucho tiempo para meditar, ya que las Fuerzas de Neo Zeon, al mando de la implacable Haman Karn, surgen desde el Asteroide Axis para reconquistar la Esfera Terrestre y reestablecer la perdida gloria de Zeon y la Familia Zabi.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mobile-suit-gundam-zz.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/",
+  "episodios": [
+    {
+      "id_origen": 28156,
+      "numero": 1,
+      "titulo": "Mobile Suit Gundam ZZ - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03bb3e5b97d32f9dd98b94845d9b2650.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/1/",
+      "publicado_en_origen": "2015-06-11 09:43:02"
+    },
+    {
+      "id_origen": 28157,
+      "numero": 2,
+      "titulo": "Mobile Suit Gundam ZZ - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc650618dcee9d88ceb45f6403016b05.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/2/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28158,
+      "numero": 3,
+      "titulo": "Mobile Suit Gundam ZZ - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3c529d02426dbeefad9b3206537deba.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/3/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28159,
+      "numero": 4,
+      "titulo": "Mobile Suit Gundam ZZ - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f60749fa4cee4f9dfe786aba9d7be0da.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/4/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28160,
+      "numero": 5,
+      "titulo": "Mobile Suit Gundam ZZ - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e8e25b6b415f4026f6fd44b5ddd7c76.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/5/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28161,
+      "numero": 6,
+      "titulo": "Mobile Suit Gundam ZZ - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e8242853ca7831eb03da9c1cef03f61.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/6/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28162,
+      "numero": 7,
+      "titulo": "Mobile Suit Gundam ZZ - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89fb52e6ca126344d7c493e22ad1e1f7.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/7/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28163,
+      "numero": 8,
+      "titulo": "Mobile Suit Gundam ZZ - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69812e3f04486f27c1b6f6d2820e5c90.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/8/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28164,
+      "numero": 9,
+      "titulo": "Mobile Suit Gundam ZZ - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_730dc3d0dc77e1ef2e5795dda7b9d213.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/9/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28165,
+      "numero": 10,
+      "titulo": "Mobile Suit Gundam ZZ - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_219b690d203eb8a0fbfd52a4cb0214cf.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/10/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28166,
+      "numero": 11,
+      "titulo": "Mobile Suit Gundam ZZ - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77b85c0990841f394600a1590e2d931a.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/11/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28167,
+      "numero": 12,
+      "titulo": "Mobile Suit Gundam ZZ - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbdbf47737d418bdc77c73ef28c50a49.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/12/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28168,
+      "numero": 13,
+      "titulo": "Mobile Suit Gundam ZZ - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0410f7a88c51cc43c5b987d4caf2406a.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/13/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28169,
+      "numero": 14,
+      "titulo": "Mobile Suit Gundam ZZ - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c12bc20ecfdf52bc1f65d6dbebdbee94.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/14/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28170,
+      "numero": 15,
+      "titulo": "Mobile Suit Gundam ZZ - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9390f4d0da32633807f299e76c568ace.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/15/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28171,
+      "numero": 16,
+      "titulo": "Mobile Suit Gundam ZZ - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf74cbe3722200f6fad86af0b239d900.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/16/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28172,
+      "numero": 17,
+      "titulo": "Mobile Suit Gundam ZZ - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b22d776d04ec3700b711ed6677895dd.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/17/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28173,
+      "numero": 18,
+      "titulo": "Mobile Suit Gundam ZZ - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d80f8d2f11bbd1a8ab728b02fa3cd66a.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/18/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28174,
+      "numero": 19,
+      "titulo": "Mobile Suit Gundam ZZ - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54fae29923ec3a5d77f5dea10b77030b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/19/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28175,
+      "numero": 20,
+      "titulo": "Mobile Suit Gundam ZZ - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1e266b5bbdb6da994c4f9cb09635d10.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/20/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28176,
+      "numero": 21,
+      "titulo": "Mobile Suit Gundam ZZ - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2894dcd561ddda2954a024c081db7e50.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/21/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28177,
+      "numero": 22,
+      "titulo": "Mobile Suit Gundam ZZ - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a98776f5568f916378bd28d529ab3a33.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/22/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28178,
+      "numero": 23,
+      "titulo": "Mobile Suit Gundam ZZ - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_479eaa8e93a42b42d12992f086cfa14f.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/23/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28179,
+      "numero": 24,
+      "titulo": "Mobile Suit Gundam ZZ - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8467ae9d40eab0d2e959428e140468ce.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/24/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28180,
+      "numero": 25,
+      "titulo": "Mobile Suit Gundam ZZ - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2d1836b7375e85336296d909745a1ad.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/25/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28181,
+      "numero": 26,
+      "titulo": "Mobile Suit Gundam ZZ - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9e6aa5c93154c16fc5fa8382d8b8de6.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/26/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28182,
+      "numero": 27,
+      "titulo": "Mobile Suit Gundam ZZ - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abffbd61825be76adbbe7bf96233f42b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/27/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28183,
+      "numero": 28,
+      "titulo": "Mobile Suit Gundam ZZ - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f74ae56b5c09dc7de09bf4bc0d808a1.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/28/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28184,
+      "numero": 29,
+      "titulo": "Mobile Suit Gundam ZZ - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b137eb4183c4e03586f8ae9257bbf3bc.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/29/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28185,
+      "numero": 30,
+      "titulo": "Mobile Suit Gundam ZZ - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce737c887b558e8467dede8ca59029eb.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/30/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28186,
+      "numero": 31,
+      "titulo": "Mobile Suit Gundam ZZ - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_add6ab8551d16aa6fbe68c50f740cc94.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/31/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28187,
+      "numero": 32,
+      "titulo": "Mobile Suit Gundam ZZ - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f52a97aeb3db83504088d414ae36a7b9.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/32/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28188,
+      "numero": 33,
+      "titulo": "Mobile Suit Gundam ZZ - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5c95f6c18941bc9549eef056c00b7c1.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/33/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28189,
+      "numero": 34,
+      "titulo": "Mobile Suit Gundam ZZ - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36a9d56a4bacaed4d64a6e34e4ce1a85.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/34/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28190,
+      "numero": 35,
+      "titulo": "Mobile Suit Gundam ZZ - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef5c7ecb02ee6b0a33dba6c4af9c736f.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/35/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28191,
+      "numero": 36,
+      "titulo": "Mobile Suit Gundam ZZ - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06efc3b2376e4b23e284094112b8ce94.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/36/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28192,
+      "numero": 37,
+      "titulo": "Mobile Suit Gundam ZZ - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95ca43b0dd15e6c2017380002b8b3851.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/37/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28193,
+      "numero": 38,
+      "titulo": "Mobile Suit Gundam ZZ - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1952564fda39fc3bb3638cc1ae8fd239.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/38/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28194,
+      "numero": 39,
+      "titulo": "Mobile Suit Gundam ZZ - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efe71abc27e9e9e53488787ae6a17c6d.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/39/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28195,
+      "numero": 40,
+      "titulo": "Mobile Suit Gundam ZZ - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6029c2e2ed1d0a8594a28d81d32c8b5.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/40/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28196,
+      "numero": 41,
+      "titulo": "Mobile Suit Gundam ZZ - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b9845fa0b5ce34fb2de2050a0bb1353.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/41/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28197,
+      "numero": 42,
+      "titulo": "Mobile Suit Gundam ZZ - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_408567fb466fdcc5171cd962e3c83862.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/42/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28198,
+      "numero": 43,
+      "titulo": "Mobile Suit Gundam ZZ - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13efec348e66852991bc20ed97caa574.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/43/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28199,
+      "numero": 44,
+      "titulo": "Mobile Suit Gundam ZZ - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58ae64f00ba804691ee209eb36654b3c.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/44/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28200,
+      "numero": 45,
+      "titulo": "Mobile Suit Gundam ZZ - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94063eda3aed413fbcfc402f7e03cd38.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/45/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28201,
+      "numero": 46,
+      "titulo": "Mobile Suit Gundam ZZ - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd0d3644bad027859b1ec6128a36a974.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/46/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    },
+    {
+      "id_origen": 28202,
+      "numero": 47,
+      "titulo": "Mobile Suit Gundam ZZ - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37da327024595cdb77d6fd933f43d6b9.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-zz/47/",
+      "publicado_en_origen": "2015-06-11 09:43:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1551",
+  "cantidad_episodios_declarada": 47,
+  "detalle_extraido_en": "2026-08-26T18:39:00+00:00"
+}

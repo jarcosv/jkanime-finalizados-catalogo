@@ -1,0 +1,29 @@
+{
+  "id_origen": 1567,
+  "slug": "pokemon-xy-pikachu-the-movie-1-jikan-special",
+  "titulo": "Pokemon XY: Cosplay Pikachu Special",
+  "titulo_corto": "Pokemon XY: Cosplay Pikachu Sp...",
+  "sinopsis": "Especial: Cosplay Pikachu Special",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-xy-pikachu-the-movie-1-jikan-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pokemon-xy-pikachu-the-movie-1-jikan-special/",
+  "episodios": [
+    {
+      "id_origen": 28487,
+      "numero": 1,
+      "titulo": "Pokemon XY: Pikachu the Movie 1 Jikan Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_639db9b23541380159f3d579500b11cb.jpg",
+      "url_origen": "https://jkanime.net/pokemon-xy-pikachu-the-movie-1-jikan-special/1/",
+      "publicado_en_origen": "2015-06-18 21:50:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1567",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:42:36+00:00"
+}

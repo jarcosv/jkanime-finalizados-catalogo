@@ -1,0 +1,117 @@
+{
+  "id_origen": 2401,
+  "slug": "joshikausei",
+  "titulo": "Joshikausei",
+  "titulo_corto": "Joshikausei",
+  "sinopsis": "¡Un silencioso anime de chicas de preparatoria precioso, aunque no hable nadie! Esta es la historia de tres chicas y su divertida vida escolar: la hermosa pero desafortunada Momoko, la chica de aspecto serio Shibumi y la amable y pequeña Mayumi. Se divierten solas, se divierten juntas. Así son las vidas diarias de unas preciosas pero algo tontorronas chicas de preparatoria",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/joshikausei.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/joshikausei/",
+  "episodios": [
+    {
+      "id_origen": 39553,
+      "numero": 1,
+      "titulo": "Joshikausei - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fb37299437d0a68add2dc865719081d.jpg",
+      "url_origen": "https://jkanime.net/joshikausei/1/",
+      "publicado_en_origen": "2019-04-06 13:58:14"
+    },
+    {
+      "id_origen": 39603,
+      "numero": 2,
+      "titulo": "Joshikausei - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90d2301e323b1809708324229782def2.jpg",
+      "url_origen": "https://jkanime.net/joshikausei/2/",
+      "publicado_en_origen": "2019-04-13 13:59:02"
+    },
+    {
+      "id_origen": 39672,
+      "numero": 3,
+      "titulo": "Joshikausei - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41d56871ff363a698569d7baa911e773.jpg",
+      "url_origen": "https://jkanime.net/joshikausei/3/",
+      "publicado_en_origen": "2019-04-20 13:54:45"
+    },
+    {
+      "id_origen": 39717,
+      "numero": 4,
+      "titulo": "Joshikausei - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46d55a927002038e5cd3137272fb6de7.jpg",
+      "url_origen": "https://jkanime.net/joshikausei/4/",
+      "publicado_en_origen": "2019-04-27 14:51:27"
+    },
+    {
+      "id_origen": 39771,
+      "numero": 5,
+      "titulo": "Joshikausei - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07c70f3b440791aa82c370d17910f32f.jpg",
+      "url_origen": "https://jkanime.net/joshikausei/5/",
+      "publicado_en_origen": "2019-05-04 21:50:45"
+    },
+    {
+      "id_origen": 39835,
+      "numero": 6,
+      "titulo": "Joshikausei - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eed7d5ba22bb638d57b1e1e241f763c8.jpg",
+      "url_origen": "https://jkanime.net/joshikausei/6/",
+      "publicado_en_origen": "2019-05-11 15:37:31"
+    },
+    {
+      "id_origen": 39922,
+      "numero": 7,
+      "titulo": "Joshikausei - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ca05341418f09367540f05484d0b650.jpg",
+      "url_origen": "https://jkanime.net/joshikausei/7/",
+      "publicado_en_origen": "2019-05-18 15:31:54"
+    },
+    {
+      "id_origen": 39993,
+      "numero": 8,
+      "titulo": "Joshikausei - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a463cac2327534f6f02563ffbdf92918.jpg",
+      "url_origen": "https://jkanime.net/joshikausei/8/",
+      "publicado_en_origen": "2019-05-25 16:07:16"
+    },
+    {
+      "id_origen": 40143,
+      "numero": 9,
+      "titulo": "Joshikausei - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ca1b8216b221669a9d9ef5c4900fda0.jpg",
+      "url_origen": "https://jkanime.net/joshikausei/9/",
+      "publicado_en_origen": "2019-06-01 14:01:45"
+    },
+    {
+      "id_origen": 40189,
+      "numero": 10,
+      "titulo": "Joshikausei - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53e30d90815c9c1a590e70d0120525f8.jpg",
+      "url_origen": "https://jkanime.net/joshikausei/10/",
+      "publicado_en_origen": "2019-06-08 13:52:25"
+    },
+    {
+      "id_origen": 40255,
+      "numero": 11,
+      "titulo": "Joshikausei - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbf490c1f56975518c48bb8756538684.jpg",
+      "url_origen": "https://jkanime.net/joshikausei/11/",
+      "publicado_en_origen": "2019-06-16 00:19:29"
+    },
+    {
+      "id_origen": 40320,
+      "numero": 12,
+      "titulo": "Joshikausei - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f8a8fddc4946caac0f3c34f016839f1.jpg",
+      "url_origen": "https://jkanime.net/joshikausei/12/",
+      "publicado_en_origen": "2019-06-22 14:41:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:11+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2401",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:32:57+00:00"
+}

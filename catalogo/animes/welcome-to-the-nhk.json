@@ -1,0 +1,213 @@
+{
+  "id_origen": 400,
+  "slug": "welcome-to-the-nhk",
+  "titulo": "Welcome to the NHK!",
+  "titulo_corto": "Welcome to the NHK!",
+  "sinopsis": "NHK Ni Youkoso! gira entorno a las vidas de \"jóvenes adultos” viviendo en la ciudad de Tokio. Muchos de los diferentes estilos de vida que se muestran en la trama se centran en los conceptos hikikomori, anime, otaku, y en las diferentes e intensas experiencias a las que los personajes se enfrentan, como depresión y soledad.\n\nEl protagonista principal es Tatsuhiro Satou, un ex-universitario entrando en su 4º año de desempleado. Lleva una vida totalmente reclusiva como hikikomori, donde finalmente llega a la conclusión bizarra de que lo que le está pasando tiene que ver con una conspiración. Un día en el que no parecía que nada en su vida fuera a cambiar, conoce a Misaki Nakahara, una misteriosa chica que quiere intentar curar a Tatsuhiro de su problema reclusivo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/welcome-to-the-nhk.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/welcome-to-the-nhk/",
+  "episodios": [
+    {
+      "id_origen": 10797,
+      "numero": 1,
+      "titulo": "NHK Ni Youkoso 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01a416a7e28d0d2293e95ef842b9e773.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/1/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10798,
+      "numero": 2,
+      "titulo": "NHK Ni Youkoso 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f17a7558451bf1e93b8a8f5549e4938f.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/2/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10799,
+      "numero": 3,
+      "titulo": "NHK Ni Youkoso 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c36b81d5293acd2e3d41f1bdc1d0aefb.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/3/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10800,
+      "numero": 4,
+      "titulo": "NHK Ni Youkoso 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d299a92004734135de74355770b7c785.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/4/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10801,
+      "numero": 5,
+      "titulo": "NHK Ni Youkoso 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3ce63a7a8521c37a513db67129855a8.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/5/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10802,
+      "numero": 6,
+      "titulo": "NHK Ni Youkoso 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de9d96171258bf940fc7b77c09b1cde4.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/6/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10803,
+      "numero": 7,
+      "titulo": "NHK Ni Youkoso 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a971e08a01e6676d0f1a6e0dacbbd67.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/7/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10804,
+      "numero": 8,
+      "titulo": "NHK Ni Youkoso 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cd31d31e16ac873f5f421d5880e88d6.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/8/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10805,
+      "numero": 9,
+      "titulo": "NHK Ni Youkoso 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48d23e87eb98cc2227b5a8c33fa00680.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/9/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10806,
+      "numero": 10,
+      "titulo": "NHK Ni Youkoso 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9113c52c5f26af1782e6bf7c56973ef4.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/10/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10807,
+      "numero": 11,
+      "titulo": "NHK Ni Youkoso 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86b94dae7c6517ec1ac767fd2c136580.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/11/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10808,
+      "numero": 12,
+      "titulo": "NHK Ni Youkoso 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c64e7fcb17df2cd481732022aebb215a.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/12/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10809,
+      "numero": 13,
+      "titulo": "NHK Ni Youkoso 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37f20a73a8c5b03607f9532b2a9c6396.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/13/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10810,
+      "numero": 14,
+      "titulo": "NHK Ni Youkoso 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b86b2dbd6e770e5d83392492aea62a39.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/14/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10811,
+      "numero": 15,
+      "titulo": "NHK Ni Youkoso 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d787f83a93f12eb56db58c1268f944e0.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/15/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10812,
+      "numero": 16,
+      "titulo": "NHK Ni Youkoso 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b7dbe36e1322048b49ab4b2b2c735e9.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/16/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10813,
+      "numero": 17,
+      "titulo": "NHK Ni Youkoso 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9b64cee05c46d31b10b9869a3198a6d.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/17/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10814,
+      "numero": 18,
+      "titulo": "NHK Ni Youkoso 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c8566b78ac2b99c542bef8c37cac179.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/18/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10815,
+      "numero": 19,
+      "titulo": "NHK Ni Youkoso 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec0387f057705a013c09bc5508249ea7.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/19/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10816,
+      "numero": 20,
+      "titulo": "NHK Ni Youkoso 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69ddb50142a89123ba6f870ab07e6fbb.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/20/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10817,
+      "numero": 21,
+      "titulo": "NHK Ni Youkoso 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dac4a67bdc4a800113b0f1ad67ed696f.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/21/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10818,
+      "numero": 22,
+      "titulo": "NHK Ni Youkoso 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb6e7c396949fea1f6f6bf144dbc7908.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/22/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10819,
+      "numero": 23,
+      "titulo": "NHK Ni Youkoso 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7366b7a89fc9d6c90e308d633d63884f.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/23/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    },
+    {
+      "id_origen": 10820,
+      "numero": 24,
+      "titulo": "NHK Ni Youkoso 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef51e95cc22745740d4e8c771e011e1f.jpg",
+      "url_origen": "https://jkanime.net/welcome-to-the-nhk/24/",
+      "publicado_en_origen": "2011-07-06 10:31:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "400",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:51:58+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 875,
+  "slug": "tantei-opera-milky-holmes-alternative",
+  "titulo": "Tantei Opera Milky Holmes: Alternative",
+  "titulo_corto": "Tantei Opera Milky Holmes: Alt...",
+  "sinopsis": "Especial 1: Una serie de cuadros comienzan a ser robados por un famoso ladron, ¿pero que sentido tiene robar esos cuadros si no son de valor?. Pues al parecer es por un proposito misterioso.\n\nEspecial 2: Un exsoldado de la armada británica de la segunda guerra mundial fue olvidado por sus superiores y ahora busca venganza robando el arma más letal del mundo, un arma biologica \"La peste negra\" encerrada en un huevo negro que hicieron sus creadores para que fuera destruido.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tantei-opera-milky-holmes-alternative.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tantei-opera-milky-holmes-alternative/",
+  "episodios": [
+    {
+      "id_origen": 20903,
+      "numero": 1,
+      "titulo": "Tantei Opera Milky Holmes: Alternative - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f687a4f18a6d8e0ade28a558503bd998.jpg",
+      "url_origen": "https://jkanime.net/tantei-opera-milky-holmes-alternative/1/",
+      "publicado_en_origen": "2013-06-27 06:36:03"
+    },
+    {
+      "id_origen": 20904,
+      "numero": 2,
+      "titulo": "Tantei Opera Milky Holmes: Alternative - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8cb060b4a9c350a9d34b588479d20c9f.jpg",
+      "url_origen": "https://jkanime.net/tantei-opera-milky-holmes-alternative/2/",
+      "publicado_en_origen": "2013-06-27 06:36:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "875",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:48:38+00:00"
+}

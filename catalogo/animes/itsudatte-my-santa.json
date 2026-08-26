@@ -1,0 +1,37 @@
+{
+  "id_origen": 1364,
+  "slug": "itsudatte-my-santa",
+  "titulo": "Itsudatte My Santa!",
+  "titulo_corto": "Itsudatte My Santa!",
+  "sinopsis": "Nuestro protagonista es un estudiante normal que odia la Navidad, según cuenta, siempre ha pasado solo las fiestas sin ver a sus padres y además sus amigos le rehúyen. Por si fuera poco, nació en Nochebuena y lo bautizaron como Santa, así que ya nos podemos imaginar el trauma infantil que guarda el pobre. Una Navidad, aparece una chica extraña, Mai, que afirma ser una Santa Claus que ha venido para pasar una noche con él y hacerle feliz, pero Santa sigue en sus cabales y continúa escéptico con todo lo relacionado a Santa Claus y el espiritu Navideño. ¿Conseguirá nuestra Santa Claus que Santa vuelva a creer en la Navidad?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/itsudatte-my-santa.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/itsudatte-my-santa/",
+  "episodios": [
+    {
+      "id_origen": 25811,
+      "numero": 1,
+      "titulo": "Itsudatte My Santa! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f64c0a6975ce782d1adaf73ce892d51.jpg",
+      "url_origen": "https://jkanime.net/itsudatte-my-santa/1/",
+      "publicado_en_origen": "2014-12-14 13:53:48"
+    },
+    {
+      "id_origen": 25812,
+      "numero": 2,
+      "titulo": "Itsudatte My Santa! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_580606b7af236a5d0aec0dde1a7422fa.jpg",
+      "url_origen": "https://jkanime.net/itsudatte-my-santa/2/",
+      "publicado_en_origen": "2014-12-14 13:58:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1364",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:32:25+00:00"
+}

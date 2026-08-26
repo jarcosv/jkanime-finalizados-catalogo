@@ -1,0 +1,29 @@
+{
+  "id_origen": 3121,
+  "slug": "bubble",
+  "titulo": "Bubble",
+  "titulo_corto": "Bubble",
+  "sinopsis": "Algo ha pasado en Tokio que la gravedad se ha roto. Tras la lluvia de unas extrañas burbujas, el mundo entero ha visto trastocada la ley de la gravedad. Tolkio se ha aislado del resto del mundo y allí sobreviven sus supervivientes, tomando ciudad como un enorme campo de atracciones sin gravedad en la que desarrollan batallas de parkour saltando de un edificio a otro.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bubble.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bubble/",
+  "episodios": [
+    {
+      "id_origen": 49159,
+      "numero": 1,
+      "titulo": "Bubble",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36a015aca792c204ff629c4d4d6711c7.jpg",
+      "url_origen": "https://jkanime.net/bubble/1/",
+      "publicado_en_origen": "2022-05-06 00:08:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3121",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:21:52+00:00"
+}

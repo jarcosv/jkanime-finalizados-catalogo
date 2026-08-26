@@ -1,0 +1,29 @@
+{
+  "id_origen": 453,
+  "slug": "k-on-special-live-house",
+  "titulo": "K-ON! Special: Live House!",
+  "titulo_corto": "K-ON! Special: Live House!",
+  "sinopsis": "Episodio especial del final de la primera temporada de nuestras chicas del Club de Música Ligera, celebrando las fiestas de fin de año y su primer Live House.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/k-on-special-live-house.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/k-on-special-live-house/",
+  "episodios": [
+    {
+      "id_origen": 13334,
+      "numero": 1,
+      "titulo": "K-ON! Special: Live House!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bf30c6aad7adf06445803878d854044.jpg",
+      "url_origen": "https://jkanime.net/k-on-special-live-house/1/",
+      "publicado_en_origen": "2011-11-29 01:14:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "453",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:33:08+00:00"
+}

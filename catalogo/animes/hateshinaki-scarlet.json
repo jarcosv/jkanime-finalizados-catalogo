@@ -1,0 +1,29 @@
+{
+  "id_origen": 4637,
+  "slug": "hateshinaki-scarlet",
+  "titulo": "Hateshinaki Scarlet",
+  "titulo_corto": "Hateshinaki Scarlet",
+  "sinopsis": "Tras fracasar en su intento de vengar el asesinato de su padre, la princesa Scarlett despierta en la «Tierra de los Muertos». En este mundo sumido en la locura, debe vengarse de su enemigo acérrimo. Si no logra vengarse de su némesis y llegar al «Lugar Infinito», se convertirá en «la nada» y dejará de existir.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hateshinaki-scarlet.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hateshinaki-scarlet/",
+  "episodios": [
+    {
+      "id_origen": 72166,
+      "numero": 1,
+      "titulo": "Hateshinaki Scarlet",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3901a29605a8e378d037abaa11074d91.jpg",
+      "url_origen": "https://jkanime.net/hateshinaki-scarlet/1/",
+      "publicado_en_origen": "2026-03-19 17:55:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:23+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4637",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:30:03+00:00"
+}

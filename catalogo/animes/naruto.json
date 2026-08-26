@@ -1,0 +1,1781 @@
+{
+  "id_origen": 123,
+  "slug": "naruto",
+  "titulo": "Naruto",
+  "titulo_corto": "Naruto",
+  "sinopsis": "Naruto, un aprendiz de ninja de la Aldea Oculta de Konoha es un chico travieso que desea llegar a ser el Hokage de la aldea para demostrar a todos lo que vale. Lo que descubre al inicio de la historia es que la gente le mira con desconfianza porque en su interior está encerrado el demonio Kyubi que una vez destruyó la aldea, y que el anterior líder de la misma tuvo que encerrar en su cuerpo siendo aún muy pequeño, a coste de su vida. Aunque sus compañeros no saben esto, tampoco le aprecian porque es mal estudiante y siempre está haciendo bromas. Sin embargo, la forma de actuar y la determinación de Naruto demuestran a los demás que puede llegar muy lejos, y el recelo de los otros chicos se va disipando. Naruto y sus compañeros Sakura y Sasuke, junto a su maestro Kakashi tendrán que enfrentarse a una serie de combates y misiones a lo largo de la historia que les permitirán mejorar y crecer. Naruto se vera enfrentado a sus principales enemigos Akatsuki, Itachi y Kisame.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/naruto.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/naruto/",
+  "episodios": [
+    {
+      "id_origen": 2714,
+      "numero": 1,
+      "titulo": "Naruto 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b628386c9b92481fab68fbf284bd6a64.jpg",
+      "url_origen": "https://jkanime.net/naruto/1/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2715,
+      "numero": 2,
+      "titulo": "Naruto 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff2cc3b8c7caeaa068f2abbc234583f5.jpg",
+      "url_origen": "https://jkanime.net/naruto/2/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2716,
+      "numero": 3,
+      "titulo": "Naruto 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdd96eedd7f695f4d61802f8105ba2b0.jpg",
+      "url_origen": "https://jkanime.net/naruto/3/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2717,
+      "numero": 4,
+      "titulo": "Naruto 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_058d6f2fbe951a5a56d96b1f1a6bca1c.jpg",
+      "url_origen": "https://jkanime.net/naruto/4/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2718,
+      "numero": 5,
+      "titulo": "Naruto 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad47a008a2f806aa6eb1b53852cd8b37.jpg",
+      "url_origen": "https://jkanime.net/naruto/5/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2719,
+      "numero": 6,
+      "titulo": "Naruto 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7aee26c309def8c5a2a076eb250b8f36.jpg",
+      "url_origen": "https://jkanime.net/naruto/6/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2720,
+      "numero": 7,
+      "titulo": "Naruto 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa2e8c4385712f9a1d24c363a2cbe5b8.jpg",
+      "url_origen": "https://jkanime.net/naruto/7/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2721,
+      "numero": 8,
+      "titulo": "Naruto 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_362387494f6be6613daea643a7706a42.jpg",
+      "url_origen": "https://jkanime.net/naruto/8/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2722,
+      "numero": 9,
+      "titulo": "Naruto 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33267e5dc58fad346e92471c43fcccdc.jpg",
+      "url_origen": "https://jkanime.net/naruto/9/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2723,
+      "numero": 10,
+      "titulo": "Naruto 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c315f0320b7cd4ec85756fac52d78076.jpg",
+      "url_origen": "https://jkanime.net/naruto/10/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2724,
+      "numero": 11,
+      "titulo": "Naruto 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64a08e5f1e6c39faeb90108c430eb120.jpg",
+      "url_origen": "https://jkanime.net/naruto/11/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2725,
+      "numero": 12,
+      "titulo": "Naruto 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bbdcc0e821637155ac4217bdab70d2e.jpg",
+      "url_origen": "https://jkanime.net/naruto/12/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2726,
+      "numero": 13,
+      "titulo": "Naruto 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1c00bcd4b5183705c134b3365f8c45e.jpg",
+      "url_origen": "https://jkanime.net/naruto/13/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2727,
+      "numero": 14,
+      "titulo": "Naruto 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23fc4cba066f390a8cc729c7592b6ee8.jpg",
+      "url_origen": "https://jkanime.net/naruto/14/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2728,
+      "numero": 15,
+      "titulo": "Naruto 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e751896e527c862bf67251a474b3819.jpg",
+      "url_origen": "https://jkanime.net/naruto/15/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2729,
+      "numero": 16,
+      "titulo": "Naruto 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7f1f29db7c23648f2bb8d6a8ee0469b.jpg",
+      "url_origen": "https://jkanime.net/naruto/16/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2730,
+      "numero": 17,
+      "titulo": "Naruto 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_421b3ac5c24ee992edd6087611c60dbb.jpg",
+      "url_origen": "https://jkanime.net/naruto/17/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2731,
+      "numero": 18,
+      "titulo": "Naruto 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08f38e0434442128fab5ead6217ca759.jpg",
+      "url_origen": "https://jkanime.net/naruto/18/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2732,
+      "numero": 19,
+      "titulo": "Naruto 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_361440528766bbaaaa1901845cf4152b.jpg",
+      "url_origen": "https://jkanime.net/naruto/19/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2733,
+      "numero": 20,
+      "titulo": "Naruto 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec1f850d934f440cfa8e4a18d2cf5463.jpg",
+      "url_origen": "https://jkanime.net/naruto/20/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2734,
+      "numero": 21,
+      "titulo": "Naruto 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f7c351ee977c765aa8cd5c7020bc38f.jpg",
+      "url_origen": "https://jkanime.net/naruto/21/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2735,
+      "numero": 22,
+      "titulo": "Naruto 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d49780520898fe37f0cd6b41c5311bf.jpg",
+      "url_origen": "https://jkanime.net/naruto/22/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2736,
+      "numero": 23,
+      "titulo": "Naruto 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47fd3c87f42f55d4b233417d49c34783.jpg",
+      "url_origen": "https://jkanime.net/naruto/23/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2737,
+      "numero": 24,
+      "titulo": "Naruto 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ff7c9eb9d37f434db778f59178012da.jpg",
+      "url_origen": "https://jkanime.net/naruto/24/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2738,
+      "numero": 25,
+      "titulo": "Naruto 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4613e8d72a61b3b69b32d040f89ad81.jpg",
+      "url_origen": "https://jkanime.net/naruto/25/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 14376,
+      "numero": 26,
+      "titulo": "Naruto - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_761a0c714184cab2456d17bdfbb8d550.jpg",
+      "url_origen": "https://jkanime.net/naruto/26/",
+      "publicado_en_origen": "2012-01-09 17:17:03"
+    },
+    {
+      "id_origen": 14377,
+      "numero": 27,
+      "titulo": "Naruto - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97103cdf7b277304a7ceebd83c64fba1.jpg",
+      "url_origen": "https://jkanime.net/naruto/27/",
+      "publicado_en_origen": "2012-01-09 17:17:14"
+    },
+    {
+      "id_origen": 2739,
+      "numero": 28,
+      "titulo": "Naruto 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56584778d5a8ab88d6393cc4cd11e090.jpg",
+      "url_origen": "https://jkanime.net/naruto/28/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2740,
+      "numero": 29,
+      "titulo": "Naruto 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96f2b50b5d3613adf9c27049b2a888c7.jpg",
+      "url_origen": "https://jkanime.net/naruto/29/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2741,
+      "numero": 30,
+      "titulo": "Naruto 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdcb2f5c7b071143529ef7f2705dfbc4.jpg",
+      "url_origen": "https://jkanime.net/naruto/30/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2742,
+      "numero": 31,
+      "titulo": "Naruto 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78f7d96ea21ccae89a7b581295f34135.jpg",
+      "url_origen": "https://jkanime.net/naruto/31/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2743,
+      "numero": 32,
+      "titulo": "Naruto 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22b1f2e0983160db6f7bb9f62f4dbb39.jpg",
+      "url_origen": "https://jkanime.net/naruto/32/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2744,
+      "numero": 33,
+      "titulo": "Naruto 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a45828dead8c065099cb653a2185df1.jpg",
+      "url_origen": "https://jkanime.net/naruto/33/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2745,
+      "numero": 34,
+      "titulo": "Naruto 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_531db99cb00833bcd414459069dc7387.jpg",
+      "url_origen": "https://jkanime.net/naruto/34/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2746,
+      "numero": 35,
+      "titulo": "Naruto 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d37124c4c79f357cb02c655671a432fa.jpg",
+      "url_origen": "https://jkanime.net/naruto/35/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2747,
+      "numero": 36,
+      "titulo": "Naruto 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_868b7df964b1af24c8c0a9e43a330c6a.jpg",
+      "url_origen": "https://jkanime.net/naruto/36/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2748,
+      "numero": 37,
+      "titulo": "Naruto 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1006ff12c465532f8c574aeaa4461b16.jpg",
+      "url_origen": "https://jkanime.net/naruto/37/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2749,
+      "numero": 38,
+      "titulo": "Naruto 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d37b3ca37106b2bfdeaa12647e3bb1c9.jpg",
+      "url_origen": "https://jkanime.net/naruto/38/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2750,
+      "numero": 39,
+      "titulo": "Naruto 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc192b0c0d270dbf41870a63a8c76c2f.jpg",
+      "url_origen": "https://jkanime.net/naruto/39/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2751,
+      "numero": 40,
+      "titulo": "Naruto 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_030e65da2b1c944090548d36b244b28d.jpg",
+      "url_origen": "https://jkanime.net/naruto/40/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2752,
+      "numero": 41,
+      "titulo": "Naruto 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2ea5e977c5fc1ccfa74171a9723dd61.jpg",
+      "url_origen": "https://jkanime.net/naruto/41/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2753,
+      "numero": 42,
+      "titulo": "Naruto 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dc372713683fd865d366d5d9ee810ba.jpg",
+      "url_origen": "https://jkanime.net/naruto/42/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2754,
+      "numero": 43,
+      "titulo": "Naruto 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_044a23cadb567653eb51d4eb40acaa88.jpg",
+      "url_origen": "https://jkanime.net/naruto/43/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2755,
+      "numero": 44,
+      "titulo": "Naruto 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17693c91d9204b7a7646284bb3adb603.jpg",
+      "url_origen": "https://jkanime.net/naruto/44/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2756,
+      "numero": 45,
+      "titulo": "Naruto 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a11883317fde3aef2e2432a58c86779.jpg",
+      "url_origen": "https://jkanime.net/naruto/45/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2757,
+      "numero": 46,
+      "titulo": "Naruto 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d58e2f077670f4de9cd7963c857f2534.jpg",
+      "url_origen": "https://jkanime.net/naruto/46/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2758,
+      "numero": 47,
+      "titulo": "Naruto 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f141cf8e7136ce8701dc6636c2a6fe4.jpg",
+      "url_origen": "https://jkanime.net/naruto/47/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2759,
+      "numero": 48,
+      "titulo": "Naruto 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35c5a2cb362c4d214156f930e7d13252.jpg",
+      "url_origen": "https://jkanime.net/naruto/48/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2760,
+      "numero": 49,
+      "titulo": "Naruto 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0bef4c9a6e50d43880191492d4fc827.jpg",
+      "url_origen": "https://jkanime.net/naruto/49/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2761,
+      "numero": 50,
+      "titulo": "Naruto 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_566a9968b43628588e76be5a85a0f9e8.jpg",
+      "url_origen": "https://jkanime.net/naruto/50/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2762,
+      "numero": 51,
+      "titulo": "Naruto 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b6921f2c64dee16ba21ebf17f3c2c92.jpg",
+      "url_origen": "https://jkanime.net/naruto/51/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2763,
+      "numero": 52,
+      "titulo": "Naruto 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f804d21145597e42851fa736e221da3f.jpg",
+      "url_origen": "https://jkanime.net/naruto/52/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2764,
+      "numero": 53,
+      "titulo": "Naruto 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98d8a23fd60826a2a474c5b4f5811707.jpg",
+      "url_origen": "https://jkanime.net/naruto/53/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2765,
+      "numero": 54,
+      "titulo": "Naruto 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_370bfb31abd222b582245b977ea5f25a.jpg",
+      "url_origen": "https://jkanime.net/naruto/54/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2766,
+      "numero": 55,
+      "titulo": "Naruto 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_045cf83ab0722e782cf72d14e44adf98.jpg",
+      "url_origen": "https://jkanime.net/naruto/55/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2767,
+      "numero": 56,
+      "titulo": "Naruto 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f75526659f31040afeb61cb7133e4e6d.jpg",
+      "url_origen": "https://jkanime.net/naruto/56/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2768,
+      "numero": 57,
+      "titulo": "Naruto 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f499d34bd87b42948b3960b8f6b82e74.jpg",
+      "url_origen": "https://jkanime.net/naruto/57/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2769,
+      "numero": 58,
+      "titulo": "Naruto 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44ac09ac6a149136a4102ee4b4103ae6.jpg",
+      "url_origen": "https://jkanime.net/naruto/58/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2770,
+      "numero": 59,
+      "titulo": "Naruto 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7a3d70c6d17a73140918996d03c014f.jpg",
+      "url_origen": "https://jkanime.net/naruto/59/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2771,
+      "numero": 60,
+      "titulo": "Naruto 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8e1344e27a5b08cdfd5d027d9b8d6de.jpg",
+      "url_origen": "https://jkanime.net/naruto/60/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2772,
+      "numero": 61,
+      "titulo": "Naruto 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92bf5e6240737e0326ea59846a83e076.jpg",
+      "url_origen": "https://jkanime.net/naruto/61/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2773,
+      "numero": 62,
+      "titulo": "Naruto 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f565bb9efccaf6986443db0bf01018bc.jpg",
+      "url_origen": "https://jkanime.net/naruto/62/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2774,
+      "numero": 63,
+      "titulo": "Naruto 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1cd138d0499a68f4bb72bee04bbec2d7.jpg",
+      "url_origen": "https://jkanime.net/naruto/63/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2775,
+      "numero": 64,
+      "titulo": "Naruto 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a5876b450b45371f6cfe5047ac8cd45.jpg",
+      "url_origen": "https://jkanime.net/naruto/64/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2776,
+      "numero": 65,
+      "titulo": "Naruto 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6244b2ba957c48bc64582cf2bcec3d04.jpg",
+      "url_origen": "https://jkanime.net/naruto/65/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 14378,
+      "numero": 66,
+      "titulo": "Naruto - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_735dd629ab696e3a1bfcc0fe0d687bb1.jpg",
+      "url_origen": "https://jkanime.net/naruto/66/",
+      "publicado_en_origen": "2012-01-09 17:18:11"
+    },
+    {
+      "id_origen": 14379,
+      "numero": 67,
+      "titulo": "Naruto - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f7bc4baeb295716fa1dbbf64887fcff.jpg",
+      "url_origen": "https://jkanime.net/naruto/67/",
+      "publicado_en_origen": "2012-01-09 17:18:20"
+    },
+    {
+      "id_origen": 2777,
+      "numero": 68,
+      "titulo": "Naruto 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4a721cfb62f5d19ec61575114d8a2d1.jpg",
+      "url_origen": "https://jkanime.net/naruto/68/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2778,
+      "numero": 69,
+      "titulo": "Naruto 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd4f21f2556dad0ea8b7a5c04eabebda.jpg",
+      "url_origen": "https://jkanime.net/naruto/69/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2779,
+      "numero": 70,
+      "titulo": "Naruto 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1300291698eadedb559786c809cc592.jpg",
+      "url_origen": "https://jkanime.net/naruto/70/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2780,
+      "numero": 71,
+      "titulo": "Naruto 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d47844673f2db74d78da8687d794523d.jpg",
+      "url_origen": "https://jkanime.net/naruto/71/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2781,
+      "numero": 72,
+      "titulo": "Naruto 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae587cfeea5ac21a8f1c1ea51027fef0.jpg",
+      "url_origen": "https://jkanime.net/naruto/72/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2782,
+      "numero": 73,
+      "titulo": "Naruto 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60243f9b1ac2dba11ff8131c8f4431e0.jpg",
+      "url_origen": "https://jkanime.net/naruto/73/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2783,
+      "numero": 74,
+      "titulo": "Naruto 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccd45007df44dd0f12098f486e7e8a0f.jpg",
+      "url_origen": "https://jkanime.net/naruto/74/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2784,
+      "numero": 75,
+      "titulo": "Naruto 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aeefb050911334869a7a5d9e4d0e1689.jpg",
+      "url_origen": "https://jkanime.net/naruto/75/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2785,
+      "numero": 76,
+      "titulo": "Naruto 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5be278a9e02bed9248a4674ff62fea2c.jpg",
+      "url_origen": "https://jkanime.net/naruto/76/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2786,
+      "numero": 77,
+      "titulo": "Naruto 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb3f76858cb38e5b7fd113e0bc1c0721.jpg",
+      "url_origen": "https://jkanime.net/naruto/77/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2787,
+      "numero": 78,
+      "titulo": "Naruto 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e0bff759d057e28460eaa5b2cb118e5.jpg",
+      "url_origen": "https://jkanime.net/naruto/78/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2788,
+      "numero": 79,
+      "titulo": "Naruto 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d210cf373cf002a04ec72ee395f66306.jpg",
+      "url_origen": "https://jkanime.net/naruto/79/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2789,
+      "numero": 80,
+      "titulo": "Naruto 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b19aa25ff58940d974234b48391b9549.jpg",
+      "url_origen": "https://jkanime.net/naruto/80/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2790,
+      "numero": 81,
+      "titulo": "Naruto 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec0bfd000f253eff3acb1043e1c06979.jpg",
+      "url_origen": "https://jkanime.net/naruto/81/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2791,
+      "numero": 82,
+      "titulo": "Naruto 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad82140cafe816c41a9c9974e9240b7a.jpg",
+      "url_origen": "https://jkanime.net/naruto/82/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2792,
+      "numero": 83,
+      "titulo": "Naruto 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1264a061d82a2edae1574b07249800d6.jpg",
+      "url_origen": "https://jkanime.net/naruto/83/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2793,
+      "numero": 84,
+      "titulo": "Naruto 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4191ef5f6c1576762869ac49281130c9.jpg",
+      "url_origen": "https://jkanime.net/naruto/84/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2794,
+      "numero": 85,
+      "titulo": "Naruto 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e465ae46b07058f4ab5e96b98f101756.jpg",
+      "url_origen": "https://jkanime.net/naruto/85/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2795,
+      "numero": 86,
+      "titulo": "Naruto 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7f592cef8b130a6967a90617db5681b.jpg",
+      "url_origen": "https://jkanime.net/naruto/86/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2796,
+      "numero": 87,
+      "titulo": "Naruto 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e27a949795bbe863f31c3b79a2686770.jpg",
+      "url_origen": "https://jkanime.net/naruto/87/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2797,
+      "numero": 88,
+      "titulo": "Naruto 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74378afe5e8b20910cf1f939e57f0480.jpg",
+      "url_origen": "https://jkanime.net/naruto/88/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2798,
+      "numero": 89,
+      "titulo": "Naruto 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_952c3ff98a6acdc36497d839e31aa57c.jpg",
+      "url_origen": "https://jkanime.net/naruto/89/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2799,
+      "numero": 90,
+      "titulo": "Naruto 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d9095b0d6bbe98ea0c9c02b11b59ee3.jpg",
+      "url_origen": "https://jkanime.net/naruto/90/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2800,
+      "numero": 91,
+      "titulo": "Naruto 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fc170ecbb8ff1afb2c6de48ea5343e7.jpg",
+      "url_origen": "https://jkanime.net/naruto/91/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2801,
+      "numero": 92,
+      "titulo": "Naruto 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3788c8c64fd65c470e23e7534c3ebc8.jpg",
+      "url_origen": "https://jkanime.net/naruto/92/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2802,
+      "numero": 93,
+      "titulo": "Naruto 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2eb5657d37f474e4c4cf01e4882b8962.jpg",
+      "url_origen": "https://jkanime.net/naruto/93/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2803,
+      "numero": 94,
+      "titulo": "Naruto 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64c31821603ab476a318839606743bd6.jpg",
+      "url_origen": "https://jkanime.net/naruto/94/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 14380,
+      "numero": 95,
+      "titulo": "Naruto - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a4b930f7a36153ca68fdf211c8836a7.jpg",
+      "url_origen": "https://jkanime.net/naruto/95/",
+      "publicado_en_origen": "2012-01-09 17:18:40"
+    },
+    {
+      "id_origen": 14381,
+      "numero": 96,
+      "titulo": "Naruto - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_235fba44e32ba4dd3a3f72db1a8a6846.jpg",
+      "url_origen": "https://jkanime.net/naruto/96/",
+      "publicado_en_origen": "2012-01-09 17:19:04"
+    },
+    {
+      "id_origen": 2804,
+      "numero": 97,
+      "titulo": "Naruto 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ab52371762b735317125e6446a51e8f.jpg",
+      "url_origen": "https://jkanime.net/naruto/97/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2805,
+      "numero": 98,
+      "titulo": "Naruto 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_564645fbd0332f066cbd9d083ddd077c.jpg",
+      "url_origen": "https://jkanime.net/naruto/98/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2806,
+      "numero": 99,
+      "titulo": "Naruto 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0f971d8cd24364f2029fcb9ac7b71f5.jpg",
+      "url_origen": "https://jkanime.net/naruto/99/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2807,
+      "numero": 100,
+      "titulo": "Naruto 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_765d5fb115a9f6a3e0b23b80a5b2e4c4.jpg",
+      "url_origen": "https://jkanime.net/naruto/100/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2808,
+      "numero": 101,
+      "titulo": "Naruto 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0010a6f34908640a4a6da2389772a78.jpg",
+      "url_origen": "https://jkanime.net/naruto/101/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2809,
+      "numero": 102,
+      "titulo": "Naruto 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4fd1d2cb085390fbbadae65e07876a7.jpg",
+      "url_origen": "https://jkanime.net/naruto/102/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2810,
+      "numero": 103,
+      "titulo": "Naruto 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_663772ea088360f95bac3dc7ffb841be.jpg",
+      "url_origen": "https://jkanime.net/naruto/103/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2811,
+      "numero": 104,
+      "titulo": "Naruto 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_227f6afd3b7f89b96c4bb91f95d50f6d.jpg",
+      "url_origen": "https://jkanime.net/naruto/104/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2812,
+      "numero": 105,
+      "titulo": "Naruto 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3b7e5d3eb074cde5b76e26bc0fb5776.jpg",
+      "url_origen": "https://jkanime.net/naruto/105/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2813,
+      "numero": 106,
+      "titulo": "Naruto 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39d352b0395ba768e18f042c6e2a8621.jpg",
+      "url_origen": "https://jkanime.net/naruto/106/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2814,
+      "numero": 107,
+      "titulo": "Naruto 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e987cf1b2f1f6ffa6a43066798b4b7f.jpg",
+      "url_origen": "https://jkanime.net/naruto/107/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2815,
+      "numero": 108,
+      "titulo": "Naruto 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5b1b89d98b7286673128a5fb112cb9a.jpg",
+      "url_origen": "https://jkanime.net/naruto/108/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2816,
+      "numero": 109,
+      "titulo": "Naruto 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e2a6330465c8ffcaa696a5a16639176.jpg",
+      "url_origen": "https://jkanime.net/naruto/109/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 14382,
+      "numero": 110,
+      "titulo": "Naruto - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60c4a88bac6125d490af523a8c94e5e1.jpg",
+      "url_origen": "https://jkanime.net/naruto/110/",
+      "publicado_en_origen": "2012-01-09 17:19:40"
+    },
+    {
+      "id_origen": 14383,
+      "numero": 111,
+      "titulo": "Naruto - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a82522020d282a227480d2929c6f8a04.jpg",
+      "url_origen": "https://jkanime.net/naruto/111/",
+      "publicado_en_origen": "2012-01-09 17:19:50"
+    },
+    {
+      "id_origen": 2817,
+      "numero": 112,
+      "titulo": "Naruto 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_182e6c2d3d78eef40e5dac7da77a748f.jpg",
+      "url_origen": "https://jkanime.net/naruto/112/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2818,
+      "numero": 113,
+      "titulo": "Naruto 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d53697441ef12a45422f6660202f9840.jpg",
+      "url_origen": "https://jkanime.net/naruto/113/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2819,
+      "numero": 114,
+      "titulo": "Naruto 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28acfe2da49d2b9a7f177458256f2540.jpg",
+      "url_origen": "https://jkanime.net/naruto/114/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2820,
+      "numero": 115,
+      "titulo": "Naruto 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aee92f16efd522b9326c25cc3237ac15.jpg",
+      "url_origen": "https://jkanime.net/naruto/115/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 14384,
+      "numero": 116,
+      "titulo": "Naruto - 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43a87a86ea9aee0255325e2865d6b503.jpg",
+      "url_origen": "https://jkanime.net/naruto/116/",
+      "publicado_en_origen": "2012-01-09 17:20:05"
+    },
+    {
+      "id_origen": 14385,
+      "numero": 117,
+      "titulo": "Naruto - 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79d0360cd882c01f1ac008b3bb85feb3.jpg",
+      "url_origen": "https://jkanime.net/naruto/117/",
+      "publicado_en_origen": "2012-01-09 17:20:14"
+    },
+    {
+      "id_origen": 2821,
+      "numero": 118,
+      "titulo": "Naruto 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56cb94cb34617aeadff1e79b53f38354.jpg",
+      "url_origen": "https://jkanime.net/naruto/118/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2822,
+      "numero": 119,
+      "titulo": "Naruto 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0172d289da48c48de8c5ebf3de9f7ee1.jpg",
+      "url_origen": "https://jkanime.net/naruto/119/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2823,
+      "numero": 120,
+      "titulo": "Naruto 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46f76a4bda9a9579eab38a8f6eabcda1.jpg",
+      "url_origen": "https://jkanime.net/naruto/120/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2824,
+      "numero": 121,
+      "titulo": "Naruto 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b030afbb3a8af8fb0759241c97466ee4.jpg",
+      "url_origen": "https://jkanime.net/naruto/121/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2825,
+      "numero": 122,
+      "titulo": "Naruto 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fc2c60b5782f641f76bcefc39fb2392.jpg",
+      "url_origen": "https://jkanime.net/naruto/122/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2826,
+      "numero": 123,
+      "titulo": "Naruto 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12311d05c9aa67765703984239511212.jpg",
+      "url_origen": "https://jkanime.net/naruto/123/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2827,
+      "numero": 124,
+      "titulo": "Naruto 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09b69adcd7cbae914c6204984097d2da.jpg",
+      "url_origen": "https://jkanime.net/naruto/124/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2828,
+      "numero": 125,
+      "titulo": "Naruto 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b139aeda1c2914e3b579aafd3ceeb1bd.jpg",
+      "url_origen": "https://jkanime.net/naruto/125/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2829,
+      "numero": 126,
+      "titulo": "Naruto 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46b2644cbdf489fac0e2d192212d206d.jpg",
+      "url_origen": "https://jkanime.net/naruto/126/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 14386,
+      "numero": 127,
+      "titulo": "Naruto - 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2053816a7f21edb8c302ed31b0bafa1f.jpg",
+      "url_origen": "https://jkanime.net/naruto/127/",
+      "publicado_en_origen": "2012-01-09 17:20:46"
+    },
+    {
+      "id_origen": 14387,
+      "numero": 128,
+      "titulo": "Naruto - 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ca987e02bbbf558114f8c0633e2c7ac.jpg",
+      "url_origen": "https://jkanime.net/naruto/128/",
+      "publicado_en_origen": "2012-01-09 17:21:02"
+    },
+    {
+      "id_origen": 2830,
+      "numero": 129,
+      "titulo": "Naruto 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0738069b244a1c43c83112b735140a16.jpg",
+      "url_origen": "https://jkanime.net/naruto/129/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2831,
+      "numero": 130,
+      "titulo": "Naruto 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ea6a546c19499318091a9df40a13181.jpg",
+      "url_origen": "https://jkanime.net/naruto/130/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2832,
+      "numero": 131,
+      "titulo": "Naruto 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bc8ae25856bc2a6a1333d1331a3b7a6.jpg",
+      "url_origen": "https://jkanime.net/naruto/131/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2833,
+      "numero": 132,
+      "titulo": "Naruto 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ade55409d1224074754035a5a937d2e0.jpg",
+      "url_origen": "https://jkanime.net/naruto/132/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2834,
+      "numero": 133,
+      "titulo": "Naruto 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9752d873fa71c19dc602bf2a0696f9b5.jpg",
+      "url_origen": "https://jkanime.net/naruto/133/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2835,
+      "numero": 134,
+      "titulo": "Naruto 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6775a0635c302542da2c32aa19d86be0.jpg",
+      "url_origen": "https://jkanime.net/naruto/134/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2836,
+      "numero": 135,
+      "titulo": "Naruto 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e0e24295e8a86282cb559b860416812.jpg",
+      "url_origen": "https://jkanime.net/naruto/135/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2837,
+      "numero": 136,
+      "titulo": "Naruto 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_353de26971b93af88da102641069b440.jpg",
+      "url_origen": "https://jkanime.net/naruto/136/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2838,
+      "numero": 137,
+      "titulo": "Naruto 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0bb8259d8fe3c7df4554dab9d7da3c9.jpg",
+      "url_origen": "https://jkanime.net/naruto/137/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2839,
+      "numero": 138,
+      "titulo": "Naruto 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d75b942ab4bd730bc2e819df9c9a4b5.jpg",
+      "url_origen": "https://jkanime.net/naruto/138/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2840,
+      "numero": 139,
+      "titulo": "Naruto 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a78482ce76496fcf49085f2190e675b4.jpg",
+      "url_origen": "https://jkanime.net/naruto/139/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2841,
+      "numero": 140,
+      "titulo": "Naruto 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d71fa38b648d86602d14ac610f2e6194.jpg",
+      "url_origen": "https://jkanime.net/naruto/140/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2842,
+      "numero": 141,
+      "titulo": "Naruto 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3812f9a59b634c2a9c574610eaba5bed.jpg",
+      "url_origen": "https://jkanime.net/naruto/141/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2843,
+      "numero": 142,
+      "titulo": "Naruto 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf2fb7d1825a1df3ca308ad0bf48591e.jpg",
+      "url_origen": "https://jkanime.net/naruto/142/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2844,
+      "numero": 143,
+      "titulo": "Naruto 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f1d0705c91c2145201df18a1a0c7345.jpg",
+      "url_origen": "https://jkanime.net/naruto/143/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2845,
+      "numero": 144,
+      "titulo": "Naruto 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b29fa4efe4fb7bc667c7b301b74d52d.jpg",
+      "url_origen": "https://jkanime.net/naruto/144/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2846,
+      "numero": 145,
+      "titulo": "Naruto 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb9fc349601c69352c859c1faa287874.jpg",
+      "url_origen": "https://jkanime.net/naruto/145/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2847,
+      "numero": 146,
+      "titulo": "Naruto 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdf1bc5669e8ff5ba45d02fded729feb.jpg",
+      "url_origen": "https://jkanime.net/naruto/146/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 14388,
+      "numero": 147,
+      "titulo": "Naruto - 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8cb1f62625edb0977782ad3930d7d239.jpg",
+      "url_origen": "https://jkanime.net/naruto/147/",
+      "publicado_en_origen": "2012-01-09 17:21:24"
+    },
+    {
+      "id_origen": 14389,
+      "numero": 148,
+      "titulo": "Naruto - 148",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5dae854cd11d11715c91b6ce80f46b7c.jpg",
+      "url_origen": "https://jkanime.net/naruto/148/",
+      "publicado_en_origen": "2012-01-09 17:21:35"
+    },
+    {
+      "id_origen": 2848,
+      "numero": 149,
+      "titulo": "Naruto 149",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a2756a3cb9cde852cad3c97e120b656.jpg",
+      "url_origen": "https://jkanime.net/naruto/149/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2849,
+      "numero": 150,
+      "titulo": "Naruto 150",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2217ad1dd50c1017d3df6b44b7c45508.jpg",
+      "url_origen": "https://jkanime.net/naruto/150/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2850,
+      "numero": 151,
+      "titulo": "Naruto 151",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e833e042f509c996b1b25324d56659fb.jpg",
+      "url_origen": "https://jkanime.net/naruto/151/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2851,
+      "numero": 152,
+      "titulo": "Naruto 152",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3d80b656929a5bc0fa34381bf42fbdd.jpg",
+      "url_origen": "https://jkanime.net/naruto/152/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2852,
+      "numero": 153,
+      "titulo": "Naruto 153",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_881c6efa917cff1c97a74e03e15f43e8.jpg",
+      "url_origen": "https://jkanime.net/naruto/153/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2853,
+      "numero": 154,
+      "titulo": "Naruto 154",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3aeec875c479e55d1cdeea161842ec6.jpg",
+      "url_origen": "https://jkanime.net/naruto/154/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2854,
+      "numero": 155,
+      "titulo": "Naruto 155",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3070e6addcd702cb58de5d7897bfdae1.jpg",
+      "url_origen": "https://jkanime.net/naruto/155/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2855,
+      "numero": 156,
+      "titulo": "Naruto 156",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a6727711b84fd1efbb87fc565199d13.jpg",
+      "url_origen": "https://jkanime.net/naruto/156/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2856,
+      "numero": 157,
+      "titulo": "Naruto 157",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1397386b7a1507535c59764a15ee0c98.jpg",
+      "url_origen": "https://jkanime.net/naruto/157/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2857,
+      "numero": 158,
+      "titulo": "Naruto 158",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4491777b1aa8b5b32c2e8666dbe1a495.jpg",
+      "url_origen": "https://jkanime.net/naruto/158/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2858,
+      "numero": 159,
+      "titulo": "Naruto 159",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42a6845a557bef704ad8ac9cb4461d43.jpg",
+      "url_origen": "https://jkanime.net/naruto/159/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2859,
+      "numero": 160,
+      "titulo": "Naruto 160",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a226e450e214f350856e2980b6e55ac9.jpg",
+      "url_origen": "https://jkanime.net/naruto/160/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2860,
+      "numero": 161,
+      "titulo": "Naruto 161",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_894db62f7b7a6ed2f2a277dae56a017c.jpg",
+      "url_origen": "https://jkanime.net/naruto/161/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2861,
+      "numero": 162,
+      "titulo": "Naruto 162",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd1354624fbae3b2149878941c60df99.jpg",
+      "url_origen": "https://jkanime.net/naruto/162/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2862,
+      "numero": 163,
+      "titulo": "Naruto 163",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ec3e7af38e33222bde173fecaef6bfa.jpg",
+      "url_origen": "https://jkanime.net/naruto/163/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2863,
+      "numero": 164,
+      "titulo": "Naruto 164",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6cbc650cd5798a05dfd0f51d14cde5c.jpg",
+      "url_origen": "https://jkanime.net/naruto/164/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2864,
+      "numero": 165,
+      "titulo": "Naruto 165",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef0d17b3bdb4ee2aa741ba28c7255c53.jpg",
+      "url_origen": "https://jkanime.net/naruto/165/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 14390,
+      "numero": 166,
+      "titulo": "Naruto - 166",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a1df180ea2c0d298aa1d739fe720a0c.jpg",
+      "url_origen": "https://jkanime.net/naruto/166/",
+      "publicado_en_origen": "2012-01-09 17:21:50"
+    },
+    {
+      "id_origen": 14391,
+      "numero": 167,
+      "titulo": "Naruto - 167",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3abb5691502cbd522511147519f8a487.jpg",
+      "url_origen": "https://jkanime.net/naruto/167/",
+      "publicado_en_origen": "2012-01-09 17:22:00"
+    },
+    {
+      "id_origen": 2865,
+      "numero": 168,
+      "titulo": "Naruto 168",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85690f81aadc1749175c187784afc9ee.jpg",
+      "url_origen": "https://jkanime.net/naruto/168/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2866,
+      "numero": 169,
+      "titulo": "Naruto 169",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_801fd8c2a4e79c1d24a40dc735c051ae.jpg",
+      "url_origen": "https://jkanime.net/naruto/169/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2867,
+      "numero": 170,
+      "titulo": "Naruto 170",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a99f6821980ac99136dcd2f1e9c8740.jpg",
+      "url_origen": "https://jkanime.net/naruto/170/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2868,
+      "numero": 171,
+      "titulo": "Naruto 171",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b3bac12926cc1d9fb5d68783376971d.jpg",
+      "url_origen": "https://jkanime.net/naruto/171/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2869,
+      "numero": 172,
+      "titulo": "Naruto 172",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2c61965b5e23b47b77d7c51611b6d7f.jpg",
+      "url_origen": "https://jkanime.net/naruto/172/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2870,
+      "numero": 173,
+      "titulo": "Naruto 173",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_327708dd10d68b1361ad3addbaca01f2.jpg",
+      "url_origen": "https://jkanime.net/naruto/173/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2871,
+      "numero": 174,
+      "titulo": "Naruto 174",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2650d6089a6d640c5e85b2b88265dc2b.jpg",
+      "url_origen": "https://jkanime.net/naruto/174/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2872,
+      "numero": 175,
+      "titulo": "Naruto 175",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e0a0209b929d097bd3e8ef30567a5c1.jpg",
+      "url_origen": "https://jkanime.net/naruto/175/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2873,
+      "numero": 176,
+      "titulo": "Naruto 176",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efd7e9ed0e5e694ba6df444d84dfa37d.jpg",
+      "url_origen": "https://jkanime.net/naruto/176/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2874,
+      "numero": 177,
+      "titulo": "Naruto 177",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6af401c28c1790eaef7d55c92ab6ab6.jpg",
+      "url_origen": "https://jkanime.net/naruto/177/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2875,
+      "numero": 178,
+      "titulo": "Naruto 178",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f1f29888cabf5d45f866fe457737a23.jpg",
+      "url_origen": "https://jkanime.net/naruto/178/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2876,
+      "numero": 179,
+      "titulo": "Naruto 179",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12a1d073d5ed3fa12169c67c4e2ce415.jpg",
+      "url_origen": "https://jkanime.net/naruto/179/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2877,
+      "numero": 180,
+      "titulo": "Naruto 180",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f076073b2082f8741a9cd07b789c77a0.jpg",
+      "url_origen": "https://jkanime.net/naruto/180/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2878,
+      "numero": 181,
+      "titulo": "Naruto 181",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6db4ed04f1621a119799fd3d7545d3d.jpg",
+      "url_origen": "https://jkanime.net/naruto/181/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2879,
+      "numero": 182,
+      "titulo": "Naruto 182",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec8b57b0be908301f5748fb04b0714c7.jpg",
+      "url_origen": "https://jkanime.net/naruto/182/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2880,
+      "numero": 183,
+      "titulo": "Naruto 183",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c61f571dbd2fb949d3fe5ae1608dd48b.jpg",
+      "url_origen": "https://jkanime.net/naruto/183/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2881,
+      "numero": 184,
+      "titulo": "Naruto 184",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_445e1050156c6ae8c082a8422bb7dfc0.jpg",
+      "url_origen": "https://jkanime.net/naruto/184/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2882,
+      "numero": 185,
+      "titulo": "Naruto 185",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ef35a8b78b572a47f56846acbeef5d3.jpg",
+      "url_origen": "https://jkanime.net/naruto/185/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2883,
+      "numero": 186,
+      "titulo": "Naruto 186",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3008b2c6f5370b744850a98a95b73ad.jpg",
+      "url_origen": "https://jkanime.net/naruto/186/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2884,
+      "numero": 187,
+      "titulo": "Naruto 187",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_780965ae22ea6aee11935f3fb73da841.jpg",
+      "url_origen": "https://jkanime.net/naruto/187/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2885,
+      "numero": 188,
+      "titulo": "Naruto 188",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e98741479a7b998f88b8f8c9f0b6b6f1.jpg",
+      "url_origen": "https://jkanime.net/naruto/188/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2886,
+      "numero": 189,
+      "titulo": "Naruto 189",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15cf76466b97264765356fcc56d801d1.jpg",
+      "url_origen": "https://jkanime.net/naruto/189/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2887,
+      "numero": 190,
+      "titulo": "Naruto 190",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dba5eed8838571e1c80af145184e515.jpg",
+      "url_origen": "https://jkanime.net/naruto/190/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2888,
+      "numero": 191,
+      "titulo": "Naruto 191",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_488c1e0332065eb80e1129139a67d6e0.jpg",
+      "url_origen": "https://jkanime.net/naruto/191/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2889,
+      "numero": 192,
+      "titulo": "Naruto 192",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f018eb7b301a66658931cb8a93fd6e8.jpg",
+      "url_origen": "https://jkanime.net/naruto/192/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2890,
+      "numero": 193,
+      "titulo": "Naruto 193",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4944963b5c83d545c3d3022bcf03282.jpg",
+      "url_origen": "https://jkanime.net/naruto/193/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2891,
+      "numero": 194,
+      "titulo": "Naruto 194",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a006957be65e608e863301eb98e1808.jpg",
+      "url_origen": "https://jkanime.net/naruto/194/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2892,
+      "numero": 195,
+      "titulo": "Naruto 195",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fe131632103526e3a6e8114c78eb1e1.jpg",
+      "url_origen": "https://jkanime.net/naruto/195/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2893,
+      "numero": 196,
+      "titulo": "Naruto 196",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9719a00ed0c5709d80dfef33795dcef3.jpg",
+      "url_origen": "https://jkanime.net/naruto/196/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2894,
+      "numero": 197,
+      "titulo": "Naruto 197",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b4130c9e891d39891289001cc97d86b.jpg",
+      "url_origen": "https://jkanime.net/naruto/197/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2895,
+      "numero": 198,
+      "titulo": "Naruto 198",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b8b8e3bd6ad94b985c1b1f1b7a94cb2.jpg",
+      "url_origen": "https://jkanime.net/naruto/198/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2896,
+      "numero": 199,
+      "titulo": "Naruto 199",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8f2779682fd11fa2067beffc27a9192.jpg",
+      "url_origen": "https://jkanime.net/naruto/199/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2897,
+      "numero": 200,
+      "titulo": "Naruto 200",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e3197aae95c2ff8fcab35cb730f6a86.jpg",
+      "url_origen": "https://jkanime.net/naruto/200/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2898,
+      "numero": 201,
+      "titulo": "Naruto 201",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25ef0d887bc7a2b30089a025618e1c62.jpg",
+      "url_origen": "https://jkanime.net/naruto/201/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2899,
+      "numero": 202,
+      "titulo": "Naruto 202",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_332647f433a1c10fa2e2ae04abfdf83e.jpg",
+      "url_origen": "https://jkanime.net/naruto/202/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 14392,
+      "numero": 203,
+      "titulo": "Naruto - 203",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_625d2d3101c23c47a46984741c232fed.jpg",
+      "url_origen": "https://jkanime.net/naruto/203/",
+      "publicado_en_origen": "2012-01-09 17:22:22"
+    },
+    {
+      "id_origen": 14393,
+      "numero": 204,
+      "titulo": "Naruto - 204",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d95c1c55d84afc81845d9fb25c0cc0c.jpg",
+      "url_origen": "https://jkanime.net/naruto/204/",
+      "publicado_en_origen": "2012-01-09 17:22:31"
+    },
+    {
+      "id_origen": 14394,
+      "numero": 205,
+      "titulo": "Naruto - 205",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9db15913897019149a2807337f4a0f8.jpg",
+      "url_origen": "https://jkanime.net/naruto/205/",
+      "publicado_en_origen": "2012-01-09 17:22:40"
+    },
+    {
+      "id_origen": 2900,
+      "numero": 206,
+      "titulo": "Naruto 206",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9fd2624beefbc7808e4e405d73f57ab.jpg",
+      "url_origen": "https://jkanime.net/naruto/206/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2901,
+      "numero": 207,
+      "titulo": "Naruto 207",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a57e8915461b83adefb011530b711704.jpg",
+      "url_origen": "https://jkanime.net/naruto/207/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2902,
+      "numero": 208,
+      "titulo": "Naruto 208",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_379a7ba015d8bf1c70b8add2c287c6fa.jpg",
+      "url_origen": "https://jkanime.net/naruto/208/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2903,
+      "numero": 209,
+      "titulo": "Naruto 209",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c333aadfc3ee8ecb8d77ee31197d96a.jpg",
+      "url_origen": "https://jkanime.net/naruto/209/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2904,
+      "numero": 210,
+      "titulo": "Naruto 210",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8b9c74ac526fffbeb2d39ab038d1cd7.jpg",
+      "url_origen": "https://jkanime.net/naruto/210/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2905,
+      "numero": 211,
+      "titulo": "Naruto 211",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_314450613369e0ee72d0da7f6fee773c.jpg",
+      "url_origen": "https://jkanime.net/naruto/211/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2906,
+      "numero": 212,
+      "titulo": "Naruto 212",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e82757e9a1c12cb710ad680db11f6f1.jpg",
+      "url_origen": "https://jkanime.net/naruto/212/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2907,
+      "numero": 213,
+      "titulo": "Naruto 213",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7558e9d1f956b016d1fdba7ea132378.jpg",
+      "url_origen": "https://jkanime.net/naruto/213/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 14395,
+      "numero": 214,
+      "titulo": "Naruto - 214",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7caf725460a122ea49d40b9e770f451b.jpg",
+      "url_origen": "https://jkanime.net/naruto/214/",
+      "publicado_en_origen": "2012-01-09 17:22:53"
+    },
+    {
+      "id_origen": 14396,
+      "numero": 215,
+      "titulo": "Naruto - 215",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f52d05b03fa31d9fff9b51349efeef4.jpg",
+      "url_origen": "https://jkanime.net/naruto/215/",
+      "publicado_en_origen": "2012-01-09 17:23:02"
+    },
+    {
+      "id_origen": 2908,
+      "numero": 216,
+      "titulo": "Naruto 216",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73b817090081cef1bca77232f4532c5d.jpg",
+      "url_origen": "https://jkanime.net/naruto/216/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2909,
+      "numero": 217,
+      "titulo": "Naruto 217",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5b03f06271f8917685d14cea7c6c50a.jpg",
+      "url_origen": "https://jkanime.net/naruto/217/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2910,
+      "numero": 218,
+      "titulo": "Naruto 218",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dba31bb5c75992690f20c2d3b370ec7c.jpg",
+      "url_origen": "https://jkanime.net/naruto/218/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2911,
+      "numero": 219,
+      "titulo": "Naruto 219",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef67f7c2d86352c2c42e19d20f881f53.jpg",
+      "url_origen": "https://jkanime.net/naruto/219/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2912,
+      "numero": 220,
+      "titulo": "Naruto 220",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c68c9c8258ea7d85472dd6fd0015f047.jpg",
+      "url_origen": "https://jkanime.net/naruto/220/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "123",
+  "cantidad_episodios_declarada": 220,
+  "detalle_extraido_en": "2026-08-26T18:40:00+00:00"
+}

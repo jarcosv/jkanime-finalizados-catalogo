@@ -1,0 +1,93 @@
+{
+  "id_origen": 1328,
+  "slug": "seitokai-yakuindomo-2-ova",
+  "titulo": "Seitokai Yakuindomo* S2 OVA",
+  "titulo_corto": "Seitokai Yakuindomo* S2 OVA",
+  "sinopsis": "OVAs de Seitokai Yakuindomo* includos con el manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/seitokai-yakuindomo-2-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/seitokai-yakuindomo-2-ova/",
+  "episodios": [
+    {
+      "id_origen": 23654,
+      "numero": 1,
+      "titulo": "Seitokai Yakuindomo S2 OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb16e9966ff8b9db87d4ab07b1d9c117.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-2-ova/1/",
+      "publicado_en_origen": "2014-06-03 15:50:46"
+    },
+    {
+      "id_origen": 25182,
+      "numero": 2,
+      "titulo": "Seitokai Yakuindomo* S2 OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57be811f4915eea52686805835b070b0.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-2-ova/2/",
+      "publicado_en_origen": "2014-10-24 12:23:44"
+    },
+    {
+      "id_origen": 26773,
+      "numero": 3,
+      "titulo": "Seitokai Yakuindomo* S2 OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd939412d661b27a92e611a89e977f0a.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-2-ova/3/",
+      "publicado_en_origen": "2015-02-18 18:45:06"
+    },
+    {
+      "id_origen": 29587,
+      "numero": 4,
+      "titulo": "Seitokai Yakuindomo* S2 OVA - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da688d46dbe8aed91344330b0d863db5.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-2-ova/4/",
+      "publicado_en_origen": "2015-09-17 21:33:33"
+    },
+    {
+      "id_origen": 31915,
+      "numero": 5,
+      "titulo": "Seitokai Yakuindomo* S2 OVA - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1123c78a9021be20cbe229afba3c82bc.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-2-ova/5/",
+      "publicado_en_origen": "2016-06-27 17:03:09"
+    },
+    {
+      "id_origen": 33708,
+      "numero": 6,
+      "titulo": "Seitokai Yakuindomo* S2 OVA - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6903df7077db0e82dc39246b45ae1f0d.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-2-ova/6/",
+      "publicado_en_origen": "2016-12-19 17:41:36"
+    },
+    {
+      "id_origen": 39787,
+      "numero": 7,
+      "titulo": "Seitokai Yakuindomo* S2 OVA - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d98fac2ea99d25f055f9ae52e49dd46d.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-2-ova/7/",
+      "publicado_en_origen": "2019-05-06 00:23:42"
+    },
+    {
+      "id_origen": 39847,
+      "numero": 8,
+      "titulo": "Seitokai Yakuindomo* S2 OVA - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d26d49b8e4c08eae95a256b23bee031c.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-2-ova/8/",
+      "publicado_en_origen": "2019-05-11 16:32:35"
+    },
+    {
+      "id_origen": 41090,
+      "numero": 9,
+      "titulo": "Seitokai Yakuindomo* S2 OVA - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_357a689f054e8c8b3ea30d0492c52932.jpg",
+      "url_origen": "https://jkanime.net/seitokai-yakuindomo-2-ova/9/",
+      "publicado_en_origen": "2019-09-21 17:54:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1328",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:45:25+00:00"
+}

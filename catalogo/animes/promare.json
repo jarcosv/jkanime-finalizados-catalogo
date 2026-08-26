@@ -1,0 +1,29 @@
+{
+  "id_origen": 2610,
+  "slug": "promare",
+  "titulo": "Promare",
+  "titulo_corto": "Promare",
+  "sinopsis": "Hace treinta años, aparecio de repente una nueva raza de mutantes, destruyendo una gran parte de la humanidad. Estos llamados \"Burnish\" han seguido apareciendo al azar, dejando un rastro de muerte y destruccion a su paso.\n\nLa republica autonoma de Promepolis es una nación prospera gracias a los increibles esfuerzos de su lider, Kray Foresight, contra los Burnish. Un equipo de bomberos conocido como Burning Rescue tiene la tarea de detener a estos horribles monstruos, utilizando la tecnología más eficaz disponible gracias a su increible mecánica Lucia Fex. Galo Thymos es un joven energico, que considera a Foresight su heroe por salvarle la vida y es el recluta más reciente del equipo de rescate.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/promare.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/promare/",
+  "episodios": [
+    {
+      "id_origen": 42114,
+      "numero": 1,
+      "titulo": "Promare",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3065bc5970c36e7ce5ad33bb1c1efd01.jpg",
+      "url_origen": "https://jkanime.net/promare/1/",
+      "publicado_en_origen": "2020-02-06 06:20:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2610",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:43:06+00:00"
+}

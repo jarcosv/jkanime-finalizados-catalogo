@@ -1,0 +1,29 @@
+{
+  "id_origen": 2759,
+  "slug": "date-a-bullet-nightmare-or-queen",
+  "titulo": "Date A Bullet: Nightmare or Queen",
+  "titulo_corto": "Date A Bullet: Nightmare or Qu...",
+  "sinopsis": "Segunda parte de las películas de Date A Bullet.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/date-a-bullet-nightmare-or-queen.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/date-a-bullet-nightmare-or-queen/",
+  "episodios": [
+    {
+      "id_origen": 44267,
+      "numero": 1,
+      "titulo": "Date A Bullet: Nightmare or Queen",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_014c073ef65e4a7ef73acd61cf606164.jpg",
+      "url_origen": "https://jkanime.net/date-a-bullet-nightmare-or-queen/1/",
+      "publicado_en_origen": "2020-12-22 00:28:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2759",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:34+00:00"
+}

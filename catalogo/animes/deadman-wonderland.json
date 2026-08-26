@@ -1,0 +1,117 @@
+{
+  "id_origen": 427,
+  "slug": "deadman-wonderland",
+  "titulo": "Deadman Wonderland",
+  "titulo_corto": "Deadman Wonderland",
+  "sinopsis": "Diez años han pasado desde 'El Gran Terremoto de Tokyo', desastre masivo natural que hundió más del 70 por ciento de Tokio en el océano. Ganta Igarashi es un estudiante de escuela secundaria medio de 14 años en la Prefectura Nagano. Ganta es un sobreviviente del terremoto, pero él no tiene ninguna memoria del desastre y simplemente desea jugar el fútbol y vivir una vida normal. Todo cambió un día cuando un hombre misterioso cubierto en sangre aparece fuera de su ventana de aula. 'El Hombre Rojo' mata a los compañeros de clase de Ganta, pero extrañamente lo deja vivo después del incrustar un cristal carmesí en su pecho. La vida de Ganta va de mal en peor cuando él es culpado por los espantosos asesinatos y condenado a cadena perpetua en 'Deadman Wonderland'.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/deadman-wonderland.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/deadman-wonderland/",
+  "episodios": [
+    {
+      "id_origen": 12622,
+      "numero": 1,
+      "titulo": "Deadman Wonderland - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9352a44851329428546289d02ba92b6.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland/1/",
+      "publicado_en_origen": "2011-10-02 10:21:19"
+    },
+    {
+      "id_origen": 12623,
+      "numero": 2,
+      "titulo": "Deadman Wonderland - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f06d497659096949ed7c01894ba38694.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland/2/",
+      "publicado_en_origen": "2011-10-02 10:21:19"
+    },
+    {
+      "id_origen": 12624,
+      "numero": 3,
+      "titulo": "Deadman Wonderland - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c9338ab2bf287d03117846a49a7f432.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland/3/",
+      "publicado_en_origen": "2011-10-02 10:21:19"
+    },
+    {
+      "id_origen": 12625,
+      "numero": 4,
+      "titulo": "Deadman Wonderland - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3935f26a81a8d5ff8407b49d626f4372.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland/4/",
+      "publicado_en_origen": "2011-10-02 10:21:19"
+    },
+    {
+      "id_origen": 12626,
+      "numero": 5,
+      "titulo": "Deadman Wonderland - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46994a3cd8d943d03b44b8fc9792d435.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland/5/",
+      "publicado_en_origen": "2011-10-02 10:21:19"
+    },
+    {
+      "id_origen": 12627,
+      "numero": 6,
+      "titulo": "Deadman Wonderland - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1879d84e181b6262704e95372dc9f4dc.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland/6/",
+      "publicado_en_origen": "2011-10-02 10:21:19"
+    },
+    {
+      "id_origen": 12628,
+      "numero": 7,
+      "titulo": "Deadman Wonderland - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b2325e0e39703a0f619db7032e9d279.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland/7/",
+      "publicado_en_origen": "2011-10-02 10:21:19"
+    },
+    {
+      "id_origen": 12629,
+      "numero": 8,
+      "titulo": "Deadman Wonderland - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b52e27a9d5bf294f5b593c4c071500e.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland/8/",
+      "publicado_en_origen": "2011-10-02 10:21:19"
+    },
+    {
+      "id_origen": 12630,
+      "numero": 9,
+      "titulo": "Deadman Wonderland - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4ba31fba036a999321d5460f7f2d1d1.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland/9/",
+      "publicado_en_origen": "2011-10-02 10:21:19"
+    },
+    {
+      "id_origen": 12631,
+      "numero": 10,
+      "titulo": "Deadman Wonderland - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84adf1b967670705085ec0ca0cf48e31.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland/10/",
+      "publicado_en_origen": "2011-10-02 10:21:19"
+    },
+    {
+      "id_origen": 12632,
+      "numero": 11,
+      "titulo": "Deadman Wonderland - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d9d154fb5b905d3f6d606f8b6cbb750.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland/11/",
+      "publicado_en_origen": "2011-10-02 10:21:19"
+    },
+    {
+      "id_origen": 12633,
+      "numero": 12,
+      "titulo": "Deadman Wonderland - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_176d4cc26aefd148d136259a089d354a.jpg",
+      "url_origen": "https://jkanime.net/deadman-wonderland/12/",
+      "publicado_en_origen": "2011-10-02 10:21:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "427",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:24:40+00:00"
+}

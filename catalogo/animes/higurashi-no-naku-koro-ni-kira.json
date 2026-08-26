@@ -1,0 +1,53 @@
+{
+  "id_origen": 847,
+  "slug": "higurashi-no-naku-koro-ni-kira",
+  "titulo": "Higurashi no Naku Koro ni Kira",
+  "titulo_corto": "Higurashi no Naku Koro ni Kira",
+  "sinopsis": "En conmemoracion por el aniversario de 7th expansion y la saga de Higurashi no Naku Koro Ni, se lanzan esta serie de OVAS, con cortas parodias a las sagas anteriores y abundancia de Fanservice, dejando el lado oscuro de Higurashi para disfrutar de arcos cortos que fueron dejados en las sagas anteriores.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/higurashi-no-naku-koro-ni-kira.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kira/",
+  "episodios": [
+    {
+      "id_origen": 20372,
+      "numero": 1,
+      "titulo": "Higurashi no Naku Koro ni Kira - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88839a645726325fcbd8419f5fb05d45.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kira/1/",
+      "publicado_en_origen": "2013-04-25 22:03:47"
+    },
+    {
+      "id_origen": 20373,
+      "numero": 2,
+      "titulo": "Higurashi no Naku Koro ni Kira - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa37c29c8617abcde038d5e0ec298828.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kira/2/",
+      "publicado_en_origen": "2013-04-25 22:03:47"
+    },
+    {
+      "id_origen": 20374,
+      "numero": 3,
+      "titulo": "Higurashi no Naku Koro ni Kira - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_282a2cdbc876bbf52133b885447d4750.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kira/3/",
+      "publicado_en_origen": "2013-04-25 22:03:47"
+    },
+    {
+      "id_origen": 20375,
+      "numero": 4,
+      "titulo": "Higurashi no Naku Koro ni Kira - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d60642d771d69f91ab31dc215ab74b52.jpg",
+      "url_origen": "https://jkanime.net/higurashi-no-naku-koro-ni-kira/4/",
+      "publicado_en_origen": "2013-04-25 22:03:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:12+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "847",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:30:38+00:00"
+}

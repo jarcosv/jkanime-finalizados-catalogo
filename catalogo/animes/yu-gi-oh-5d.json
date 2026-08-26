@@ -1,0 +1,1253 @@
+{
+  "id_origen": 442,
+  "slug": "yu-gi-oh-5d",
+  "titulo": "Yu-Gi-Oh 5D",
+  "titulo_corto": "Yu-Gi-Oh 5D",
+  "sinopsis": "Mil años después de los hechos sucedidos en la serie original vemos una nueva versión de la ciudad Domino ahora llamada Neo Domino City, ahora vemos a un nuevo tipo de duelos los Riding Duels que son duelos a altas velocidades sobre motos llamadas D-Wheels, pero sin dejar atras los emocionantes torneos vemos a un nuevo protagonista intentando llegar a Neo Domino City para encontrar su destino.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-5ds.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yu-gi-oh-5d/",
+  "episodios": [
+    {
+      "id_origen": 12857,
+      "numero": 1,
+      "titulo": "Yu-Gi-Oh! 5D's - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d17367b08356ccbdba2a5485b374c341.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/1/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12858,
+      "numero": 2,
+      "titulo": "Yu-Gi-Oh! 5D's - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_552d21cc507489b0da0c67a0713f80bb.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/2/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12859,
+      "numero": 3,
+      "titulo": "Yu-Gi-Oh! 5D's - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c203562649c8b57b30f64b549b688f8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/3/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12860,
+      "numero": 4,
+      "titulo": "Yu-Gi-Oh! 5D's - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_314954362f31609663dc4765ab4c7030.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/4/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12861,
+      "numero": 5,
+      "titulo": "Yu-Gi-Oh! 5D's - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75a84b531abe6e9fe5de743f134186ab.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/5/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12862,
+      "numero": 6,
+      "titulo": "Yu-Gi-Oh! 5D's - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e056e52c8dcd019a63e6a3f169892cc9.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/6/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12863,
+      "numero": 7,
+      "titulo": "Yu-Gi-Oh! 5D's - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_587fd75693a16aa08e0ede3071a634aa.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/7/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12864,
+      "numero": 8,
+      "titulo": "Yu-Gi-Oh! 5D's - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_240497d1c93f3ea543976e5f331f3f9d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/8/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12865,
+      "numero": 9,
+      "titulo": "Yu-Gi-Oh! 5D's - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_576258b4a6dbcfc5b4839354868731d3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/9/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12866,
+      "numero": 10,
+      "titulo": "Yu-Gi-Oh! 5D's - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5444df470d67382653f5c5600221ddb7.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/10/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12867,
+      "numero": 11,
+      "titulo": "Yu-Gi-Oh! 5D's - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae306dc92ae6dfe9049d4b2177bb932d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/11/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12868,
+      "numero": 12,
+      "titulo": "Yu-Gi-Oh! 5D's - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28542e7ec2f6c92bb1bfe25c58e0b28c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/12/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12869,
+      "numero": 13,
+      "titulo": "Yu-Gi-Oh! 5D's - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ed17b7aeb1316a3f8daf637f4a7a6b4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/13/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12870,
+      "numero": 14,
+      "titulo": "Yu-Gi-Oh! 5D's - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c23abf230b77ce18d89e5c51ee4f509.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/14/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12871,
+      "numero": 15,
+      "titulo": "Yu-Gi-Oh! 5D's - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1b9528d5fb5c272d2f05a5b82611b3c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/15/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12872,
+      "numero": 16,
+      "titulo": "Yu-Gi-Oh! 5D's - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83b7e1c6a22424f5b4c47bb30798b770.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/16/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12873,
+      "numero": 17,
+      "titulo": "Yu-Gi-Oh! 5D's - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08b90c2ebcce5d7f46176eb7c05af0ea.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/17/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12874,
+      "numero": 18,
+      "titulo": "Yu-Gi-Oh! 5D's - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77684c8fdb7c184134e96d5535715990.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/18/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12875,
+      "numero": 19,
+      "titulo": "Yu-Gi-Oh! 5D's - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_064d5929fb1f298f64353d6f3e25ffac.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/19/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12876,
+      "numero": 20,
+      "titulo": "Yu-Gi-Oh! 5D's - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e056558ced8fa424facc20b1ba2369c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/20/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12877,
+      "numero": 21,
+      "titulo": "Yu-Gi-Oh! 5D's - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06d77b5b9334a3747200e0e617cb73d5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/21/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12878,
+      "numero": 22,
+      "titulo": "Yu-Gi-Oh! 5D's - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb4b635a95a5e567747155f54a000542.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/22/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12879,
+      "numero": 23,
+      "titulo": "Yu-Gi-Oh! 5D's - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ada62a8c0df8c2909a8669d78a338cb.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/23/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12880,
+      "numero": 24,
+      "titulo": "Yu-Gi-Oh! 5D's - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_003a8eb4813be2f8c5ad692ff1866162.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/24/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12881,
+      "numero": 25,
+      "titulo": "Yu-Gi-Oh! 5D's - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce74b141bbb6d057b757fffd582cad93.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/25/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12882,
+      "numero": 26,
+      "titulo": "Yu-Gi-Oh! 5D's - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71964ed9f684f669180eed60be305c42.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/26/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12883,
+      "numero": 27,
+      "titulo": "Yu-Gi-Oh! 5D's - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_652b724608ede9a918d6bc059f9579d3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/27/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12884,
+      "numero": 28,
+      "titulo": "Yu-Gi-Oh! 5D's - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_697782646a61d39ff18134e51fe7db85.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/28/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12885,
+      "numero": 29,
+      "titulo": "Yu-Gi-Oh! 5D's - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec88121df4e8a5ea1665067e0305bcf2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/29/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12886,
+      "numero": 30,
+      "titulo": "Yu-Gi-Oh! 5D's - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aed8c38949e3efc60bb86697f5c07c98.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/30/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12887,
+      "numero": 31,
+      "titulo": "Yu-Gi-Oh! 5D's - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4738aad4137d4c3d49b67e8d4e2db4c5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/31/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12888,
+      "numero": 32,
+      "titulo": "Yu-Gi-Oh! 5D's - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4853deb8a06838c502fc6cb6ce91f704.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/32/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12889,
+      "numero": 33,
+      "titulo": "Yu-Gi-Oh! 5D's - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b458201027eb55a7a6dcb41b0af61993.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/33/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12890,
+      "numero": 34,
+      "titulo": "Yu-Gi-Oh! 5D's - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_806379e230b4283d02e676e99f730621.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/34/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12891,
+      "numero": 35,
+      "titulo": "Yu-Gi-Oh! 5D's - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_324ceee24a671ea9383a804c12866b49.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/35/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12892,
+      "numero": 36,
+      "titulo": "Yu-Gi-Oh! 5D's - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a56af13f4c4a6a4ed77f24e59794cf39.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/36/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12893,
+      "numero": 37,
+      "titulo": "Yu-Gi-Oh! 5D's - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4d2f2d6500412c8a6da7c426bbc7e69.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/37/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12894,
+      "numero": 38,
+      "titulo": "Yu-Gi-Oh! 5D's - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5eed2924bb4dd16357ee68f6c160befa.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/38/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12895,
+      "numero": 39,
+      "titulo": "Yu-Gi-Oh! 5D's - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e85f439bc16dc2341eb5957a1e9c2f5f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/39/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12896,
+      "numero": 40,
+      "titulo": "Yu-Gi-Oh! 5D's - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd8d8aaed497d204a9c3a92e55e4aeab.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/40/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12897,
+      "numero": 41,
+      "titulo": "Yu-Gi-Oh! 5D's - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f61b215f9d7ee27ff88b8de694fee22e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/41/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12898,
+      "numero": 42,
+      "titulo": "Yu-Gi-Oh! 5D's - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0eeee4beb285c6046d12de9cb4033d5d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/42/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12899,
+      "numero": 43,
+      "titulo": "Yu-Gi-Oh! 5D's - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a67210a0de5d667351146650318c2a2e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/43/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12900,
+      "numero": 44,
+      "titulo": "Yu-Gi-Oh! 5D's - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09ea221d3db11df1f369094ffb4bda7c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/44/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12901,
+      "numero": 45,
+      "titulo": "Yu-Gi-Oh! 5D's - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_570ad3934c8f0b03f70f9481e7bd8b13.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/45/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12902,
+      "numero": 46,
+      "titulo": "Yu-Gi-Oh! 5D's - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_469410db93f46bc8d2eb3a0b9717d326.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/46/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12903,
+      "numero": 47,
+      "titulo": "Yu-Gi-Oh! 5D's - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_786e3e9f1f618f5e6dcdef631286543a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/47/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12904,
+      "numero": 48,
+      "titulo": "Yu-Gi-Oh! 5D's - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef0e27f5a8bf73583a680da7f20ef5e9.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/48/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12905,
+      "numero": 49,
+      "titulo": "Yu-Gi-Oh! 5D's - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d3350e2519bca2aa09823ebbfd3d5ed.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/49/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12906,
+      "numero": 50,
+      "titulo": "Yu-Gi-Oh! 5D's - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6445ba9df3c5462884f5c510426474ff.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/50/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12907,
+      "numero": 51,
+      "titulo": "Yu-Gi-Oh! 5D's - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_867c51ec0949a1a888b8ddd7ccd77ca8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/51/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12908,
+      "numero": 52,
+      "titulo": "Yu-Gi-Oh! 5D's - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b53b8bcccc2850c4f7bc651343e63dc0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/52/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12909,
+      "numero": 53,
+      "titulo": "Yu-Gi-Oh! 5D's - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f194ca6b8132aaa26558b309fa044e01.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/53/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12910,
+      "numero": 54,
+      "titulo": "Yu-Gi-Oh! 5D's - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e82a7c661e834d935311ae02bdb4314c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/54/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12911,
+      "numero": 55,
+      "titulo": "Yu-Gi-Oh! 5D's - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_136aa7fe7fd745073fec3fb4ef67e3b9.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/55/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12912,
+      "numero": 56,
+      "titulo": "Yu-Gi-Oh! 5D's - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7ccbd117813eee6060129d6f8c76ecb.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/56/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12913,
+      "numero": 57,
+      "titulo": "Yu-Gi-Oh! 5D's - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_40cb9f2ff30f26a410c5af6b22b7b80b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/57/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12914,
+      "numero": 58,
+      "titulo": "Yu-Gi-Oh! 5D's - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e58be547528b4bf803f45ac3f9a8fabb.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/58/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12915,
+      "numero": 59,
+      "titulo": "Yu-Gi-Oh! 5D's - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d27e5960861702b7374d981449e2649.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/59/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12916,
+      "numero": 60,
+      "titulo": "Yu-Gi-Oh! 5D's - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47382215d49d656d1dc0d8f008f566c5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/60/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12917,
+      "numero": 61,
+      "titulo": "Yu-Gi-Oh! 5D's - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa93ac46951909a7575d591bc4d85ce6.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/61/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12918,
+      "numero": 62,
+      "titulo": "Yu-Gi-Oh! 5D's - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52c031e023c8a03f30f57246f9c3d4f9.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/62/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12919,
+      "numero": 63,
+      "titulo": "Yu-Gi-Oh! 5D's - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44788404a9a7eee60c80ad849e3efb7b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/63/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12920,
+      "numero": 64,
+      "titulo": "Yu-Gi-Oh! 5D's - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59727fa212140da7999b9e659b3196aa.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/64/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12921,
+      "numero": 65,
+      "titulo": "Yu-Gi-Oh! 5D's - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b0ee8b71cee482463da696285a4def0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/65/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12922,
+      "numero": 66,
+      "titulo": "Yu-Gi-Oh! 5D's - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be590ce170386babcf557b982eee50b4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/66/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12923,
+      "numero": 67,
+      "titulo": "Yu-Gi-Oh! 5D's - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb45343c4635769a36c5072e04b6b978.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/67/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12924,
+      "numero": 68,
+      "titulo": "Yu-Gi-Oh! 5D's - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fae034d20a4c0184e93c2c5594a934c4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/68/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12925,
+      "numero": 69,
+      "titulo": "Yu-Gi-Oh! 5D's - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2682c2ed6193e284aef8107b2e62a4e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/69/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12926,
+      "numero": 70,
+      "titulo": "Yu-Gi-Oh! 5D's - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5280e06d32aafdfebb9d93393c92d23.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/70/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12927,
+      "numero": 71,
+      "titulo": "Yu-Gi-Oh! 5D's - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e44a045fd42b7e450f0554f33df0b073.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/71/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12928,
+      "numero": 72,
+      "titulo": "Yu-Gi-Oh! 5D's - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_659b8b9a4b3f4e16256d0c3e74edf1b5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/72/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12929,
+      "numero": 73,
+      "titulo": "Yu-Gi-Oh! 5D's - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ac2e9dc0810e7a46d37c8070285c9ef.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/73/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12930,
+      "numero": 74,
+      "titulo": "Yu-Gi-Oh! 5D's - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f072c02ed22738d28a2d25004b7ecabf.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/74/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12931,
+      "numero": 75,
+      "titulo": "Yu-Gi-Oh! 5D's - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4c074c60c57087c95fd0a17f986210c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/75/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12932,
+      "numero": 76,
+      "titulo": "Yu-Gi-Oh! 5D's - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41884c79b3339f66e8b7e121f785d641.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/76/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12933,
+      "numero": 77,
+      "titulo": "Yu-Gi-Oh! 5D's - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad92350e4633462fd6eb5956da8876f2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/77/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12934,
+      "numero": 78,
+      "titulo": "Yu-Gi-Oh! 5D's - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32ce3337fc6684b636381084d6932695.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/78/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12935,
+      "numero": 79,
+      "titulo": "Yu-Gi-Oh! 5D's - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8f1cc280396d04dd0da7a20529a0315.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/79/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12936,
+      "numero": 80,
+      "titulo": "Yu-Gi-Oh! 5D's - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8c1aae00ee0d4aa84acc071d563df92.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/80/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12937,
+      "numero": 81,
+      "titulo": "Yu-Gi-Oh! 5D's - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_577bacbdbbb574034730d06aa6ab049c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/81/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12938,
+      "numero": 82,
+      "titulo": "Yu-Gi-Oh! 5D's - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5de6f7a36339ef5bedc3dc8741a1e222.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/82/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12939,
+      "numero": 83,
+      "titulo": "Yu-Gi-Oh! 5D's - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_350035841e1182bf4389c52752d8bd0d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/83/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12940,
+      "numero": 84,
+      "titulo": "Yu-Gi-Oh! 5D's - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1db5ee8a6bccccb7e72c7951abcde46.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/84/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12941,
+      "numero": 85,
+      "titulo": "Yu-Gi-Oh! 5D's - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e833aecdce1507964e8c9d3f72f86829.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/85/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12942,
+      "numero": 86,
+      "titulo": "Yu-Gi-Oh! 5D's - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d2583b317ce1bd4962cec8605c5676a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/86/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12943,
+      "numero": 87,
+      "titulo": "Yu-Gi-Oh! 5D's - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aba5d6a59e6e1d77c270efd80b65ab54.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/87/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12944,
+      "numero": 88,
+      "titulo": "Yu-Gi-Oh! 5D's - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8dff42bf16b4df68b84507b5d12b9f0e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/88/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12945,
+      "numero": 89,
+      "titulo": "Yu-Gi-Oh! 5D's - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2d34fcd37e85f9867708bf71782cda6.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/89/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12946,
+      "numero": 90,
+      "titulo": "Yu-Gi-Oh! 5D's - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ddbcfc5780466b4939637df65b65c3d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/90/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12947,
+      "numero": 91,
+      "titulo": "Yu-Gi-Oh! 5D's - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16ad66b2d7d7eda19f34e2f6197e2236.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/91/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12948,
+      "numero": 92,
+      "titulo": "Yu-Gi-Oh! 5D's - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24322cab50d699df38e74ee891f86f77.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/92/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12949,
+      "numero": 93,
+      "titulo": "Yu-Gi-Oh! 5D's - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_420c841038c492fed4d19999a813009d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/93/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12950,
+      "numero": 94,
+      "titulo": "Yu-Gi-Oh! 5D's - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15e69232b3bfbcce60261950230e734b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/94/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12951,
+      "numero": 95,
+      "titulo": "Yu-Gi-Oh! 5D's - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e62ca0e35314ff421d335f15170775e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/95/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12952,
+      "numero": 96,
+      "titulo": "Yu-Gi-Oh! 5D's - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1eb93307694834407e339c29b71fa727.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/96/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12953,
+      "numero": 97,
+      "titulo": "Yu-Gi-Oh! 5D's - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0baa10f95ef302bf877f1f11e8ffef58.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/97/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12954,
+      "numero": 98,
+      "titulo": "Yu-Gi-Oh! 5D's - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab96c631d50e81c5f961bcbf25e49475.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/98/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12955,
+      "numero": 99,
+      "titulo": "Yu-Gi-Oh! 5D's - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61cb6463141119abd41762825ad4f9cd.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/99/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12956,
+      "numero": 100,
+      "titulo": "Yu-Gi-Oh! 5D's - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_066999ed9322bd434f20ad5ec4dd6b48.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/100/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12957,
+      "numero": 101,
+      "titulo": "Yu-Gi-Oh! 5D's - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e0251b8f27dd86e04c9049a1eeda4a3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/101/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12958,
+      "numero": 102,
+      "titulo": "Yu-Gi-Oh! 5D's - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3779a48ccf8e469f915ffdbc55f6e2e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/102/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12959,
+      "numero": 103,
+      "titulo": "Yu-Gi-Oh! 5D's - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_006bfae3a90bab38e29382170867e962.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/103/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12960,
+      "numero": 104,
+      "titulo": "Yu-Gi-Oh! 5D's - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_657538ca3ad286a7b345fb515d41e14b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/104/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12961,
+      "numero": 105,
+      "titulo": "Yu-Gi-Oh! 5D's - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4830891d089fc2c90e9fd352fd77dad6.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/105/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12962,
+      "numero": 106,
+      "titulo": "Yu-Gi-Oh! 5D's - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0164681a5e7cab55bfaa89e9c524c9f0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/106/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12963,
+      "numero": 107,
+      "titulo": "Yu-Gi-Oh! 5D's - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ad124e01f97c4cf812b49a875fc0965.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/107/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12964,
+      "numero": 108,
+      "titulo": "Yu-Gi-Oh! 5D's - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_412bb949b10ebe6b9fe743385388f3cb.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/108/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12965,
+      "numero": 109,
+      "titulo": "Yu-Gi-Oh! 5D's - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0410c653460d525550e95c900d6b644.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/109/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12966,
+      "numero": 110,
+      "titulo": "Yu-Gi-Oh! 5D's - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fd31a77f882ecb871a3f0fb44e1a4d0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/110/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12967,
+      "numero": 111,
+      "titulo": "Yu-Gi-Oh! 5D's - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e2474f1e2b6e1e2a6985974062b664c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/111/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12968,
+      "numero": 112,
+      "titulo": "Yu-Gi-Oh! 5D's - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78c784cf4f1360d2c590de5146e67b4c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/112/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12969,
+      "numero": 113,
+      "titulo": "Yu-Gi-Oh! 5D's - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cbb466a35d3bb7304ea43cd687929f0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/113/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12970,
+      "numero": 114,
+      "titulo": "Yu-Gi-Oh! 5D's - 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1d3a8fba2c3b1a07da18922ec3d5664.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/114/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12971,
+      "numero": 115,
+      "titulo": "Yu-Gi-Oh! 5D's - 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bb9852b78e55603158ed65149db7dd6.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/115/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12972,
+      "numero": 116,
+      "titulo": "Yu-Gi-Oh! 5D's - 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1f22f4c38899f51f1ed3ce20120bbd9.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/116/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12973,
+      "numero": 117,
+      "titulo": "Yu-Gi-Oh! 5D's - 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fbd11aeadd719c8cf9c6d501b854755.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/117/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12974,
+      "numero": 118,
+      "titulo": "Yu-Gi-Oh! 5D's - 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_293643def1ba1161bcdcfbfe434ab76d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/118/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12975,
+      "numero": 119,
+      "titulo": "Yu-Gi-Oh! 5D's - 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b63d1d64de8f499eadb49b53aa90964.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/119/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12976,
+      "numero": 120,
+      "titulo": "Yu-Gi-Oh! 5D's - 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e36742b377be90ffbf553692153d9a1.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/120/",
+      "publicado_en_origen": "2011-10-23 11:42:57"
+    },
+    {
+      "id_origen": 12977,
+      "numero": 121,
+      "titulo": "Yu-Gi-Oh! 5Ds - 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_001b8e3cf76f4e64cbe5be9882db4aa0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/121/",
+      "publicado_en_origen": "2011-10-23 11:53:45"
+    },
+    {
+      "id_origen": 12978,
+      "numero": 122,
+      "titulo": "Yu-Gi-Oh! 5Ds - 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_950d4aea25553820c10d71160da80944.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/122/",
+      "publicado_en_origen": "2011-10-23 11:53:45"
+    },
+    {
+      "id_origen": 12979,
+      "numero": 123,
+      "titulo": "Yu-Gi-Oh! 5Ds - 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f542615d6c3ceb0f8bb299b1a9fe396.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/123/",
+      "publicado_en_origen": "2011-10-23 11:53:45"
+    },
+    {
+      "id_origen": 12980,
+      "numero": 124,
+      "titulo": "Yu-Gi-Oh! 5Ds - 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34470a05eb3bfbee2352941dd1b94320.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/124/",
+      "publicado_en_origen": "2011-10-23 11:53:45"
+    },
+    {
+      "id_origen": 12981,
+      "numero": 125,
+      "titulo": "Yu-Gi-Oh! 5Ds - 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aaf662be6cd123f4c54c4d90d24b1373.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/125/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12982,
+      "numero": 126,
+      "titulo": "Yu-Gi-Oh! 5Ds - 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ad2e4fc29a62f8e86213a998a5675b2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/126/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12983,
+      "numero": 127,
+      "titulo": "Yu-Gi-Oh! 5Ds - 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97ef7f4a6f519343cfcc3c26a3639178.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/127/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12984,
+      "numero": 128,
+      "titulo": "Yu-Gi-Oh! 5Ds - 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce93b7b0e618ad3ba298514c691dfad1.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/128/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12985,
+      "numero": 129,
+      "titulo": "Yu-Gi-Oh! 5Ds - 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e37d41c9bf5cbd339a02696196e9a7b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/129/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12986,
+      "numero": 130,
+      "titulo": "Yu-Gi-Oh! 5Ds - 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97f58cc60361f36cb40942c5c9a9e029.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/130/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12987,
+      "numero": 131,
+      "titulo": "Yu-Gi-Oh! 5Ds - 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94f79e7c90b87514a07c47bdc5498262.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/131/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12988,
+      "numero": 132,
+      "titulo": "Yu-Gi-Oh! 5Ds - 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0622bf20c3152d6c0d4335f537707ca.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/132/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12989,
+      "numero": 133,
+      "titulo": "Yu-Gi-Oh! 5Ds - 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38d6996f11a4b0f404d4219625ca24c2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/133/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12990,
+      "numero": 134,
+      "titulo": "Yu-Gi-Oh! 5Ds - 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9c1b5bf25d49031367434c598ee9250.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/134/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12991,
+      "numero": 135,
+      "titulo": "Yu-Gi-Oh! 5Ds - 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a54289b29ceb58cb7609cc50e0dc1c8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/135/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12992,
+      "numero": 136,
+      "titulo": "Yu-Gi-Oh! 5Ds - 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec2f08ae409f4a81a531d63db671d55f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/136/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12993,
+      "numero": 137,
+      "titulo": "Yu-Gi-Oh! 5Ds - 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aba36cc3760e0b1c6a655f019a68b878.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/137/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12994,
+      "numero": 138,
+      "titulo": "Yu-Gi-Oh! 5Ds - 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d5c18e4cd078a34b4db2ac85fbc1ed0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/138/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12995,
+      "numero": 139,
+      "titulo": "Yu-Gi-Oh! 5Ds - 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9f4bcf9d56d5602c41b7ec6ab371bdc.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/139/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12996,
+      "numero": 140,
+      "titulo": "Yu-Gi-Oh! 5Ds - 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_167cacf79c851c2fb628a3706bcbc991.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/140/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12997,
+      "numero": 141,
+      "titulo": "Yu-Gi-Oh! 5Ds - 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac5145d76cd82e2fb875e94ba0c5b4b4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/141/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12998,
+      "numero": 142,
+      "titulo": "Yu-Gi-Oh! 5Ds - 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d806dddbe08d7bec369ecdfdd6f7cbf.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/142/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 12999,
+      "numero": 143,
+      "titulo": "Yu-Gi-Oh! 5Ds - 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ff7b03aaa6645dd2263c569d0ff7f54.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/143/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 13000,
+      "numero": 144,
+      "titulo": "Yu-Gi-Oh! 5Ds - 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7bc77c261dc56714cf777b3e72cca43.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/144/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 13001,
+      "numero": 145,
+      "titulo": "Yu-Gi-Oh! 5Ds - 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0eab2dce3fc614a18251fb483e71dee.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/145/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 13002,
+      "numero": 146,
+      "titulo": "Yu-Gi-Oh! 5Ds - 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc1f1e86d49bb24cdec5c39d3f59143b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/146/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 13003,
+      "numero": 147,
+      "titulo": "Yu-Gi-Oh! 5Ds - 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7881f1e0495cfb89d108dae7db90f763.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/147/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 13004,
+      "numero": 148,
+      "titulo": "Yu-Gi-Oh! 5Ds - 148",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a62567b46de3c8efcf74bdf8317532b3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/148/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 13005,
+      "numero": 149,
+      "titulo": "Yu-Gi-Oh! 5Ds - 149",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_777faedf322f9cda62e87a9a1db76d24.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/149/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 13006,
+      "numero": 150,
+      "titulo": "Yu-Gi-Oh! 5Ds - 150",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03056aa23aa837b508c6b305aebe1e3e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/150/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 13007,
+      "numero": 151,
+      "titulo": "Yu-Gi-Oh! 5Ds - 151",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b344953b75615eb41588c6753a3899e9.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/151/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 13008,
+      "numero": 152,
+      "titulo": "Yu-Gi-Oh! 5Ds - 152",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ca90602d3acd9a8f30b8a7cac1bdbb5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/152/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 13009,
+      "numero": 153,
+      "titulo": "Yu-Gi-Oh! 5Ds - 153",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c077c0cd415753c0f5f3aa9397d739e3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/153/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    },
+    {
+      "id_origen": 13010,
+      "numero": 154,
+      "titulo": "Yu-Gi-Oh! 5Ds - 154",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76185584223b2f7b9f3a91a2f9913135.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-5d/154/",
+      "publicado_en_origen": "2011-10-23 11:53:46"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "442",
+  "cantidad_episodios_declarada": 154,
+  "detalle_extraido_en": "2026-08-26T18:53:25+00:00"
+}

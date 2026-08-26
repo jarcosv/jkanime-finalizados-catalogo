@@ -1,0 +1,53 @@
+{
+  "id_origen": 3820,
+  "slug": "cang-yuan-tu-dongning-fu-fanwai-pian",
+  "titulo": "Cang Yuan Tu: Dongning Fu Fanwai Pian",
+  "titulo_corto": "Cang Yuan Tu: Dongning Fu Fanw...",
+  "sinopsis": "Aun sin sinopsis",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/cang-yuan-tu-dongning-fu-fanwai-pian.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/cang-yuan-tu-dongning-fu-fanwai-pian/",
+  "episodios": [
+    {
+      "id_origen": 57911,
+      "numero": 1,
+      "titulo": "Cang Yuan Tu: Dongning Fu Fanwai Pian - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e49cc04509c84a21458ef317091c25af.jpg",
+      "url_origen": "https://jkanime.net/cang-yuan-tu-dongning-fu-fanwai-pian/1/",
+      "publicado_en_origen": "2024-07-13 21:47:24"
+    },
+    {
+      "id_origen": 58033,
+      "numero": 2,
+      "titulo": "Cang Yuan Tu: Dongning Fu Fanwai Pian - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5214b65559100c2c7d24b4e4587589fc.jpg",
+      "url_origen": "https://jkanime.net/cang-yuan-tu-dongning-fu-fanwai-pian/2/",
+      "publicado_en_origen": "2024-07-21 23:14:12"
+    },
+    {
+      "id_origen": 58215,
+      "numero": 3,
+      "titulo": "Cang Yuan Tu: Dongning Fu Fanwai Pian - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f4e323775e08cfb31c4ce20bf13ea67.jpg",
+      "url_origen": "https://jkanime.net/cang-yuan-tu-dongning-fu-fanwai-pian/3/",
+      "publicado_en_origen": "2024-08-04 14:42:10"
+    },
+    {
+      "id_origen": 58216,
+      "numero": 4,
+      "titulo": "Cang Yuan Tu: Dongning Fu Fanwai Pian - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36f5a700fac53b2498c198cd1e697134.jpg",
+      "url_origen": "https://jkanime.net/cang-yuan-tu-dongning-fu-fanwai-pian/4/",
+      "publicado_en_origen": "2024-08-04 14:42:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3820",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:22:35+00:00"
+}

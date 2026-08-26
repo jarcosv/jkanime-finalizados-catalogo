@@ -1,0 +1,29 @@
+{
+  "id_origen": 4866,
+  "slug": "boku-no-kokoro-no-yabai-yatsu-movie",
+  "titulo": "Boku no Kokoro no Yabai Yatsu Movie",
+  "titulo_corto": "Boku no Kokoro no Yabai Yatsu ...",
+  "sinopsis": "Una reedición de ambas temporadas del anime que incluye material inédito y que narrará la historia de Ichikawa y Yamada tras los acontecimientos de la serie de televisión.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/boku-no-kokoro-no-yabai-yatsu-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/boku-no-kokoro-no-yabai-yatsu-movie/",
+  "episodios": [
+    {
+      "id_origen": 75105,
+      "numero": 1,
+      "titulo": "Boku no Kokoro no Yabai Yatsu Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd32d15dd5b86a28b94a1f88b2e9392a.jpg",
+      "url_origen": "https://jkanime.net/boku-no-kokoro-no-yabai-yatsu-movie/1/",
+      "publicado_en_origen": "2026-07-16 03:54:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4866",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:21:06+00:00"
+}

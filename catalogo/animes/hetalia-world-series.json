@@ -1,0 +1,405 @@
+{
+  "id_origen": 1559,
+  "slug": "hetalia-world-series",
+  "titulo": "Hetalia World Series",
+  "titulo_corto": "Hetalia World Series",
+  "sinopsis": "Italia es el descendiente del glorioso Imperio Romano, cualquiera esperaría que él fuera el reflejo de su antecesor, sin embargo, es todo lo contrario. Tranquilo, torpe, cobarde, inútil, amante acérrimo de la pasta y la pizza, son cualidades que lo describen perfectamente y unidas forman una sóla palabra: \"Hetalia\" (Inútil-Italia).\n\nHetalia World Series es la tercera entrega de la famosa obra de Hidekaz Kimaruya que nos lleva a vivir la historia de una manera distinta a través de las aventuras de distintos países representados por un grupo de personajes que nos mostrarán que la historia va más allá de lo escrito en los libros.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hetalia-world-series.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hetalia-world-series/",
+  "episodios": [
+    {
+      "id_origen": 28384,
+      "numero": 1,
+      "titulo": "Hetalia World Series - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7260db1e48d63995af17ebc0390a5a3.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/1/",
+      "publicado_en_origen": "2015-06-15 21:42:23"
+    },
+    {
+      "id_origen": 28385,
+      "numero": 2,
+      "titulo": "Hetalia World Series - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_900e9a6cea0b0ddfecbfba02cc20b13f.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/2/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28386,
+      "numero": 3,
+      "titulo": "Hetalia World Series - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_140691632b8352f3c2acc83bd4314173.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/3/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28387,
+      "numero": 4,
+      "titulo": "Hetalia World Series - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6806c6ea50ea2de3df70f5451156cd06.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/4/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28388,
+      "numero": 5,
+      "titulo": "Hetalia World Series - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b59978537754917c2df87b96ac795ef2.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/5/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28389,
+      "numero": 6,
+      "titulo": "Hetalia World Series - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_054feb2acfd28eeca93f8f22e35cc6d1.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/6/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28390,
+      "numero": 7,
+      "titulo": "Hetalia World Series - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1792c408f2a894f77fbbeb5f57c210a1.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/7/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28391,
+      "numero": 8,
+      "titulo": "Hetalia World Series - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2abbb2e05e3945e87fcae7d3186a03be.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/8/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28392,
+      "numero": 9,
+      "titulo": "Hetalia World Series - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ca1097f8f6b3fab8f0ab9111af027da.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/9/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28393,
+      "numero": 10,
+      "titulo": "Hetalia World Series - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a88683c2252becfbb7cc738556f86916.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/10/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28394,
+      "numero": 11,
+      "titulo": "Hetalia World Series - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c3a966d88a80726a95c2e16e56c3997.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/11/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28395,
+      "numero": 12,
+      "titulo": "Hetalia World Series - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78b9508436357acbab1aabb76e12739f.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/12/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28396,
+      "numero": 13,
+      "titulo": "Hetalia World Series - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd347f00e873d9df93e27ecd4db31d4d.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/13/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28397,
+      "numero": 14,
+      "titulo": "Hetalia World Series - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cc6cb1360a93496260ac5b9b575f37d.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/14/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28398,
+      "numero": 15,
+      "titulo": "Hetalia World Series - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_751943b07f0b9c3540b8b533a6ca43f2.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/15/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28399,
+      "numero": 16,
+      "titulo": "Hetalia World Series - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1b11d193b9d62b13d4185fa795032af.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/16/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28400,
+      "numero": 17,
+      "titulo": "Hetalia World Series - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03fcb1b305029b58d302e2ce53be9e0f.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/17/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28401,
+      "numero": 18,
+      "titulo": "Hetalia World Series - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d3e87a73061fb3b5b2d428625f42bff.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/18/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28402,
+      "numero": 19,
+      "titulo": "Hetalia World Series - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_418234c913e9bcd6132d551c8cbdd594.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/19/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28403,
+      "numero": 20,
+      "titulo": "Hetalia World Series - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a90ab441fabcbbac21aaf1360076bd8d.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/20/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28404,
+      "numero": 21,
+      "titulo": "Hetalia World Series - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9744c8cf184ceb07cf5c2bbce1489eb3.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/21/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28405,
+      "numero": 22,
+      "titulo": "Hetalia World Series - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_252f6d4524f82b63c027def22ced5230.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/22/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28406,
+      "numero": 23,
+      "titulo": "Hetalia World Series - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69d355e07534e5c2f03bac0f464bd231.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/23/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28407,
+      "numero": 24,
+      "titulo": "Hetalia World Series - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2701537f72184bb152aa9d26a93ecca.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/24/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28408,
+      "numero": 25,
+      "titulo": "Hetalia World Series - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8d8f71dea35566f85564149a8cc8324.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/25/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28409,
+      "numero": 26,
+      "titulo": "Hetalia World Series - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da03a6389035b1470aa3d49b3ba4360c.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/26/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28410,
+      "numero": 27,
+      "titulo": "Hetalia World Series - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ba2523b7e2781fb751a6a9d79af6ebd.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/27/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28411,
+      "numero": 28,
+      "titulo": "Hetalia World Series - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f512288bb4d64bba2c024bc73646808d.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/28/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28412,
+      "numero": 29,
+      "titulo": "Hetalia World Series - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41caf35ddce1e1f80415f7e5a1dc815f.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/29/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28413,
+      "numero": 30,
+      "titulo": "Hetalia World Series - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20f3d99862a33c859c8363e50fe09a3f.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/30/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28414,
+      "numero": 31,
+      "titulo": "Hetalia World Series - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98c9832865e4ab224a1649e8e6e9a2a0.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/31/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28415,
+      "numero": 32,
+      "titulo": "Hetalia World Series - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bea41c1b949ddb068513c07855282ed9.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/32/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28416,
+      "numero": 33,
+      "titulo": "Hetalia World Series - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9989a9443ac061cf808a80bb8edb46c.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/33/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28417,
+      "numero": 34,
+      "titulo": "Hetalia World Series - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7854c8701c5da6d80d602a20133d2bf8.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/34/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28418,
+      "numero": 35,
+      "titulo": "Hetalia World Series - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_041307ce59d60269e84d75fa4c63868c.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/35/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28419,
+      "numero": 36,
+      "titulo": "Hetalia World Series - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_383b8db4df9294254ed8fe408268b7a7.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/36/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28420,
+      "numero": 37,
+      "titulo": "Hetalia World Series - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebe048f25228d088e0216147377171b2.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/37/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28421,
+      "numero": 38,
+      "titulo": "Hetalia World Series - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21e45351cbbcb790e2aa2e046405fb1f.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/38/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28422,
+      "numero": 39,
+      "titulo": "Hetalia World Series - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd33841e04a68eb44dba6e4bb7dff7f5.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/39/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28423,
+      "numero": 40,
+      "titulo": "Hetalia World Series - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0014fcb3db4c8459d26309b177005b10.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/40/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28424,
+      "numero": 41,
+      "titulo": "Hetalia World Series - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ca0c25be29a09b50ee4643351b8641b.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/41/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28425,
+      "numero": 42,
+      "titulo": "Hetalia World Series - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91983ccf17b3200975d9e3d8a09236a8.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/42/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28426,
+      "numero": 43,
+      "titulo": "Hetalia World Series - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53e97b1cebceec091322fd15e197b897.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/43/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28427,
+      "numero": 44,
+      "titulo": "Hetalia World Series - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07614251f62899912b42cf137c9b7a3e.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/44/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28428,
+      "numero": 45,
+      "titulo": "Hetalia World Series - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdf7a157d555f8ac35f2a820488c342c.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/45/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28429,
+      "numero": 46,
+      "titulo": "Hetalia World Series - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0065827f588a93273fc4573b432622cf.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/46/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28430,
+      "numero": 47,
+      "titulo": "Hetalia World Series - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f94d747fbf97bbec48a0bc22602e968.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/47/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    },
+    {
+      "id_origen": 28431,
+      "numero": 48,
+      "titulo": "Hetalia World Series - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_296d49fef1e0c5fa8da27b4e2e7d4745.jpg",
+      "url_origen": "https://jkanime.net/hetalia-world-series/48/",
+      "publicado_en_origen": "2015-06-15 21:42:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1559",
+  "cantidad_episodios_declarada": 48,
+  "detalle_extraido_en": "2026-08-26T18:30:21+00:00"
+}

@@ -1,0 +1,69 @@
+{
+  "id_origen": 715,
+  "slug": "sword-art-offline",
+  "titulo": "Sword Art Offline",
+  "titulo_corto": "Sword Art Offline",
+  "sinopsis": "Especiales de 11 min. de duración incluidos como extras en los releases de BD/DVD de Sword Art Online.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sword-art-offline.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sword-art-offline/",
+  "episodios": [
+    {
+      "id_origen": 18419,
+      "numero": 1,
+      "titulo": "Sword Art Offline - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sword-art-offline.jpg",
+      "url_origen": "https://jkanime.net/sword-art-offline/1/",
+      "publicado_en_origen": "2012-11-11 15:14:53"
+    },
+    {
+      "id_origen": 18602,
+      "numero": 2,
+      "titulo": "Sword Art Offline - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sword-art-offline.jpg",
+      "url_origen": "https://jkanime.net/sword-art-offline/2/",
+      "publicado_en_origen": "2012-12-11 17:04:47"
+    },
+    {
+      "id_origen": 19439,
+      "numero": 3,
+      "titulo": "Sword Art Offline - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sword-art-offline.jpg",
+      "url_origen": "https://jkanime.net/sword-art-offline/3/",
+      "publicado_en_origen": "2013-02-28 02:51:47"
+    },
+    {
+      "id_origen": 19440,
+      "numero": 4,
+      "titulo": "Sword Art Offline - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sword-art-offline.jpg",
+      "url_origen": "https://jkanime.net/sword-art-offline/4/",
+      "publicado_en_origen": "2013-02-28 03:15:33"
+    },
+    {
+      "id_origen": 20083,
+      "numero": 5,
+      "titulo": "Sword Art Offline - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sword-art-offline.jpg",
+      "url_origen": "https://jkanime.net/sword-art-offline/5/",
+      "publicado_en_origen": "2013-04-08 14:09:24"
+    },
+    {
+      "id_origen": 21186,
+      "numero": 6,
+      "titulo": "Sword Art Offline - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sword-art-offline.jpg",
+      "url_origen": "https://jkanime.net/sword-art-offline/6/",
+      "publicado_en_origen": "2013-07-30 20:52:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "715",
+  "cantidad_episodios_declarada": 9,
+  "detalle_extraido_en": "2026-08-26T18:48:10+00:00"
+}

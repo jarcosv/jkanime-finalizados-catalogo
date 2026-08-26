@@ -1,0 +1,117 @@
+{
+  "id_origen": 3143,
+  "slug": "musashino",
+  "titulo": "Musashino!",
+  "titulo_corto": "Musashino!",
+  "sinopsis": "Secuela de Urawa no Usagi-chan.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/musashino.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/musashino/",
+  "episodios": [
+    {
+      "id_origen": 49777,
+      "numero": 1,
+      "titulo": "Musashino! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c069c01bcf4273c577dad489951e8f20.jpg",
+      "url_origen": "https://jkanime.net/musashino/1/",
+      "publicado_en_origen": "2022-07-02 12:12:29"
+    },
+    {
+      "id_origen": 49846,
+      "numero": 2,
+      "titulo": "Musashino! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5178d3e7f000f6a19c8ac0f1dbecc901.jpg",
+      "url_origen": "https://jkanime.net/musashino/2/",
+      "publicado_en_origen": "2022-07-11 12:12:29"
+    },
+    {
+      "id_origen": 49882,
+      "numero": 3,
+      "titulo": "Musashino! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b91f5772832db11df76a223ea63008e.jpg",
+      "url_origen": "https://jkanime.net/musashino/3/",
+      "publicado_en_origen": "2022-07-16 13:49:37"
+    },
+    {
+      "id_origen": 49937,
+      "numero": 4,
+      "titulo": "Musashino! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a00728dd0e051187ac69f3951c5afa2.jpg",
+      "url_origen": "https://jkanime.net/musashino/4/",
+      "publicado_en_origen": "2022-07-23 12:18:54"
+    },
+    {
+      "id_origen": 49990,
+      "numero": 5,
+      "titulo": "Musashino! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f92b4c1a565993694e2229baf339ccb1.jpg",
+      "url_origen": "https://jkanime.net/musashino/5/",
+      "publicado_en_origen": "2022-07-30 11:50:57"
+    },
+    {
+      "id_origen": 50061,
+      "numero": 6,
+      "titulo": "Musashino! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4c4a9037aaacd554c252418b0f6bcd4.jpg",
+      "url_origen": "https://jkanime.net/musashino/6/",
+      "publicado_en_origen": "2022-08-06 12:39:11"
+    },
+    {
+      "id_origen": 50175,
+      "numero": 7,
+      "titulo": "Musashino! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c574a8c878699d54acc1df8180af1d7b.jpg",
+      "url_origen": "https://jkanime.net/musashino/7/",
+      "publicado_en_origen": "2022-08-13 11:52:52"
+    },
+    {
+      "id_origen": 50239,
+      "numero": 8,
+      "titulo": "Musashino! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1cc6abfacf4f557a1b7d9bd23961391d.jpg",
+      "url_origen": "https://jkanime.net/musashino/8/",
+      "publicado_en_origen": "2022-08-20 11:39:51"
+    },
+    {
+      "id_origen": 50353,
+      "numero": 9,
+      "titulo": "Musashino! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca11c26ce2ee0c9526a185e7c6853a4d.jpg",
+      "url_origen": "https://jkanime.net/musashino/9/",
+      "publicado_en_origen": "2022-08-27 11:45:03"
+    },
+    {
+      "id_origen": 50423,
+      "numero": 10,
+      "titulo": "Musashino! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23565667c11b3e56aa1b0afda0abdceb.jpg",
+      "url_origen": "https://jkanime.net/musashino/10/",
+      "publicado_en_origen": "2022-09-03 12:47:55"
+    },
+    {
+      "id_origen": 50517,
+      "numero": 11,
+      "titulo": "Musashino! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7923dedffb3ef084bf68aafbd67f982f.jpg",
+      "url_origen": "https://jkanime.net/musashino/11/",
+      "publicado_en_origen": "2022-09-10 11:33:46"
+    },
+    {
+      "id_origen": 50574,
+      "numero": 12,
+      "titulo": "Musashino! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_625c5f0d5b19a50586650e6fc478e3e9.jpg",
+      "url_origen": "https://jkanime.net/musashino/12/",
+      "publicado_en_origen": "2022-09-17 12:03:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3143",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:39:22+00:00"
+}

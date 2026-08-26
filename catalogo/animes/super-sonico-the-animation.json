@@ -1,0 +1,117 @@
+{
+  "id_origen": 1024,
+  "slug": "super-sonico-the-animation",
+  "titulo": "Super Sonico The Animation",
+  "titulo_corto": "Super Sonico The Animation",
+  "sinopsis": "Super Sonico es una universitaria que compagina sus estudios con su carrera en el mundo de la moda y la música, siendo la guitarrista y vocalista del grupo “Daiichi Uchû Sokudo”.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/super-sonico-the-animation.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/super-sonico-the-animation/",
+  "episodios": [
+    {
+      "id_origen": 22373,
+      "numero": 1,
+      "titulo": "Super Sonico The Animation - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f67204d4ca3474c58368df9fb5f0f6bc.jpg",
+      "url_origen": "https://jkanime.net/super-sonico-the-animation/1/",
+      "publicado_en_origen": "2014-01-06 13:08:02"
+    },
+    {
+      "id_origen": 22429,
+      "numero": 2,
+      "titulo": "Super Sonico The Animation - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5bb37ccd660045a83ee860888899102.jpg",
+      "url_origen": "https://jkanime.net/super-sonico-the-animation/2/",
+      "publicado_en_origen": "2014-01-13 13:35:17"
+    },
+    {
+      "id_origen": 22488,
+      "numero": 3,
+      "titulo": "Super Sonico The Animation - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd06a90b7fbe27046d58f83f899560b0.jpg",
+      "url_origen": "https://jkanime.net/super-sonico-the-animation/3/",
+      "publicado_en_origen": "2014-01-20 13:08:07"
+    },
+    {
+      "id_origen": 22545,
+      "numero": 4,
+      "titulo": "Super Sonico The Animation - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8fa7fd38331444b05aa54244bd029b1.jpg",
+      "url_origen": "https://jkanime.net/super-sonico-the-animation/4/",
+      "publicado_en_origen": "2014-01-27 13:09:24"
+    },
+    {
+      "id_origen": 22606,
+      "numero": 5,
+      "titulo": "Super Sonico The Animation - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b767062d418441a0529d80c7ec7f820c.jpg",
+      "url_origen": "https://jkanime.net/super-sonico-the-animation/5/",
+      "publicado_en_origen": "2014-02-03 13:20:48"
+    },
+    {
+      "id_origen": 22673,
+      "numero": 6,
+      "titulo": "Super Sonico The Animation - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb03c49012a597f2dcd23bc978567b71.jpg",
+      "url_origen": "https://jkanime.net/super-sonico-the-animation/6/",
+      "publicado_en_origen": "2014-02-10 13:33:16"
+    },
+    {
+      "id_origen": 22731,
+      "numero": 7,
+      "titulo": "Super Sonico The Animation - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_366b675075d5c85cffe2531073afbb5c.jpg",
+      "url_origen": "https://jkanime.net/super-sonico-the-animation/7/",
+      "publicado_en_origen": "2014-02-17 13:06:39"
+    },
+    {
+      "id_origen": 22796,
+      "numero": 8,
+      "titulo": "Super Sonico The Animation - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6475c86edecfca8facb9f54b3b7ecac9.jpg",
+      "url_origen": "https://jkanime.net/super-sonico-the-animation/8/",
+      "publicado_en_origen": "2014-02-24 13:13:24"
+    },
+    {
+      "id_origen": 22857,
+      "numero": 9,
+      "titulo": "Super Sonico The Animation - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a74e18755ac9197a540cecc5b0256935.jpg",
+      "url_origen": "https://jkanime.net/super-sonico-the-animation/9/",
+      "publicado_en_origen": "2014-03-03 13:06:01"
+    },
+    {
+      "id_origen": 22923,
+      "numero": 10,
+      "titulo": "Super Sonico The Animation - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94944b200934137ce827029c962b3e0f.jpg",
+      "url_origen": "https://jkanime.net/super-sonico-the-animation/10/",
+      "publicado_en_origen": "2014-03-10 12:06:04"
+    },
+    {
+      "id_origen": 22984,
+      "numero": 11,
+      "titulo": "Super Sonico The Animation - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c38788aaa2b9bed83ca8226d9c4cc768.jpg",
+      "url_origen": "https://jkanime.net/super-sonico-the-animation/11/",
+      "publicado_en_origen": "2014-03-17 12:09:15"
+    },
+    {
+      "id_origen": 23061,
+      "numero": 12,
+      "titulo": "Super Sonico The Animation - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_186b9c4e15d0dfece1765c0a5cfb8e33.jpg",
+      "url_origen": "https://jkanime.net/super-sonico-the-animation/12/",
+      "publicado_en_origen": "2014-03-24 12:07:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:57+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1024",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:48:07+00:00"
+}

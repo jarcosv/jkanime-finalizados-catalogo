@@ -1,0 +1,29 @@
+{
+  "id_origen": 845,
+  "slug": "evangelion-3-33-you-can-not-redo",
+  "titulo": "Evangelion: 3.33 You Can (Not) Redo",
+  "titulo_corto": "Evangelion: 3.33 You Can (Not)...",
+  "sinopsis": "La historia empieza 14 años después del Casi Tercer Impacto, el gobierno japonés decide desmantelar NERV y arrestar a su personal, durante los 14 años varios miembros de NERV obtienen su libertad y deciden formar una organización llamada WILL-E cuyo supuesto propósito es limpiar los mares, en realidad tratan de detener los planes de la nueva NERV. Ikari Shinji se despierta y ve lo que él provocó, tratando de arreglarlo, sin darse cuenta de lo que provocaría.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/evangelion-3-33-you-can-not-redo.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/evangelion-3-33-you-can-not-redo/",
+  "episodios": [
+    {
+      "id_origen": 20360,
+      "numero": 1,
+      "titulo": "Evangelion: 3.33 You Can (Not) Redo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e5cc5258c6fe155a7fd1c520f0af756.jpg",
+      "url_origen": "https://jkanime.net/evangelion-3-33-you-can-not-redo/1/",
+      "publicado_en_origen": "2013-04-24 00:05:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:06+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "845",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:28+00:00"
+}

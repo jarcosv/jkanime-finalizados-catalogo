@@ -1,0 +1,29 @@
+{
+  "id_origen": 2700,
+  "slug": "goblin-slayer-goblins-crown",
+  "titulo": "Goblin Slayer: Goblin's Crown",
+  "titulo_corto": "Goblin Slayer: Goblin's Crown",
+  "sinopsis": "Pelicula de Goblin Slayer",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/goblin-slayer-goblins-crown.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/goblin-slayer-goblins-crown/",
+  "episodios": [
+    {
+      "id_origen": 43223,
+      "numero": 1,
+      "titulo": "Goblin Slayer: Goblin's Crown",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc15433f32b2e408dcf5f338935402af.jpg",
+      "url_origen": "https://jkanime.net/goblin-slayer-goblins-crown/1/",
+      "publicado_en_origen": "2020-07-29 00:32:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2700",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:28:45+00:00"
+}

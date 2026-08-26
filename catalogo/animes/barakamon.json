@@ -1,0 +1,117 @@
+{
+  "id_origen": 1191,
+  "slug": "barakamon",
+  "titulo": "Barakamon",
+  "titulo_corto": "Barakamon",
+  "sinopsis": "La historia se centra en la vida de Seishuu Handa, un calígrafo de 23 años de edad, quien se muda a la remota Isla Goto.En dicha isla nuestro protagonista se relacionara con la gente que habita en dicho lugar, con costumbres muy diferentes a la que conoce (ya que toda su vida había vivido en la ciudad).",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/barakamon.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/barakamon/",
+  "episodios": [
+    {
+      "id_origen": 23889,
+      "numero": 1,
+      "titulo": "Barakamon - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b12688a94782845c2280d07eff3673b3.jpg",
+      "url_origen": "https://jkanime.net/barakamon/1/",
+      "publicado_en_origen": "2014-07-05 16:07:54"
+    },
+    {
+      "id_origen": 23971,
+      "numero": 2,
+      "titulo": "Barakamon - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3fe63d904ee975a2297184b62c6ae60.jpg",
+      "url_origen": "https://jkanime.net/barakamon/2/",
+      "publicado_en_origen": "2014-07-12 15:12:51"
+    },
+    {
+      "id_origen": 24038,
+      "numero": 3,
+      "titulo": "Barakamon - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_baf24e5f9fc18cf58172d1ba745f0f7a.jpg",
+      "url_origen": "https://jkanime.net/barakamon/3/",
+      "publicado_en_origen": "2014-07-19 16:06:09"
+    },
+    {
+      "id_origen": 24101,
+      "numero": 4,
+      "titulo": "Barakamon - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74031546be2db65f0705bea4b1c0654b.jpg",
+      "url_origen": "https://jkanime.net/barakamon/4/",
+      "publicado_en_origen": "2014-07-26 15:18:47"
+    },
+    {
+      "id_origen": 24167,
+      "numero": 5,
+      "titulo": "Barakamon - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2661df8764c1c5f784dd9a03ccf419ea.jpg",
+      "url_origen": "https://jkanime.net/barakamon/5/",
+      "publicado_en_origen": "2014-08-02 14:16:45"
+    },
+    {
+      "id_origen": 24257,
+      "numero": 6,
+      "titulo": "Barakamon - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13ac6fa08d39e7879e9962ffdabe7502.jpg",
+      "url_origen": "https://jkanime.net/barakamon/6/",
+      "publicado_en_origen": "2014-08-09 14:18:07"
+    },
+    {
+      "id_origen": 24452,
+      "numero": 7,
+      "titulo": "Barakamon - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a662c4cd8df28eeda49c30da8bcb92c.jpg",
+      "url_origen": "https://jkanime.net/barakamon/7/",
+      "publicado_en_origen": "2014-08-16 16:22:59"
+    },
+    {
+      "id_origen": 24521,
+      "numero": 8,
+      "titulo": "Barakamon - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecab3a41264bb6ecc6a0ba7faec476fb.jpg",
+      "url_origen": "https://jkanime.net/barakamon/8/",
+      "publicado_en_origen": "2014-08-23 16:05:19"
+    },
+    {
+      "id_origen": 24662,
+      "numero": 9,
+      "titulo": "Barakamon - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eab4f7ba2d678729fc5d205b33bceedd.jpg",
+      "url_origen": "https://jkanime.net/barakamon/9/",
+      "publicado_en_origen": "2014-09-06 14:10:24"
+    },
+    {
+      "id_origen": 24756,
+      "numero": 10,
+      "titulo": "Barakamon - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ca59fd9c3117f138e722e13597f2b0b.jpg",
+      "url_origen": "https://jkanime.net/barakamon/10/",
+      "publicado_en_origen": "2014-09-13 14:07:28"
+    },
+    {
+      "id_origen": 24818,
+      "numero": 11,
+      "titulo": "Barakamon - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9511037d3a058e1fc0b56e0d86f8ffe.jpg",
+      "url_origen": "https://jkanime.net/barakamon/11/",
+      "publicado_en_origen": "2014-09-20 14:12:31"
+    },
+    {
+      "id_origen": 24931,
+      "numero": 12,
+      "titulo": "Barakamon - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_474e406fc68c5e3f0bce9a7206cdef5e.jpg",
+      "url_origen": "https://jkanime.net/barakamon/12/",
+      "publicado_en_origen": "2014-09-27 15:26:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1191",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:19:10+00:00"
+}

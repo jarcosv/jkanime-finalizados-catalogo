@@ -1,0 +1,101 @@
+{
+  "id_origen": 3300,
+  "slug": "hikari-no-ou",
+  "titulo": "Hikari no Ou",
+  "titulo_corto": "Hikari no Ou",
+  "sinopsis": "La humanidad ha perdido la última guerra, y vive sumida en un bosque oscuro y con un patógeno que hace que estallen en llamas cuando estén cerca de un fuego de causa natural. La única forma segura de encontrar el elemento, es usando las bestias llamadas Espíritus de Llamas, que se encuentran en lo más profundo del bosque. Así se crea el trabajo de \"cazador de fuego\", y se crea el rumor de un \"Rey de los cazadores\", un hombre que fue capaz de adquirir un cometa que puede producir fuego natural. La historia se centra en una joven pueblerina llamada Touko y Koushi, un estudiante de la capital. Su encuentro cambiará el destino de la humanidad.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hikari-no-ou.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hikari-no-ou/",
+  "episodios": [
+    {
+      "id_origen": 51577,
+      "numero": 1,
+      "titulo": "Hikari no Ou - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_739e595c58d53b4e227d3bf7a23fbdd4.jpg",
+      "url_origen": "https://jkanime.net/hikari-no-ou/1/",
+      "publicado_en_origen": "2023-01-14 11:52:26"
+    },
+    {
+      "id_origen": 51655,
+      "numero": 2,
+      "titulo": "Hikari no Ou - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fe9ea0bcfb824c8acb7a32ee8fccda8.jpg",
+      "url_origen": "https://jkanime.net/hikari-no-ou/2/",
+      "publicado_en_origen": "2023-01-21 19:22:14"
+    },
+    {
+      "id_origen": 51720,
+      "numero": 3,
+      "titulo": "Hikari no Ou - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70a501a9c7e73b2b37765aa36747b424.jpg",
+      "url_origen": "https://jkanime.net/hikari-no-ou/3/",
+      "publicado_en_origen": "2023-01-28 12:31:38"
+    },
+    {
+      "id_origen": 51789,
+      "numero": 4,
+      "titulo": "Hikari no Ou - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1d0d22cec0bdd5cfb66532d4a1723bb.jpg",
+      "url_origen": "https://jkanime.net/hikari-no-ou/4/",
+      "publicado_en_origen": "2023-02-04 12:39:38"
+    },
+    {
+      "id_origen": 51856,
+      "numero": 5,
+      "titulo": "Hikari no Ou - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49fcdd5d18014796d5e19f18750db076.jpg",
+      "url_origen": "https://jkanime.net/hikari-no-ou/5/",
+      "publicado_en_origen": "2023-02-11 12:47:40"
+    },
+    {
+      "id_origen": 51923,
+      "numero": 6,
+      "titulo": "Hikari no Ou - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36cdc652f535ce9e691b0bed2743c1f7.jpg",
+      "url_origen": "https://jkanime.net/hikari-no-ou/6/",
+      "publicado_en_origen": "2023-02-18 11:59:46"
+    },
+    {
+      "id_origen": 51983,
+      "numero": 7,
+      "titulo": "Hikari no Ou - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_680b3f3a7ca26cae035c8e511e93d913.jpg",
+      "url_origen": "https://jkanime.net/hikari-no-ou/7/",
+      "publicado_en_origen": "2023-02-25 12:00:23"
+    },
+    {
+      "id_origen": 52043,
+      "numero": 8,
+      "titulo": "Hikari no Ou - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f516d92874392e2c21c223c92e1d6e18.jpg",
+      "url_origen": "https://jkanime.net/hikari-no-ou/8/",
+      "publicado_en_origen": "2023-03-04 12:25:18"
+    },
+    {
+      "id_origen": 52120,
+      "numero": 9,
+      "titulo": "Hikari no Ou - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77266b4b45c74fb3dc56744a9804c6e5.jpg",
+      "url_origen": "https://jkanime.net/hikari-no-ou/9/",
+      "publicado_en_origen": "2023-03-11 12:45:19"
+    },
+    {
+      "id_origen": 52182,
+      "numero": 10,
+      "titulo": "Hikari no Ou - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebd4332991f700394df998dd4dfb9db2.jpg",
+      "url_origen": "https://jkanime.net/hikari-no-ou/10/",
+      "publicado_en_origen": "2023-03-18 11:06:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3300",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:30:40+00:00"
+}

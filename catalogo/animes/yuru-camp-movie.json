@@ -1,0 +1,29 @@
+{
+  "id_origen": 3311,
+  "slug": "yuru-camp-movie",
+  "titulo": "Yuru Camp△ Movie",
+  "titulo_corto": "Yuru Camp△ Movie",
+  "sinopsis": "A medida que avanza el tiempo, Rin Shima, Nadeshiko Kagamihara y sus amigos se han convertido en adultos de pleno derecho. Ahora con carreras y responsabilidades, ya no pueden pasar sus días acampando y aventurándose libremente. Sin embargo, Chiaki Oogaki, que actualmente trabaja para la Organización de Turismo de Yamanashi, reúne al grupo cuando se le ocurre una propuesta emocionante: construir juntos un campamento para revitalizar un terreno abandonado de su lugar de origen, la prefectura de Yamanashi.\n\nMotivadas por este ambicioso proyecto, las chicas unen sus esfuerzos para crear un entorno donde las futuras generaciones puedan disfrutar de momentos únicos como lo hicieron alguna vez, mientras recuerdan los encantos de acampar de sus días de escuela secundaria.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yuru-camp-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yuru-camp-movie/",
+  "episodios": [
+    {
+      "id_origen": 51494,
+      "numero": 1,
+      "titulo": "Yuru Camp△ Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50ddbc52c4cb701f6d4f1447d7f3c939.jpg",
+      "url_origen": "https://jkanime.net/yuru-camp-movie/1/",
+      "publicado_en_origen": "2023-01-05 12:28:45"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3311",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:53:33+00:00"
+}

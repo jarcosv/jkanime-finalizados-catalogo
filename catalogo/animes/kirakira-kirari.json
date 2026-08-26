@@ -1,0 +1,29 @@
+{
+  "id_origen": 3321,
+  "slug": "kirakira-kirari",
+  "titulo": "Kirakira Kirari",
+  "titulo_corto": "Kirakira Kirari",
+  "sinopsis": "Una chica misteriosa aparece de repente ante Kirari, una tímida niña de primaria que prefiere no hacer nada más que dibujar. La chica misteriosa arrastra a Kirari al mundo exterior y dibujan varias cosas por primera vez juntas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kirakira-kirari.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kirakira-kirari/",
+  "episodios": [
+    {
+      "id_origen": 51953,
+      "numero": 1,
+      "titulo": "Kirakira Kirari",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb04bf160e6ffe6138bbd5fc3e33d691.jpg",
+      "url_origen": "https://jkanime.net/kirakira-kirari/1/",
+      "publicado_en_origen": "2023-02-20 17:14:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3321",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:35:01+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "id_origen": 3824,
+  "slug": "kimi-ni-todoke-3rd-season",
+  "titulo": "Kimi ni Todoke 3rd Season",
+  "titulo_corto": "Kimi ni Todoke 3rd Season",
+  "sinopsis": "Tercera temporada de Kimi ni Todoke.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimi-ni-todoke-3rd-season.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimi-ni-todoke-3rd-season/",
+  "episodios": [
+    {
+      "id_origen": 58164,
+      "numero": 1,
+      "titulo": "Kimi ni Todoke 3rd Season - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94fc2d83d75d07e57022aabfe84b7fe2.jpg",
+      "url_origen": "https://jkanime.net/kimi-ni-todoke-3rd-season/1/",
+      "publicado_en_origen": "2024-08-01 17:23:21"
+    },
+    {
+      "id_origen": 58165,
+      "numero": 2,
+      "titulo": "Kimi ni Todoke 3rd Season - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf4135abb1f4927932f727cb9cef2dc8.jpg",
+      "url_origen": "https://jkanime.net/kimi-ni-todoke-3rd-season/2/",
+      "publicado_en_origen": "2024-08-01 17:23:21"
+    },
+    {
+      "id_origen": 58166,
+      "numero": 3,
+      "titulo": "Kimi ni Todoke 3rd Season - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddb817e59255aae39a79f323ea2e53a4.jpg",
+      "url_origen": "https://jkanime.net/kimi-ni-todoke-3rd-season/3/",
+      "publicado_en_origen": "2024-08-01 17:23:21"
+    },
+    {
+      "id_origen": 58167,
+      "numero": 4,
+      "titulo": "Kimi ni Todoke 3rd Season - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fc5d2b1552bb78ac33a5db506d56075.jpg",
+      "url_origen": "https://jkanime.net/kimi-ni-todoke-3rd-season/4/",
+      "publicado_en_origen": "2024-08-01 17:23:21"
+    },
+    {
+      "id_origen": 58168,
+      "numero": 5,
+      "titulo": "Kimi ni Todoke 3rd Season - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4d017a403b7e4b52f741fec985d7f51.jpg",
+      "url_origen": "https://jkanime.net/kimi-ni-todoke-3rd-season/5/",
+      "publicado_en_origen": "2024-08-01 17:23:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3824",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:34:41+00:00"
+}

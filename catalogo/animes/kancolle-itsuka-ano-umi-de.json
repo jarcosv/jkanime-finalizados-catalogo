@@ -1,0 +1,85 @@
+{
+  "id_origen": 3207,
+  "slug": "kancolle-itsuka-ano-umi-de",
+  "titulo": "KanColle: Itsuka Ano Umi de",
+  "titulo_corto": "KanColle: Itsuka Ano Umi de",
+  "sinopsis": "Segunda temporada de Kantai Collection: KanColle.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kancolle-itsuka-ano-umi-de.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kancolle-itsuka-ano-umi-de/",
+  "episodios": [
+    {
+      "id_origen": 50962,
+      "numero": 1,
+      "titulo": "KanColle: Itsuka Ano Umi de - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46f7ed2dd19e4f66058c3fb633c8e048.jpg",
+      "url_origen": "https://jkanime.net/kancolle-itsuka-ano-umi-de/1/",
+      "publicado_en_origen": "2022-11-03 20:56:03"
+    },
+    {
+      "id_origen": 51030,
+      "numero": 2,
+      "titulo": "KanColle: Itsuka Ano Umi de - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eae4b49729e902517ad31123ed8296ad.jpg",
+      "url_origen": "https://jkanime.net/kancolle-itsuka-ano-umi-de/2/",
+      "publicado_en_origen": "2022-11-11 14:30:54"
+    },
+    {
+      "id_origen": 51086,
+      "numero": 3,
+      "titulo": "KanColle: Itsuka Ano Umi de - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41a610065af7525e84cd772be15b3033.jpg",
+      "url_origen": "https://jkanime.net/kancolle-itsuka-ano-umi-de/3/",
+      "publicado_en_origen": "2022-11-17 14:10:53"
+    },
+    {
+      "id_origen": 51369,
+      "numero": 4,
+      "titulo": "KanColle: Itsuka Ano Umi de - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e414240ac254934515e25643af82d28.jpg",
+      "url_origen": "https://jkanime.net/kancolle-itsuka-ano-umi-de/4/",
+      "publicado_en_origen": "2022-12-15 18:34:31"
+    },
+    {
+      "id_origen": 51425,
+      "numero": 5,
+      "titulo": "KanColle: Itsuka Ano Umi de - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a41ee0b63ae00c57567975532e570a2d.jpg",
+      "url_origen": "https://jkanime.net/kancolle-itsuka-ano-umi-de/5/",
+      "publicado_en_origen": "2022-12-23 13:47:22"
+    },
+    {
+      "id_origen": 51628,
+      "numero": 6,
+      "titulo": "KanColle: Itsuka Ano Umi de - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4563025901d25e3c3970cb77dfeb6d15.jpg",
+      "url_origen": "https://jkanime.net/kancolle-itsuka-ano-umi-de/6/",
+      "publicado_en_origen": "2023-01-19 23:42:51"
+    },
+    {
+      "id_origen": 51874,
+      "numero": 7,
+      "titulo": "KanColle: Itsuka Ano Umi de - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc061590e843b008c64886a5a7d99960.jpg",
+      "url_origen": "https://jkanime.net/kancolle-itsuka-ano-umi-de/7/",
+      "publicado_en_origen": "2023-02-12 11:25:16"
+    },
+    {
+      "id_origen": 52277,
+      "numero": 8,
+      "titulo": "KanColle: Itsuka Ano Umi de - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b6216a87e6bd6babe844092047a6f06.jpg",
+      "url_origen": "https://jkanime.net/kancolle-itsuka-ano-umi-de/8/",
+      "publicado_en_origen": "2023-03-28 09:33:16"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3207",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:33:49+00:00"
+}

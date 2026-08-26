@@ -1,0 +1,29 @@
+{
+  "id_origen": 1330,
+  "slug": "miss-monochrome-ova",
+  "titulo": "Miss Monochrome: OVA 2",
+  "titulo_corto": "Miss Monochrome: OVA 2",
+  "sinopsis": "Ova incluida con el DVD de Miss Monochrome: The Animation.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/miss-monochrome-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/miss-monochrome-ova/",
+  "episodios": [
+    {
+      "id_origen": 25227,
+      "numero": 1,
+      "titulo": "Miss Monochrome: The Animation OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/miss-monochrome-ova.jpg",
+      "url_origen": "https://jkanime.net/miss-monochrome-ova/1/",
+      "publicado_en_origen": "2014-10-28 23:00:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1330",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:38:45+00:00"
+}

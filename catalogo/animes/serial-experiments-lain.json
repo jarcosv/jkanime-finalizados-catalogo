@@ -1,0 +1,125 @@
+{
+  "id_origen": 110,
+  "slug": "serial-experiments-lain",
+  "titulo": "Serial Experiments Lain",
+  "titulo_corto": "Serial Experiments Lain",
+  "sinopsis": "Serias Experimental Lain trata sobre una chica llamada Lain Iwakura, solitaria y con problemas de comunicación, y su inserción cada vez mas profunda al Wired (internet).",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/serial-experiments-lain.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/serial-experiments-lain/",
+  "episodios": [
+    {
+      "id_origen": 2419,
+      "numero": 1,
+      "titulo": "Serial Experiments Lain 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_020bf2c45e7bb322f89a226bd2c5d41b.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/1/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2420,
+      "numero": 2,
+      "titulo": "Serial Experiments Lain 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7993e11204b215b27694b6f139e34ce8.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/2/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2421,
+      "numero": 3,
+      "titulo": "Serial Experiments Lain 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e139c454239bfde741e893edb46a06cc.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/3/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2422,
+      "numero": 4,
+      "titulo": "Serial Experiments Lain 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be1df9a5d08724971f64a511e24fc904.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/4/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2423,
+      "numero": 5,
+      "titulo": "Serial Experiments Lain 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af5d5ef24881f3c3049a7b9bfe74d58b.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/5/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2424,
+      "numero": 6,
+      "titulo": "Serial Experiments Lain 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a06d868d044c50af0cf9bc82d2fc19f.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/6/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2425,
+      "numero": 7,
+      "titulo": "Serial Experiments Lain 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f83630579d055dc5843ae693e7cdafe0.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/7/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2426,
+      "numero": 8,
+      "titulo": "Serial Experiments Lain 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c65d7bd70fe3e5e3a2f3de681edc193d.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/8/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2427,
+      "numero": 9,
+      "titulo": "Serial Experiments Lain 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2aaaddf27344ee54058548dc081c6541.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/9/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2428,
+      "numero": 10,
+      "titulo": "Serial Experiments Lain 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc0991344c3d760ae42259064406bae1.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/10/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2429,
+      "numero": 11,
+      "titulo": "Serial Experiments Lain 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9365bd906e11324065c35be476beb0c.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/11/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2430,
+      "numero": 12,
+      "titulo": "Serial Experiments Lain 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fb2a1c37b18aa4611c3949d6148d0f8.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/12/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2431,
+      "numero": 13,
+      "titulo": "Serial Experiments Lain 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbf8710b43df3f2c1553e649403426df.jpg",
+      "url_origen": "https://jkanime.net/serial-experiments-lain/13/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "110",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:45:44+00:00"
+}

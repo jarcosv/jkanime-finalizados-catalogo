@@ -1,0 +1,29 @@
+{
+  "id_origen": 621,
+  "slug": "amagami-ss-imouto",
+  "titulo": "Amagami SS: Imouto",
+  "titulo_corto": "Amagami SS: Imouto",
+  "sinopsis": "Episodio llamado \"Hermana\" y solo disponible en el volument 13 del Blu-Ray de la serie Amagami SS, valido como episodio 26 de la misma.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/amagami-ss-imouto.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/amagami-ss-imouto/",
+  "episodios": [
+    {
+      "id_origen": 16652,
+      "numero": 1,
+      "titulo": "Amagami SS: Imouto",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d9538d163f6009cec27b8e61cbdd981.jpg",
+      "url_origen": "https://jkanime.net/amagami-ss-imouto/1/",
+      "publicado_en_origen": "2012-08-22 05:37:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "621",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:16:17+00:00"
+}

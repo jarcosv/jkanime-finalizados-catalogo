@@ -1,0 +1,29 @@
+{
+  "id_origen": 3392,
+  "slug": "rain-town",
+  "titulo": "Rain Town",
+  "titulo_corto": "Rain Town",
+  "sinopsis": "Un cortometraje de animación independiente de Hiroyasu Ishida, el animador de Fumiko no Kokuhaku .\n\nEn un pequeño pueblo olvidado donde la lluvia nunca cesa, un encuentro casual entre un robot y una niña curiosa trae recuerdos y un reencuentro casual con una niña que el robot nunca ha olvidado.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rain-town.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/rain-town/",
+  "episodios": [
+    {
+      "id_origen": 52469,
+      "numero": 1,
+      "titulo": "Rain Town",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f0c8250cf24df47be5a29308dfe35fa.jpg",
+      "url_origen": "https://jkanime.net/rain-town/1/",
+      "publicado_en_origen": "2023-04-17 23:51:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3392",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:43:29+00:00"
+}

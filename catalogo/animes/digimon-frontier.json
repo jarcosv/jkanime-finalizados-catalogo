@@ -1,0 +1,421 @@
+{
+  "id_origen": 458,
+  "slug": "digimon-frontier",
+  "titulo": "Digimon Frontier",
+  "titulo_corto": "Digimon Frontier",
+  "sinopsis": "Después de recibir un mensaje en sus celular Takuya es llevado por un tren al Digiworld junto con otros 4 niños, Koji, Zoe, J.P. y Tommy, allí son guiados por Bokomon y Naemon para encontrar los digispirits que les permitirán a Takuya y sus amigos digievolucionar en los guerreros legendarios y asi enfrentar a Cherubimon",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-frontier.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/digimon-frontier/",
+  "episodios": [
+    {
+      "id_origen": 13467,
+      "numero": 1,
+      "titulo": "Digimon Frontier - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d4e7eab99697d70f46a556ec9f8f966.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/1/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13468,
+      "numero": 2,
+      "titulo": "Digimon Frontier - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef95afafde712120bb708d12b6217a9a.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/2/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13469,
+      "numero": 3,
+      "titulo": "Digimon Frontier - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61b5c68987f9713756fcddf407618e52.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/3/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13470,
+      "numero": 4,
+      "titulo": "Digimon Frontier - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ebffb73e257d1190853b416038b6d2c.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/4/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13471,
+      "numero": 5,
+      "titulo": "Digimon Frontier - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bffa67e3385cb95c2bd8c0a76d82c150.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/5/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13472,
+      "numero": 6,
+      "titulo": "Digimon Frontier - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65c1700fde3e9a94cc060a7e3777287c.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/6/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13473,
+      "numero": 7,
+      "titulo": "Digimon Frontier - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d86a283aedd01d5c7260bbcdb1e0e553.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/7/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13474,
+      "numero": 8,
+      "titulo": "Digimon Frontier - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2225c699a36afb253a69074cad850b00.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/8/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13475,
+      "numero": 9,
+      "titulo": "Digimon Frontier - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbf76dfc000a67cab7dc95b88f37475b.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/9/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13476,
+      "numero": 10,
+      "titulo": "Digimon Frontier - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_221c819fabe4a80a62e7cfb77d73a2c3.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/10/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13477,
+      "numero": 11,
+      "titulo": "Digimon Frontier - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbc50898cf582dfebd6d7adf4eaf9eb6.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/11/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13478,
+      "numero": 12,
+      "titulo": "Digimon Frontier - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90ccff101868bc666420b5a026945d3a.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/12/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13479,
+      "numero": 13,
+      "titulo": "Digimon Frontier - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0ade77b43923b38237db569b016ba25.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/13/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13480,
+      "numero": 14,
+      "titulo": "Digimon Frontier - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15134fabce1af48f50bc470ddfacdf56.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/14/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13481,
+      "numero": 15,
+      "titulo": "Digimon Frontier - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76d0863b5d13a9ed61f7df9149fb93d8.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/15/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13482,
+      "numero": 16,
+      "titulo": "Digimon Frontier - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_917fac06d4daae681dabfe964ca8c74e.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/16/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13483,
+      "numero": 17,
+      "titulo": "Digimon Frontier - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_983ae26f39a307ccb2d5e0cb5f752ee5.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/17/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13484,
+      "numero": 18,
+      "titulo": "Digimon Frontier - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f73c265c3fda8f14254bd1765916d05.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/18/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13485,
+      "numero": 19,
+      "titulo": "Digimon Frontier - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57f63d38fd5439114eaceb6b8fce4d27.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/19/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13486,
+      "numero": 20,
+      "titulo": "Digimon Frontier - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7dc07edeca4a16b2b8e0eaae142415d.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/20/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13487,
+      "numero": 21,
+      "titulo": "Digimon Frontier - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c33ef4454daf70780820e714a3fcce8f.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/21/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13488,
+      "numero": 22,
+      "titulo": "Digimon Frontier - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5a0902ee31d6265b026c53ea428d284.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/22/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13489,
+      "numero": 23,
+      "titulo": "Digimon Frontier - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a06105cf87a4a0d2b22ca218aca4783.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/23/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13490,
+      "numero": 24,
+      "titulo": "Digimon Frontier - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3685227c64f66ea8888deca4984ed442.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/24/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13491,
+      "numero": 25,
+      "titulo": "Digimon Frontier - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61940b7bc12af1ceb9b3d3754634ae3e.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/25/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13492,
+      "numero": 26,
+      "titulo": "Digimon Frontier - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_799974951f19a0c730acda2389cc852b.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/26/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13493,
+      "numero": 27,
+      "titulo": "Digimon Frontier - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75764a6c5b5f3007d5f6addf322fa7f1.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/27/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13494,
+      "numero": 28,
+      "titulo": "Digimon Frontier - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c87ee42d00306dcb6264ceda372b8a47.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/28/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13495,
+      "numero": 29,
+      "titulo": "Digimon Frontier - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b0f6f86f6e028fd9164f0ea12d17ca7.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/29/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13496,
+      "numero": 30,
+      "titulo": "Digimon Frontier - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2a4a21456fe5a4bfd3059fa3676a469.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/30/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13497,
+      "numero": 31,
+      "titulo": "Digimon Frontier - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e66aed023cb30fdc29ca488de67c02da.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/31/",
+      "publicado_en_origen": "2011-12-08 12:16:26"
+    },
+    {
+      "id_origen": 13498,
+      "numero": 32,
+      "titulo": "Digimon Frontier - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c28cccd4486efb636bd7d753ca52d487.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/32/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13499,
+      "numero": 33,
+      "titulo": "Digimon Frontier - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d230b683bf9840553ae57f4acc96e81.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/33/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13500,
+      "numero": 34,
+      "titulo": "Digimon Frontier - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_357861553d0db7307050a24ce16a8c64.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/34/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13501,
+      "numero": 35,
+      "titulo": "Digimon Frontier - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e50f835e19789b8995b9bc6f8779f4e2.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/35/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13502,
+      "numero": 36,
+      "titulo": "Digimon Frontier - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13dfe127c6d40641c7ad9fd60ef8701d.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/36/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13503,
+      "numero": 37,
+      "titulo": "Digimon Frontier - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ca973f198a5d9b68fb6cf60a53156e8.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/37/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13504,
+      "numero": 38,
+      "titulo": "Digimon Frontier - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f18374bf891c9af64c8570448824202d.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/38/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13505,
+      "numero": 39,
+      "titulo": "Digimon Frontier - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d4cc77f57f9dddf6862cb7168a08d2f.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/39/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13506,
+      "numero": 40,
+      "titulo": "Digimon Frontier - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed7ebf1d0e87774f12b2102e2cba4476.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/40/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13507,
+      "numero": 41,
+      "titulo": "Digimon Frontier - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af50a8df9bf6c87ef204851a6a1d1918.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/41/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13508,
+      "numero": 42,
+      "titulo": "Digimon Frontier - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_282b2d93c42db32b12a17752c36ee10d.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/42/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13509,
+      "numero": 43,
+      "titulo": "Digimon Frontier - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0999cebc8f4ed4eb54d5317367e9b2f.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/43/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13510,
+      "numero": 44,
+      "titulo": "Digimon Frontier - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2cc18398df2e6692fffc29a610cb72e3.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/44/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13511,
+      "numero": 45,
+      "titulo": "Digimon Frontier - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c252fa14f21be6264aa55a74246f4d1.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/45/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13512,
+      "numero": 46,
+      "titulo": "Digimon Frontier - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01788bf6c7a271a78202e93a3d90aa46.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/46/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13513,
+      "numero": 47,
+      "titulo": "Digimon Frontier - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acb797b40a9632e6a031b31100b37630.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/47/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13514,
+      "numero": 48,
+      "titulo": "Digimon Frontier - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db4a1766c395480fd973a96c6105f86e.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/48/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13515,
+      "numero": 49,
+      "titulo": "Digimon Frontier - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfb7adf7a99438807f685ad24c7dd7fd.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/49/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    },
+    {
+      "id_origen": 13516,
+      "numero": 50,
+      "titulo": "Digimon Frontier - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a7550fa14704e90f8a12992cf7499bb.jpg",
+      "url_origen": "https://jkanime.net/digimon-frontier/50/",
+      "publicado_en_origen": "2011-12-08 12:16:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "458",
+  "cantidad_episodios_declarada": 50,
+  "detalle_extraido_en": "2026-08-26T18:25:09+00:00"
+}

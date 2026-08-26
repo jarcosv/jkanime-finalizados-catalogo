@@ -1,0 +1,29 @@
+{
+  "id_origen": 1646,
+  "slug": "danchigai-special",
+  "titulo": "Danchigai OVA",
+  "titulo_corto": "Danchigai OVA",
+  "sinopsis": "Episodio especial valido como 13 de Danchigai",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/danchigai-special.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/danchigai-special/",
+  "episodios": [
+    {
+      "id_origen": 29646,
+      "numero": 1,
+      "titulo": "Danchigai OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_356cdab4ed0406224c0880771445819a.jpg",
+      "url_origen": "https://jkanime.net/danchigai-special/1/",
+      "publicado_en_origen": "2015-09-24 12:40:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1646",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:23+00:00"
+}

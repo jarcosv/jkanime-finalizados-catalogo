@@ -1,0 +1,117 @@
+{
+  "id_origen": 1214,
+  "slug": "shin-strange",
+  "titulo": "Shin Strange+",
+  "titulo_corto": "Shin Strange+",
+  "sinopsis": "Segunda Temporada de Strange+.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shin-strange.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shin-strange/",
+  "episodios": [
+    {
+      "id_origen": 23954,
+      "numero": 1,
+      "titulo": "Shin Strange+ - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_631d68dbc136873f091d6049807c09ae.jpg",
+      "url_origen": "https://jkanime.net/shin-strange/1/",
+      "publicado_en_origen": "2014-07-10 14:49:24"
+    },
+    {
+      "id_origen": 24016,
+      "numero": 2,
+      "titulo": "Shin Strange+ - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9922aa62eb4eafdcea1bf84537bd4f24.jpg",
+      "url_origen": "https://jkanime.net/shin-strange/2/",
+      "publicado_en_origen": "2014-07-17 14:31:21"
+    },
+    {
+      "id_origen": 24082,
+      "numero": 3,
+      "titulo": "Shin Strange+ - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e09baed818bb105cc3f3451d6aa93f2d.jpg",
+      "url_origen": "https://jkanime.net/shin-strange/3/",
+      "publicado_en_origen": "2014-07-24 14:31:11"
+    },
+    {
+      "id_origen": 24145,
+      "numero": 4,
+      "titulo": "Shin Strange+ - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_598a3242360f1b7afc0b59475de711f7.jpg",
+      "url_origen": "https://jkanime.net/shin-strange/4/",
+      "publicado_en_origen": "2014-07-31 13:34:42"
+    },
+    {
+      "id_origen": 24210,
+      "numero": 5,
+      "titulo": "Shin Strange+ - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e57e76cd6ebcdd544ce5dd30faa95db.jpg",
+      "url_origen": "https://jkanime.net/shin-strange/5/",
+      "publicado_en_origen": "2014-08-07 13:36:06"
+    },
+    {
+      "id_origen": 24430,
+      "numero": 6,
+      "titulo": "Shin Strange+ - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0eda8d7f3e989da400a82781def8eac.jpg",
+      "url_origen": "https://jkanime.net/shin-strange/6/",
+      "publicado_en_origen": "2014-08-14 13:34:03"
+    },
+    {
+      "id_origen": 24503,
+      "numero": 7,
+      "titulo": "Shin Strange+ - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3761fc9511350dd3285c6238ea7a9674.jpg",
+      "url_origen": "https://jkanime.net/shin-strange/7/",
+      "publicado_en_origen": "2014-08-21 13:33:46"
+    },
+    {
+      "id_origen": 24566,
+      "numero": 8,
+      "titulo": "Shin Strange+ - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe56468d0a4575b7aa9eca5f72a60ae4.jpg",
+      "url_origen": "https://jkanime.net/shin-strange/8/",
+      "publicado_en_origen": "2014-08-28 13:37:33"
+    },
+    {
+      "id_origen": 24638,
+      "numero": 9,
+      "titulo": "Shin Strange+ - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8bdd659454df000dda6721e217aaa204.jpg",
+      "url_origen": "https://jkanime.net/shin-strange/9/",
+      "publicado_en_origen": "2014-09-04 13:32:14"
+    },
+    {
+      "id_origen": 24732,
+      "numero": 10,
+      "titulo": "Shin Strange+ - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad0578a527187de255ab445a7e7fde0c.jpg",
+      "url_origen": "https://jkanime.net/shin-strange/10/",
+      "publicado_en_origen": "2014-09-11 13:34:30"
+    },
+    {
+      "id_origen": 24799,
+      "numero": 11,
+      "titulo": "Shin Strange+ - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eeba04a59c6f2f48e2e3c94b8ca43403.jpg",
+      "url_origen": "https://jkanime.net/shin-strange/11/",
+      "publicado_en_origen": "2014-09-18 13:33:07"
+    },
+    {
+      "id_origen": 24910,
+      "numero": 12,
+      "titulo": "Shin Strange+ - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ca188ea50f3fc60a66b1aeec9622089.jpg",
+      "url_origen": "https://jkanime.net/shin-strange/12/",
+      "publicado_en_origen": "2014-09-25 13:34:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1214",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:46:17+00:00"
+}

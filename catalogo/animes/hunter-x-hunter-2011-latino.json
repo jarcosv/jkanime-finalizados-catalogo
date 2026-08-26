@@ -1,0 +1,45 @@
+{
+  "id_origen": 2678,
+  "slug": "hunter-x-hunter-2011-latino",
+  "titulo": "Hunter x Hunter (2011) Latino",
+  "titulo_corto": "Hunter x Hunter (2011) Latino",
+  "sinopsis": "Doblaje \"No Oficial\" realizado por Phantom dubs......\r\nSe Suspendio la actualizacion de este anime debido a multiples quejas , Lo sentimos",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hunter-x-hunter-2011-latino.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hunter-x-hunter-2011-latino/",
+  "episodios": [
+    {
+      "id_origen": 43010,
+      "numero": 1,
+      "titulo": "Hunter x Hunter (2011) Latino - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hunter-x-hunter-2011-latino.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-2011-latino/1/",
+      "publicado_en_origen": "2020-06-09 03:07:49"
+    },
+    {
+      "id_origen": 43068,
+      "numero": 2,
+      "titulo": "Hunter x Hunter (2011) Latino - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hunter-x-hunter-2011-latino.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-2011-latino/2/",
+      "publicado_en_origen": "2020-06-21 14:34:54"
+    },
+    {
+      "id_origen": 43098,
+      "numero": 3,
+      "titulo": "Hunter x Hunter (2011) Latino - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hunter-x-hunter-2011-latino.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter-2011-latino/3/",
+      "publicado_en_origen": "2020-07-03 17:24:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:11+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2678",
+  "cantidad_episodios_declarada": 26,
+  "detalle_extraido_en": "2026-08-26T18:31:17+00:00"
+}

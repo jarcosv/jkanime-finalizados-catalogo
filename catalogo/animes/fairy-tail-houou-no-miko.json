@@ -1,0 +1,29 @@
+{
+  "id_origen": 774,
+  "slug": "fairy-tail-houou-no-miko",
+  "titulo": "Fairy Tail: Houou no Miko",
+  "titulo_corto": "Fairy Tail: Houou no Miko",
+  "sinopsis": "Una misteriosa chica llamada Éclair aparece ante Fairy Tail. Ella ha perdido todos sus recuerdos, excepto la orden de enviar dos Hōōseki (Rocas Fénix) a algún lugar. Sin embargo, las rocas podrían causar el colapso del mundo mágico.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fairy-tail-houou-no-miko.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fairy-tail-houou-no-miko/",
+  "episodios": [
+    {
+      "id_origen": 19424,
+      "numero": 1,
+      "titulo": "Fairy Tail: Houou no Miko",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6193850a9398731989b648105c75d321.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-houou-no-miko/1/",
+      "publicado_en_origen": "2013-02-25 17:20:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "774",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:26:40+00:00"
+}

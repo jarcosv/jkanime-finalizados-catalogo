@@ -1,0 +1,429 @@
+{
+  "id_origen": 441,
+  "slug": "kiba",
+  "titulo": "Kiba",
+  "titulo_corto": "Kiba",
+  "sinopsis": "El personaje principal de Kiba es Zed, un muchacho de 15 años que vive en un lugar llamado “Calm”. La situación actual de su vida lo frustra y siente que en alguna parte hacia fuera hay un lugar en donde él puede vivir más libremente. Un día, araido por un viento misterioso, Zed se zambulle en una hendidura del espacio-tiempo (portal), buscando las respuestas que pudieran estar allí. Llevado por el viento, él consigue transportarse a un mundo en guerra, en el cual libran batallas los \"Shard Caster\", usuarios mágicos que usan seres que invocan mediante esferas llamadas \"Shiftings\", con las cuales también usan spirits.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kiba.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kiba/",
+  "episodios": [
+    {
+      "id_origen": 12803,
+      "numero": 1,
+      "titulo": "Kiba - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbf514d16a56cba73809fd0b7e262436.jpg",
+      "url_origen": "https://jkanime.net/kiba/1/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12804,
+      "numero": 2,
+      "titulo": "Kiba - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07a81d45ff030b63fe2a0f375b779f09.jpg",
+      "url_origen": "https://jkanime.net/kiba/2/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12805,
+      "numero": 3,
+      "titulo": "Kiba - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b82b80956cfbe75101bd223fe6319dec.jpg",
+      "url_origen": "https://jkanime.net/kiba/3/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12806,
+      "numero": 4,
+      "titulo": "Kiba - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b984bddf9e7c8fb09854e208c0284764.jpg",
+      "url_origen": "https://jkanime.net/kiba/4/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12807,
+      "numero": 5,
+      "titulo": "Kiba - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_431cfe4bd4a84b68398e14af4be0bdc3.jpg",
+      "url_origen": "https://jkanime.net/kiba/5/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12808,
+      "numero": 6,
+      "titulo": "Kiba - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2959ced850c7261ff93292042fed7240.jpg",
+      "url_origen": "https://jkanime.net/kiba/6/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12809,
+      "numero": 7,
+      "titulo": "Kiba - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65ddf8fc40f919eba2239c13c19bead4.jpg",
+      "url_origen": "https://jkanime.net/kiba/7/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12810,
+      "numero": 8,
+      "titulo": "Kiba - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a1106fcb6c23317695f2f619988ef41.jpg",
+      "url_origen": "https://jkanime.net/kiba/8/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12811,
+      "numero": 9,
+      "titulo": "Kiba - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec26dcdc2dd4deebfc38610ebe2ef318.jpg",
+      "url_origen": "https://jkanime.net/kiba/9/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12812,
+      "numero": 10,
+      "titulo": "Kiba - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_179db74797bde5f379b623ab73ee7c64.jpg",
+      "url_origen": "https://jkanime.net/kiba/10/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12813,
+      "numero": 11,
+      "titulo": "Kiba - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8cf40e328089249cf77075692aa0c09b.jpg",
+      "url_origen": "https://jkanime.net/kiba/11/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12814,
+      "numero": 12,
+      "titulo": "Kiba - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d46e6e59cb2e09d436f89c57efa23735.jpg",
+      "url_origen": "https://jkanime.net/kiba/12/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12815,
+      "numero": 13,
+      "titulo": "Kiba - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a48de938587144be6be3b95682b5b948.jpg",
+      "url_origen": "https://jkanime.net/kiba/13/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12816,
+      "numero": 14,
+      "titulo": "Kiba - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b02706f81704f39d85fd87a2414a300.jpg",
+      "url_origen": "https://jkanime.net/kiba/14/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12817,
+      "numero": 15,
+      "titulo": "Kiba - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_410a0338f4f2038cfa92723d64c52900.jpg",
+      "url_origen": "https://jkanime.net/kiba/15/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12818,
+      "numero": 16,
+      "titulo": "Kiba - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_601040bb131db3d614d140f9cd43c242.jpg",
+      "url_origen": "https://jkanime.net/kiba/16/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12819,
+      "numero": 17,
+      "titulo": "Kiba - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b951cd08a561a4284fe7ed5a8b79496.jpg",
+      "url_origen": "https://jkanime.net/kiba/17/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12820,
+      "numero": 18,
+      "titulo": "Kiba - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4017fc196bfb479f173f387595d79e5.jpg",
+      "url_origen": "https://jkanime.net/kiba/18/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12821,
+      "numero": 19,
+      "titulo": "Kiba - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c05c903e3d997added79518f0e850026.jpg",
+      "url_origen": "https://jkanime.net/kiba/19/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12822,
+      "numero": 20,
+      "titulo": "Kiba - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03ea906731be85e38d49277fa858b7a1.jpg",
+      "url_origen": "https://jkanime.net/kiba/20/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12823,
+      "numero": 21,
+      "titulo": "Kiba - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b9cc53336c8d4b6e3e515fecd9b81fb.jpg",
+      "url_origen": "https://jkanime.net/kiba/21/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12824,
+      "numero": 22,
+      "titulo": "Kiba - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a412963e013751a90654aa344bc26efe.jpg",
+      "url_origen": "https://jkanime.net/kiba/22/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12825,
+      "numero": 23,
+      "titulo": "Kiba - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e3e75d3095f3746ec2531e0bf543a5c.jpg",
+      "url_origen": "https://jkanime.net/kiba/23/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12826,
+      "numero": 24,
+      "titulo": "Kiba - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6a704ca84e2bd9a3ed164f47c76d584.jpg",
+      "url_origen": "https://jkanime.net/kiba/24/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12827,
+      "numero": 25,
+      "titulo": "Kiba - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44c62bd3f8177f420ed8cee90fdbc0a1.jpg",
+      "url_origen": "https://jkanime.net/kiba/25/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12828,
+      "numero": 26,
+      "titulo": "Kiba - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b816bc18d998441c4cbc6058277c844.jpg",
+      "url_origen": "https://jkanime.net/kiba/26/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12829,
+      "numero": 27,
+      "titulo": "Kiba - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9b95b18f155ea0c4d365ad4f973fe67.jpg",
+      "url_origen": "https://jkanime.net/kiba/27/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12830,
+      "numero": 28,
+      "titulo": "Kiba - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eaf90ea9a5c3866af372589e011d4242.jpg",
+      "url_origen": "https://jkanime.net/kiba/28/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12831,
+      "numero": 29,
+      "titulo": "Kiba - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0e7244b36e4e2cfcc04d247bff16291.jpg",
+      "url_origen": "https://jkanime.net/kiba/29/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12832,
+      "numero": 30,
+      "titulo": "Kiba - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dfe257477e8cc749ac0a3bdcd98fca0.jpg",
+      "url_origen": "https://jkanime.net/kiba/30/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12833,
+      "numero": 31,
+      "titulo": "Kiba - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af0a991f666ca273ed1d7e56e2f9e415.jpg",
+      "url_origen": "https://jkanime.net/kiba/31/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12834,
+      "numero": 32,
+      "titulo": "Kiba - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_248eb1f330c4c4bfe26c51abda7ae68b.jpg",
+      "url_origen": "https://jkanime.net/kiba/32/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12835,
+      "numero": 33,
+      "titulo": "Kiba - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbf138511ed1d9278bde43cc0000e49a.jpg",
+      "url_origen": "https://jkanime.net/kiba/33/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12836,
+      "numero": 34,
+      "titulo": "Kiba - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b4984066015df12cfc4e8f6d60b7147.jpg",
+      "url_origen": "https://jkanime.net/kiba/34/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12837,
+      "numero": 35,
+      "titulo": "Kiba - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30b1b5b6990012b272d5251f6a31489c.jpg",
+      "url_origen": "https://jkanime.net/kiba/35/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12838,
+      "numero": 36,
+      "titulo": "Kiba - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_032e625930fcc54c0ebc2696c0f55fdd.jpg",
+      "url_origen": "https://jkanime.net/kiba/36/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12839,
+      "numero": 37,
+      "titulo": "Kiba - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ffe08e7623a46843e73565ae1618f5b.jpg",
+      "url_origen": "https://jkanime.net/kiba/37/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12840,
+      "numero": 38,
+      "titulo": "Kiba - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66b48af35b7a3e54fdf15aff3da8a918.jpg",
+      "url_origen": "https://jkanime.net/kiba/38/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12841,
+      "numero": 39,
+      "titulo": "Kiba - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4a665596d4f67cecb7542c9fad407ee.jpg",
+      "url_origen": "https://jkanime.net/kiba/39/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12842,
+      "numero": 40,
+      "titulo": "Kiba - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3521a3a5bcfea0fe1189f8bc13af1f99.jpg",
+      "url_origen": "https://jkanime.net/kiba/40/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12843,
+      "numero": 41,
+      "titulo": "Kiba - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_981a3d9d46123dc4231e4cc3a718362c.jpg",
+      "url_origen": "https://jkanime.net/kiba/41/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12844,
+      "numero": 42,
+      "titulo": "Kiba - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d8db0888ae70f287e5329d840975bcb.jpg",
+      "url_origen": "https://jkanime.net/kiba/42/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12845,
+      "numero": 43,
+      "titulo": "Kiba - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c6013eae59ce171ddbcdb7a0a0becef.jpg",
+      "url_origen": "https://jkanime.net/kiba/43/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12846,
+      "numero": 44,
+      "titulo": "Kiba - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7c3dd47a945b8fe55d8c3f6d8b0484d.jpg",
+      "url_origen": "https://jkanime.net/kiba/44/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12847,
+      "numero": 45,
+      "titulo": "Kiba - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73d4d7b15bfefa13c4a035fa16bb99ed.jpg",
+      "url_origen": "https://jkanime.net/kiba/45/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12848,
+      "numero": 46,
+      "titulo": "Kiba - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8c4464e7ee7dc326d7807a8549e449f.jpg",
+      "url_origen": "https://jkanime.net/kiba/46/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12849,
+      "numero": 47,
+      "titulo": "Kiba - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c840250b11f70ae9830d7f73fad61ab.jpg",
+      "url_origen": "https://jkanime.net/kiba/47/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12850,
+      "numero": 48,
+      "titulo": "Kiba - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_237949cceaabe986ac5c1cd65cef13ff.jpg",
+      "url_origen": "https://jkanime.net/kiba/48/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12851,
+      "numero": 49,
+      "titulo": "Kiba - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d2ff8c099cb5e3435323c49c8c5ba87.jpg",
+      "url_origen": "https://jkanime.net/kiba/49/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12852,
+      "numero": 50,
+      "titulo": "Kiba - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_186f8f4eba86cca7bdf06db31f155a15.jpg",
+      "url_origen": "https://jkanime.net/kiba/50/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    },
+    {
+      "id_origen": 12853,
+      "numero": 51,
+      "titulo": "Kiba - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ef893a3104ab0cc85519a2ad3fec050.jpg",
+      "url_origen": "https://jkanime.net/kiba/51/",
+      "publicado_en_origen": "2011-10-20 17:00:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "441",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:34:31+00:00"
+}

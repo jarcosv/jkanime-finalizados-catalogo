@@ -1,0 +1,61 @@
+{
+  "id_origen": 1149,
+  "slug": "maken-ki-two-specials",
+  "titulo": "Maken-Ki! Two Specials",
+  "titulo_corto": "Maken-Ki! Two Specials",
+  "sinopsis": "Especiales de Maken-Ki! Two",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/maken-ki-two-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/maken-ki-two-specials/",
+  "episodios": [
+    {
+      "id_origen": 23312,
+      "numero": 1,
+      "titulo": "Maken-Ki! Two Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f43b42179344b1dc12e03a961d7a61a6.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two-specials/1/",
+      "publicado_en_origen": "2014-04-24 17:00:45"
+    },
+    {
+      "id_origen": 23657,
+      "numero": 2,
+      "titulo": "Maken-Ki! Two Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c73721a871329829847f6285edeb2e9.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two-specials/2/",
+      "publicado_en_origen": "2014-06-03 19:07:36"
+    },
+    {
+      "id_origen": 24026,
+      "numero": 3,
+      "titulo": "Maken-Ki! Two Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_803d1665f18163c7851eadf4f7ed6120.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two-specials/3/",
+      "publicado_en_origen": "2014-07-18 16:48:28"
+    },
+    {
+      "id_origen": 24027,
+      "numero": 4,
+      "titulo": "Maken-Ki! Two Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_544c335154f6eaf79e2dff463a852e78.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two-specials/4/",
+      "publicado_en_origen": "2014-07-18 16:49:48"
+    },
+    {
+      "id_origen": 24388,
+      "numero": 5,
+      "titulo": "Maken-Ki! Two Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff2215a000e99595af6fc38cdee94f23.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-two-specials/5/",
+      "publicado_en_origen": "2014-08-13 13:15:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:55+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1149",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:37:47+00:00"
+}

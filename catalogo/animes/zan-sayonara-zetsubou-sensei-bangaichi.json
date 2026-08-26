@@ -1,0 +1,37 @@
+{
+  "id_origen": 4923,
+  "slug": "zan-sayonara-zetsubou-sensei-bangaichi",
+  "titulo": "Zan Sayonara Zetsubou Sensei Bangaichi",
+  "titulo_corto": "Zan Sayonara Zetsubou Sensei B...",
+  "sinopsis": "Sayonara Zetsubou Sensei OVA",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/zan-sayonara-zetsubou-sensei-bangaichi.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/zan-sayonara-zetsubou-sensei-bangaichi/",
+  "episodios": [
+    {
+      "id_origen": 76619,
+      "numero": 1,
+      "titulo": "Zan Sayonara Zetsubou Sensei Bangaichi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3502d9f32982a7a31f534db4ecbba467.jpg",
+      "url_origen": "https://jkanime.net/zan-sayonara-zetsubou-sensei-bangaichi/1/",
+      "publicado_en_origen": "2026-08-19 12:24:23"
+    },
+    {
+      "id_origen": 76620,
+      "numero": 2,
+      "titulo": "Zan Sayonara Zetsubou Sensei Bangaichi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d607cc499d57aacb1d5ecec94db72666.jpg",
+      "url_origen": "https://jkanime.net/zan-sayonara-zetsubou-sensei-bangaichi/2/",
+      "publicado_en_origen": "2026-08-19 12:24:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4923",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:53:47+00:00"
+}

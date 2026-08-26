@@ -1,0 +1,37 @@
+{
+  "id_origen": 1230,
+  "slug": "seto-no-hanayome-ova",
+  "titulo": "Seto no Hanayome OVA",
+  "titulo_corto": "Seto no Hanayome OVA",
+  "sinopsis": "En esta primera entrega nuestro personaje comienzan un nuevo semestre en la escuela. Todos esperan estar compartir las mismas clases, pero el padre de San-cha reubica a Nagasumi-san en una clase con los chicos \"problemáticos\" de la escuela y adivinen quien es su profesor? Nada menos que shark Fujishiro. La segunda entrega narra la primera cita de San-cha y Nagasumi-san. Van a ir al cine, Nagasumi esta muy emocionado hasta que descubre que se les colo su pequeña amiga Maky-cha.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/seto-no-hanayome-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/seto-no-hanayome-ova/",
+  "episodios": [
+    {
+      "id_origen": 24181,
+      "numero": 1,
+      "titulo": "Seto no Hanayome OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed18370ab753647f8aa890dab473e6b7.jpg",
+      "url_origen": "https://jkanime.net/seto-no-hanayome-ova/1/",
+      "publicado_en_origen": "2014-08-03 16:22:45"
+    },
+    {
+      "id_origen": 24182,
+      "numero": 2,
+      "titulo": "Seto no Hanayome OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fe7117815d34847105f5cc78a519d8a.jpg",
+      "url_origen": "https://jkanime.net/seto-no-hanayome-ova/2/",
+      "publicado_en_origen": "2014-08-03 16:36:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:23+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1230",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:45:46+00:00"
+}

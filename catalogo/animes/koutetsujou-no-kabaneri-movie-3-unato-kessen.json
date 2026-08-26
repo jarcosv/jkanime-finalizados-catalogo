@@ -1,0 +1,45 @@
+{
+  "id_origen": 2437,
+  "slug": "koutetsujou-no-kabaneri-movie-3-unato-kessen",
+  "titulo": "Koutetsujou no Kabaneri Movie 3: Unato Kessen",
+  "titulo_corto": "Koutetsujou no Kabaneri Movie ...",
+  "sinopsis": "Secuela en forma de pelicula de Koutetsujou no Kabaneri.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/koutetsujou-no-kabaneri-movie-3-unato-kessen.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/koutetsujou-no-kabaneri-movie-3-unato-kessen/",
+  "episodios": [
+    {
+      "id_origen": 39896,
+      "numero": 1,
+      "titulo": "Koutetsujou no Kabaneri Movie 3: Unato Kessen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d37db81b770e9c7f95621cf281a50deb.jpg",
+      "url_origen": "https://jkanime.net/koutetsujou-no-kabaneri-movie-3-unato-kessen/1/",
+      "publicado_en_origen": "2019-05-17 03:47:00"
+    },
+    {
+      "id_origen": 39897,
+      "numero": 2,
+      "titulo": "Koutetsujou no Kabaneri Movie 3: Unato Kessen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74a7ac36372d9ef2c7b7ff0cc02001d2.jpg",
+      "url_origen": "https://jkanime.net/koutetsujou-no-kabaneri-movie-3-unato-kessen/2/",
+      "publicado_en_origen": "2019-05-17 03:47:01"
+    },
+    {
+      "id_origen": 39898,
+      "numero": 3,
+      "titulo": "Koutetsujou no Kabaneri Movie 3: Unato Kessen - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a545f9807a9d4746ceb2d13b80a38d2e.jpg",
+      "url_origen": "https://jkanime.net/koutetsujou-no-kabaneri-movie-3-unato-kessen/3/",
+      "publicado_en_origen": "2019-05-17 03:47:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2437",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:35:44+00:00"
+}

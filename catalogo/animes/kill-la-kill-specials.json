@@ -1,0 +1,29 @@
+{
+  "id_origen": 1258,
+  "slug": "kill-la-kill-specials",
+  "titulo": "Kill la Kill Special",
+  "titulo_corto": "Kill la Kill Special",
+  "sinopsis": "Especial de Kill la Kill incluido en el volumen DVD/BD",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kill-la-kill-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kill-la-kill-specials/",
+  "episodios": [
+    {
+      "id_origen": 24810,
+      "numero": 1,
+      "titulo": "Kill la Kill Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6def9da7f04a4bb4d727b97cb4c3d179.jpg",
+      "url_origen": "https://jkanime.net/kill-la-kill-specials/1/",
+      "publicado_en_origen": "2014-09-20 08:40:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1258",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:34:34+00:00"
+}

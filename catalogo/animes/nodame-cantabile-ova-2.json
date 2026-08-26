@@ -1,0 +1,29 @@
+{
+  "id_origen": 567,
+  "slug": "nodame-cantabile-ova-2",
+  "titulo": "Nodame Cantabile OVA 2",
+  "titulo_corto": "Nodame Cantabile OVA 2",
+  "sinopsis": "Una historia original del anime escrito por Tomoko Ninomiya, se trata de un episodio extra que se sitúa luego del final de Nodame Cantabile (Finale). Es primavera, Nodame está muy cerca de graduarse en el Conservatorio y Chiaki se mantiene ocupado profesionalmente.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nodame-cantabile-ova-2.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nodame-cantabile-ova-2/",
+  "episodios": [
+    {
+      "id_origen": 15661,
+      "numero": 1,
+      "titulo": "Nodame Cantabile OVA 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91944c70665558453d631f18938970c3.jpg",
+      "url_origen": "https://jkanime.net/nodame-cantabile-ova-2/1/",
+      "publicado_en_origen": "2012-05-29 00:02:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "567",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:39+00:00"
+}

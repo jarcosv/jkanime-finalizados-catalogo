@@ -1,0 +1,29 @@
+{
+  "id_origen": 2558,
+  "slug": "seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai",
+  "titulo": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+  "titulo_corto": "Seishun Buta Yarou wa Yumemiru...",
+  "sinopsis": "Pelicula de Gekijouban Seishun Buta Yaro wa Yumemiru Shoujo no Yume wo Minai",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai/",
+  "episodios": [
+    {
+      "id_origen": 41520,
+      "numero": 1,
+      "titulo": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c9f4381a56ef0aa281740223ac99e7f.jpg",
+      "url_origen": "https://jkanime.net/seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai/1/",
+      "publicado_en_origen": "2019-11-16 14:58:46"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2558",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:45:21+00:00"
+}

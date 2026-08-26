@@ -1,0 +1,29 @@
+{
+  "id_origen": 1707,
+  "slug": "steinsgate-kyoukaimenjou-no-missing-link",
+  "titulo": "Steins;Gate: Kyoukaimenjou no Missing Link",
+  "titulo_corto": "Steins;Gate: Kyoukaimenjou no ...",
+  "sinopsis": "Episodio 23 alternativo de Steins;Gate, precuela de Steins;Gate 0",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/steinsgate-kyoukaimenjou-no-missing-link.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/steinsgate-kyoukaimenjou-no-missing-link/",
+  "episodios": [
+    {
+      "id_origen": 30248,
+      "numero": 1,
+      "titulo": "Steins;Gate: Kyoukaimenjou no Missing Link",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35405f014bb0dbc14cea7766ccd0256e.jpg",
+      "url_origen": "https://jkanime.net/steinsgate-kyoukaimenjou-no-missing-link/1/",
+      "publicado_en_origen": "2015-12-03 14:11:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1707",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:47+00:00"
+}

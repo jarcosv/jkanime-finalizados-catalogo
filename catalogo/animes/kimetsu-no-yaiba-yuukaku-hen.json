@@ -1,0 +1,109 @@
+{
+  "id_origen": 2993,
+  "slug": "kimetsu-no-yaiba-yuukaku-hen",
+  "titulo": "Kimetsu no Yaiba: Yuukaku-hen",
+  "titulo_corto": "Kimetsu no Yaiba: Yuukaku-hen",
+  "sinopsis": "Tanjirou, Zenitsu e Inosuke, con la ayuda del Sound Hashira Tengen Uzui, viajan al distrito rojo de Yoshiwara para cazar a un demonio que ha estado aterrorizando a la ciudad.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimetsu-no-yaiba-yuukaku-hen.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimetsu-no-yaiba-yuukaku-hen/",
+  "episodios": [
+    {
+      "id_origen": 47485,
+      "numero": 1,
+      "titulo": "Kimetsu no Yaiba: Yuukaku-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bf9decb991cfa0ff9d26f47f2e807b9.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-yuukaku-hen/1/",
+      "publicado_en_origen": "2021-12-05 12:21:59"
+    },
+    {
+      "id_origen": 47546,
+      "numero": 2,
+      "titulo": "Kimetsu no Yaiba: Yuukaku-hen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6644eaf8176718ed4e1656418ab3628a.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-yuukaku-hen/2/",
+      "publicado_en_origen": "2021-12-12 12:08:09"
+    },
+    {
+      "id_origen": 47782,
+      "numero": 3,
+      "titulo": "Kimetsu no Yaiba: Yuukaku-hen - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfdc927d9542600572d2a16e41d6f005.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-yuukaku-hen/3/",
+      "publicado_en_origen": "2021-12-19 12:18:11"
+    },
+    {
+      "id_origen": 47833,
+      "numero": 4,
+      "titulo": "Kimetsu no Yaiba: Yuukaku-hen - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df1d7cf1ec07fe3f4f3883ea11abb992.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-yuukaku-hen/4/",
+      "publicado_en_origen": "2021-12-26 12:08:12"
+    },
+    {
+      "id_origen": 47898,
+      "numero": 5,
+      "titulo": "Kimetsu no Yaiba: Yuukaku-hen - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aae86d5288085041f684fca44422f4ca.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-yuukaku-hen/5/",
+      "publicado_en_origen": "2022-01-02 12:16:43"
+    },
+    {
+      "id_origen": 47940,
+      "numero": 6,
+      "titulo": "Kimetsu no Yaiba: Yuukaku-hen - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ade022cfc5a5e59959b5df2e4c0cd06a.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-yuukaku-hen/6/",
+      "publicado_en_origen": "2022-01-09 12:23:31"
+    },
+    {
+      "id_origen": 47987,
+      "numero": 7,
+      "titulo": "Kimetsu no Yaiba: Yuukaku-hen - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5559e615e9ea5b54784524d145068c28.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-yuukaku-hen/7/",
+      "publicado_en_origen": "2022-01-16 12:15:28"
+    },
+    {
+      "id_origen": 48070,
+      "numero": 8,
+      "titulo": "Kimetsu no Yaiba: Yuukaku-hen - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f387bc2a9c80a56bee76617742bc094.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-yuukaku-hen/8/",
+      "publicado_en_origen": "2022-01-23 12:09:06"
+    },
+    {
+      "id_origen": 48129,
+      "numero": 9,
+      "titulo": "Kimetsu no Yaiba: Yuukaku-hen - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fbb984af657be4635b59d346b7ab799.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-yuukaku-hen/9/",
+      "publicado_en_origen": "2022-01-30 12:20:32"
+    },
+    {
+      "id_origen": 48202,
+      "numero": 10,
+      "titulo": "Kimetsu no Yaiba: Yuukaku-hen - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32fed8b2d7ce5d690373e6cf309d5282.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-yuukaku-hen/10/",
+      "publicado_en_origen": "2022-02-06 12:14:31"
+    },
+    {
+      "id_origen": 48260,
+      "numero": 11,
+      "titulo": "Kimetsu no Yaiba: Yuukaku-hen - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f471e0e587a9e83b568eb6759d1fa15.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-yuukaku-hen/11/",
+      "publicado_en_origen": "2022-02-13 12:11:53"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2993",
+  "cantidad_episodios_declarada": 11,
+  "detalle_extraido_en": "2026-08-26T18:34:40+00:00"
+}

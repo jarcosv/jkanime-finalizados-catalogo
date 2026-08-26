@@ -1,0 +1,205 @@
+{
+  "id_origen": 2284,
+  "slug": "kaze-ga-tsuyoku-fuiteiru",
+  "titulo": "Kaze ga Tsuyoku Fuiteiru",
+  "titulo_corto": "Kaze ga Tsuyoku Fuiteiru",
+  "sinopsis": "Haiji lleva tiempo reclutando habitantes para el condominio en el que vive y su objetivo es conseguir que sean diez personas. Para ello no busca a personas cualesquiera, sino que busca a personas a las que les pueda gustar correr, porque tiene un sueño que quiere cumplir y el sitio en el que vive es más especial de lo que pueda parecer. ¿Objetivo? Correr el Hakone Ekiden",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kaze-ga-tsuyoku-fuiteiru.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/",
+  "episodios": [
+    {
+      "id_origen": 38021,
+      "numero": 1,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7856e1f16346c09190977fc5bf224ae5.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/1/",
+      "publicado_en_origen": "2018-10-02 17:59:57"
+    },
+    {
+      "id_origen": 38048,
+      "numero": 2,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_448871d5224c1f7f017fc96b7225cc05.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/2/",
+      "publicado_en_origen": "2018-10-09 18:26:01"
+    },
+    {
+      "id_origen": 38102,
+      "numero": 3,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e22a644bfc893781bf9bd9bac31ee13d.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/3/",
+      "publicado_en_origen": "2018-10-16 17:33:59"
+    },
+    {
+      "id_origen": 38157,
+      "numero": 4,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71bdb6f4ebabe93c8809e94d5db2a8f2.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/4/",
+      "publicado_en_origen": "2018-10-23 17:59:01"
+    },
+    {
+      "id_origen": 38201,
+      "numero": 5,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_603c32f40317b3179730bb4d8a032f84.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/5/",
+      "publicado_en_origen": "2018-10-30 19:02:47"
+    },
+    {
+      "id_origen": 38245,
+      "numero": 6,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2bc8e3682d513a7437c6373e19a4e7c.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/6/",
+      "publicado_en_origen": "2018-11-06 18:25:29"
+    },
+    {
+      "id_origen": 38310,
+      "numero": 7,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21284c80df6ca5a2a55705829894a866.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/7/",
+      "publicado_en_origen": "2018-11-13 19:44:39"
+    },
+    {
+      "id_origen": 38342,
+      "numero": 8,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_401dce020a4c8619924067bb0b098f85.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/8/",
+      "publicado_en_origen": "2018-11-20 18:11:48"
+    },
+    {
+      "id_origen": 38352,
+      "numero": 9,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55c2074539528626651271cb2b59a644.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/9/",
+      "publicado_en_origen": "2018-11-27 18:55:43"
+    },
+    {
+      "id_origen": 38430,
+      "numero": 10,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edc8ca5f86528cca2fa5444cd59d18ae.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/10/",
+      "publicado_en_origen": "2018-12-05 21:30:15"
+    },
+    {
+      "id_origen": 38485,
+      "numero": 11,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca1f85ef496eab54e49488b53bf20f1e.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/11/",
+      "publicado_en_origen": "2018-12-11 18:44:11"
+    },
+    {
+      "id_origen": 38639,
+      "numero": 12,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fbea88c76d0e1fca62216774396348a.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/12/",
+      "publicado_en_origen": "2019-01-09 04:21:18"
+    },
+    {
+      "id_origen": 38681,
+      "numero": 13,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e2e8e519b5915aa995fbbdf75d0f1ea.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/13/",
+      "publicado_en_origen": "2019-01-15 19:00:22"
+    },
+    {
+      "id_origen": 38751,
+      "numero": 14,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eda53de8bf2499072a8865d9b1e909fe.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/14/",
+      "publicado_en_origen": "2019-02-02 19:53:19"
+    },
+    {
+      "id_origen": 38752,
+      "numero": 15,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f72f05e91d583cf63ae47e955ca9c312.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/15/",
+      "publicado_en_origen": "2019-02-02 20:00:42"
+    },
+    {
+      "id_origen": 38811,
+      "numero": 16,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37728c9dbe50970fd5c4ec0c106d825b.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/16/",
+      "publicado_en_origen": "2019-02-06 05:41:06"
+    },
+    {
+      "id_origen": 38867,
+      "numero": 17,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a124256620b4ea5aa1518b2798ca500.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/17/",
+      "publicado_en_origen": "2019-02-12 19:56:09"
+    },
+    {
+      "id_origen": 38932,
+      "numero": 18,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9cba935dc57ee3ead2f292cd14d3c3c.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/18/",
+      "publicado_en_origen": "2019-02-19 22:47:52"
+    },
+    {
+      "id_origen": 39030,
+      "numero": 19,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6a7f05c0ce5e5afef8844fc47a2b4a5.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/19/",
+      "publicado_en_origen": "2019-02-26 18:11:41"
+    },
+    {
+      "id_origen": 39101,
+      "numero": 20,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45124ee994d4f620629ae4abd2f90c14.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/20/",
+      "publicado_en_origen": "2019-03-05 19:46:00"
+    },
+    {
+      "id_origen": 39300,
+      "numero": 21,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c32ad344b09ff872f942b6d2196e720.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/21/",
+      "publicado_en_origen": "2019-03-12 17:33:14"
+    },
+    {
+      "id_origen": 39357,
+      "numero": 22,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_759cf6a07a81645b6b5dd37a90db63a5.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/22/",
+      "publicado_en_origen": "2019-03-19 18:40:48"
+    },
+    {
+      "id_origen": 39400,
+      "numero": 23,
+      "titulo": "Kaze ga Tsuyoku Fuiteiru - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01623048e7d81ab613de0f5d03e95fcc.jpg",
+      "url_origen": "https://jkanime.net/kaze-ga-tsuyoku-fuiteiru/23/",
+      "publicado_en_origen": "2019-03-26 18:06:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:15+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2284",
+  "cantidad_episodios_declarada": 23,
+  "detalle_extraido_en": "2026-08-26T18:34:14+00:00"
+}

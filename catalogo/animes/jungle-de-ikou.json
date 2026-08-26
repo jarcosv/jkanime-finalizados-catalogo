@@ -1,0 +1,45 @@
+{
+  "id_origen": 4874,
+  "slug": "jungle-de-ikou",
+  "titulo": "Jungle de Ikou!",
+  "titulo_corto": "Jungle de Ikou!",
+  "sinopsis": "Tras encontrarse con un anciano que baila en lo que ella cree que no es más que un sueño descabellado, una colegiala preadolescente se embarca en una serie de aventuras de chicas mágicas repletas de «fanservice» junto a una pequeña criatura llamada Ongo —que podría ser malvada— y una chica tímida con poderes misteriosos llamada Nami.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/jungle-de-ikou.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/jungle-de-ikou/",
+  "episodios": [
+    {
+      "id_origen": 75361,
+      "numero": 1,
+      "titulo": "Jungle de Ikou! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aae822b17125ecd0040ce7093f5ee3bc.jpg",
+      "url_origen": "https://jkanime.net/jungle-de-ikou/1/",
+      "publicado_en_origen": "2026-07-23 11:46:32"
+    },
+    {
+      "id_origen": 75362,
+      "numero": 2,
+      "titulo": "Jungle de Ikou! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cd144d85f05b6e314f1b58eb6469e19.jpg",
+      "url_origen": "https://jkanime.net/jungle-de-ikou/2/",
+      "publicado_en_origen": "2026-07-23 11:46:32"
+    },
+    {
+      "id_origen": 75363,
+      "numero": 3,
+      "titulo": "Jungle de Ikou! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e21f35e10c1c95f3f0db5b46985890b.jpg",
+      "url_origen": "https://jkanime.net/jungle-de-ikou/3/",
+      "publicado_en_origen": "2026-07-23 11:46:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4874",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:33:02+00:00"
+}

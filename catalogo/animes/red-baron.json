@@ -1,0 +1,413 @@
+{
+  "id_origen": 4484,
+  "slug": "red-baron",
+  "titulo": "Red Baron",
+  "titulo_corto": "Red Baron",
+  "sinopsis": "En el futuro, los juegos «Metal Fight» son el deporte televisado más popular del mundo y muchos robots compiten por el título de Mejor Luchador Metálico del Mundo. Kurenai Ken, junto con su compañero de equipo Saeba Shoko (que al principio se mostraba inflexible), pilota el Super Robot Fighter, Red Baron, y se presenta al concurso con el sueño de convertirse en su campeón. Sin embargo, debe enfrentarse a un ejército de rivales de todo el mundo, entre los que se encuentran Kaizer (que, en realidad, es el padre «perdido» de Shoko, Tetsuo Saeba), los doctores Tetsumen Tou («Puño de Hierro», en referencia a la serie de televisión original Red Baron), Tiger y ShinRon.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/red-baron.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/red-baron/",
+  "episodios": [
+    {
+      "id_origen": 69593,
+      "numero": 1,
+      "titulo": "Red Baron - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72c6d159e5d010766b5b74fe0f7dd897.jpg",
+      "url_origen": "https://jkanime.net/red-baron/1/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69594,
+      "numero": 2,
+      "titulo": "Red Baron - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_464fa6d2cb5dd7398ad4b9e5d33a6618.jpg",
+      "url_origen": "https://jkanime.net/red-baron/2/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69595,
+      "numero": 3,
+      "titulo": "Red Baron - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0dd22f8ec42fb781a7a01cd27bd55b90.jpg",
+      "url_origen": "https://jkanime.net/red-baron/3/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69596,
+      "numero": 4,
+      "titulo": "Red Baron - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e89bcff573256cf30961bb7cf97b565e.jpg",
+      "url_origen": "https://jkanime.net/red-baron/4/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69597,
+      "numero": 5,
+      "titulo": "Red Baron - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96a8de8ab19b6f1e14eabe93c478f4c8.jpg",
+      "url_origen": "https://jkanime.net/red-baron/5/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69598,
+      "numero": 6,
+      "titulo": "Red Baron - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d492737fdea1200c9d3e89caf087c923.jpg",
+      "url_origen": "https://jkanime.net/red-baron/6/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69599,
+      "numero": 7,
+      "titulo": "Red Baron - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de3ec25b08d6023cbb80cd5720ffc3c3.jpg",
+      "url_origen": "https://jkanime.net/red-baron/7/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69600,
+      "numero": 8,
+      "titulo": "Red Baron - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_493376cc0164ed725004c58f33addffc.jpg",
+      "url_origen": "https://jkanime.net/red-baron/8/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69601,
+      "numero": 9,
+      "titulo": "Red Baron - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ad0cf225ef1ace84e83867964436b3b.jpg",
+      "url_origen": "https://jkanime.net/red-baron/9/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69602,
+      "numero": 10,
+      "titulo": "Red Baron - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb263f8df6841f316a94b2e6204ea0a3.jpg",
+      "url_origen": "https://jkanime.net/red-baron/10/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69603,
+      "numero": 11,
+      "titulo": "Red Baron - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_004860c49c574c545c29df0b97f5788e.jpg",
+      "url_origen": "https://jkanime.net/red-baron/11/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69604,
+      "numero": 12,
+      "titulo": "Red Baron - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26fd27d7ef970193f136e82c7b516690.jpg",
+      "url_origen": "https://jkanime.net/red-baron/12/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69605,
+      "numero": 13,
+      "titulo": "Red Baron - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b7d923fa5dfb267cea6e1bcf5ef2ad3.jpg",
+      "url_origen": "https://jkanime.net/red-baron/13/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69606,
+      "numero": 14,
+      "titulo": "Red Baron - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c913f7619a4d346b4e3dfb8b6b22a89.jpg",
+      "url_origen": "https://jkanime.net/red-baron/14/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69607,
+      "numero": 15,
+      "titulo": "Red Baron - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ad0541ffa7ccc48ce22e3dd021ea24e.jpg",
+      "url_origen": "https://jkanime.net/red-baron/15/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69608,
+      "numero": 16,
+      "titulo": "Red Baron - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3229b9472428eb54bc925c57aa36e11d.jpg",
+      "url_origen": "https://jkanime.net/red-baron/16/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69609,
+      "numero": 17,
+      "titulo": "Red Baron - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eae74cf5956302b6bafd323f003b1fae.jpg",
+      "url_origen": "https://jkanime.net/red-baron/17/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69610,
+      "numero": 18,
+      "titulo": "Red Baron - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c5c9a979ec3addd99418904e2d66c96.jpg",
+      "url_origen": "https://jkanime.net/red-baron/18/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69611,
+      "numero": 19,
+      "titulo": "Red Baron - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dcd87d6b53df5ebbb5b0c189afec5889.jpg",
+      "url_origen": "https://jkanime.net/red-baron/19/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69612,
+      "numero": 20,
+      "titulo": "Red Baron - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06ecd45ca7093cdd6dc6d863090a57f6.jpg",
+      "url_origen": "https://jkanime.net/red-baron/20/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69613,
+      "numero": 21,
+      "titulo": "Red Baron - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b160384ca0ddfb0cbad9544451f4c9fc.jpg",
+      "url_origen": "https://jkanime.net/red-baron/21/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69614,
+      "numero": 22,
+      "titulo": "Red Baron - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d03df10e17f0dda6ef8e26151750d783.jpg",
+      "url_origen": "https://jkanime.net/red-baron/22/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69615,
+      "numero": 23,
+      "titulo": "Red Baron - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fec75bdde27c1477151a1a15733186b2.jpg",
+      "url_origen": "https://jkanime.net/red-baron/23/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69616,
+      "numero": 24,
+      "titulo": "Red Baron - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d889b095e64e24d9c945df46f6e853e.jpg",
+      "url_origen": "https://jkanime.net/red-baron/24/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69617,
+      "numero": 25,
+      "titulo": "Red Baron - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a61007aa0f124ad52e89f16ba6476c22.jpg",
+      "url_origen": "https://jkanime.net/red-baron/25/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69618,
+      "numero": 26,
+      "titulo": "Red Baron - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0cf42ed3d55c88a75941ab0afeebb5ed.jpg",
+      "url_origen": "https://jkanime.net/red-baron/26/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69619,
+      "numero": 27,
+      "titulo": "Red Baron - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94ebc7e4c38faaa53989c717247becd1.jpg",
+      "url_origen": "https://jkanime.net/red-baron/27/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69620,
+      "numero": 28,
+      "titulo": "Red Baron - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58d139c0ae23b9000d31bb46f4b240d6.jpg",
+      "url_origen": "https://jkanime.net/red-baron/28/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69621,
+      "numero": 29,
+      "titulo": "Red Baron - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ea4450e671e171ecd5d0f19e6f8c946.jpg",
+      "url_origen": "https://jkanime.net/red-baron/29/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69622,
+      "numero": 30,
+      "titulo": "Red Baron - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73dfc76ee8aa0eb45b609d2756330110.jpg",
+      "url_origen": "https://jkanime.net/red-baron/30/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69623,
+      "numero": 31,
+      "titulo": "Red Baron - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ec031735a0c8e795b6f49d084d95872.jpg",
+      "url_origen": "https://jkanime.net/red-baron/31/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69624,
+      "numero": 32,
+      "titulo": "Red Baron - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1be5e1c9775a3891236feb80bdef2e2d.jpg",
+      "url_origen": "https://jkanime.net/red-baron/32/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69625,
+      "numero": 33,
+      "titulo": "Red Baron - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_864c54bdaa7d5ed2a95b2050a87f3b3b.jpg",
+      "url_origen": "https://jkanime.net/red-baron/33/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69626,
+      "numero": 34,
+      "titulo": "Red Baron - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9be3a44f5f9fae409e528ec5960f6ac1.jpg",
+      "url_origen": "https://jkanime.net/red-baron/34/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69627,
+      "numero": 35,
+      "titulo": "Red Baron - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bcce9a67b6e1e5a9203dbc76728a7e0b.jpg",
+      "url_origen": "https://jkanime.net/red-baron/35/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69628,
+      "numero": 36,
+      "titulo": "Red Baron - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b59c2b613afe1a79d84b62be31fade7.jpg",
+      "url_origen": "https://jkanime.net/red-baron/36/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69629,
+      "numero": 37,
+      "titulo": "Red Baron - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_156dc568710feb9cfb9f9e60b8dd81f7.jpg",
+      "url_origen": "https://jkanime.net/red-baron/37/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69630,
+      "numero": 38,
+      "titulo": "Red Baron - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54942cc88b61cb389de57ef06fc61fa5.jpg",
+      "url_origen": "https://jkanime.net/red-baron/38/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69631,
+      "numero": 39,
+      "titulo": "Red Baron - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aab55424eda314036d66ea1a6ba71d0a.jpg",
+      "url_origen": "https://jkanime.net/red-baron/39/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69632,
+      "numero": 40,
+      "titulo": "Red Baron - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ff6a54c5c8b3acc2fcbbc0f19593b3c.jpg",
+      "url_origen": "https://jkanime.net/red-baron/40/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69633,
+      "numero": 41,
+      "titulo": "Red Baron - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9425b08af9114745b3ed220fea7b04de.jpg",
+      "url_origen": "https://jkanime.net/red-baron/41/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69634,
+      "numero": 42,
+      "titulo": "Red Baron - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e104a446e3751411c78f59b4265f5681.jpg",
+      "url_origen": "https://jkanime.net/red-baron/42/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69635,
+      "numero": 43,
+      "titulo": "Red Baron - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26b0f77fe589b62106d4543a605d510c.jpg",
+      "url_origen": "https://jkanime.net/red-baron/43/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69636,
+      "numero": 44,
+      "titulo": "Red Baron - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b161425da06b85dc8f15436948abba81.jpg",
+      "url_origen": "https://jkanime.net/red-baron/44/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69637,
+      "numero": 45,
+      "titulo": "Red Baron - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c58ca8a1ec2b9da99b453aafa811665.jpg",
+      "url_origen": "https://jkanime.net/red-baron/45/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69638,
+      "numero": 46,
+      "titulo": "Red Baron - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c81f6c53fc8da4c08df7aaf4b32f426.jpg",
+      "url_origen": "https://jkanime.net/red-baron/46/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69639,
+      "numero": 47,
+      "titulo": "Red Baron - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31f94b2b9689a28dc6eebe6480fd0108.jpg",
+      "url_origen": "https://jkanime.net/red-baron/47/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69640,
+      "numero": 48,
+      "titulo": "Red Baron - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7072f4e777dae50ef3a0197db089f25.jpg",
+      "url_origen": "https://jkanime.net/red-baron/48/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    },
+    {
+      "id_origen": 69641,
+      "numero": 49,
+      "titulo": "Red Baron - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6bb1817533d12cefd357a4e7d4f74a3.jpg",
+      "url_origen": "https://jkanime.net/red-baron/49/",
+      "publicado_en_origen": "2025-12-04 16:38:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4484",
+  "cantidad_episodios_declarada": 49,
+  "detalle_extraido_en": "2026-08-26T18:43:48+00:00"
+}

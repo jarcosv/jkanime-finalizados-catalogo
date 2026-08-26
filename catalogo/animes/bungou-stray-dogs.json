@@ -1,0 +1,117 @@
+{
+  "id_origen": 1807,
+  "slug": "bungou-stray-dogs",
+  "titulo": "Bungou Stray Dogs",
+  "titulo_corto": "Bungou Stray Dogs",
+  "sinopsis": "La historia está protagonizada por una liga de figuras literarias con poderes sobrenaturales, como Ryunosuke Akutagawa, que en la vida real escribió varias novelas y en el manga tiene el poder de transformar su capa en una especie de monstruo. Él y sus compañeros escritores se dedicarán a resolver misterios como parte de la “Agencia Armada de Detectives”. Otros autores japoneses que aparecen en la obra son Rampo Edogawa, Kenji Miyazawa, Osamu Dazai, Atsushi Nakajima, Akiko Yoshino, Yukito Ayatsuji(Another),Natsuhiko Kyogoku (Loups-Garous), Agatha Christie o Dan Brown.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bungou-stray-dogs.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bungou-stray-dogs/",
+  "episodios": [
+    {
+      "id_origen": 31287,
+      "numero": 1,
+      "titulo": "Bungou Stray Dogs - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0982d54d18a026163f76888c0d226166.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs/1/",
+      "publicado_en_origen": "2016-04-06 16:16:41"
+    },
+    {
+      "id_origen": 31342,
+      "numero": 2,
+      "titulo": "Bungou Stray Dogs - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_723b06b9337aafbd3b995b1cd5da5e72.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs/2/",
+      "publicado_en_origen": "2016-04-13 16:17:22"
+    },
+    {
+      "id_origen": 31391,
+      "numero": 3,
+      "titulo": "Bungou Stray Dogs - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b997c95a3cd22f4f5a45903bc4f319a.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs/3/",
+      "publicado_en_origen": "2016-04-20 16:25:44"
+    },
+    {
+      "id_origen": 31443,
+      "numero": 4,
+      "titulo": "Bungou Stray Dogs - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c10793762778883d5b39d05bd64fea2.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs/4/",
+      "publicado_en_origen": "2016-04-27 16:15:45"
+    },
+    {
+      "id_origen": 31499,
+      "numero": 5,
+      "titulo": "Bungou Stray Dogs - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34d9646a6c7d6c0de3ece3de6f06a91f.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs/5/",
+      "publicado_en_origen": "2016-05-04 16:17:16"
+    },
+    {
+      "id_origen": 31554,
+      "numero": 6,
+      "titulo": "Bungou Stray Dogs - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f427810d6c49d16a865d20c29ac11e61.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs/6/",
+      "publicado_en_origen": "2016-05-11 16:23:49"
+    },
+    {
+      "id_origen": 31608,
+      "numero": 7,
+      "titulo": "Bungou Stray Dogs - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f2bed48f31aa4f70b89c5e87a60e3e9.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs/7/",
+      "publicado_en_origen": "2016-05-18 16:16:02"
+    },
+    {
+      "id_origen": 31662,
+      "numero": 8,
+      "titulo": "Bungou Stray Dogs - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdbdddfe8c4df643ec18e5f931bada26.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs/8/",
+      "publicado_en_origen": "2016-05-25 16:16:06"
+    },
+    {
+      "id_origen": 31716,
+      "numero": 9,
+      "titulo": "Bungou Stray Dogs - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d1ed124d48ac4f12106b32decf840b0.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs/9/",
+      "publicado_en_origen": "2016-06-01 16:22:15"
+    },
+    {
+      "id_origen": 31770,
+      "numero": 10,
+      "titulo": "Bungou Stray Dogs - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae8ac5e9dffde5cc03562b4e13ac4394.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs/10/",
+      "publicado_en_origen": "2016-06-08 17:32:45"
+    },
+    {
+      "id_origen": 31824,
+      "numero": 11,
+      "titulo": "Bungou Stray Dogs - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4d9dd228996e12e46d286639eccd3e1.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs/11/",
+      "publicado_en_origen": "2016-06-15 16:21:50"
+    },
+    {
+      "id_origen": 31872,
+      "numero": 12,
+      "titulo": "Bungou Stray Dogs - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ea0dca52330dfaa77e8a459cadd584c.jpg",
+      "url_origen": "https://jkanime.net/bungou-stray-dogs/12/",
+      "publicado_en_origen": "2016-06-22 16:16:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1807",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:22:05+00:00"
+}

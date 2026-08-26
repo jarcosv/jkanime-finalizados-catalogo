@@ -1,0 +1,69 @@
+{
+  "id_origen": 1544,
+  "slug": "etotama-specials",
+  "titulo": "Etotama Specials",
+  "titulo_corto": "Etotama Specials",
+  "sinopsis": "Especiales de Etotama incluidos del segundo al quinto volúmen de Blu-ray/DVD.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/etotama-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/etotama-specials/",
+  "episodios": [
+    {
+      "id_origen": 27874,
+      "numero": 1,
+      "titulo": "Etotama SP - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/etotama-specials.jpg",
+      "url_origen": "https://jkanime.net/etotama-specials/1/",
+      "publicado_en_origen": "2015-05-27 16:11:03"
+    },
+    {
+      "id_origen": 27875,
+      "numero": 2,
+      "titulo": "Etotama SP - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/etotama-specials.jpg",
+      "url_origen": "https://jkanime.net/etotama-specials/2/",
+      "publicado_en_origen": "2015-05-27 16:12:36"
+    },
+    {
+      "id_origen": 28591,
+      "numero": 3,
+      "titulo": "Etotama Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/etotama-specials.jpg",
+      "url_origen": "https://jkanime.net/etotama-specials/3/",
+      "publicado_en_origen": "2015-06-29 12:20:18"
+    },
+    {
+      "id_origen": 28592,
+      "numero": 4,
+      "titulo": "Etotama Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/etotama-specials.jpg",
+      "url_origen": "https://jkanime.net/etotama-specials/4/",
+      "publicado_en_origen": "2015-06-29 12:23:42"
+    },
+    {
+      "id_origen": 28660,
+      "numero": 5,
+      "titulo": "Etotama Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/etotama-specials.jpg",
+      "url_origen": "https://jkanime.net/etotama-specials/5/",
+      "publicado_en_origen": "2015-07-08 18:54:02"
+    },
+    {
+      "id_origen": 28661,
+      "numero": 6,
+      "titulo": "Etotama Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/etotama-specials.jpg",
+      "url_origen": "https://jkanime.net/etotama-specials/6/",
+      "publicado_en_origen": "2015-07-08 18:59:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1544",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:26:25+00:00"
+}

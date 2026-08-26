@@ -1,0 +1,53 @@
+{
+  "id_origen": 4824,
+  "slug": "ichigo-100-ova",
+  "titulo": "Ichigo 100% OVA",
+  "titulo_corto": "Ichigo 100% OVA",
+  "sinopsis": "Nueva entrega de la serie de televisión «Ichigo 100%». Consta de cuatro episodios y se centra principalmente en historias secundarias, como un festival de primavera con cosplay, la aventura de Junpei para devolver un cuaderno a una amiga de Yui que estudia en la Academia Oumi, un trabajo de verano en Sawayaka para ayudar a sufragar los gastos de producción y, por último, pero no menos importante... los «Invasores de las braguitas de fresa». Este OVA presenta a dos nuevos personajes.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ichigo-100-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ichigo-100-ova/",
+  "episodios": [
+    {
+      "id_origen": 74264,
+      "numero": 1,
+      "titulo": "Ichigo 100% OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25b43db005a8176f3f3760c2b81f7598.jpg",
+      "url_origen": "https://jkanime.net/ichigo-100-ova/1/",
+      "publicado_en_origen": "2026-06-11 12:12:19"
+    },
+    {
+      "id_origen": 74265,
+      "numero": 2,
+      "titulo": "Ichigo 100% OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea0432e6a05a829fce44211b03a859e7.jpg",
+      "url_origen": "https://jkanime.net/ichigo-100-ova/2/",
+      "publicado_en_origen": "2026-06-11 12:12:19"
+    },
+    {
+      "id_origen": 74266,
+      "numero": 3,
+      "titulo": "Ichigo 100% OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_853fbae7eca032a1af142653980697af.jpg",
+      "url_origen": "https://jkanime.net/ichigo-100-ova/3/",
+      "publicado_en_origen": "2026-06-11 12:12:19"
+    },
+    {
+      "id_origen": 74267,
+      "numero": 4,
+      "titulo": "Ichigo 100% OVA - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fc51bd65ecb7ac649bc530fc0f6a465.jpg",
+      "url_origen": "https://jkanime.net/ichigo-100-ova/4/",
+      "publicado_en_origen": "2026-06-11 12:12:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4824",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:31:33+00:00"
+}

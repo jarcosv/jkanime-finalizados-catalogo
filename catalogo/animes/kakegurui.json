@@ -1,0 +1,117 @@
+{
+  "id_origen": 2073,
+  "slug": "kakegurui",
+  "titulo": "Kakegurui",
+  "titulo_corto": "Kakegurui",
+  "sinopsis": "Apostar es la razón de mi existencia.\n\nLa famosa academia privada Hyakkaou tiene un sistema de clases sociales. Lo más alto de la escuela es el consejo estudiantil, el cual está controlada por las apuestas. Si ganas podrás entrar al cielo, pero si pierdes, al infierno. En esta academia insana, aquellos que son buenos en las apuestas son la envidia de todos, y aquellos que no lo son, sufren.\n\nUn día, una chica se transfiere a esta academia, Una chica llamada Yumeko Jabami…",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kakegurui.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kakegurui/",
+  "episodios": [
+    {
+      "id_origen": 35115,
+      "numero": 1,
+      "titulo": "Kakegurui - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c726062049174dd685bbb960958fa1c1.jpg",
+      "url_origen": "https://jkanime.net/kakegurui/1/",
+      "publicado_en_origen": "2017-07-01 16:37:55"
+    },
+    {
+      "id_origen": 35157,
+      "numero": 2,
+      "titulo": "Kakegurui - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68af34529bb4ab8575457d9e16801849.jpg",
+      "url_origen": "https://jkanime.net/kakegurui/2/",
+      "publicado_en_origen": "2017-07-08 16:09:41"
+    },
+    {
+      "id_origen": 35202,
+      "numero": 3,
+      "titulo": "Kakegurui - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_613cec61b581b174c770c88a0dd578ee.jpg",
+      "url_origen": "https://jkanime.net/kakegurui/3/",
+      "publicado_en_origen": "2017-07-15 15:55:50"
+    },
+    {
+      "id_origen": 35256,
+      "numero": 4,
+      "titulo": "Kakegurui - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69b86f4ce0394ef6d54f3033081bd3e1.jpg",
+      "url_origen": "https://jkanime.net/kakegurui/4/",
+      "publicado_en_origen": "2017-07-22 18:17:29"
+    },
+    {
+      "id_origen": 35303,
+      "numero": 5,
+      "titulo": "Kakegurui - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f0f52c0bdb94435e26c6b504e7513ea.jpg",
+      "url_origen": "https://jkanime.net/kakegurui/5/",
+      "publicado_en_origen": "2017-07-29 17:06:07"
+    },
+    {
+      "id_origen": 35404,
+      "numero": 6,
+      "titulo": "Kakegurui - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02e6120e4959b0e4f86d16e2ef8f921d.jpg",
+      "url_origen": "https://jkanime.net/kakegurui/6/",
+      "publicado_en_origen": "2017-08-12 15:57:36"
+    },
+    {
+      "id_origen": 35452,
+      "numero": 7,
+      "titulo": "Kakegurui - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f20fd1e8deb34b1bc57a3146f2511eb2.jpg",
+      "url_origen": "https://jkanime.net/kakegurui/7/",
+      "publicado_en_origen": "2017-08-19 16:14:08"
+    },
+    {
+      "id_origen": 35499,
+      "numero": 8,
+      "titulo": "Kakegurui - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92ce73519d6ef5260d6786d767e5181c.jpg",
+      "url_origen": "https://jkanime.net/kakegurui/8/",
+      "publicado_en_origen": "2017-08-26 21:37:41"
+    },
+    {
+      "id_origen": 35548,
+      "numero": 9,
+      "titulo": "Kakegurui - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d73a4088d495eed48b66afadc4aa1d5.jpg",
+      "url_origen": "https://jkanime.net/kakegurui/9/",
+      "publicado_en_origen": "2017-09-02 23:45:17"
+    },
+    {
+      "id_origen": 35600,
+      "numero": 10,
+      "titulo": "Kakegurui - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6df737ba4bfc21229b35655ea99a97c.jpg",
+      "url_origen": "https://jkanime.net/kakegurui/10/",
+      "publicado_en_origen": "2017-09-09 16:28:56"
+    },
+    {
+      "id_origen": 35651,
+      "numero": 11,
+      "titulo": "Kakegurui - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5218df8748773749098cb4566fb14a0b.jpg",
+      "url_origen": "https://jkanime.net/kakegurui/11/",
+      "publicado_en_origen": "2017-09-16 20:59:34"
+    },
+    {
+      "id_origen": 35698,
+      "numero": 12,
+      "titulo": "Kakegurui - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f7fedf89596a9bad6359ce43c8ad352.jpg",
+      "url_origen": "https://jkanime.net/kakegurui/12/",
+      "publicado_en_origen": "2017-09-23 15:40:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2073",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:33:29+00:00"
+}

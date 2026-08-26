@@ -1,0 +1,69 @@
+{
+  "id_origen": 1072,
+  "slug": "maken-ki-specials",
+  "titulo": "Maken-Ki! Specials",
+  "titulo_corto": "Maken-Ki! Specials",
+  "sinopsis": "Especial de 6 capitulos de Maken ki",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/maken-ki-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/maken-ki-specials/",
+  "episodios": [
+    {
+      "id_origen": 22679,
+      "numero": 1,
+      "titulo": "Maken-Ki! Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_def405c93fa429646ff5be759b5b9ae8.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-specials/1/",
+      "publicado_en_origen": "2014-02-11 12:25:32"
+    },
+    {
+      "id_origen": 22680,
+      "numero": 2,
+      "titulo": "Maken-Ki! Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6aef86083b784fdf8a5418bb69d66a1.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-specials/2/",
+      "publicado_en_origen": "2014-02-11 12:38:12"
+    },
+    {
+      "id_origen": 22681,
+      "numero": 3,
+      "titulo": "Maken-Ki! Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c8beeb8b85cec20fbe194aed2e6474c.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-specials/3/",
+      "publicado_en_origen": "2014-02-11 12:57:33"
+    },
+    {
+      "id_origen": 22686,
+      "numero": 4,
+      "titulo": "Maken-Ki! Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_252e3464440ac1e060d3abc4cc60bda6.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-specials/4/",
+      "publicado_en_origen": "2014-02-11 17:59:49"
+    },
+    {
+      "id_origen": 22687,
+      "numero": 5,
+      "titulo": "Maken-Ki! Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74aaa962157fc60f660a8cc3f8e36631.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-specials/5/",
+      "publicado_en_origen": "2014-02-11 18:04:10"
+    },
+    {
+      "id_origen": 22688,
+      "numero": 6,
+      "titulo": "Maken-Ki! Specials - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6043d4bd7097aad69de8b3bffd431422.jpg",
+      "url_origen": "https://jkanime.net/maken-ki-specials/6/",
+      "publicado_en_origen": "2014-02-11 18:16:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1072",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:37:47+00:00"
+}

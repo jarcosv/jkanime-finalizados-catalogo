@@ -1,0 +1,29 @@
+{
+  "id_origen": 3758,
+  "slug": "hanma-baki-vs-kengan-ashura",
+  "titulo": "Hanma Baki vs. Kengan Ashura",
+  "titulo_corto": "Hanma Baki vs. Kengan Ashura",
+  "sinopsis": "Una película de anime cruzada entre Hanma Baki y Kengan Ashura .",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hanma-baki-vs-kengan-ashura.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hanma-baki-vs-kengan-ashura/",
+  "episodios": [
+    {
+      "id_origen": 57551,
+      "numero": 1,
+      "titulo": "Hanma Baki vs. Kengan Ashura",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_787442872c20dc097ed03bca1cfb2a23.jpg",
+      "url_origen": "https://jkanime.net/hanma-baki-vs-kengan-ashura/1/",
+      "publicado_en_origen": "2024-06-08 15:04:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3758",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:29:53+00:00"
+}

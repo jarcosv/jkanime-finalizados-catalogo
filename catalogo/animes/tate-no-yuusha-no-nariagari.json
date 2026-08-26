@@ -1,0 +1,221 @@
+{
+  "id_origen": 2346,
+  "slug": "tate-no-yuusha-no-nariagari",
+  "titulo": "Tate no Yuusha no Nariagari",
+  "titulo_corto": "Tate no Yuusha no Nariagari",
+  "sinopsis": "Iwatani Naofumi es el típico otaku, al menos hasta que un día encuentra en la biblioteca un libro que lo transporta a otro mundo. Allí se convertirá en el Héroe del Escudo, uno de los Cuatro Héroes Cardinales, y tendrá que luchar contra las Olas de la Catástrofe junto a los héroes de la espada, la lanza y el arco. Emocionado ante la perspectiva de vivir una gran aventura, Naofumi parte de viaje con su grupo. No obstante, al cabo de unos pocos días lo traicionan y pierde su dinero, su dignidad y el respeto de los que le rodean",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tate-no-yuusha-no-nariagari.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/",
+  "episodios": [
+    {
+      "id_origen": 38642,
+      "numero": 1,
+      "titulo": "Tate no Yuusha no Nariagari - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a88c76009b806cf4b9089d3cc61919b.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/1/",
+      "publicado_en_origen": "2019-01-09 14:30:24"
+    },
+    {
+      "id_origen": 38755,
+      "numero": 2,
+      "titulo": "Tate no Yuusha no Nariagari - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54d49c7b12e6e1f3d41d0711bcabeb58.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/2/",
+      "publicado_en_origen": "2019-02-02 20:24:32"
+    },
+    {
+      "id_origen": 38756,
+      "numero": 3,
+      "titulo": "Tate no Yuusha no Nariagari - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26d92ac258f0fbfa10e56184450c48fa.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/3/",
+      "publicado_en_origen": "2019-02-02 20:32:08"
+    },
+    {
+      "id_origen": 38757,
+      "numero": 4,
+      "titulo": "Tate no Yuusha no Nariagari - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35f48f3c40b10f6acbdd1cd1a8093252.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/4/",
+      "publicado_en_origen": "2019-02-02 20:39:20"
+    },
+    {
+      "id_origen": 38813,
+      "numero": 5,
+      "titulo": "Tate no Yuusha no Nariagari - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5209fa882c43a2d47dc6f0243e9d64f.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/5/",
+      "publicado_en_origen": "2019-02-06 14:10:28"
+    },
+    {
+      "id_origen": 38874,
+      "numero": 6,
+      "titulo": "Tate no Yuusha no Nariagari - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2effe738aabc3389732d52be1e184420.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/6/",
+      "publicado_en_origen": "2019-02-13 21:00:55"
+    },
+    {
+      "id_origen": 38935,
+      "numero": 7,
+      "titulo": "Tate no Yuusha no Nariagari - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21c55cb2ff8f7ce34b89f7cc8cf71d9f.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/7/",
+      "publicado_en_origen": "2019-02-20 14:42:49"
+    },
+    {
+      "id_origen": 39034,
+      "numero": 8,
+      "titulo": "Tate no Yuusha no Nariagari - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38bf2544f0bde18e6a3fc3bc13e2409d.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/8/",
+      "publicado_en_origen": "2019-02-27 15:08:13"
+    },
+    {
+      "id_origen": 39182,
+      "numero": 9,
+      "titulo": "Tate no Yuusha no Nariagari - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3f2c724d994ef8855fafd842dfc13df.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/9/",
+      "publicado_en_origen": "2019-03-06 14:12:02"
+    },
+    {
+      "id_origen": 39309,
+      "numero": 10,
+      "titulo": "Tate no Yuusha no Nariagari - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61a018642a904c166b8949cac36e1177.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/10/",
+      "publicado_en_origen": "2019-03-13 13:37:06"
+    },
+    {
+      "id_origen": 39361,
+      "numero": 11,
+      "titulo": "Tate no Yuusha no Nariagari - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74d1f598371a8d363fab3dca78b93690.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/11/",
+      "publicado_en_origen": "2019-03-20 13:06:48"
+    },
+    {
+      "id_origen": 39404,
+      "numero": 12,
+      "titulo": "Tate no Yuusha no Nariagari - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83227bdca3cdce0e5743a60f5a42b500.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/12/",
+      "publicado_en_origen": "2019-03-27 13:08:03"
+    },
+    {
+      "id_origen": 39519,
+      "numero": 13,
+      "titulo": "Tate no Yuusha no Nariagari - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bcf737121e655f95d5482fe75963ed2d.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/13/",
+      "publicado_en_origen": "2019-04-03 17:59:40"
+    },
+    {
+      "id_origen": 39581,
+      "numero": 14,
+      "titulo": "Tate no Yuusha no Nariagari - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd7c88750b46a26c45c098566f73d378.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/14/",
+      "publicado_en_origen": "2019-04-10 13:11:21"
+    },
+    {
+      "id_origen": 39629,
+      "numero": 15,
+      "titulo": "Tate no Yuusha no Nariagari - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3acf9ea06733ab725beeec8333da403.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/15/",
+      "publicado_en_origen": "2019-04-17 16:26:45"
+    },
+    {
+      "id_origen": 39699,
+      "numero": 16,
+      "titulo": "Tate no Yuusha no Nariagari - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_204e6f2de036648c69169f6f95d7ba17.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/16/",
+      "publicado_en_origen": "2019-04-24 13:51:05"
+    },
+    {
+      "id_origen": 39757,
+      "numero": 17,
+      "titulo": "Tate no Yuusha no Nariagari - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50fb5ad5d9eb3bb648e6c8d18453a7f7.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/17/",
+      "publicado_en_origen": "2019-05-01 14:18:54"
+    },
+    {
+      "id_origen": 39801,
+      "numero": 18,
+      "titulo": "Tate no Yuusha no Nariagari - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a42bde7f0a8acc277c4e482a927d86ae.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/18/",
+      "publicado_en_origen": "2019-05-08 13:37:16"
+    },
+    {
+      "id_origen": 39876,
+      "numero": 19,
+      "titulo": "Tate no Yuusha no Nariagari - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c75af1b54121e4804210955262ec032.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/19/",
+      "publicado_en_origen": "2019-05-15 15:34:05"
+    },
+    {
+      "id_origen": 39955,
+      "numero": 20,
+      "titulo": "Tate no Yuusha no Nariagari - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc4d9b0e9bdbd3186592452785c479cc.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/20/",
+      "publicado_en_origen": "2019-05-22 13:16:47"
+    },
+    {
+      "id_origen": 40020,
+      "numero": 21,
+      "titulo": "Tate no Yuusha no Nariagari - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b179d3a9bbbced0f0166f41f232ee2e8.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/21/",
+      "publicado_en_origen": "2019-05-29 14:36:04"
+    },
+    {
+      "id_origen": 40170,
+      "numero": 22,
+      "titulo": "Tate no Yuusha no Nariagari - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6590d413b51f18d2556c4e620adc5f4.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/22/",
+      "publicado_en_origen": "2019-06-05 13:44:10"
+    },
+    {
+      "id_origen": 40242,
+      "numero": 23,
+      "titulo": "Tate no Yuusha no Nariagari - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d273677652ec19562d9db111abf46d3.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/23/",
+      "publicado_en_origen": "2019-06-12 18:03:06"
+    },
+    {
+      "id_origen": 40287,
+      "numero": 24,
+      "titulo": "Tate no Yuusha no Nariagari - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5aa7cda1f10ead0bbb342ca0516e993.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/24/",
+      "publicado_en_origen": "2019-06-19 17:06:58"
+    },
+    {
+      "id_origen": 40351,
+      "numero": 25,
+      "titulo": "Tate no Yuusha no Nariagari - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b21376ad4cebc51c2c0d2de9839dfcbb.jpg",
+      "url_origen": "https://jkanime.net/tate-no-yuusha-no-nariagari/25/",
+      "publicado_en_origen": "2019-06-26 17:21:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2346",
+  "cantidad_episodios_declarada": 25,
+  "detalle_extraido_en": "2026-08-26T18:48:43+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 1706,
+  "slug": "junjou-romantica-ova",
+  "titulo": "Junjou Romantica OVA",
+  "titulo_corto": "Junjou Romantica OVA",
+  "sinopsis": "OVAS de Junjou Romantica",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/junjou-romantica-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/junjou-romantica-ova/",
+  "episodios": [
+    {
+      "id_origen": 30241,
+      "numero": 1,
+      "titulo": "Junjou Romantica OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0ac90988690d6ab675e7758a92d5828.jpg",
+      "url_origen": "https://jkanime.net/junjou-romantica-ova/1/",
+      "publicado_en_origen": "2015-12-02 18:30:53"
+    },
+    {
+      "id_origen": 30242,
+      "numero": 2,
+      "titulo": "Junjou Romantica OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9653a371e569e87de203013fe8ed79a4.jpg",
+      "url_origen": "https://jkanime.net/junjou-romantica-ova/2/",
+      "publicado_en_origen": "2015-12-02 18:39:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1706",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:33:04+00:00"
+}

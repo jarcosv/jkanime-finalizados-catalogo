@@ -1,0 +1,29 @@
+{
+  "id_origen": 219,
+  "slug": "sword-of-the-stranger",
+  "titulo": "Sword of the Stranger",
+  "titulo_corto": "Sword of the Stranger",
+  "sinopsis": "Durante el periodo de guerra entre estados o Sengoku, un ronin llamado Nanashi, que significa \"sin nombre\", salva a un niño llamado Kotarou y a su perro Tobimaru en un templo abandonado. Kotarou no tiene familia y es perseguido por una misteriosa organización militar de China, por lo que contrata a Nanashi como guardaespaldas. Nanashi, que ha abandonado su nombre junto a su pasado, ha \"sellado\" su espada debido a un suceso pasado por el que es atormentado en forma de pesadillas. El encargado de perseguir a Kotarou es un hombre llamado Rarou, que pertenece a la organización de origen chino y que esta bajo las ordenes de un anciano llamado Byakuran, aunque, a diferencia de sus compañeros, Rarou no posee un concepto de \"Rey\" y solo busca luchar contra el más fuerte.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sword-of-the-stranger.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sword-of-the-stranger/",
+  "episodios": [
+    {
+      "id_origen": 14116,
+      "numero": 1,
+      "titulo": "Sword of the Stranger",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_680cdf3f4fbe1106a6b5a135d8a7c9fb.jpg",
+      "url_origen": "https://jkanime.net/sword-of-the-stranger/1/",
+      "publicado_en_origen": "2011-12-30 19:37:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:26+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "219",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:48:17+00:00"
+}

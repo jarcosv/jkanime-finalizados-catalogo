@@ -1,0 +1,29 @@
+{
+  "id_origen": 452,
+  "slug": "blood-the-last-vampire",
+  "titulo": "Blood: The Last Vampire",
+  "titulo_corto": "Blood: The Last Vampire",
+  "sinopsis": "Saya es la última de los vampiros en este mundo. El ejercito de los Estados Unidos la protege y usa para cazar a unos seres de apariencia humana, que se alimentas de la sangre humana llamados \"quirópteros\". En su última misión, Saya debe cazar a una de estas bestias que parece estar atacando a miembros de una base naval norteamericana en Japón. Antes de poder matarlo, Saya primero tiene que saber quién es el quiróptero, y se ve forzada a acudir como alumna a la escuela de la base.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/blood-the-last-vampire.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/blood-the-last-vampire/",
+  "episodios": [
+    {
+      "id_origen": 13303,
+      "numero": 1,
+      "titulo": "Blood: The Last Vampire",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d8ab89733dd9a88f1a9d130ca675c2e.jpg",
+      "url_origen": "https://jkanime.net/blood-the-last-vampire/1/",
+      "publicado_en_origen": "2011-11-20 12:08:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "452",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:20:35+00:00"
+}

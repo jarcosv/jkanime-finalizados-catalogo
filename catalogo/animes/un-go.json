@@ -1,0 +1,109 @@
+{
+  "id_origen": 713,
+  "slug": "un-go",
+  "titulo": "UN-GO",
+  "titulo_corto": "UN-GO",
+  "sinopsis": "La historia esta basada en la novela que se desarrolla en la era Meiji,donde sigue al joven detective llamado Yuki Shinjuro,que resuelve varios incidentes que suceden en su círculo de amigos.La adaptación anime va a ser una nueva visión de la novela y utilizando una historia original que va a estar ambientada en un futuro cercano,en torno al detective y un niño llamado Inga, que continuamente encuentran misteriosos casos,incorporando a la trama temas de contexto social y literario.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/un-go.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/un-go/",
+  "episodios": [
+    {
+      "id_origen": 18364,
+      "numero": 1,
+      "titulo": "UN-GO - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51516ca3355ddd1669176f3c766ff881.jpg",
+      "url_origen": "https://jkanime.net/un-go/1/",
+      "publicado_en_origen": "2012-11-08 16:40:37"
+    },
+    {
+      "id_origen": 18365,
+      "numero": 2,
+      "titulo": "UN-GO - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f52fc3409424aca1fb71f649113b314.jpg",
+      "url_origen": "https://jkanime.net/un-go/2/",
+      "publicado_en_origen": "2012-11-08 16:40:37"
+    },
+    {
+      "id_origen": 18366,
+      "numero": 3,
+      "titulo": "UN-GO - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a46271b12bd598c1859e0b7118dad925.jpg",
+      "url_origen": "https://jkanime.net/un-go/3/",
+      "publicado_en_origen": "2012-11-08 16:40:37"
+    },
+    {
+      "id_origen": 18367,
+      "numero": 4,
+      "titulo": "UN-GO - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8127b04e1b79f3db3e44bb55cae8d492.jpg",
+      "url_origen": "https://jkanime.net/un-go/4/",
+      "publicado_en_origen": "2012-11-08 16:40:37"
+    },
+    {
+      "id_origen": 18368,
+      "numero": 5,
+      "titulo": "UN-GO - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9f7b62f1fa0212d6809420dc83023e8.jpg",
+      "url_origen": "https://jkanime.net/un-go/5/",
+      "publicado_en_origen": "2012-11-08 16:40:37"
+    },
+    {
+      "id_origen": 18369,
+      "numero": 6,
+      "titulo": "UN-GO - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_971c6340495b40cce8b7ef650650a599.jpg",
+      "url_origen": "https://jkanime.net/un-go/6/",
+      "publicado_en_origen": "2012-11-08 16:40:37"
+    },
+    {
+      "id_origen": 18370,
+      "numero": 7,
+      "titulo": "UN-GO - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb1f13df81c7bee04d8a083204858880.jpg",
+      "url_origen": "https://jkanime.net/un-go/7/",
+      "publicado_en_origen": "2012-11-08 16:40:37"
+    },
+    {
+      "id_origen": 18371,
+      "numero": 8,
+      "titulo": "UN-GO - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b458b8febcef7e8b854ebdd7eda80b96.jpg",
+      "url_origen": "https://jkanime.net/un-go/8/",
+      "publicado_en_origen": "2012-11-08 16:40:37"
+    },
+    {
+      "id_origen": 18372,
+      "numero": 9,
+      "titulo": "UN-GO - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0504009e78c51e294b80953cfca0cf55.jpg",
+      "url_origen": "https://jkanime.net/un-go/9/",
+      "publicado_en_origen": "2012-11-08 16:40:37"
+    },
+    {
+      "id_origen": 18373,
+      "numero": 10,
+      "titulo": "UN-GO - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92ac757bddb78e13c6431c71abc7216f.jpg",
+      "url_origen": "https://jkanime.net/un-go/10/",
+      "publicado_en_origen": "2012-11-08 16:40:37"
+    },
+    {
+      "id_origen": 18374,
+      "numero": 11,
+      "titulo": "UN-GO - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34d630218575caa798d311dceab39cc9.jpg",
+      "url_origen": "https://jkanime.net/un-go/11/",
+      "publicado_en_origen": "2012-11-08 16:40:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:11+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "713",
+  "cantidad_episodios_declarada": 11,
+  "detalle_extraido_en": "2026-08-26T18:51:07+00:00"
+}

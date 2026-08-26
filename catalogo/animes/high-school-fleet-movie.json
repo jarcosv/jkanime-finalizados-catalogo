@@ -1,0 +1,29 @@
+{
+  "id_origen": 4904,
+  "slug": "high-school-fleet-movie",
+  "titulo": "High School Fleet Movie",
+  "titulo_corto": "High School Fleet Movie",
+  "sinopsis": "El instituto marítimo femenino de Yokosuka está en plena efervescencia al acoger a otros institutos marítimos femeninos para disputar competiciones entre centros. Llenas de ilusión, las alumnas de diferentes cursos se reúnen e interactúan entre sí a medida que dan comienzo los festivales y los torneos.\r\n\r\nMientras tanto, Akeno Misaki —capitana de la distinguida clase Harekaze— y su segunda al mando, Mashiro Munetani, se sienten con sentimientos encontrados cuando su instructor les comunica que Mashiro tiene la oportunidad de ponerse al frente de la clase Hiei. Como consecuencia, Mashiro debe tomar pronto una difícil decisión, y Akeno tiene que afrontar la situación tal y como está.\r\n\r\nLa pareja se enfrenta a otro reto después de que Yokosuka se vea en apuros de nuevo. Un grupo de piratas ha capturado una planta de purificación de agua y una fortaleza marítima, amenazando la seguridad del mar. Akeno y Mashiro deben ahora comandar la clase Harekaze en medio de una situación desesperada, todo ello mientras lidian con sus propias dificultades.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/high-school-fleet-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/high-school-fleet-movie/",
+  "episodios": [
+    {
+      "id_origen": 76113,
+      "numero": 1,
+      "titulo": "High School Fleet Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ff6d9d8fdb29312ce05e615cd068c31.jpg",
+      "url_origen": "https://jkanime.net/high-school-fleet-movie/1/",
+      "publicado_en_origen": "2026-08-05 16:03:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4904",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:30:31+00:00"
+}

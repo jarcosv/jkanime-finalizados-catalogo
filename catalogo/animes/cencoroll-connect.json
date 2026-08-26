@@ -1,0 +1,29 @@
+{
+  "id_origen": 2562,
+  "slug": "cencoroll-connect",
+  "titulo": "Cencoroll Connect",
+  "titulo_corto": "Cencoroll Connect",
+  "sinopsis": "La secuela de Cencoroll.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/cencoroll-connect.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/cencoroll-connect/",
+  "episodios": [
+    {
+      "id_origen": 41797,
+      "numero": 1,
+      "titulo": "Cencoroll Connect",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b7c04fdeac958c1ea5f46f053e871b5.jpg",
+      "url_origen": "https://jkanime.net/cencoroll-connect/1/",
+      "publicado_en_origen": "2019-12-22 17:34:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2562",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:23:17+00:00"
+}

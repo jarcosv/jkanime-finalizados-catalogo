@@ -1,0 +1,29 @@
+{
+  "id_origen": 1150,
+  "slug": "brothers-conflict-special",
+  "titulo": "Brothers Conflict Special",
+  "titulo_corto": "Brothers Conflict Special",
+  "sinopsis": "Un valioso objeto será objeto de disputas y muchas sorpresas nos depara.\n\nEspecial 12.5 de la serie Brothers Conflict.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/brothers-conflict-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/brothers-conflict-special/",
+  "episodios": [
+    {
+      "id_origen": 23409,
+      "numero": 1,
+      "titulo": "Brothers Conflict Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_585774f49060e85e2e0a7579202f075f.jpg",
+      "url_origen": "https://jkanime.net/brothers-conflict-special/1/",
+      "publicado_en_origen": "2014-05-05 01:43:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1150",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:21:47+00:00"
+}

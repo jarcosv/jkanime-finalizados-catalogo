@@ -1,0 +1,29 @@
+{
+  "id_origen": 502,
+  "slug": "dragon-ball-z-movie-10-broly-second-coming",
+  "titulo": "Dragon Ball Z Movie 10: Broly - Second Coming",
+  "titulo_corto": "Dragon Ball Z Movie 10: Broly ...",
+  "sinopsis": "Goten, Trunks y Videl se aventuran a ir en busca de las Esferas del Dragon 7 años despues de la pelea con Broly , pronto descubriran un obscuro secreto que amenaza con destruir la tierra.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-z-movie-10-broly-second-coming.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-z-movie-10-broly-second-coming/",
+  "episodios": [
+    {
+      "id_origen": 14553,
+      "numero": 1,
+      "titulo": "Dragon Ball Z Movie 10: Broly - Second Coming",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7f3bfce09a3008d185e1775549ec2d2.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z-movie-10-broly-second-coming/1/",
+      "publicado_en_origen": "2012-01-16 20:40:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "502",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:49+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 560,
+  "slug": "toaru-majutsu-no-index-specials",
+  "titulo": "Toaru Majutsu no Index Specials",
+  "titulo_corto": "Toaru Majutsu no Index Special...",
+  "sinopsis": "Episodios cortos acerca de Index-tan.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/toaru-majutsu-no-index-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/toaru-majutsu-no-index-specials/",
+  "episodios": [
+    {
+      "id_origen": 15574,
+      "numero": 1,
+      "titulo": "Toaru Majutsu no Index Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75814c64e85b3353a7a71fcf0d3c4a2f.jpg",
+      "url_origen": "https://jkanime.net/toaru-majutsu-no-index-specials/1/",
+      "publicado_en_origen": "2012-05-06 01:40:43"
+    },
+    {
+      "id_origen": 15575,
+      "numero": 2,
+      "titulo": "Toaru Majutsu no Index Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3195d1988d8a72e21431743e703b106.jpg",
+      "url_origen": "https://jkanime.net/toaru-majutsu-no-index-specials/2/",
+      "publicado_en_origen": "2012-05-06 01:41:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:22+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "560",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:49:38+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 4585,
+  "slug": "hyakuemu",
+  "titulo": "Hyakuemu.",
+  "titulo_corto": "Hyakuemu.",
+  "sinopsis": "Togashi nació para correr. De niño, tenía un talento natural y ganaba todas las carreras de 100 metros sin esfuerzo. Pero en sexto grado, conoció a Komiya, un estudiante de intercambio con mucha determinación, pero con falta de técnica. Al enseñarle, Togashi le dio a Komiya un nuevo propósito: ganar pase lo que pase. Pasaron los años, Togashi y Komiya se reencontraron como rivales en la pista y revelaron su verdadero yo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hyakuemu.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hyakuemu/",
+  "episodios": [
+    {
+      "id_origen": 70452,
+      "numero": 1,
+      "titulo": "Hyakuemu.",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8cb652df36e8154f2278e90f3e8535e4.jpg",
+      "url_origen": "https://jkanime.net/hyakuemu/1/",
+      "publicado_en_origen": "2025-12-31 14:56:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4585",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:31:25+00:00"
+}

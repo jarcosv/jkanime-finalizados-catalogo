@@ -1,0 +1,229 @@
+{
+  "id_origen": 2209,
+  "slug": "kakuriyo-no-yadomeshi",
+  "titulo": "Kakuriyo no Yadomeshi",
+  "titulo_corto": "Kakuriyo no Yadomeshi",
+  "sinopsis": "Aoi es una chica que va a la universidad que heredó de su abuelo el poder de ver espíritus, aunque ella piensa que su mayor talento es su habilidad en la cocina. Un día, mientras alimenta a unos espíritus agricultores, un dios aparecerá para secuestrarla y casarse con ella con la excusa de que debe pagar las deudas de su abuelo. Sin embargo, Aoi se negará y pretenderá pagar dichas deudas trabajando en Tenshinya, una posada regentada por este dios.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kakuriyo-no-yadomeshi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/",
+  "episodios": [
+    {
+      "id_origen": 50445,
+      "numero": 1,
+      "titulo": "Kakuriyo no Yadomeshi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8861ec811756f664f168d9d0ef86c45.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/1/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50446,
+      "numero": 2,
+      "titulo": "Kakuriyo no Yadomeshi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8ff054a115f83a8c200ff11e6d2371b.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/2/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50447,
+      "numero": 3,
+      "titulo": "Kakuriyo no Yadomeshi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_023888538e1f3c391c865cf5724df897.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/3/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50448,
+      "numero": 4,
+      "titulo": "Kakuriyo no Yadomeshi - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4dc9a880e5e36a12ae36eee2329dc29.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/4/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50449,
+      "numero": 5,
+      "titulo": "Kakuriyo no Yadomeshi - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23ad3f8b8e43f0ef3f31d0a276a435f4.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/5/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50450,
+      "numero": 6,
+      "titulo": "Kakuriyo no Yadomeshi - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f92fb17a88199aa608fe3d4497c1d0e2.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/6/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50451,
+      "numero": 7,
+      "titulo": "Kakuriyo no Yadomeshi - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56f425d386cd02a150ad6c4dfc302d1d.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/7/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50452,
+      "numero": 8,
+      "titulo": "Kakuriyo no Yadomeshi - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bf3dc748e2ca919c2c0e08d8dd1ce4e.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/8/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50453,
+      "numero": 9,
+      "titulo": "Kakuriyo no Yadomeshi - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b381995c7d00c8f4ac8ec33ef1a237ba.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/9/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50454,
+      "numero": 10,
+      "titulo": "Kakuriyo no Yadomeshi - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8166fa841682063c0ad691c81ed9dd41.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/10/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50455,
+      "numero": 11,
+      "titulo": "Kakuriyo no Yadomeshi - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8efde48f61be87de280211d87c80c64a.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/11/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50456,
+      "numero": 12,
+      "titulo": "Kakuriyo no Yadomeshi - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d40435adb0f5825abd91c0286c29094.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/12/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50457,
+      "numero": 13,
+      "titulo": "Kakuriyo no Yadomeshi - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dbf01fd4e166c2d8a70d70e775fa03b.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/13/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50458,
+      "numero": 14,
+      "titulo": "Kakuriyo no Yadomeshi - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f5183302e0df971bc79e872a6dacb6c.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/14/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50459,
+      "numero": 15,
+      "titulo": "Kakuriyo no Yadomeshi - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9f691044e980266cdaa00178a664501.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/15/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50460,
+      "numero": 16,
+      "titulo": "Kakuriyo no Yadomeshi - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ef90a43db36a64e624b328ab63ce2c6.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/16/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50461,
+      "numero": 17,
+      "titulo": "Kakuriyo no Yadomeshi - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8dbf1d772470183d9397cc1ed9b237fc.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/17/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50462,
+      "numero": 18,
+      "titulo": "Kakuriyo no Yadomeshi - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6128e0d3794a05f1deff4766aa6602f9.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/18/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50463,
+      "numero": 19,
+      "titulo": "Kakuriyo no Yadomeshi - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9dc097f5870d1cce6cbd976e9be6a14.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/19/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50464,
+      "numero": 20,
+      "titulo": "Kakuriyo no Yadomeshi - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82a32f4d74658737cad2e39f98ba8f9e.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/20/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50465,
+      "numero": 21,
+      "titulo": "Kakuriyo no Yadomeshi - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da8910b9d59ad1ffdf037fbae7d4a763.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/21/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50466,
+      "numero": 22,
+      "titulo": "Kakuriyo no Yadomeshi - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_047de592b2e27453a97644fc7251a098.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/22/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50467,
+      "numero": 23,
+      "titulo": "Kakuriyo no Yadomeshi - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3787732c9df4c293345a12cda25bc9e2.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/23/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50468,
+      "numero": 24,
+      "titulo": "Kakuriyo no Yadomeshi - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_407c7791d457b1b27c1959be3ce1b7bc.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/24/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50469,
+      "numero": 25,
+      "titulo": "Kakuriyo no Yadomeshi - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ba9e7e79d6cbbe012cb1f3b83b54ed2.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/25/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    },
+    {
+      "id_origen": 50470,
+      "numero": 26,
+      "titulo": "Kakuriyo no Yadomeshi - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_969d72d60087718db14e44cc4b42e7f7.jpg",
+      "url_origen": "https://jkanime.net/kakuriyo-no-yadomeshi/26/",
+      "publicado_en_origen": "2022-09-04 15:29:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:19+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2209",
+  "cantidad_episodios_declarada": 26,
+  "detalle_extraido_en": "2026-08-26T18:33:32+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 3027,
+  "slug": "sorairo-utility",
+  "titulo": "Sorairo Utility",
+  "titulo_corto": "Sorairo Utility",
+  "sinopsis": "Minami es una chica de secundaria y principiante en el golf. Sus dos amigas Haruka y Ayaka le presentan el deporte y disfrutan jugando y aprendiendo juntas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sorairo-utility.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sorairo-utility/",
+  "episodios": [
+    {
+      "id_origen": 47843,
+      "numero": 1,
+      "titulo": "Sorairo Utility - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c628bded2709eb2b451fdba80e2066ae.jpg",
+      "url_origen": "https://jkanime.net/sorairo-utility/1/",
+      "publicado_en_origen": "2021-12-31 16:56:56"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3027",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:22+00:00"
+}

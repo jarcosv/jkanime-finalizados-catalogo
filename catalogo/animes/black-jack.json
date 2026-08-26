@@ -1,0 +1,437 @@
+{
+  "id_origen": 460,
+  "slug": "black-jack",
+  "titulo": "Black Jack",
+  "titulo_corto": "Black Jack",
+  "sinopsis": "Black jack es un cirujano famoso en todo el mundo por sus operaciones milagrosas y por cobrar mucho dinero por las mismas, ademas de no tener licencia para realizarlas. Junto con su ayudante pinoco reliza las operaciones en su consultori personal, hospitales que piden su ayuda o en el extranjero.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/black-jack.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/black-jack/",
+  "episodios": [
+    {
+      "id_origen": 13633,
+      "numero": 1,
+      "titulo": "Black Jack - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e7f6c38c238834f094d50661ec45fcd.jpg",
+      "url_origen": "https://jkanime.net/black-jack/1/",
+      "publicado_en_origen": "2011-12-08 18:36:40"
+    },
+    {
+      "id_origen": 13634,
+      "numero": 2,
+      "titulo": "Black Jack - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de6e6702f8c798ff599809dc3729e5a1.jpg",
+      "url_origen": "https://jkanime.net/black-jack/2/",
+      "publicado_en_origen": "2011-12-08 18:36:40"
+    },
+    {
+      "id_origen": 13635,
+      "numero": 3,
+      "titulo": "Black Jack - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e87152a7cbeb2c3262d51598e1de52d5.jpg",
+      "url_origen": "https://jkanime.net/black-jack/3/",
+      "publicado_en_origen": "2011-12-08 18:36:40"
+    },
+    {
+      "id_origen": 13636,
+      "numero": 4,
+      "titulo": "Black Jack - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e887cf8e64ab8e7173701a979476567.jpg",
+      "url_origen": "https://jkanime.net/black-jack/4/",
+      "publicado_en_origen": "2011-12-08 18:37:27"
+    },
+    {
+      "id_origen": 13637,
+      "numero": 5,
+      "titulo": "Black Jack - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c48ff739d86fc927eeb6b53379cb782.jpg",
+      "url_origen": "https://jkanime.net/black-jack/5/",
+      "publicado_en_origen": "2011-12-08 18:37:27"
+    },
+    {
+      "id_origen": 13638,
+      "numero": 6,
+      "titulo": "Black Jack - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a65eb348fb03103dcd48530b52b996a7.jpg",
+      "url_origen": "https://jkanime.net/black-jack/6/",
+      "publicado_en_origen": "2011-12-08 18:37:27"
+    },
+    {
+      "id_origen": 13639,
+      "numero": 7,
+      "titulo": "Black Jack - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad9f2f92fd04851d42d216a6954683c3.jpg",
+      "url_origen": "https://jkanime.net/black-jack/7/",
+      "publicado_en_origen": "2011-12-08 18:37:27"
+    },
+    {
+      "id_origen": 13640,
+      "numero": 8,
+      "titulo": "Black Jack - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_080eb9c2c128e1337fcc84d8680f404c.jpg",
+      "url_origen": "https://jkanime.net/black-jack/8/",
+      "publicado_en_origen": "2011-12-08 18:37:27"
+    },
+    {
+      "id_origen": 13641,
+      "numero": 9,
+      "titulo": "Black Jack - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27a5eaafdb88c45dd61732d6a6493421.jpg",
+      "url_origen": "https://jkanime.net/black-jack/9/",
+      "publicado_en_origen": "2011-12-08 18:37:27"
+    },
+    {
+      "id_origen": 13642,
+      "numero": 10,
+      "titulo": "Black Jack - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa10e81e2f9a723f528413a87675758e.jpg",
+      "url_origen": "https://jkanime.net/black-jack/10/",
+      "publicado_en_origen": "2011-12-08 18:37:27"
+    },
+    {
+      "id_origen": 13643,
+      "numero": 11,
+      "titulo": "Black Jack - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12c5d905338ad27185308ae3269ef888.jpg",
+      "url_origen": "https://jkanime.net/black-jack/11/",
+      "publicado_en_origen": "2011-12-08 18:37:27"
+    },
+    {
+      "id_origen": 13644,
+      "numero": 12,
+      "titulo": "Black Jack - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55e2c9d06a7261846e96b8bb2d4e1fe5.jpg",
+      "url_origen": "https://jkanime.net/black-jack/12/",
+      "publicado_en_origen": "2011-12-08 18:37:47"
+    },
+    {
+      "id_origen": 13645,
+      "numero": 13,
+      "titulo": "Black Jack - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a3d255db4902a0001b094c2aa24146a.jpg",
+      "url_origen": "https://jkanime.net/black-jack/13/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13646,
+      "numero": 14,
+      "titulo": "Black Jack - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a2b56600097fa2ea81bfc9774f1baaf.jpg",
+      "url_origen": "https://jkanime.net/black-jack/14/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13647,
+      "numero": 15,
+      "titulo": "Black Jack - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8b02a85f7fff3856b9dad807b6d0469.jpg",
+      "url_origen": "https://jkanime.net/black-jack/15/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13648,
+      "numero": 16,
+      "titulo": "Black Jack - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d6f787aa177215c3ac1e15c824e7891.jpg",
+      "url_origen": "https://jkanime.net/black-jack/16/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13649,
+      "numero": 17,
+      "titulo": "Black Jack - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62a7e2da310bdb98fb0b60102a6876e2.jpg",
+      "url_origen": "https://jkanime.net/black-jack/17/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13650,
+      "numero": 18,
+      "titulo": "Black Jack - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0631ba089fcd29d70c2e3d2ae75f7cc9.jpg",
+      "url_origen": "https://jkanime.net/black-jack/18/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13651,
+      "numero": 19,
+      "titulo": "Black Jack - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa3f874fb850d8908be9af3a69af4289.jpg",
+      "url_origen": "https://jkanime.net/black-jack/19/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13652,
+      "numero": 20,
+      "titulo": "Black Jack - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4223a1d5b9e017dda51515829140e5d2.jpg",
+      "url_origen": "https://jkanime.net/black-jack/20/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13653,
+      "numero": 21,
+      "titulo": "Black Jack - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bb77e5c6d452aee283844d47756dc05.jpg",
+      "url_origen": "https://jkanime.net/black-jack/21/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13654,
+      "numero": 22,
+      "titulo": "Black Jack - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2d083a5fd066b082d93042169313e21.jpg",
+      "url_origen": "https://jkanime.net/black-jack/22/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13655,
+      "numero": 23,
+      "titulo": "Black Jack - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b443471216b517cc30cb9eea354e023d.jpg",
+      "url_origen": "https://jkanime.net/black-jack/23/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13656,
+      "numero": 24,
+      "titulo": "Black Jack - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6003950cffdc86970909a494861920c6.jpg",
+      "url_origen": "https://jkanime.net/black-jack/24/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13657,
+      "numero": 25,
+      "titulo": "Black Jack - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7db181be25ab69447b69a185006d9b03.jpg",
+      "url_origen": "https://jkanime.net/black-jack/25/",
+      "publicado_en_origen": "2011-12-08 18:38:27"
+    },
+    {
+      "id_origen": 13658,
+      "numero": 26,
+      "titulo": "Black Jack - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07d34e2419c61216a85a2156b2cf8ae4.jpg",
+      "url_origen": "https://jkanime.net/black-jack/26/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13659,
+      "numero": 27,
+      "titulo": "Black Jack - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5f30ed55c1e0b0c8be8d25edacb6f94.jpg",
+      "url_origen": "https://jkanime.net/black-jack/27/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13660,
+      "numero": 28,
+      "titulo": "Black Jack - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8520cc3bc0a952ed24958ef3ba47c7e0.jpg",
+      "url_origen": "https://jkanime.net/black-jack/28/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13661,
+      "numero": 29,
+      "titulo": "Black Jack - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_676028519e3890cbff8d79635f830913.jpg",
+      "url_origen": "https://jkanime.net/black-jack/29/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13662,
+      "numero": 30,
+      "titulo": "Black Jack - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a57122a72d2bd5e8a156c678952f88b.jpg",
+      "url_origen": "https://jkanime.net/black-jack/30/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13663,
+      "numero": 31,
+      "titulo": "Black Jack - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_574ebc151c3252c2eb93d6504efdc5ab.jpg",
+      "url_origen": "https://jkanime.net/black-jack/31/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13664,
+      "numero": 32,
+      "titulo": "Black Jack - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84a2f99497af741e33d2ffa9f05857ba.jpg",
+      "url_origen": "https://jkanime.net/black-jack/32/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13665,
+      "numero": 33,
+      "titulo": "Black Jack - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_045d197cc382e32312ecddbbab72eed6.jpg",
+      "url_origen": "https://jkanime.net/black-jack/33/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13666,
+      "numero": 34,
+      "titulo": "Black Jack - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf8af7399db538a24dd5e9ce48e562d2.jpg",
+      "url_origen": "https://jkanime.net/black-jack/34/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13667,
+      "numero": 35,
+      "titulo": "Black Jack - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b4189d291303f65bf1ade6178e13fab.jpg",
+      "url_origen": "https://jkanime.net/black-jack/35/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13668,
+      "numero": 36,
+      "titulo": "Black Jack - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db4195f88b8dae852e94bfcf0f2cc0b9.jpg",
+      "url_origen": "https://jkanime.net/black-jack/36/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13669,
+      "numero": 37,
+      "titulo": "Black Jack - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b18886bc278247582704943f5c66eb9.jpg",
+      "url_origen": "https://jkanime.net/black-jack/37/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13670,
+      "numero": 38,
+      "titulo": "Black Jack - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9220e33481b237d9d5d19112688f6dd4.jpg",
+      "url_origen": "https://jkanime.net/black-jack/38/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13671,
+      "numero": 39,
+      "titulo": "Black Jack - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc0a521e0f695aa06ed11384fb616ac3.jpg",
+      "url_origen": "https://jkanime.net/black-jack/39/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13672,
+      "numero": 40,
+      "titulo": "Black Jack - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfae769c739093f5225cecaf4d5a612f.jpg",
+      "url_origen": "https://jkanime.net/black-jack/40/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13673,
+      "numero": 41,
+      "titulo": "Black Jack - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_930473a02d035f62b3c3c2628a284416.jpg",
+      "url_origen": "https://jkanime.net/black-jack/41/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13674,
+      "numero": 42,
+      "titulo": "Black Jack - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c42c101f89ec57e54230d611f74d5ae1.jpg",
+      "url_origen": "https://jkanime.net/black-jack/42/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13675,
+      "numero": 43,
+      "titulo": "Black Jack - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f37c010783748f8e8577f732d74054c.jpg",
+      "url_origen": "https://jkanime.net/black-jack/43/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13676,
+      "numero": 44,
+      "titulo": "Black Jack - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_480167897cc43b2fb914238f45d7dbbf.jpg",
+      "url_origen": "https://jkanime.net/black-jack/44/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13677,
+      "numero": 45,
+      "titulo": "Black Jack - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c48eb27d5b0a288f5bbf1545c218e001.jpg",
+      "url_origen": "https://jkanime.net/black-jack/45/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13678,
+      "numero": 46,
+      "titulo": "Black Jack - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48338c824f561ce12a6f1c33d8ea4125.jpg",
+      "url_origen": "https://jkanime.net/black-jack/46/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13679,
+      "numero": 47,
+      "titulo": "Black Jack - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47817658c89f15d634d488fabe77d4e2.jpg",
+      "url_origen": "https://jkanime.net/black-jack/47/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13680,
+      "numero": 48,
+      "titulo": "Black Jack - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_163fd77a3b90502e0f3aa35e3ec14fae.jpg",
+      "url_origen": "https://jkanime.net/black-jack/48/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13681,
+      "numero": 49,
+      "titulo": "Black Jack - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56138186020206c2b1d99be41c8dc9b8.jpg",
+      "url_origen": "https://jkanime.net/black-jack/49/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13682,
+      "numero": 50,
+      "titulo": "Black Jack - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9eb39f498fa0839b3ed20b519fde6c3c.jpg",
+      "url_origen": "https://jkanime.net/black-jack/50/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13683,
+      "numero": 51,
+      "titulo": "Black Jack - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b01ccf4f29b57b0b1bdb9407050db28d.jpg",
+      "url_origen": "https://jkanime.net/black-jack/51/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    },
+    {
+      "id_origen": 13684,
+      "numero": 52,
+      "titulo": "Black Jack - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8164ca2fe04767628ac1c6813e8a0867.jpg",
+      "url_origen": "https://jkanime.net/black-jack/52/",
+      "publicado_en_origen": "2011-12-08 18:44:59"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:32+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "460",
+  "cantidad_episodios_declarada": 61,
+  "detalle_extraido_en": "2026-08-26T18:20:09+00:00"
+}

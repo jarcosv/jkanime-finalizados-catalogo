@@ -1,0 +1,29 @@
+{
+  "id_origen": 1566,
+  "slug": "god-eater-prologue",
+  "titulo": "God Eater Prologue",
+  "titulo_corto": "God Eater Prologue",
+  "sinopsis": "Es el año 2065, tres poseedores del \"arma divina\" de la rama Lejada de Fenrir llegan a una operación militar contra las poderosas criaturas llamadas Aragami",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/god-eater-prologue.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/god-eater-prologue/",
+  "episodios": [
+    {
+      "id_origen": 28477,
+      "numero": 1,
+      "titulo": "God Eater Prologue",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d56af33e24d2a02c40a53b26fde2bc4a.jpg",
+      "url_origen": "https://jkanime.net/god-eater-prologue/1/",
+      "publicado_en_origen": "2015-06-17 18:53:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:20+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1566",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:28:48+00:00"
+}

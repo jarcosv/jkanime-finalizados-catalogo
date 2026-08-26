@@ -1,0 +1,29 @@
+{
+  "id_origen": 692,
+  "slug": "inu-x-boku-ss-special",
+  "titulo": "Inu x Boku SS Special",
+  "titulo_corto": "Inu x Boku SS Special",
+  "sinopsis": "Episodio no transmitido en tv incluido en el 7mo. volumen de releases de Blu-rays y DVDs. El cual contará tres historias cortas escritas por el autor del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/inu-x-boku-ss-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/inu-x-boku-ss-special/",
+  "episodios": [
+    {
+      "id_origen": 17805,
+      "numero": 1,
+      "titulo": "Inu x Boku SS Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a16741d0aac91b0ca73b5bb17b3f4e36.jpg",
+      "url_origen": "https://jkanime.net/inu-x-boku-ss-special/1/",
+      "publicado_en_origen": "2012-10-13 18:03:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "692",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:31:56+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1553,
+  "slug": "mobile-suit-gundam-0083-the-fading-light-of-zeon",
+  "titulo": "Mobile Suit Gundam 0083: The Fading Light of Zeon",
+  "titulo_corto": "Mobile Suit Gundam 0083: The F...",
+  "sinopsis": "U.C. 0083 - Tres años han pasado después de la \"Guerra de Un Año\", cuando un grupo de bandidos de Zeon conocidos como \"La Flota Delaz\" hace su movimiento robando el prototipo \"Gundam GP02A\". Esta aventura comienza cuando el piloto novato, Kou Uraki, toma control del Gundam GP01 para perseguir al as veterano de Zeon, Anavel Gato, con intención de recuperar el prototipo robado...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mobile-suit-gundam-0083-the-fading-light-of-zeon.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mobile-suit-gundam-0083-the-fading-light-of-zeon/",
+  "episodios": [
+    {
+      "id_origen": 28226,
+      "numero": 1,
+      "titulo": "Mobile Suit Gundam 0083: The Fading Light of Zeon",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68ab14b322fecf44196cc1186f167857.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-0083-the-fading-light-of-zeon/1/",
+      "publicado_en_origen": "2015-06-12 08:35:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1553",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:38:55+00:00"
+}

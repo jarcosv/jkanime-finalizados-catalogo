@@ -1,0 +1,29 @@
+{
+  "id_origen": 1708,
+  "slug": "one-punch-man-road-to-hero",
+  "titulo": "One Punch Man: Road to Hero",
+  "titulo_corto": "One Punch Man: Road to Hero",
+  "sinopsis": "Incluida en el decimo volumen del Manga de One Punch-Man",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-punch-man-road-to-hero.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-punch-man-road-to-hero/",
+  "episodios": [
+    {
+      "id_origen": 30260,
+      "numero": 1,
+      "titulo": "One Punch Man: Road to Hero",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-punch-man-road-to-hero.jpg",
+      "url_origen": "https://jkanime.net/one-punch-man-road-to-hero/1/",
+      "publicado_en_origen": "2015-12-04 18:07:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1708",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:14+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 785,
+  "slug": "nozoki-ana",
+  "titulo": "Nozoki Ana",
+  "titulo_corto": "Nozoki Ana",
+  "sinopsis": "Kido Tatsuhiko se mudó a Tokio para asistir a una escuela de arte y comenzar su nueva vida. En su nueva sala, hay un pequeño agujero en la pared. Al principio no se puede ver nada a través del pequeño agujero, pero una noche, asomándose a través del agujero, vio a una niña. Así es como empieza su nueva vida.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nozoki-ana.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nozoki-ana/",
+  "episodios": [
+    {
+      "id_origen": 19598,
+      "numero": 1,
+      "titulo": "Nozoki Ana",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e3febae74bb362088755e1f1cb3c4a5.jpg",
+      "url_origen": "https://jkanime.net/nozoki-ana/1/",
+      "publicado_en_origen": "2013-03-11 23:10:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "785",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:49+00:00"
+}

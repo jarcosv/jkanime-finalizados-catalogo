@@ -1,0 +1,221 @@
+{
+  "id_origen": 83,
+  "slug": "07-ghost",
+  "titulo": "07-Ghost",
+  "titulo_corto": "07-Ghost",
+  "sinopsis": "En un mundo gotico de fantasía, esta es la historia de Teito Klein, un huerfano que se convierte en el mejor estudiante de una escuela militar, y que por cosas del destino termina siendo perseguido por el Imperio Barsburg. Mientras escapa toma refugio en una iglesia donde descubre muchos misterios sobre él, la iglesia y el Imperio mismo. El hecho de que puede estar conectado con el Rey derrocado y la mística roca de dios \"El ojo de Mikhael\". Afortunadamente la iglesia esta bajo la proteccion de los miticos 7 Ghost ¿Pero qué son en realidad estos Ghosts.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/07-ghost.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/07-ghost/",
+  "episodios": [
+    {
+      "id_origen": 1945,
+      "numero": 1,
+      "titulo": "07 Ghost 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d00f43f07911355d4151f13925ff292.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1946,
+      "numero": 2,
+      "titulo": "07 Ghost 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f71e393b3809197ed66df836fe833e5.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1947,
+      "numero": 3,
+      "titulo": "07 Ghost 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de03beffeed9da5f3639a621bcab5dd4.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1948,
+      "numero": 4,
+      "titulo": "07 Ghost 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ca57a9f85a19a6e4b9a248c1daca185.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1949,
+      "numero": 5,
+      "titulo": "07 Ghost 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36ac8e558ac7690b6f44e2cb5ef93322.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1950,
+      "numero": 6,
+      "titulo": "07 Ghost 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03e7d2ebec1e820ac34d054df7e68f48.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1951,
+      "numero": 7,
+      "titulo": "07 Ghost 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a508a60aa3bf9510ea6acb021c94b48.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/7/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1952,
+      "numero": 8,
+      "titulo": "07 Ghost 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1113d7a76ffceca1bb350bfe145467c6.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/8/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1953,
+      "numero": 9,
+      "titulo": "07 Ghost 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a38b16173474ba8b1a95bcbc30d3b8a5.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/9/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1954,
+      "numero": 10,
+      "titulo": "07 Ghost 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a7f963e5e0504740c3a6b10bb6d4fa5.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/10/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1955,
+      "numero": 11,
+      "titulo": "07 Ghost 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_378a063b8fdb1db941e34f4bde584c7d.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/11/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1956,
+      "numero": 12,
+      "titulo": "07 Ghost 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3408432c1a48a52fb6c74d926b38886.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/12/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1957,
+      "numero": 13,
+      "titulo": "07 Ghost 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_277a78fc05c8864a170e9a56ceeabc4c.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/13/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1958,
+      "numero": 14,
+      "titulo": "07 Ghost 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d77f00766fd3be3f2189c843a6af3fb2.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/14/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1959,
+      "numero": 15,
+      "titulo": "07 Ghost 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4dd5528f7596dcdf871aa55cfccc53c.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/15/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1960,
+      "numero": 16,
+      "titulo": "07 Ghost 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f16109f1619fd7a733daf5a84c708c1.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/16/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1961,
+      "numero": 17,
+      "titulo": "07 Ghost 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f106b7f99d2cb30c3db1c3cc0fde9ccb.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/17/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1962,
+      "numero": 18,
+      "titulo": "07 Ghost 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95f6870ff3dcd442254e334a9033d349.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/18/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1963,
+      "numero": 19,
+      "titulo": "07 Ghost 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c215b446bcdf956d848a8419c1b5a920.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/19/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1964,
+      "numero": 20,
+      "titulo": "07 Ghost 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39dcaf7a053dc372fbc391d4e6b5d693.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/20/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1965,
+      "numero": 21,
+      "titulo": "07 Ghost 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d46e1fcf4c07ce4a69ee07e4134bcef1.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/21/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1966,
+      "numero": 22,
+      "titulo": "07 Ghost 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3683af9d6f6c06acee72992f2977f67e.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/22/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1967,
+      "numero": 23,
+      "titulo": "07 Ghost 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a82d922b133be19c1171534e6594f754.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/23/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1968,
+      "numero": 24,
+      "titulo": "07 Ghost 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98c7242894844ecd6ec94af67ac8247d.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/24/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1969,
+      "numero": 25,
+      "titulo": "07 Ghost 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d8556695c262ab91ff51a943fdd6058.jpg",
+      "url_origen": "https://jkanime.net/07-ghost/25/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "83",
+  "cantidad_episodios_declarada": 25,
+  "detalle_extraido_en": "2026-08-26T18:14:31+00:00"
+}

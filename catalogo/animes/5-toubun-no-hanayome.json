@@ -1,0 +1,37 @@
+{
+  "id_origen": 3496,
+  "slug": "5-toubun-no-hanayome",
+  "titulo": "5-toubun no Hanayome∽",
+  "titulo_corto": "5-toubun no Hanayome∽",
+  "sinopsis": "Con historias del manga no adaptadas al anime principal.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/5-toubun-no-hanayome.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/5-toubun-no-hanayome/",
+  "episodios": [
+    {
+      "id_origen": 53976,
+      "numero": 1,
+      "titulo": "5-toubun no Hanayome∽",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecbc7271feae33f8ddbac019ac6fa990.jpg",
+      "url_origen": "https://jkanime.net/5-toubun-no-hanayome/1/",
+      "publicado_en_origen": "2023-09-02 16:55:46"
+    },
+    {
+      "id_origen": 54054,
+      "numero": 2,
+      "titulo": "5-toubun no Hanayome∽",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34778ff805e59b79646c3eaee2ba7149.jpg",
+      "url_origen": "https://jkanime.net/5-toubun-no-hanayome/2/",
+      "publicado_en_origen": "2023-09-09 16:14:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3496",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:14:49+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "id_origen": 119,
+  "slug": "tales-of-phantasia-ovas",
+  "titulo": "Tales of Phantasia: The Animation",
+  "titulo_corto": "Tales of Phantasia: The Animat...",
+  "sinopsis": "Basadas en el RPGs original de SNES, estas cuatro OVAs narran la historia de Cless, Mint y Chester, cuyo mundo se encuentra en peligro debido a la resurrección del Dios del Mal, Dhaos. Ellos lucharán en una batalla más allá del tiempo junto a Arche y Klarth (procedentes del pasado y poseedores de la extinguida magia en la línea temporal de Cless y el resto) y Suzu (una ninja del futuro que busca venganza contra Dhaos). Juntos emprenderán un viaje para conocer los ocultos motivos e intenciones de Dhaos y acabar de una vez por todas con él.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tales-of-phantasia-ovas.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tales-of-phantasia-ovas/",
+  "episodios": [
+    {
+      "id_origen": 2638,
+      "numero": 1,
+      "titulo": "Tales of Phantasia ovas 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06c284d3f757b15c02f47f3ff06dc275.jpg",
+      "url_origen": "https://jkanime.net/tales-of-phantasia-ovas/1/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2639,
+      "numero": 2,
+      "titulo": "Tales of Phantasia ovas 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09a5e2a11bea20817477e0b1dfe2cc21.jpg",
+      "url_origen": "https://jkanime.net/tales-of-phantasia-ovas/2/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2640,
+      "numero": 3,
+      "titulo": "Tales of Phantasia ovas 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a5748a2fbaa6564d05d7f2ae29a9355.jpg",
+      "url_origen": "https://jkanime.net/tales-of-phantasia-ovas/3/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    },
+    {
+      "id_origen": 2641,
+      "numero": 4,
+      "titulo": "Tales of Phantasia ovas 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f21e255f89e0f258accbe4e984eef486.jpg",
+      "url_origen": "https://jkanime.net/tales-of-phantasia-ovas/4/",
+      "publicado_en_origen": "2011-07-06 10:31:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:32+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "119",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:48:29+00:00"
+}

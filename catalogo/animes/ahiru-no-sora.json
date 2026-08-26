@@ -1,0 +1,421 @@
+{
+  "id_origen": 2500,
+  "slug": "ahiru-no-sora",
+  "titulo": "Ahiru no Sora",
+  "titulo_corto": "Ahiru no Sora",
+  "sinopsis": "Sora Kurumatani es muy bajito, ¡pero es todo un gigante en la cancha de baloncesto! Tras heredar la pasión por ese deporte de su madre, Sora promete alcanzar la cima en el torneo de preparatoria de baloncesto... pero se encuentra con cierto problemilla. Su nueva escuela no tiene club de baloncesto, o mejor dicho... ¡lo tiene, pero es un nido de delincuentes donde el baloncesto no importa! La tenacidad de Sora y su habilidad en la cancha pueden ser lo que haga que el club se ponga en marcha de nuevo, pero ¿podrá lograrlo?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ahiru-no-sora.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ahiru-no-sora/",
+  "episodios": [
+    {
+      "id_origen": 41148,
+      "numero": 1,
+      "titulo": "Ahiru no Sora - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe3b6e7520c12eb81a834c497690fcff.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/1/",
+      "publicado_en_origen": "2019-10-02 12:17:51"
+    },
+    {
+      "id_origen": 41211,
+      "numero": 2,
+      "titulo": "Ahiru no Sora - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab5858f982b4009457e224fa1efdba73.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/2/",
+      "publicado_en_origen": "2019-10-09 22:50:34"
+    },
+    {
+      "id_origen": 41262,
+      "numero": 3,
+      "titulo": "Ahiru no Sora - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e45ee43ad4c583428f4381f141c836d.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/3/",
+      "publicado_en_origen": "2019-10-16 13:13:47"
+    },
+    {
+      "id_origen": 41310,
+      "numero": 4,
+      "titulo": "Ahiru no Sora - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38cefcbd8fdddeba6acabcef529887d7.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/4/",
+      "publicado_en_origen": "2019-10-23 11:45:07"
+    },
+    {
+      "id_origen": 41381,
+      "numero": 5,
+      "titulo": "Ahiru no Sora - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08fdf1038af7dd3070bdcd18922e23b2.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/5/",
+      "publicado_en_origen": "2019-10-30 11:22:41"
+    },
+    {
+      "id_origen": 41437,
+      "numero": 6,
+      "titulo": "Ahiru no Sora - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f52b5a5a83b60359562d12342f8e5950.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/6/",
+      "publicado_en_origen": "2019-11-06 12:18:36"
+    },
+    {
+      "id_origen": 41495,
+      "numero": 7,
+      "titulo": "Ahiru no Sora - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f702407c8ab99af3b508ed528516b86c.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/7/",
+      "publicado_en_origen": "2019-11-13 16:10:55"
+    },
+    {
+      "id_origen": 41544,
+      "numero": 8,
+      "titulo": "Ahiru no Sora - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4f6990eb781c566de8d91cb6fe6ca5d.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/8/",
+      "publicado_en_origen": "2019-11-20 13:27:30"
+    },
+    {
+      "id_origen": 41601,
+      "numero": 9,
+      "titulo": "Ahiru no Sora - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d67a02d19aa864dc38b099359e48431.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/9/",
+      "publicado_en_origen": "2019-11-27 13:13:12"
+    },
+    {
+      "id_origen": 41650,
+      "numero": 10,
+      "titulo": "Ahiru no Sora - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_328ff8f89f412408ecfd81b97a1f9c08.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/10/",
+      "publicado_en_origen": "2019-12-04 12:28:19"
+    },
+    {
+      "id_origen": 41704,
+      "numero": 11,
+      "titulo": "Ahiru no Sora - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_380145bb084aa454fe34abc4cad8c357.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/11/",
+      "publicado_en_origen": "2019-12-11 13:18:54"
+    },
+    {
+      "id_origen": 41761,
+      "numero": 12,
+      "titulo": "Ahiru no Sora - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_382ffdbd9ec437f2e3dc94d2e137bbf9.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/12/",
+      "publicado_en_origen": "2019-12-18 17:10:53"
+    },
+    {
+      "id_origen": 41808,
+      "numero": 13,
+      "titulo": "Ahiru no Sora - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d76ffc82aa2886416809b12d5e65f5b.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/13/",
+      "publicado_en_origen": "2019-12-25 11:28:18"
+    },
+    {
+      "id_origen": 41877,
+      "numero": 14,
+      "titulo": "Ahiru no Sora - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6094ce2d81a4ceef4996f3f0ea04635.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/14/",
+      "publicado_en_origen": "2020-01-08 12:29:41"
+    },
+    {
+      "id_origen": 41936,
+      "numero": 15,
+      "titulo": "Ahiru no Sora - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9bbfa08916e056d129747cd447cb539.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/15/",
+      "publicado_en_origen": "2020-01-15 22:45:38"
+    },
+    {
+      "id_origen": 41991,
+      "numero": 16,
+      "titulo": "Ahiru no Sora - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e9c8746c47446e383b404bc3e5cab85.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/16/",
+      "publicado_en_origen": "2020-01-22 10:52:36"
+    },
+    {
+      "id_origen": 42050,
+      "numero": 17,
+      "titulo": "Ahiru no Sora - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89d60498bc014d32f5ba7f6d17a55d5c.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/17/",
+      "publicado_en_origen": "2020-01-30 01:58:09"
+    },
+    {
+      "id_origen": 42105,
+      "numero": 18,
+      "titulo": "Ahiru no Sora - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa73d2a1fc013590cb3167a83ea29b52.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/18/",
+      "publicado_en_origen": "2020-02-05 13:13:24"
+    },
+    {
+      "id_origen": 42161,
+      "numero": 19,
+      "titulo": "Ahiru no Sora - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0e6055aa7c6f509c6385327eb615820.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/19/",
+      "publicado_en_origen": "2020-02-12 12:58:50"
+    },
+    {
+      "id_origen": 42210,
+      "numero": 20,
+      "titulo": "Ahiru no Sora - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e782e89abdb62740b34d162d21510f6c.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/20/",
+      "publicado_en_origen": "2020-02-19 14:03:55"
+    },
+    {
+      "id_origen": 42260,
+      "numero": 21,
+      "titulo": "Ahiru no Sora - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c5343ac475f639320f822c448fdf93d.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/21/",
+      "publicado_en_origen": "2020-02-26 11:55:32"
+    },
+    {
+      "id_origen": 42313,
+      "numero": 22,
+      "titulo": "Ahiru no Sora - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36f6d5bde803873f6bffe9949f258935.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/22/",
+      "publicado_en_origen": "2020-03-04 10:27:15"
+    },
+    {
+      "id_origen": 42366,
+      "numero": 23,
+      "titulo": "Ahiru no Sora - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4a37a482b342af6285603323256dee0.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/23/",
+      "publicado_en_origen": "2020-03-11 12:50:06"
+    },
+    {
+      "id_origen": 42445,
+      "numero": 24,
+      "titulo": "Ahiru no Sora - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6387b3c7211c4bcbdff0c3d7ab085a2d.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/24/",
+      "publicado_en_origen": "2020-03-18 14:18:13"
+    },
+    {
+      "id_origen": 42594,
+      "numero": 25,
+      "titulo": "Ahiru no Sora - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4eb0bec324d963e66c1cc6d37fd79891.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/25/",
+      "publicado_en_origen": "2020-04-01 15:57:21"
+    },
+    {
+      "id_origen": 42638,
+      "numero": 26,
+      "titulo": "Ahiru no Sora - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0bea38f0d457b035f0f065c7afb7db0.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/26/",
+      "publicado_en_origen": "2020-04-08 15:00:28"
+    },
+    {
+      "id_origen": 42691,
+      "numero": 27,
+      "titulo": "Ahiru no Sora - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aed6da3484a5fcde3290e3edcc6d1982.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/27/",
+      "publicado_en_origen": "2020-04-15 14:16:12"
+    },
+    {
+      "id_origen": 42738,
+      "numero": 28,
+      "titulo": "Ahiru no Sora - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b97f793636f8baec3ff8cd0ebf5c33c.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/28/",
+      "publicado_en_origen": "2020-04-22 13:20:56"
+    },
+    {
+      "id_origen": 42777,
+      "numero": 29,
+      "titulo": "Ahiru no Sora - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54df535aac8fddb05cca243ffb673719.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/29/",
+      "publicado_en_origen": "2020-04-29 12:21:09"
+    },
+    {
+      "id_origen": 42813,
+      "numero": 30,
+      "titulo": "Ahiru no Sora - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62a081b993506561f522af260073cb18.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/30/",
+      "publicado_en_origen": "2020-05-06 13:58:08"
+    },
+    {
+      "id_origen": 42851,
+      "numero": 31,
+      "titulo": "Ahiru no Sora - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15b513b56021f781a10e11bf6246bffe.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/31/",
+      "publicado_en_origen": "2020-05-13 13:39:51"
+    },
+    {
+      "id_origen": 42897,
+      "numero": 32,
+      "titulo": "Ahiru no Sora - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0bdebcba6bfd6455d57296f88365b17.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/32/",
+      "publicado_en_origen": "2020-05-20 14:05:41"
+    },
+    {
+      "id_origen": 42931,
+      "numero": 33,
+      "titulo": "Ahiru no Sora - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5cb484bd251d37d9cfecf49e8cf38db.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/33/",
+      "publicado_en_origen": "2020-05-27 12:07:38"
+    },
+    {
+      "id_origen": 42961,
+      "numero": 34,
+      "titulo": "Ahiru no Sora - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_feb78ee29377237a3bfa93e3b61c1655.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/34/",
+      "publicado_en_origen": "2020-06-03 14:15:33"
+    },
+    {
+      "id_origen": 43013,
+      "numero": 35,
+      "titulo": "Ahiru no Sora - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_791b8be7a85b67b9f4c4cb57f8927fac.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/35/",
+      "publicado_en_origen": "2020-06-10 13:38:24"
+    },
+    {
+      "id_origen": 43041,
+      "numero": 36,
+      "titulo": "Ahiru no Sora - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bd7d4eac464cde6f86349cbe0d61385.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/36/",
+      "publicado_en_origen": "2020-06-17 15:15:25"
+    },
+    {
+      "id_origen": 43092,
+      "numero": 37,
+      "titulo": "Ahiru no Sora - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6e46b0eb1419567f3623b8c761f9920.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/37/",
+      "publicado_en_origen": "2020-07-01 16:40:51"
+    },
+    {
+      "id_origen": 43120,
+      "numero": 38,
+      "titulo": "Ahiru no Sora - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61eedc0ff959f8ffd5a5f1f74b6f5a1a.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/38/",
+      "publicado_en_origen": "2020-07-08 14:56:46"
+    },
+    {
+      "id_origen": 43153,
+      "numero": 39,
+      "titulo": "Ahiru no Sora - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f065fe9f90c6f176adf5aca0b889d595.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/39/",
+      "publicado_en_origen": "2020-07-15 13:12:56"
+    },
+    {
+      "id_origen": 43186,
+      "numero": 40,
+      "titulo": "Ahiru no Sora - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b560c61551388c496bdd4465e3f105c0.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/40/",
+      "publicado_en_origen": "2020-07-22 11:55:48"
+    },
+    {
+      "id_origen": 43224,
+      "numero": 41,
+      "titulo": "Ahiru no Sora - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e88ea88793f3891e2587415cb90c27d6.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/41/",
+      "publicado_en_origen": "2020-07-29 13:52:20"
+    },
+    {
+      "id_origen": 43264,
+      "numero": 42,
+      "titulo": "Ahiru no Sora - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96deb4fd26fa5d5a385c22a6a4c5b48f.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/42/",
+      "publicado_en_origen": "2020-08-05 13:37:09"
+    },
+    {
+      "id_origen": 43303,
+      "numero": 43,
+      "titulo": "Ahiru no Sora - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_080261e4427a081fc6e637b654f590ee.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/43/",
+      "publicado_en_origen": "2020-08-12 13:33:42"
+    },
+    {
+      "id_origen": 43340,
+      "numero": 44,
+      "titulo": "Ahiru no Sora - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d120db565ef6583b6b850738df6d89be.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/44/",
+      "publicado_en_origen": "2020-08-19 11:30:02"
+    },
+    {
+      "id_origen": 43380,
+      "numero": 45,
+      "titulo": "Ahiru no Sora - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c763e4edb2668e6e3db920ea66f64a8.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/45/",
+      "publicado_en_origen": "2020-08-26 13:19:25"
+    },
+    {
+      "id_origen": 43433,
+      "numero": 46,
+      "titulo": "Ahiru no Sora - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4e4e52a55cf98172a6d70734dbe990d.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/46/",
+      "publicado_en_origen": "2020-09-02 13:21:05"
+    },
+    {
+      "id_origen": 43490,
+      "numero": 47,
+      "titulo": "Ahiru no Sora - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_864d8d390024caafa47fed54b8ecd9b5.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/47/",
+      "publicado_en_origen": "2020-09-09 11:14:07"
+    },
+    {
+      "id_origen": 43526,
+      "numero": 48,
+      "titulo": "Ahiru no Sora - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f46ba1f102a886ac432e7722d33cd1a4.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/48/",
+      "publicado_en_origen": "2020-09-16 13:02:31"
+    },
+    {
+      "id_origen": 43590,
+      "numero": 49,
+      "titulo": "Ahiru no Sora - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a32bed7d2d1228c472c5f751ac20c0e.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/49/",
+      "publicado_en_origen": "2020-09-23 09:56:01"
+    },
+    {
+      "id_origen": 43632,
+      "numero": 50,
+      "titulo": "Ahiru no Sora - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eea86d31fb5dda6d18f0e716591310c4.jpg",
+      "url_origen": "https://jkanime.net/ahiru-no-sora/50/",
+      "publicado_en_origen": "2020-09-30 11:39:30"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2500",
+  "cantidad_episodios_declarada": 50,
+  "detalle_extraido_en": "2026-08-26T18:15:20+00:00"
+}

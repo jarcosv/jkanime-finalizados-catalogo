@@ -1,0 +1,45 @@
+{
+  "id_origen": 1055,
+  "slug": "robot-girls-z",
+  "titulo": "Robot Girls Z",
+  "titulo_corto": "Robot Girls Z",
+  "sinopsis": "La historia gira en torno a un nuevo equipo de \"Toei robot chicas\" nombre \"Team Z\" que se compone de tres niñas sobre la base de la Toei Mazinger Z franquicia: Mazinger Z, Great Mazinger y UFO Robot Grendizer. Por lo general, se realizan en las actividades alrededor de Nerima Ward en Tokyo para elevar la conciencia de la fuente de energía en el futuro prometedor \"Photon Power\" (koushiryoku). Sin embargo, hay ocasiones en que \"la bestia mecánica\" equipo de chicas emergen del \"Imperio Subterráneo\" y tratar de robar la energía. Así, \"el equipo Z\" tiene que luchar para evitarlo, aunque a veces sólo tiene que ir y golpear a las \"chicas malas\" para aliviar el estrés.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/robot-girls-z.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/robot-girls-z/",
+  "episodios": [
+    {
+      "id_origen": 22383,
+      "numero": 1,
+      "titulo": "Robot Girls Z - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_266dc8d468ccd5a7def18714b2647e92.jpg",
+      "url_origen": "https://jkanime.net/robot-girls-z/1/",
+      "publicado_en_origen": "2014-01-07 23:35:08"
+    },
+    {
+      "id_origen": 22622,
+      "numero": 2,
+      "titulo": "Robot Girls Z - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e51ba02c4a70ef8a1a52a987473f3dee.jpg",
+      "url_origen": "https://jkanime.net/robot-girls-z/2/",
+      "publicado_en_origen": "2014-02-05 22:44:23"
+    },
+    {
+      "id_origen": 22888,
+      "numero": 3,
+      "titulo": "Robot Girls Z - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1723fad1c93e5c6c31661b8951e686a6.jpg",
+      "url_origen": "https://jkanime.net/robot-girls-z/3/",
+      "publicado_en_origen": "2014-03-07 00:29:18"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:57+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1055",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:43:57+00:00"
+}

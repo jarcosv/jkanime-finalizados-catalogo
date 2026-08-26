@@ -1,0 +1,29 @@
+{
+  "id_origen": 2685,
+  "slug": "murenase-seton-gakuen-special",
+  "titulo": "Murenase! Seton Gakuen Special",
+  "titulo_corto": "Murenase! Seton Gakuen Special",
+  "sinopsis": "Episodio no emitido incluido con el volumen 3 del lanzamiento de Blu-ray.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/murenase-seton-gakuen-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/murenase-seton-gakuen-special/",
+  "episodios": [
+    {
+      "id_origen": 43115,
+      "numero": 1,
+      "titulo": "Murenase! Seton Gakuen Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f3a59e201178eda99646354098f5c81.jpg",
+      "url_origen": "https://jkanime.net/murenase-seton-gakuen-special/1/",
+      "publicado_en_origen": "2020-07-07 02:53:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2685",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:21+00:00"
+}

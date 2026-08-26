@@ -1,0 +1,37 @@
+{
+  "id_origen": 4224,
+  "slug": "galaxy-angel-specials",
+  "titulo": "Galaxy Angel Specials",
+  "titulo_corto": "Galaxy Angel Specials",
+  "sinopsis": "Originalmente exclusivo de la edición en DVD del Galaxy Angel original, contiene dos historias adicionales: \"Fallen Angel Dark Space Chazuke\" y \"Five Sukiyaki Lunch Boxes\". Cuentan como los episodios 25 y 26 del anime original.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/galaxy-angel-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/galaxy-angel-specials/",
+  "episodios": [
+    {
+      "id_origen": 64710,
+      "numero": 1,
+      "titulo": "Galaxy Angel Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8162706426c26a41460eebfd21a8325.jpg",
+      "url_origen": "https://jkanime.net/galaxy-angel-specials/1/",
+      "publicado_en_origen": "2025-07-21 04:27:22"
+    },
+    {
+      "id_origen": 64711,
+      "numero": 2,
+      "titulo": "Galaxy Angel Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8bb3fb2ce74987bdba3161d5be62ff74.jpg",
+      "url_origen": "https://jkanime.net/galaxy-angel-specials/2/",
+      "publicado_en_origen": "2025-07-21 04:27:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4224",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:27:48+00:00"
+}

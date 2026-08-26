@@ -1,0 +1,29 @@
+{
+  "id_origen": 4207,
+  "slug": "dragon-ball-super-broly",
+  "titulo": "Dragon Ball Super: Broly",
+  "titulo_corto": "Dragon Ball Super: Broly",
+  "sinopsis": "Hace cuarenta y un año, en el Planeta Vegeta, hogar de la infame raza guerrera Saiyan, el Rey Vegeta se fijó en un bebé llamado Broly cuyo poder latente superaba al de su propio hijo. Creyendo que el poder de Broly superaría algún día al de su hijo Vegeta, el rey envía a Broly al desolado planeta Vampa. Paragus, el padre de Broly, le sigue con la intención de rescatar a su hijo. Sin embargo, su nave resulta dañada, lo que provoca que ambos pasen años atrapados en el yermo mundo, sin ser conscientes de la salvación que un día llegaría de la mano de un improbable aliado.\r\n\r\nAños más tarde, en la Tierra, Gokuu Son y el Príncipe Vegeta -que se cree que son los últimos supervivientes de la raza saiyan- se dedican a entrenar en una isla remota. Pero su entrenamiento se ve interrumpido cuando Frieza, su viejo enemigo, les obliga a buscar las últimas Bolas de Dragón que conceden deseos en un continente helado. Una vez allí, Frieza muestra a sus nuevos aliados: Paragus y el ahora extremadamente poderoso Broly. Gokuu y Vegeta se enfrentan a Broly, un guerrero sin igual cuya furia está esperando a ser desatada.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-super-broly.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-super-broly/",
+  "episodios": [
+    {
+      "id_origen": 64373,
+      "numero": 1,
+      "titulo": "Dragon Ball Super: Broly",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c518ec96a04d093d8b1ff4a44cf285fa.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-super-broly/1/",
+      "publicado_en_origen": "2025-07-10 22:50:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4207",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:40+00:00"
+}

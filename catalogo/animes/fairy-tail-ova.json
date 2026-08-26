@@ -1,0 +1,93 @@
+{
+  "id_origen": 448,
+  "slug": "fairy-tail-ova",
+  "titulo": "Fairy Tail OVA",
+  "titulo_corto": "Fairy Tail OVA",
+  "sinopsis": "OVAs especiales incluidas con los volúmenes 26, 27 y 31 del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fairy-tail-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fairy-tail-ova/",
+  "episodios": [
+    {
+      "id_origen": 47193,
+      "numero": 1,
+      "titulo": "Fairy Tail OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de40ab56f135491a151137dacdbf5bd5.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-ova/1/",
+      "publicado_en_origen": "2021-11-13 03:43:50"
+    },
+    {
+      "id_origen": 47194,
+      "numero": 2,
+      "titulo": "Fairy Tail OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb83113e6503dd70bd02f04ce320abb5.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-ova/2/",
+      "publicado_en_origen": "2021-11-13 03:43:50"
+    },
+    {
+      "id_origen": 47195,
+      "numero": 3,
+      "titulo": "Fairy Tail OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dabdf0d03b925257862f740c70d2f383.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-ova/3/",
+      "publicado_en_origen": "2021-11-13 03:43:50"
+    },
+    {
+      "id_origen": 47196,
+      "numero": 4,
+      "titulo": "Fairy Tail OVA - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa4008c29cdee27e16c79c7a7e40ecd8.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-ova/4/",
+      "publicado_en_origen": "2021-11-13 03:43:50"
+    },
+    {
+      "id_origen": 47197,
+      "numero": 5,
+      "titulo": "Fairy Tail OVA - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a33a60c9b08b1ccb1864427d9d9af31.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-ova/5/",
+      "publicado_en_origen": "2021-11-13 03:43:50"
+    },
+    {
+      "id_origen": 47198,
+      "numero": 6,
+      "titulo": "Fairy Tail OVA - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d04beca1616f92edb95fe79c395756fa.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-ova/6/",
+      "publicado_en_origen": "2021-11-13 03:43:50"
+    },
+    {
+      "id_origen": 58646,
+      "numero": 7,
+      "titulo": "Fairy Tail OVA - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6931908c8e9b0e725e7165db29205a9f.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-ova/7/",
+      "publicado_en_origen": "2024-09-02 02:48:11"
+    },
+    {
+      "id_origen": 58647,
+      "numero": 8,
+      "titulo": "Fairy Tail OVA - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c1bf16ae304bd35d63580f63d4ce247.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-ova/8/",
+      "publicado_en_origen": "2024-09-02 02:48:15"
+    },
+    {
+      "id_origen": 58648,
+      "numero": 9,
+      "titulo": "Fairy Tail OVA - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55ba203136eb13bf2645c037259ccd2c.jpg",
+      "url_origen": "https://jkanime.net/fairy-tail-ova/9/",
+      "publicado_en_origen": "2024-09-02 02:48:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "448",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:26:35+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id_origen": 4903,
+  "slug": "high-school-fleet-ova",
+  "titulo": "High School Fleet OVA",
+  "titulo_corto": "High School Fleet OVA",
+  "sinopsis": "El Musashi amotinado ha sido derrotado y las chicas del Instituto Naval Femenino de Yokosuka han regresado sanas y salvas a casa. Sin embargo, el Harekaze sufrió daños graves durante su enfrentamiento final con el Musashi y es posible que no pueda volver a navegar. Además, corren rumores de que la clase Harekaze será disuelta debido a que carece de un buque.\r\n\r\nLos intentos de otras clases por reclutar a miembros de la tripulación del Harekaze no hacen más que aumentar la incertidumbre de la situación. La respuesta a este grave problema podría encontrarse en las órdenes selladas que la secretaria del Harekaze, Kouko Nosa, debe entregar a los miembros de su tripulación. Pero el tiempo se agota...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/high-school-fleet-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/high-school-fleet-ova/",
+  "episodios": [
+    {
+      "id_origen": 76111,
+      "numero": 1,
+      "titulo": "High School Fleet OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16dfe7e7633201c41d67ee02f1822b49.jpg",
+      "url_origen": "https://jkanime.net/high-school-fleet-ova/1/",
+      "publicado_en_origen": "2026-08-05 11:58:38"
+    },
+    {
+      "id_origen": 76112,
+      "numero": 2,
+      "titulo": "High School Fleet OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74017ae6a59e3079f21ba25dfe72ea2b.jpg",
+      "url_origen": "https://jkanime.net/high-school-fleet-ova/2/",
+      "publicado_en_origen": "2026-08-05 11:58:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4903",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:30:32+00:00"
+}

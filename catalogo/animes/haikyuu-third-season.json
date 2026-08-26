@@ -1,0 +1,101 @@
+{
+  "id_origen": 1931,
+  "slug": "haikyuu-third-season",
+  "titulo": "Haikyuu!! Third Season",
+  "titulo_corto": "Haikyuu!! Third Season",
+  "sinopsis": "Después de vencer a sus rivales destinados, Aoba Johsai, Karasuno finalmente avanza a la siguiente etapa, el partido que decidirá qué equipo representará a la prefectura de Miyagi en el torneo de primavera. ¿Sus oponentes? El equipo más fuerte de la prefectura, la academia Shiratorizawa .\n\nLa lucha para derrotar a los campeones 'finales' y tener en sus manos el único boleto al torneo nacional ¡está a punto de comenzar!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/haikyuu-third-season.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/haikyuu-third-season/",
+  "episodios": [
+    {
+      "id_origen": 32977,
+      "numero": 1,
+      "titulo": "Haikyuu!! Third Season - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbe40ccd11b1fb869099e58e00076027.jpg",
+      "url_origen": "https://jkanime.net/haikyuu-third-season/1/",
+      "publicado_en_origen": "2016-10-07 18:36:46"
+    },
+    {
+      "id_origen": 33045,
+      "numero": 2,
+      "titulo": "Haikyuu!! Third Season - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12c0a9032599cc7067f93df32d3ab1cb.jpg",
+      "url_origen": "https://jkanime.net/haikyuu-third-season/2/",
+      "publicado_en_origen": "2016-10-14 17:09:47"
+    },
+    {
+      "id_origen": 33115,
+      "numero": 3,
+      "titulo": "Haikyuu!! Third Season - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d635acac17e5e2d78b10ac123bb2a97.jpg",
+      "url_origen": "https://jkanime.net/haikyuu-third-season/3/",
+      "publicado_en_origen": "2016-10-21 17:57:03"
+    },
+    {
+      "id_origen": 33181,
+      "numero": 4,
+      "titulo": "Haikyuu!! Third Season - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_843885e08f45a17acdb9d508bce80275.jpg",
+      "url_origen": "https://jkanime.net/haikyuu-third-season/4/",
+      "publicado_en_origen": "2016-10-28 17:15:09"
+    },
+    {
+      "id_origen": 33253,
+      "numero": 5,
+      "titulo": "Haikyuu!! Third Season - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1821ea1543b5ea73c52fc5c746840b16.jpg",
+      "url_origen": "https://jkanime.net/haikyuu-third-season/5/",
+      "publicado_en_origen": "2016-11-04 17:09:08"
+    },
+    {
+      "id_origen": 33321,
+      "numero": 6,
+      "titulo": "Haikyuu!! Third Season - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_743159ebd0cb34f3a437e429724078f9.jpg",
+      "url_origen": "https://jkanime.net/haikyuu-third-season/6/",
+      "publicado_en_origen": "2016-11-11 18:15:57"
+    },
+    {
+      "id_origen": 33388,
+      "numero": 7,
+      "titulo": "Haikyuu!! Third Season - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f76db9efd8037dc91175b255083fc623.jpg",
+      "url_origen": "https://jkanime.net/haikyuu-third-season/7/",
+      "publicado_en_origen": "2016-11-18 18:10:59"
+    },
+    {
+      "id_origen": 33458,
+      "numero": 8,
+      "titulo": "Haikyuu!! Third Season - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9fd517b70fc6eb73427f2a01e672d22.jpg",
+      "url_origen": "https://jkanime.net/haikyuu-third-season/8/",
+      "publicado_en_origen": "2016-11-25 18:11:15"
+    },
+    {
+      "id_origen": 33533,
+      "numero": 9,
+      "titulo": "Haikyuu!! Third Season - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d84ed6d6da45f4e5286237e4e32f21a.jpg",
+      "url_origen": "https://jkanime.net/haikyuu-third-season/9/",
+      "publicado_en_origen": "2016-12-02 18:11:37"
+    },
+    {
+      "id_origen": 33603,
+      "numero": 10,
+      "titulo": "Haikyuu!! Third Season - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7438845b5943e3d61cb4964f2bc218ad.jpg",
+      "url_origen": "https://jkanime.net/haikyuu-third-season/10/",
+      "publicado_en_origen": "2016-12-09 18:16:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1931",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:29:29+00:00"
+}

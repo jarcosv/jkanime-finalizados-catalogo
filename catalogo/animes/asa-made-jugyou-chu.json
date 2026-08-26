@@ -1,0 +1,29 @@
+{
+  "id_origen": 600,
+  "slug": "asa-made-jugyou-chu",
+  "titulo": "Asa Made Jugyou Chu!",
+  "titulo_corto": "Asa Made Jugyou Chu!",
+  "sinopsis": "Yuuki Kagami es un chico que por un error de su profesora, una mujer llamada Ayana Kakinozaka, acaba viviendo en un dormitorio solo para chicas. Incapaz de conseguir plaza ya a esas alturas en los dormitorios de los chicos, acaba compartiendo habitación con su profesora, pero claro, dentro de los dormitorios ha de ir travestido para que nadie descubra que es un chico o le echarán.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/asa-made-jugyou-chu.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/asa-made-jugyou-chu/",
+  "episodios": [
+    {
+      "id_origen": 16133,
+      "numero": 1,
+      "titulo": "Asa Made Jugyou Chu!",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9db4f695ad433b6a0b4a5d5197770797.jpg",
+      "url_origen": "https://jkanime.net/asa-made-jugyou-chu/1/",
+      "publicado_en_origen": "2012-07-01 00:27:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "600",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:17:50+00:00"
+}

@@ -1,0 +1,429 @@
+{
+  "id_origen": 207,
+  "slug": "hana-yori-dango",
+  "titulo": "Hana yori Dango",
+  "titulo_corto": "Hana yori Dango",
+  "sinopsis": "Tsukushi Makino tiene 16 años y es de clase trabajadora. Gracias al esfuerzo monetario de sus padres, consigue entrar en la Eitoku, un instituto en el cual estudian los hijos de las familias más adineradas de todo Japón. No consigue adaptarse del todo y su única intención es pasar desapercibida, todo cambia en el momento que se cruza en el camino de los F4, cuatro chicos que dominan la escuela, y comienzan a hacerle la vida imposible, pero ella les demostrará que no es tan fácil atormentar a \"la mala hierba\".",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hana-yori-dango.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hana-yori-dango/",
+  "episodios": [
+    {
+      "id_origen": 5559,
+      "numero": 1,
+      "titulo": "Hana Yori Dango 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5de8a36008b04a6167761fa19b61aa6c.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/1/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5560,
+      "numero": 2,
+      "titulo": "Hana Yori Dango 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f05f78cbeb9621b3e8c54bdf592be604.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/2/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5561,
+      "numero": 3,
+      "titulo": "Hana Yori Dango 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5cb22b6ada9b860235e5e20975f23de3.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/3/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5562,
+      "numero": 4,
+      "titulo": "Hana Yori Dango 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e84401ad27c4cfb9815776eb9432ff17.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/4/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5563,
+      "numero": 5,
+      "titulo": "Hana Yori Dango 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d02e9bdc27a894e882fa0c9055c99722.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/5/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5564,
+      "numero": 6,
+      "titulo": "Hana Yori Dango 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_853bb47a93581ead37b1bcd749d34787.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/6/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5565,
+      "numero": 7,
+      "titulo": "Hana Yori Dango 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2a452edff079ca6980edcf54cc49945.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/7/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5566,
+      "numero": 8,
+      "titulo": "Hana Yori Dango 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0c7ae2316c7e8214fd659e4bc8a0dea.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/8/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5567,
+      "numero": 9,
+      "titulo": "Hana Yori Dango 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18cdf49ea54eec029238fcc95f76ce41.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/9/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5568,
+      "numero": 10,
+      "titulo": "Hana Yori Dango 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_139c3c1b7ca46a9d4fd6d163d98af635.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/10/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5569,
+      "numero": 11,
+      "titulo": "Hana Yori Dango 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3c95acb3f4a091abb1fdc056dc68c1c.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/11/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5570,
+      "numero": 12,
+      "titulo": "Hana Yori Dango 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eab9c5e9815adc4c40a6557495eed6d3.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/12/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5571,
+      "numero": 13,
+      "titulo": "Hana Yori Dango 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3366297a637d4a3a358dfc6faad2fcf5.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/13/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5572,
+      "numero": 14,
+      "titulo": "Hana Yori Dango 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30ba105754346aaf47509089d2287f2a.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/14/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5573,
+      "numero": 15,
+      "titulo": "Hana Yori Dango 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80f24ef493982c552b6943f1411f7e2c.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/15/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5574,
+      "numero": 16,
+      "titulo": "Hana Yori Dango 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fe6a8a6e6cb710584efc4af0c34ce50.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/16/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5575,
+      "numero": 17,
+      "titulo": "Hana Yori Dango 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_daea32adcae6abcb548134fa98f139f9.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/17/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5576,
+      "numero": 18,
+      "titulo": "Hana Yori Dango 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0cbf1a1aa1726784df15a81ead214f7.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/18/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5577,
+      "numero": 19,
+      "titulo": "Hana Yori Dango 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac53fab47b547a0d47b77e424cf119ba.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/19/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5578,
+      "numero": 20,
+      "titulo": "Hana Yori Dango 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d25a34b9c2a87db380ecd7f7115882ec.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/20/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5579,
+      "numero": 21,
+      "titulo": "Hana Yori Dango 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36f4d832825380f102846560a5104c90.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/21/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5580,
+      "numero": 22,
+      "titulo": "Hana Yori Dango 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a58337d1b8c98bf3225186673be3407b.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/22/",
+      "publicado_en_origen": "2011-07-06 10:31:24"
+    },
+    {
+      "id_origen": 5581,
+      "numero": 23,
+      "titulo": "Hana Yori Dango 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a084f26f690dbc23a52e67027693f2b2.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/23/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5582,
+      "numero": 24,
+      "titulo": "Hana Yori Dango 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c2368d3d45705a56e51ec5940e187f8d.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/24/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5583,
+      "numero": 25,
+      "titulo": "Hana Yori Dango 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43c656628a4a479e108ed86f7a28a010.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/25/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5584,
+      "numero": 26,
+      "titulo": "Hana Yori Dango 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_033daef61ea8721921fbbeebb6f87313.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/26/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5585,
+      "numero": 27,
+      "titulo": "Hana Yori Dango 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_227e072d131ba77451d8f27ab9afdfb7.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/27/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5586,
+      "numero": 28,
+      "titulo": "Hana Yori Dango 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8153349b1eb6f6c01622d4f395993bfe.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/28/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5587,
+      "numero": 29,
+      "titulo": "Hana Yori Dango 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_492114f6915a69aa3dd005aa4233ef51.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/29/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5588,
+      "numero": 30,
+      "titulo": "Hana Yori Dango 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90415f9b8d0fe2da891b58a2dab18f8d.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/30/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5589,
+      "numero": 31,
+      "titulo": "Hana Yori Dango 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5291822d0636dc429e80e953c58b6a76.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/31/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5590,
+      "numero": 32,
+      "titulo": "Hana Yori Dango 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0490b85e92b64dbb5db76bf8fca6a82.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/32/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5591,
+      "numero": 33,
+      "titulo": "Hana Yori Dango 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_217b4c71837fac172fabebfc299f755b.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/33/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5592,
+      "numero": 34,
+      "titulo": "Hana Yori Dango 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94f4ede62112b790c91d5e64fdb09cb8.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/34/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5593,
+      "numero": 35,
+      "titulo": "Hana Yori Dango 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5133aa1d673894d5a05b9d83809b9dbe.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/35/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5594,
+      "numero": 36,
+      "titulo": "Hana Yori Dango 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3b6fb0fd4df098162eede3313c54a8d.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/36/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5595,
+      "numero": 37,
+      "titulo": "Hana Yori Dango 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1507aba9fc82ffa7cc7373c58f8a613.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/37/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5596,
+      "numero": 38,
+      "titulo": "Hana Yori Dango 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab81265d898ef7f38a3e95fc98c2a669.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/38/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5597,
+      "numero": 39,
+      "titulo": "Hana Yori Dango 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90248d0a98105fa534cf2b0696ddd12f.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/39/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5598,
+      "numero": 40,
+      "titulo": "Hana Yori Dango 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_773fc3013fec43c958724a25b7dcb360.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/40/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5599,
+      "numero": 41,
+      "titulo": "Hana Yori Dango 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a4488c177d9dc8c3da7c745c89ca214.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/41/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5600,
+      "numero": 42,
+      "titulo": "Hana Yori Dango 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ea4e7fcdc6aff2777bd594a3754e02a.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/42/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5601,
+      "numero": 43,
+      "titulo": "Hana Yori Dango 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_832635d692f57778f906e5563b757187.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/43/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5602,
+      "numero": 44,
+      "titulo": "Hana Yori Dango 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a3650aedfdd3a21444047ed2d89458f.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/44/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5603,
+      "numero": 45,
+      "titulo": "Hana Yori Dango 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b0aa0d9e30ea3a55fc271ced8364536.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/45/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5604,
+      "numero": 46,
+      "titulo": "Hana Yori Dango 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f4ccb0f7a84f335affb418aee08a6df.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/46/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5605,
+      "numero": 47,
+      "titulo": "Hana Yori Dango 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7abdfbd11b37a9f822fb1ffefb860a31.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/47/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5606,
+      "numero": 48,
+      "titulo": "Hana Yori Dango 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6385d39ec9394f2f3a354d9d2b88eec.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/48/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5607,
+      "numero": 49,
+      "titulo": "Hana Yori Dango 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96bf57c6ff19504ff145e2a32991ea96.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/49/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5608,
+      "numero": 50,
+      "titulo": "Hana Yori Dango 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_487129304eca93e3646dd0c7dd441bf5.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/50/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 5609,
+      "numero": 51,
+      "titulo": "Hana Yori Dango 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_828c3938b662961ed8f775ed638b97f2.jpg",
+      "url_origen": "https://jkanime.net/hana-yori-dango/51/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "207",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:29:45+00:00"
+}

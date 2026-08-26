@@ -1,0 +1,437 @@
+{
+  "id_origen": 3185,
+  "slug": "fushigi-yuugi",
+  "titulo": "Fushigi Yuugi",
+  "titulo_corto": "Fushigi Yuugi",
+  "sinopsis": "Miaka y su amiga Yugi viajan al mundo mágico a causa de la lectura de un misterioso libro. Allí, un apuesto joven llamado Tamahome las salva de unos delincuentes. Sin embargo, Yugi desaparece mientras Miaka descubre que es la sacerdotisa de Suzaku, la única persona capaz de traer la paz al reino de Kohnan gracias a la ayuda de siete compañeros con poderes mágicos. Lo que no sabe nuestra protagonista es que para conseguir su propósito deberá enfrentarse a su amiga de la infancia: Yui, quien ha sido coronada como la sacerdotisa de Seiryu, clan rival de Suzaku. Empieza una aventura mágica inolvidable.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fushigi-yuugi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fushigi-yuugi/",
+  "episodios": [
+    {
+      "id_origen": 50118,
+      "numero": 1,
+      "titulo": "Fushigi Yuugi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bef70527f4e0e49b1adfae2a5654bc0b.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/1/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50119,
+      "numero": 2,
+      "titulo": "Fushigi Yuugi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28dd045c6575b0ad2cc5b171780496cf.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/2/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50120,
+      "numero": 3,
+      "titulo": "Fushigi Yuugi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_164414adb77b9623832e93ec29acd848.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/3/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50121,
+      "numero": 4,
+      "titulo": "Fushigi Yuugi - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1162c11d2496afec212981729c666689.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/4/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50122,
+      "numero": 5,
+      "titulo": "Fushigi Yuugi - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d425f449c614daa13f14b97c78b931a8.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/5/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50123,
+      "numero": 6,
+      "titulo": "Fushigi Yuugi - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7b8f30506f5c7ac38168e63caaf4da4.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/6/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50124,
+      "numero": 7,
+      "titulo": "Fushigi Yuugi - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de0485404ec5a18c100eabcd27591e63.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/7/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50125,
+      "numero": 8,
+      "titulo": "Fushigi Yuugi - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4309c709554bc0ceff92b336da52d169.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/8/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50126,
+      "numero": 9,
+      "titulo": "Fushigi Yuugi - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63edcfc347be0502de52c331b1a96c7a.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/9/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50127,
+      "numero": 10,
+      "titulo": "Fushigi Yuugi - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_699632030fc60801c016af46f3fe2c5d.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/10/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50128,
+      "numero": 11,
+      "titulo": "Fushigi Yuugi - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc398507ea45541ec14657eea0e6e791.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/11/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50129,
+      "numero": 12,
+      "titulo": "Fushigi Yuugi - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c95a12e0384405ab3de5072f28ceb3d4.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/12/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50130,
+      "numero": 13,
+      "titulo": "Fushigi Yuugi - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a182c330d6e08147ec333926632ba45d.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/13/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50131,
+      "numero": 14,
+      "titulo": "Fushigi Yuugi - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc00ec4c290d31b6f35961515230fbdf.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/14/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50132,
+      "numero": 15,
+      "titulo": "Fushigi Yuugi - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24d3c6ee598e4bc9a4667a086b8ad4ff.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/15/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50133,
+      "numero": 16,
+      "titulo": "Fushigi Yuugi - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e200b8c13ccb6b4982e1379b543772d4.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/16/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50134,
+      "numero": 17,
+      "titulo": "Fushigi Yuugi - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b0eee93e0bc8f6546d79c85cb5bab64.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/17/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50135,
+      "numero": 18,
+      "titulo": "Fushigi Yuugi - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba6d711dbbcb1b0a57ff57ed59c48615.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/18/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50136,
+      "numero": 19,
+      "titulo": "Fushigi Yuugi - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bf35fd7f4fba1af4e9db9c6e05b43f7.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/19/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50137,
+      "numero": 20,
+      "titulo": "Fushigi Yuugi - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_51e532a84c6ca28d7f15a4855c9bf1f9.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/20/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50138,
+      "numero": 21,
+      "titulo": "Fushigi Yuugi - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f02e588c52c74bd09560e8b565a291c.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/21/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50139,
+      "numero": 22,
+      "titulo": "Fushigi Yuugi - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afafd751b2b88cbc0d3ebb018c00a23f.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/22/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50140,
+      "numero": 23,
+      "titulo": "Fushigi Yuugi - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b1b91d03125bd4a5ece60896a1c53bc.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/23/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50141,
+      "numero": 24,
+      "titulo": "Fushigi Yuugi - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_145ae8220486e5d3db7b6aa39322af44.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/24/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50142,
+      "numero": 25,
+      "titulo": "Fushigi Yuugi - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c787f99b84763390fd85722ce1010d1.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/25/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50143,
+      "numero": 26,
+      "titulo": "Fushigi Yuugi - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9899c4a58308c71081c2dc326facc80.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/26/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50144,
+      "numero": 27,
+      "titulo": "Fushigi Yuugi - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e36e398bed814dfe58e5e90f7ec00cbd.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/27/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50145,
+      "numero": 28,
+      "titulo": "Fushigi Yuugi - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d27599bec1a2bbe8e0bf9bfd89e401b2.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/28/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50146,
+      "numero": 29,
+      "titulo": "Fushigi Yuugi - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd65c04cc5e107c7f900b7385505d5a4.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/29/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50147,
+      "numero": 30,
+      "titulo": "Fushigi Yuugi - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0864f0213828a04bdfebb1ab4581f8d2.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/30/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50148,
+      "numero": 31,
+      "titulo": "Fushigi Yuugi - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5454d59f1352776293cd7c726ca206f2.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/31/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50149,
+      "numero": 32,
+      "titulo": "Fushigi Yuugi - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4896cf70cc942b1dfa8d05804ad3d10.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/32/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50150,
+      "numero": 33,
+      "titulo": "Fushigi Yuugi - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6dd192e90ba9d1408388b0b76705879.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/33/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50151,
+      "numero": 34,
+      "titulo": "Fushigi Yuugi - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_753ed21e0094a762fe16602b534b38d5.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/34/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50152,
+      "numero": 35,
+      "titulo": "Fushigi Yuugi - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5213d4e34a4c7fdc914b31ab47c7c49c.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/35/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50153,
+      "numero": 36,
+      "titulo": "Fushigi Yuugi - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76da6016ae278dd5b5db9d18afd1be29.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/36/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50154,
+      "numero": 37,
+      "titulo": "Fushigi Yuugi - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b6806da1bc8a5642c6780eb4dd7630d.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/37/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50155,
+      "numero": 38,
+      "titulo": "Fushigi Yuugi - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fbaf52fd03258da54125a467780ecc3.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/38/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50156,
+      "numero": 39,
+      "titulo": "Fushigi Yuugi - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0851a7e14f0e26cd09e82b6a5e83da2e.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/39/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50157,
+      "numero": 40,
+      "titulo": "Fushigi Yuugi - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2cfe920dca239ec3d270db94b577be09.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/40/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50158,
+      "numero": 41,
+      "titulo": "Fushigi Yuugi - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_291839633669a93d057ca3e3a2802f37.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/41/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50159,
+      "numero": 42,
+      "titulo": "Fushigi Yuugi - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45a52d0c04a7ddf27d154660629961fa.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/42/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50160,
+      "numero": 43,
+      "titulo": "Fushigi Yuugi - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29b557dc43c0f6c1814eaeeab0788d4d.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/43/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50161,
+      "numero": 44,
+      "titulo": "Fushigi Yuugi - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_899a1b348f699eb6c97295f1ad7b2abc.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/44/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50162,
+      "numero": 45,
+      "titulo": "Fushigi Yuugi - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8918b5393bc0b004120ca4250a3ffe17.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/45/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50163,
+      "numero": 46,
+      "titulo": "Fushigi Yuugi - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d0afd117501732ad5609e068d29f3d8.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/46/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50164,
+      "numero": 47,
+      "titulo": "Fushigi Yuugi - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec9ef2983ef9918daf79ab1859c480c9.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/47/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50165,
+      "numero": 48,
+      "titulo": "Fushigi Yuugi - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2fc7ad6519aa2df90325366b21d94bae.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/48/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50166,
+      "numero": 49,
+      "titulo": "Fushigi Yuugi - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a872243540f76498e640ed0351a4f69.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/49/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50167,
+      "numero": 50,
+      "titulo": "Fushigi Yuugi - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_830232e6dc9629dfefea69949837ad30.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/50/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50168,
+      "numero": 51,
+      "titulo": "Fushigi Yuugi - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3d16fce87f130871604aa3101209fc1.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/51/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    },
+    {
+      "id_origen": 50169,
+      "numero": 52,
+      "titulo": "Fushigi Yuugi - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39c108855c093a0995afbacff6e33e61.jpg",
+      "url_origen": "https://jkanime.net/fushigi-yuugi/52/",
+      "publicado_en_origen": "2022-08-13 10:24:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3185",
+  "cantidad_episodios_declarada": 52,
+  "detalle_extraido_en": "2026-08-26T18:27:33+00:00"
+}

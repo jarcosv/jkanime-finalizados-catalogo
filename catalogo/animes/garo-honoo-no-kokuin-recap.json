@@ -1,0 +1,29 @@
+{
+  "id_origen": 1380,
+  "slug": "garo-honoo-no-kokuin-recap",
+  "titulo": "Garo: Honoo no Kokuin 12.5",
+  "titulo_corto": "Garo: Honoo no Kokuin 12.5",
+  "sinopsis": "Episodio especial de Garo valido como 12.5",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/garo-honoo-no-kokuin-recap.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/garo-honoo-no-kokuin-recap/",
+  "episodios": [
+    {
+      "id_origen": 25961,
+      "numero": 1,
+      "titulo": "Garo: Honoo no Kokuin",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/garo-honoo-no-kokuin-recap.jpg",
+      "url_origen": "https://jkanime.net/garo-honoo-no-kokuin-recap/1/",
+      "publicado_en_origen": "2014-12-26 14:50:14"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:48+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1380",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:27:55+00:00"
+}

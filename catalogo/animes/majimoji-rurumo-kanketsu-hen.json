@@ -1,0 +1,37 @@
+{
+  "id_origen": 2468,
+  "slug": "majimoji-rurumo-kanketsu-hen",
+  "titulo": "Majimoji Rurumo: Kanketsu-hen",
+  "titulo_corto": "Majimoji Rurumo: Kanketsu-hen",
+  "sinopsis": "OVAs incluidas en la edicion limitada del noveno volumen del manga de Majimoji Rurumo: Houkago no Mahou Chuugakusei.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/majimoji-rurumo-kanketsu-hen.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/majimoji-rurumo-kanketsu-hen/",
+  "episodios": [
+    {
+      "id_origen": 40422,
+      "numero": 1,
+      "titulo": "Majimoji Rurumo: Kanketsu-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb97f5fdf3701ebf7ce10f9600fb0ade.jpg",
+      "url_origen": "https://jkanime.net/majimoji-rurumo-kanketsu-hen/1/",
+      "publicado_en_origen": "2019-07-08 15:32:28"
+    },
+    {
+      "id_origen": 40423,
+      "numero": 2,
+      "titulo": "Majimoji Rurumo: Kanketsu-hen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63037479984401b6b290392b86938bbd.jpg",
+      "url_origen": "https://jkanime.net/majimoji-rurumo-kanketsu-hen/2/",
+      "publicado_en_origen": "2019-07-08 15:32:36"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2468",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:37:38+00:00"
+}

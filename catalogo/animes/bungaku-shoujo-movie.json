@@ -1,0 +1,29 @@
+{
+  "id_origen": 4268,
+  "slug": "bungaku-shoujo-movie",
+  "titulo": "\"Bungaku Shoujo\" Movie",
+  "titulo_corto": "\"Bungaku Shoujo\" Movie",
+  "sinopsis": "Konoha Inoue, es un estudiante de segundo año de secundaria aparentemente normal. Su vida en el instituto, aparte de un incidente insinuado hace dos años, se puede resumir como normal, si se puede descartar el hecho secreto de que solía ser un autor de novelas románticas. Sin embargo, debido a ese incidente, ha jurado no volver a escribir nunca más.\r\nEsto continuó hasta que fue forzado a unirse al club literario por la presidenta del club literario, la estudiante de tercer año Amano Tooko, una hermosa chica que tiene un gusto por comer obras literarias. Ahora se le ha encomendado la tarea de escribir su merienda todos los días después de las clases.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bungaku-shoujo-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bungaku-shoujo-movie/",
+  "episodios": [
+    {
+      "id_origen": 65667,
+      "numero": 1,
+      "titulo": "\"Bungaku Shoujo\" Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46fe5d22f163e6e3c445f413bfd57a2b.jpg",
+      "url_origen": "https://jkanime.net/bungaku-shoujo-movie/1/",
+      "publicado_en_origen": "2025-08-03 01:30:36"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4268",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:14:23+00:00"
+}

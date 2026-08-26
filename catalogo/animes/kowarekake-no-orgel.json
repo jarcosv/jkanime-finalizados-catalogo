@@ -1,0 +1,29 @@
+{
+  "id_origen": 1305,
+  "slug": "kowarekake-no-orgel",
+  "titulo": "Kowarekake no Orgel",
+  "titulo_corto": "Kowarekake no Orgel",
+  "sinopsis": "Keiichiro, un tipo que vive solo y atormentado por fantasmas del pasado, se encuentra una noche lluviosa con Flower, una pequeña Parent (androide de uso doméstico) abandonada en la basura, y decide llevársela a su casa para repararla. Pero Flower es un modelo viejo y descontinuado, y al parecer no hay esperanza. Increíblemente la pequeña se reactiva y comienza a vivir con Keiichiro, trayendo alegría nuevamente a su vida y acercándolo otra vez a la música, su verdadera pasión...",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kowarekake-no-orgel.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kowarekake-no-orgel/",
+  "episodios": [
+    {
+      "id_origen": 25007,
+      "numero": 1,
+      "titulo": "Kowarekake no Orgel",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e21a35107f3ebeb38da1a3ee0a6d47f.jpg",
+      "url_origen": "https://jkanime.net/kowarekake-no-orgel/1/",
+      "publicado_en_origen": "2014-10-06 10:57:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1305",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:35:46+00:00"
+}

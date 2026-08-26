@@ -1,0 +1,117 @@
+{
+  "id_origen": 1679,
+  "slug": "hokuto-no-ken-ichigo-aji",
+  "titulo": "DD Hokuto II + Hokuto no Ken: Ichigo Aji",
+  "titulo_corto": "DD Hokuto II + Hokuto no Ken: ...",
+  "sinopsis": "La historia se centra en una versión cómica del Emperador Souther y su intento por buscar la manera de hacerse amigo de Kenshiro, demostrando sus habilidades con las fiestas y jugando con Gosha Sei.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hokuto-no-ken-ichigo-aji.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/",
+  "episodios": [
+    {
+      "id_origen": 29738,
+      "numero": 1,
+      "titulo": "Hokuto no Ken: Ichigo Aji - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f766062778cfe284c267e9bb1bd5499d.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/1/",
+      "publicado_en_origen": "2015-10-06 13:21:10"
+    },
+    {
+      "id_origen": 29803,
+      "numero": 2,
+      "titulo": "DD Hokuto II + Hokuto no Ken: Ichigo Aji - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7851934f3332c6b7ff9a3e4ed82e532d.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/2/",
+      "publicado_en_origen": "2015-10-13 12:50:48"
+    },
+    {
+      "id_origen": 29867,
+      "numero": 3,
+      "titulo": "DD Hokuto II + Hokuto no Ken: Ichigo Aji - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abdb9f5517daf77fe4714ad0669c9e19.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/3/",
+      "publicado_en_origen": "2015-10-20 12:50:38"
+    },
+    {
+      "id_origen": 29931,
+      "numero": 4,
+      "titulo": "DD Hokuto II + Hokuto no Ken: Ichigo Aji - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cfbfb28ee66aceab7be17065ebdb6e5.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/4/",
+      "publicado_en_origen": "2015-10-27 12:52:31"
+    },
+    {
+      "id_origen": 29994,
+      "numero": 5,
+      "titulo": "DD Hokuto II + Hokuto no Ken: Ichigo Aji - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8875c52a7bcbd3e60c07ce65b152fefc.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/5/",
+      "publicado_en_origen": "2015-11-03 13:49:48"
+    },
+    {
+      "id_origen": 30049,
+      "numero": 6,
+      "titulo": "DD Hokuto II + Hokuto no Ken: Ichigo Aji - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14f5c9b660813801b453b5903af18ca7.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/6/",
+      "publicado_en_origen": "2015-11-10 13:55:39"
+    },
+    {
+      "id_origen": 30106,
+      "numero": 7,
+      "titulo": "DD Hokuto II + Hokuto no Ken: Ichigo Aji - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_737344cccb5f89b59a89a5f20cc3f303.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/7/",
+      "publicado_en_origen": "2015-11-17 13:52:40"
+    },
+    {
+      "id_origen": 30170,
+      "numero": 8,
+      "titulo": "DD Hokuto II + Hokuto no Ken: Ichigo Aji - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_376557cb7cd4da934b134a58709022a3.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/8/",
+      "publicado_en_origen": "2015-11-24 13:56:32"
+    },
+    {
+      "id_origen": 30232,
+      "numero": 9,
+      "titulo": "DD Hokuto II + Hokuto no Ken: Ichigo Aji - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b01ea73aa4de36440a527d52e63870a.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/9/",
+      "publicado_en_origen": "2015-12-01 13:51:24"
+    },
+    {
+      "id_origen": 30293,
+      "numero": 10,
+      "titulo": "DD Hokuto II + Hokuto no Ken: Ichigo Aji - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c442f7c8951648fc9fa4c84f479ec40.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/10/",
+      "publicado_en_origen": "2015-12-08 13:54:14"
+    },
+    {
+      "id_origen": 30353,
+      "numero": 11,
+      "titulo": "DD Hokuto II + Hokuto no Ken: Ichigo Aji - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a12f449790ed7be96d77aa4c7d9c1c1.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/11/",
+      "publicado_en_origen": "2015-12-15 14:23:04"
+    },
+    {
+      "id_origen": 30410,
+      "numero": 12,
+      "titulo": "DD Hokuto II + Hokuto no Ken: Ichigo Aji - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b75f4cd91723baa6327b03ddf0b8ebf6.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-ichigo-aji/12/",
+      "publicado_en_origen": "2015-12-22 17:22:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1679",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:24:38+00:00"
+}

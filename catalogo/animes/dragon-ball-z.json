@@ -1,0 +1,2349 @@
+{
+  "id_origen": 251,
+  "slug": "dragon-ball-z",
+  "titulo": "Dragon Ball Z (Original)",
+  "titulo_corto": "Dragon Ball Z (Original)",
+  "sinopsis": "En Dragon ball Z Goku se ha convertido en un adulto y está casado con Milk, con la que tiene un hijo llamado Gohan. En esta segunda saga de Dragon ball Goku descubrirá que no es un terricola, sino que pertenece a una raza de guerreros conocida por ser una de las más poderosas de la galaxia, para posteriormente dar paso a los verdaderos enemigos de la serie. Para poder vencer a los nuevos enemigos que irán surgiendo, Goku y sus amigos tendrán que viajar por otros planetas e incluso al cielo y al infierno. Cada enemigo será más fuerte que el anterior, por lo que tendrán que entrenar muy duro para poder derrotarlos además de que se les irán uniendo nuevos personajes que les ayudarán a vencerlos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-z.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-z/",
+  "episodios": [
+    {
+      "id_origen": 6611,
+      "numero": 1,
+      "titulo": "Dragon Ball Z 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11704817e347269b7254e744b5e22dac.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/1/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6612,
+      "numero": 2,
+      "titulo": "Dragon Ball Z 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d37eb50d868361ea729bb4147eb3c1d8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/2/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6613,
+      "numero": 3,
+      "titulo": "Dragon Ball Z 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_310366dd6f1a67639b870efe6ca3613d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/3/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6614,
+      "numero": 4,
+      "titulo": "Dragon Ball Z 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25caef3a545a1fff2ff4055484f0e758.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/4/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6615,
+      "numero": 5,
+      "titulo": "Dragon Ball Z 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6102b3727b2a7d8b1bb6981147081ef.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/5/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6616,
+      "numero": 6,
+      "titulo": "Dragon Ball Z 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0467e856f9ee5f05a1815fca47b7787.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/6/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6617,
+      "numero": 7,
+      "titulo": "Dragon Ball Z 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95f2b84de5660ddf45c8a34933a2e66f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/7/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6618,
+      "numero": 8,
+      "titulo": "Dragon Ball Z 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f3fcfed9109f27a4b9e4abd169d6e43.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/8/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6619,
+      "numero": 9,
+      "titulo": "Dragon Ball Z 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7c46d4baf816bfb07c7f3bf96d88544.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/9/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6620,
+      "numero": 10,
+      "titulo": "Dragon Ball Z 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c525a48acc0084b077750ac333c67c1.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/10/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6621,
+      "numero": 11,
+      "titulo": "Dragon Ball Z 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4df7b6239c425d8cc897411ef11abe7.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/11/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6622,
+      "numero": 12,
+      "titulo": "Dragon Ball Z 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d0505284ac5049b4167eb7ebfe0791b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/12/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6623,
+      "numero": 13,
+      "titulo": "Dragon Ball Z 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80f4431bf838249179aa507f0bdd2cf3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/13/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6624,
+      "numero": 14,
+      "titulo": "Dragon Ball Z 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_781877bda0783aac5f1cf765c128b437.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/14/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6625,
+      "numero": 15,
+      "titulo": "Dragon Ball Z 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7b7e4b27722574c611fe91476a50238.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/15/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6626,
+      "numero": 16,
+      "titulo": "Dragon Ball Z 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3483e5ec0489e5c394b028ec4e81f3e1.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/16/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6627,
+      "numero": 17,
+      "titulo": "Dragon Ball Z 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0224cd598e48c5041c7947fd5cb20d53.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/17/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6628,
+      "numero": 18,
+      "titulo": "Dragon Ball Z 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c336b8080f82bcc2cd2499b4c57261d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/18/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6629,
+      "numero": 19,
+      "titulo": "Dragon Ball Z 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_488e4104520c6aab692863cc1dba45af.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/19/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6630,
+      "numero": 20,
+      "titulo": "Dragon Ball Z 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4de1ed74128a96a8b5900186486aacba.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/20/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6631,
+      "numero": 21,
+      "titulo": "Dragon Ball Z 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_524f141e189d2a00968c3d48cadd4159.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/21/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6632,
+      "numero": 22,
+      "titulo": "Dragon Ball Z 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44e65d3e9bc2f88b2b3d566de51a5381.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/22/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6633,
+      "numero": 23,
+      "titulo": "Dragon Ball Z 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27934a1f19d678a1377c257b9a780e80.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/23/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6634,
+      "numero": 24,
+      "titulo": "Dragon Ball Z 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f635ccf7bd8ab4ef0ed892e5af22890.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/24/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6635,
+      "numero": 25,
+      "titulo": "Dragon Ball Z 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b94ce08688c6389ce7b68c52ce3f8c7.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/25/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6636,
+      "numero": 26,
+      "titulo": "Dragon Ball Z 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86b3e165b8154656a71ffe8a327ded7d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/26/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6637,
+      "numero": 27,
+      "titulo": "Dragon Ball Z 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_735ddec196a9ca5745c05bec0eaa4bf9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/27/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6638,
+      "numero": 28,
+      "titulo": "Dragon Ball Z 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_829083d7452626f6e64b96ec0b734811.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/28/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6639,
+      "numero": 29,
+      "titulo": "Dragon Ball Z 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9d347f57ae11f34235b4555710547d8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/29/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6640,
+      "numero": 30,
+      "titulo": "Dragon Ball Z 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05a4459d3d5c309f5ab86521d1d2bb69.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/30/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6641,
+      "numero": 31,
+      "titulo": "Dragon Ball Z 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcf55a303b71b84d326fb1d06e332a26.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/31/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6642,
+      "numero": 32,
+      "titulo": "Dragon Ball Z 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58e16dc760ca166c476403499ff5c59b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/32/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6643,
+      "numero": 33,
+      "titulo": "Dragon Ball Z 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_793bc52a941b3951dfdb85fb04f9fd06.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/33/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6644,
+      "numero": 34,
+      "titulo": "Dragon Ball Z 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_16bda725ae44af3bb9316f416bd13b1b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/34/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6645,
+      "numero": 35,
+      "titulo": "Dragon Ball Z 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8fd7211e5247891e4d4f0562418868a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/35/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6646,
+      "numero": 36,
+      "titulo": "Dragon Ball Z 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_510f2318f324cf07fce24c3a4b89c771.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/36/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6647,
+      "numero": 37,
+      "titulo": "Dragon Ball Z 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ce8b102d40392a688f8c04b3cd6cae0.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/37/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6648,
+      "numero": 38,
+      "titulo": "Dragon Ball Z 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1398d2c9b3610251169157332225c49.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/38/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6649,
+      "numero": 39,
+      "titulo": "Dragon Ball Z 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0baf163c24ed14b515aaf57a9de5501c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/39/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6650,
+      "numero": 40,
+      "titulo": "Dragon Ball Z 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_126c2da128e5b044dc53405c25b4d8de.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/40/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6651,
+      "numero": 41,
+      "titulo": "Dragon Ball Z 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06ccc6fac98a777fce43a972eaca83df.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/41/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6652,
+      "numero": 42,
+      "titulo": "Dragon Ball Z 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1ab840a08f6e72d3baf13622bef60ad.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/42/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6653,
+      "numero": 43,
+      "titulo": "Dragon Ball Z 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eae31887c8969d1bde123982d3d43cd2.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/43/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6654,
+      "numero": 44,
+      "titulo": "Dragon Ball Z 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d36b5821f8affc6868b59dfc9af6c9f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/44/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6655,
+      "numero": 45,
+      "titulo": "Dragon Ball Z 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6969ae30d99f73951cb976b88a457af.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/45/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6656,
+      "numero": 46,
+      "titulo": "Dragon Ball Z 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a16f3a5bda35f1de87328623f0a1711f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/46/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6657,
+      "numero": 47,
+      "titulo": "Dragon Ball Z 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f73168bf3656f697507752ec592c437.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/47/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6658,
+      "numero": 48,
+      "titulo": "Dragon Ball Z 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ca01ea920679a0fe3728441494041b9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/48/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6659,
+      "numero": 49,
+      "titulo": "Dragon Ball Z 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb1378d0b80ae44aae0000a3cff0b90f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/49/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 13034,
+      "numero": 50,
+      "titulo": "Dragon Ball Z (Original) - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0154ac829acb5cb5735e1d1e7f48c68.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/50/",
+      "publicado_en_origen": "2011-10-31 11:35:57"
+    },
+    {
+      "id_origen": 6660,
+      "numero": 51,
+      "titulo": "Dragon Ball Z 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f9f9d8ff75205aa73ec83e543d8b571.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/51/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6661,
+      "numero": 52,
+      "titulo": "Dragon Ball Z 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1ac549dbfdec4a0d49baec903648bb4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/52/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6662,
+      "numero": 53,
+      "titulo": "Dragon Ball Z 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e2db0cb2c4645904a054261104b7a14.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/53/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6663,
+      "numero": 54,
+      "titulo": "Dragon Ball Z 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ef41260a5b096182ee7e45b942cd46d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/54/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 13035,
+      "numero": 55,
+      "titulo": "Dragon Ball Z (Original) - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c39c39d1a341ba03ae48a942c6a43ef.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/55/",
+      "publicado_en_origen": "2011-10-31 11:35:57"
+    },
+    {
+      "id_origen": 6664,
+      "numero": 56,
+      "titulo": "Dragon Ball Z 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcd11da01e886bc1be35b19f4d974f4e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/56/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6665,
+      "numero": 57,
+      "titulo": "Dragon Ball Z 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd9508fdaa5c1390e9cc329001cf1459.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/57/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6666,
+      "numero": 58,
+      "titulo": "Dragon Ball Z 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9510081ac30ffa83f10b68cde1cac07.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/58/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6667,
+      "numero": 59,
+      "titulo": "Dragon Ball Z 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f97d1d7e02158a83ceb2c14ff5372cd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/59/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6668,
+      "numero": 60,
+      "titulo": "Dragon Ball Z 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a499f6e26313e19bd4049009bbed5bd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/60/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 13036,
+      "numero": 61,
+      "titulo": "Dragon Ball Z (Original) - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91cf0815868e49fd91babbc6444805a4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/61/",
+      "publicado_en_origen": "2011-10-31 11:35:57"
+    },
+    {
+      "id_origen": 6669,
+      "numero": 62,
+      "titulo": "Dragon Ball Z 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a37abdeefe1dab1b30f7c5c7e581b93.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/62/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6670,
+      "numero": 63,
+      "titulo": "Dragon Ball Z 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7ac288b0f2d41445904d071ba37aaff.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/63/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6671,
+      "numero": 64,
+      "titulo": "Dragon Ball Z 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1e865a9b1065392ed6035d8ccd072d9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/64/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6672,
+      "numero": 65,
+      "titulo": "Dragon Ball Z 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9b852ac7bd1776bc5ac5ce3b41d8af7.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/65/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6673,
+      "numero": 66,
+      "titulo": "Dragon Ball Z 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_580760fb5def6e2ca8eaf601236d5b08.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/66/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6674,
+      "numero": 67,
+      "titulo": "Dragon Ball Z 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d630f9347177b17ec7a362f19489239.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/67/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6675,
+      "numero": 68,
+      "titulo": "Dragon Ball Z 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9087cd8bfa9c1968b20d8f6d0b81cbbb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/68/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6676,
+      "numero": 69,
+      "titulo": "Dragon Ball Z 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28bda53c86d37e275a3ebfdc113b1f59.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/69/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6677,
+      "numero": 70,
+      "titulo": "Dragon Ball Z 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d741ec37c2318c1bcff253bbe7ab92b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/70/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6678,
+      "numero": 71,
+      "titulo": "Dragon Ball Z 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4f8a2db7f8704b0bdaa266d61ef48c3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/71/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6679,
+      "numero": 72,
+      "titulo": "Dragon Ball Z 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87475f2c1909e4e6d0d7f0e020a2ded3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/72/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6680,
+      "numero": 73,
+      "titulo": "Dragon Ball Z 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5c3d4fe6b2cc463c7d7ecba17cc9de7.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/73/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6681,
+      "numero": 74,
+      "titulo": "Dragon Ball Z 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65586803f1435736f42a541d3a924595.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/74/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6682,
+      "numero": 75,
+      "titulo": "Dragon Ball Z 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c46489a2d5a9a9ecfc53b17610926ddd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/75/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6683,
+      "numero": 76,
+      "titulo": "Dragon Ball Z 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4670c07872d5314c6ad6ffa633d4a059.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/76/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6684,
+      "numero": 77,
+      "titulo": "Dragon Ball Z 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55479c55ebd1efd3ff125f1337100388.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/77/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6685,
+      "numero": 78,
+      "titulo": "Dragon Ball Z 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f72f78a365657d56853b6867fb37dc3c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/78/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6686,
+      "numero": 79,
+      "titulo": "Dragon Ball Z 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1458c6647dbf7cca56dff7bfe0576ebb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/79/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6687,
+      "numero": 80,
+      "titulo": "Dragon Ball Z 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdf28f8b7d14ab02d12a2329d71e4079.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/80/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6688,
+      "numero": 81,
+      "titulo": "Dragon Ball Z 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99e7e6ce097324aceb45f98299ceb621.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/81/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6689,
+      "numero": 82,
+      "titulo": "Dragon Ball Z 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_324545ee1d35608f4932e6c10c5a2df4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/82/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6690,
+      "numero": 83,
+      "titulo": "Dragon Ball Z 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_815074618f19008da3c78b95a2f5b964.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/83/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6691,
+      "numero": 84,
+      "titulo": "Dragon Ball Z 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e7875cf32d306989d80c14308f3a099.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/84/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6692,
+      "numero": 85,
+      "titulo": "Dragon Ball Z 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b154e7b21b2ff0a14d96affa6d3fb958.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/85/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6693,
+      "numero": 86,
+      "titulo": "Dragon Ball Z 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2dc449578a4744a1684d3b0ea933702.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/86/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6694,
+      "numero": 87,
+      "titulo": "Dragon Ball Z 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ddb5b8d603f88e9de689f3230234b47.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/87/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6695,
+      "numero": 88,
+      "titulo": "Dragon Ball Z 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ea1202aed1e0ce30d41be4919b0cc99.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/88/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6696,
+      "numero": 89,
+      "titulo": "Dragon Ball Z 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1ff1ec86b62cd5f3903ff19c3a326b2.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/89/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 13037,
+      "numero": 90,
+      "titulo": "Dragon Ball Z (Original) - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05b0ea6e9b8e791347dfe157d54d679f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/90/",
+      "publicado_en_origen": "2011-10-31 11:35:57"
+    },
+    {
+      "id_origen": 6697,
+      "numero": 91,
+      "titulo": "Dragon Ball Z 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad554d8c3b06d6b97ee76a2448bd7913.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/91/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6698,
+      "numero": 92,
+      "titulo": "Dragon Ball Z 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad067202f83b4b1483f05bf382c22c1e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/92/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6699,
+      "numero": 93,
+      "titulo": "Dragon Ball Z 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59587bffec1c7846f3e34230141556ae.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/93/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6700,
+      "numero": 94,
+      "titulo": "Dragon Ball Z 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32fcc8cfe1fa4c77b5c58dafd36d1a98.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/94/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6701,
+      "numero": 95,
+      "titulo": "Dragon Ball Z 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e987eff4a7c7b7e580d659feb6f60c1a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/95/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6702,
+      "numero": 96,
+      "titulo": "Dragon Ball Z 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9823c9091899dc6f227f9133ba2dfd30.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/96/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6703,
+      "numero": 97,
+      "titulo": "Dragon Ball Z 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f29e2360ef277f77595dfae0aab78138.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/97/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6704,
+      "numero": 98,
+      "titulo": "Dragon Ball Z 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7790583c0d8d74e930a4441ad75ebc64.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/98/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6705,
+      "numero": 99,
+      "titulo": "Dragon Ball Z 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e8a19426224ca89e83cef47f1e7f53b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/99/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6706,
+      "numero": 100,
+      "titulo": "Dragon Ball Z 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_228e338fddcdf62a8065110d0b5f87fb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/100/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6707,
+      "numero": 101,
+      "titulo": "Dragon Ball Z 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_602443a3d6907117d8b4a308844e963e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/101/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6708,
+      "numero": 102,
+      "titulo": "Dragon Ball Z 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7ab1aac36b6428d3b7a3860a0d7a74f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/102/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6709,
+      "numero": 103,
+      "titulo": "Dragon Ball Z 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04e299e28c5847efc6b384bd74d81e25.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/103/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6710,
+      "numero": 104,
+      "titulo": "Dragon Ball Z 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dffbb6efd376d8dbb22cdf491e481edc.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/104/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6711,
+      "numero": 105,
+      "titulo": "Dragon Ball Z 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50982fb2f2cfa186d335310461dfa2be.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/105/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6712,
+      "numero": 106,
+      "titulo": "Dragon Ball Z 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5726daf2c9ee0f955eca58291c26d2f3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/106/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6713,
+      "numero": 107,
+      "titulo": "Dragon Ball Z 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b90614883e606d5621b45c14f4f2963.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/107/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6714,
+      "numero": 108,
+      "titulo": "Dragon Ball Z 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e42ad93f7491f2a38ba2ec1416ef6f55.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/108/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6715,
+      "numero": 109,
+      "titulo": "Dragon Ball Z 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38faae069a1371784081ea9ad9b279d0.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/109/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6716,
+      "numero": 110,
+      "titulo": "Dragon Ball Z 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fc64354454711c97058db6110b3a369.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/110/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6717,
+      "numero": 111,
+      "titulo": "Dragon Ball Z 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3198dfd0aef271d22f7bcddd6f12f5cb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/111/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6718,
+      "numero": 112,
+      "titulo": "Dragon Ball Z 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d582ac40970f9885836a61d7b2c662e4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/112/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6719,
+      "numero": 113,
+      "titulo": "Dragon Ball Z 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8b7aa3a0d349d9562b424160ad18612.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/113/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6720,
+      "numero": 114,
+      "titulo": "Dragon Ball Z 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41f860e3b7f548abc1f8b812059137bf.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/114/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6721,
+      "numero": 115,
+      "titulo": "Dragon Ball Z 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0d3973ad100ad83a64c304bb58677dd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/115/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6722,
+      "numero": 116,
+      "titulo": "Dragon Ball Z 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2802cade04644083dcde1c8c483ed9a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/116/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6723,
+      "numero": 117,
+      "titulo": "Dragon Ball Z 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f810ebd27f4dbcf1ccc9302e5125f08.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/117/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6724,
+      "numero": 118,
+      "titulo": "Dragon Ball Z 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f78688fb6a5507413ade54a230355acd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/118/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6725,
+      "numero": 119,
+      "titulo": "Dragon Ball Z 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_609e9d4bcc8157c00808993f612f1acd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/119/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6726,
+      "numero": 120,
+      "titulo": "Dragon Ball Z 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7e77c835af3d2a803c1cf28d60575bc.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/120/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6727,
+      "numero": 121,
+      "titulo": "Dragon Ball Z 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad5ab36761669d6eadbaee691c4a1d22.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/121/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6728,
+      "numero": 122,
+      "titulo": "Dragon Ball Z 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c05147f3029c97ce26c0cb0b2469fca.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/122/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6729,
+      "numero": 123,
+      "titulo": "Dragon Ball Z 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e19a39c36b8e5e3afd2a3b2692aea96.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/123/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6730,
+      "numero": 124,
+      "titulo": "Dragon Ball Z 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11e2ad6bf99300cd3808bb105b55d4b8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/124/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6731,
+      "numero": 125,
+      "titulo": "Dragon Ball Z 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e915db6326b6fb6a3c56546980a8c93.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/125/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6732,
+      "numero": 126,
+      "titulo": "Dragon Ball Z 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5db30d43f3791ae82e8f09070647e4cb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/126/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6733,
+      "numero": 127,
+      "titulo": "Dragon Ball Z 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f19fec2f129fbdba76493451275c883a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/127/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6734,
+      "numero": 128,
+      "titulo": "Dragon Ball Z 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_652cf38361a209088302ba2b8b7f51e0.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/128/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6735,
+      "numero": 129,
+      "titulo": "Dragon Ball Z 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96a4d89ba25627b2966703bae2947543.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/129/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6736,
+      "numero": 130,
+      "titulo": "Dragon Ball Z 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3f445b0ff5a783ec652cdf8e669a9bf.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/130/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6737,
+      "numero": 131,
+      "titulo": "Dragon Ball Z 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9ed18a301c9f3d183938c451fa183df.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/131/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6738,
+      "numero": 132,
+      "titulo": "Dragon Ball Z 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddd993b2fef3fdff101872bb03cfded8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/132/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6739,
+      "numero": 133,
+      "titulo": "Dragon Ball Z 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a9dcba2349fef2bb823c39e45dd6c96.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/133/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6740,
+      "numero": 134,
+      "titulo": "Dragon Ball Z 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e98410c45ea98addec555019bbae8eb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/134/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6741,
+      "numero": 135,
+      "titulo": "Dragon Ball Z 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9e37c28ce5852218032aae6f5632b13.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/135/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6742,
+      "numero": 136,
+      "titulo": "Dragon Ball Z 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_325eaeac5bef34937cfdc1bd73034d17.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/136/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6743,
+      "numero": 137,
+      "titulo": "Dragon Ball Z 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1a609f1ac109d0be28d8ae112db1bbb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/137/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6744,
+      "numero": 138,
+      "titulo": "Dragon Ball Z 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_688f3fe72241429902623b790f15a774.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/138/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6745,
+      "numero": 139,
+      "titulo": "Dragon Ball Z 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4ed074907dc9bc3c86cc52904d763e3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/139/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6746,
+      "numero": 140,
+      "titulo": "Dragon Ball Z 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1a94cef23357f68031e958c443c0dfe.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/140/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6747,
+      "numero": 141,
+      "titulo": "Dragon Ball Z 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef452c63f81d0105dd4486f775adec81.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/141/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6748,
+      "numero": 142,
+      "titulo": "Dragon Ball Z 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dde16b86c64390f0af01275a44d3a42d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/142/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6749,
+      "numero": 143,
+      "titulo": "Dragon Ball Z 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02ed812220b0705fabb868ddbf17ea20.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/143/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6750,
+      "numero": 144,
+      "titulo": "Dragon Ball Z 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7bdb0e100275600f9e183e25d81822d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/144/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6751,
+      "numero": 145,
+      "titulo": "Dragon Ball Z 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f77ecc17109b1b806350eb7e7bbfd861.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/145/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6752,
+      "numero": 146,
+      "titulo": "Dragon Ball Z 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_751f6b6b02bf39c41025f3bcfd9948ad.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/146/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6753,
+      "numero": 147,
+      "titulo": "Dragon Ball Z 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24759597b99d21ef84e6c86c29e56aab.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/147/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6754,
+      "numero": 148,
+      "titulo": "Dragon Ball Z 148",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c25e9a36b62f62f58f847fa83c70dc91.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/148/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6755,
+      "numero": 149,
+      "titulo": "Dragon Ball Z 149",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07168af6cb0ef9f78dae15739dd73255.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/149/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6756,
+      "numero": 150,
+      "titulo": "Dragon Ball Z 150",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad1f8bb9b51f023cdc80cf94bb615aa9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/150/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6757,
+      "numero": 151,
+      "titulo": "Dragon Ball Z 151",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c1e55ec7c43dc51a37472ddcbd756fb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/151/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6758,
+      "numero": 152,
+      "titulo": "Dragon Ball Z 152",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ce30eeb956b8bbdecfdb304b556edba.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/152/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6759,
+      "numero": 153,
+      "titulo": "Dragon Ball Z 153",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cf0ed8641cfcbbf46784e620a0316fb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/153/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6760,
+      "numero": 154,
+      "titulo": "Dragon Ball Z 154",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c77bfda61a0204d445185053e6a9a8fe.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/154/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6761,
+      "numero": 155,
+      "titulo": "Dragon Ball Z 155",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ab70731b1553f17c11a3bbc87e0b605.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/155/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6762,
+      "numero": 156,
+      "titulo": "Dragon Ball Z 156",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01ded4259d101feb739b06c399e9cd9c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/156/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6763,
+      "numero": 157,
+      "titulo": "Dragon Ball Z 157",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f683b372cc7eacb980ec61b736cac74.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/157/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6764,
+      "numero": 158,
+      "titulo": "Dragon Ball Z 158",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb463625fc9dde2d82207e15bde1b674.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/158/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6765,
+      "numero": 159,
+      "titulo": "Dragon Ball Z 159",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12e1b435e5e53888e787d22c1e8d262d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/159/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6766,
+      "numero": 160,
+      "titulo": "Dragon Ball Z 160",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1819fb9034f796275e6f64950a134e2a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/160/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6767,
+      "numero": 161,
+      "titulo": "Dragon Ball Z 161",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8aa903e40952a84bd7177ad2daeb5962.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/161/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6768,
+      "numero": 162,
+      "titulo": "Dragon Ball Z 162",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a84a0448b11c17666c7e5db74042219.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/162/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6769,
+      "numero": 163,
+      "titulo": "Dragon Ball Z 163",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d38e6eab92b2aeb0a83b570188d5a1a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/163/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6770,
+      "numero": 164,
+      "titulo": "Dragon Ball Z 164",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06bf16f1f0372a63d520eac6cf7c5af7.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/164/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6771,
+      "numero": 165,
+      "titulo": "Dragon Ball Z 165",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_195f15384c2a79cedf293e4a847ce85c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/165/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6772,
+      "numero": 166,
+      "titulo": "Dragon Ball Z 166",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2639c6bd2a42e714227b06646829d6ea.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/166/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6773,
+      "numero": 167,
+      "titulo": "Dragon Ball Z 167",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acaa23f71f963e96c8847585e71352d6.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/167/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6774,
+      "numero": 168,
+      "titulo": "Dragon Ball Z 168",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3946bb00df4eebe135aa471d36e6ef68.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/168/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6775,
+      "numero": 169,
+      "titulo": "Dragon Ball Z 169",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e443d6819ae22b2d64f75266f535b59.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/169/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6776,
+      "numero": 170,
+      "titulo": "Dragon Ball Z 170",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5ba7c3bbe8402a49a10fed2162dac54.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/170/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6777,
+      "numero": 171,
+      "titulo": "Dragon Ball Z 171",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6459257ddab7b85bf4b57845e875e4d4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/171/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6778,
+      "numero": 172,
+      "titulo": "Dragon Ball Z 172",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebbac19a6a88726ff7927a79610bf6be.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/172/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 13038,
+      "numero": 173,
+      "titulo": "Dragon Ball Z (Original) - 173",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23745dd9b252ba856cdd795b606a47ea.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/173/",
+      "publicado_en_origen": "2011-10-31 11:43:14"
+    },
+    {
+      "id_origen": 13039,
+      "numero": 174,
+      "titulo": "Dragon Ball Z (Original) - 174",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37a56d458b5e856d05bcfb3322db5f8a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/174/",
+      "publicado_en_origen": "2011-10-31 11:43:14"
+    },
+    {
+      "id_origen": 6779,
+      "numero": 175,
+      "titulo": "Dragon Ball Z 175",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42299f06ee419aa5d9d07798b56779e2.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/175/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6780,
+      "numero": 176,
+      "titulo": "Dragon Ball Z 176",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6ce91443f690d0979d788694448382d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/176/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6781,
+      "numero": 177,
+      "titulo": "Dragon Ball Z 177",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a845d4d23b883acb632fefd814e175f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/177/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6782,
+      "numero": 178,
+      "titulo": "Dragon Ball Z 178",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_128ac9c427302b7a64314fc4593430b2.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/178/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6783,
+      "numero": 179,
+      "titulo": "Dragon Ball Z 179",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_967c2ae04b169f07e7fa8fdfd110551e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/179/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6784,
+      "numero": 180,
+      "titulo": "Dragon Ball Z 180",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0332d694daab22e0e0eaf7a5e88433f9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/180/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6785,
+      "numero": 181,
+      "titulo": "Dragon Ball Z 181",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86ba98bcbd3466d253841907ba1fc725.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/181/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6786,
+      "numero": 182,
+      "titulo": "Dragon Ball Z 182",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af4f00ca48321fb026865c5a1772dafd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/182/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6787,
+      "numero": 183,
+      "titulo": "Dragon Ball Z 183",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fcf1d8d2f36c0cde8eca4b86a8fe1df8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/183/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6788,
+      "numero": 184,
+      "titulo": "Dragon Ball Z 184",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0cddb7c06f1cd518e1efdc0e20b70c31.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/184/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6789,
+      "numero": 185,
+      "titulo": "Dragon Ball Z 185",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46d045ff5190f6ea93739da6c0aa19bc.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/185/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6790,
+      "numero": 186,
+      "titulo": "Dragon Ball Z 186",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6097d8f3714205740f30debe1166744e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/186/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6791,
+      "numero": 187,
+      "titulo": "Dragon Ball Z 187",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35b50410da00df8ef6c41f0cb537a9a3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/187/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6792,
+      "numero": 188,
+      "titulo": "Dragon Ball Z 188",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e98d23afe19a774d1b2dcbefd5103eb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/188/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6793,
+      "numero": 189,
+      "titulo": "Dragon Ball Z 189",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5e536083a438cec5b64a4954abc17f1.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/189/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6794,
+      "numero": 190,
+      "titulo": "Dragon Ball Z 190",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e5ac40b5a02c5a2c35fe028a266aa91.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/190/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6795,
+      "numero": 191,
+      "titulo": "Dragon Ball Z 191",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e074a2975740cdf3948cfc063892260e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/191/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 13040,
+      "numero": 192,
+      "titulo": "Dragon Ball Z (Original) - 192",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f2b49181d2539e79439f4c6a6716836.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/192/",
+      "publicado_en_origen": "2011-10-31 11:43:14"
+    },
+    {
+      "id_origen": 6796,
+      "numero": 193,
+      "titulo": "Dragon Ball Z 193",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06a9d51e04213572ef0720dd27a84792.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/193/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6797,
+      "numero": 194,
+      "titulo": "Dragon Ball Z 194",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad185a320a9c8af2e25d53ef7cbacd4f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/194/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6798,
+      "numero": 195,
+      "titulo": "Dragon Ball Z 195",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f78fa1cdb0e2fda88c2a935950ffdf1.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/195/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6799,
+      "numero": 196,
+      "titulo": "Dragon Ball Z 196",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aba54c23d97bf1321a4275e21d615112.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/196/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6800,
+      "numero": 197,
+      "titulo": "Dragon Ball Z 197",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21e60123a3a0df92f391f66b1e51903a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/197/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6801,
+      "numero": 198,
+      "titulo": "Dragon Ball Z 198",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fb333bc34b8d1f1d1d434f90869367a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/198/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6802,
+      "numero": 199,
+      "titulo": "Dragon Ball Z 199",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbb240d23ce3d732b67bcfbae5956b18.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/199/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6803,
+      "numero": 200,
+      "titulo": "Dragon Ball Z 200",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6292668b36ef412fa3c4102d1311a62.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/200/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6804,
+      "numero": 201,
+      "titulo": "Dragon Ball Z 201",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a322852ce0df73e204b7e67cbbef0d0a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/201/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6805,
+      "numero": 202,
+      "titulo": "Dragon Ball Z 202",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5faf461eff3099671ad63c6f3f094f7f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/202/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6806,
+      "numero": 203,
+      "titulo": "Dragon Ball Z 203",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da87cbc1b5b8501acf3b49eec1cc52c3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/203/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6807,
+      "numero": 204,
+      "titulo": "Dragon Ball Z 204",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0ba5c44aaf65f6ca34cf116e6d82ebf.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/204/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6808,
+      "numero": 205,
+      "titulo": "Dragon Ball Z 205",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6194a1ee187acd6606989f03769e8f7f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/205/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6809,
+      "numero": 206,
+      "titulo": "Dragon Ball Z 206",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c3a3b139a11689e0bc55abd95e20e39.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/206/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6810,
+      "numero": 207,
+      "titulo": "Dragon Ball Z 207",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f1927fff6e092185d6a6f4c8466e421.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/207/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6811,
+      "numero": 208,
+      "titulo": "Dragon Ball Z 208",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2adcfc3929e7c03fac3100d3ad51da26.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/208/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6812,
+      "numero": 209,
+      "titulo": "Dragon Ball Z 209",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92b70a527191ca64ca2df1cc32142646.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/209/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6813,
+      "numero": 210,
+      "titulo": "Dragon Ball Z 210",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83a100ec3c2c30751156cea2d60aacbe.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/210/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6814,
+      "numero": 211,
+      "titulo": "Dragon Ball Z 211",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_937936029af671cf479fa893db91cbdd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/211/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6815,
+      "numero": 212,
+      "titulo": "Dragon Ball Z 212",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da0dba87d95286d836e37ca60ab1e734.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/212/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6816,
+      "numero": 213,
+      "titulo": "Dragon Ball Z 213",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8383f931b0cefcc631f070480ef340e1.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/213/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6817,
+      "numero": 214,
+      "titulo": "Dragon Ball Z 214",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f845cbb24a82dabdee971c6f7719f89d.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/214/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6818,
+      "numero": 215,
+      "titulo": "Dragon Ball Z 215",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3842ed7b3d0fe3ac263bcabd2999790.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/215/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6819,
+      "numero": 216,
+      "titulo": "Dragon Ball Z 216",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6f97e6f0fd175613910d613d574d0cb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/216/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6820,
+      "numero": 217,
+      "titulo": "Dragon Ball Z 217",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0f52c6624ae1359e105c8a5d8cd956a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/217/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6821,
+      "numero": 218,
+      "titulo": "Dragon Ball Z 218",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba0a4d6ecea3e9e126dd3b6d77291c97.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/218/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6822,
+      "numero": 219,
+      "titulo": "Dragon Ball Z 219",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6be4c22a5963ab00dfe8f3b695b5332.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/219/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6823,
+      "numero": 220,
+      "titulo": "Dragon Ball Z 220",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06358599b7afb2506e063c1ea0a09fbd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/220/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6824,
+      "numero": 221,
+      "titulo": "Dragon Ball Z 221",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de58bfe3d33dada41a9398c30e21eeed.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/221/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6825,
+      "numero": 222,
+      "titulo": "Dragon Ball Z 222",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf1b2f4b901c21a1d8645018ea9aeb05.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/222/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6826,
+      "numero": 223,
+      "titulo": "Dragon Ball Z 223",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ec04cb3912c4f08874dd03716f80df1.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/223/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6827,
+      "numero": 224,
+      "titulo": "Dragon Ball Z 224",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a1c2f4dcf2bf76b6b278ae40875d536.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/224/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6828,
+      "numero": 225,
+      "titulo": "Dragon Ball Z 225",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11348e03e23b137d55d94464250a67a2.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/225/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6829,
+      "numero": 226,
+      "titulo": "Dragon Ball Z 226",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8bd2c3f7fd5b165b470beb1cc83071ab.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/226/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6830,
+      "numero": 227,
+      "titulo": "Dragon Ball Z 227",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e9fb672ee46be628a141b594d7c6f3e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/227/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6831,
+      "numero": 228,
+      "titulo": "Dragon Ball Z 228",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d0b954f0bef437c29dfa73fafdf3fa5.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/228/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6832,
+      "numero": 229,
+      "titulo": "Dragon Ball Z 229",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_349f36aa789af083b8e26839bd498af9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/229/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6833,
+      "numero": 230,
+      "titulo": "Dragon Ball Z 230",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_555183669058fb273008595a9393d628.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/230/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6834,
+      "numero": 231,
+      "titulo": "Dragon Ball Z 231",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba038e2a20ded4a1d146841e6ed42f22.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/231/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6835,
+      "numero": 232,
+      "titulo": "Dragon Ball Z 232",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a992995ef4f0439b258f2360dbb85511.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/232/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6836,
+      "numero": 233,
+      "titulo": "Dragon Ball Z 233",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b89bedda1fc8a2d88c448e361194f02.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/233/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6837,
+      "numero": 234,
+      "titulo": "Dragon Ball Z 234",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_176bf6219855a6eb1f3a30903e34b6fb.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/234/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6838,
+      "numero": 235,
+      "titulo": "Dragon Ball Z 235",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fa83fec3cf3810e5680ed45f7124dce.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/235/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6839,
+      "numero": 236,
+      "titulo": "Dragon Ball Z 236",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7edcfb2d8f6a659ef4cd1e6c9b6d7079.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/236/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6840,
+      "numero": 237,
+      "titulo": "Dragon Ball Z 237",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4324e8d0d37b110ee1a4f1633ac52df5.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/237/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6841,
+      "numero": 238,
+      "titulo": "Dragon Ball Z 238",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9559fc73b13fa721a816958488a5b449.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/238/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6842,
+      "numero": 239,
+      "titulo": "Dragon Ball Z 239",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74961657ae02e93fc17be9d9fc864620.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/239/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6843,
+      "numero": 240,
+      "titulo": "Dragon Ball Z 240",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_287e041302f34b11ddfb57afc8048cd8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/240/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6844,
+      "numero": 241,
+      "titulo": "Dragon Ball Z 241",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0496604c1d80f66fbeb963c12e570a26.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/241/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6845,
+      "numero": 242,
+      "titulo": "Dragon Ball Z 242",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_174b39525e01b7542b3ee27ac7251d2c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/242/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6846,
+      "numero": 243,
+      "titulo": "Dragon Ball Z 243",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28ce9bc954876829eeb56ff46da8e1ab.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/243/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6847,
+      "numero": 244,
+      "titulo": "Dragon Ball Z 244",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_803a82dee7e3fbb3438a149508484250.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/244/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6848,
+      "numero": 245,
+      "titulo": "Dragon Ball Z 245",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2751fae77b24c37382cf6464173d145e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/245/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6849,
+      "numero": 246,
+      "titulo": "Dragon Ball Z 246",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecb9fe2fbb99c31f567e9823e884dbec.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/246/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6850,
+      "numero": 247,
+      "titulo": "Dragon Ball Z 247",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44ece762ae7e41e3a0b1301488907eaa.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/247/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6851,
+      "numero": 248,
+      "titulo": "Dragon Ball Z 248",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_478d04447429f265a85d7568b0a602b5.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/248/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6852,
+      "numero": 249,
+      "titulo": "Dragon Ball Z 249",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e96be832cf8bc6b35a956e8fb66c76a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/249/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6853,
+      "numero": 250,
+      "titulo": "Dragon Ball Z 250",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f26ecc6e3bc7f5e9c8cf23a7c7a315dd.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/250/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6854,
+      "numero": 251,
+      "titulo": "Dragon Ball Z 251",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ba2520186ee376e835ce7bf1554ef7b.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/251/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6855,
+      "numero": 252,
+      "titulo": "Dragon Ball Z 252",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc5dda17bef960b7c200e7d8063142ec.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/252/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6856,
+      "numero": 253,
+      "titulo": "Dragon Ball Z 253",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34ad9bc83e3c72c62281cb2c744ac966.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/253/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6857,
+      "numero": 254,
+      "titulo": "Dragon Ball Z 254",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94c4dd41f9dddce696557d3717d98d82.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/254/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6858,
+      "numero": 255,
+      "titulo": "Dragon Ball Z 255",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c55430fdfdac11fc3771a9b94e2bb854.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/255/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6859,
+      "numero": 256,
+      "titulo": "Dragon Ball Z 256",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_161882dd2d19c716819081aee2c08b98.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/256/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6860,
+      "numero": 257,
+      "titulo": "Dragon Ball Z 257",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31a6b5568bbb9c350c1b296d9086acf0.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/257/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6861,
+      "numero": 258,
+      "titulo": "Dragon Ball Z 258",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a957aa96221d0b7cb99ab072eaed7bf9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/258/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6862,
+      "numero": 259,
+      "titulo": "Dragon Ball Z 259",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55ed523b2ca4371a31d7dbd7a2877bea.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/259/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6863,
+      "numero": 260,
+      "titulo": "Dragon Ball Z 260",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53edebc543333dfbf7c5933af792c9c4.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/260/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6864,
+      "numero": 261,
+      "titulo": "Dragon Ball Z 261",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77ef24b42fcecae4ba74fa68137f3e43.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/261/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6865,
+      "numero": 262,
+      "titulo": "Dragon Ball Z 262",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1b8b7b3ceb65c188dcdc0851634cadf.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/262/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6866,
+      "numero": 263,
+      "titulo": "Dragon Ball Z 263",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c600b4b49faa3a2a165242e90ca21ac3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/263/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6867,
+      "numero": 264,
+      "titulo": "Dragon Ball Z 264",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cd78264cf2cd821ba651485c111a29a.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/264/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6868,
+      "numero": 265,
+      "titulo": "Dragon Ball Z 265",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a1276c25f5efe85f0fc4020fbf5b4f8.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/265/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6869,
+      "numero": 266,
+      "titulo": "Dragon Ball Z 266",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15f28fbc8c6e099a1e98b8a555d72374.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/266/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6870,
+      "numero": 267,
+      "titulo": "Dragon Ball Z 267",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e474e8520850a6f3d13f268666736f33.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/267/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6871,
+      "numero": 268,
+      "titulo": "Dragon Ball Z 268",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ea25c95b0792ca4ce01ea18bbda2d44.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/268/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6872,
+      "numero": 269,
+      "titulo": "Dragon Ball Z 269",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83715fd4755b33f9c3958e1a9ee221e1.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/269/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6873,
+      "numero": 270,
+      "titulo": "Dragon Ball Z 270",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abdf6bdb7570e8f9d4338f84bd169130.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/270/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6874,
+      "numero": 271,
+      "titulo": "Dragon Ball Z 271",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d50d22735a7469266aab23fd8aeb536.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/271/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6875,
+      "numero": 272,
+      "titulo": "Dragon Ball Z 272",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15f99f2165aa8c86c9dface16fefd281.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/272/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6876,
+      "numero": 273,
+      "titulo": "Dragon Ball Z 273",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d339a8932df05de23ae3d9e29df4b25f.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/273/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6877,
+      "numero": 274,
+      "titulo": "Dragon Ball Z 274",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_876e8108f87eb61877c6263228b67256.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/274/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6878,
+      "numero": 275,
+      "titulo": "Dragon Ball Z 275",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a33f5792b2a9a51ddd0111b3ac6e0e76.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/275/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6879,
+      "numero": 276,
+      "titulo": "Dragon Ball Z 276",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0502a70eae9d62bed6cd32d7e1a0cb45.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/276/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6880,
+      "numero": 277,
+      "titulo": "Dragon Ball Z 277",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b555f4a2901228cc826327079761e696.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/277/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6881,
+      "numero": 278,
+      "titulo": "Dragon Ball Z 278",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f6ecc9686eb1bff304bbda038c60c54.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/278/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6882,
+      "numero": 279,
+      "titulo": "Dragon Ball Z 279",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5317b6799188715d5e00a638a4278901.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/279/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6883,
+      "numero": 280,
+      "titulo": "Dragon Ball Z 280",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a577dad7e00eaad256c112c836f55b11.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/280/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6884,
+      "numero": 281,
+      "titulo": "Dragon Ball Z 281",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5637f327937ff2beb7d0a499a0b99d3c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/281/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6885,
+      "numero": 282,
+      "titulo": "Dragon Ball Z 282",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9e74f47610385b11e295eec4c58d473.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/282/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6886,
+      "numero": 283,
+      "titulo": "Dragon Ball Z 283",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bd844f11fa520d54fa5edec06ea2507.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/283/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6887,
+      "numero": 284,
+      "titulo": "Dragon Ball Z 284",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_baf4f1a5938b8d520b328c13b51ccf11.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/284/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6888,
+      "numero": 285,
+      "titulo": "Dragon Ball Z 285",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69c7e73fea7ad35e9000ce41e1622036.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/285/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6889,
+      "numero": 286,
+      "titulo": "Dragon Ball Z 286",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a552abf945aad2831a917bd58bbdc70.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/286/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6890,
+      "numero": 287,
+      "titulo": "Dragon Ball Z 287",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f7b884f2445ef08da9bbc77b028722c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/287/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 13041,
+      "numero": 288,
+      "titulo": "Dragon Ball Z (Original) - 288",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ca1ce4a65bf5b60c60bd7c4a89a33f9.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/288/",
+      "publicado_en_origen": "2011-10-31 11:45:44"
+    },
+    {
+      "id_origen": 6891,
+      "numero": 289,
+      "titulo": "Dragon Ball Z 289",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83da7c539e1ab4e759623c38d8737e9e.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/289/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6892,
+      "numero": 290,
+      "titulo": "Dragon Ball Z 290",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2f446980d8e971ef3da97af089481c3.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/290/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    },
+    {
+      "id_origen": 6893,
+      "numero": 291,
+      "titulo": "Dragon Ball Z 291",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05d0abb9a864ae4981e933685b8b915c.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z/291/",
+      "publicado_en_origen": "2011-07-06 10:31:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "251",
+  "cantidad_episodios_declarada": 291,
+  "detalle_extraido_en": "2026-08-26T18:25:58+00:00"
+}

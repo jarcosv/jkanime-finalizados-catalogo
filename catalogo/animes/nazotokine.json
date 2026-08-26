@@ -1,0 +1,117 @@
+{
+  "id_origen": 1947,
+  "slug": "nazotokine",
+  "titulo": "Nazotokine",
+  "titulo_corto": "Nazotokine",
+  "sinopsis": "Ami Tokine es la secretaria del CEO de la agencia de publicidad TEN2, y su nuevo cliente es el representante de una famosa compañía de anime. Tokine estaba limpiando la sala de reuniones como preparativo, cuando de repente la zona se vio envuelta en una brillante luz ¡y no podía salir de la sala!.\n \nEs en ese momento cuando aparece una especie de monstruo y le dice que la dejará marchar si es capaz de resolver unos puzzles.\n \nAmi no sabe qué está sucediendo, pero debe actuar rápido: ¡resuelve los puzzles primero y piensa después!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nazotokine/",
+  "episodios": [
+    {
+      "id_origen": 32958,
+      "numero": 1,
+      "titulo": "Nazotokine - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+      "url_origen": "https://jkanime.net/nazotokine/1/",
+      "publicado_en_origen": "2016-10-05 14:11:11"
+    },
+    {
+      "id_origen": 33027,
+      "numero": 2,
+      "titulo": "Nazotokine - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+      "url_origen": "https://jkanime.net/nazotokine/2/",
+      "publicado_en_origen": "2016-10-12 14:16:31"
+    },
+    {
+      "id_origen": 33093,
+      "numero": 3,
+      "titulo": "Nazotokine - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+      "url_origen": "https://jkanime.net/nazotokine/3/",
+      "publicado_en_origen": "2016-10-19 14:14:44"
+    },
+    {
+      "id_origen": 33162,
+      "numero": 4,
+      "titulo": "Nazotokine - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+      "url_origen": "https://jkanime.net/nazotokine/4/",
+      "publicado_en_origen": "2016-10-26 14:09:20"
+    },
+    {
+      "id_origen": 33231,
+      "numero": 5,
+      "titulo": "Nazotokine - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+      "url_origen": "https://jkanime.net/nazotokine/5/",
+      "publicado_en_origen": "2016-11-02 14:11:45"
+    },
+    {
+      "id_origen": 33301,
+      "numero": 6,
+      "titulo": "Nazotokine - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+      "url_origen": "https://jkanime.net/nazotokine/6/",
+      "publicado_en_origen": "2016-11-09 15:09:34"
+    },
+    {
+      "id_origen": 33371,
+      "numero": 7,
+      "titulo": "Nazotokine - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+      "url_origen": "https://jkanime.net/nazotokine/7/",
+      "publicado_en_origen": "2016-11-16 15:13:23"
+    },
+    {
+      "id_origen": 33441,
+      "numero": 8,
+      "titulo": "Nazotokine - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+      "url_origen": "https://jkanime.net/nazotokine/8/",
+      "publicado_en_origen": "2016-11-23 15:55:18"
+    },
+    {
+      "id_origen": 33510,
+      "numero": 9,
+      "titulo": "Nazotokine - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+      "url_origen": "https://jkanime.net/nazotokine/9/",
+      "publicado_en_origen": "2016-11-30 15:13:55"
+    },
+    {
+      "id_origen": 33582,
+      "numero": 10,
+      "titulo": "Nazotokine - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+      "url_origen": "https://jkanime.net/nazotokine/10/",
+      "publicado_en_origen": "2016-12-07 15:09:48"
+    },
+    {
+      "id_origen": 33652,
+      "numero": 11,
+      "titulo": "Nazotokine - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+      "url_origen": "https://jkanime.net/nazotokine/11/",
+      "publicado_en_origen": "2016-12-14 15:39:17"
+    },
+    {
+      "id_origen": 33727,
+      "numero": 12,
+      "titulo": "Nazotokine - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nazotokine.jpg",
+      "url_origen": "https://jkanime.net/nazotokine/12/",
+      "publicado_en_origen": "2016-12-21 15:15:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1947",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:40:07+00:00"
+}

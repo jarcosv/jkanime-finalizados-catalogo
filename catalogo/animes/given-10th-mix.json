@@ -1,0 +1,29 @@
+{
+  "id_origen": 4550,
+  "slug": "given-10th-mix",
+  "titulo": "Given: 10th Mix",
+  "titulo_corto": "Given: 10th Mix",
+  "sinopsis": "¡Un brillante epílogo que describe el deslumbrante «presente» de aquellos que han crecido desde «aquellos días» y las personas importantes que los rodean!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/given-10th-mix.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/given-10th-mix/",
+  "episodios": [
+    {
+      "id_origen": 70259,
+      "numero": 1,
+      "titulo": "Given: 10th Mix",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f9594c37cb8d4bcf4595c6926d1c06f.jpg",
+      "url_origen": "https://jkanime.net/given-10th-mix/1/",
+      "publicado_en_origen": "2025-12-21 13:36:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4550",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:28:40+00:00"
+}

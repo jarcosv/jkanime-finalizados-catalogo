@@ -1,0 +1,125 @@
+{
+  "id_origen": 1304,
+  "slug": "kaitou-joker",
+  "titulo": "Kaitou Joker",
+  "titulo_corto": "Kaitou Joker",
+  "sinopsis": "La historia está protagonizada por el misterioso ladrón Joker, del cual se dice que no hay nada en el mundo que no pueda robar. Se dedica a robar un tesoro tras otro, usando lo que parecen trucos milagrosos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kaitou-joker.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kaitou-joker/",
+  "episodios": [
+    {
+      "id_origen": 25006,
+      "numero": 1,
+      "titulo": "Kaitou Joker - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b4ee40ffb4c7cf07b1d29cb65862410.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/1/",
+      "publicado_en_origen": "2014-10-06 06:47:57"
+    },
+    {
+      "id_origen": 25073,
+      "numero": 2,
+      "titulo": "Kaitou Joker - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8141c60e393b72d67396df39cdda9c1e.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/2/",
+      "publicado_en_origen": "2014-10-13 06:36:11"
+    },
+    {
+      "id_origen": 25143,
+      "numero": 3,
+      "titulo": "Kaitou Joker - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfc58c81e954a4ee8722992437a86d9d.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/3/",
+      "publicado_en_origen": "2014-10-20 07:39:56"
+    },
+    {
+      "id_origen": 25324,
+      "numero": 4,
+      "titulo": "Kaitou Joker - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dcc7f7c341f77a6d814e6f1e0fc6df3.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/4/",
+      "publicado_en_origen": "2014-11-07 08:57:54"
+    },
+    {
+      "id_origen": 25360,
+      "numero": 5,
+      "titulo": "Kaitou Joker - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10a55f345c206822c64a07d7728aef73.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/5/",
+      "publicado_en_origen": "2014-11-10 13:05:57"
+    },
+    {
+      "id_origen": 25469,
+      "numero": 6,
+      "titulo": "Kaitou Joker - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b575e1f659c7d47f3fd50cc248891ecf.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/6/",
+      "publicado_en_origen": "2014-11-17 13:06:11"
+    },
+    {
+      "id_origen": 25555,
+      "numero": 7,
+      "titulo": "Kaitou Joker - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aea9789988c08f28538422f1c3427388.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/7/",
+      "publicado_en_origen": "2014-11-24 13:06:27"
+    },
+    {
+      "id_origen": 25631,
+      "numero": 8,
+      "titulo": "Kaitou Joker - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fad966a3f8fc7a538c1edd9aa5c22fd5.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/8/",
+      "publicado_en_origen": "2014-12-01 13:04:50"
+    },
+    {
+      "id_origen": 25719,
+      "numero": 9,
+      "titulo": "Kaitou Joker - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c9fd5e2abffc80d2d3299f8d969e570.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/9/",
+      "publicado_en_origen": "2014-12-08 13:07:13"
+    },
+    {
+      "id_origen": 25820,
+      "numero": 10,
+      "titulo": "Kaitou Joker - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5c9087190e4d541da83e0739edeb60c.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/10/",
+      "publicado_en_origen": "2014-12-15 13:06:50"
+    },
+    {
+      "id_origen": 25929,
+      "numero": 11,
+      "titulo": "Kaitou Joker - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0283ed0eee6998607137643223c4e475.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/11/",
+      "publicado_en_origen": "2014-12-22 13:08:14"
+    },
+    {
+      "id_origen": 26117,
+      "numero": 12,
+      "titulo": "Kaitou Joker - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b03d7539ef22e36257681e5eb46105a7.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/12/",
+      "publicado_en_origen": "2014-12-29 13:10:51"
+    },
+    {
+      "id_origen": 26320,
+      "numero": 13,
+      "titulo": "Kaitou Joker - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edf96cef9d706a65c9adaf1fa871fd28.jpg",
+      "url_origen": "https://jkanime.net/kaitou-joker/13/",
+      "publicado_en_origen": "2015-01-05 23:52:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1304",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:33:26+00:00"
+}

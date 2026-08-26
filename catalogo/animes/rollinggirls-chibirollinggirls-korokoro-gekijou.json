@@ -1,0 +1,37 @@
+{
+  "id_origen": 1540,
+  "slug": "rollinggirls-chibirollinggirls-korokoro-gekijou",
+  "titulo": "Rolling☆Girls: Chibi☆Rolling☆Girls Korokoro Gekijou",
+  "titulo_corto": "Rolling☆Girls: Chibi☆Rolling☆G...",
+  "sinopsis": "Especiales Cortos incluidos en los Blu-rays y DVDs.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rollinggirls-chibirollinggirls-korokoro-gekijou.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/rollinggirls-chibirollinggirls-korokoro-gekijou/",
+  "episodios": [
+    {
+      "id_origen": 27670,
+      "numero": 1,
+      "titulo": "Rolling☆Girls: Chibi☆Rolling☆Girls Korokoro Gekijou - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rollinggirls-chibirollinggirls-korokoro-gekijou.jpg",
+      "url_origen": "https://jkanime.net/rollinggirls-chibirollinggirls-korokoro-gekijou/1/",
+      "publicado_en_origen": "2015-05-03 12:33:19"
+    },
+    {
+      "id_origen": 27671,
+      "numero": 2,
+      "titulo": "Rolling☆Girls: Chibi☆Rolling☆Girls Korokoro Gekijou - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rollinggirls-chibirollinggirls-korokoro-gekijou.jpg",
+      "url_origen": "https://jkanime.net/rollinggirls-chibirollinggirls-korokoro-gekijou/2/",
+      "publicado_en_origen": "2015-05-03 12:37:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1540",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:44:06+00:00"
+}

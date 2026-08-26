@@ -1,0 +1,53 @@
+{
+  "id_origen": 3399,
+  "slug": "cike-wu-liuqi-fanwai",
+  "titulo": "Cike Wu Liuqi Fanwai",
+  "titulo_corto": "Cike Wu Liuqi Fanwai",
+  "sinopsis": "Episodios adicionales de Killer Seven.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/cike-wu-liuqi-fanwai.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/cike-wu-liuqi-fanwai/",
+  "episodios": [
+    {
+      "id_origen": 52679,
+      "numero": 1,
+      "titulo": "Cike Wu Liuqi Fanwai - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f85d89a3462bfae05cfb159a265c6a6.jpg",
+      "url_origen": "https://jkanime.net/cike-wu-liuqi-fanwai/1/",
+      "publicado_en_origen": "2023-05-04 17:03:59"
+    },
+    {
+      "id_origen": 52680,
+      "numero": 2,
+      "titulo": "Cike Wu Liuqi Fanwai - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c891a2f8e485dcaa3bbbc288b32e834.jpg",
+      "url_origen": "https://jkanime.net/cike-wu-liuqi-fanwai/2/",
+      "publicado_en_origen": "2023-05-04 17:04:03"
+    },
+    {
+      "id_origen": 52681,
+      "numero": 3,
+      "titulo": "Cike Wu Liuqi Fanwai - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d3e949b50addd771835b6c8f29920b7.jpg",
+      "url_origen": "https://jkanime.net/cike-wu-liuqi-fanwai/3/",
+      "publicado_en_origen": "2023-05-04 17:04:10"
+    },
+    {
+      "id_origen": 52682,
+      "numero": 4,
+      "titulo": "Cike Wu Liuqi Fanwai - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2196b171dff2a3ef2b991990a8414f59.jpg",
+      "url_origen": "https://jkanime.net/cike-wu-liuqi-fanwai/4/",
+      "publicado_en_origen": "2023-05-04 17:04:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3399",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:23:45+00:00"
+}

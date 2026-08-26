@@ -1,0 +1,45 @@
+{
+  "id_origen": 1848,
+  "slug": "sansha-sanyou-specials",
+  "titulo": "Sansha Sanyou Specials",
+  "titulo_corto": "Sansha Sanyou Specials",
+  "sinopsis": "Especiales incluídos con los BD/DVD",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sansha-sanyou-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sansha-sanyou-specials/",
+  "episodios": [
+    {
+      "id_origen": 31924,
+      "numero": 1,
+      "titulo": "Sansha Sanyou Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edbac39df611159f89c10012a27d1563.jpg",
+      "url_origen": "https://jkanime.net/sansha-sanyou-specials/1/",
+      "publicado_en_origen": "2016-06-30 21:29:18"
+    },
+    {
+      "id_origen": 32901,
+      "numero": 2,
+      "titulo": "Sansha Sanyou Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a18d897b505e98af6fb846125dd80314.jpg",
+      "url_origen": "https://jkanime.net/sansha-sanyou-specials/2/",
+      "publicado_en_origen": "2016-09-29 16:01:50"
+    },
+    {
+      "id_origen": 32902,
+      "numero": 3,
+      "titulo": "Sansha Sanyou Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1532b681733b6bce2ff7252d8890d550.jpg",
+      "url_origen": "https://jkanime.net/sansha-sanyou-specials/3/",
+      "publicado_en_origen": "2016-09-29 16:14:44"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1848",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:45:01+00:00"
+}

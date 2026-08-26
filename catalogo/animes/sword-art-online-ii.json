@@ -1,0 +1,213 @@
+{
+  "id_origen": 1175,
+  "slug": "sword-art-online-ii",
+  "titulo": "Sword Art Online II",
+  "titulo_corto": "Sword Art Online II",
+  "sinopsis": "\"Sword Art Online II - Phantom bullet\" se sitúa un año después del incidente de SAO.\n\nKirigaya Kazuto (Kirito) es invitado a un restaurante por Kikuoka Seijirou un hombre que trabajaba en la investigación del incidente de SAO quien le pide a Kirito que investigue la muerte de un jugador en un popular MMORPG llamado Gun Gale Online (GGO), al parecer un misterioso jugador que se hace llamar \"Death Gun\" es capaz de matar a personajes en el juego y a su vez, matar a quienes controlan los avatares en el mundo real. \n\nAl momento de que Kirito ingresa a GGO, este lo hace en forma de mujer (lo que obviamente le causa gran sorpresa) y conoce a una hábil jugadora llamada Sinon. Para resolver el misterio de las muertes se aventurarán en este nuevo mundo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sword-art-online-ii.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sword-art-online-ii/",
+  "episodios": [
+    {
+      "id_origen": 23884,
+      "numero": 1,
+      "titulo": "El Mundo de las Armas",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e87a5d79df981f751c88e0bf91fc6ee.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/1/",
+      "publicado_en_origen": "2014-07-05 12:45:58"
+    },
+    {
+      "id_origen": 23965,
+      "numero": 2,
+      "titulo": "La francotiradora de hielo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99c21323790ff1b0d80e980918d15f0b.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/2/",
+      "publicado_en_origen": "2014-07-12 12:43:23"
+    },
+    {
+      "id_origen": 24033,
+      "numero": 3,
+      "titulo": "Recuerdos de sangre fresca",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc06828a994e9e28952b11b1affb9ec9.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/3/",
+      "publicado_en_origen": "2014-07-19 12:38:12"
+    },
+    {
+      "id_origen": 24095,
+      "numero": 4,
+      "titulo": "GGO",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0716095e731ef88a54661b5041006b6.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/4/",
+      "publicado_en_origen": "2014-07-26 12:37:31"
+    },
+    {
+      "id_origen": 24162,
+      "numero": 5,
+      "titulo": "Pistola y espada",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a7fd965c4e7dc9a6c6665ca4ba813c2.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/5/",
+      "publicado_en_origen": "2014-08-02 11:34:28"
+    },
+    {
+      "id_origen": 24252,
+      "numero": 6,
+      "titulo": "Un duelo en el yermo",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f93b699c738691d0b53d82ed1e25817.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/6/",
+      "publicado_en_origen": "2014-08-09 11:47:52"
+    },
+    {
+      "id_origen": 24447,
+      "numero": 7,
+      "titulo": "Remembranza escarlata",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ce5e897cda6aeb211dffe8d514f4365.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/7/",
+      "publicado_en_origen": "2014-08-16 11:35:52"
+    },
+    {
+      "id_origen": 24515,
+      "numero": 8,
+      "titulo": "Bullet of Bullets",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09efc63754f0ca0f075ce4afc8e40ac4.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/8/",
+      "publicado_en_origen": "2014-08-23 11:38:41"
+    },
+    {
+      "id_origen": 24580,
+      "numero": 9,
+      "titulo": "Death Gun",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abbf27033c07c296a1d7cf850ecc1af6.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/9/",
+      "publicado_en_origen": "2014-08-30 11:35:01"
+    },
+    {
+      "id_origen": 24657,
+      "numero": 10,
+      "titulo": "Acosador fatal",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe6dee4bb454be55d5d06531e9229aef.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/10/",
+      "publicado_en_origen": "2014-09-06 11:41:37"
+    },
+    {
+      "id_origen": 24751,
+      "numero": 11,
+      "titulo": "El significado de la fuerza",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_201d7a97aad11bd86a94e02edd95bebb.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/11/",
+      "publicado_en_origen": "2014-09-13 11:34:59"
+    },
+    {
+      "id_origen": 24813,
+      "numero": 12,
+      "titulo": "Bala fantasma",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba61ab7dab67e0845c2e530ba9fd5c2c.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/12/",
+      "publicado_en_origen": "2014-09-20 11:36:48"
+    },
+    {
+      "id_origen": 24927,
+      "numero": 13,
+      "titulo": "Phantom Bullet",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b46825e256dea79fb588e5455ed7fe58.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/13/",
+      "publicado_en_origen": "2014-09-27 11:35:39"
+    },
+    {
+      "id_origen": 24987,
+      "numero": 14,
+      "titulo": "Un pequeño paso",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc8c609563d2b30f18b01c0fa9e684b3.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/14/",
+      "publicado_en_origen": "2014-10-04 11:38:27"
+    },
+    {
+      "id_origen": 25123,
+      "numero": 15,
+      "titulo": "La reina del lago",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7416380bea3deeffaa942591263d351.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/15/",
+      "publicado_en_origen": "2014-10-18 11:34:09"
+    },
+    {
+      "id_origen": 25194,
+      "numero": 16,
+      "titulo": "El rey de los gigantes",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d877cfa2690d0b688ded2759209edea3.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/16/",
+      "publicado_en_origen": "2014-10-25 11:42:59"
+    },
+    {
+      "id_origen": 25264,
+      "numero": 17,
+      "titulo": "Excaliber",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac63ec3793010b4f6477df5e0006ca07.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/17/",
+      "publicado_en_origen": "2014-11-01 11:36:26"
+    },
+    {
+      "id_origen": 25336,
+      "numero": 18,
+      "titulo": "La morada del bosque",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db3d0795594df899891fdb8f2233ad33.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/18/",
+      "publicado_en_origen": "2014-11-08 11:34:51"
+    },
+    {
+      "id_origen": 25442,
+      "numero": 19,
+      "titulo": "Zekken",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3478a1d3a06a8e6de7d8f7dcba944a8e.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/19/",
+      "publicado_en_origen": "2014-11-15 11:37:05"
+    },
+    {
+      "id_origen": 25527,
+      "numero": 20,
+      "titulo": "Los Caballeros Durmientes",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41dbaeec4466f58cd76a81b7add4a279.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/20/",
+      "publicado_en_origen": "2014-11-22 11:38:49"
+    },
+    {
+      "id_origen": 25610,
+      "numero": 21,
+      "titulo": "El Monumento a los Espadachines",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd6ad709f5078853022fbca99c34dd9c.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/21/",
+      "publicado_en_origen": "2014-11-29 16:05:28"
+    },
+    {
+      "id_origen": 25692,
+      "numero": 22,
+      "titulo": "El final del viaje",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4490759a6b69ecb7c170d8e1476be569.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/22/",
+      "publicado_en_origen": "2014-12-06 11:35:58"
+    },
+    {
+      "id_origen": 25792,
+      "numero": 23,
+      "titulo": "El comienzo de un sueño",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8e022748d5214eb5ce98d3f69a0036c.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/23/",
+      "publicado_en_origen": "2014-12-13 11:36:36"
+    },
+    {
+      "id_origen": 25898,
+      "numero": 24,
+      "titulo": "El rosario de la madre",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc2ab5e9a8dd35473c8dc453a62962f7.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-ii/24/",
+      "publicado_en_origen": "2014-12-20 11:35:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1175",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:48:13+00:00"
+}

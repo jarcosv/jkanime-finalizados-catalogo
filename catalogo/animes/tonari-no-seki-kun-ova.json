@@ -1,0 +1,29 @@
+{
+  "id_origen": 1064,
+  "slug": "tonari-no-seki-kun-ova",
+  "titulo": "Tonari no Seki-kun OVA",
+  "titulo_corto": "Tonari no Seki-kun OVA",
+  "sinopsis": "OVA de Tonari no Seki-kun incluida con el  quito volumen del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tonari-no-seki-kun-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tonari-no-seki-kun-ova/",
+  "episodios": [
+    {
+      "id_origen": 22442,
+      "numero": 1,
+      "titulo": "Tonari no Seki-kun OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c51a02c186f00636e81c8af4845b8b64.jpg",
+      "url_origen": "https://jkanime.net/tonari-no-seki-kun-ova/1/",
+      "publicado_en_origen": "2014-01-14 21:29:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1064",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:49:52+00:00"
+}

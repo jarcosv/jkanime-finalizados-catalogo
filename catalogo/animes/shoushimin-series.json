@@ -1,0 +1,101 @@
+{
+  "id_origen": 3776,
+  "slug": "shoushimin-series",
+  "titulo": "Shoushimin Series",
+  "titulo_corto": "Shoushimin Series",
+  "sinopsis": "Kobato decide convertirse en un ciudadano honrado tras vivir una dura experiencia conocida como \"trabajo de sabiduría\". Hace un pacto con Osanai, una compañera de clase con el mismo objetivo, y su plan es empezar la preparatoria de forma que tengan una vida tranquila. Sin embargo, sin saber por qué, a su alrededor no dejan de producirse hechos inexplicables y desastres. ¿Podrán Kobato y Osanai llevar las vidas tranquilas y pacíficas que tanto desean?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shoushimin-series.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shoushimin-series/",
+  "episodios": [
+    {
+      "id_origen": 57827,
+      "numero": 1,
+      "titulo": "Shoushimin Series - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6c972c9e4ce68416515e09cca79b921.jpg",
+      "url_origen": "https://jkanime.net/shoushimin-series/1/",
+      "publicado_en_origen": "2024-07-06 14:17:20"
+    },
+    {
+      "id_origen": 57908,
+      "numero": 2,
+      "titulo": "Shoushimin Series - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abaf5a40e25d68f4f4b318b24a6cf9c9.jpg",
+      "url_origen": "https://jkanime.net/shoushimin-series/2/",
+      "publicado_en_origen": "2024-07-13 21:08:39"
+    },
+    {
+      "id_origen": 58014,
+      "numero": 3,
+      "titulo": "Shoushimin Series - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c8e6d8f786d07e611db5d2eefd3e2c8.jpg",
+      "url_origen": "https://jkanime.net/shoushimin-series/3/",
+      "publicado_en_origen": "2024-07-20 15:01:35"
+    },
+    {
+      "id_origen": 58197,
+      "numero": 4,
+      "titulo": "Shoushimin Series - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c428617f2e8f9084ddeb011d1134c403.jpg",
+      "url_origen": "https://jkanime.net/shoushimin-series/4/",
+      "publicado_en_origen": "2024-08-03 14:18:41"
+    },
+    {
+      "id_origen": 58283,
+      "numero": 5,
+      "titulo": "Shoushimin Series - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ef5026ce5d31f38474f2a228afdf6a0.jpg",
+      "url_origen": "https://jkanime.net/shoushimin-series/5/",
+      "publicado_en_origen": "2024-08-10 14:07:08"
+    },
+    {
+      "id_origen": 58390,
+      "numero": 6,
+      "titulo": "Shoushimin Series - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb45848398821c0f2eb22b25164fc1b5.jpg",
+      "url_origen": "https://jkanime.net/shoushimin-series/6/",
+      "publicado_en_origen": "2024-08-17 14:09:40"
+    },
+    {
+      "id_origen": 58452,
+      "numero": 7,
+      "titulo": "Shoushimin Series - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7106fcd15c9e1d583b89f599a258282c.jpg",
+      "url_origen": "https://jkanime.net/shoushimin-series/7/",
+      "publicado_en_origen": "2024-08-24 16:04:32"
+    },
+    {
+      "id_origen": 58627,
+      "numero": 8,
+      "titulo": "Shoushimin Series - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_435c60b8ffc921be3c3fa231dfab89a6.jpg",
+      "url_origen": "https://jkanime.net/shoushimin-series/8/",
+      "publicado_en_origen": "2024-08-31 17:10:14"
+    },
+    {
+      "id_origen": 58715,
+      "numero": 9,
+      "titulo": "Shoushimin Series - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7138deac47f9f7ca29d864a368b326ee.jpg",
+      "url_origen": "https://jkanime.net/shoushimin-series/9/",
+      "publicado_en_origen": "2024-09-07 15:53:00"
+    },
+    {
+      "id_origen": 59930,
+      "numero": 10,
+      "titulo": "Shoushimin Series - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a3a3b712ceecad79ddbd92c985a982b.jpg",
+      "url_origen": "https://jkanime.net/shoushimin-series/10/",
+      "publicado_en_origen": "2024-09-14 14:59:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3776",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:46:52+00:00"
+}

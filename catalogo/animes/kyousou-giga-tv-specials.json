@@ -1,0 +1,37 @@
+{
+  "id_origen": 994,
+  "slug": "kyousou-giga-tv-specials",
+  "titulo": "Kyousou Giga (TV) Specials",
+  "titulo_corto": "Kyousou Giga (TV) Specials",
+  "sinopsis": "Episodio 5.5\nEn este especial, las actrices de doblaje de la serie nos darán un tour por las locaciones de Kioto y las historias en las que se ha basado el anime\n\nEpisodio 10.5: Recapitulacion",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kyousou-giga-tv-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kyousou-giga-tv-specials/",
+  "episodios": [
+    {
+      "id_origen": 21970,
+      "numero": 1,
+      "titulo": "Kyousou Giga (TV) Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4451968692a5e17185fb5b6894ea4f67.jpg",
+      "url_origen": "https://jkanime.net/kyousou-giga-tv-specials/1/",
+      "publicado_en_origen": "2013-11-15 14:21:05"
+    },
+    {
+      "id_origen": 22289,
+      "numero": 2,
+      "titulo": "Kyousou Giga (TV) Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b3f5e968aec2e8470ffbcbb61ae3512.jpg",
+      "url_origen": "https://jkanime.net/kyousou-giga-tv-specials/2/",
+      "publicado_en_origen": "2013-12-27 14:43:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "994",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:36:17+00:00"
+}

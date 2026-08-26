@@ -1,0 +1,229 @@
+{
+  "id_origen": 707,
+  "slug": "initial-d",
+  "titulo": "Initial D First Stage",
+  "titulo_corto": "Initial D First Stage",
+  "sinopsis": "Takumi Fujiwara trabaja como bombero en una estación de servicio por el dia, y entregando tofu para la tienda de su padre por las noches. Poco sabe de sus excelentes habilidades al volante, y con el Toyota Sprinter AE86 Trueno es el mejor conductor amateur en la carretera del monte Akina. A causa de esto, grupos de carrera de toda la prefectura de Gunma buscan desafiar a a Takumi para ver si realmente tiene lo necesario para ser una estrella de la calle.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/initial-d.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/initial-d/",
+  "episodios": [
+    {
+      "id_origen": 18303,
+      "numero": 1,
+      "titulo": "Initial D First Stage - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb7bfee7a00af6aedab37fdb7fc71d64.jpg",
+      "url_origen": "https://jkanime.net/initial-d/1/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18304,
+      "numero": 2,
+      "titulo": "Initial D First Stage - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8210d4caae707aa1f8be6d3fd558812b.jpg",
+      "url_origen": "https://jkanime.net/initial-d/2/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18305,
+      "numero": 3,
+      "titulo": "Initial D First Stage - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20d3a3223886430b6e2d17c9536ff9fd.jpg",
+      "url_origen": "https://jkanime.net/initial-d/3/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18306,
+      "numero": 4,
+      "titulo": "Initial D First Stage - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b43914f3e2e1f22b1090eb86d69fe11.jpg",
+      "url_origen": "https://jkanime.net/initial-d/4/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18307,
+      "numero": 5,
+      "titulo": "Initial D First Stage - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f3d00da06bb333dafc5705b5b29039a.jpg",
+      "url_origen": "https://jkanime.net/initial-d/5/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18308,
+      "numero": 6,
+      "titulo": "Initial D First Stage - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb5f57dae37645528974bdaa079a4746.jpg",
+      "url_origen": "https://jkanime.net/initial-d/6/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18309,
+      "numero": 7,
+      "titulo": "Initial D First Stage - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb8e951171a961a823a8f4081a5d8c08.jpg",
+      "url_origen": "https://jkanime.net/initial-d/7/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18310,
+      "numero": 8,
+      "titulo": "Initial D First Stage - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a7b4862f2e69483a113f471c2f98acf.jpg",
+      "url_origen": "https://jkanime.net/initial-d/8/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18311,
+      "numero": 9,
+      "titulo": "Initial D First Stage - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94f0b006108b4e0b7024060797631346.jpg",
+      "url_origen": "https://jkanime.net/initial-d/9/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18312,
+      "numero": 10,
+      "titulo": "Initial D First Stage - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2f71e709eff7ed487160747496fc207.jpg",
+      "url_origen": "https://jkanime.net/initial-d/10/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18313,
+      "numero": 11,
+      "titulo": "Initial D First Stage - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46e9edf04c80b04c62c5db3ad8298a8b.jpg",
+      "url_origen": "https://jkanime.net/initial-d/11/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18314,
+      "numero": 12,
+      "titulo": "Initial D First Stage - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb98676e8ee16adce38796051a5cc7ff.jpg",
+      "url_origen": "https://jkanime.net/initial-d/12/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18315,
+      "numero": 13,
+      "titulo": "Initial D First Stage - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fc58940025dd55d0d280db02d87412c.jpg",
+      "url_origen": "https://jkanime.net/initial-d/13/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18316,
+      "numero": 14,
+      "titulo": "Initial D First Stage - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ba37cae58481d89e0dd7dce037432cc.jpg",
+      "url_origen": "https://jkanime.net/initial-d/14/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18317,
+      "numero": 15,
+      "titulo": "Initial D First Stage - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d6a857173c70fcf528f1b91003acffe.jpg",
+      "url_origen": "https://jkanime.net/initial-d/15/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18318,
+      "numero": 16,
+      "titulo": "Initial D First Stage - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e271b6eda6d30235aaec1743673316ce.jpg",
+      "url_origen": "https://jkanime.net/initial-d/16/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18319,
+      "numero": 17,
+      "titulo": "Initial D First Stage - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d80f1f9d6b7d30df67ed49f1deee94d9.jpg",
+      "url_origen": "https://jkanime.net/initial-d/17/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18320,
+      "numero": 18,
+      "titulo": "Initial D First Stage - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5d29d3c97a838c22a1f19ece2f45a1a.jpg",
+      "url_origen": "https://jkanime.net/initial-d/18/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18321,
+      "numero": 19,
+      "titulo": "Initial D First Stage - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd226797c6f94e77d81ea064be12e2ee.jpg",
+      "url_origen": "https://jkanime.net/initial-d/19/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18322,
+      "numero": 20,
+      "titulo": "Initial D First Stage - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_867d6c2fa26c1218f8a23d56c21fbea2.jpg",
+      "url_origen": "https://jkanime.net/initial-d/20/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18323,
+      "numero": 21,
+      "titulo": "Initial D First Stage - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbc141ed137320abb0ec1e22a4319840.jpg",
+      "url_origen": "https://jkanime.net/initial-d/21/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18324,
+      "numero": 22,
+      "titulo": "Initial D First Stage - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a45d7bae2d4d07061d3e882475b049b.jpg",
+      "url_origen": "https://jkanime.net/initial-d/22/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18325,
+      "numero": 23,
+      "titulo": "Initial D First Stage - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8f5b4e765e49ddc455e6b7b4f550b72.jpg",
+      "url_origen": "https://jkanime.net/initial-d/23/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18326,
+      "numero": 24,
+      "titulo": "Initial D First Stage - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_838e8df20d6fb35ee999c93c416ecc36.jpg",
+      "url_origen": "https://jkanime.net/initial-d/24/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18327,
+      "numero": 25,
+      "titulo": "Initial D First Stage - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ae3088a39db099a794b27097418ac71.jpg",
+      "url_origen": "https://jkanime.net/initial-d/25/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    },
+    {
+      "id_origen": 18328,
+      "numero": 26,
+      "titulo": "Initial D First Stage - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6c7ae6b21d9b4d5f352ab798d94ecf7.jpg",
+      "url_origen": "https://jkanime.net/initial-d/26/",
+      "publicado_en_origen": "2012-11-07 05:35:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "707",
+  "cantidad_episodios_declarada": 26,
+  "detalle_extraido_en": "2026-08-26T18:31:52+00:00"
+}

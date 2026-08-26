@@ -1,0 +1,517 @@
+{
+  "id_origen": 26,
+  "slug": "hunter-x-hunter",
+  "titulo": "Hunter x Hunter",
+  "titulo_corto": "Hunter x Hunter",
+  "sinopsis": "Gon Frecks,un niño de 12 años,vive con su tia Mito_san y su abuela en Isla Ballena,hunerfano de madre y segun su tia tambien de su padre.Un dia Gon es atacado por un oso del bosque,pero es salvado x un cazador quien le explica que esta en busca de su maestro para asi convertirse en un cazador,el es quien le dice que su padre Gin esta vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hunter-x-hunter.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hunter-x-hunter/",
+  "episodios": [
+    {
+      "id_origen": 380,
+      "numero": 1,
+      "titulo": "Hunter x Hunter 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bca82e41ee7b0833588399b1fcd177c7.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/1/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 381,
+      "numero": 2,
+      "titulo": "Hunter x Hunter 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00ec53c4682d36f5c4359f4ae7bd7ba1.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/2/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 382,
+      "numero": 3,
+      "titulo": "Hunter x Hunter 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f6ffe13a5d75b2d6a3923922b3922e5.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/3/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 383,
+      "numero": 4,
+      "titulo": "Hunter x Hunter 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_beed13602b9b0e6ecb5b568ff5058f07.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/4/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 384,
+      "numero": 5,
+      "titulo": "Hunter x Hunter 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0584ce565c824b7b7f50282d9a19945b.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/5/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 385,
+      "numero": 6,
+      "titulo": "Hunter x Hunter 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc912a253d1e9ba40e2c597ed2376640.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/6/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 386,
+      "numero": 7,
+      "titulo": "Hunter x Hunter 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39461a19e9eddfb385ea76b26521ea48.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/7/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 387,
+      "numero": 8,
+      "titulo": "Hunter x Hunter 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8efb100a295c0c690931222ff4467bb8.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/8/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 388,
+      "numero": 9,
+      "titulo": "Hunter x Hunter 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9fc5b73a8d78fad3d6dffe419384e70.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/9/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 389,
+      "numero": 10,
+      "titulo": "Hunter x Hunter 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c86a7ee3d8ef0b551ed58e354a836f2b.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/10/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 390,
+      "numero": 11,
+      "titulo": "Hunter x Hunter 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a01a0380ca3c61428c26a231f0e49a09.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/11/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 391,
+      "numero": 12,
+      "titulo": "Hunter x Hunter 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a4b25aaed25c2ee1b74de72dc03c14e.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/12/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 392,
+      "numero": 13,
+      "titulo": "Hunter x Hunter 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f73b76ce8949fe29bf2a537cfa420e8f.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/13/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 393,
+      "numero": 14,
+      "titulo": "Hunter x Hunter 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70c639df5e30bdee440e4cdf599fec2b.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/14/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 394,
+      "numero": 15,
+      "titulo": "Hunter x Hunter 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28f0b864598a1291557bed248a998d4e.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/15/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 395,
+      "numero": 16,
+      "titulo": "Hunter x Hunter 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1543843a4723ed2ab08e18053ae6dc5b.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/16/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 396,
+      "numero": 17,
+      "titulo": "Hunter x Hunter 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8c1f23d6a8d8d7904fc0ea8e066b3bb.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/17/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 397,
+      "numero": 18,
+      "titulo": "Hunter x Hunter 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e46de7e1bcaaced9a54f1e9d0d2f800d.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/18/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 398,
+      "numero": 19,
+      "titulo": "Hunter x Hunter 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7b16ecf8ca53723593894116071700c.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/19/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 399,
+      "numero": 20,
+      "titulo": "Hunter x Hunter 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_352fe25daf686bdb4edca223c921acea.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/20/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 400,
+      "numero": 21,
+      "titulo": "Hunter x Hunter 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18d8042386b79e2c279fd162df0205c8.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/21/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 401,
+      "numero": 22,
+      "titulo": "Hunter x Hunter 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_816b112c6105b3ebd537828a39af4818.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/22/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 402,
+      "numero": 23,
+      "titulo": "Hunter x Hunter 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69cb3ea317a32c4e6143e665fdb20b14.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/23/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 403,
+      "numero": 24,
+      "titulo": "Hunter x Hunter 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbf94b34eb32268ada57a3be5062fe7d.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/24/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 404,
+      "numero": 25,
+      "titulo": "Hunter x Hunter 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f4adcbf8c6f66dcfc8a3282ac2bf10a.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/25/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 405,
+      "numero": 26,
+      "titulo": "Hunter x Hunter 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbcbff5c1f1ded46c25d28119a85c6c2.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/26/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 406,
+      "numero": 27,
+      "titulo": "Hunter x Hunter 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8cb22bdd0b7ba1ab13d742e22eed8da2.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/27/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 407,
+      "numero": 28,
+      "titulo": "Hunter x Hunter 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4f6dce2f3a0f9dada0c2b5b66452017.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/28/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 408,
+      "numero": 29,
+      "titulo": "Hunter x Hunter 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0d0fd7c6e093f7b804fa0150b875b868.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/29/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 409,
+      "numero": 30,
+      "titulo": "Hunter x Hunter 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a96b65a721e561e1e3de768ac819ffbb.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/30/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 410,
+      "numero": 31,
+      "titulo": "Hunter x Hunter 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1068c6e4c8051cfd4e9ea8072e3189e2.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/31/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 411,
+      "numero": 32,
+      "titulo": "Hunter x Hunter 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17d63b1625c816c22647a73e1482372b.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/32/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 412,
+      "numero": 33,
+      "titulo": "Hunter x Hunter 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9228e0962a78b84f3d5d92f4faa000b.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/33/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 413,
+      "numero": 34,
+      "titulo": "Hunter x Hunter 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0deb1c54814305ca9ad266f53bc82511.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/34/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 414,
+      "numero": 35,
+      "titulo": "Hunter x Hunter 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66808e327dc79d135ba18e051673d906.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/35/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 415,
+      "numero": 36,
+      "titulo": "Hunter x Hunter 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42e7aaa88b48137a16a1acd04ed91125.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/36/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 416,
+      "numero": 37,
+      "titulo": "Hunter x Hunter 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fe0093bb30d6f8c31474bd0764e6ac0.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/37/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 417,
+      "numero": 38,
+      "titulo": "Hunter x Hunter 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41ae36ecb9b3eee609d05b90c14222fb.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/38/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 418,
+      "numero": 39,
+      "titulo": "Hunter x Hunter 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1f255a373a3cef72e03aa9d980c7eca.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/39/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 419,
+      "numero": 40,
+      "titulo": "Hunter x Hunter 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7eacb532570ff6858afd2723755ff790.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/40/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 420,
+      "numero": 41,
+      "titulo": "Hunter x Hunter 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6f0479ae87d244975439c6124592772.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/41/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 421,
+      "numero": 42,
+      "titulo": "Hunter x Hunter 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0c641195b27425bb056ac56f8953d24.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/42/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 422,
+      "numero": 43,
+      "titulo": "Hunter x Hunter 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f85454e8279be180185cac7d243c5eb3.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/43/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 423,
+      "numero": 44,
+      "titulo": "Hunter x Hunter 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_faa9afea49ef2ff029a833cccc778fd0.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/44/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 424,
+      "numero": 45,
+      "titulo": "Hunter x Hunter 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c7781a36bcd6cf08c11a970fbe0e2a6.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/45/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 425,
+      "numero": 46,
+      "titulo": "Hunter x Hunter 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25b2822c2f5a3230abfadd476e8b04c9.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/46/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 426,
+      "numero": 47,
+      "titulo": "Hunter x Hunter 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ecbdd6ec859d284dc13885a37ce8d81.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/47/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 427,
+      "numero": 48,
+      "titulo": "Hunter x Hunter 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18997733ec258a9fcaf239cc55d53363.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/48/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 428,
+      "numero": 49,
+      "titulo": "Hunter x Hunter 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d7d8ee069cb0cbbf816bbb65d56947e.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/49/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 429,
+      "numero": 50,
+      "titulo": "Hunter x Hunter 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75fc093c0ee742f6dddaa13fff98f104.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/50/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 430,
+      "numero": 51,
+      "titulo": "Hunter x Hunter 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f74909ace68e51891440e4da0b65a70c.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/51/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 431,
+      "numero": 52,
+      "titulo": "Hunter x Hunter 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66368270ffd51418ec58bd793f2d9b1b.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/52/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 432,
+      "numero": 53,
+      "titulo": "Hunter x Hunter 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_248e844336797ec98478f85e7626de4a.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/53/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 433,
+      "numero": 54,
+      "titulo": "Hunter x Hunter 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_019d385eb67632a7e958e23f24bd07d7.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/54/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 434,
+      "numero": 55,
+      "titulo": "Hunter x Hunter 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a49e9411d64ff53eccfdd09ad10a15b3.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/55/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 435,
+      "numero": 56,
+      "titulo": "Hunter x Hunter 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddb30680a691d157187ee1cf9e896d03.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/56/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 436,
+      "numero": 57,
+      "titulo": "Hunter x Hunter 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2421fcb1263b9530df88f7f002e78ea5.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/57/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 437,
+      "numero": 58,
+      "titulo": "Hunter x Hunter 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fccb60fb512d13df5083790d64c4d5dd.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/58/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 438,
+      "numero": 59,
+      "titulo": "Hunter x Hunter 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1651cf0d2f737d7adeab84d339dbabd3.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/59/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 439,
+      "numero": 60,
+      "titulo": "Hunter x Hunter 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eed5af6add95a9a6f1252739b1ad8c24.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/60/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 440,
+      "numero": 61,
+      "titulo": "Hunter x Hunter 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8abb4bb284b5b27aa7cb790dc20f80b.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/61/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    },
+    {
+      "id_origen": 441,
+      "numero": 62,
+      "titulo": "Hunter x Hunter 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15d4e891d784977cacbfcbb00c48f133.jpg",
+      "url_origen": "https://jkanime.net/hunter-x-hunter/62/",
+      "publicado_en_origen": "2011-07-06 10:31:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "26",
+  "cantidad_episodios_declarada": 62,
+  "detalle_extraido_en": "2026-08-26T18:31:18+00:00"
+}

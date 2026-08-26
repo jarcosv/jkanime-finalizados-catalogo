@@ -1,0 +1,29 @@
+{
+  "id_origen": 1313,
+  "slug": "naruto-shippuuden-sunny-side-battle",
+  "titulo": "Naruto Shippuden: Sunny Side Battle",
+  "titulo_corto": "Naruto Shippuden: Sunny Side B...",
+  "sinopsis": "Un corto de comedia que gira alrededor de los hermanos Uchiha, gallinas y huevos fritos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/naruto-shippuuden-sunny-side-battle.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/naruto-shippuuden-sunny-side-battle/",
+  "episodios": [
+    {
+      "id_origen": 25022,
+      "numero": 1,
+      "titulo": "Naruto Shippuden: Sunny Side Battle",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c84f741b048a0721739ac52c241ba5df.jpg",
+      "url_origen": "https://jkanime.net/naruto-shippuuden-sunny-side-battle/1/",
+      "publicado_en_origen": "2014-10-07 16:56:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1313",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:49+00:00"
+}

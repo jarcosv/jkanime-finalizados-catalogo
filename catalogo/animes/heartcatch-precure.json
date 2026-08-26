@@ -1,0 +1,413 @@
+{
+  "id_origen": 4172,
+  "slug": "heartcatch-precure",
+  "titulo": "Heartcatch Precure!",
+  "titulo_corto": "Heartcatch Precure!",
+  "sinopsis": "La joven entusiasta de las flores Tsubomi Hanasaki suele ser modesta y tranquila. Pero con su familia mudándose a una nueva ciudad, ella pretende reinventar su imagen en su nueva escuela como alguien más seguro y extrovertido. El día de la mudanza, sueña con un árbol misterioso en el cielo custodiado por un guerrero llamado 'Cure Moonlight'.\r\n\r\nTsubomi aprende rápidamente que este no era un sueño ordinario cuando se encuentra con dos hadas misteriosas, Chypre y Coffret, que están siendo perseguidas por una mujer extraña. Cuando la mujer convoca a un monstruo gigante para atacar la ciudad, ¡Tsubomi se encuentra transformándose en una guerrera para luchar contra el enemigo! Tomando el alias 'Cure Blossom', Tsubomi se entera de que la mujer es parte de un grupo de villanos que tiene como objetivo convertir el mundo en un desierto sin vida, y su nuevo deber es evitar que suceda. Mientras Tsubomi continúa luchando contra más monstruos y descubriendo los secretos detrás de Cure Moonlight, ¿encontrará la confianza necesaria para superar su naturaleza tímida?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/heartcatch-precure/",
+  "episodios": [
+    {
+      "id_origen": 63948,
+      "numero": 1,
+      "titulo": "Heartcatch Precure! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0d0f8ce8df8438e98707e154459f879.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/1/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63949,
+      "numero": 2,
+      "titulo": "Heartcatch Precure! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b516335c32b42a95bb56e73da9029980.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/2/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63950,
+      "numero": 3,
+      "titulo": "Heartcatch Precure! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd33d105e6bd8f702cb83e763691f2bb.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/3/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63951,
+      "numero": 4,
+      "titulo": "Heartcatch Precure! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7e8899a5eb2d4c357f3219382757c3a.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/4/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63952,
+      "numero": 5,
+      "titulo": "Heartcatch Precure! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6ab48b39dcdb01088aea09bc6c964b8.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/5/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63953,
+      "numero": 6,
+      "titulo": "Heartcatch Precure! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d29a3e5ed7a7a2a4f979f8d64e816ad3.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/6/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63954,
+      "numero": 7,
+      "titulo": "Heartcatch Precure! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec29a1a1c2402c6b7baa4fb6dce09ea2.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/7/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63955,
+      "numero": 8,
+      "titulo": "Heartcatch Precure! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ad048de5c243efa63c92d8e73353f79.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/8/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63956,
+      "numero": 9,
+      "titulo": "Heartcatch Precure! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d10b9be63e590dc7a5d25adb936ef7d.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/9/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63957,
+      "numero": 10,
+      "titulo": "Heartcatch Precure! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f27e5133e0b30b2f6f7d9d272f836db7.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/10/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63958,
+      "numero": 11,
+      "titulo": "Heartcatch Precure! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f57448e64dea8cb71f3efedad6513244.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/11/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63959,
+      "numero": 12,
+      "titulo": "Heartcatch Precure! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_724cac63aafd4a368ef7732ba271844a.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/12/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63960,
+      "numero": 13,
+      "titulo": "Heartcatch Precure! - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e68c79d4a5167cbb04b5c86c7a9ac375.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/13/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63961,
+      "numero": 14,
+      "titulo": "Heartcatch Precure! - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d561922162f70a40b1578efc9409c744.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/14/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63962,
+      "numero": 15,
+      "titulo": "Heartcatch Precure! - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5574717c0b0feaa2e996adfa820b7d3d.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/15/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63963,
+      "numero": 16,
+      "titulo": "Heartcatch Precure! - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c007e591cbb59c72b711807fa9ef537.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/16/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63964,
+      "numero": 17,
+      "titulo": "Heartcatch Precure! - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a657b450151cdcd6585f8a7517884bec.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/17/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63965,
+      "numero": 18,
+      "titulo": "Heartcatch Precure! - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd329a2e6d02f468e90a368d7f736f5a.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/18/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63966,
+      "numero": 19,
+      "titulo": "Heartcatch Precure! - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/19/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63967,
+      "numero": 20,
+      "titulo": "Heartcatch Precure! - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/20/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63968,
+      "numero": 21,
+      "titulo": "Heartcatch Precure! - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/21/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63969,
+      "numero": 22,
+      "titulo": "Heartcatch Precure! - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/22/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63970,
+      "numero": 23,
+      "titulo": "Heartcatch Precure! - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/23/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63971,
+      "numero": 24,
+      "titulo": "Heartcatch Precure! - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/24/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63972,
+      "numero": 25,
+      "titulo": "Heartcatch Precure! - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/25/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63973,
+      "numero": 26,
+      "titulo": "Heartcatch Precure! - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/26/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63974,
+      "numero": 27,
+      "titulo": "Heartcatch Precure! - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/27/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63975,
+      "numero": 28,
+      "titulo": "Heartcatch Precure! - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/28/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63976,
+      "numero": 29,
+      "titulo": "Heartcatch Precure! - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/29/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63977,
+      "numero": 30,
+      "titulo": "Heartcatch Precure! - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/30/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63978,
+      "numero": 31,
+      "titulo": "Heartcatch Precure! - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/31/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63979,
+      "numero": 32,
+      "titulo": "Heartcatch Precure! - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/32/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63980,
+      "numero": 33,
+      "titulo": "Heartcatch Precure! - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/33/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63981,
+      "numero": 34,
+      "titulo": "Heartcatch Precure! - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/34/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63982,
+      "numero": 35,
+      "titulo": "Heartcatch Precure! - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/35/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63983,
+      "numero": 36,
+      "titulo": "Heartcatch Precure! - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/36/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63984,
+      "numero": 37,
+      "titulo": "Heartcatch Precure! - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/37/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63985,
+      "numero": 38,
+      "titulo": "Heartcatch Precure! - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/38/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63986,
+      "numero": 39,
+      "titulo": "Heartcatch Precure! - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/39/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63987,
+      "numero": 40,
+      "titulo": "Heartcatch Precure! - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/40/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63988,
+      "numero": 41,
+      "titulo": "Heartcatch Precure! - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/41/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63989,
+      "numero": 42,
+      "titulo": "Heartcatch Precure! - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/42/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63990,
+      "numero": 43,
+      "titulo": "Heartcatch Precure! - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/43/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63991,
+      "numero": 44,
+      "titulo": "Heartcatch Precure! - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/44/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63992,
+      "numero": 45,
+      "titulo": "Heartcatch Precure! - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/45/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63993,
+      "numero": 46,
+      "titulo": "Heartcatch Precure! - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/46/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63994,
+      "numero": 47,
+      "titulo": "Heartcatch Precure! - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/47/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63995,
+      "numero": 48,
+      "titulo": "Heartcatch Precure! - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/48/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    },
+    {
+      "id_origen": 63996,
+      "numero": 49,
+      "titulo": "Heartcatch Precure! - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/heartcatch-precure.jpg",
+      "url_origen": "https://jkanime.net/heartcatch-precure/49/",
+      "publicado_en_origen": "2025-06-23 02:20:58"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4172",
+  "cantidad_episodios_declarada": 49,
+  "detalle_extraido_en": "2026-08-26T18:30:11+00:00"
+}

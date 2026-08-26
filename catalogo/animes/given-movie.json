@@ -1,0 +1,29 @@
+{
+  "id_origen": 2809,
+  "slug": "given-movie",
+  "titulo": "Given Movie",
+  "titulo_corto": "Given Movie",
+  "sinopsis": "Mientras que el anime de televisión se centro en la guitarrista de la banda Ritsuka Uenoyama y su compañero de escuela secundaria Mafuyu Sato, la película se centra en la relacion amorosa entre el bajista de la banda Haruki Nakayama, el baterista Akihiko Kaji y el compañero de cuarto y ex novio de Akihiko, Ugetsu Murata.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/given-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/given-movie/",
+  "episodios": [
+    {
+      "id_origen": 44578,
+      "numero": 1,
+      "titulo": "Given Movie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe9fb47fd2333245796f4348f44d60dc.jpg",
+      "url_origen": "https://jkanime.net/given-movie/1/",
+      "publicado_en_origen": "2021-02-02 23:47:44"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2809",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:28:39+00:00"
+}

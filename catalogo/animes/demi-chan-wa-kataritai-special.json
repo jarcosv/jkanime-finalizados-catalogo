@@ -1,0 +1,29 @@
+{
+  "id_origen": 2072,
+  "slug": "demi-chan-wa-kataritai-special",
+  "titulo": "Demi-chan wa Kataritai Special",
+  "titulo_corto": "Demi-chan wa Kataritai Special",
+  "sinopsis": "Nuestras demis están de vacaciones en la escuela, así que es la hora de prepararse para ir a uno de los numerosos festivales veraniegos de la zona para pasar un rato agradable.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/demi-chan-wa-kataritai-special.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/demi-chan-wa-kataritai-special/",
+  "episodios": [
+    {
+      "id_origen": 35102,
+      "numero": 1,
+      "titulo": "Demi-chan wa Kataritai Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7df54d31edd5b09273abf4306765f93.jpg",
+      "url_origen": "https://jkanime.net/demi-chan-wa-kataritai-special/1/",
+      "publicado_en_origen": "2017-06-29 21:45:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2072",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:48+00:00"
+}

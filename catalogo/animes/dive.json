@@ -1,0 +1,117 @@
+{
+  "id_origen": 2092,
+  "slug": "dive",
+  "titulo": "Dive!!",
+  "titulo_corto": "Dive!!",
+  "sinopsis": "Tomoki Sakai es parte del MDC “Mizuki Diving Club”. No obstante, el equipo no está haciéndolo demasiado bien y sus patrocinadores están a punto de retirarles su apoyo, pero aún queda un rayo de esperanza. Si su nuevo entrenador, Kayoko Asaki, les consigue meter en las Olimpiadas mantendrán su apoyo. ¿Podrán conseguir este reto y mantener vivo su club?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dive.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dive/",
+  "episodios": [
+    {
+      "id_origen": 35136,
+      "numero": 1,
+      "titulo": "Dive!! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_171001879b5cdac674b6e4910784ade9.jpg",
+      "url_origen": "https://jkanime.net/dive/1/",
+      "publicado_en_origen": "2017-07-05 22:08:04"
+    },
+    {
+      "id_origen": 35188,
+      "numero": 2,
+      "titulo": "Dive!! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a9a54fadb6115f95f9c10fab3c1659c.jpg",
+      "url_origen": "https://jkanime.net/dive/2/",
+      "publicado_en_origen": "2017-07-13 23:36:46"
+    },
+    {
+      "id_origen": 35237,
+      "numero": 3,
+      "titulo": "Dive!! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_388823cb9249d4cebc9d677a99e1d79d.jpg",
+      "url_origen": "https://jkanime.net/dive/3/",
+      "publicado_en_origen": "2017-07-21 00:43:12"
+    },
+    {
+      "id_origen": 35290,
+      "numero": 4,
+      "titulo": "Dive!! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14cecc84bfa6e02cce5e85d6e1aa4529.jpg",
+      "url_origen": "https://jkanime.net/dive/4/",
+      "publicado_en_origen": "2017-07-28 15:34:28"
+    },
+    {
+      "id_origen": 35386,
+      "numero": 5,
+      "titulo": "Dive!! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e992292ea6314d710f2274e6df3ed9d0.jpg",
+      "url_origen": "https://jkanime.net/dive/5/",
+      "publicado_en_origen": "2017-08-09 15:57:27"
+    },
+    {
+      "id_origen": 35757,
+      "numero": 6,
+      "titulo": "Dive!! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6f658b6c7f13e833d7f81797e9a0869.jpg",
+      "url_origen": "https://jkanime.net/dive/6/",
+      "publicado_en_origen": "2017-10-06 13:58:28"
+    },
+    {
+      "id_origen": 35761,
+      "numero": 7,
+      "titulo": "Dive!! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79eeb8ca96eec65fecbd9603c2b07a48.jpg",
+      "url_origen": "https://jkanime.net/dive/7/",
+      "publicado_en_origen": "2017-10-06 14:30:23"
+    },
+    {
+      "id_origen": 35762,
+      "numero": 8,
+      "titulo": "Dive!! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_993feef1557a64fd71a7cb6a70d8eb2a.jpg",
+      "url_origen": "https://jkanime.net/dive/8/",
+      "publicado_en_origen": "2017-10-06 15:10:23"
+    },
+    {
+      "id_origen": 35764,
+      "numero": 9,
+      "titulo": "Dive!! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d378c1d7df74d165c6b2ff5e33baa3b.jpg",
+      "url_origen": "https://jkanime.net/dive/9/",
+      "publicado_en_origen": "2017-10-06 15:26:50"
+    },
+    {
+      "id_origen": 35766,
+      "numero": 10,
+      "titulo": "Dive!! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22ab54f07ab77a9bfffd6bbeae5ac19d.jpg",
+      "url_origen": "https://jkanime.net/dive/10/",
+      "publicado_en_origen": "2017-10-06 16:08:27"
+    },
+    {
+      "id_origen": 35767,
+      "numero": 11,
+      "titulo": "Dive!! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e496a795b47fd07c94a87ad94ac683d.jpg",
+      "url_origen": "https://jkanime.net/dive/11/",
+      "publicado_en_origen": "2017-10-06 16:59:38"
+    },
+    {
+      "id_origen": 35769,
+      "numero": 12,
+      "titulo": "Dive!! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2831648e9dac9b4618a0ab63d6a81e64.jpg",
+      "url_origen": "https://jkanime.net/dive/12/",
+      "publicado_en_origen": "2017-10-06 17:17:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:24+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2092",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:25:11+00:00"
+}

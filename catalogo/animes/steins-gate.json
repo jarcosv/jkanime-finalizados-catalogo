@@ -1,0 +1,213 @@
+{
+  "id_origen": 422,
+  "slug": "steins-gate",
+  "titulo": "Steins;Gate",
+  "titulo_corto": "Steins;Gate",
+  "sinopsis": "La historia se lleva a cabo en Akihabara y se trata de un grupo de amigos que ha personalizado su horno de microondas en un dispositivo que puede enviar mensajes de texto al pasado. A medida que se realizan diferentes experimentos, una organización llamada SERN que ha estado haciendo su propia investigación sobre viaje en el tiempo que sigue la pista y ahora los personajes tienen que encontrar una manera de evitar ser capturados por ellos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/steins-gate.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/steins-gate/",
+  "episodios": [
+    {
+      "id_origen": 12173,
+      "numero": 1,
+      "titulo": "Steins;Gate - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbaf2035bf0b7571c754f3925b0ea95b.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/1/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12174,
+      "numero": 2,
+      "titulo": "Steins;Gate - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77d51151b884ad3ff45714ec42c3dba8.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/2/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12175,
+      "numero": 3,
+      "titulo": "Steins;Gate - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ef47cedc3cf1b545688ccef17b8cfed.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/3/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12176,
+      "numero": 4,
+      "titulo": "Steins;Gate - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64d29f56aa43279ba07617b9724d5597.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/4/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12177,
+      "numero": 5,
+      "titulo": "Steins;Gate - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07217414eb3fbe24d4e5b6cafb91ca18.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/5/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12178,
+      "numero": 6,
+      "titulo": "Steins;Gate - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c0de3fec9ab8a3df01109251f137119.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/6/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12179,
+      "numero": 7,
+      "titulo": "Steins;Gate - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e18cfe46b96c30852b565e561152d055.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/7/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12180,
+      "numero": 8,
+      "titulo": "Steins;Gate - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa6f278a192469e3da1a8d72f1e5af23.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/8/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12181,
+      "numero": 9,
+      "titulo": "Steins;Gate - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b75867b590e9a1a38ceaea9f8cb9cf45.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/9/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12182,
+      "numero": 10,
+      "titulo": "Steins;Gate - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a36470cf1f8e5aaf38466d65bd080699.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/10/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12183,
+      "numero": 11,
+      "titulo": "Steins;Gate - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6acfe16b984d473723a8495a84e548b7.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/11/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12184,
+      "numero": 12,
+      "titulo": "Steins;Gate - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9909794d52985cbc5d95c26e31125d1a.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/12/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12185,
+      "numero": 13,
+      "titulo": "Steins;Gate - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95c7dfc5538e1ce71301cf92a9a96bd0.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/13/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12186,
+      "numero": 14,
+      "titulo": "Steins;Gate - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e530eb364302c7bc23d19d0575a7d9cd.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/14/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12187,
+      "numero": 15,
+      "titulo": "Steins;Gate - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5374addd1a3d024c3a026199cb8feaf.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/15/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12188,
+      "numero": 16,
+      "titulo": "Steins;Gate - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1730f69e6f66d5f0c741799e82351f81.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/16/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12189,
+      "numero": 17,
+      "titulo": "Steins;Gate - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab2b6bce20603d512008b6174060afa5.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/17/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12190,
+      "numero": 18,
+      "titulo": "Steins;Gate - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_391e1830d381c2f388575154a12b19a8.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/18/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12191,
+      "numero": 19,
+      "titulo": "Steins;Gate - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4c28b367e14df88993ad475dedf6b77.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/19/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12192,
+      "numero": 20,
+      "titulo": "Steins;Gate - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9bdef7d91f7c5a618c769110e712745b.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/20/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12193,
+      "numero": 21,
+      "titulo": "Steins;Gate - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9274d9c796197a68442ddab7a28f5608.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/21/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12194,
+      "numero": 22,
+      "titulo": "Steins;Gate - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_835bafd2c534a1830c0590774285ff88.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/22/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12195,
+      "numero": 23,
+      "titulo": "Steins;Gate - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b259a593d2ac9619df8c8a5a6c2717a2.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/23/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    },
+    {
+      "id_origen": 12196,
+      "numero": 24,
+      "titulo": "Steins;Gate - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00c7bd7f87376706365f2e2c94f58e4a.jpg",
+      "url_origen": "https://jkanime.net/steins-gate/24/",
+      "publicado_en_origen": "2011-09-19 10:01:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "422",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:47:47+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 4847,
+  "slug": "servamp-movie-alice-in-the-garden",
+  "titulo": "Servamp Movie: Alice in the Garden",
+  "titulo_corto": "Servamp Movie: Alice in the Ga...",
+  "sinopsis": "Los Servamps y sus Evas, unidas a ellos por un pacto, por fin están volviendo a su vida normal mientras se recuperan de las heridas sufridas en las batallas anteriores. Sin embargo, cuando empieza a nevar en pleno verano, una de las Evas, Mahiru Shirota, sospecha que hay una intromisión vampírica. Preocupado por el extraño fenómeno, se propone reunir al grupo una vez más para intentar resolver el misterio; sin embargo, de repente pierden el contacto con Misono Arisuin, la Eva del Servamp de la Lujuria.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/servamp-movie-alice-in-the-garden.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/servamp-movie-alice-in-the-garden/",
+  "episodios": [
+    {
+      "id_origen": 74756,
+      "numero": 1,
+      "titulo": "Servamp Movie: Alice in the Garden",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bae2b32cea35bbc82b1e6abb6f2db4f.jpg",
+      "url_origen": "https://jkanime.net/servamp-movie-alice-in-the-garden/1/",
+      "publicado_en_origen": "2026-07-02 15:14:08"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4847",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:45:45+00:00"
+}

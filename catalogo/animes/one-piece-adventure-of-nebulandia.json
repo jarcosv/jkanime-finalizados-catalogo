@@ -1,0 +1,29 @@
+{
+  "id_origen": 1712,
+  "slug": "one-piece-adventure-of-nebulandia",
+  "titulo": "One Piece: Adventure of Nebulandia",
+  "titulo_corto": "One Piece: Adventure of Nebula...",
+  "sinopsis": "Luffy y los Sombrero de Paja deben enfrentarse a sus antiguos competidores del Davy Back Fight en la misteriosa isla de Nebulandia, cuya niebla anula los poderes de las Frutas del Diablo. Foxy también tiene unos cuantos trucos bajo la manga gracias a los tres nuevos miembros de su tripulación. ¿Tendrán alguna oportunidad los Sombrero de Paja sin sus habilidades de las Frutas del Diablo?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece-adventure-of-nebulandia.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/one-piece-adventure-of-nebulandia/",
+  "episodios": [
+    {
+      "id_origen": 30408,
+      "numero": 1,
+      "titulo": "One Piece: Adventure of Nebulandia",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20589c9e007043577bc5c24521b2f320.jpg",
+      "url_origen": "https://jkanime.net/one-piece-adventure-of-nebulandia/1/",
+      "publicado_en_origen": "2015-12-21 21:35:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1712",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:07+00:00"
+}

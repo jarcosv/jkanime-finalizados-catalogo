@@ -1,0 +1,421 @@
+{
+  "id_origen": 275,
+  "slug": "kenichi",
+  "titulo": "Shijou Saikyou no Deshi Kenichi",
+  "titulo_corto": "Shijou Saikyou no Deshi Kenich...",
+  "sinopsis": "Kenichi Shirahama es un estudiante sin mucha popularidad ni amigos, todos le tratan como un cobarde y todos los días es sometido por los abusadores de su escuela. Un día conoce a Miu Furingi y descubre que es una luchadora excelente de artes marciales y que lo usa para defender a los débiles. Así es como Kenichi Shirahama decide convertirse en un luchador muy fuerte para poder proteger a la gente que le importa.Empezará a entrenar en una misteriosa escuela de artes marciales con 5 maestros muy especiales . Aquí comienza la aventura de Kenichi Shirahama, para hacerse el discipulo mas fuerte y luchar contra las bandas de matones de su cuidad.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kenichi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kenichi/",
+  "episodios": [
+    {
+      "id_origen": 7591,
+      "numero": 1,
+      "titulo": "Kenichi 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_274231193c4e40abc64d2f2d8cb6b415.jpg",
+      "url_origen": "https://jkanime.net/kenichi/1/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7592,
+      "numero": 2,
+      "titulo": "Kenichi 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc9812127bf09c7bd29ad6723c683fb5.jpg",
+      "url_origen": "https://jkanime.net/kenichi/2/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7593,
+      "numero": 3,
+      "titulo": "Kenichi 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3261769be720b0fefbfffec05e9d9202.jpg",
+      "url_origen": "https://jkanime.net/kenichi/3/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7594,
+      "numero": 4,
+      "titulo": "Kenichi 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f26bdcba3e7ea29ba3b9f8bc2555fefa.jpg",
+      "url_origen": "https://jkanime.net/kenichi/4/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7595,
+      "numero": 5,
+      "titulo": "Kenichi 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd42c963390a9cd025d007dacfa99351.jpg",
+      "url_origen": "https://jkanime.net/kenichi/5/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7596,
+      "numero": 6,
+      "titulo": "Kenichi 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1796a48fa1968edd5c5d10d42c7b1813.jpg",
+      "url_origen": "https://jkanime.net/kenichi/6/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7597,
+      "numero": 7,
+      "titulo": "Kenichi 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a9e5de95f737b31cb6dfe05b616e644.jpg",
+      "url_origen": "https://jkanime.net/kenichi/7/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7598,
+      "numero": 8,
+      "titulo": "Kenichi 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba7e36c43aff315c00ec2b8625e3b719.jpg",
+      "url_origen": "https://jkanime.net/kenichi/8/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7599,
+      "numero": 9,
+      "titulo": "Kenichi 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b0ead00a217ea2c12e06a72eec4923f.jpg",
+      "url_origen": "https://jkanime.net/kenichi/9/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7600,
+      "numero": 10,
+      "titulo": "Kenichi 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d397c2b2be2178fe6247bd50fc97cff2.jpg",
+      "url_origen": "https://jkanime.net/kenichi/10/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7601,
+      "numero": 11,
+      "titulo": "Kenichi 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43207fd5e34f87c48d584fc5c11befb8.jpg",
+      "url_origen": "https://jkanime.net/kenichi/11/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7602,
+      "numero": 12,
+      "titulo": "Kenichi 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3d6e130a30b176f2ca5af7d1e73953f.jpg",
+      "url_origen": "https://jkanime.net/kenichi/12/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7603,
+      "numero": 13,
+      "titulo": "Kenichi 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bcef5d8bd566084523bf65b7e1a245d.jpg",
+      "url_origen": "https://jkanime.net/kenichi/13/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7604,
+      "numero": 14,
+      "titulo": "Kenichi 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6caf88727c2cacf39df54ecc2f53de65.jpg",
+      "url_origen": "https://jkanime.net/kenichi/14/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7605,
+      "numero": 15,
+      "titulo": "Kenichi 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4d2b6e6fdeca3e60e0f1a62fee3d9dd.jpg",
+      "url_origen": "https://jkanime.net/kenichi/15/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7606,
+      "numero": 16,
+      "titulo": "Kenichi 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8acc28734d4fe90ea24353d901ae678.jpg",
+      "url_origen": "https://jkanime.net/kenichi/16/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7607,
+      "numero": 17,
+      "titulo": "Kenichi 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4efc9e02abdab6b6166251918570a307.jpg",
+      "url_origen": "https://jkanime.net/kenichi/17/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7608,
+      "numero": 18,
+      "titulo": "Kenichi 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3133f88cbe33bcd01a6ba439d75ae996.jpg",
+      "url_origen": "https://jkanime.net/kenichi/18/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7609,
+      "numero": 19,
+      "titulo": "Kenichi 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01b36d0eae3771391455661b45834805.jpg",
+      "url_origen": "https://jkanime.net/kenichi/19/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7610,
+      "numero": 20,
+      "titulo": "Kenichi 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dea184826614d3f4c608731389ed0c74.jpg",
+      "url_origen": "https://jkanime.net/kenichi/20/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7611,
+      "numero": 21,
+      "titulo": "Kenichi 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f12a6a7477077af66212ef0813bcf332.jpg",
+      "url_origen": "https://jkanime.net/kenichi/21/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7612,
+      "numero": 22,
+      "titulo": "Kenichi 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce5d75028d92047a9ec617acb9c34ce6.jpg",
+      "url_origen": "https://jkanime.net/kenichi/22/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7613,
+      "numero": 23,
+      "titulo": "Kenichi 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d5da28d4865fb92720359db84e0dd0dd.jpg",
+      "url_origen": "https://jkanime.net/kenichi/23/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7614,
+      "numero": 24,
+      "titulo": "Kenichi 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8b6674d4052e35e4553ac6788eb30b5.jpg",
+      "url_origen": "https://jkanime.net/kenichi/24/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7615,
+      "numero": 25,
+      "titulo": "Kenichi 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a0c828364dbf6dd406139dab7b25398.jpg",
+      "url_origen": "https://jkanime.net/kenichi/25/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7616,
+      "numero": 26,
+      "titulo": "Kenichi 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_479f499df3bbc0deda265b92316d362f.jpg",
+      "url_origen": "https://jkanime.net/kenichi/26/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7617,
+      "numero": 27,
+      "titulo": "Kenichi 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a7cf65139a9fbb34f03b046d8dc597c.jpg",
+      "url_origen": "https://jkanime.net/kenichi/27/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7618,
+      "numero": 28,
+      "titulo": "Kenichi 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad9d4d2bc5365e856dcb6d78fb0c7cb5.jpg",
+      "url_origen": "https://jkanime.net/kenichi/28/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7619,
+      "numero": 29,
+      "titulo": "Kenichi 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6869efe03b7fbef3b001dc15804bc826.jpg",
+      "url_origen": "https://jkanime.net/kenichi/29/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7620,
+      "numero": 30,
+      "titulo": "Kenichi 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df27d2e23bf500eb010b2bc1a59b56d1.jpg",
+      "url_origen": "https://jkanime.net/kenichi/30/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7621,
+      "numero": 31,
+      "titulo": "Kenichi 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f4e3847f075d1e7e21141658ade4837.jpg",
+      "url_origen": "https://jkanime.net/kenichi/31/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7622,
+      "numero": 32,
+      "titulo": "Kenichi 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2175f8c5cd9604f6b1e576b252d4c86e.jpg",
+      "url_origen": "https://jkanime.net/kenichi/32/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7623,
+      "numero": 33,
+      "titulo": "Kenichi 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_477bdb55b231264bb53a7942fd84254d.jpg",
+      "url_origen": "https://jkanime.net/kenichi/33/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7624,
+      "numero": 34,
+      "titulo": "Kenichi 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ab50afd6dcc95fcba76d0fe04295632.jpg",
+      "url_origen": "https://jkanime.net/kenichi/34/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7625,
+      "numero": 35,
+      "titulo": "Kenichi 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6cb5da3513bd26085ee3fad631ebb37a.jpg",
+      "url_origen": "https://jkanime.net/kenichi/35/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7626,
+      "numero": 36,
+      "titulo": "Kenichi 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f0d67e214f9fef69b278e3d08114da9.jpg",
+      "url_origen": "https://jkanime.net/kenichi/36/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7627,
+      "numero": 37,
+      "titulo": "Kenichi 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_febb7aafcbde43930cdedf8c5153c867.jpg",
+      "url_origen": "https://jkanime.net/kenichi/37/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7628,
+      "numero": 38,
+      "titulo": "Kenichi 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bb16972da003e87724f048d76b7e0e1.jpg",
+      "url_origen": "https://jkanime.net/kenichi/38/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7629,
+      "numero": 39,
+      "titulo": "Kenichi 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd9e928c0f0fba89b5c8254bef1f9937.jpg",
+      "url_origen": "https://jkanime.net/kenichi/39/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7630,
+      "numero": 40,
+      "titulo": "Kenichi 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbaafc6ec0f0e70f1472122178b4a1a1.jpg",
+      "url_origen": "https://jkanime.net/kenichi/40/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7631,
+      "numero": 41,
+      "titulo": "Kenichi 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_312ecfdfa8b239e076b114498ce21905.jpg",
+      "url_origen": "https://jkanime.net/kenichi/41/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7632,
+      "numero": 42,
+      "titulo": "Kenichi 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20754aeb165b7072f49615f07ab6122e.jpg",
+      "url_origen": "https://jkanime.net/kenichi/42/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7633,
+      "numero": 43,
+      "titulo": "Kenichi 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3eb4194278df0f91258632682d0ae92.jpg",
+      "url_origen": "https://jkanime.net/kenichi/43/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7634,
+      "numero": 44,
+      "titulo": "Kenichi 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77bb14f6132ea06dea456584b7d5581e.jpg",
+      "url_origen": "https://jkanime.net/kenichi/44/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7635,
+      "numero": 45,
+      "titulo": "Kenichi 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c37f36800219dcb5960c40d1d4bade55.jpg",
+      "url_origen": "https://jkanime.net/kenichi/45/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7636,
+      "numero": 46,
+      "titulo": "Kenichi 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f490d0af974fedf90cb0f1edce8e3dd5.jpg",
+      "url_origen": "https://jkanime.net/kenichi/46/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7637,
+      "numero": 47,
+      "titulo": "Kenichi 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74a9d40b0df3a01eda99c4463b607dd1.jpg",
+      "url_origen": "https://jkanime.net/kenichi/47/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7638,
+      "numero": 48,
+      "titulo": "Kenichi 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19e901474bd32d47931f0219992ff889.jpg",
+      "url_origen": "https://jkanime.net/kenichi/48/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7639,
+      "numero": 49,
+      "titulo": "Kenichi 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08fb104b0f2f838f3ce2d2b3741a12c2.jpg",
+      "url_origen": "https://jkanime.net/kenichi/49/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 7640,
+      "numero": 50,
+      "titulo": "Kenichi 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6531b32f8d02fece98ff36a64a7c8260.jpg",
+      "url_origen": "https://jkanime.net/kenichi/50/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "275",
+  "cantidad_episodios_declarada": 50,
+  "detalle_extraido_en": "2026-08-26T18:46:12+00:00"
+}

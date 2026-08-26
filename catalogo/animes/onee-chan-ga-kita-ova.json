@@ -1,0 +1,29 @@
+{
+  "id_origen": 1093,
+  "slug": "onee-chan-ga-kita-ova",
+  "titulo": "Onee-chan ga Kita Special",
+  "titulo_corto": "Onee-chan ga Kita Special",
+  "sinopsis": "Ova de Onee-chan ga Kita valido como episodio 13",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/onee-chan-ga-kita-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/onee-chan-ga-kita-ova/",
+  "episodios": [
+    {
+      "id_origen": 23065,
+      "numero": 1,
+      "titulo": "Onee-chan ga Kita OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_885ac593c62782059359af61557dfd36.jpg",
+      "url_origen": "https://jkanime.net/onee-chan-ga-kita-ova/1/",
+      "publicado_en_origen": "2014-03-24 19:16:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1093",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:41:15+00:00"
+}

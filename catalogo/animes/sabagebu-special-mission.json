@@ -1,0 +1,69 @@
+{
+  "id_origen": 1339,
+  "slug": "sabagebu-special-mission",
+  "titulo": "Sabagebu! SPECIAL MISSION",
+  "titulo_corto": "Sabagebu! SPECIAL MISSION",
+  "sinopsis": "OVAs cortas incluidas con los volúmenes de Blu-ray de Sabagebu!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sabagebu-special-mission.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sabagebu-special-mission/",
+  "episodios": [
+    {
+      "id_origen": 25344,
+      "numero": 1,
+      "titulo": "Sabagebu! SPECIAL MISSION - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee9a1fc09b64d5cdd17ba7b7f6640409.jpg",
+      "url_origen": "https://jkanime.net/sabagebu-special-mission/1/",
+      "publicado_en_origen": "2014-11-09 09:38:08"
+    },
+    {
+      "id_origen": 26950,
+      "numero": 2,
+      "titulo": "Sabagebu! SPECIAL MISSION - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec78e9f1c48cec8f5a6de60b921e4e46.jpg",
+      "url_origen": "https://jkanime.net/sabagebu-special-mission/2/",
+      "publicado_en_origen": "2015-03-02 20:22:19"
+    },
+    {
+      "id_origen": 27930,
+      "numero": 3,
+      "titulo": "Sabagebu! SPECIAL MISSION - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d99f250dd0e92c70c027007f0e78eaf2.jpg",
+      "url_origen": "https://jkanime.net/sabagebu-special-mission/3/",
+      "publicado_en_origen": "2015-06-02 18:41:36"
+    },
+    {
+      "id_origen": 27931,
+      "numero": 4,
+      "titulo": "Sabagebu! SPECIAL MISSION - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_952dcec392ca2f4667f334b1f8853370.jpg",
+      "url_origen": "https://jkanime.net/sabagebu-special-mission/4/",
+      "publicado_en_origen": "2015-06-02 18:44:34"
+    },
+    {
+      "id_origen": 27932,
+      "numero": 5,
+      "titulo": "Sabagebu! SPECIAL MISSION - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27927ee9b8151647f19545c0fe8e78ab.jpg",
+      "url_origen": "https://jkanime.net/sabagebu-special-mission/5/",
+      "publicado_en_origen": "2015-06-02 18:49:44"
+    },
+    {
+      "id_origen": 27933,
+      "numero": 6,
+      "titulo": "Sabagebu! SPECIAL MISSION - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dccf189cbe63472d0f4f5b00facfd2e1.jpg",
+      "url_origen": "https://jkanime.net/sabagebu-special-mission/6/",
+      "publicado_en_origen": "2015-06-02 18:52:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1339",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:44:22+00:00"
+}

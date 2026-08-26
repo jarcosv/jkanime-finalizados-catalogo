@@ -1,0 +1,29 @@
+{
+  "id_origen": 1434,
+  "slug": "buki-yo-saraba",
+  "titulo": "Buki yo Saraba",
+  "titulo_corto": "Buki yo Saraba",
+  "sinopsis": "Película formada por cuatro cortometrajes con historias independientes. \n\nPossesions. (Shuhei Morita) \nUna noche del Siglo XVIII, en lo profundo de la montaña, un hombre se pierde y se encuentra con un pequeño templo. En el momento en el que entra en él, el espacio de la habitación se transforma en un mundo completamente diferente. \n\nCombustible. (Katsuhiro Otomo) \nUn espectáculo épico desarrollado en una metrópolis del Japón del periodo Edo. \n\nGambo. (Hiroaki Ando) \nUn demonio está raptando a todas las mujeres de un pequeño pueblo. Un samurái, que busca un oso blanco, detiene su cacería para ayudar. \n\nA Farewell to Arms. (Hajime Katoki) \nCuatro soldados de élite llegan a una ciudad devastada para acabar con una inteligencia artificial de origen mecánico, iniciando una batalla salvaje.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/buki-yo-saraba.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/buki-yo-saraba/",
+  "episodios": [
+    {
+      "id_origen": 26461,
+      "numero": 1,
+      "titulo": "Buki yo Saraba",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90c5b57809d8cb1703f89023c6d17060.jpg",
+      "url_origen": "https://jkanime.net/buki-yo-saraba/1/",
+      "publicado_en_origen": "2015-01-23 17:17:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1434",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:22:01+00:00"
+}

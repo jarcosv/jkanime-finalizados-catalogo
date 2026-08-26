@@ -1,0 +1,45 @@
+{
+  "id_origen": 652,
+  "slug": "baccano-specials",
+  "titulo": "Baccano! Specials",
+  "titulo_corto": "Baccano! Specials",
+  "sinopsis": "Tres episodio del DVD realizados a partir de las novelas ligeras, que profundizan en los personajes y eventos de la trama de la serie original y establecen un cierre a la historia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/baccano-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/baccano-specials/",
+  "episodios": [
+    {
+      "id_origen": 48767,
+      "numero": 1,
+      "titulo": "Baccano! Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60438b39047b64189d7cc0a6f7dd5df8.jpg",
+      "url_origen": "https://jkanime.net/baccano-specials/1/",
+      "publicado_en_origen": "2022-03-24 14:30:09"
+    },
+    {
+      "id_origen": 48768,
+      "numero": 2,
+      "titulo": "Baccano! Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31bbeb867c695411485ebf8a2f748b6b.jpg",
+      "url_origen": "https://jkanime.net/baccano-specials/2/",
+      "publicado_en_origen": "2022-03-24 14:30:09"
+    },
+    {
+      "id_origen": 48769,
+      "numero": 3,
+      "titulo": "Baccano! Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99cd2e5dc62a0d6fd4af4fdc1c691633.jpg",
+      "url_origen": "https://jkanime.net/baccano-specials/3/",
+      "publicado_en_origen": "2022-03-24 14:30:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "652",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:18:30+00:00"
+}

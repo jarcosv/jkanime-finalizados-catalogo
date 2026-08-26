@@ -1,0 +1,77 @@
+{
+  "id_origen": 2972,
+  "slug": "kimetsu-no-yaiba-mugen-ressha-hen",
+  "titulo": "Kimetsu no Yaiba: Mugen Ressha-hen",
+  "titulo_corto": "Kimetsu no Yaiba: Mugen Ressha...",
+  "sinopsis": "Versión para TV de Kimetsu no Yaiba Movie: Mugen Ressha-hen que incluye un primer episodio completamente nuevo. El primer episodio muestra a Rengoku mientras se embarca en su viaje hacia el tren Mugen. Los episodios restantes agregarán alrededor de 70 nuevos cortes de animación y nueva música de fondo, así como un nuevo avance.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimetsu-no-yaiba-mugen-ressha-hen.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimetsu-no-yaiba-mugen-ressha-hen/",
+  "episodios": [
+    {
+      "id_origen": 46884,
+      "numero": 1,
+      "titulo": "Kimetsu no Yaiba: Mugen Ressha-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_227f95590c4816cb70e73df2e5c8ef8c.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-mugen-ressha-hen/1/",
+      "publicado_en_origen": "2021-10-10 12:53:26"
+    },
+    {
+      "id_origen": 46941,
+      "numero": 2,
+      "titulo": "Kimetsu no Yaiba: Mugen Ressha-hen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f892f4ecb19de5cfe9ec5344f6421d1d.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-mugen-ressha-hen/2/",
+      "publicado_en_origen": "2021-10-17 22:31:45"
+    },
+    {
+      "id_origen": 47008,
+      "numero": 3,
+      "titulo": "Kimetsu no Yaiba: Mugen Ressha-hen - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9173175d480c3122372779e1ea1441d5.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-mugen-ressha-hen/3/",
+      "publicado_en_origen": "2021-10-24 12:41:26"
+    },
+    {
+      "id_origen": 47140,
+      "numero": 4,
+      "titulo": "Kimetsu no Yaiba: Mugen Ressha-hen - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66ff0b5dbb060ef47f756d33cf170f97.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-mugen-ressha-hen/4/",
+      "publicado_en_origen": "2021-11-07 12:08:30"
+    },
+    {
+      "id_origen": 47216,
+      "numero": 5,
+      "titulo": "Kimetsu no Yaiba: Mugen Ressha-hen - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_403965e22c311cf3c37ebc98554b1ece.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-mugen-ressha-hen/5/",
+      "publicado_en_origen": "2021-11-14 12:16:58"
+    },
+    {
+      "id_origen": 47325,
+      "numero": 6,
+      "titulo": "Kimetsu no Yaiba: Mugen Ressha-hen - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2596d6f3bebee6873cbd984161fa9a5a.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-mugen-ressha-hen/6/",
+      "publicado_en_origen": "2021-11-21 11:59:58"
+    },
+    {
+      "id_origen": 47381,
+      "numero": 7,
+      "titulo": "Kimetsu no Yaiba: Mugen Ressha-hen - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d4b66a2a5e9f026d9970ee212439085.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-mugen-ressha-hen/7/",
+      "publicado_en_origen": "2021-11-28 13:47:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:55+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2972",
+  "cantidad_episodios_declarada": 7,
+  "detalle_extraido_en": "2026-08-26T18:34:39+00:00"
+}

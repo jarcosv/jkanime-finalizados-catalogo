@@ -1,0 +1,37 @@
+{
+  "id_origen": 645,
+  "slug": "kimi-no-iru-machi",
+  "titulo": "Kimi no Iru Machi",
+  "titulo_corto": "Kimi no Iru Machi",
+  "sinopsis": "Yuzuki Eba se muda desde Tokio a un pueblo del interior, a la casa de un chico llamado Haruto Kirishima. La chica con la cual compartirá más de lo que pretendía parece demasiado enérgica para la vida en el campo. Ella viene de la ciudad pero sin un motivo claro, y disfruta sacándo de su eje a Haruto, quien está enamorado de una compañera de clase e intentará todo lo posible para que su compañera no tenga una idea equivocada de la relación con su nueva huésped. ¿Logrará lidiar exitosamente con ella?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimi-no-iru-machi.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimi-no-iru-machi/",
+  "episodios": [
+    {
+      "id_origen": 17236,
+      "numero": 1,
+      "titulo": "Kimi no Iru Machi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e27455a76961ba5843915685a2a1f90d.jpg",
+      "url_origen": "https://jkanime.net/kimi-no-iru-machi/1/",
+      "publicado_en_origen": "2012-09-16 22:50:48"
+    },
+    {
+      "id_origen": 17237,
+      "numero": 2,
+      "titulo": "Kimi no Iru Machi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd9d41f212a75b8af57b43a97386c948.jpg",
+      "url_origen": "https://jkanime.net/kimi-no-iru-machi/2/",
+      "publicado_en_origen": "2012-09-16 22:50:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "645",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:34:42+00:00"
+}

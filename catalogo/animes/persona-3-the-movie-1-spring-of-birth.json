@@ -1,0 +1,29 @@
+{
+  "id_origen": 1158,
+  "slug": "persona-3-the-movie-1-spring-of-birth",
+  "titulo": "Persona 3 the Movie 1: Spring of Birth",
+  "titulo_corto": "Persona 3 the Movie 1: Spring ...",
+  "sinopsis": "Terribles criaturas acechan en la oscuridad, se aprovechan de los que vagan en la hora oculta que se encuentra entre un día y el siguiente-la Hora Oscura. Un club secreto de la escuela conocida como SEES defiende a la humanidad de los horrores y desastres, mientras que trabajan para resolver el misterio de la Hora Oscura de una vez por todas. Una película basada en el juego de rol Persona 3 2006.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/persona-3-the-movie-1-spring-of-birth.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/persona-3-the-movie-1-spring-of-birth/",
+  "episodios": [
+    {
+      "id_origen": 23599,
+      "numero": 1,
+      "titulo": "Persona 3 the Movie 1: Spring of Birth",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_057780a9e2f50918c3f2e1f3151e26b4.jpg",
+      "url_origen": "https://jkanime.net/persona-3-the-movie-1-spring-of-birth/1/",
+      "publicado_en_origen": "2014-05-28 19:12:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1158",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:42:04+00:00"
+}

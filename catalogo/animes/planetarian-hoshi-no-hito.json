@@ -1,0 +1,29 @@
+{
+  "id_origen": 2384,
+  "slug": "planetarian-hoshi-no-hito",
+  "titulo": "Planetarian: Hoshi no Hito",
+  "titulo_corto": "Planetarian: Hoshi no Hito",
+  "sinopsis": "La pelicula se basa en la novela visual Planetary: The Reverie of a Little Planet de Key y el cuento “Hoshi no Hito” de la novela Planetaria escrita por Yūichi Suzumoto.\nLa pelicula es una secuela de las ovas varios años despues , contadas desde el punto de vista de Junker, y enseñando sobre las estrellas a los pocos sobrevivientes que quedan en el mundo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/planetarian-hoshi-no-hito.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/planetarian-hoshi-no-hito/",
+  "episodios": [
+    {
+      "id_origen": 39186,
+      "numero": 1,
+      "titulo": "Planetarian: Hoshi no Hito - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6299f7b7e197e0a3cfb007c2c0b12a20.jpg",
+      "url_origen": "https://jkanime.net/planetarian-hoshi-no-hito/1/",
+      "publicado_en_origen": "2019-03-06 19:18:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:33+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2384",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:42:17+00:00"
+}

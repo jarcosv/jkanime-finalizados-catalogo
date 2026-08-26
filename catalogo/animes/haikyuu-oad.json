@@ -1,0 +1,29 @@
+{
+  "id_origen": 1456,
+  "slug": "haikyuu-oad",
+  "titulo": "Haikyuu!! OAD",
+  "titulo_corto": "Haikyuu!! OAD",
+  "sinopsis": "Incluido con el 15vo volumen del manga de Haikyuu!!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/haikyuu-oad.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/haikyuu-oad/",
+  "episodios": [
+    {
+      "id_origen": 27003,
+      "numero": 1,
+      "titulo": "Haikyuu!! OAD",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c8c5b55e8a3c4c0856a1fc3d0a46f61.jpg",
+      "url_origen": "https://jkanime.net/haikyuu-oad/1/",
+      "publicado_en_origen": "2015-03-08 17:01:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1456",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:29:30+00:00"
+}

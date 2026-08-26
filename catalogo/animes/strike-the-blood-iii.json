@@ -1,0 +1,101 @@
+{
+  "id_origen": 2324,
+  "slug": "strike-the-blood-iii",
+  "titulo": "Strike the Blood III",
+  "titulo_corto": "Strike the Blood III",
+  "sinopsis": "Tercera temporada de Strike the Blood (En Ovas)",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/strike-the-blood-iii.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/strike-the-blood-iii/",
+  "episodios": [
+    {
+      "id_origen": 38558,
+      "numero": 1,
+      "titulo": "Strike the Blood III - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b03bd15cd9675565205c882ded07ef6.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-iii/1/",
+      "publicado_en_origen": "2018-12-23 00:47:39"
+    },
+    {
+      "id_origen": 38559,
+      "numero": 2,
+      "titulo": "Strike the Blood III - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_079b4e0f2428e412142657fe4d3cbc14.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-iii/2/",
+      "publicado_en_origen": "2018-12-23 01:03:01"
+    },
+    {
+      "id_origen": 39455,
+      "numero": 3,
+      "titulo": "Strike the Blood III - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3badfdcfdd0211f106ec21d95e0bdf1.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-iii/3/",
+      "publicado_en_origen": "2019-03-30 17:13:30"
+    },
+    {
+      "id_origen": 39511,
+      "numero": 4,
+      "titulo": "Strike the Blood III - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e9806f9d005b04bf29665e786d9b845.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-iii/4/",
+      "publicado_en_origen": "2019-04-01 01:38:45"
+    },
+    {
+      "id_origen": 40156,
+      "numero": 5,
+      "titulo": "Strike the Blood III - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_307bd34c343595bb92124627df76d18e.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-iii/5/",
+      "publicado_en_origen": "2019-06-02 18:05:28"
+    },
+    {
+      "id_origen": 40169,
+      "numero": 6,
+      "titulo": "Strike the Blood III - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b38eb0ae818b10cc35c9a4c7dc19f952.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-iii/6/",
+      "publicado_en_origen": "2019-06-04 21:16:56"
+    },
+    {
+      "id_origen": 40779,
+      "numero": 7,
+      "titulo": "Strike the Blood III - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9179a6b3fe86970595bc6ccd5af90dfb.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-iii/7/",
+      "publicado_en_origen": "2019-08-21 22:45:38"
+    },
+    {
+      "id_origen": 41130,
+      "numero": 8,
+      "titulo": "Strike the Blood III - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd71244c9e7f8c7835251fa4c63a4996.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-iii/8/",
+      "publicado_en_origen": "2019-09-27 21:45:27"
+    },
+    {
+      "id_origen": 41396,
+      "numero": 9,
+      "titulo": "Strike the Blood III - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9386d1ad527a46fb3189b7804747893b.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-iii/9/",
+      "publicado_en_origen": "2019-11-01 02:16:07"
+    },
+    {
+      "id_origen": 42043,
+      "numero": 10,
+      "titulo": "Strike the Blood III - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b485983611ae3465a283b77763a4c776.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-iii/10/",
+      "publicado_en_origen": "2020-01-28 20:16:44"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2324",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:47:52+00:00"
+}

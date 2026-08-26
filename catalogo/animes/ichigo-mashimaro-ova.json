@@ -1,0 +1,45 @@
+{
+  "id_origen": 4285,
+  "slug": "ichigo-mashimaro-ova",
+  "titulo": "Ichigo Mashimaro OVA",
+  "titulo_corto": "Ichigo Mashimaro OVA",
+  "sinopsis": "Basada en la serie de manga de Barasui, Ichigo Mashimaro narra la vida de Nobue Itou, su hermana menor Chika y sus amigos. La premisa básica de la serie se puede resumir en «chicas monas haciendo cosas monas de forma mona», ya sea intentando dejar de fumar, saliendo a jugar, celebrando unas vacaciones o haciendo los deberes. Este OVA retoma la serie donde la dejó, continuando con las aventuras de la vida cotidiana, pero aún más monas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ichigo-mashimaro-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ichigo-mashimaro-ova/",
+  "episodios": [
+    {
+      "id_origen": 66074,
+      "numero": 1,
+      "titulo": "Ichigo Mashimaro OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_701311403e64c9e8cdbcf0cfe1dadffe.jpg",
+      "url_origen": "https://jkanime.net/ichigo-mashimaro-ova/1/",
+      "publicado_en_origen": "2025-08-06 16:10:50"
+    },
+    {
+      "id_origen": 66075,
+      "numero": 2,
+      "titulo": "Ichigo Mashimaro OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_027684a8d6e08e18fe26935ef5749663.jpg",
+      "url_origen": "https://jkanime.net/ichigo-mashimaro-ova/2/",
+      "publicado_en_origen": "2025-08-06 16:10:50"
+    },
+    {
+      "id_origen": 66076,
+      "numero": 3,
+      "titulo": "Ichigo Mashimaro OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_134f9fa13488f256cf45fa20d4aafbf0.jpg",
+      "url_origen": "https://jkanime.net/ichigo-mashimaro-ova/3/",
+      "publicado_en_origen": "2025-08-06 16:10:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4285",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:31:35+00:00"
+}

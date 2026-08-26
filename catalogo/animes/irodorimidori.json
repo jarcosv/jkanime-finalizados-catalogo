@@ -1,0 +1,85 @@
+{
+  "id_origen": 3034,
+  "slug": "irodorimidori",
+  "titulo": "Irodorimidori",
+  "titulo_corto": "Irodorimidori",
+  "sinopsis": "En la escuela afiliada de Maigahara Music College, Maigahara Senior High (abreviada como MaiMai), que reúne a los talentos musicales más prometedores, circula un rumor entre los estudiantes. \"Si das una actuación increíble en el festival escolar, obtienes un crédito extra especial (o eso dicen)\". Las notas de Serina no son muy buenas, por lo que inmediatamente cree en el rumor y decide formar una banda.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/irodorimidori.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/irodorimidori/",
+  "episodios": [
+    {
+      "id_origen": 47910,
+      "numero": 1,
+      "titulo": "Irodorimidori - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30eeae50c13ca961f2676b80b9f0bc0f.jpg",
+      "url_origen": "https://jkanime.net/irodorimidori/1/",
+      "publicado_en_origen": "2022-01-05 08:36:49"
+    },
+    {
+      "id_origen": 47952,
+      "numero": 2,
+      "titulo": "Irodorimidori - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fefd916c387d8853eea086f6bd389f4.jpg",
+      "url_origen": "https://jkanime.net/irodorimidori/2/",
+      "publicado_en_origen": "2022-01-12 00:07:49"
+    },
+    {
+      "id_origen": 47997,
+      "numero": 3,
+      "titulo": "Irodorimidori - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_907f872fe100d37c2fd9a9a1a616dc54.jpg",
+      "url_origen": "https://jkanime.net/irodorimidori/3/",
+      "publicado_en_origen": "2022-01-18 12:45:00"
+    },
+    {
+      "id_origen": 48081,
+      "numero": 4,
+      "titulo": "Irodorimidori - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_baf5ecd84c6a8766519b98f66eec1511.jpg",
+      "url_origen": "https://jkanime.net/irodorimidori/4/",
+      "publicado_en_origen": "2022-01-25 13:05:08"
+    },
+    {
+      "id_origen": 48143,
+      "numero": 5,
+      "titulo": "Irodorimidori - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17b3cfe4f4ddd1f23555acfdd525c446.jpg",
+      "url_origen": "https://jkanime.net/irodorimidori/5/",
+      "publicado_en_origen": "2022-02-01 14:25:55"
+    },
+    {
+      "id_origen": 48214,
+      "numero": 6,
+      "titulo": "Irodorimidori - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a9b03d4f2641f01b8ff6bfadb10d774.jpg",
+      "url_origen": "https://jkanime.net/irodorimidori/6/",
+      "publicado_en_origen": "2022-02-08 20:49:44"
+    },
+    {
+      "id_origen": 48273,
+      "numero": 7,
+      "titulo": "Irodorimidori - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27b4c55047c7e1450a5dd83ccf4a6ca0.jpg",
+      "url_origen": "https://jkanime.net/irodorimidori/7/",
+      "publicado_en_origen": "2022-02-15 14:05:49"
+    },
+    {
+      "id_origen": 48323,
+      "numero": 8,
+      "titulo": "Irodorimidori - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c975e80ae0c16ac742ab69f9750ce6d.jpg",
+      "url_origen": "https://jkanime.net/irodorimidori/8/",
+      "publicado_en_origen": "2022-02-22 22:13:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3034",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:32:00+00:00"
+}

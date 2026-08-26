@@ -1,0 +1,365 @@
+{
+  "id_origen": 225,
+  "slug": "gto",
+  "titulo": "Great Teacher Onizuka",
+  "titulo_corto": "Great Teacher Onizuka",
+  "sinopsis": "Eikichi Onizuka, 22 años, soltero\" esta es la forma en que este peculiar personaje se presenta; con su gran sueño de ser profesor Onizuka se enfrenta a una serie de problemas, creados por quienes podrían ser los alumnos mas problemáticos para un profesor. Estudiantes que crean a la vez un sinfín de divertidas situaciones.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gto.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gto/",
+  "episodios": [
+    {
+      "id_origen": 6215,
+      "numero": 1,
+      "titulo": "G.T.O. 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_913eb3f7a1d5e28b3f30b2dda4f5569e.jpg",
+      "url_origen": "https://jkanime.net/gto/1/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6216,
+      "numero": 2,
+      "titulo": "G.T.O. 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_619427579e7b067421f6aa89d4a8990c.jpg",
+      "url_origen": "https://jkanime.net/gto/2/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6217,
+      "numero": 3,
+      "titulo": "G.T.O. 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d1827dc5f75b9d65d80e25eb862e676.jpg",
+      "url_origen": "https://jkanime.net/gto/3/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6218,
+      "numero": 4,
+      "titulo": "G.T.O. 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02f063c236c7eef66324b432b748d15d.jpg",
+      "url_origen": "https://jkanime.net/gto/4/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6219,
+      "numero": 5,
+      "titulo": "G.T.O. 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_852c296dfa59522f563aef29d8d0adf6.jpg",
+      "url_origen": "https://jkanime.net/gto/5/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6220,
+      "numero": 6,
+      "titulo": "G.T.O. 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90cc440b1b8caa520c562ac4e4bbcb51.jpg",
+      "url_origen": "https://jkanime.net/gto/6/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6221,
+      "numero": 7,
+      "titulo": "G.T.O. 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abd987257ff0eddc2bc6602538cb3c43.jpg",
+      "url_origen": "https://jkanime.net/gto/7/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6222,
+      "numero": 8,
+      "titulo": "G.T.O. 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a260649dac0ddb2290f609a13f4b814.jpg",
+      "url_origen": "https://jkanime.net/gto/8/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6223,
+      "numero": 9,
+      "titulo": "G.T.O. 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e1418311a013ebb344e7fcf8d199cc3.jpg",
+      "url_origen": "https://jkanime.net/gto/9/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6224,
+      "numero": 10,
+      "titulo": "G.T.O. 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69783ee76a92567d446143b811519068.jpg",
+      "url_origen": "https://jkanime.net/gto/10/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6225,
+      "numero": 11,
+      "titulo": "G.T.O. 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a0684d9dad4967ddd09594511de2c52.jpg",
+      "url_origen": "https://jkanime.net/gto/11/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6226,
+      "numero": 12,
+      "titulo": "G.T.O. 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_adfe565bb7839b83ea8812e860d73c79.jpg",
+      "url_origen": "https://jkanime.net/gto/12/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6227,
+      "numero": 13,
+      "titulo": "G.T.O. 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56f0b515214a7ec9f08a4bbf9a56f7ba.jpg",
+      "url_origen": "https://jkanime.net/gto/13/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6228,
+      "numero": 14,
+      "titulo": "G.T.O. 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4e3ce3e7b581ff32e40968298ba013d.jpg",
+      "url_origen": "https://jkanime.net/gto/14/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6229,
+      "numero": 15,
+      "titulo": "G.T.O. 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bce9abf229ffd7e570818476ee5d7dde.jpg",
+      "url_origen": "https://jkanime.net/gto/15/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6230,
+      "numero": 16,
+      "titulo": "G.T.O. 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7c9585703d275249f30a088cebba0ad.jpg",
+      "url_origen": "https://jkanime.net/gto/16/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6231,
+      "numero": 17,
+      "titulo": "G.T.O. 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a17ad0fa0870b05f172deeb05efef8e.jpg",
+      "url_origen": "https://jkanime.net/gto/17/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6232,
+      "numero": 18,
+      "titulo": "G.T.O. 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_575425a3f433138553be468c9d1ecba7.jpg",
+      "url_origen": "https://jkanime.net/gto/18/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6233,
+      "numero": 19,
+      "titulo": "G.T.O. 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_196894366d827c56344bfe5186dbcf64.jpg",
+      "url_origen": "https://jkanime.net/gto/19/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6234,
+      "numero": 20,
+      "titulo": "G.T.O. 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91576cbf171986154e523305a69c79d3.jpg",
+      "url_origen": "https://jkanime.net/gto/20/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6235,
+      "numero": 21,
+      "titulo": "G.T.O. 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5c64c10cfd77b16a03aa81f09499f25.jpg",
+      "url_origen": "https://jkanime.net/gto/21/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6236,
+      "numero": 22,
+      "titulo": "G.T.O. 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fdc0ee9d95c71d73df82ac8f0721459.jpg",
+      "url_origen": "https://jkanime.net/gto/22/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6237,
+      "numero": 23,
+      "titulo": "G.T.O. 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_885cb47f87718a2cd8641ae79113eeea.jpg",
+      "url_origen": "https://jkanime.net/gto/23/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6238,
+      "numero": 24,
+      "titulo": "G.T.O. 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fc30b9d4319760b04fab735fbfed9a9.jpg",
+      "url_origen": "https://jkanime.net/gto/24/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6239,
+      "numero": 25,
+      "titulo": "G.T.O. 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a5cfa9281924139db466a8a19291aff.jpg",
+      "url_origen": "https://jkanime.net/gto/25/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6240,
+      "numero": 26,
+      "titulo": "G.T.O. 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_405075699f065e43581f27d67bb68478.jpg",
+      "url_origen": "https://jkanime.net/gto/26/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6241,
+      "numero": 27,
+      "titulo": "G.T.O. 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_154f596a0e4aec4cf23ee4b76ae3d34a.jpg",
+      "url_origen": "https://jkanime.net/gto/27/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6242,
+      "numero": 28,
+      "titulo": "G.T.O. 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d82a1853da4df5edcfc6f0e3159c23be.jpg",
+      "url_origen": "https://jkanime.net/gto/28/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6243,
+      "numero": 29,
+      "titulo": "G.T.O. 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4edda67f0f57e218a8e766927e3e5c5.jpg",
+      "url_origen": "https://jkanime.net/gto/29/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6244,
+      "numero": 30,
+      "titulo": "G.T.O. 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21f4c3b5591da245af90a2fd52fa1a55.jpg",
+      "url_origen": "https://jkanime.net/gto/30/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6245,
+      "numero": 31,
+      "titulo": "G.T.O. 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c783eed3cfc1c978fe76e15af007e0d0.jpg",
+      "url_origen": "https://jkanime.net/gto/31/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6246,
+      "numero": 32,
+      "titulo": "G.T.O. 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0801a457294fafbd8fe3116176252636.jpg",
+      "url_origen": "https://jkanime.net/gto/32/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6247,
+      "numero": 33,
+      "titulo": "G.T.O. 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e3ae207832305b6a0bff2dbc8a18b90.jpg",
+      "url_origen": "https://jkanime.net/gto/33/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6248,
+      "numero": 34,
+      "titulo": "G.T.O. 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6a4f65e7355bb8b7671c3a18003b146.jpg",
+      "url_origen": "https://jkanime.net/gto/34/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6249,
+      "numero": 35,
+      "titulo": "G.T.O. 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bcb7c13ff9746a60fa8c3e748acd054d.jpg",
+      "url_origen": "https://jkanime.net/gto/35/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6250,
+      "numero": 36,
+      "titulo": "G.T.O. 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_947018640bf36a2bb609d3557a285329.jpg",
+      "url_origen": "https://jkanime.net/gto/36/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6251,
+      "numero": 37,
+      "titulo": "G.T.O. 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ac1382fd8fc4b631594aa135d16ad75.jpg",
+      "url_origen": "https://jkanime.net/gto/37/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6252,
+      "numero": 38,
+      "titulo": "G.T.O. 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe74074593f21197b7b7be3c08678616.jpg",
+      "url_origen": "https://jkanime.net/gto/38/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6253,
+      "numero": 39,
+      "titulo": "G.T.O. 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b691334ccf10d4ab144d672f7783c8a3.jpg",
+      "url_origen": "https://jkanime.net/gto/39/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6254,
+      "numero": 40,
+      "titulo": "G.T.O. 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8617f303dd11780c5d48aedf0bd90823.jpg",
+      "url_origen": "https://jkanime.net/gto/40/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6255,
+      "numero": 41,
+      "titulo": "G.T.O. 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eeea8c180c5dff16f68a6b7e2606b430.jpg",
+      "url_origen": "https://jkanime.net/gto/41/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6256,
+      "numero": 42,
+      "titulo": "G.T.O. 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a87c11b9100c608b7f8e98cfa316ff7b.jpg",
+      "url_origen": "https://jkanime.net/gto/42/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6257,
+      "numero": 43,
+      "titulo": "G.T.O. 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4cd91e80f36f8f3103617ded9128560.jpg",
+      "url_origen": "https://jkanime.net/gto/43/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:42+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "225",
+  "cantidad_episodios_declarada": 43,
+  "detalle_extraido_en": "2026-08-26T18:29:02+00:00"
+}

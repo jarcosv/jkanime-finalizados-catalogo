@@ -1,0 +1,45 @@
+{
+  "id_origen": 1373,
+  "slug": "strike-witches-operation-victory-arrow",
+  "titulo": "Strike Witches: Operation Victory Arrow",
+  "titulo_corto": "Strike Witches: Operation Vict...",
+  "sinopsis": "Serie de OVAs de Strike Witches que se encuentra compuesta de tres capítulos: San Trond no Raimei, Aegean Umi no Megami y Arnhem no Hashi.\n\nCada episodio está protagonizado por un grupo de Witches del escuadrón 501 y su historia se desarrolla tras la Operación Marte de la segunda temporada, antes de los acontecimientos de la película.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/strike-witches-operation-victory-arrow.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/strike-witches-operation-victory-arrow/",
+  "episodios": [
+    {
+      "id_origen": 25926,
+      "numero": 1,
+      "titulo": "Strike Witches: Operation Victory Arrow - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dc509ead6fe22b846a8a86766e7f02e.jpg",
+      "url_origen": "https://jkanime.net/strike-witches-operation-victory-arrow/1/",
+      "publicado_en_origen": "2014-12-22 04:29:46"
+    },
+    {
+      "id_origen": 27138,
+      "numero": 2,
+      "titulo": "Strike Witches: Operation Victory Arrow - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6f6652692abf616327b519e40a328b4.jpg",
+      "url_origen": "https://jkanime.net/strike-witches-operation-victory-arrow/2/",
+      "publicado_en_origen": "2015-03-18 20:00:42"
+    },
+    {
+      "id_origen": 29007,
+      "numero": 3,
+      "titulo": "Strike Witches: Operation Victory Arrow - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11172787bdf65ba27b6349969d340af4.jpg",
+      "url_origen": "https://jkanime.net/strike-witches-operation-victory-arrow/3/",
+      "publicado_en_origen": "2015-08-14 17:39:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1373",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:47:55+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 815,
+  "slug": "little-witch-academia",
+  "titulo": "Little Witch Academia",
+  "titulo_corto": "Little Witch Academia",
+  "sinopsis": "Little Witch Academia es una de las cuatro obras de anime que recibió 38 millones de yenes ($480.000 USD) en el \"2012 Young Animator Training Project\". Al igual que en 2010 y 2011, el grupo de trabajo de animación recibido ¥ 214 500 000 ($2,65 millones USD) de la Agencia del gobierno japonés de Asuntos Culturales, y se distribuyen la mayor parte de esos fondos para estudios que capacitan a jóvenes animadores en el puesto de trabajo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/little-witch-academia.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/little-witch-academia/",
+  "episodios": [
+    {
+      "id_origen": 20019,
+      "numero": 1,
+      "titulo": "little witch academy",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80ce4326387c091af8b8647f3292c818.jpg",
+      "url_origen": "https://jkanime.net/little-witch-academia/1/",
+      "publicado_en_origen": "2013-04-01 17:41:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "815",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:36:31+00:00"
+}

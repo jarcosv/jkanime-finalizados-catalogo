@@ -1,0 +1,1309 @@
+{
+  "id_origen": 76,
+  "slug": "ranma-",
+  "titulo": "Ranma ½",
+  "titulo_corto": "Ranma ½",
+  "sinopsis": "Los padres de Ranma Saotome y Acane Tendo decidieron que ellos se tendrían que casar sin preguntarles. El problema es que ellos no se llevan muy bien al contrario se llevan pésimo, aparte que Ranma tiene un gran problema el que no sabrán hasta que vean la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ranma-.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ranma-/",
+  "episodios": [
+    {
+      "id_origen": 1622,
+      "numero": 1,
+      "titulo": "Ranma 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7af0926b294e47e52e46cfebe173f20.jpg",
+      "url_origen": "https://jkanime.net/ranma-/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1623,
+      "numero": 2,
+      "titulo": "Ranma 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc528592c3858f90196fbfacc814f235.jpg",
+      "url_origen": "https://jkanime.net/ranma-/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1624,
+      "numero": 3,
+      "titulo": "Ranma 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9327969053c0068dd9e07c529866b94d.jpg",
+      "url_origen": "https://jkanime.net/ranma-/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1625,
+      "numero": 4,
+      "titulo": "Ranma 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a981f2b708044d6fb4a71a1463242520.jpg",
+      "url_origen": "https://jkanime.net/ranma-/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1626,
+      "numero": 5,
+      "titulo": "Ranma 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc573864331a9e42e4511de6f678aa83.jpg",
+      "url_origen": "https://jkanime.net/ranma-/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1627,
+      "numero": 6,
+      "titulo": "Ranma 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97d0145823aeb8ed80617be62e08bdcc.jpg",
+      "url_origen": "https://jkanime.net/ranma-/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1628,
+      "numero": 7,
+      "titulo": "Ranma 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efb76cff97aaf057654ef2f38cd77d73.jpg",
+      "url_origen": "https://jkanime.net/ranma-/7/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1629,
+      "numero": 8,
+      "titulo": "Ranma 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c50b4df4b176845cd235b6a510c6903.jpg",
+      "url_origen": "https://jkanime.net/ranma-/8/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1630,
+      "numero": 9,
+      "titulo": "Ranma 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46031b3d04dc90994ca317a7c55c4289.jpg",
+      "url_origen": "https://jkanime.net/ranma-/9/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1631,
+      "numero": 10,
+      "titulo": "Ranma 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ba3af5d7b2790e73f0de32e5c8c1798.jpg",
+      "url_origen": "https://jkanime.net/ranma-/10/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1632,
+      "numero": 11,
+      "titulo": "Ranma 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0771fc6f0f4b1d7d1bb73bbbe14e0e31.jpg",
+      "url_origen": "https://jkanime.net/ranma-/11/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1633,
+      "numero": 12,
+      "titulo": "Ranma 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21fe5b8ba755eeaece7a450849876228.jpg",
+      "url_origen": "https://jkanime.net/ranma-/12/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1634,
+      "numero": 13,
+      "titulo": "Ranma 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6dd4e10e3296fa63738371ec0d5df818.jpg",
+      "url_origen": "https://jkanime.net/ranma-/13/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1635,
+      "numero": 14,
+      "titulo": "Ranma 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42a3964579017f3cb42b26605b9ae8ef.jpg",
+      "url_origen": "https://jkanime.net/ranma-/14/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1636,
+      "numero": 15,
+      "titulo": "Ranma 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c54985e4f95b7819ca0357c0cb9a09f.jpg",
+      "url_origen": "https://jkanime.net/ranma-/15/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1637,
+      "numero": 16,
+      "titulo": "Ranma 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52c5189391854c93e8a0e1326e56c14f.jpg",
+      "url_origen": "https://jkanime.net/ranma-/16/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1638,
+      "numero": 17,
+      "titulo": "Ranma 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e230522657ecdc50e4249581b861f8e.jpg",
+      "url_origen": "https://jkanime.net/ranma-/17/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1639,
+      "numero": 18,
+      "titulo": "Ranma 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c1e4bd67169b8153e0047536c9f541e.jpg",
+      "url_origen": "https://jkanime.net/ranma-/18/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1640,
+      "numero": 19,
+      "titulo": "Ranma 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84f0f20482cde7e5eacaf7364a643d33.jpg",
+      "url_origen": "https://jkanime.net/ranma-/19/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1641,
+      "numero": 20,
+      "titulo": "Ranma 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10c272d06794d3e5785d5e7c5356e9ff.jpg",
+      "url_origen": "https://jkanime.net/ranma-/20/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1642,
+      "numero": 21,
+      "titulo": "Ranma 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81c650caac28cdefce4de5ddc18befa0.jpg",
+      "url_origen": "https://jkanime.net/ranma-/21/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1643,
+      "numero": 22,
+      "titulo": "Ranma 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f670ef5d2d6bdf8f29450a970494dd64.jpg",
+      "url_origen": "https://jkanime.net/ranma-/22/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1644,
+      "numero": 23,
+      "titulo": "Ranma 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89f03f7d02720160f1b04cf5b27f5ccb.jpg",
+      "url_origen": "https://jkanime.net/ranma-/23/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1645,
+      "numero": 24,
+      "titulo": "Ranma 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1fea270c48e8079d8ddf7d06d26ab52.jpg",
+      "url_origen": "https://jkanime.net/ranma-/24/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1646,
+      "numero": 25,
+      "titulo": "Ranma 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4873aa9a05cc5ed839561d121516766.jpg",
+      "url_origen": "https://jkanime.net/ranma-/25/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1647,
+      "numero": 26,
+      "titulo": "Ranma 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d420fa35754d1f1c19969c88780314d.jpg",
+      "url_origen": "https://jkanime.net/ranma-/26/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1648,
+      "numero": 27,
+      "titulo": "Ranma 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7437d136770f5b35194cb46c1653efaa.jpg",
+      "url_origen": "https://jkanime.net/ranma-/27/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1649,
+      "numero": 28,
+      "titulo": "Ranma 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96de2547f44254c97f5f4f1f402711c1.jpg",
+      "url_origen": "https://jkanime.net/ranma-/28/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1650,
+      "numero": 29,
+      "titulo": "Ranma 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_973a5f0ccbc4ee3524ccf035d35b284b.jpg",
+      "url_origen": "https://jkanime.net/ranma-/29/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1651,
+      "numero": 30,
+      "titulo": "Ranma 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_be3e9d3f7d70537357c67bb3f4086846.jpg",
+      "url_origen": "https://jkanime.net/ranma-/30/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1652,
+      "numero": 31,
+      "titulo": "Ranma 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_207f88018f72237565570f8a9e5ca240.jpg",
+      "url_origen": "https://jkanime.net/ranma-/31/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1653,
+      "numero": 32,
+      "titulo": "Ranma 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b147a61c1d07c1c999560f62add6dbc7.jpg",
+      "url_origen": "https://jkanime.net/ranma-/32/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1654,
+      "numero": 33,
+      "titulo": "Ranma 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d2682367c3935defcb1f9e247a97c0d.jpg",
+      "url_origen": "https://jkanime.net/ranma-/33/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1655,
+      "numero": 34,
+      "titulo": "Ranma 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc42acc8ce334185e0193753adb6cb77.jpg",
+      "url_origen": "https://jkanime.net/ranma-/34/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1656,
+      "numero": 35,
+      "titulo": "Ranma 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_712a3c9878efeae8ff06d57432016ceb.jpg",
+      "url_origen": "https://jkanime.net/ranma-/35/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1657,
+      "numero": 36,
+      "titulo": "Ranma 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a40511cad8383e5ae8ddd8b855d135da.jpg",
+      "url_origen": "https://jkanime.net/ranma-/36/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1658,
+      "numero": 37,
+      "titulo": "Ranma 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0560792e4a3c79e62f76cbf9fb277dd.jpg",
+      "url_origen": "https://jkanime.net/ranma-/37/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1659,
+      "numero": 38,
+      "titulo": "Ranma 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1696007be4eefb81b1a1d39ce48681b.jpg",
+      "url_origen": "https://jkanime.net/ranma-/38/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1660,
+      "numero": 39,
+      "titulo": "Ranma 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a4400501febb2a95e79248486a5f6d3.jpg",
+      "url_origen": "https://jkanime.net/ranma-/39/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1661,
+      "numero": 40,
+      "titulo": "Ranma 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d12b66d3df6af8d429c1a357d8b9e1a.jpg",
+      "url_origen": "https://jkanime.net/ranma-/40/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1662,
+      "numero": 41,
+      "titulo": "Ranma 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2531e7bb29bf22e1daae486fae3417a.jpg",
+      "url_origen": "https://jkanime.net/ranma-/41/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1663,
+      "numero": 42,
+      "titulo": "Ranma 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e449b9317dad920c0dd5ad0a2a2d5e49.jpg",
+      "url_origen": "https://jkanime.net/ranma-/42/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1664,
+      "numero": 43,
+      "titulo": "Ranma 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f398cb9d6bc79ae567298335b51ba8a.jpg",
+      "url_origen": "https://jkanime.net/ranma-/43/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1665,
+      "numero": 44,
+      "titulo": "Ranma 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8d92f99edd25e2cef48eca48320a1a5.jpg",
+      "url_origen": "https://jkanime.net/ranma-/44/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1666,
+      "numero": 45,
+      "titulo": "Ranma 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86d7c8a08b4aaa1bc7c599473f5dddda.jpg",
+      "url_origen": "https://jkanime.net/ranma-/45/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1667,
+      "numero": 46,
+      "titulo": "Ranma 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_158fc2ddd52ec2cf54d3c161f2dd6517.jpg",
+      "url_origen": "https://jkanime.net/ranma-/46/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1668,
+      "numero": 47,
+      "titulo": "Ranma 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0f2ad44d26e1a6f244201fe0fd864d1.jpg",
+      "url_origen": "https://jkanime.net/ranma-/47/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1669,
+      "numero": 48,
+      "titulo": "Ranma 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdf1035c34ec380218a8cc9a43d438f9.jpg",
+      "url_origen": "https://jkanime.net/ranma-/48/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1670,
+      "numero": 49,
+      "titulo": "Ranma 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_148510031349642de5ca0c544f31b2ef.jpg",
+      "url_origen": "https://jkanime.net/ranma-/49/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1671,
+      "numero": 50,
+      "titulo": "Ranma 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_647c722bf90a49140184672e0d3723e3.jpg",
+      "url_origen": "https://jkanime.net/ranma-/50/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1672,
+      "numero": 51,
+      "titulo": "Ranma 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2451041557a22145b3701b0184109cab.jpg",
+      "url_origen": "https://jkanime.net/ranma-/51/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1673,
+      "numero": 52,
+      "titulo": "Ranma 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0f3601dc682036423013a5d965db9aa.jpg",
+      "url_origen": "https://jkanime.net/ranma-/52/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1674,
+      "numero": 53,
+      "titulo": "Ranma 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_757f843a169cc678064d9530d12a1881.jpg",
+      "url_origen": "https://jkanime.net/ranma-/53/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1675,
+      "numero": 54,
+      "titulo": "Ranma 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64f1f27bf1b4ec22924fd0acb550c235.jpg",
+      "url_origen": "https://jkanime.net/ranma-/54/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1676,
+      "numero": 55,
+      "titulo": "Ranma 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_831c2f88a604a07ca94314b56a4921b8.jpg",
+      "url_origen": "https://jkanime.net/ranma-/55/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1677,
+      "numero": 56,
+      "titulo": "Ranma 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08e6bea8e90ba87af3c9554d94db6579.jpg",
+      "url_origen": "https://jkanime.net/ranma-/56/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1678,
+      "numero": 57,
+      "titulo": "Ranma 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2cb6b10338a7fc4117a80da24b582060.jpg",
+      "url_origen": "https://jkanime.net/ranma-/57/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1679,
+      "numero": 58,
+      "titulo": "Ranma 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6384711491713d29bc63fc5eeb5ba4f.jpg",
+      "url_origen": "https://jkanime.net/ranma-/58/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1680,
+      "numero": 59,
+      "titulo": "Ranma 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11d0e6287202fced83f79975ec59a3a6.jpg",
+      "url_origen": "https://jkanime.net/ranma-/59/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1681,
+      "numero": 60,
+      "titulo": "Ranma 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f50a6c02a3fc5a3a5d4d9391f05f3efc.jpg",
+      "url_origen": "https://jkanime.net/ranma-/60/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1682,
+      "numero": 61,
+      "titulo": "Ranma 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a81681a7af700c6385d36577ebec359.jpg",
+      "url_origen": "https://jkanime.net/ranma-/61/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1683,
+      "numero": 62,
+      "titulo": "Ranma 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fddd7938a71db5f81fcc621673ab67b7.jpg",
+      "url_origen": "https://jkanime.net/ranma-/62/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1684,
+      "numero": 63,
+      "titulo": "Ranma 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ef91c212e30e14bf125e9374262401f.jpg",
+      "url_origen": "https://jkanime.net/ranma-/63/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1685,
+      "numero": 64,
+      "titulo": "Ranma 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d79099fcdf499f12b79770834c0164a.jpg",
+      "url_origen": "https://jkanime.net/ranma-/64/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1686,
+      "numero": 65,
+      "titulo": "Ranma 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b618c3210e934362ac261db280128c22.jpg",
+      "url_origen": "https://jkanime.net/ranma-/65/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1687,
+      "numero": 66,
+      "titulo": "Ranma 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7fea637fd6d02b8f0adf6f7dc36aed93.jpg",
+      "url_origen": "https://jkanime.net/ranma-/66/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1688,
+      "numero": 67,
+      "titulo": "Ranma 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae614c557843b1df326cb29c57225459.jpg",
+      "url_origen": "https://jkanime.net/ranma-/67/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1689,
+      "numero": 68,
+      "titulo": "Ranma 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c4ede33a62160a19586f6e26eaefacf.jpg",
+      "url_origen": "https://jkanime.net/ranma-/68/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1690,
+      "numero": 69,
+      "titulo": "Ranma 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d43ab110ab2489d6b9b2caa394bf920f.jpg",
+      "url_origen": "https://jkanime.net/ranma-/69/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1691,
+      "numero": 70,
+      "titulo": "Ranma 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8303a79b1e19a194f1875981be5bdb6f.jpg",
+      "url_origen": "https://jkanime.net/ranma-/70/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1692,
+      "numero": 71,
+      "titulo": "Ranma 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4921f95baf824205e1b13f22d60357a1.jpg",
+      "url_origen": "https://jkanime.net/ranma-/71/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1693,
+      "numero": 72,
+      "titulo": "Ranma 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b59a51a3c0bf9c5228fde841714f523a.jpg",
+      "url_origen": "https://jkanime.net/ranma-/72/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1694,
+      "numero": 73,
+      "titulo": "Ranma 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26751be1181460baf78db8d5eb7aad39.jpg",
+      "url_origen": "https://jkanime.net/ranma-/73/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1695,
+      "numero": 74,
+      "titulo": "Ranma 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e721a54a8cf18c8543d44782d9ef681f.jpg",
+      "url_origen": "https://jkanime.net/ranma-/74/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1696,
+      "numero": 75,
+      "titulo": "Ranma 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5cf21ce30208cfffaa832c6e44bb567d.jpg",
+      "url_origen": "https://jkanime.net/ranma-/75/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1697,
+      "numero": 76,
+      "titulo": "Ranma 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_673271cc47c1a4e77f57e239ed4d28a7.jpg",
+      "url_origen": "https://jkanime.net/ranma-/76/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1698,
+      "numero": 77,
+      "titulo": "Ranma 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fe97fff97f089661135d0487843108e.jpg",
+      "url_origen": "https://jkanime.net/ranma-/77/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1699,
+      "numero": 78,
+      "titulo": "Ranma 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef2a4be5473ab0b3cc286e67b1f59f44.jpg",
+      "url_origen": "https://jkanime.net/ranma-/78/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1700,
+      "numero": 79,
+      "titulo": "Ranma 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01e00f2f4bfcbb7505cb641066f2859b.jpg",
+      "url_origen": "https://jkanime.net/ranma-/79/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1701,
+      "numero": 80,
+      "titulo": "Ranma 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15231a7ce4ba789d13b722cc5c955834.jpg",
+      "url_origen": "https://jkanime.net/ranma-/80/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1702,
+      "numero": 81,
+      "titulo": "Ranma 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9f94c77652c9a76fc8a442748cd54bd.jpg",
+      "url_origen": "https://jkanime.net/ranma-/81/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1703,
+      "numero": 82,
+      "titulo": "Ranma 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_375c71349b295fbe2dcdca9206f20a06.jpg",
+      "url_origen": "https://jkanime.net/ranma-/82/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1704,
+      "numero": 83,
+      "titulo": "Ranma 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a588a6199feff5ba48402883d9b72700.jpg",
+      "url_origen": "https://jkanime.net/ranma-/83/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1705,
+      "numero": 84,
+      "titulo": "Ranma 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a27b8144ac02f67687f76782a3b5d8f.jpg",
+      "url_origen": "https://jkanime.net/ranma-/84/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1706,
+      "numero": 85,
+      "titulo": "Ranma 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8bb88f80d334b1869781beb89f7b73be.jpg",
+      "url_origen": "https://jkanime.net/ranma-/85/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1707,
+      "numero": 86,
+      "titulo": "Ranma 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02f039058bd48307e6f653a2005c9dd2.jpg",
+      "url_origen": "https://jkanime.net/ranma-/86/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1708,
+      "numero": 87,
+      "titulo": "Ranma 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c59b469d724f7919b7d35514184fdc0f.jpg",
+      "url_origen": "https://jkanime.net/ranma-/87/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1709,
+      "numero": 88,
+      "titulo": "Ranma 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52d080a3e172c33fd6886a37e7288491.jpg",
+      "url_origen": "https://jkanime.net/ranma-/88/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1710,
+      "numero": 89,
+      "titulo": "Ranma 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a142a55461d5fef016acfb927fee0bd.jpg",
+      "url_origen": "https://jkanime.net/ranma-/89/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1711,
+      "numero": 90,
+      "titulo": "Ranma 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a941493eeea57ede8214fd77d41806bc.jpg",
+      "url_origen": "https://jkanime.net/ranma-/90/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1712,
+      "numero": 91,
+      "titulo": "Ranma 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a51c896c9cb81ecb5a199d51ac9fc3c5.jpg",
+      "url_origen": "https://jkanime.net/ranma-/91/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1713,
+      "numero": 92,
+      "titulo": "Ranma 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_464d828b85b0bed98e80ade0a5c43b0f.jpg",
+      "url_origen": "https://jkanime.net/ranma-/92/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1714,
+      "numero": 93,
+      "titulo": "Ranma 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_798ed7d4ee7138d49b8828958048130a.jpg",
+      "url_origen": "https://jkanime.net/ranma-/93/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1715,
+      "numero": 94,
+      "titulo": "Ranma 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0efbe98067c6c73dba1250d2beaa81f9.jpg",
+      "url_origen": "https://jkanime.net/ranma-/94/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1716,
+      "numero": 95,
+      "titulo": "Ranma 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66be31e4c40d676991f2405aaecc6934.jpg",
+      "url_origen": "https://jkanime.net/ranma-/95/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1717,
+      "numero": 96,
+      "titulo": "Ranma 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b5700012be65c9da25f49408d959ca0.jpg",
+      "url_origen": "https://jkanime.net/ranma-/96/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1718,
+      "numero": 97,
+      "titulo": "Ranma 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc6709bfdf0572f183c1a84ce5276e96.jpg",
+      "url_origen": "https://jkanime.net/ranma-/97/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1719,
+      "numero": 98,
+      "titulo": "Ranma 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3144cefe89a60d6a1afaf7859c5076b.jpg",
+      "url_origen": "https://jkanime.net/ranma-/98/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1720,
+      "numero": 99,
+      "titulo": "Ranma 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acab0116c354964a558e65bdd07ff047.jpg",
+      "url_origen": "https://jkanime.net/ranma-/99/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1721,
+      "numero": 100,
+      "titulo": "Ranma 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28dc6b0e1b33769b4b94685e4f4d1e5c.jpg",
+      "url_origen": "https://jkanime.net/ranma-/100/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1722,
+      "numero": 101,
+      "titulo": "Ranma 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_404dcc91b2aeaa7caa47487d1483e48a.jpg",
+      "url_origen": "https://jkanime.net/ranma-/101/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1723,
+      "numero": 102,
+      "titulo": "Ranma 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8725fb777f25776ffa9076e44fcfd776.jpg",
+      "url_origen": "https://jkanime.net/ranma-/102/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1724,
+      "numero": 103,
+      "titulo": "Ranma 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62889e73828c756c961c5a6d6c01a463.jpg",
+      "url_origen": "https://jkanime.net/ranma-/103/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1725,
+      "numero": 104,
+      "titulo": "Ranma 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e7e0224018ab3cf51abb96464d518cd.jpg",
+      "url_origen": "https://jkanime.net/ranma-/104/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1726,
+      "numero": 105,
+      "titulo": "Ranma 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74563ba21a90da13dacf2a73e3ddefa7.jpg",
+      "url_origen": "https://jkanime.net/ranma-/105/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1727,
+      "numero": 106,
+      "titulo": "Ranma 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_515ab26c135e92ed8bf3a594d67e4ade.jpg",
+      "url_origen": "https://jkanime.net/ranma-/106/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1728,
+      "numero": 107,
+      "titulo": "Ranma 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7137debd45ae4d0ab9aa953017286b20.jpg",
+      "url_origen": "https://jkanime.net/ranma-/107/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1729,
+      "numero": 108,
+      "titulo": "Ranma 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25e2a30f44898b9f3e978b1786dcd85c.jpg",
+      "url_origen": "https://jkanime.net/ranma-/108/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1730,
+      "numero": 109,
+      "titulo": "Ranma 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_851300ee84c2b80ed40f51ed26d866fc.jpg",
+      "url_origen": "https://jkanime.net/ranma-/109/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1731,
+      "numero": 110,
+      "titulo": "Ranma 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b29eed44276144e4e8103a661f9a78b7.jpg",
+      "url_origen": "https://jkanime.net/ranma-/110/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1732,
+      "numero": 111,
+      "titulo": "Ranma 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_270edd69788dce200a3b395a6da6fdb7.jpg",
+      "url_origen": "https://jkanime.net/ranma-/111/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1733,
+      "numero": 112,
+      "titulo": "Ranma 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fa53be91b4933d536748a60458b9797.jpg",
+      "url_origen": "https://jkanime.net/ranma-/112/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1734,
+      "numero": 113,
+      "titulo": "Ranma 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab2b41c63853f0a651ba9fbf502b0cd8.jpg",
+      "url_origen": "https://jkanime.net/ranma-/113/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1735,
+      "numero": 114,
+      "titulo": "Ranma 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4492cbe90fbdbf88a5aec486aa81ed5.jpg",
+      "url_origen": "https://jkanime.net/ranma-/114/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 11489,
+      "numero": 115,
+      "titulo": "Ranma ½ 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8230bea7d54bcdf99cdfe85cb07313d5.jpg",
+      "url_origen": "https://jkanime.net/ranma-/115/",
+      "publicado_en_origen": "2011-09-12 11:35:15"
+    },
+    {
+      "id_origen": 1736,
+      "numero": 116,
+      "titulo": "Ranma 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0d0e461de8d0024aebcb0a7c68836df.jpg",
+      "url_origen": "https://jkanime.net/ranma-/116/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1737,
+      "numero": 117,
+      "titulo": "Ranma 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70ece1e1e0931919438fcfc6bd5f199c.jpg",
+      "url_origen": "https://jkanime.net/ranma-/117/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1738,
+      "numero": 118,
+      "titulo": "Ranma 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84c6494d30851c63a55cdb8cb047fadd.jpg",
+      "url_origen": "https://jkanime.net/ranma-/118/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1739,
+      "numero": 119,
+      "titulo": "Ranma 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_752d25a1f8dbfb2d656bac3094bfb81c.jpg",
+      "url_origen": "https://jkanime.net/ranma-/119/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1740,
+      "numero": 120,
+      "titulo": "Ranma 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54f5f4071faca32ad5285fef87b78646.jpg",
+      "url_origen": "https://jkanime.net/ranma-/120/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1741,
+      "numero": 121,
+      "titulo": "Ranma 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3b43aeeacb258365cc69cdaf42a68af.jpg",
+      "url_origen": "https://jkanime.net/ranma-/121/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1742,
+      "numero": 122,
+      "titulo": "Ranma 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e62a992c676f611616097dbea8ea030.jpg",
+      "url_origen": "https://jkanime.net/ranma-/122/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1743,
+      "numero": 123,
+      "titulo": "Ranma 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_955a1584af63a546588caae4d23840b3.jpg",
+      "url_origen": "https://jkanime.net/ranma-/123/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1744,
+      "numero": 124,
+      "titulo": "Ranma 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_418ef6127e44214882c61e372e866691.jpg",
+      "url_origen": "https://jkanime.net/ranma-/124/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1745,
+      "numero": 125,
+      "titulo": "Ranma 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97d98119037c5b8a9663cb21fb8ebf47.jpg",
+      "url_origen": "https://jkanime.net/ranma-/125/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1746,
+      "numero": 126,
+      "titulo": "Ranma 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_442cde81694ca09a626eeddefd1b74ca.jpg",
+      "url_origen": "https://jkanime.net/ranma-/126/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1747,
+      "numero": 127,
+      "titulo": "Ranma 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e15cc11f979ed25912dff5b0669f2cd.jpg",
+      "url_origen": "https://jkanime.net/ranma-/127/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1748,
+      "numero": 128,
+      "titulo": "Ranma 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54e36c5ff5f6a1802925ca009f3ebb68.jpg",
+      "url_origen": "https://jkanime.net/ranma-/128/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1749,
+      "numero": 129,
+      "titulo": "Ranma 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc9b003bb003a298c2ad0d05e4342bdc.jpg",
+      "url_origen": "https://jkanime.net/ranma-/129/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1750,
+      "numero": 130,
+      "titulo": "Ranma 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a5dfac4be1502501489fc0f5a24b667.jpg",
+      "url_origen": "https://jkanime.net/ranma-/130/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1751,
+      "numero": 131,
+      "titulo": "Ranma 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3bbccd6c008e727785cb81b1aa08ac5.jpg",
+      "url_origen": "https://jkanime.net/ranma-/131/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1752,
+      "numero": 132,
+      "titulo": "Ranma 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11c484ea9305ea4c7bb6b2e6d570d466.jpg",
+      "url_origen": "https://jkanime.net/ranma-/132/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1753,
+      "numero": 133,
+      "titulo": "Ranma 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a63fc8c5d915e1f1a40f40e6c7499863.jpg",
+      "url_origen": "https://jkanime.net/ranma-/133/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1754,
+      "numero": 134,
+      "titulo": "Ranma 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_231141b34c82aa95e48810a9d1b33a79.jpg",
+      "url_origen": "https://jkanime.net/ranma-/134/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1755,
+      "numero": 135,
+      "titulo": "Ranma 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8d31bd778da8bdd536187c36e48892b.jpg",
+      "url_origen": "https://jkanime.net/ranma-/135/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1756,
+      "numero": 136,
+      "titulo": "Ranma 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cefab442b1728a7c1b49c63f1a55781c.jpg",
+      "url_origen": "https://jkanime.net/ranma-/136/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1757,
+      "numero": 137,
+      "titulo": "Ranma 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2cdf047a6674cef251d56544a3cf029.jpg",
+      "url_origen": "https://jkanime.net/ranma-/137/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1758,
+      "numero": 138,
+      "titulo": "Ranma 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2612aa892d962d6f8056b195ca6e550d.jpg",
+      "url_origen": "https://jkanime.net/ranma-/138/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1759,
+      "numero": 139,
+      "titulo": "Ranma 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba1b3eba322eab5d895aa3023fe78b9c.jpg",
+      "url_origen": "https://jkanime.net/ranma-/139/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1760,
+      "numero": 140,
+      "titulo": "Ranma 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e22dd5dabde45eda5a1a67772c8e25dd.jpg",
+      "url_origen": "https://jkanime.net/ranma-/140/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1761,
+      "numero": 141,
+      "titulo": "Ranma 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7283518d47a05a09d33779a17adf1707.jpg",
+      "url_origen": "https://jkanime.net/ranma-/141/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1762,
+      "numero": 142,
+      "titulo": "Ranma 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17ed8abedc255908be746d245e50263a.jpg",
+      "url_origen": "https://jkanime.net/ranma-/142/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1763,
+      "numero": 143,
+      "titulo": "Ranma 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df9028fcb6b065e000ffe8a4f03eeb38.jpg",
+      "url_origen": "https://jkanime.net/ranma-/143/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 11490,
+      "numero": 144,
+      "titulo": "Ranma ½ 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05f03bcccda955d1689b36046a6db899.jpg",
+      "url_origen": "https://jkanime.net/ranma-/144/",
+      "publicado_en_origen": "2011-09-12 11:36:11"
+    },
+    {
+      "id_origen": 1764,
+      "numero": 145,
+      "titulo": "Ranma 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94e4451ad23909020c28b26ca3a13cb8.jpg",
+      "url_origen": "https://jkanime.net/ranma-/145/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1765,
+      "numero": 146,
+      "titulo": "Ranma 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8698ff92115213ab187d31d4ee5da8ea.jpg",
+      "url_origen": "https://jkanime.net/ranma-/146/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1766,
+      "numero": 147,
+      "titulo": "Ranma 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96a93ba89a5b5c6c226e49b88973f46e.jpg",
+      "url_origen": "https://jkanime.net/ranma-/147/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1767,
+      "numero": 148,
+      "titulo": "Ranma 148",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8fd4a8a5bab2b3785d794ab51fef55c.jpg",
+      "url_origen": "https://jkanime.net/ranma-/148/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1768,
+      "numero": 149,
+      "titulo": "Ranma 149",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db29450c3f5e97f97846693611f98c15.jpg",
+      "url_origen": "https://jkanime.net/ranma-/149/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1769,
+      "numero": 150,
+      "titulo": "Ranma 150",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7eb7eabbe9bd03c2fc99881d04da9cbd.jpg",
+      "url_origen": "https://jkanime.net/ranma-/150/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1770,
+      "numero": 151,
+      "titulo": "Ranma 151",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5a4d6bf330f23a8707bb0d6001dfbe8.jpg",
+      "url_origen": "https://jkanime.net/ranma-/151/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1771,
+      "numero": 152,
+      "titulo": "Ranma 152",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21be9a4bd4f81549a9d1d241981cec3c.jpg",
+      "url_origen": "https://jkanime.net/ranma-/152/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1772,
+      "numero": 153,
+      "titulo": "Ranma 153",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_299570476c6f0309545110c592b6a63b.jpg",
+      "url_origen": "https://jkanime.net/ranma-/153/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1773,
+      "numero": 154,
+      "titulo": "Ranma 154",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4abe17a1c80cbdd2aa241b70840879de.jpg",
+      "url_origen": "https://jkanime.net/ranma-/154/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1774,
+      "numero": 155,
+      "titulo": "Ranma 155",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0bda020d2470f2e74990a07a607ebd9.jpg",
+      "url_origen": "https://jkanime.net/ranma-/155/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1775,
+      "numero": 156,
+      "titulo": "Ranma 156",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36d7534290610d9b7e9abed244dd2f28.jpg",
+      "url_origen": "https://jkanime.net/ranma-/156/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1776,
+      "numero": 157,
+      "titulo": "Ranma 157",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7dd0240cd412efde8bc165e864d3644f.jpg",
+      "url_origen": "https://jkanime.net/ranma-/157/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1777,
+      "numero": 158,
+      "titulo": "Ranma 158",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9b73bccd1762555582b513ff9d02492.jpg",
+      "url_origen": "https://jkanime.net/ranma-/158/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1778,
+      "numero": 159,
+      "titulo": "Ranma 159",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6709e8d64a5f47269ed5cea9f625f7ab.jpg",
+      "url_origen": "https://jkanime.net/ranma-/159/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1779,
+      "numero": 160,
+      "titulo": "Ranma 160",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c01a75941549a705cf7275e41b21f0d.jpg",
+      "url_origen": "https://jkanime.net/ranma-/160/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1780,
+      "numero": 161,
+      "titulo": "Ranma 161",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f63f65b503e22cb970527f23c9ad7db1.jpg",
+      "url_origen": "https://jkanime.net/ranma-/161/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:46+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "76",
+  "cantidad_episodios_declarada": 161,
+  "detalle_extraido_en": "2026-08-26T18:43:42+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "id_origen": 1284,
+  "slug": "nisekoi-ova",
+  "titulo": "Nisekoi OVA",
+  "titulo_corto": "Nisekoi OVA",
+  "sinopsis": "Ovas incluidas en el volumen 14, 16 y 17 del manga Nisekoi",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nisekoi-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nisekoi-ova/",
+  "episodios": [
+    {
+      "id_origen": 24965,
+      "numero": 1,
+      "titulo": "Nisekoi OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0ff2eaef41dd9e6e3dcb49d53c1bf11.jpg",
+      "url_origen": "https://jkanime.net/nisekoi-ova/1/",
+      "publicado_en_origen": "2014-10-01 19:05:12"
+    },
+    {
+      "id_origen": 26590,
+      "numero": 2,
+      "titulo": "Nisekoi OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6df811b75fbf2f0dc32a60ece213f1a3.jpg",
+      "url_origen": "https://jkanime.net/nisekoi-ova/2/",
+      "publicado_en_origen": "2015-02-04 21:45:25"
+    },
+    {
+      "id_origen": 27348,
+      "numero": 3,
+      "titulo": "Nisekoi OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df4684fd22721f7396ace865dbf2bf3f.jpg",
+      "url_origen": "https://jkanime.net/nisekoi-ova/3/",
+      "publicado_en_origen": "2015-04-01 14:22:29"
+    },
+    {
+      "id_origen": 30483,
+      "numero": 4,
+      "titulo": "Nisekoi OVA - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb22fb2b63ebd0f8261cbfc4809cd152.jpg",
+      "url_origen": "https://jkanime.net/nisekoi-ova/4/",
+      "publicado_en_origen": "2016-01-04 18:00:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1284",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:40:31+00:00"
+}

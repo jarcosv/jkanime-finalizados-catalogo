@@ -1,0 +1,117 @@
+{
+  "id_origen": 1891,
+  "slug": "dream-festival",
+  "titulo": "Dream Festival!",
+  "titulo_corto": "Dream Festival!",
+  "sinopsis": "UN día el estudiante de segundo año de preparatoria Kanade Amamiya repentínamente es reclutado por el legendario Idol Haruto Mikami. Él ahora enfrenta la vida de un Idol con otros en la misma agencia. Él apunta a su debut en CD para el Dream Festival! junto al misterioso Shin Oikawa, Junya Sasaki, Itsuki Katagiri y Chizuru Sawamura.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dream-festival/",
+  "episodios": [
+    {
+      "id_origen": 32852,
+      "numero": 1,
+      "titulo": "Dream Festival! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+      "url_origen": "https://jkanime.net/dream-festival/1/",
+      "publicado_en_origen": "2016-09-23 12:44:59"
+    },
+    {
+      "id_origen": 32973,
+      "numero": 2,
+      "titulo": "Dream Festival! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+      "url_origen": "https://jkanime.net/dream-festival/2/",
+      "publicado_en_origen": "2016-10-07 11:55:41"
+    },
+    {
+      "id_origen": 33040,
+      "numero": 3,
+      "titulo": "Dream Festival! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+      "url_origen": "https://jkanime.net/dream-festival/3/",
+      "publicado_en_origen": "2016-10-14 11:47:10"
+    },
+    {
+      "id_origen": 33110,
+      "numero": 4,
+      "titulo": "Dream Festival! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+      "url_origen": "https://jkanime.net/dream-festival/4/",
+      "publicado_en_origen": "2016-10-21 11:41:43"
+    },
+    {
+      "id_origen": 33176,
+      "numero": 5,
+      "titulo": "Dream Festival! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+      "url_origen": "https://jkanime.net/dream-festival/5/",
+      "publicado_en_origen": "2016-10-28 11:54:06"
+    },
+    {
+      "id_origen": 33246,
+      "numero": 6,
+      "titulo": "Dream Festival! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+      "url_origen": "https://jkanime.net/dream-festival/6/",
+      "publicado_en_origen": "2016-11-04 11:42:20"
+    },
+    {
+      "id_origen": 33314,
+      "numero": 7,
+      "titulo": "Dream Festival! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+      "url_origen": "https://jkanime.net/dream-festival/7/",
+      "publicado_en_origen": "2016-11-11 13:08:21"
+    },
+    {
+      "id_origen": 33384,
+      "numero": 8,
+      "titulo": "Dream Festival! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+      "url_origen": "https://jkanime.net/dream-festival/8/",
+      "publicado_en_origen": "2016-11-18 12:38:05"
+    },
+    {
+      "id_origen": 33454,
+      "numero": 9,
+      "titulo": "Dream Festival! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+      "url_origen": "https://jkanime.net/dream-festival/9/",
+      "publicado_en_origen": "2016-11-25 12:48:06"
+    },
+    {
+      "id_origen": 33526,
+      "numero": 10,
+      "titulo": "Dream Festival! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+      "url_origen": "https://jkanime.net/dream-festival/10/",
+      "publicado_en_origen": "2016-12-02 13:07:06"
+    },
+    {
+      "id_origen": 33597,
+      "numero": 11,
+      "titulo": "Dream Festival! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+      "url_origen": "https://jkanime.net/dream-festival/11/",
+      "publicado_en_origen": "2016-12-09 13:08:31"
+    },
+    {
+      "id_origen": 33667,
+      "numero": 12,
+      "titulo": "Dream Festival! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-festival.jpg",
+      "url_origen": "https://jkanime.net/dream-festival/12/",
+      "publicado_en_origen": "2016-12-16 13:03:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1891",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:25:58+00:00"
+}

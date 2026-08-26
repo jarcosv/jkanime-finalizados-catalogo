@@ -1,0 +1,61 @@
+{
+  "id_origen": 4291,
+  "slug": "happylesson-ovas",
+  "titulo": "Happy☆Lesson Ovas",
+  "titulo_corto": "Happy☆Lesson Ovas",
+  "sinopsis": "Un chico. Cinco chicas. Un techo. Es una idea reciclada, pero nunca pasa de moda. Happy Lesson es una versión dinámica de un género antiguo.\r\n\r\nChitose comparte su casa con cinco mujeres. Uno podría pensar que la atención continua de tantas chicas sería algo bueno, pero demasiada atención puede resultar dolorosa. ¿He mencionado que también son profesoras en su escuela (de ahí el título)? No solo es objeto de sus abusos en casa, sino también en la escuela. Incluso cuando por fin se calma todo por la noche, todas las habitaciones están ocupadas, por lo que Chitose tiene que dormir en el sofá.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/happylesson-ovas.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/happylesson-ovas/",
+  "episodios": [
+    {
+      "id_origen": 66147,
+      "numero": 1,
+      "titulo": "Happy☆Lesson Ovas - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_300b86cf392c2ca83fc6db3e5285037f.jpg",
+      "url_origen": "https://jkanime.net/happylesson-ovas/1/",
+      "publicado_en_origen": "2025-08-09 15:10:31"
+    },
+    {
+      "id_origen": 66148,
+      "numero": 2,
+      "titulo": "Happy☆Lesson Ovas - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6cd34dd2c1353565e9ca4acb7340a7ea.jpg",
+      "url_origen": "https://jkanime.net/happylesson-ovas/2/",
+      "publicado_en_origen": "2025-08-09 15:10:31"
+    },
+    {
+      "id_origen": 66149,
+      "numero": 3,
+      "titulo": "Happy☆Lesson Ovas - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2aa67dd4c630444667310318f99514a.jpg",
+      "url_origen": "https://jkanime.net/happylesson-ovas/3/",
+      "publicado_en_origen": "2025-08-09 15:10:31"
+    },
+    {
+      "id_origen": 66150,
+      "numero": 4,
+      "titulo": "Happy☆Lesson Ovas - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20892f373712c53c14c6661feb4ae053.jpg",
+      "url_origen": "https://jkanime.net/happylesson-ovas/4/",
+      "publicado_en_origen": "2025-08-09 15:10:31"
+    },
+    {
+      "id_origen": 66151,
+      "numero": 5,
+      "titulo": "Happy☆Lesson Ovas - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4838d9e2b2daec2fca7fd967139f3931.jpg",
+      "url_origen": "https://jkanime.net/happylesson-ovas/5/",
+      "publicado_en_origen": "2025-08-09 15:10:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4291",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:29:57+00:00"
+}

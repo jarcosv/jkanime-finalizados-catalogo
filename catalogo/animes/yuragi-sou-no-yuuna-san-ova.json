@@ -1,0 +1,53 @@
+{
+  "id_origen": 2757,
+  "slug": "yuragi-sou-no-yuuna-san-ova",
+  "titulo": "Yuragi-sou no Yuuna-san OVA",
+  "titulo_corto": "Yuragi-sou no Yuuna-san OVA",
+  "sinopsis": "Incluida en los tomos 11 y 12 del manga Yuragi-sou no Yuuna-san. Adapta el capítulo 12 del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yuragi-sou-no-yuuna-san-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yuragi-sou-no-yuuna-san-ova/",
+  "episodios": [
+    {
+      "id_origen": 44159,
+      "numero": 1,
+      "titulo": "Yuragi-sou no Yuuna-san OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccefa32875cbd01d9ca6025da13d83a2.jpg",
+      "url_origen": "https://jkanime.net/yuragi-sou-no-yuuna-san-ova/1/",
+      "publicado_en_origen": "2020-12-08 20:18:28"
+    },
+    {
+      "id_origen": 44160,
+      "numero": 2,
+      "titulo": "Yuragi-sou no Yuuna-san OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_501f06dacc74edd54022151f71c8960b.jpg",
+      "url_origen": "https://jkanime.net/yuragi-sou-no-yuuna-san-ova/2/",
+      "publicado_en_origen": "2020-12-08 20:18:31"
+    },
+    {
+      "id_origen": 44161,
+      "numero": 3,
+      "titulo": "Yuragi-sou no Yuuna-san OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae128ac418fcc6ef161cb98a152030eb.jpg",
+      "url_origen": "https://jkanime.net/yuragi-sou-no-yuuna-san-ova/3/",
+      "publicado_en_origen": "2020-12-08 20:18:34"
+    },
+    {
+      "id_origen": 44162,
+      "numero": 4,
+      "titulo": "Yuragi-sou no Yuuna-san OVA - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eef490f6eab3a53f5b27faba349c4448.jpg",
+      "url_origen": "https://jkanime.net/yuragi-sou-no-yuuna-san-ova/4/",
+      "publicado_en_origen": "2020-12-08 20:59:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:17+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2757",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:53:31+00:00"
+}

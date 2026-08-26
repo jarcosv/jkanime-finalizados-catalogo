@@ -1,0 +1,45 @@
+{
+  "id_origen": 1168,
+  "slug": "hayate-no-gotoku-ova",
+  "titulo": "Hayate no Gotoku! OVA",
+  "titulo_corto": "Hayate no Gotoku! OVA",
+  "sinopsis": "Ova de Hayate no Gotoku! Como parte del decimo aniversario del Proyecto Hayate no Gotoku!. \n\nEpisodio incluidos con los volumenes 41 a 43 del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hayate-no-gotoku-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hayate-no-gotoku-ova/",
+  "episodios": [
+    {
+      "id_origen": 23812,
+      "numero": 1,
+      "titulo": "Hayate no Gotoku! OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b68bcc008bf06986ac30f9be4452e879.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-ova/1/",
+      "publicado_en_origen": "2014-06-23 15:15:20"
+    },
+    {
+      "id_origen": 24802,
+      "numero": 2,
+      "titulo": "Hayate no Gotoku! OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8f0521f5bda726a6f4380142e5b6e6a.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-ova/2/",
+      "publicado_en_origen": "2014-09-18 15:34:01"
+    },
+    {
+      "id_origen": 25925,
+      "numero": 3,
+      "titulo": "Hayate no Gotoku! OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1111416c64bcd3367986a25b18c7da40.jpg",
+      "url_origen": "https://jkanime.net/hayate-no-gotoku-ova/3/",
+      "publicado_en_origen": "2014-12-21 21:50:33"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1168",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:30:06+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 3174,
+  "slug": "dr-stone-ryuusui",
+  "titulo": "Dr. Stone: Ryuusui",
+  "titulo_corto": "Dr. Stone: Ryuusui",
+  "sinopsis": "El episodio original servirá como puente entre la segunda y la tercera temporada.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dr-stone-ryuusui.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dr-stone-ryuusui/",
+  "episodios": [
+    {
+      "id_origen": 49839,
+      "numero": 1,
+      "titulo": "Dr. Stone: Ryuusui",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a4a6eb255501195ed53e976bc25ab5b.jpg",
+      "url_origen": "https://jkanime.net/dr-stone-ryuusui/1/",
+      "publicado_en_origen": "2022-07-10 10:50:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3174",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:29+00:00"
+}

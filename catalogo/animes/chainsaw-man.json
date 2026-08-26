@@ -1,0 +1,117 @@
+{
+  "id_origen": 3199,
+  "slug": "chainsaw-man",
+  "titulo": "Chainsaw Man",
+  "titulo_corto": "Chainsaw Man",
+  "sinopsis": "Denji es un joven pobre que hace cualquier cosa por dinero, incluso cazar demonios con su perro diabólico Pochita. Es un hombre sencillo con sueños sencillos, ahogado bajo una montaña de deudas. Pero su triste vida da un vuelco cuando es traicionado por alguien en quien confía. Ahora, con el poder de un demonio dentro de él, Denji se ha convertido en un hombre completamente nuevo: ¡el hombre de la sierra de cadena!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/chainsaw-man.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/chainsaw-man/",
+  "episodios": [
+    {
+      "id_origen": 50761,
+      "numero": 1,
+      "titulo": "Chainsaw Man - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_447de1f822426c0600e2e8db674092c5.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man/1/",
+      "publicado_en_origen": "2022-10-11 12:12:10"
+    },
+    {
+      "id_origen": 50821,
+      "numero": 2,
+      "titulo": "Chainsaw Man - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9dfce349fb3929f450de610d426a971.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man/2/",
+      "publicado_en_origen": "2022-10-18 12:12:11"
+    },
+    {
+      "id_origen": 50876,
+      "numero": 3,
+      "titulo": "Chainsaw Man - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_524e887b1be01beb1a3082037f4ad85b.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man/3/",
+      "publicado_en_origen": "2022-10-25 12:53:11"
+    },
+    {
+      "id_origen": 50947,
+      "numero": 4,
+      "titulo": "Chainsaw Man - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fff111f87f5074418d92a3c221e26157.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man/4/",
+      "publicado_en_origen": "2022-11-01 12:34:43"
+    },
+    {
+      "id_origen": 51015,
+      "numero": 5,
+      "titulo": "Chainsaw Man - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1000be0e0889d0972919d303988e2944.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man/5/",
+      "publicado_en_origen": "2022-11-08 13:15:01"
+    },
+    {
+      "id_origen": 51074,
+      "numero": 6,
+      "titulo": "Chainsaw Man - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b02192e8ea581ba1fc7e26feb242bb5.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man/6/",
+      "publicado_en_origen": "2022-11-15 13:25:15"
+    },
+    {
+      "id_origen": 51127,
+      "numero": 7,
+      "titulo": "Chainsaw Man - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a95fd60370919c2bf1b4009e6406ff37.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man/7/",
+      "publicado_en_origen": "2022-11-22 14:09:18"
+    },
+    {
+      "id_origen": 51180,
+      "numero": 8,
+      "titulo": "Chainsaw Man - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3674061f83a4946d111c22a2288147f1.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man/8/",
+      "publicado_en_origen": "2022-11-29 13:47:24"
+    },
+    {
+      "id_origen": 51299,
+      "numero": 9,
+      "titulo": "Chainsaw Man - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0c21c53bcac2d7e502451351afd011b.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man/9/",
+      "publicado_en_origen": "2022-12-06 13:16:17"
+    },
+    {
+      "id_origen": 51353,
+      "numero": 10,
+      "titulo": "Chainsaw Man - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87e3543184ec13213ab428fe1864f657.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man/10/",
+      "publicado_en_origen": "2022-12-13 15:21:48"
+    },
+    {
+      "id_origen": 51408,
+      "numero": 11,
+      "titulo": "Chainsaw Man - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_584cbabdd93f7bea0e1d68c9743c5cde.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man/11/",
+      "publicado_en_origen": "2022-12-20 15:01:21"
+    },
+    {
+      "id_origen": 51469,
+      "numero": 12,
+      "titulo": "Chainsaw Man - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7745f41c94c8e3c42fbd2ea09231269f.jpg",
+      "url_origen": "https://jkanime.net/chainsaw-man/12/",
+      "publicado_en_origen": "2022-12-27 13:18:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3199",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:23:19+00:00"
+}

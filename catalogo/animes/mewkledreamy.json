@@ -1,0 +1,405 @@
+{
+  "id_origen": 2669,
+  "slug": "mewkledreamy",
+  "titulo": "Mewkledreamy",
+  "titulo_corto": "Mewkledreamy",
+  "sinopsis": "La historia comienza cuando una niña de secundaria llamada Yume ve que algo cae del cielo y se encuentra con un gatito de color violeta palido llamado Mew. Resulta que Mew tiene el poder de \"Yume Synchro\" (Dream Synchro), el poder de entrar en sueños. En el mundo de los sueños, la niña y Mew recogen Dream Stones.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mewkledreamy.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mewkledreamy/",
+  "episodios": [
+    {
+      "id_origen": 42750,
+      "numero": 1,
+      "titulo": "Mewkledreamy - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mewkledreamy.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/1/",
+      "publicado_en_origen": "2020-04-25 00:05:41"
+    },
+    {
+      "id_origen": 42751,
+      "numero": 2,
+      "titulo": "Mewkledreamy - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mewkledreamy.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/2/",
+      "publicado_en_origen": "2020-04-25 00:05:46"
+    },
+    {
+      "id_origen": 42762,
+      "numero": 3,
+      "titulo": "Mewkledreamy - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mewkledreamy.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/3/",
+      "publicado_en_origen": "2020-04-26 14:48:41"
+    },
+    {
+      "id_origen": 42809,
+      "numero": 4,
+      "titulo": "Mewkledreamy - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mewkledreamy.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/4/",
+      "publicado_en_origen": "2020-05-05 17:34:26"
+    },
+    {
+      "id_origen": 42997,
+      "numero": 5,
+      "titulo": "Mewkledreamy - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mewkledreamy.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/5/",
+      "publicado_en_origen": "2020-06-07 00:49:44"
+    },
+    {
+      "id_origen": 43044,
+      "numero": 6,
+      "titulo": "Mewkledreamy - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5015c83b0464ced2aa36c7b86245d72f.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/6/",
+      "publicado_en_origen": "2020-06-17 16:32:59"
+    },
+    {
+      "id_origen": 43066,
+      "numero": 7,
+      "titulo": "Mewkledreamy - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24fe7c0ccc301185c71eae88b71d6b65.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/7/",
+      "publicado_en_origen": "2020-06-21 17:09:08"
+    },
+    {
+      "id_origen": 43079,
+      "numero": 8,
+      "titulo": "Mewkledreamy - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8845795a6b7bb32de1b64d7521ff976b.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/8/",
+      "publicado_en_origen": "2020-06-28 01:43:29"
+    },
+    {
+      "id_origen": 43105,
+      "numero": 9,
+      "titulo": "Mewkledreamy - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3efcdd8c4998017c9578b28a059f72e4.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/9/",
+      "publicado_en_origen": "2020-07-05 15:33:11"
+    },
+    {
+      "id_origen": 43147,
+      "numero": 10,
+      "titulo": "Mewkledreamy - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97b7e121d7fbde23d1f19991e52793a3.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/10/",
+      "publicado_en_origen": "2020-07-14 03:41:34"
+    },
+    {
+      "id_origen": 43181,
+      "numero": 11,
+      "titulo": "Mewkledreamy - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_010ed37e44e2fdc175b4c5c6c930805a.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/11/",
+      "publicado_en_origen": "2020-07-21 01:16:26"
+    },
+    {
+      "id_origen": 43211,
+      "numero": 12,
+      "titulo": "Mewkledreamy - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fac6b3ef53d98ee0816dba1eea78829.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/12/",
+      "publicado_en_origen": "2020-07-27 01:07:06"
+    },
+    {
+      "id_origen": 43299,
+      "numero": 13,
+      "titulo": "Mewkledreamy - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_012fa44d6752ee07c167165cb8c6f11c.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/13/",
+      "publicado_en_origen": "2020-08-11 13:05:04"
+    },
+    {
+      "id_origen": 43300,
+      "numero": 14,
+      "titulo": "Mewkledreamy - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b45b0f97ceab36bd24ee1e318824f4e.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/14/",
+      "publicado_en_origen": "2020-08-11 13:05:10"
+    },
+    {
+      "id_origen": 43397,
+      "numero": 15,
+      "titulo": "Mewkledreamy - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af2584b5bb7fffb22c8f27c5b9657ccf.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/15/",
+      "publicado_en_origen": "2020-08-27 17:12:48"
+    },
+    {
+      "id_origen": 43398,
+      "numero": 16,
+      "titulo": "Mewkledreamy - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e22c4e5078ccb5b8b8677392986ce186.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/16/",
+      "publicado_en_origen": "2020-08-27 17:12:53"
+    },
+    {
+      "id_origen": 43482,
+      "numero": 17,
+      "titulo": "Mewkledreamy - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1087e958e1f1eb9ef2cd21cb270bb30b.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/17/",
+      "publicado_en_origen": "2020-09-07 18:29:55"
+    },
+    {
+      "id_origen": 43620,
+      "numero": 18,
+      "titulo": "Mewkledreamy - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca90060cedf14f51c64d1edb7fe22367.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/18/",
+      "publicado_en_origen": "2020-09-27 02:51:18"
+    },
+    {
+      "id_origen": 43624,
+      "numero": 19,
+      "titulo": "Mewkledreamy - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d0eeba9fbf04877c4a4508a64a744e7.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/19/",
+      "publicado_en_origen": "2020-09-28 00:48:42"
+    },
+    {
+      "id_origen": 43625,
+      "numero": 20,
+      "titulo": "Mewkledreamy - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60b4ddba6215df686ff6ab71d0c078e9.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/20/",
+      "publicado_en_origen": "2020-09-28 00:48:46"
+    },
+    {
+      "id_origen": 43626,
+      "numero": 21,
+      "titulo": "Mewkledreamy - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0a0a80333d75c4728e228b869e94579.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/21/",
+      "publicado_en_origen": "2020-09-28 00:48:52"
+    },
+    {
+      "id_origen": 43640,
+      "numero": 22,
+      "titulo": "Mewkledreamy - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c4049f0668f21344eb1c0de0b3bd6b0.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/22/",
+      "publicado_en_origen": "2020-10-01 22:14:21"
+    },
+    {
+      "id_origen": 43720,
+      "numero": 23,
+      "titulo": "Mewkledreamy - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a0d68b508f38d4480ec59a54ae116ba.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/23/",
+      "publicado_en_origen": "2020-10-13 13:41:22"
+    },
+    {
+      "id_origen": 43806,
+      "numero": 24,
+      "titulo": "Mewkledreamy - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b6fe2dc98ceed6e1608e7cfc662ab11.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/24/",
+      "publicado_en_origen": "2020-10-24 11:47:47"
+    },
+    {
+      "id_origen": 43807,
+      "numero": 25,
+      "titulo": "Mewkledreamy - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc27a5d2206eccfecffc275ddbd9bac8.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/25/",
+      "publicado_en_origen": "2020-10-24 11:47:52"
+    },
+    {
+      "id_origen": 43877,
+      "numero": 26,
+      "titulo": "Mewkledreamy - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_644189fdc1ec6209a67f49571c6d4a8c.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/26/",
+      "publicado_en_origen": "2020-11-01 10:36:44"
+    },
+    {
+      "id_origen": 43909,
+      "numero": 27,
+      "titulo": "Mewkledreamy - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02cf5ddc3dee22e67363a2bc57c28b35.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/27/",
+      "publicado_en_origen": "2020-11-06 13:24:06"
+    },
+    {
+      "id_origen": 43989,
+      "numero": 28,
+      "titulo": "Mewkledreamy - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mewkledreamy.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/28/",
+      "publicado_en_origen": "2020-11-16 20:49:56"
+    },
+    {
+      "id_origen": 44022,
+      "numero": 29,
+      "titulo": "Mewkledreamy - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03f79f537091922ce04021b6dd8c0d1a.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/29/",
+      "publicado_en_origen": "2020-11-22 00:36:42"
+    },
+    {
+      "id_origen": 44097,
+      "numero": 30,
+      "titulo": "Mewkledreamy - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1088cfbd540321e61be04e54d0502a70.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/30/",
+      "publicado_en_origen": "2020-12-01 18:18:05"
+    },
+    {
+      "id_origen": 44207,
+      "numero": 31,
+      "titulo": "Mewkledreamy - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e56e70587da39b4877edd181aa3b1857.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/31/",
+      "publicado_en_origen": "2020-12-14 11:18:15"
+    },
+    {
+      "id_origen": 44208,
+      "numero": 32,
+      "titulo": "Mewkledreamy - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7482cf11798c3aa3c485e025b48880d.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/32/",
+      "publicado_en_origen": "2020-12-14 11:18:18"
+    },
+    {
+      "id_origen": 44261,
+      "numero": 33,
+      "titulo": "Mewkledreamy - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27479fa8061de66ab4b60fe1b4a76d63.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/33/",
+      "publicado_en_origen": "2020-12-21 09:32:58"
+    },
+    {
+      "id_origen": 44316,
+      "numero": 34,
+      "titulo": "Mewkledreamy - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5b23b0f61576bf3cd32363d3475c964.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/34/",
+      "publicado_en_origen": "2021-01-04 14:24:11"
+    },
+    {
+      "id_origen": 44317,
+      "numero": 35,
+      "titulo": "Mewkledreamy - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f0a57cca51a04da9ceec67fed0bc336.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/35/",
+      "publicado_en_origen": "2021-01-04 14:24:18"
+    },
+    {
+      "id_origen": 44451,
+      "numero": 36,
+      "titulo": "Mewkledreamy - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_072278eca9b171854f70564769acae45.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/36/",
+      "publicado_en_origen": "2021-01-20 14:43:09"
+    },
+    {
+      "id_origen": 44579,
+      "numero": 37,
+      "titulo": "Mewkledreamy - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e851d689e10f4b1b1385ce82cf0cd1f.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/37/",
+      "publicado_en_origen": "2021-02-03 09:19:20"
+    },
+    {
+      "id_origen": 44580,
+      "numero": 38,
+      "titulo": "Mewkledreamy - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44e637e23db52f2deaba9d31f925a0d7.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/38/",
+      "publicado_en_origen": "2021-02-03 09:19:23"
+    },
+    {
+      "id_origen": 44658,
+      "numero": 39,
+      "titulo": "Mewkledreamy - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d9569624460d7cf283a1aada0d3f2d3.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/39/",
+      "publicado_en_origen": "2021-02-10 23:27:08"
+    },
+    {
+      "id_origen": 44754,
+      "numero": 40,
+      "titulo": "Mewkledreamy - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_648cbc29675eff7e6f337ffc66c907de.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/40/",
+      "publicado_en_origen": "2021-02-20 21:04:06"
+    },
+    {
+      "id_origen": 44917,
+      "numero": 41,
+      "titulo": "Mewkledreamy - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21b87da0b5e900224d034469833d5fe5.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/41/",
+      "publicado_en_origen": "2021-03-09 12:12:51"
+    },
+    {
+      "id_origen": 44918,
+      "numero": 42,
+      "titulo": "Mewkledreamy - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1db09dff7179e16fd2ef7005b34a2e12.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/42/",
+      "publicado_en_origen": "2021-03-09 12:12:54"
+    },
+    {
+      "id_origen": 44996,
+      "numero": 43,
+      "titulo": "Mewkledreamy - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_886438584cd75af26e683e77526dff7e.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/43/",
+      "publicado_en_origen": "2021-03-17 11:07:17"
+    },
+    {
+      "id_origen": 45118,
+      "numero": 44,
+      "titulo": "Mewkledreamy - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd6a3674478af373087f891eeb390100.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/44/",
+      "publicado_en_origen": "2021-03-31 12:24:55"
+    },
+    {
+      "id_origen": 45152,
+      "numero": 45,
+      "titulo": "Mewkledreamy - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a555fb36b9368110ede0f043dfc3b9a0.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/45/",
+      "publicado_en_origen": "2021-04-04 11:14:45"
+    },
+    {
+      "id_origen": 45400,
+      "numero": 46,
+      "titulo": "Mewkledreamy - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8dcedd6884e553e55dfb6298a6f6cd94.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/46/",
+      "publicado_en_origen": "2021-05-03 12:52:53"
+    },
+    {
+      "id_origen": 45923,
+      "numero": 47,
+      "titulo": "Mewkledreamy - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0a864c2092c2885179523674f580428.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/47/",
+      "publicado_en_origen": "2021-06-24 17:48:15"
+    },
+    {
+      "id_origen": 45924,
+      "numero": 48,
+      "titulo": "Mewkledreamy - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1704ebe1eb5bfc1c24b0acb73d157a9.jpg",
+      "url_origen": "https://jkanime.net/mewkledreamy/48/",
+      "publicado_en_origen": "2021-06-24 17:48:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2669",
+  "cantidad_episodios_declarada": 48,
+  "detalle_extraido_en": "2026-08-26T18:38:28+00:00"
+}

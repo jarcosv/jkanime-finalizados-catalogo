@@ -1,0 +1,29 @@
+{
+  "id_origen": 943,
+  "slug": "dragon-ball-z-movie-14-kami-to-kami",
+  "titulo": "Dragon Ball Z: Kami to Kami",
+  "titulo_corto": "Dragon Ball Z: Kami to Kami",
+  "sinopsis": "La historia se sitúa varios años después de la batalla con Majin Buu. Bills, el Dios de la destrucción que mantenía el equilibrio del universo, se ha despertado de un largo sueño. Al escuchar rumores sobre un saiyajin que ha vencido a Freezer, Bills parte a la búsqueda de Goku. Emocionado por el hecho de que haya aparecido un oponente tan poderoso tras tanto tiempo, Goku ignora las advertencias de Kaio y decide enfrentarse a él.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-z-movie-14-kami-to-kami.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-z-movie-14-kami-to-kami/",
+  "episodios": [
+    {
+      "id_origen": 21491,
+      "numero": 1,
+      "titulo": "Dragon Ball Z Movie 14: Kami to Kami",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9049cb276005c45497703fafc718368.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-z-movie-14-kami-to-kami/1/",
+      "publicado_en_origen": "2013-09-14 13:13:55"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:03+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "943",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:52+00:00"
+}

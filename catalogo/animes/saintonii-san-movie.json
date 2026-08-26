@@ -1,0 +1,29 @@
+{
+  "id_origen": 1004,
+  "slug": "saintonii-san-movie",
+  "titulo": "Saint☆Onii-san (Movie)",
+  "titulo_corto": "Saint☆Onii-san (Movie)",
+  "sinopsis": "¿Que pasaria si Buddha y Jesus vivieran en estos tiempos? ¿y comparten un apartamento en Japon?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saintonii-san-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/saintonii-san-movie/",
+  "episodios": [
+    {
+      "id_origen": 22177,
+      "numero": 1,
+      "titulo": "Saint☆Onii-san (Movie)",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da3792d66f5f4552e5bcff268c45946a.jpg",
+      "url_origen": "https://jkanime.net/saintonii-san-movie/1/",
+      "publicado_en_origen": "2013-12-12 16:43:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:02+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1004",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:44:42+00:00"
+}

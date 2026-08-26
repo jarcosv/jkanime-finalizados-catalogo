@@ -1,0 +1,29 @@
+{
+  "id_origen": 1782,
+  "slug": "hai-to-gensou-no-grimgar-special",
+  "titulo": "Hai to Gensou no Grimgar Special",
+  "titulo_corto": "Hai to Gensou no Grimgar Speci...",
+  "sinopsis": "Episodio 2.5 de la serie, expandira el final de el episodio 2.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hai-to-gensou-no-grimgar-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hai-to-gensou-no-grimgar-special/",
+  "episodios": [
+    {
+      "id_origen": 31196,
+      "numero": 1,
+      "titulo": "Hai to Gensou no Grimgar Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a6a73c9c5eecb746b0ab4c888939818.jpg",
+      "url_origen": "https://jkanime.net/hai-to-gensou-no-grimgar-special/1/",
+      "publicado_en_origen": "2016-03-24 23:27:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:36+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1782",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:29:26+00:00"
+}

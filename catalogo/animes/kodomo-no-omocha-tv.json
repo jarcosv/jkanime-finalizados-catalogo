@@ -1,0 +1,837 @@
+{
+  "id_origen": 4871,
+  "slug": "kodomo-no-omocha-tv",
+  "titulo": "Kodomo no Omocha (TV)",
+  "titulo_corto": "Kodomo no Omocha (TV)",
+  "sinopsis": "Sana Kurata, alumna de sexto curso, tiene una vida perfecta. Su madre es una escritora (bastante) exitosa, cuenta con un joven a su servicio para que la mantenga feliz y a salvo y, lo mejor de todo, es la estrella del programa infantil de televisión «Kodomo no Omocha». Solo hay una cosa que le preocupa, y es Akito Hayama.\r\n\r\nAkito es compañero de clase de Sana y, desde que empezó a portarse mal en clase, el resto de los chicos han seguido su ejemplo. Cada día, las chicas y la profesora libran una batalla para mantener la clase bajo control y poder impartir algo de clase de verdad. Ese maldito Akito… ¡Sana no está dispuesta a aguantarlo!\r\n\r\nLa hiperactiva Sana decide indagar más a fondo y descubrir qué es lo que mueve a Akito, para que la clase vuelva a la normalidad y la profesora pueda dejar de pasar todos los días llorando en lugar de dar clase. Pero cuanto más aprende sobre él, más se da cuenta de que quizá haya más en Akito de lo que parece a simple vista.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kodomo-no-omocha-tv.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/",
+  "episodios": [
+    {
+      "id_origen": 75192,
+      "numero": 1,
+      "titulo": "Kodomo no Omocha (TV) - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05f7a259673091e735f41325bca6bd8d.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/1/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75193,
+      "numero": 2,
+      "titulo": "Kodomo no Omocha (TV) - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c525e2896d8f2078e1bf0eccc160de3.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/2/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75194,
+      "numero": 3,
+      "titulo": "Kodomo no Omocha (TV) - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3501a56d21faadbe0522da251f4787c9.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/3/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75195,
+      "numero": 4,
+      "titulo": "Kodomo no Omocha (TV) - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4119d954ab214fb7a05dd096f0cb0fe8.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/4/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75196,
+      "numero": 5,
+      "titulo": "Kodomo no Omocha (TV) - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b46a5b965f2c2a8276bc8b173afe5057.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/5/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75197,
+      "numero": 6,
+      "titulo": "Kodomo no Omocha (TV) - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08b1c0394c5430c8444e852db2997271.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/6/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75198,
+      "numero": 7,
+      "titulo": "Kodomo no Omocha (TV) - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21e3e4c0363d434797bb4933e9986e35.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/7/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75199,
+      "numero": 8,
+      "titulo": "Kodomo no Omocha (TV) - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_991ef8e01c07831a09880f2c7641dc8f.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/8/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75200,
+      "numero": 9,
+      "titulo": "Kodomo no Omocha (TV) - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57c708ff076970ccc54353d9293a3424.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/9/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75201,
+      "numero": 10,
+      "titulo": "Kodomo no Omocha (TV) - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa0b9e182540c38048af01b12d7afcc2.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/10/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75202,
+      "numero": 11,
+      "titulo": "Kodomo no Omocha (TV) - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d64049e3229354e90ad2d3c4fca03a9.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/11/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75203,
+      "numero": 12,
+      "titulo": "Kodomo no Omocha (TV) - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aec4044d2baa054b54ac67574adedb6f.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/12/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75204,
+      "numero": 13,
+      "titulo": "Kodomo no Omocha (TV) - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e3d85139cc32b1f94351d0315873e7b.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/13/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75205,
+      "numero": 14,
+      "titulo": "Kodomo no Omocha (TV) - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efbbe0dc32217ee75ad747442c7f2a9b.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/14/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75206,
+      "numero": 15,
+      "titulo": "Kodomo no Omocha (TV) - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fe673645c7e46038c538c95913021a4.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/15/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75207,
+      "numero": 16,
+      "titulo": "Kodomo no Omocha (TV) - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31d007e47c96924145cd2aab5f480e7e.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/16/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75208,
+      "numero": 17,
+      "titulo": "Kodomo no Omocha (TV) - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_417000eb4ec815bcec9b82b9e54473ba.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/17/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75209,
+      "numero": 18,
+      "titulo": "Kodomo no Omocha (TV) - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_933ab50ef2be07ad4b3cd925ed266c4a.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/18/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75210,
+      "numero": 19,
+      "titulo": "Kodomo no Omocha (TV) - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_802e5d68b0875c5ebc5329656d244745.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/19/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75211,
+      "numero": 20,
+      "titulo": "Kodomo no Omocha (TV) - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73b5216b6c7e77ee1bd4c8631db63b93.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/20/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75212,
+      "numero": 21,
+      "titulo": "Kodomo no Omocha (TV) - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82da6fce6d50d7e8c4b51e740425dad5.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/21/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75213,
+      "numero": 22,
+      "titulo": "Kodomo no Omocha (TV) - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68d413c5c836e2ec5325572019845d49.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/22/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75214,
+      "numero": 23,
+      "titulo": "Kodomo no Omocha (TV) - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae0375942ea38344fa0c908e32a69633.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/23/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75215,
+      "numero": 24,
+      "titulo": "Kodomo no Omocha (TV) - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9adfd346bfb8d6183636b66ca31a307.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/24/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75216,
+      "numero": 25,
+      "titulo": "Kodomo no Omocha (TV) - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac05d9e177c15740358e3e48ee8b474d.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/25/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75217,
+      "numero": 26,
+      "titulo": "Kodomo no Omocha (TV) - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7a7ae90f869e78a0b42ecf252a739fe.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/26/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75218,
+      "numero": 27,
+      "titulo": "Kodomo no Omocha (TV) - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2b134adb3b64330d9b88be31c2e936d4.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/27/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75219,
+      "numero": 28,
+      "titulo": "Kodomo no Omocha (TV) - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c55c99826d9c905d5c829c5198c2a1dc.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/28/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75220,
+      "numero": 29,
+      "titulo": "Kodomo no Omocha (TV) - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42464e957d63144c5e1ebad5a298d661.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/29/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75221,
+      "numero": 30,
+      "titulo": "Kodomo no Omocha (TV) - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_964a5f439320282493c9f5b66dab1446.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/30/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75222,
+      "numero": 31,
+      "titulo": "Kodomo no Omocha (TV) - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7855717878387d0c3189135eaaed94b7.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/31/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75223,
+      "numero": 32,
+      "titulo": "Kodomo no Omocha (TV) - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26f078358616edf36508954d7bbd0f53.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/32/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75224,
+      "numero": 33,
+      "titulo": "Kodomo no Omocha (TV) - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4566bf3ddfda77d1596908648c99ab2c.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/33/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75225,
+      "numero": 34,
+      "titulo": "Kodomo no Omocha (TV) - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28e6111755747a70773a54dacf72e75b.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/34/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75226,
+      "numero": 35,
+      "titulo": "Kodomo no Omocha (TV) - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_638d9a51effb189a8b395b2404fc25ae.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/35/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75227,
+      "numero": 36,
+      "titulo": "Kodomo no Omocha (TV) - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_600c526632435ad89528a52cbd90b7e0.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/36/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75228,
+      "numero": 37,
+      "titulo": "Kodomo no Omocha (TV) - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01af5f79e7699ba3f2ea9aeebe0804da.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/37/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75229,
+      "numero": 38,
+      "titulo": "Kodomo no Omocha (TV) - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32cbe65708c77fc9fb49824b83d7b12a.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/38/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75230,
+      "numero": 39,
+      "titulo": "Kodomo no Omocha (TV) - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a78060c453cbeae96e9b122a28cc1bba.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/39/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75231,
+      "numero": 40,
+      "titulo": "Kodomo no Omocha (TV) - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3537815cb132158b9b91786c4e6e1c6a.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/40/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75232,
+      "numero": 41,
+      "titulo": "Kodomo no Omocha (TV) - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dee000913b42e99d0b7c79793e223cc4.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/41/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75233,
+      "numero": 42,
+      "titulo": "Kodomo no Omocha (TV) - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fcfcad319036ffdbadef3e84925e481.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/42/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75234,
+      "numero": 43,
+      "titulo": "Kodomo no Omocha (TV) - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_095f56e98f31f788056181685936a6e7.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/43/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75235,
+      "numero": 44,
+      "titulo": "Kodomo no Omocha (TV) - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c77aaf7ca543667a9d6e801c5f073db8.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/44/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75236,
+      "numero": 45,
+      "titulo": "Kodomo no Omocha (TV) - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f407d9c836f5d75116a620c9f5e6b9c5.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/45/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75237,
+      "numero": 46,
+      "titulo": "Kodomo no Omocha (TV) - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6884948488bcba19ff323610228be4c7.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/46/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75238,
+      "numero": 47,
+      "titulo": "Kodomo no Omocha (TV) - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_621b95ef43c58f4c8b5055a811c88b63.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/47/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75239,
+      "numero": 48,
+      "titulo": "Kodomo no Omocha (TV) - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1c1d4f669a64aa576aa31ca188d6ad4.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/48/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75240,
+      "numero": 49,
+      "titulo": "Kodomo no Omocha (TV) - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8622e850a70a339263535bdefaacb170.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/49/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75241,
+      "numero": 50,
+      "titulo": "Kodomo no Omocha (TV) - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_788c9f9fb2786c69c55408df4ad5307d.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/50/",
+      "publicado_en_origen": "2026-07-19 22:46:21"
+    },
+    {
+      "id_origen": 75242,
+      "numero": 51,
+      "titulo": "Kodomo no Omocha (TV) - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f2ae21946e899f3caec4e44526ee68f.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/51/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75243,
+      "numero": 52,
+      "titulo": "Kodomo no Omocha (TV) - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fc851b6649b238f4d215cbe1f80bd12.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/52/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75244,
+      "numero": 53,
+      "titulo": "Kodomo no Omocha (TV) - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed5f9e3b9998009c5d95bee9da273f1d.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/53/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75245,
+      "numero": 54,
+      "titulo": "Kodomo no Omocha (TV) - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a3c2163db12d1c9ce9f13069d8c0d4a1.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/54/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75246,
+      "numero": 55,
+      "titulo": "Kodomo no Omocha (TV) - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a82d06e62cc0eb8259ca4bf790d24215.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/55/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75247,
+      "numero": 56,
+      "titulo": "Kodomo no Omocha (TV) - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_788fb6991f1684bcc3b124e9443ff5ef.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/56/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75248,
+      "numero": 57,
+      "titulo": "Kodomo no Omocha (TV) - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03aed8669825544eeb4ba8d18ebd600c.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/57/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75249,
+      "numero": 58,
+      "titulo": "Kodomo no Omocha (TV) - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e7b7fe30afc0d65b42d4c4dc9fbaea8.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/58/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75250,
+      "numero": 59,
+      "titulo": "Kodomo no Omocha (TV) - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ceb5a6e7d8bc6d3808d966453835fbc.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/59/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75251,
+      "numero": 60,
+      "titulo": "Kodomo no Omocha (TV) - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_387a567a5070c886341ba13b97cb5263.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/60/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75252,
+      "numero": 61,
+      "titulo": "Kodomo no Omocha (TV) - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cce2a3bade5aca2ee80ac9f9565b6c51.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/61/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75253,
+      "numero": 62,
+      "titulo": "Kodomo no Omocha (TV) - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f1c9033deca38ddd64c047c4ad4d597.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/62/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75254,
+      "numero": 63,
+      "titulo": "Kodomo no Omocha (TV) - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3686a01afda591351067a15e5efac89.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/63/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75255,
+      "numero": 64,
+      "titulo": "Kodomo no Omocha (TV) - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96f8a7ab742d4b9221a44ee370ce967c.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/64/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75256,
+      "numero": 65,
+      "titulo": "Kodomo no Omocha (TV) - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e88050f851540a83720ee2eca30923f.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/65/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75257,
+      "numero": 66,
+      "titulo": "Kodomo no Omocha (TV) - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ced2ab24f501af3b5cc734b863c6bca8.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/66/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75258,
+      "numero": 67,
+      "titulo": "Kodomo no Omocha (TV) - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_226bc7e28e747dd0615ec13d00ef7389.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/67/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75259,
+      "numero": 68,
+      "titulo": "Kodomo no Omocha (TV) - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0495f128fa2393b585bed70e586c8023.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/68/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75260,
+      "numero": 69,
+      "titulo": "Kodomo no Omocha (TV) - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8972587f6ea71b2f97148f459bcbb2fd.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/69/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75261,
+      "numero": 70,
+      "titulo": "Kodomo no Omocha (TV) - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_680341b3b1ba5e8e7203e0bc1990ac9d.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/70/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75262,
+      "numero": 71,
+      "titulo": "Kodomo no Omocha (TV) - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5396041658a321d0fd76104de82f9109.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/71/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75263,
+      "numero": 72,
+      "titulo": "Kodomo no Omocha (TV) - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53404e8809a24c7ccf6f7145c72f390d.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/72/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75264,
+      "numero": 73,
+      "titulo": "Kodomo no Omocha (TV) - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1012c6675e675e9a6a7807c809a38349.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/73/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75265,
+      "numero": 74,
+      "titulo": "Kodomo no Omocha (TV) - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75a06a037c44151cfba6d3fcf1f11b4d.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/74/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75266,
+      "numero": 75,
+      "titulo": "Kodomo no Omocha (TV) - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7163e11db701d398f014d7ff3c5902c5.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/75/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75267,
+      "numero": 76,
+      "titulo": "Kodomo no Omocha (TV) - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8465989accd39977bcc973a2ffb39ead.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/76/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75268,
+      "numero": 77,
+      "titulo": "Kodomo no Omocha (TV) - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6dbb224f73483f2943af7ad08e6ee7eb.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/77/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75269,
+      "numero": 78,
+      "titulo": "Kodomo no Omocha (TV) - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_517dbfc65be6fc4b7dc939823aa4101b.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/78/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75270,
+      "numero": 79,
+      "titulo": "Kodomo no Omocha (TV) - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e2bf66687d98e08cc71e0e70701dc7c.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/79/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75271,
+      "numero": 80,
+      "titulo": "Kodomo no Omocha (TV) - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8284bd40421a16aa751c6d796573ecc7.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/80/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75272,
+      "numero": 81,
+      "titulo": "Kodomo no Omocha (TV) - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4945447d428fd281917b80044e71c9ee.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/81/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75273,
+      "numero": 82,
+      "titulo": "Kodomo no Omocha (TV) - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ee2354e537321e7e4ef66f0cc17381e.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/82/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75274,
+      "numero": 83,
+      "titulo": "Kodomo no Omocha (TV) - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_113758e046dacb3fc4961ae6b1d55503.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/83/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75275,
+      "numero": 84,
+      "titulo": "Kodomo no Omocha (TV) - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_132f8874e17bd1846af93bcd38074a10.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/84/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75276,
+      "numero": 85,
+      "titulo": "Kodomo no Omocha (TV) - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42f527f2236001d24c9646494ac256d2.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/85/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75277,
+      "numero": 86,
+      "titulo": "Kodomo no Omocha (TV) - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_242ff7de175d85b45473d260baf6c957.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/86/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75278,
+      "numero": 87,
+      "titulo": "Kodomo no Omocha (TV) - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_260f4b0b5999f218a030543d20541a0e.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/87/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75279,
+      "numero": 88,
+      "titulo": "Kodomo no Omocha (TV) - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc0e846586d756bd5bb8a10464ed8e19.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/88/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75280,
+      "numero": 89,
+      "titulo": "Kodomo no Omocha (TV) - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79e589221a0a6d6f1cf810d59791a33e.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/89/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75281,
+      "numero": 90,
+      "titulo": "Kodomo no Omocha (TV) - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bf0581a6e65bade2dd4555e2781996e.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/90/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75282,
+      "numero": 91,
+      "titulo": "Kodomo no Omocha (TV) - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c397f76b90285c6d20c32e9de5b3593.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/91/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75283,
+      "numero": 92,
+      "titulo": "Kodomo no Omocha (TV) - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_737bc9877cc7de89ab287d44b86a6c9b.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/92/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75284,
+      "numero": 93,
+      "titulo": "Kodomo no Omocha (TV) - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0bea5c4636f9b8244785d7722694001.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/93/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75285,
+      "numero": 94,
+      "titulo": "Kodomo no Omocha (TV) - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c37ec79855168f726627a25b54644ef.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/94/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75286,
+      "numero": 95,
+      "titulo": "Kodomo no Omocha (TV) - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7c5747857f9f32f1f4ea6e22e794446.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/95/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75287,
+      "numero": 96,
+      "titulo": "Kodomo no Omocha (TV) - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66764c15fde7728862ac3b4989adb817.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/96/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75288,
+      "numero": 97,
+      "titulo": "Kodomo no Omocha (TV) - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea6c16d48a24bd78983e82327e68a322.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/97/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75289,
+      "numero": 98,
+      "titulo": "Kodomo no Omocha (TV) - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ad4febede9855490144a3332d78e85e8.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/98/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75290,
+      "numero": 99,
+      "titulo": "Kodomo no Omocha (TV) - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d4c46142cf1d26d4c2001cd339c9309.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/99/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75291,
+      "numero": 100,
+      "titulo": "Kodomo no Omocha (TV) - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_037c873711b2b1e1fd21c36b0036bde0.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/100/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75292,
+      "numero": 101,
+      "titulo": "Kodomo no Omocha (TV) - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e843d6af1848e9daad0e0b1cb6aaacf.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/101/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    },
+    {
+      "id_origen": 75293,
+      "numero": 102,
+      "titulo": "Kodomo no Omocha (TV) - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd62f706c88d6483fe9ed95011563e74.jpg",
+      "url_origen": "https://jkanime.net/kodomo-no-omocha-tv/102/",
+      "publicado_en_origen": "2026-07-19 22:46:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4871",
+  "cantidad_episodios_declarada": 102,
+  "detalle_extraido_en": "2026-08-26T18:35:21+00:00"
+}

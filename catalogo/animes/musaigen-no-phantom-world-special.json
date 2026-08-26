@@ -1,0 +1,29 @@
+{
+  "id_origen": 1945,
+  "slug": "musaigen-no-phantom-world-special",
+  "titulo": "Musaigen no Phantom World Special",
+  "titulo_corto": "Musaigen no Phantom World Spec...",
+  "sinopsis": "Episodio especial no transmitido de Musaigen no Phantom World, incluído en el séptimo columen de DVD/BD.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/musaigen-no-phantom-world-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/musaigen-no-phantom-world-special/",
+  "episodios": [
+    {
+      "id_origen": 32947,
+      "numero": 1,
+      "titulo": "Musaigen no Phantom World Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_280515198e9b8f63e158dbebc95dc28b.jpg",
+      "url_origen": "https://jkanime.net/musaigen-no-phantom-world-special/1/",
+      "publicado_en_origen": "2016-10-04 20:35:07"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1945",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:22+00:00"
+}

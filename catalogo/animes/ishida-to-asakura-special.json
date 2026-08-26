@@ -1,0 +1,29 @@
+{
+  "id_origen": 835,
+  "slug": "ishida-to-asakura-special",
+  "titulo": "Ishida to Asakura Special",
+  "titulo_corto": "Ishida to Asakura Special",
+  "sinopsis": "Episodio extra transmitido por Tokyo MX una semana después del episodio 12. Asakura se pregunta por qué siguen ahí cuando el anime terminó la semana pasada",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ishida-to-asakura-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ishida-to-asakura-special/",
+  "episodios": [
+    {
+      "id_origen": 20080,
+      "numero": 1,
+      "titulo": "Ishida to Asakura Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58a7e42277b10f6112e4780ac6cde319.jpg",
+      "url_origen": "https://jkanime.net/ishida-to-asakura-special/1/",
+      "publicado_en_origen": "2013-04-07 20:25:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:03+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "835",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:32:18+00:00"
+}

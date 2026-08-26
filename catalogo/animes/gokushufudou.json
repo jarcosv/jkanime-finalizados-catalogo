@@ -1,0 +1,61 @@
+{
+  "id_origen": 3186,
+  "slug": "gokushufudou",
+  "titulo": "Gokushufudou",
+  "titulo_corto": "Gokushufudou",
+  "sinopsis": "Tatsu, un infame y temido líder yakuza apodado “El Dragón Inmortal”, se retira del sindicato del crimen y se convierte en un amo de casa para ayudar a su esposa Miku. La serie muestra una variedad de cómicos escenarios, típicamente protagonizados por las actividades domésticas de Tatsu y su disparidad con su apariencia intimidantes, así como los múltiples encuentros con sus antiguos colegas y rivales en el sindicato del crimen japonés.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gokushufudou.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gokushufudou/",
+  "episodios": [
+    {
+      "id_origen": 50214,
+      "numero": 1,
+      "titulo": "Gokushufudou - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88ad3058b5bfb15c835f47e5afab58b3.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou/1/",
+      "publicado_en_origen": "2022-08-18 01:23:05"
+    },
+    {
+      "id_origen": 50215,
+      "numero": 2,
+      "titulo": "Gokushufudou - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6412758f35bc2b2c69223d505dd4190a.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou/2/",
+      "publicado_en_origen": "2022-08-18 01:23:05"
+    },
+    {
+      "id_origen": 50216,
+      "numero": 3,
+      "titulo": "Gokushufudou - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a885cada404ea63aa22db1e519f7426.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou/3/",
+      "publicado_en_origen": "2022-08-18 01:23:05"
+    },
+    {
+      "id_origen": 50217,
+      "numero": 4,
+      "titulo": "Gokushufudou - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_304fb49ab4214e5eb121f1ab8cd23d60.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou/4/",
+      "publicado_en_origen": "2022-08-18 01:23:05"
+    },
+    {
+      "id_origen": 50218,
+      "numero": 5,
+      "titulo": "Gokushufudou - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90ed228ca6acd32efc724c89c2b322b8.jpg",
+      "url_origen": "https://jkanime.net/gokushufudou/5/",
+      "publicado_en_origen": "2022-08-18 01:23:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3186",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:28:50+00:00"
+}

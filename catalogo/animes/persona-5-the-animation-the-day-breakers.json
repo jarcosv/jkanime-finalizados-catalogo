@@ -1,0 +1,29 @@
+{
+  "id_origen": 1890,
+  "slug": "persona-5-the-animation-the-day-breakers",
+  "titulo": "Persona 5 the Animation: The Day Breakers",
+  "titulo_corto": "Persona 5 the Animation: The D...",
+  "sinopsis": "Los Ladrones de Corazones son una banda de jóvenes que luchan por mantener el orden en la ciudad. Un día se enteran de las actividades delictivas de unos ladrones, así que hacen lo posible por detenerlos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/persona-5-the-animation-the-day-breakers.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/persona-5-the-animation-the-day-breakers/",
+  "episodios": [
+    {
+      "id_origen": 32698,
+      "numero": 1,
+      "titulo": "Persona 5 the Animation: The Day Breakers",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59990206aa06fc1de0b921c4320f332c.jpg",
+      "url_origen": "https://jkanime.net/persona-5-the-animation-the-day-breakers/1/",
+      "publicado_en_origen": "2016-09-03 12:57:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1890",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:42:08+00:00"
+}

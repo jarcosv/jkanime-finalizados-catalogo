@@ -1,0 +1,53 @@
+{
+  "id_origen": 1889,
+  "slug": "nanatsu-no-taizai-seisen-no-shirushi",
+  "titulo": "Nanatsu no Taizai: Seisen no Shirushi",
+  "titulo_corto": "Nanatsu no Taizai: Seisen no S...",
+  "sinopsis": "Nanatsu vuelve con un anticipo de lo que será su ya anunciada segunda temporada, esta vez se trata de un pequeño arco de cuatro episodios.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nanatsu-no-taizai-seisen-no-shirushi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nanatsu-no-taizai-seisen-no-shirushi/",
+  "episodios": [
+    {
+      "id_origen": 32654,
+      "numero": 1,
+      "titulo": "Nanatsu no Taizai: Seisen no Shirushi - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13d29e6e8cf1bcf427da3e7bd696a73f.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-taizai-seisen-no-shirushi/1/",
+      "publicado_en_origen": "2016-08-28 12:42:27"
+    },
+    {
+      "id_origen": 32715,
+      "numero": 2,
+      "titulo": "Nanatsu no Taizai: Seisen no Shirushi - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_735701335a53e5b70d7465c28eed4088.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-taizai-seisen-no-shirushi/2/",
+      "publicado_en_origen": "2016-09-04 16:43:55"
+    },
+    {
+      "id_origen": 32765,
+      "numero": 3,
+      "titulo": "Nanatsu no Taizai: Seisen no Shirushi - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62e125fde0037ef78106973d7d91c94e.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-taizai-seisen-no-shirushi/3/",
+      "publicado_en_origen": "2016-09-11 11:50:48"
+    },
+    {
+      "id_origen": 32815,
+      "numero": 4,
+      "titulo": "Nanatsu no Taizai: Seisen no Shirushi - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44374c1f0ebad6dc48951e6c20c25806.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-taizai-seisen-no-shirushi/4/",
+      "publicado_en_origen": "2016-09-18 11:30:14"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1889",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:39:46+00:00"
+}

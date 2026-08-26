@@ -1,0 +1,981 @@
+{
+  "id_origen": 2440,
+  "slug": "yugioh-vrains",
+  "titulo": "Yu☆Gi☆Oh! VRAINS",
+  "titulo_corto": "Yu☆Gi☆Oh! VRAINS",
+  "sinopsis": "En una ciudad donde la tecnologia de Internet se ha desarrollado muchisimo, sus habitantes se enfrentan en duelos dia y noche en LINK VRAINS, un mundo de realidad virtual gestionado por SOL Technology Inc. Yusaku Fiji es un estudiante de preparatoria aparentemente muy normal, pero en realidad cuando llega a casa entra en LINK VRAINS como su alter ego, \"Playmaker\", para enfrentarse a los \"Caballeros de Hanoi\" que planean destruir LINK VRAINS",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yugioh-vrains.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yugioh-vrains/",
+  "episodios": [
+    {
+      "id_origen": 40032,
+      "numero": 1,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c2d8be7b4d5836ebf6e70455ba735df.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/1/",
+      "publicado_en_origen": "2019-05-31 15:49:00"
+    },
+    {
+      "id_origen": 40033,
+      "numero": 2,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_132eb557618302f19126586eec17c6cb.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/2/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40034,
+      "numero": 3,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60d951c5b80c087fe6cee57a25dab947.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/3/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40035,
+      "numero": 4,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e1542eb9501f06a8c684bc836568a84.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/4/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40036,
+      "numero": 5,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4da9f2c82997b1df03a32770b2189a60.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/5/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40037,
+      "numero": 6,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbc47b8c1f31c559de985ed898f644de.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/6/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40038,
+      "numero": 7,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b786332c6e03d22a572e2bd5c67a86c9.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/7/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40039,
+      "numero": 8,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12795bc7a24533b7946cf3584f0e8e1e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/8/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40040,
+      "numero": 9,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b292c42b08d209a8baa530adc393671d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/9/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40041,
+      "numero": 10,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33361cd70854b41ce5b022000f77b434.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/10/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40042,
+      "numero": 11,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_766b8260680f75badcb4665177affcc9.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/11/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40043,
+      "numero": 12,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b17dd06dc3e1db6768768c56cfcadd40.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/12/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40044,
+      "numero": 13,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_010cf6733ba79252a80674668054f335.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/13/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40045,
+      "numero": 14,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7cd26db58f0de31308f6954245630c03.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/14/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40046,
+      "numero": 15,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0957672158b7913f5abd8d6f4e9d50e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/15/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40047,
+      "numero": 16,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd2dbdcd4dbbe9512ba1a119014f6a5c.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/16/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40048,
+      "numero": 17,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c563887fb511ed0c1d6aeacf603c2de.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/17/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40049,
+      "numero": 18,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8da124409cad437d5d2c35b101e3b91.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/18/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40050,
+      "numero": 19,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3d373858ddfa09d81bd1796943514a8.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/19/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40051,
+      "numero": 20,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b4f2f6f94b053e3a32726e62b85db9c.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/20/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40052,
+      "numero": 21,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b212ddebb71de5f0118e2e9f170bd04.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/21/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40053,
+      "numero": 22,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2096a1e3206c02898f4cb287fbeac1cd.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/22/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40054,
+      "numero": 23,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d09690ee3975605e0388eac03d655623.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/23/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40055,
+      "numero": 24,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d44a4b265f457745992aee2753123da8.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/24/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40056,
+      "numero": 25,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8999714b474171439f0c56236609a287.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/25/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40057,
+      "numero": 26,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_298fbf7365715ccb63b71724722f7a21.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/26/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40058,
+      "numero": 27,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d7cc0f1d0b54eac3609c5222246595b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/27/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40059,
+      "numero": 28,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea1350ae23fe71f26de3107232ae30bc.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/28/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40060,
+      "numero": 29,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebd6638431159e2c7a8229ea9307ecc2.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/29/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40061,
+      "numero": 30,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cba85cf9d0ca4714faa84f7edc9d533d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/30/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40062,
+      "numero": 31,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1bd739ac7f0bee6edbc6f946bcd73f8.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/31/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40063,
+      "numero": 32,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa45afecc42bfd2ed529042f9e9df9b9.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/32/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40064,
+      "numero": 33,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3579acde25b2dab713999fa7f42c914.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/33/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40065,
+      "numero": 34,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1853414c691b3e17ad1a14b23dfb9598.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/34/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40066,
+      "numero": 35,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28b6e3abcd6d9008d1fd710ce64ec827.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/35/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40067,
+      "numero": 36,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a57c8a15e234d292c73a1b1719ef945.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/36/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40068,
+      "numero": 37,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33ba731f56849d09c6ba6947245b1df9.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/37/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40069,
+      "numero": 38,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46dae4d4627570456b79473173f92f0f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/38/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40070,
+      "numero": 39,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a26b8f9f326633958ca8bf852ff0e57.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/39/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40071,
+      "numero": 40,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_602a3d4a4c3542eef209745ec8d6fc5c.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/40/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40072,
+      "numero": 41,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b90510a6ad93ef8af036ae0a8ab5c021.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/41/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40073,
+      "numero": 42,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db793b3a1b4c40e4977207d285a5ea8a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/42/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40074,
+      "numero": 43,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac5763e3afcec01a343d31d1c6724a6d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/43/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40075,
+      "numero": 44,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd4d6182b1e45cf8b03b35ca1b100bd8.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/44/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40076,
+      "numero": 45,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8686fa633cfb5f49a0609122b9e4140b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/45/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40077,
+      "numero": 46,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6078c5a808c1d1fab2096fad001f4d0d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/46/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40078,
+      "numero": 47,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a843139328a73ad8669c791f883e9043.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/47/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40079,
+      "numero": 48,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5927ded5ff80b80a7cc7c795cb236a5f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/48/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40080,
+      "numero": 49,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ee5f18eb215ca737d06df22dd67f77b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/49/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40081,
+      "numero": 50,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48e081d443097598b231fe0f53e95fdd.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/50/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40082,
+      "numero": 51,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9d491c3a679fa8d04af485b7e82532c.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/51/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40083,
+      "numero": 52,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f4a3cce66826f215511be5c5320e23a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/52/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40084,
+      "numero": 53,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aea4b641ed399a8eeebbe438b7380975.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/53/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40085,
+      "numero": 54,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c9698c0f03b91734221692551383ed9.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/54/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40086,
+      "numero": 55,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc4166d1b1e192f650ee2d807b54c943.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/55/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40087,
+      "numero": 56,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19c2d0bfe72d7072c73323cd5c94bcc0.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/56/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40088,
+      "numero": 57,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4809f07d773c2013d584ce3ab38108f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/57/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40089,
+      "numero": 58,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4480a9b9f076fedfce83aaebc13c5368.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/58/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40090,
+      "numero": 59,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e3a41375149e55c2f2c663673b2c88e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/59/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40091,
+      "numero": 60,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5914052cda144ede98a65e45a3cf45ca.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/60/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40092,
+      "numero": 61,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6ac3520c905509347882c45adee9d06.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/61/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40093,
+      "numero": 62,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_beb405c52d26c065acc78d558251e512.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/62/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40094,
+      "numero": 63,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d334c7dfa96b5fd5cc4f23e76e8b4166.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/63/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40095,
+      "numero": 64,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3002c4f3485b1e76717e48f96e5fcbe7.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/64/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40096,
+      "numero": 65,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17e622717d2b9152f246d76f841c4cc0.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/65/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40097,
+      "numero": 66,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bfe03cfc86690d2808a0b1a9ea20d8e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/66/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40098,
+      "numero": 67,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9c46fbd9f4b5dd58e5f5b297670dc19.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/67/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40099,
+      "numero": 68,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dafefd96cadff8d26613a66af7d43a4.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/68/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40100,
+      "numero": 69,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c651b9889bb8badce3de429cf39f99f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/69/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40101,
+      "numero": 70,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14919153f8aaf3af893165510756de56.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/70/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40102,
+      "numero": 71,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9868de7d15bae3816653aa9fad6cf106.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/71/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40103,
+      "numero": 72,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd1bb6b87180689231804f4ceb383485.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/72/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40104,
+      "numero": 73,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99cc8493c2392e2b0f5d61bb0220b474.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/73/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40105,
+      "numero": 74,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f00436e3415eabeafb77ba1fe5b6f87.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/74/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40106,
+      "numero": 75,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_702f785904a60c6b8b8e5af93f9e412e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/75/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40107,
+      "numero": 76,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85b88bc0f811d78392c3f2fdc45f9ee2.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/76/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40108,
+      "numero": 77,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ffb6437e88796895205633f3ef695f66.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/77/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40109,
+      "numero": 78,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9e0ea8939615cd9008530f5f4e5e54d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/78/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40110,
+      "numero": 79,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9414f98871ac648972b33820552aec0e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/79/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40111,
+      "numero": 80,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_940d71772d450302c32285a50184fa9e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/80/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40112,
+      "numero": 81,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a874cfb0e01e3bfd6da13bb3d513c3f7.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/81/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40113,
+      "numero": 82,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a7385573f4916df503a45dcbd289845.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/82/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40114,
+      "numero": 83,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbd159e576d9b7ede8622c4fe355d50b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/83/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40115,
+      "numero": 84,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6087889ef641d40c5804fa52689c3398.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/84/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40116,
+      "numero": 85,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0b9693fffa8d35ba4d2f4c2f0340fbe.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/85/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40117,
+      "numero": 86,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbaf25e052cd493640d30c7ef9a7a003.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/86/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40118,
+      "numero": 87,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94ae76abfd4a0a692a11c54041f5c0b1.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/87/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40119,
+      "numero": 88,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82dd5a905e59accb6f62295917517991.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/88/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40120,
+      "numero": 89,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1ac05f17b46ec530353d295ff77c508.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/89/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40121,
+      "numero": 90,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e93087b5c0158b50884f9c44a535944.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/90/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40122,
+      "numero": 91,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80a777588c741a17fd957b8b989dd4c7.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/91/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40123,
+      "numero": 92,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_721884708856a1b9b60f770bbb79e790.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/92/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40124,
+      "numero": 93,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddef33a1e82f0e79190e9b09bd1797eb.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/93/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40125,
+      "numero": 94,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75520ba59230a40bbbf8659160069ea6.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/94/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40126,
+      "numero": 95,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b440cc1f36911a5256b3dc30a1d599ba.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/95/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40127,
+      "numero": 96,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f2aeb5c93e94f71e8226b1146649656.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/96/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40128,
+      "numero": 97,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3524e592e453ec8f9356efc4e6e4f6af.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/97/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40129,
+      "numero": 98,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cbac44f25cc867a81e7ec47ab95bbbf3.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/98/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40130,
+      "numero": 99,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf440032bc90a1af197dd21c81fd5b37.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/99/",
+      "publicado_en_origen": "2019-05-31 15:49:01"
+    },
+    {
+      "id_origen": 40131,
+      "numero": 100,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9dcc879795a73205c53d040d5fb1168.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/100/",
+      "publicado_en_origen": "2019-05-31 15:49:41"
+    },
+    {
+      "id_origen": 40132,
+      "numero": 101,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2436974dd1c97a19bbc99fc38204feea.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/101/",
+      "publicado_en_origen": "2019-05-31 15:49:41"
+    },
+    {
+      "id_origen": 40133,
+      "numero": 102,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ffa6292a6f801969c7c652f514514c1.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/102/",
+      "publicado_en_origen": "2019-05-31 15:49:41"
+    },
+    {
+      "id_origen": 40134,
+      "numero": 103,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aef61ec41016607a6e3a58712cbf3e8a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/103/",
+      "publicado_en_origen": "2019-05-31 15:49:41"
+    },
+    {
+      "id_origen": 40135,
+      "numero": 104,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35ae540ac24d774598bdf2bcfb3e5421.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/104/",
+      "publicado_en_origen": "2019-05-31 15:49:41"
+    },
+    {
+      "id_origen": 40171,
+      "numero": 105,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bad5d5a45e88b8b871e95acb3ea80aa0.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/105/",
+      "publicado_en_origen": "2019-06-05 13:44:14"
+    },
+    {
+      "id_origen": 40243,
+      "numero": 106,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7444aa33236c190c7e81510bedfc9f4.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/106/",
+      "publicado_en_origen": "2019-06-12 18:57:04"
+    },
+    {
+      "id_origen": 40290,
+      "numero": 107,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fafcb194af3cdf5ea3355224c6224d6f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/107/",
+      "publicado_en_origen": "2019-06-19 17:28:43"
+    },
+    {
+      "id_origen": 40393,
+      "numero": 108,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7736debbc2c6bca58345c22dd791969b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/108/",
+      "publicado_en_origen": "2019-07-03 19:33:31"
+    },
+    {
+      "id_origen": 40461,
+      "numero": 109,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4060c177970a54df8046e4f77ef3d01.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/109/",
+      "publicado_en_origen": "2019-07-10 17:46:03"
+    },
+    {
+      "id_origen": 40509,
+      "numero": 110,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65f4d68a152bcdfb558e48afafe24a0a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/110/",
+      "publicado_en_origen": "2019-07-17 18:12:27"
+    },
+    {
+      "id_origen": 40554,
+      "numero": 111,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf62e32cb3b29411cefd5d32858d815e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/111/",
+      "publicado_en_origen": "2019-07-24 13:19:10"
+    },
+    {
+      "id_origen": 40612,
+      "numero": 112,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78afc2595242c90f511a52ced9dec893.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/112/",
+      "publicado_en_origen": "2019-08-01 16:13:49"
+    },
+    {
+      "id_origen": 40655,
+      "numero": 113,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bdd928436b685295f320c3c5f46cb30f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/113/",
+      "publicado_en_origen": "2019-08-07 15:27:49"
+    },
+    {
+      "id_origen": 40702,
+      "numero": 114,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aea76ed2f98e26f9116049d0376ba275.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/114/",
+      "publicado_en_origen": "2019-08-14 13:26:29"
+    },
+    {
+      "id_origen": 40774,
+      "numero": 115,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a18902f6926472c965c9b616fddb407d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/115/",
+      "publicado_en_origen": "2019-08-21 22:45:17"
+    },
+    {
+      "id_origen": 40829,
+      "numero": 116,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dda2dd734c4c0462ae1c37edd01d5bcd.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/116/",
+      "publicado_en_origen": "2019-08-28 21:43:10"
+    },
+    {
+      "id_origen": 40880,
+      "numero": 117,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2af3050c976c65da41266c29f8274cbd.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/117/",
+      "publicado_en_origen": "2019-09-04 17:10:30"
+    },
+    {
+      "id_origen": 40927,
+      "numero": 118,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa5739b0a82f56a52dbdf64e32a969c4.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/118/",
+      "publicado_en_origen": "2019-09-11 16:30:36"
+    },
+    {
+      "id_origen": 41067,
+      "numero": 119,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_170277c92bb14228ea593cb85b2654a9.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/119/",
+      "publicado_en_origen": "2019-09-18 14:46:54"
+    },
+    {
+      "id_origen": 41122,
+      "numero": 120,
+      "titulo": "Yu☆Gi☆Oh! VRAINS - 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56a09a83344113cb847c81a3306809d5.jpg",
+      "url_origen": "https://jkanime.net/yugioh-vrains/120/",
+      "publicado_en_origen": "2019-09-25 15:16:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2440",
+  "cantidad_episodios_declarada": 120,
+  "detalle_extraido_en": "2026-08-26T18:53:50+00:00"
+}

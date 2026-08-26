@@ -1,0 +1,29 @@
+{
+  "id_origen": 819,
+  "slug": "dakara-boku-wa-h-ga-dekinai-ova",
+  "titulo": "Dakara Boku wa, H ga Dekinai. OVA",
+  "titulo_corto": "Dakara Boku wa, H ga Dekinai. ...",
+  "sinopsis": "Ova de Dakara Boku wa, H ga Dekinai, valido como episodio 13 de la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dakara-boku-wa-h-ga-dekinai-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dakara-boku-wa-h-ga-dekinai-ova/",
+  "episodios": [
+    {
+      "id_origen": 20024,
+      "numero": 1,
+      "titulo": "Dakara Boku wa, H ga Dekinai. OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b465588866e564006c1257d85e1fe609.jpg",
+      "url_origen": "https://jkanime.net/dakara-boku-wa-h-ga-dekinai-ova/1/",
+      "publicado_en_origen": "2013-04-03 14:33:41"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:03+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "819",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:19+00:00"
+}

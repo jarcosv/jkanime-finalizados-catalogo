@@ -1,0 +1,125 @@
+{
+  "id_origen": 78,
+  "slug": "paranoia-agent",
+  "titulo": "Paranoia Agent",
+  "titulo_corto": "Paranoia Agent",
+  "sinopsis": "Un fenómeno social está ocurriendo en Tokyo, que es causado por un asesino serial juvenil a quien llaman \"El chico del bate\".Él golpea a la gente para pder \"ayudarlos\", siempre es gente con problemas a la que no le gusta su vida y al final esta gente termina muriendo a causa del chico del bate. La historia gira principalmente alrededor de los detectives que están tras de él y sus víctimas, contando sus vidas privadas y como terminan siendo \"salvados\" por el chico del bate.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/paranoia-agent.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/paranoia-agent/",
+  "episodios": [
+    {
+      "id_origen": 1789,
+      "numero": 1,
+      "titulo": "Paranoia Agent 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecd62de20ea67e1c2d933d311b08178a.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/1/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1790,
+      "numero": 2,
+      "titulo": "Paranoia Agent 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d25414405eb37dae1c14b18d6a2cac34.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/2/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1791,
+      "numero": 3,
+      "titulo": "Paranoia Agent 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf201d5407a6509fa536afc4b380577e.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/3/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1792,
+      "numero": 4,
+      "titulo": "Paranoia Agent 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_052335232b11864986bb2fa20fa38748.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/4/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1793,
+      "numero": 5,
+      "titulo": "Paranoia Agent 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8cbd669cfb2f016574e9d147092b5bb.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/5/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1794,
+      "numero": 6,
+      "titulo": "Paranoia Agent 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59e0b2658e9f2e77f8d4d83f8d07ca84.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/6/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1795,
+      "numero": 7,
+      "titulo": "Paranoia Agent 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0731460a8a5ce1626210cbf4385ae0ef.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/7/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1796,
+      "numero": 8,
+      "titulo": "Paranoia Agent 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90599c8fdd2f6e7a03ad173e2f535751.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/8/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1797,
+      "numero": 9,
+      "titulo": "Paranoia Agent 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d9fc2308c8f28d2a7d2f6f48801c705.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/9/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1798,
+      "numero": 10,
+      "titulo": "Paranoia Agent 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac5dab2e99eee9cf9ec672e383691302.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/10/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1799,
+      "numero": 11,
+      "titulo": "Paranoia Agent 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0533a888904bd4867929dffd884d60b8.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/11/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1800,
+      "numero": 12,
+      "titulo": "Paranoia Agent 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f39ae9ff3a81f499230c4126e01f421b.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/12/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    },
+    {
+      "id_origen": 1801,
+      "numero": 13,
+      "titulo": "Paranoia Agent 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd14821dab219ea06e2fd1a2df2e3582.jpg",
+      "url_origen": "https://jkanime.net/paranoia-agent/13/",
+      "publicado_en_origen": "2011-07-06 10:31:21"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "78",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:41:59+00:00"
+}

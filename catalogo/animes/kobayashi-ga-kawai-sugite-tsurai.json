@@ -1,0 +1,37 @@
+{
+  "id_origen": 1162,
+  "slug": "kobayashi-ga-kawai-sugite-tsurai",
+  "titulo": "Kobayashi ga Kawai Sugite Tsurai!!",
+  "titulo_corto": "Kobayashi ga Kawai Sugite Tsur...",
+  "sinopsis": "La historia gira en torno de unos hermanos gemelos Mitauru el varon y su hermana Megumu Kobayashi que ahora están asistiendo a las escuelas secundarias de un solo sexo por separados. Un día, decidieron intercambiar lugares sin saber lo que el destino les había deparado.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kobayashi-ga-kawai-sugite-tsurai.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kobayashi-ga-kawai-sugite-tsurai/",
+  "episodios": [
+    {
+      "id_origen": 23651,
+      "numero": 1,
+      "titulo": "Kobayashi ga Kawai Sugite Tsurai!! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9ea301093a1aa4b23743e432cb0e33b.jpg",
+      "url_origen": "https://jkanime.net/kobayashi-ga-kawai-sugite-tsurai/1/",
+      "publicado_en_origen": "2014-06-03 14:05:22"
+    },
+    {
+      "id_origen": 23653,
+      "numero": 2,
+      "titulo": "Kobayashi ga Kawai Sugite Tsurai!! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3630391d291abc67bf9daec2c332829c.jpg",
+      "url_origen": "https://jkanime.net/kobayashi-ga-kawai-sugite-tsurai/2/",
+      "publicado_en_origen": "2014-06-03 14:25:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1162",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:35:12+00:00"
+}

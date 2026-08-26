@@ -1,0 +1,85 @@
+{
+  "id_origen": 3720,
+  "slug": "touken-ranbu-kai-kyoden-moyuru-honnouji",
+  "titulo": "Touken Ranbu Kai Kyoden Moyuru Honnouji",
+  "titulo_corto": "Touken Ranbu Kai Kyoden Moyuru...",
+  "sinopsis": "Adaptación al anime de la obra de teatro Touken Ranbu: Kyoden Moyuru Honnouji.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/touken-ranbu-kai-kyoden-moyuru-honnouji.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/touken-ranbu-kai-kyoden-moyuru-honnouji/",
+  "episodios": [
+    {
+      "id_origen": 56758,
+      "numero": 1,
+      "titulo": "Touken Ranbu Kai Kyoden Moyuru Honnouji - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_030263997e7afd45c6c877fea1f8f50f.jpg",
+      "url_origen": "https://jkanime.net/touken-ranbu-kai-kyoden-moyuru-honnouji/1/",
+      "publicado_en_origen": "2024-04-06 14:18:07"
+    },
+    {
+      "id_origen": 56826,
+      "numero": 2,
+      "titulo": "Touken Ranbu Kai Kyoden Moyuru Honnouji - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3dc776a2ed5bb345cfeb3c12e5dae110.jpg",
+      "url_origen": "https://jkanime.net/touken-ranbu-kai-kyoden-moyuru-honnouji/2/",
+      "publicado_en_origen": "2024-04-12 14:00:58"
+    },
+    {
+      "id_origen": 56888,
+      "numero": 3,
+      "titulo": "Touken Ranbu Kai Kyoden Moyuru Honnouji - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_245bcf0f9bf90c0481d8287c0d50e022.jpg",
+      "url_origen": "https://jkanime.net/touken-ranbu-kai-kyoden-moyuru-honnouji/3/",
+      "publicado_en_origen": "2024-04-16 12:28:40"
+    },
+    {
+      "id_origen": 56977,
+      "numero": 4,
+      "titulo": "Touken Ranbu Kai Kyoden Moyuru Honnouji - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e37932398ed8b2fda5a53483298564e1.jpg",
+      "url_origen": "https://jkanime.net/touken-ranbu-kai-kyoden-moyuru-honnouji/4/",
+      "publicado_en_origen": "2024-04-23 13:13:18"
+    },
+    {
+      "id_origen": 57061,
+      "numero": 5,
+      "titulo": "Touken Ranbu Kai Kyoden Moyuru Honnouji - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bb65cdc2ca022d15a91ca94b556ebf7.jpg",
+      "url_origen": "https://jkanime.net/touken-ranbu-kai-kyoden-moyuru-honnouji/5/",
+      "publicado_en_origen": "2024-04-30 14:31:48"
+    },
+    {
+      "id_origen": 57148,
+      "numero": 6,
+      "titulo": "Touken Ranbu Kai Kyoden Moyuru Honnouji - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d80241556d4c4827a046322bec8eb944.jpg",
+      "url_origen": "https://jkanime.net/touken-ranbu-kai-kyoden-moyuru-honnouji/6/",
+      "publicado_en_origen": "2024-05-07 11:42:48"
+    },
+    {
+      "id_origen": 57239,
+      "numero": 7,
+      "titulo": "Touken Ranbu Kai Kyoden Moyuru Honnouji - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef5a5efb0fe66036b740da0c59d75921.jpg",
+      "url_origen": "https://jkanime.net/touken-ranbu-kai-kyoden-moyuru-honnouji/7/",
+      "publicado_en_origen": "2024-05-14 14:26:06"
+    },
+    {
+      "id_origen": 57317,
+      "numero": 8,
+      "titulo": "Touken Ranbu Kai Kyoden Moyuru Honnouji - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0890c153f45fd391f0e2d1fffa1ebbd3.jpg",
+      "url_origen": "https://jkanime.net/touken-ranbu-kai-kyoden-moyuru-honnouji/8/",
+      "publicado_en_origen": "2024-05-21 14:15:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:36+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3720",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:50:00+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 997,
+  "slug": "love-live-school-idol-project-ova",
+  "titulo": "Love Live! School Idol Project OVA",
+  "titulo_corto": "Love Live! School Idol Project...",
+  "sinopsis": "Episodio incluido con el sexto single del grupo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/love-live-school-idol-project-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/love-live-school-idol-project-ova/",
+  "episodios": [
+    {
+      "id_origen": 22053,
+      "numero": 1,
+      "titulo": "Love Live! School Idol Project OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_950a8aff103afad782f73cd0a48f912a.jpg",
+      "url_origen": "https://jkanime.net/love-live-school-idol-project-ova/1/",
+      "publicado_en_origen": "2013-11-25 22:27:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "997",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:36:44+00:00"
+}

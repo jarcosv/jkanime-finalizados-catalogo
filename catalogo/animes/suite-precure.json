@@ -1,0 +1,405 @@
+{
+  "id_origen": 4164,
+  "slug": "suite-precure",
+  "titulo": "Suite Precure♪",
+  "titulo_corto": "Suite Precure♪",
+  "sinopsis": "Major Land es un colorido mundo de música donde los instrumentos y las notas cobran vida. Durante un concierto anual, Hummy, la gata cantante de la Tierra Mayor, se prepara para cantar la «Melodía de la Felicidad», capaz de propagar la felicidad a los mundos del más allá. Sin embargo, Mephisto, el rey de la Tierra Menor, interrumpe el evento y reescribe la partitura para convertirla en la «Melodía de la Tristeza», una composición disonante que, al ser interpretada, causará desesperación. Para evitar que esto ocurra, Hummy recibe el encargo de encontrar a los Precure, guerreros de renombre con una pasión sin igual por la música, y recrear la Melodía de la Felicidad.\r\n\r\nHummy llega a la ciudad de Kanon, donde viven la atleta Hibiki Houjou y la estudiosa panadera Kanade Minamino. Hibiki y Kanade, que antes eran amigas íntimas, sólo se dedican a discutir sin parar, pero desde entonces han perdido el contacto. Sus actividades se ven interrumpidas por una inoportuna invitada: la cantante de Minor Land, Siren.\r\n\r\nCuando Siren convierte un disco importante en un monstruo gigantesco, los corazones de las chicas resuenan con el deseo de proteger lo que más aprecian y las dos se transforman en la Suite Precure. Como guerreras legendarias, Hibiki y Kanade tendrán que dejar a un lado sus rencillas personales si quieren proteger la felicidad del mundo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/suite-precure.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/suite-precure/",
+  "episodios": [
+    {
+      "id_origen": 63728,
+      "numero": 1,
+      "titulo": "Suite Precure♪ - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7774afd99391fcf334870a54f643f1e1.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/1/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63729,
+      "numero": 2,
+      "titulo": "Suite Precure♪ - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7735a54b00620fd142fca0e04f174383.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/2/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63730,
+      "numero": 3,
+      "titulo": "Suite Precure♪ - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_750510050b10581786fa28178787fb5f.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/3/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63731,
+      "numero": 4,
+      "titulo": "Suite Precure♪ - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e673e34b61127cbcba0b937e954c5d0f.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/4/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63732,
+      "numero": 5,
+      "titulo": "Suite Precure♪ - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bb447bd85eae7e8d6606aa1c752bdba.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/5/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63733,
+      "numero": 6,
+      "titulo": "Suite Precure♪ - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa20a89e6423166f2873622f22fa6d89.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/6/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63734,
+      "numero": 7,
+      "titulo": "Suite Precure♪ - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0492e7a0783e46aada55a42da34c50b8.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/7/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63735,
+      "numero": 8,
+      "titulo": "Suite Precure♪ - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a0d10f8906108b09cdf3a983622206e.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/8/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63736,
+      "numero": 9,
+      "titulo": "Suite Precure♪ - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d72d585839c0cd6e3e97280463492d75.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/9/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63737,
+      "numero": 10,
+      "titulo": "Suite Precure♪ - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d377f34b541eea2191fb6c424699535.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/10/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63738,
+      "numero": 11,
+      "titulo": "Suite Precure♪ - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c50ad6d3f60f6e92cce933d1d471d92.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/11/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63739,
+      "numero": 12,
+      "titulo": "Suite Precure♪ - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5130fec3242ab9b503d4f75575759a15.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/12/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63740,
+      "numero": 13,
+      "titulo": "Suite Precure♪ - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3427aebbd8cea1df7deeeed445a685a9.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/13/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63741,
+      "numero": 14,
+      "titulo": "Suite Precure♪ - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73935ae3c9784092d835fc9ec62c0071.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/14/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63742,
+      "numero": 15,
+      "titulo": "Suite Precure♪ - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ca5d9c4ba17aad63da888e2b648378e.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/15/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63743,
+      "numero": 16,
+      "titulo": "Suite Precure♪ - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5135ce46e676f2669c30245bf22ca9b3.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/16/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63744,
+      "numero": 17,
+      "titulo": "Suite Precure♪ - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bc4d500710cdb962050ea67094d39bd.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/17/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63745,
+      "numero": 18,
+      "titulo": "Suite Precure♪ - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5341172681a6e6db74a33b893a2921da.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/18/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63746,
+      "numero": 19,
+      "titulo": "Suite Precure♪ - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_705dbf2e4d3419a7d3a35d5b3ba8a415.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/19/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63747,
+      "numero": 20,
+      "titulo": "Suite Precure♪ - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f6032e5f1c82ef865274d9c1a1bf426.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/20/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63748,
+      "numero": 21,
+      "titulo": "Suite Precure♪ - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_738b4f28539cfed837b2d2356ec1668e.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/21/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63749,
+      "numero": 22,
+      "titulo": "Suite Precure♪ - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0df54bb2538391ac87d65c769fb61db2.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/22/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63750,
+      "numero": 23,
+      "titulo": "Suite Precure♪ - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68f06c121d2b1ca40d8cf00c1ee27205.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/23/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63751,
+      "numero": 24,
+      "titulo": "Suite Precure♪ - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8723c6d0e073c7a6f7ff437b23ad54b4.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/24/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63752,
+      "numero": 25,
+      "titulo": "Suite Precure♪ - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32e526b233821ced74a494f0e9a280b6.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/25/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63753,
+      "numero": 26,
+      "titulo": "Suite Precure♪ - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_babaf400dfb7f0ce059d959a6737fa33.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/26/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63754,
+      "numero": 27,
+      "titulo": "Suite Precure♪ - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4e8cf422b993147c1c9d24780ad8aec.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/27/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63755,
+      "numero": 28,
+      "titulo": "Suite Precure♪ - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3baf577b53a871b490b60fb184d3cac7.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/28/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63756,
+      "numero": 29,
+      "titulo": "Suite Precure♪ - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fd23b71923beba59b726eb686c42a25.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/29/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63757,
+      "numero": 30,
+      "titulo": "Suite Precure♪ - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7147f488b26069eb9fde519764731732.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/30/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63758,
+      "numero": 31,
+      "titulo": "Suite Precure♪ - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab590cd9d4ba0198f5d6fb6f8789178e.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/31/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63759,
+      "numero": 32,
+      "titulo": "Suite Precure♪ - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a23b269e418371babeeec10f8de11e4.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/32/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63760,
+      "numero": 33,
+      "titulo": "Suite Precure♪ - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e71641ecd2ec3f6a8f31ac787e2c2ffd.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/33/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63761,
+      "numero": 34,
+      "titulo": "Suite Precure♪ - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_631b2b85314c76aa8d4b0a8128656f10.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/34/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63762,
+      "numero": 35,
+      "titulo": "Suite Precure♪ - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_423f2d4d7ac3deecbb34819a4420ade3.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/35/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63763,
+      "numero": 36,
+      "titulo": "Suite Precure♪ - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5727ef34ef1b3099ec6387c5dbc7b782.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/36/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63764,
+      "numero": 37,
+      "titulo": "Suite Precure♪ - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b95496949733d32b4b12aefb95bff32f.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/37/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63765,
+      "numero": 38,
+      "titulo": "Suite Precure♪ - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c750101f4b6aebde1ed66c4b175346cf.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/38/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63766,
+      "numero": 39,
+      "titulo": "Suite Precure♪ - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5355d825e6c88431ce562fc197e23c5.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/39/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63767,
+      "numero": 40,
+      "titulo": "Suite Precure♪ - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a0057a24a4a5767fe4584ecd55eda9fa.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/40/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63768,
+      "numero": 41,
+      "titulo": "Suite Precure♪ - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b75af5e3eca60557fca3efda7a8aa55.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/41/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63769,
+      "numero": 42,
+      "titulo": "Suite Precure♪ - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_327bea4f07c7ca04a848b433fbf8f4de.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/42/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63770,
+      "numero": 43,
+      "titulo": "Suite Precure♪ - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7a6a1eadc32822e6d87e119a24a86df.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/43/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63771,
+      "numero": 44,
+      "titulo": "Suite Precure♪ - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44d30094ec4d7181071a9466e5dece3a.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/44/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63772,
+      "numero": 45,
+      "titulo": "Suite Precure♪ - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c8bbba037d440a966e0399105ee9eb2.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/45/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63773,
+      "numero": 46,
+      "titulo": "Suite Precure♪ - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1895bf8b099accd1d1e4e0c7c8b793b5.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/46/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63774,
+      "numero": 47,
+      "titulo": "Suite Precure♪ - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a61cf42455d79776e3c84e033f228460.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/47/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    },
+    {
+      "id_origen": 63775,
+      "numero": 48,
+      "titulo": "Suite Precure♪ - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32f7a9f5d42bdbd9aa84a0808df2f599.jpg",
+      "url_origen": "https://jkanime.net/suite-precure/48/",
+      "publicado_en_origen": "2025-06-22 17:39:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4164",
+  "cantidad_episodios_declarada": 48,
+  "detalle_extraido_en": "2026-08-26T18:48:01+00:00"
+}

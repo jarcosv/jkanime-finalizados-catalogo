@@ -1,0 +1,85 @@
+{
+  "id_origen": 3517,
+  "slug": "pluto",
+  "titulo": "Pluto",
+  "titulo_corto": "Pluto",
+  "sinopsis": "Después del asesinato del legendario robot suizo Montblanc, famoso por su servicio militar en la 39ª Guerra Asiática, humanos y robots alrededor del mundo lamentan su pérdida. El detective robótico Gesicht, veterano de guerra como Montblanc, es enviado para investigar el crimen, descubriendo una entidad misteriosa llamada \"Pluto\" y un complot para desmantelar robots especializados que participaron en la guerra. En su lucha por preservar la coexistencia entre humanos y máquinas, Gesicht enfrenta dilemas morales y un mundo lleno de hostilidad.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pluto.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pluto/",
+  "episodios": [
+    {
+      "id_origen": 54635,
+      "numero": 1,
+      "titulo": "Pluto - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_796c9bcceb62a89d5c42f50a0830b8cb.jpg",
+      "url_origen": "https://jkanime.net/pluto/1/",
+      "publicado_en_origen": "2023-10-27 11:56:47"
+    },
+    {
+      "id_origen": 54636,
+      "numero": 2,
+      "titulo": "Pluto - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8da551a7f23b2b80ac5ada507266eaf.jpg",
+      "url_origen": "https://jkanime.net/pluto/2/",
+      "publicado_en_origen": "2023-10-26 11:56:47"
+    },
+    {
+      "id_origen": 54637,
+      "numero": 3,
+      "titulo": "Pluto - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a673ea0da4f01d0b7a8a59fff5d88f19.jpg",
+      "url_origen": "https://jkanime.net/pluto/3/",
+      "publicado_en_origen": "2023-10-26 11:56:47"
+    },
+    {
+      "id_origen": 54638,
+      "numero": 4,
+      "titulo": "Pluto - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bafffeb492cd41ddeb82f85eac380f18.jpg",
+      "url_origen": "https://jkanime.net/pluto/4/",
+      "publicado_en_origen": "2023-10-26 11:56:47"
+    },
+    {
+      "id_origen": 54639,
+      "numero": 5,
+      "titulo": "Pluto - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82f0f53bdaa0984f5240184736c34af2.jpg",
+      "url_origen": "https://jkanime.net/pluto/5/",
+      "publicado_en_origen": "2023-10-26 11:56:47"
+    },
+    {
+      "id_origen": 54640,
+      "numero": 6,
+      "titulo": "Pluto - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_029bbe48b56f0273de77ed264a2a7990.jpg",
+      "url_origen": "https://jkanime.net/pluto/6/",
+      "publicado_en_origen": "2023-10-26 11:56:47"
+    },
+    {
+      "id_origen": 54641,
+      "numero": 7,
+      "titulo": "Pluto - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa5a810ce7989eb146cdb4075044a366.jpg",
+      "url_origen": "https://jkanime.net/pluto/7/",
+      "publicado_en_origen": "2023-10-26 11:56:47"
+    },
+    {
+      "id_origen": 54642,
+      "numero": 8,
+      "titulo": "Pluto - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f4c760d9f167eb5235dcff90eb4e9cf.jpg",
+      "url_origen": "https://jkanime.net/pluto/8/",
+      "publicado_en_origen": "2023-10-27 11:56:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3517",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:42:19+00:00"
+}

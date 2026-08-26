@@ -1,0 +1,53 @@
+{
+  "id_origen": 2019,
+  "slug": "digimon-adventure-tri-4-soushitsu",
+  "titulo": "Digimon Adventure tri. 4: Soushitsu",
+  "titulo_corto": "Digimon Adventure tri. 4: Sous...",
+  "sinopsis": "Digimon Adventure tri. 4: Soushitsu Pelicula, tras el alboroto de meicoomon y el reboot, tai y el resto dejan atrás a una apenada meiko y se dirigen al mundo digital pero, una vez se reúnen con sus digimon, descubren que han perdido sus recuerdos. los niños intentan forjar nuevas conexiones otra vez, pero sólo biyomon se da cuenta de que ha perdido sus recuerdos y se lo dice a sora. la chica a pesar de que siempre piensa en los demás antes que en ella misma, ahora no sabe qué hacer. mientras sora está deprimida, tai y matt no encuentran las palabras para ayudarla.  una llorosa meicoomon aparece y vuelve a desaparecer otra vez. por alguna razón, ha conservado sus recuerdos y está buscando a meiko. tras ver a meicoomon, los niños continúan su viaje a través del mundo digital para salvarla, pero un hombre que tiene a los dark masters a sus órdenes se interpone en su camino.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/digimon-adventure-tri-4-soushitsu.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/digimon-adventure-tri-4-soushitsu/",
+  "episodios": [
+    {
+      "id_origen": 34181,
+      "numero": 1,
+      "titulo": "Digimon Adventure tri. 4: Soushitsu",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_662fe95dc915bc0b5914824513567483.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-4-soushitsu/1/",
+      "publicado_en_origen": "2017-02-24 16:18:20"
+    },
+    {
+      "id_origen": 34182,
+      "numero": 2,
+      "titulo": "Digimon Adventure tri. 4: Soushitsu",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e746882294308d42eeed71ba0aacbf8.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-4-soushitsu/2/",
+      "publicado_en_origen": "2017-02-24 16:22:06"
+    },
+    {
+      "id_origen": 34183,
+      "numero": 3,
+      "titulo": "Digimon Adventure tri. 4: Soushitsu - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25fe6badb36e64955bfe1e6c8de816aa.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-4-soushitsu/3/",
+      "publicado_en_origen": "2017-02-24 16:30:10"
+    },
+    {
+      "id_origen": 34184,
+      "numero": 4,
+      "titulo": "Digimon Adventure tri. 4: Soushitsu - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f01d4f5f8540c202397a8e6089e45119.jpg",
+      "url_origen": "https://jkanime.net/digimon-adventure-tri-4-soushitsu/4/",
+      "publicado_en_origen": "2017-02-24 16:36:59"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2019",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:05+00:00"
+}

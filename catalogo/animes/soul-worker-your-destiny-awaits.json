@@ -1,0 +1,61 @@
+{
+  "id_origen": 2491,
+  "slug": "soul-worker-your-destiny-awaits",
+  "titulo": "Soul Worker: Your Destiny Awaits",
+  "titulo_corto": "Soul Worker: Your Destiny Awai...",
+  "sinopsis": "El juego de rol en linea coreano de Lion Games, Soul Worker, esta inspirando un anime que se transmitira en línea. El editor NHN PlayArt hizo el anuncio en una conferencia de prensa que marco la finalizacion del juego. La conferencia de prensa mostro una vista previa animada y los guiones graficos para el anime.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/soul-worker-your-destiny-awaits.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/soul-worker-your-destiny-awaits/",
+  "episodios": [
+    {
+      "id_origen": 40812,
+      "numero": 1,
+      "titulo": "Soul Worker: Your Destiny Awaits - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/soul-worker-your-destiny-awaits.jpg",
+      "url_origen": "https://jkanime.net/soul-worker-your-destiny-awaits/1/",
+      "publicado_en_origen": "2019-08-26 01:47:00"
+    },
+    {
+      "id_origen": 40819,
+      "numero": 2,
+      "titulo": "Soul Worker: Your Destiny Awaits - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83736f851256ebfd392d677baefc775d.jpg",
+      "url_origen": "https://jkanime.net/soul-worker-your-destiny-awaits/2/",
+      "publicado_en_origen": "2019-08-27 01:36:20"
+    },
+    {
+      "id_origen": 40820,
+      "numero": 3,
+      "titulo": "Soul Worker: Your Destiny Awaits - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_507828c42f28e5cfc38062b67960699a.jpg",
+      "url_origen": "https://jkanime.net/soul-worker-your-destiny-awaits/3/",
+      "publicado_en_origen": "2019-08-27 01:38:24"
+    },
+    {
+      "id_origen": 40821,
+      "numero": 4,
+      "titulo": "Soul Worker: Your Destiny Awaits - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3d72af547b23265305eda666dd749f9.jpg",
+      "url_origen": "https://jkanime.net/soul-worker-your-destiny-awaits/4/",
+      "publicado_en_origen": "2019-08-27 01:40:20"
+    },
+    {
+      "id_origen": 40822,
+      "numero": 5,
+      "titulo": "Soul Worker: Your Destiny Awaits - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7f70a2ff45e44c7399bebacf3e4771d.jpg",
+      "url_origen": "https://jkanime.net/soul-worker-your-destiny-awaits/5/",
+      "publicado_en_origen": "2019-08-27 01:41:38"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:36+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2491",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:47:28+00:00"
+}

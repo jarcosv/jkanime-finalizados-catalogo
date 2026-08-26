@@ -1,0 +1,125 @@
+{
+  "id_origen": 2335,
+  "slug": "wz",
+  "titulo": "W'z",
+  "titulo_corto": "W'z",
+  "sinopsis": "Yukiya, quien tiene 14 años, pasa su tiempo como solitario DJ. Debido a la influencia de su padre, ha escuchado musica house desde que era joven y se dedica a subir videos en linea. El quiere transmitir algo a alguien. Quiere ser reconocido y ser importante. Pero lastimarse es aterrador. Un dia, mientras intenta obtener mas vistas, hace algo que no se puede deshacer. Y ve una transmision en vivo de \"ese mundo\". Yukiya cree que no puede hacer nada solo, pero que podria lograr algo si lo estuviera haciendo con otra persona.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/wz.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/wz/",
+  "episodios": [
+    {
+      "id_origen": 38623,
+      "numero": 1,
+      "titulo": "W'z - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d56aaddcafb45e8a8e01b5a76e4b2e0f.jpg",
+      "url_origen": "https://jkanime.net/wz/1/",
+      "publicado_en_origen": "2019-01-05 19:01:43"
+    },
+    {
+      "id_origen": 38666,
+      "numero": 2,
+      "titulo": "W'z - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f9148eacb7204f185be4d7ad5a68f97.jpg",
+      "url_origen": "https://jkanime.net/wz/2/",
+      "publicado_en_origen": "2019-01-14 12:49:59"
+    },
+    {
+      "id_origen": 38708,
+      "numero": 3,
+      "titulo": "W'z - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6764e7a4fe8b1d5041c4962f9cec2347.jpg",
+      "url_origen": "https://jkanime.net/wz/3/",
+      "publicado_en_origen": "2019-01-19 20:50:15"
+    },
+    {
+      "id_origen": 38777,
+      "numero": 4,
+      "titulo": "W'z - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3248c40ff051c44bdb10a7f61ef737de.jpg",
+      "url_origen": "https://jkanime.net/wz/4/",
+      "publicado_en_origen": "2019-02-03 01:31:22"
+    },
+    {
+      "id_origen": 38778,
+      "numero": 5,
+      "titulo": "W'z - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aebecc502251dd3ec108bc7350f7cca8.jpg",
+      "url_origen": "https://jkanime.net/wz/5/",
+      "publicado_en_origen": "2019-02-03 01:31:25"
+    },
+    {
+      "id_origen": 38839,
+      "numero": 6,
+      "titulo": "W'z - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c715b6e2c4d7f98d50275cf056232b73.jpg",
+      "url_origen": "https://jkanime.net/wz/6/",
+      "publicado_en_origen": "2019-02-09 16:14:28"
+    },
+    {
+      "id_origen": 38899,
+      "numero": 7,
+      "titulo": "W'z - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e896649d0a9e3d1c3936eff8b945405.jpg",
+      "url_origen": "https://jkanime.net/wz/7/",
+      "publicado_en_origen": "2019-02-16 17:12:36"
+    },
+    {
+      "id_origen": 38980,
+      "numero": 8,
+      "titulo": "W'z - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_498bf3790c922596b795a8dfa3255b56.jpg",
+      "url_origen": "https://jkanime.net/wz/8/",
+      "publicado_en_origen": "2019-02-23 16:19:05"
+    },
+    {
+      "id_origen": 39061,
+      "numero": 9,
+      "titulo": "W'z - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09e5e3e94f1a12843eb46581b1e8a881.jpg",
+      "url_origen": "https://jkanime.net/wz/9/",
+      "publicado_en_origen": "2019-03-02 16:35:33"
+    },
+    {
+      "id_origen": 39282,
+      "numero": 10,
+      "titulo": "W'z - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f37d87938938d473ff641d4781ea30c.jpg",
+      "url_origen": "https://jkanime.net/wz/10/",
+      "publicado_en_origen": "2019-03-09 16:35:25"
+    },
+    {
+      "id_origen": 39333,
+      "numero": 11,
+      "titulo": "W'z - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c76231edbba6c669c21c4f98047ba04.jpg",
+      "url_origen": "https://jkanime.net/wz/11/",
+      "publicado_en_origen": "2019-03-16 16:07:01"
+    },
+    {
+      "id_origen": 39383,
+      "numero": 12,
+      "titulo": "W'z - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d4dbf7b5778980abf44eca853674f4e9.jpg",
+      "url_origen": "https://jkanime.net/wz/12/",
+      "publicado_en_origen": "2019-03-23 18:11:55"
+    },
+    {
+      "id_origen": 39454,
+      "numero": 13,
+      "titulo": "W'z - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_123547595da482ffd2775d9a481f6b4e.jpg",
+      "url_origen": "https://jkanime.net/wz/13/",
+      "publicado_en_origen": "2019-03-30 16:17:00"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:13+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2335",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:51:39+00:00"
+}

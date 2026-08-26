@@ -1,0 +1,37 @@
+{
+  "id_origen": 840,
+  "slug": "dream-9-toriko-one-piece-dragon-ball-z-super-collaboration-special",
+  "titulo": "Toriko & One Piece & Dragon Ball Z Super Collaboration",
+  "titulo_corto": "Toriko & One Piece & Dragon Ba...",
+  "sinopsis": "Crossover Toriko & One Piece & Dragon Ball Z\n\nParte 1 : Valido como episodio 99 de Toriko\nParte 2 : Valido como episodio 590 de One Piece",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dream-9-toriko-one-piece-dragon-ball-z-super-collaboration-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dream-9-toriko-one-piece-dragon-ball-z-super-collaboration-special/",
+  "episodios": [
+    {
+      "id_origen": 20089,
+      "numero": 1,
+      "titulo": "Toriko & One Piece & Dragon Ball Z - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_489dca82b123cc23aa7500ea13028679.jpg",
+      "url_origen": "https://jkanime.net/dream-9-toriko-one-piece-dragon-ball-z-super-collaboration-special/1/",
+      "publicado_en_origen": "2013-04-09 18:11:28"
+    },
+    {
+      "id_origen": 20090,
+      "numero": 2,
+      "titulo": "Toriko & One Piece & Dragon Ball Z - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dea1b3b9a2b2e711854674823a3d3034.jpg",
+      "url_origen": "https://jkanime.net/dream-9-toriko-one-piece-dragon-ball-z-super-collaboration-special/2/",
+      "publicado_en_origen": "2013-04-10 01:20:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:03+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "840",
+  "cantidad_episodios_declarada": 0,
+  "detalle_extraido_en": "2026-08-26T18:49:59+00:00"
+}

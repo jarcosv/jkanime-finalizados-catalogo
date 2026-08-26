@@ -1,0 +1,29 @@
+{
+  "id_origen": 1084,
+  "slug": "yuusha-ni-ova",
+  "titulo": "Yuushibu OVA",
+  "titulo_corto": "Yuushibu OVA",
+  "sinopsis": "Ova incluida en el volumen 9 de la Novela Ligera valido como episodio 13 de Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-ni-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yuusha-ni-ova/",
+  "episodios": [
+    {
+      "id_origen": 22932,
+      "numero": 1,
+      "titulo": "Yuushibu OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fcd4d0ad75c6f5c4c313118ab39ee3a.jpg",
+      "url_origen": "https://jkanime.net/yuusha-ni-ova/1/",
+      "publicado_en_origen": "2014-03-11 15:52:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1084",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:53:43+00:00"
+}

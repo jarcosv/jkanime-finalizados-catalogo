@@ -1,0 +1,117 @@
+{
+  "id_origen": 1285,
+  "slug": "gugure-kokkuri-san",
+  "titulo": "Gugure! Kokkuri-san",
+  "titulo_corto": "Gugure! Kokkuri-san",
+  "sinopsis": "Basado en un manga 4-koma cómico de Midori Endo, la historia está protagonizada por Kohina, una niña pequeña que acaba invocando a un Kokkuri-san, un fantasma de bajo nivel del folclore japonés. El Kokkuri-san al que invoca es un hombre joven, guapo y de pelo blanco. Aunque al principio intenta asustar a la niña como debe, acaba preocupándose por ella y su mala costumbre de comer ramen en todas y cada una de las comidas, con lo que decide perseguirla para cuidar de ella.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gugure-kokkuri-san.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gugure-kokkuri-san/",
+  "episodios": [
+    {
+      "id_origen": 25002,
+      "numero": 1,
+      "titulo": "Gugure! Kokkuri-san - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_09d1d2fa86fbc25c85269b522d96b9a9.jpg",
+      "url_origen": "https://jkanime.net/gugure-kokkuri-san/1/",
+      "publicado_en_origen": "2014-10-05 14:13:00"
+    },
+    {
+      "id_origen": 25069,
+      "numero": 2,
+      "titulo": "Gugure! Kokkuri-san - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b17b1ffea01fd9acd1dd69b73e5353ea.jpg",
+      "url_origen": "https://jkanime.net/gugure-kokkuri-san/2/",
+      "publicado_en_origen": "2014-10-12 14:11:32"
+    },
+    {
+      "id_origen": 25141,
+      "numero": 3,
+      "titulo": "Gugure! Kokkuri-san - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b7127c966fa2dc3e83d3c9651e9d9b6.jpg",
+      "url_origen": "https://jkanime.net/gugure-kokkuri-san/3/",
+      "publicado_en_origen": "2014-10-19 14:25:25"
+    },
+    {
+      "id_origen": 25209,
+      "numero": 4,
+      "titulo": "Gugure! Kokkuri-san - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4abd325e59c9705044764303dc5845b0.jpg",
+      "url_origen": "https://jkanime.net/gugure-kokkuri-san/4/",
+      "publicado_en_origen": "2014-10-26 14:12:13"
+    },
+    {
+      "id_origen": 25284,
+      "numero": 5,
+      "titulo": "Gugure! Kokkuri-san - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f331db13ff819dd8efd8319b48f4a66c.jpg",
+      "url_origen": "https://jkanime.net/gugure-kokkuri-san/5/",
+      "publicado_en_origen": "2014-11-02 15:12:22"
+    },
+    {
+      "id_origen": 25354,
+      "numero": 6,
+      "titulo": "Gugure! Kokkuri-san - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3f9998b6447338a54eeefb1c51ce567.jpg",
+      "url_origen": "https://jkanime.net/gugure-kokkuri-san/6/",
+      "publicado_en_origen": "2014-11-09 15:13:30"
+    },
+    {
+      "id_origen": 25457,
+      "numero": 7,
+      "titulo": "Gugure! Kokkuri-san - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ff71cb9ff680b22c23a9ec4c0cce7da.jpg",
+      "url_origen": "https://jkanime.net/gugure-kokkuri-san/7/",
+      "publicado_en_origen": "2014-11-16 15:09:41"
+    },
+    {
+      "id_origen": 25548,
+      "numero": 8,
+      "titulo": "Gugure! Kokkuri-san - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69f6ef340da897006b00ad596a68abcd.jpg",
+      "url_origen": "https://jkanime.net/gugure-kokkuri-san/8/",
+      "publicado_en_origen": "2014-11-23 15:17:42"
+    },
+    {
+      "id_origen": 25625,
+      "numero": 9,
+      "titulo": "Gugure! Kokkuri-san - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a8e9d1cf3ee0af0e6526059e1ac59d1.jpg",
+      "url_origen": "https://jkanime.net/gugure-kokkuri-san/9/",
+      "publicado_en_origen": "2014-11-30 15:12:26"
+    },
+    {
+      "id_origen": 25711,
+      "numero": 10,
+      "titulo": "Gugure! Kokkuri-san - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef0e1d56faee5d1938febf0bfdcb8d3f.jpg",
+      "url_origen": "https://jkanime.net/gugure-kokkuri-san/10/",
+      "publicado_en_origen": "2014-12-07 16:47:43"
+    },
+    {
+      "id_origen": 25813,
+      "numero": 11,
+      "titulo": "Gugure! Kokkuri-san - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5984218cfd32f9a6c602f45b965d2ef.jpg",
+      "url_origen": "https://jkanime.net/gugure-kokkuri-san/11/",
+      "publicado_en_origen": "2014-12-14 15:11:50"
+    },
+    {
+      "id_origen": 25921,
+      "numero": 12,
+      "titulo": "Gugure! Kokkuri-san - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df1905b6bb98cfe9051aab8204296b44.jpg",
+      "url_origen": "https://jkanime.net/gugure-kokkuri-san/12/",
+      "publicado_en_origen": "2014-12-21 15:17:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1285",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:29:10+00:00"
+}

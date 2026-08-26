@@ -1,0 +1,37 @@
+{
+  "id_origen": 1564,
+  "slug": "nanatsu-no-taizai-ova",
+  "titulo": "Nanatsu no Taizai OVA",
+  "titulo_corto": "Nanatsu no Taizai OVA",
+  "sinopsis": "OVAs incluidas con el volumen 15 y 16 del manga.\n\nOVA1 - Nanatsu no Taizai: Ban no Bangai-hen: El pecado de la codicia como personaje principal.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nanatsu-no-taizai-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nanatsu-no-taizai-ova/",
+  "episodios": [
+    {
+      "id_origen": 28464,
+      "numero": 1,
+      "titulo": "Nanatsu no Taizai OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_add899414cf1cb01b7c3316db9310a09.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-taizai-ova/1/",
+      "publicado_en_origen": "2015-06-17 13:32:51"
+    },
+    {
+      "id_origen": 28993,
+      "numero": 2,
+      "titulo": "Nanatsu no Taizai OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4431fbd60ca4a4e72238472ebb7c421.jpg",
+      "url_origen": "https://jkanime.net/nanatsu-no-taizai-ova/2/",
+      "publicado_en_origen": "2015-08-13 20:13:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1564",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:39:43+00:00"
+}

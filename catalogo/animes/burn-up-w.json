@@ -1,0 +1,53 @@
+{
+  "id_origen": 4318,
+  "slug": "burn-up-w",
+  "titulo": "Burn Up! W",
+  "titulo_corto": "Burn Up! W",
+  "sinopsis": "Cuando el crimen y el terrorismo se descontrolan en Tokio, la policía despliega al Equipo Guerrero, un grupo de mujeres policías altamente cualificadas y completamente temerarias. Con la imprevisible Rio, la impulsiva Maya y la experta hacker Lilica, el Equipo Guerrero cumplirá su misión, independientemente del presupuesto de la misma.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/burn-up-w.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/burn-up-w/",
+  "episodios": [
+    {
+      "id_origen": 66626,
+      "numero": 1,
+      "titulo": "Burn Up! W - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_859e16735647311000de2bade3e6909d.jpg",
+      "url_origen": "https://jkanime.net/burn-up-w/1/",
+      "publicado_en_origen": "2025-08-14 20:16:37"
+    },
+    {
+      "id_origen": 66627,
+      "numero": 2,
+      "titulo": "Burn Up! W - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ca1a339dd8f0de84a820c2f6ab1d824.jpg",
+      "url_origen": "https://jkanime.net/burn-up-w/2/",
+      "publicado_en_origen": "2025-08-14 20:16:37"
+    },
+    {
+      "id_origen": 66628,
+      "numero": 3,
+      "titulo": "Burn Up! W - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b70faaeff28a7fcb2edd47ba9099f43.jpg",
+      "url_origen": "https://jkanime.net/burn-up-w/3/",
+      "publicado_en_origen": "2025-08-14 20:16:37"
+    },
+    {
+      "id_origen": 66629,
+      "numero": 4,
+      "titulo": "Burn Up! W - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bdc7747f7b7af4ead47366ccbfabe2f.jpg",
+      "url_origen": "https://jkanime.net/burn-up-w/4/",
+      "publicado_en_origen": "2025-08-14 20:16:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4318",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:22:14+00:00"
+}

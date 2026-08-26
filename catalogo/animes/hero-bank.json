@@ -1,0 +1,429 @@
+{
+  "id_origen": 1146,
+  "slug": "hero-bank",
+  "titulo": "Hero Bank",
+  "titulo_corto": "Hero Bank",
+  "sinopsis": "Adaptacion Anime del juego de Nintendo 3DS.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hero-bank.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hero-bank/",
+  "episodios": [
+    {
+      "id_origen": 23237,
+      "numero": 1,
+      "titulo": "Hero Bank - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b44935b0197276d34abb43e13153efc5.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/1/",
+      "publicado_en_origen": "2014-04-17 20:13:38"
+    },
+    {
+      "id_origen": 23238,
+      "numero": 2,
+      "titulo": "Hero Bank - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc0a565de8ec1b879c64056a6124e6ff.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/2/",
+      "publicado_en_origen": "2014-04-17 21:34:28"
+    },
+    {
+      "id_origen": 23343,
+      "numero": 3,
+      "titulo": "Hero Bank - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38b8e8fe30cd2f6f7e79f6be6905fabb.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/3/",
+      "publicado_en_origen": "2014-04-27 17:51:48"
+    },
+    {
+      "id_origen": 23391,
+      "numero": 4,
+      "titulo": "Hero Bank - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c70a586e24e85c37424a19296bad06f7.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/4/",
+      "publicado_en_origen": "2014-05-03 13:57:46"
+    },
+    {
+      "id_origen": 23452,
+      "numero": 5,
+      "titulo": "Hero Bank - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0b9c7828b267d70641098732aaca656.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/5/",
+      "publicado_en_origen": "2014-05-10 16:17:37"
+    },
+    {
+      "id_origen": 23526,
+      "numero": 6,
+      "titulo": "Hero Bank - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd26c6a5924c3aaea8dd03827df9a4e7.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/6/",
+      "publicado_en_origen": "2014-05-19 17:48:57"
+    },
+    {
+      "id_origen": 23555,
+      "numero": 7,
+      "titulo": "Hero Bank - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbc6b5820361c8821a48b26843548b34.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/7/",
+      "publicado_en_origen": "2014-05-23 17:43:36"
+    },
+    {
+      "id_origen": 23629,
+      "numero": 8,
+      "titulo": "Hero Bank - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f90bf0094b4d5585ba7bf466e6b90fd.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/8/",
+      "publicado_en_origen": "2014-05-31 19:58:05"
+    },
+    {
+      "id_origen": 23676,
+      "numero": 9,
+      "titulo": "Hero Bank - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b37b55cfd264be85453811ac5df63760.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/9/",
+      "publicado_en_origen": "2014-06-06 17:31:39"
+    },
+    {
+      "id_origen": 23759,
+      "numero": 10,
+      "titulo": "Hero Bank - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d9a3e519c394e52e45c7dab97557ccc.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/10/",
+      "publicado_en_origen": "2014-06-16 16:28:29"
+    },
+    {
+      "id_origen": 23826,
+      "numero": 11,
+      "titulo": "Hero Bank - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2b59155b6c9e8753f967f42ea5a4d3e.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/11/",
+      "publicado_en_origen": "2014-06-25 15:08:34"
+    },
+    {
+      "id_origen": 23866,
+      "numero": 12,
+      "titulo": "Hero Bank - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75194bcd73e801e52d3937040b1067c8.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/12/",
+      "publicado_en_origen": "2014-07-01 19:10:14"
+    },
+    {
+      "id_origen": 23934,
+      "numero": 13,
+      "titulo": "Hero Bank - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69516965caa2e105770f453ad70d0254.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/13/",
+      "publicado_en_origen": "2014-07-07 17:05:08"
+    },
+    {
+      "id_origen": 23995,
+      "numero": 14,
+      "titulo": "Hero Bank - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de24e1cb8921280596f82fe71298847e.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/14/",
+      "publicado_en_origen": "2014-07-14 16:03:39"
+    },
+    {
+      "id_origen": 24112,
+      "numero": 15,
+      "titulo": "Hero Bank - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0b9fd6b0c3ecc593dc48a5f639d6b49.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/15/",
+      "publicado_en_origen": "2014-07-27 16:38:47"
+    },
+    {
+      "id_origen": 24148,
+      "numero": 16,
+      "titulo": "Hero Bank - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cf7fbdf88b8e8dc6f99b975754493e4.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/16/",
+      "publicado_en_origen": "2014-07-31 15:03:02"
+    },
+    {
+      "id_origen": 24254,
+      "numero": 17,
+      "titulo": "Hero Bank - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f14b58e9a94401142accfdb75947a361.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/17/",
+      "publicado_en_origen": "2014-08-09 12:54:18"
+    },
+    {
+      "id_origen": 24442,
+      "numero": 18,
+      "titulo": "Hero Bank - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_783efccaaa732b206beec7bf11885866.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/18/",
+      "publicado_en_origen": "2014-08-15 16:05:33"
+    },
+    {
+      "id_origen": 24533,
+      "numero": 19,
+      "titulo": "Hero Bank - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8f37e5d946dd3d2c1fdb4c9e0bf7b27.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/19/",
+      "publicado_en_origen": "2014-08-24 12:41:35"
+    },
+    {
+      "id_origen": 24602,
+      "numero": 20,
+      "titulo": "Hero Bank - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9f68494b83211ff09f2918a8f14510e6.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/20/",
+      "publicado_en_origen": "2014-08-31 19:10:07"
+    },
+    {
+      "id_origen": 24620,
+      "numero": 21,
+      "titulo": "Hero Bank - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd26f45f0e6f848d617be1f744c91f94.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/21/",
+      "publicado_en_origen": "2014-09-02 15:14:45"
+    },
+    {
+      "id_origen": 24711,
+      "numero": 22,
+      "titulo": "Hero Bank - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb36e395b063bec9205952807471e86a.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/22/",
+      "publicado_en_origen": "2014-09-08 23:14:42"
+    },
+    {
+      "id_origen": 24796,
+      "numero": 23,
+      "titulo": "Hero Bank - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c5304360ee8740ee303cf7c0339f0ca.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/23/",
+      "publicado_en_origen": "2014-09-18 11:46:17"
+    },
+    {
+      "id_origen": 24938,
+      "numero": 24,
+      "titulo": "Hero Bank - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d830f71ff178b3698996fb6614751c91.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/24/",
+      "publicado_en_origen": "2014-09-28 07:41:47"
+    },
+    {
+      "id_origen": 24958,
+      "numero": 25,
+      "titulo": "Hero Bank - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c2a685b97edf0e75fd9df1c075cd379.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/25/",
+      "publicado_en_origen": "2014-09-30 13:03:37"
+    },
+    {
+      "id_origen": 24970,
+      "numero": 26,
+      "titulo": "Hero Bank - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3e725d3b7d2339c41bb28ff92e8635d.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/26/",
+      "publicado_en_origen": "2014-10-02 12:14:02"
+    },
+    {
+      "id_origen": 25072,
+      "numero": 27,
+      "titulo": "Hero Bank - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99bc147ed9068c9f2dbfc242373977eb.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/27/",
+      "publicado_en_origen": "2014-10-12 20:40:22"
+    },
+    {
+      "id_origen": 25539,
+      "numero": 28,
+      "titulo": "Hero Bank - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5683495c01530bccb72168dc75a983f1.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/28/",
+      "publicado_en_origen": "2014-11-23 11:03:27"
+    },
+    {
+      "id_origen": 25691,
+      "numero": 29,
+      "titulo": "Hero Bank - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_31c997594c6f968e8807c0c528c2dd13.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/29/",
+      "publicado_en_origen": "2014-12-06 11:32:40"
+    },
+    {
+      "id_origen": 25797,
+      "numero": 30,
+      "titulo": "Hero Bank - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_886cd7085251dca77405cec968dcbd45.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/30/",
+      "publicado_en_origen": "2014-12-13 14:52:38"
+    },
+    {
+      "id_origen": 26031,
+      "numero": 31,
+      "titulo": "Hero Bank - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f670becb6af62308cdbe9f5c6c741855.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/31/",
+      "publicado_en_origen": "2014-12-28 13:55:59"
+    },
+    {
+      "id_origen": 26176,
+      "numero": 32,
+      "titulo": "Hero Bank - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f702ad17879bf0f827cdd740da7fb1df.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/32/",
+      "publicado_en_origen": "2014-12-31 05:59:49"
+    },
+    {
+      "id_origen": 27343,
+      "numero": 33,
+      "titulo": "Hero Bank - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f96deab8492784c8680a7caa2872f5e.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/33/",
+      "publicado_en_origen": "2015-03-30 22:15:12"
+    },
+    {
+      "id_origen": 27347,
+      "numero": 34,
+      "titulo": "Hero Bank - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77d4b4ac72855455f810c0f47f74d9da.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/34/",
+      "publicado_en_origen": "2015-04-01 08:28:27"
+    },
+    {
+      "id_origen": 27552,
+      "numero": 35,
+      "titulo": "Hero Bank - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2af9b1a840b4ecd522fe1cda88c8385e.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/35/",
+      "publicado_en_origen": "2015-04-21 22:05:14"
+    },
+    {
+      "id_origen": 27553,
+      "numero": 36,
+      "titulo": "Hero Bank - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ff4529fe221eba7d79ce74b59d91e60.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/36/",
+      "publicado_en_origen": "2015-04-21 22:11:18"
+    },
+    {
+      "id_origen": 27587,
+      "numero": 37,
+      "titulo": "Hero Bank - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c7dcef4ea90b05c642db06b3c128dfc.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/37/",
+      "publicado_en_origen": "2015-04-25 10:40:51"
+    },
+    {
+      "id_origen": 27674,
+      "numero": 38,
+      "titulo": "Hero Bank - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18f16de5c7012d9ab4e5de2a0dcb829b.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/38/",
+      "publicado_en_origen": "2015-05-03 19:28:26"
+    },
+    {
+      "id_origen": 27708,
+      "numero": 39,
+      "titulo": "Hero Bank - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80dcdb9cf644bba63464a2795f93a562.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/39/",
+      "publicado_en_origen": "2015-05-08 23:37:53"
+    },
+    {
+      "id_origen": 27861,
+      "numero": 40,
+      "titulo": "Hero Bank - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04b01177431497d8545941c662c2a3a6.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/40/",
+      "publicado_en_origen": "2015-05-24 18:08:58"
+    },
+    {
+      "id_origen": 27923,
+      "numero": 41,
+      "titulo": "Hero Bank - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbe9ec51f2a0539841646940865085c8.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/41/",
+      "publicado_en_origen": "2015-05-31 17:20:07"
+    },
+    {
+      "id_origen": 27934,
+      "numero": 42,
+      "titulo": "Hero Bank - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a4f2a43162106f67b1d40af656e4f5c.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/42/",
+      "publicado_en_origen": "2015-06-02 21:57:36"
+    },
+    {
+      "id_origen": 27991,
+      "numero": 43,
+      "titulo": "Hero Bank - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cd9b9a23d1c08707a723b56062a502f.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/43/",
+      "publicado_en_origen": "2015-06-09 16:15:17"
+    },
+    {
+      "id_origen": 28538,
+      "numero": 44,
+      "titulo": "Hero Bank - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9df811bc0ec3cd1b8ce8e8f1bab30be4.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/44/",
+      "publicado_en_origen": "2015-06-22 19:18:53"
+    },
+    {
+      "id_origen": 28638,
+      "numero": 45,
+      "titulo": "Hero Bank - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41eed75111d927aa8cce63e2757c100d.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/45/",
+      "publicado_en_origen": "2015-07-05 21:15:58"
+    },
+    {
+      "id_origen": 28700,
+      "numero": 46,
+      "titulo": "Hero Bank - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_851e8eaf4988ed55c3d335ea8d5ed61b.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/46/",
+      "publicado_en_origen": "2015-07-13 00:36:00"
+    },
+    {
+      "id_origen": 28769,
+      "numero": 47,
+      "titulo": "Hero Bank - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_801ebb19f5827eacf5682802ce3ea179.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/47/",
+      "publicado_en_origen": "2015-07-19 22:30:35"
+    },
+    {
+      "id_origen": 28780,
+      "numero": 48,
+      "titulo": "Hero Bank - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c40de21f3a2cbf872822c2621b715908.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/48/",
+      "publicado_en_origen": "2015-07-20 17:57:30"
+    },
+    {
+      "id_origen": 28793,
+      "numero": 49,
+      "titulo": "Hero Bank - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0107acb41ef20db2289d261d4e34fd38.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/49/",
+      "publicado_en_origen": "2015-07-22 21:22:56"
+    },
+    {
+      "id_origen": 28830,
+      "numero": 50,
+      "titulo": "Hero Bank - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fde55bef5c7d6089249126006e338dd.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/50/",
+      "publicado_en_origen": "2015-07-25 22:14:10"
+    },
+    {
+      "id_origen": 28833,
+      "numero": 51,
+      "titulo": "Hero Bank - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_056eefc046d1bad46f1cb5dac528f1e8.jpg",
+      "url_origen": "https://jkanime.net/hero-bank/51/",
+      "publicado_en_origen": "2015-07-26 05:45:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1146",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:30:18+00:00"
+}

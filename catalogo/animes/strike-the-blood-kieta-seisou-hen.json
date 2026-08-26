@@ -1,0 +1,29 @@
+{
+  "id_origen": 2608,
+  "slug": "strike-the-blood-kieta-seisou-hen",
+  "titulo": "Strike the Blood: Kieta Seisou-hen",
+  "titulo_corto": "Strike the Blood: Kieta Seisou...",
+  "sinopsis": "Strike the Blood: Kieta Seisou-hen",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/strike-the-blood-kieta-seisou-hen.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/strike-the-blood-kieta-seisou-hen/",
+  "episodios": [
+    {
+      "id_origen": 42045,
+      "numero": 1,
+      "titulo": "Strike the Blood: Kieta Seisou-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc649336067d9c3eec99d6e9657c2e1a.jpg",
+      "url_origen": "https://jkanime.net/strike-the-blood-kieta-seisou-hen/1/",
+      "publicado_en_origen": "2020-01-28 20:16:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2608",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:53+00:00"
+}

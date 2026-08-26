@@ -1,0 +1,29 @@
+{
+  "id_origen": 1472,
+  "slug": "new-initial-d-movie-legend-1-kakusei",
+  "titulo": "New Initial D Movie: Legend 1 - Kakusei",
+  "titulo_corto": "New Initial D Movie: Legend 1 ...",
+  "sinopsis": "La primera pelicula en la trilogia, enfocada a la batalla contra los hermanos Takahashi.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/new-initial-d-movie-legend-1-kakusei.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/new-initial-d-movie-legend-1-kakusei/",
+  "episodios": [
+    {
+      "id_origen": 27231,
+      "numero": 1,
+      "titulo": "New Initial D Movie: Legend 1 - Kakusei",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a3989037ec79ff52a7c83c330874a5c.jpg",
+      "url_origen": "https://jkanime.net/new-initial-d-movie-legend-1-kakusei/1/",
+      "publicado_en_origen": "2015-03-26 11:56:24"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1472",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:18+00:00"
+}

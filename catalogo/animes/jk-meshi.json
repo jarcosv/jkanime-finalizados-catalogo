@@ -1,0 +1,229 @@
+{
+  "id_origen": 1672,
+  "slug": "jk-meshi",
+  "titulo": "JK Meshi!",
+  "titulo_corto": "JK Meshi!",
+  "sinopsis": "En esta serie podremos ver como tres jóvenes estudiantes de instituto descubren y exploran el mundo de la cocina.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/jk-meshi.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/jk-meshi/",
+  "episodios": [
+    {
+      "id_origen": 29726,
+      "numero": 1,
+      "titulo": "JK Meshi! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e9f086b776d10c51ad89ed3c61f9329.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/1/",
+      "publicado_en_origen": "2015-10-05 12:36:10"
+    },
+    {
+      "id_origen": 29796,
+      "numero": 2,
+      "titulo": "JK Meshi! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81c83933ca039e756f2b0d69ebaa38ba.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/2/",
+      "publicado_en_origen": "2015-10-12 12:40:26"
+    },
+    {
+      "id_origen": 29860,
+      "numero": 3,
+      "titulo": "JK Meshi! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45af559f3798063d200ffcd455f90e5f.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/3/",
+      "publicado_en_origen": "2015-10-19 12:39:05"
+    },
+    {
+      "id_origen": 29922,
+      "numero": 4,
+      "titulo": "JK Meshi! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cef73ce6eae212e5db48e62f609243e9.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/4/",
+      "publicado_en_origen": "2015-10-26 12:39:56"
+    },
+    {
+      "id_origen": 29989,
+      "numero": 5,
+      "titulo": "JK Meshi! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0384691e7d566f12edd845ac862bd928.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/5/",
+      "publicado_en_origen": "2015-11-02 15:41:10"
+    },
+    {
+      "id_origen": 30100,
+      "numero": 6,
+      "titulo": "JK Meshi! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32472eb6885a55919e517965fddd2d74.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/6/",
+      "publicado_en_origen": "2015-11-16 13:51:00"
+    },
+    {
+      "id_origen": 30101,
+      "numero": 7,
+      "titulo": "JK Meshi! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ec937378ea08e49faa1a6608880d002.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/7/",
+      "publicado_en_origen": "2015-11-16 13:55:05"
+    },
+    {
+      "id_origen": 30163,
+      "numero": 8,
+      "titulo": "JK Meshi! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e85ca00d008a532279b798033d59a4c7.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/8/",
+      "publicado_en_origen": "2015-11-23 13:45:18"
+    },
+    {
+      "id_origen": 30228,
+      "numero": 9,
+      "titulo": "JK Meshi! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2fd3d57e43d80a5df90a90a0da3bbf8.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/9/",
+      "publicado_en_origen": "2015-11-30 13:42:10"
+    },
+    {
+      "id_origen": 30290,
+      "numero": 10,
+      "titulo": "JK Meshi! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0f4d7c0453ad5d27b69eba851357a31.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/10/",
+      "publicado_en_origen": "2015-12-07 13:48:02"
+    },
+    {
+      "id_origen": 30349,
+      "numero": 11,
+      "titulo": "JK Meshi! - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5646dfcf5046a6c1b4014ee53d9d614d.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/11/",
+      "publicado_en_origen": "2015-12-14 13:41:19"
+    },
+    {
+      "id_origen": 30405,
+      "numero": 12,
+      "titulo": "JK Meshi! - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6c439226a0bde3e060ac5ce39b7d0f2.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/12/",
+      "publicado_en_origen": "2015-12-21 20:04:10"
+    },
+    {
+      "id_origen": 30467,
+      "numero": 13,
+      "titulo": "JK Meshi! - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41ba1eaf157e7afc806e65229667f255.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/13/",
+      "publicado_en_origen": "2015-12-28 17:15:12"
+    },
+    {
+      "id_origen": 30484,
+      "numero": 14,
+      "titulo": "JK Meshi! - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_991eadc4a0783c27d2ef14ba5924c651.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/14/",
+      "publicado_en_origen": "2016-01-04 22:29:55"
+    },
+    {
+      "id_origen": 30547,
+      "numero": 15,
+      "titulo": "JK Meshi! - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_236a4be2466a2054e4d84a3126eccbda.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/15/",
+      "publicado_en_origen": "2016-01-11 14:42:55"
+    },
+    {
+      "id_origen": 30606,
+      "numero": 16,
+      "titulo": "JK Meshi! - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7322c71e66f72ebb1cf52d9a6abc90ca.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/16/",
+      "publicado_en_origen": "2016-01-18 14:39:53"
+    },
+    {
+      "id_origen": 30666,
+      "numero": 17,
+      "titulo": "JK Meshi! - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6eab0ae583645029c67f0c234c532874.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/17/",
+      "publicado_en_origen": "2016-01-25 14:40:31"
+    },
+    {
+      "id_origen": 30734,
+      "numero": 18,
+      "titulo": "JK Meshi! - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_67f3a8a7347963d3c9d0622417ad0885.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/18/",
+      "publicado_en_origen": "2016-02-01 14:41:11"
+    },
+    {
+      "id_origen": 30791,
+      "numero": 19,
+      "titulo": "JK Meshi! - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa42c2df2fc8063cd98aa32937c4bdd4.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/19/",
+      "publicado_en_origen": "2016-02-08 17:27:16"
+    },
+    {
+      "id_origen": 30852,
+      "numero": 20,
+      "titulo": "JK Meshi! - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97bf6036e7669246dad4e84d1abec531.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/20/",
+      "publicado_en_origen": "2016-02-15 17:35:47"
+    },
+    {
+      "id_origen": 30912,
+      "numero": 21,
+      "titulo": "JK Meshi! - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9554b1e815bd9412c45cf4cc459288bc.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/21/",
+      "publicado_en_origen": "2016-02-22 17:27:14"
+    },
+    {
+      "id_origen": 30980,
+      "numero": 22,
+      "titulo": "JK Meshi! - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b54f0f8b3b75a8b7486c9adedf28f361.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/22/",
+      "publicado_en_origen": "2016-02-29 17:19:34"
+    },
+    {
+      "id_origen": 31055,
+      "numero": 23,
+      "titulo": "JK Meshi! - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1458e84a7f1a80984de07508b68237d8.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/23/",
+      "publicado_en_origen": "2016-03-07 17:13:38"
+    },
+    {
+      "id_origen": 31115,
+      "numero": 24,
+      "titulo": "JK Meshi! - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c872b22bc2ece6de7deafc6b5982b960.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/24/",
+      "publicado_en_origen": "2016-03-14 16:46:15"
+    },
+    {
+      "id_origen": 31175,
+      "numero": 25,
+      "titulo": "JK Meshi! - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5796f99c5d3c7bac8c90cc042869a7ea.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/25/",
+      "publicado_en_origen": "2016-03-21 16:22:47"
+    },
+    {
+      "id_origen": 31238,
+      "numero": 26,
+      "titulo": "JK Meshi! - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c4aa2205676a162ba900d37ea48e67d.jpg",
+      "url_origen": "https://jkanime.net/jk-meshi/26/",
+      "publicado_en_origen": "2016-03-28 16:11:37"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:40+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1672",
+  "cantidad_episodios_declarada": 26,
+  "detalle_extraido_en": "2026-08-26T18:32:52+00:00"
+}

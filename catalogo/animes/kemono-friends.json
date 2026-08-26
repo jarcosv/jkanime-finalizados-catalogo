@@ -1,0 +1,117 @@
+{
+  "id_origen": 2004,
+  "slug": "kemono-friends",
+  "titulo": "Kemono Friends",
+  "titulo_corto": "Kemono Friends",
+  "sinopsis": "En Japan Park, un zoológico gigante integrado, los animales han empezado a transformarse en criaturas de forma humanoide llamadas Chicas Animales debido a una misteriosa sustancia llamada polvo estelar. \n\nJapan Park es un lugar que visita mucha gente cada día, y uno de estos un niño se pierde y, tratando de regresar, se encuentra con tantas Chicas Animales que lo que empezó siendo un regreso acaba siendo una gran aventura.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kemono-friends.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kemono-friends/",
+  "episodios": [
+    {
+      "id_origen": 33824,
+      "numero": 1,
+      "titulo": "Kemono Friends - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df7873436717ca95cfa5e585b5ac4a61.jpg",
+      "url_origen": "https://jkanime.net/kemono-friends/1/",
+      "publicado_en_origen": "2017-01-10 17:44:20"
+    },
+    {
+      "id_origen": 33880,
+      "numero": 2,
+      "titulo": "Kemono Friends - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df8db2b0cd357a89d5e723c746d1e21b.jpg",
+      "url_origen": "https://jkanime.net/kemono-friends/2/",
+      "publicado_en_origen": "2017-01-17 17:45:55"
+    },
+    {
+      "id_origen": 33936,
+      "numero": 3,
+      "titulo": "Kemono Friends - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72b8ade48bd53ac615b67923ece11593.jpg",
+      "url_origen": "https://jkanime.net/kemono-friends/3/",
+      "publicado_en_origen": "2017-01-24 17:46:49"
+    },
+    {
+      "id_origen": 33993,
+      "numero": 4,
+      "titulo": "Kemono Friends - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1690bccd010b308cd33989d3819ed96a.jpg",
+      "url_origen": "https://jkanime.net/kemono-friends/4/",
+      "publicado_en_origen": "2017-01-31 17:56:05"
+    },
+    {
+      "id_origen": 34049,
+      "numero": 5,
+      "titulo": "Kemono Friends - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b82e5326a49df7fc5bb45cc1f8b1a2a.jpg",
+      "url_origen": "https://jkanime.net/kemono-friends/5/",
+      "publicado_en_origen": "2017-02-07 17:47:08"
+    },
+    {
+      "id_origen": 34105,
+      "numero": 6,
+      "titulo": "Kemono Friends - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab825f4ecaf706f0afcc36cfc006717b.jpg",
+      "url_origen": "https://jkanime.net/kemono-friends/6/",
+      "publicado_en_origen": "2017-02-14 17:46:46"
+    },
+    {
+      "id_origen": 34158,
+      "numero": 7,
+      "titulo": "Kemono Friends - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_069904b9b439262363b2d44406e1276c.jpg",
+      "url_origen": "https://jkanime.net/kemono-friends/7/",
+      "publicado_en_origen": "2017-02-21 18:00:53"
+    },
+    {
+      "id_origen": 34224,
+      "numero": 8,
+      "titulo": "Kemono Friends - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94ae78261adc94a727c0a99edd823f7d.jpg",
+      "url_origen": "https://jkanime.net/kemono-friends/8/",
+      "publicado_en_origen": "2017-02-28 17:51:01"
+    },
+    {
+      "id_origen": 34279,
+      "numero": 9,
+      "titulo": "Kemono Friends - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78fae49d26eda3e6a828cb07e659acad.jpg",
+      "url_origen": "https://jkanime.net/kemono-friends/9/",
+      "publicado_en_origen": "2017-03-07 18:15:33"
+    },
+    {
+      "id_origen": 34339,
+      "numero": 10,
+      "titulo": "Kemono Friends - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_562eec4ba9b07078010e6d03345f031f.jpg",
+      "url_origen": "https://jkanime.net/kemono-friends/10/",
+      "publicado_en_origen": "2017-03-14 18:36:35"
+    },
+    {
+      "id_origen": 34391,
+      "numero": 11,
+      "titulo": "Kemono Friends - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a12488a1e9d664c3dc0832ee94b67c5.jpg",
+      "url_origen": "https://jkanime.net/kemono-friends/11/",
+      "publicado_en_origen": "2017-03-21 16:50:50"
+    },
+    {
+      "id_origen": 34439,
+      "numero": 12,
+      "titulo": "Kemono Friends - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0668a01b2098b4335c37c1a1ac0dd71a.jpg",
+      "url_origen": "https://jkanime.net/kemono-friends/12/",
+      "publicado_en_origen": "2017-03-28 16:56:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2004",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:34:20+00:00"
+}

@@ -1,0 +1,605 @@
+{
+  "id_origen": 695,
+  "slug": "yu-gi-oh-zexal-second",
+  "titulo": "Yu-Gi-Oh! Zexal Second",
+  "titulo_corto": "Yu-Gi-Oh! Zexal Second",
+  "sinopsis": "Segunda Temporada de Yu-Gi-Oh! Zexal.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/",
+  "episodios": [
+    {
+      "id_origen": 17950,
+      "numero": 1,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/1/",
+      "publicado_en_origen": "2012-10-18 17:29:03"
+    },
+    {
+      "id_origen": 18115,
+      "numero": 2,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/2/",
+      "publicado_en_origen": "2012-10-27 14:42:09"
+    },
+    {
+      "id_origen": 18160,
+      "numero": 3,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/3/",
+      "publicado_en_origen": "2012-10-31 10:46:07"
+    },
+    {
+      "id_origen": 18433,
+      "numero": 4,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/4/",
+      "publicado_en_origen": "2012-11-14 20:38:32"
+    },
+    {
+      "id_origen": 18440,
+      "numero": 5,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/5/",
+      "publicado_en_origen": "2012-11-15 21:20:00"
+    },
+    {
+      "id_origen": 18930,
+      "numero": 6,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/6/",
+      "publicado_en_origen": "2013-01-05 13:40:50"
+    },
+    {
+      "id_origen": 18932,
+      "numero": 7,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/7/",
+      "publicado_en_origen": "2013-01-05 14:30:04"
+    },
+    {
+      "id_origen": 18933,
+      "numero": 8,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/8/",
+      "publicado_en_origen": "2013-01-05 14:43:24"
+    },
+    {
+      "id_origen": 18934,
+      "numero": 9,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/9/",
+      "publicado_en_origen": "2013-01-05 15:36:29"
+    },
+    {
+      "id_origen": 19158,
+      "numero": 10,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/10/",
+      "publicado_en_origen": "2013-01-26 01:41:30"
+    },
+    {
+      "id_origen": 19159,
+      "numero": 11,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/11/",
+      "publicado_en_origen": "2013-01-26 01:42:07"
+    },
+    {
+      "id_origen": 19160,
+      "numero": 12,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/12/",
+      "publicado_en_origen": "2013-01-26 01:42:38"
+    },
+    {
+      "id_origen": 19884,
+      "numero": 13,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/13/",
+      "publicado_en_origen": "2013-03-23 22:39:25"
+    },
+    {
+      "id_origen": 19885,
+      "numero": 14,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/14/",
+      "publicado_en_origen": "2013-03-23 22:39:25"
+    },
+    {
+      "id_origen": 19886,
+      "numero": 15,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/15/",
+      "publicado_en_origen": "2013-03-23 22:39:25"
+    },
+    {
+      "id_origen": 19887,
+      "numero": 16,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/16/",
+      "publicado_en_origen": "2013-03-23 22:39:25"
+    },
+    {
+      "id_origen": 19888,
+      "numero": 17,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/17/",
+      "publicado_en_origen": "2013-03-23 22:39:25"
+    },
+    {
+      "id_origen": 19889,
+      "numero": 18,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/18/",
+      "publicado_en_origen": "2013-03-23 22:39:25"
+    },
+    {
+      "id_origen": 19890,
+      "numero": 19,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/19/",
+      "publicado_en_origen": "2013-03-23 22:39:25"
+    },
+    {
+      "id_origen": 50266,
+      "numero": 20,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/20/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50267,
+      "numero": 21,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/21/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50268,
+      "numero": 22,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/22/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50269,
+      "numero": 23,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/23/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50270,
+      "numero": 24,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/24/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50271,
+      "numero": 25,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/25/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50272,
+      "numero": 26,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/26/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50273,
+      "numero": 27,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/27/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50274,
+      "numero": 28,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/28/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50275,
+      "numero": 29,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/29/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50276,
+      "numero": 30,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/30/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50277,
+      "numero": 31,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/31/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50278,
+      "numero": 32,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/32/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50279,
+      "numero": 33,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/33/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50280,
+      "numero": 34,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/34/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50281,
+      "numero": 35,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/35/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50282,
+      "numero": 36,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/36/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50283,
+      "numero": 37,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/37/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50284,
+      "numero": 38,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/38/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50285,
+      "numero": 39,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/39/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50286,
+      "numero": 40,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/40/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50287,
+      "numero": 41,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/41/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50288,
+      "numero": 42,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/42/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50289,
+      "numero": 43,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/43/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50290,
+      "numero": 44,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/44/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50291,
+      "numero": 45,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/45/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50292,
+      "numero": 46,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/46/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50293,
+      "numero": 47,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/47/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50294,
+      "numero": 48,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/48/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50295,
+      "numero": 49,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/49/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50296,
+      "numero": 50,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/50/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50297,
+      "numero": 51,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/51/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50298,
+      "numero": 52,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/52/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50299,
+      "numero": 53,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/53/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50300,
+      "numero": 54,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/54/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50301,
+      "numero": 55,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/55/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50302,
+      "numero": 56,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/56/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50303,
+      "numero": 57,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/57/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50304,
+      "numero": 58,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/58/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50305,
+      "numero": 59,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/59/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50306,
+      "numero": 60,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/60/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50307,
+      "numero": 61,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/61/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50308,
+      "numero": 62,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/62/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50309,
+      "numero": 63,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/63/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50310,
+      "numero": 64,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/64/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50311,
+      "numero": 65,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/65/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50312,
+      "numero": 66,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/66/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50313,
+      "numero": 67,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/67/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50314,
+      "numero": 68,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/68/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50315,
+      "numero": 69,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/69/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50316,
+      "numero": 70,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/70/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50317,
+      "numero": 71,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/71/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50318,
+      "numero": 72,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/72/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    },
+    {
+      "id_origen": 50319,
+      "numero": 73,
+      "titulo": "Yu-Gi-Oh! Zexal Second - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-zexal-second.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-zexal-second/73/",
+      "publicado_en_origen": "2022-08-23 01:08:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "695",
+  "cantidad_episodios_declarada": 73,
+  "detalle_extraido_en": "2026-08-26T18:53:27+00:00"
+}

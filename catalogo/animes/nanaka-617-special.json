@@ -1,0 +1,29 @@
+{
+  "id_origen": 4259,
+  "slug": "nanaka-617-special",
+  "titulo": "Nanaka 6/17 Special",
+  "titulo_corto": "Nanaka 6/17 Special",
+  "sinopsis": "Episodio de la serie no emitido incluido en el lanzamiento en DVD.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nanaka-617-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nanaka-617-special/",
+  "episodios": [
+    {
+      "id_origen": 65501,
+      "numero": 1,
+      "titulo": "Nanaka 6/17 Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45e6daa1ad1a085f587bf5afe59ecd2d.jpg",
+      "url_origen": "https://jkanime.net/nanaka-617-special/1/",
+      "publicado_en_origen": "2025-07-29 19:17:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:36+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4259",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:39:40+00:00"
+}

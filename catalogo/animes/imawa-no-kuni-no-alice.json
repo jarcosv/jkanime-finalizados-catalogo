@@ -1,0 +1,45 @@
+{
+  "id_origen": 1332,
+  "slug": "imawa-no-kuni-no-alice",
+  "titulo": "Imawa no Kuni no Alice",
+  "titulo_corto": "Imawa no Kuni no Alice",
+  "sinopsis": "La historia trata acerca de un estudiante llamado Arisu y otros compañeros que son transportados a un mundo alternativo devastado, ellos son forzados a participar en un juego mortal para sobrevivir (Fuente: ANN)",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/imawa-no-kuni-no-alice.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/imawa-no-kuni-no-alice/",
+  "episodios": [
+    {
+      "id_origen": 25236,
+      "numero": 1,
+      "titulo": "Imawa no Kuni no Alice - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78ea22b6de9c90b6baaa8328518c05c8.jpg",
+      "url_origen": "https://jkanime.net/imawa-no-kuni-no-alice/1/",
+      "publicado_en_origen": "2014-10-29 23:09:02"
+    },
+    {
+      "id_origen": 25917,
+      "numero": 2,
+      "titulo": "Imawa no Kuni no Alice - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5657a4a1f4bb5cc4b95d6e17b6ac6d62.jpg",
+      "url_origen": "https://jkanime.net/imawa-no-kuni-no-alice/2/",
+      "publicado_en_origen": "2014-12-21 11:55:35"
+    },
+    {
+      "id_origen": 27344,
+      "numero": 3,
+      "titulo": "Imawa no Kuni no Alice - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de78a7900066af80465eb275ad8d3667.jpg",
+      "url_origen": "https://jkanime.net/imawa-no-kuni-no-alice/3/",
+      "publicado_en_origen": "2015-03-30 23:22:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1332",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:31:46+00:00"
+}

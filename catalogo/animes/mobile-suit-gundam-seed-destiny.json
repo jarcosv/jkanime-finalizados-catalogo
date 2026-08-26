@@ -1,0 +1,421 @@
+{
+  "id_origen": 1557,
+  "slug": "mobile-suit-gundam-seed-destiny",
+  "titulo": "Mobile Suit Gundam Seed Destiny",
+  "titulo_corto": "Mobile Suit Gundam Seed Destin...",
+  "sinopsis": "Mobile Suit Gundam SEED Destiny comienza en el año 73 de la Era Cósmica, dos años después de la firma del Tratado de Junius 7, hecho que puso fin a la Guerra de San Valentín Sangriento, relatada en Gundam SEED. Este nuevo escenario presenta a Cagalli Yula Athha acompañada de su guardaespaldas Alex Dino asistiendo a una reunión diplomática con el máximo representante de PLANT, Gilbert Durandal. Durante este encuentro, uno de los hangares de la base militar de PLANT es asaltado por un grupo de fuerzas especiales de la Alianza Terrestre llamado \"Phantom Pain\". Esto empuja a Durandal a declarar el estado de alerta y ordenar el despegue del crucero Minerva, con un grupo de pilotos de élite formado por Shinn Asuka, Lunamaria Hawke y Rey Za Burrel, con órdenes de recuperar los Mobile Suits capturados.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mobile-suit-gundam-seed-destiny.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/",
+  "episodios": [
+    {
+      "id_origen": 28307,
+      "numero": 1,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22533fb038725070faa56e0d03825120.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/1/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28308,
+      "numero": 2,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55dd9b82d52ce59b5faeabc5667d5c01.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/2/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28309,
+      "numero": 3,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29164fd7d8f7d8ebed7f5e0a58a9e8bb.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/3/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28310,
+      "numero": 4,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0237aedd1eafebe97db4611a4328b141.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/4/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28311,
+      "numero": 5,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ebc9d70f4a09bd4c90d6c37555f7a3c.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/5/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28312,
+      "numero": 6,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_082d37565d86c5f7dc93a3d11f9edfb4.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/6/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28313,
+      "numero": 7,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_83be9a147d7cebfb58df77f586ad919a.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/7/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28314,
+      "numero": 8,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76892440bf8ca27a6a96e9efb4c102d2.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/8/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28315,
+      "numero": 9,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c0cddf4d7ffa09babe859cf5c71d898.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/9/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28316,
+      "numero": 10,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d36e0a8afc3776c2e2d735efcf997cc4.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/10/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28317,
+      "numero": 11,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0a4b0fa8862500a10f65f4d6b1d4490.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/11/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28318,
+      "numero": 12,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_721e4c68e2ee18a79074b836ddb2d544.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/12/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28319,
+      "numero": 13,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fca121af959c80dbc701b7aacb7156e.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/13/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28320,
+      "numero": 14,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe2e8c9e03498e3bd2c4c2205afdfc44.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/14/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28321,
+      "numero": 15,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fa8a26d57f0356d7bf6b43adbab9488.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/15/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28322,
+      "numero": 16,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7903c4f5ae6da9780bc88cbb048d417.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/16/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28323,
+      "numero": 17,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85736fd3f78e6b884e0cfec1ee6abc77.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/17/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28324,
+      "numero": 18,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ade27a7849e2e133bc29dc386104bd5.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/18/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28325,
+      "numero": 19,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_40a0ad86c6d1dcc1771de1d533b93597.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/19/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28326,
+      "numero": 20,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30c54fe92fc8181d33b91c6dbc8de9d7.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/20/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28327,
+      "numero": 21,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_436c869cc2e14e9a3ad092e9ea0d6bb0.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/21/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28328,
+      "numero": 22,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b94148cb773e1bebf30b1f5488a96cb7.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/22/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28329,
+      "numero": 23,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4682b5b0e2a747661f14bb99b7c74544.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/23/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28330,
+      "numero": 24,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_041a20e0e224e50592113fc59f57e1a5.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/24/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28331,
+      "numero": 25,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cfb32325857e9b4e076699ee4c6afaee.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/25/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28332,
+      "numero": 26,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e9e7cd518cf3ba348c8870f6827b0e7.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/26/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28333,
+      "numero": 27,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d78874deb55feb4820dd9421411b3d1.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/27/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28334,
+      "numero": 28,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03e966c680210c8cd0a4582f9c4c34ec.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/28/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28335,
+      "numero": 29,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c46b0878a4fe4b1d8bf20fbc24343e7.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/29/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28336,
+      "numero": 30,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e90f24cff5f0c12e4041b8e3eaa3a623.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/30/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28337,
+      "numero": 31,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5d5acb297496b4f9bbf96c3618d828c.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/31/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28338,
+      "numero": 32,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a845b3e91df58cd29f565345c31d49a.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/32/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28339,
+      "numero": 33,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecc92a19f0de821519b715d10cbf7c62.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/33/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28340,
+      "numero": 34,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6a900aaacbf8f16299d8df03178584b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/34/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28341,
+      "numero": 35,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0cbd1803daba2f4be6919b9f773f921.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/35/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28342,
+      "numero": 36,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ec9561a6283982cf4938da909c7188b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/36/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28343,
+      "numero": 37,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_984a8710e96d3210d30c185060159555.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/37/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28344,
+      "numero": 38,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29f05888c012d13d76804c9a504c7aca.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/38/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28345,
+      "numero": 39,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b34757e1761fdbe6d687ecf4d698447a.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/39/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28346,
+      "numero": 40,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4c11c994be3d3f4744a12808b202219.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/40/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28347,
+      "numero": 41,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84403a769c84d34088c8b19584a235ad.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/41/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28348,
+      "numero": 42,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6afc47d9260056bf6ebac5a4c908540.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/42/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28349,
+      "numero": 43,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49aea21a9ed85c3bd530a37df3de1c7e.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/43/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28350,
+      "numero": 44,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f43f639000f6f3c6ff1f3e8006ac0816.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/44/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28351,
+      "numero": 45,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6024f6421eb2bf25995d9dbe18504e25.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/45/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28352,
+      "numero": 46,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa826555e21b7c95a06600456effd501.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/46/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28353,
+      "numero": 47,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6aa56c3cd6341dd6c3ab5757a5e103b.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/47/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28354,
+      "numero": 48,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4e581586db0fc30ac07c437aa544bc4.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/48/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28355,
+      "numero": 49,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_53f13d594327d166a891ccad57c42d2d.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/49/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    },
+    {
+      "id_origen": 28356,
+      "numero": 50,
+      "titulo": "Mobile Suit Gundam Seed Destiny - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c33d297987f155433652f777a4ec2e1.jpg",
+      "url_origen": "https://jkanime.net/mobile-suit-gundam-seed-destiny/50/",
+      "publicado_en_origen": "2015-06-13 08:58:34"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:32+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1557",
+  "cantidad_episodios_declarada": 50,
+  "detalle_extraido_en": "2026-08-26T18:38:58+00:00"
+}

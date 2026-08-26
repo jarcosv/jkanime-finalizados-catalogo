@@ -1,0 +1,117 @@
+{
+  "id_origen": 3010,
+  "slug": "orient",
+  "titulo": "Orient",
+  "titulo_corto": "Orient",
+  "sinopsis": "Una pareja de amigos, Musashi y Kanemaki Kojirou, se prometieron que se volverían samurái juntos para acabar con los demonios que atormentaban la humanidad. No obstante, las cosas han cambiado desde ese momento, y ahora la sociedad venera a los demonios. Esto hace que Kanemaki cambie de opinión, y Musashi dedique todo su esfuerzo a transformarse en un espadachín digno, pero en silencio.\n\nLuego de un encuentro fortuito donde la vida de Musashi está en peligro, Kojiro cambia nuevamente de perspectiva, y juntos comienzan a trabajar como héroes para restaurar la reputación de los samurai y eliminar a los demonios del mundo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/orient.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/orient/",
+  "episodios": [
+    {
+      "id_origen": 47911,
+      "numero": 1,
+      "titulo": "Orient - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ceb81aa09c2dab536237b1543bb9fca7.jpg",
+      "url_origen": "https://jkanime.net/orient/1/",
+      "publicado_en_origen": "2022-01-05 11:16:07"
+    },
+    {
+      "id_origen": 47953,
+      "numero": 2,
+      "titulo": "Orient - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7281f75a3496aa1e3643f44cd5773a65.jpg",
+      "url_origen": "https://jkanime.net/orient/2/",
+      "publicado_en_origen": "2022-01-12 11:12:53"
+    },
+    {
+      "id_origen": 48016,
+      "numero": 3,
+      "titulo": "Orient - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab226bf7dc4eccb159825803a6726f3a.jpg",
+      "url_origen": "https://jkanime.net/orient/3/",
+      "publicado_en_origen": "2022-01-19 11:11:11"
+    },
+    {
+      "id_origen": 48083,
+      "numero": 4,
+      "titulo": "Orient - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90513943523077ad07582e989457ccec.jpg",
+      "url_origen": "https://jkanime.net/orient/4/",
+      "publicado_en_origen": "2022-01-27 00:44:14"
+    },
+    {
+      "id_origen": 48164,
+      "numero": 5,
+      "titulo": "Orient - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_db2ee7f2dd6dd0e73fd468ba9d156628.jpg",
+      "url_origen": "https://jkanime.net/orient/5/",
+      "publicado_en_origen": "2022-02-02 11:25:19"
+    },
+    {
+      "id_origen": 48215,
+      "numero": 6,
+      "titulo": "Orient - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7f99b7b2b7cb062458cdbd24bc36b2c.jpg",
+      "url_origen": "https://jkanime.net/orient/6/",
+      "publicado_en_origen": "2022-02-09 11:41:38"
+    },
+    {
+      "id_origen": 48277,
+      "numero": 7,
+      "titulo": "Orient - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f13684de18647e19fc4edacf6b285920.jpg",
+      "url_origen": "https://jkanime.net/orient/7/",
+      "publicado_en_origen": "2022-02-16 11:25:54"
+    },
+    {
+      "id_origen": 48324,
+      "numero": 8,
+      "titulo": "Orient - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a2e53b0e0820da8e791a8534038fe26.jpg",
+      "url_origen": "https://jkanime.net/orient/8/",
+      "publicado_en_origen": "2022-02-23 11:36:44"
+    },
+    {
+      "id_origen": 48419,
+      "numero": 9,
+      "titulo": "Orient - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abba6fc3cee14b26ebcfe34fc793b7d4.jpg",
+      "url_origen": "https://jkanime.net/orient/9/",
+      "publicado_en_origen": "2022-03-02 11:48:29"
+    },
+    {
+      "id_origen": 48524,
+      "numero": 10,
+      "titulo": "Orient - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87948c8b4e338f2a7518a1575b6af9d1.jpg",
+      "url_origen": "https://jkanime.net/orient/10/",
+      "publicado_en_origen": "2022-03-09 15:51:44"
+    },
+    {
+      "id_origen": 48571,
+      "numero": 11,
+      "titulo": "Orient - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a42434c7a619630f358df0642b4dd7ff.jpg",
+      "url_origen": "https://jkanime.net/orient/11/",
+      "publicado_en_origen": "2022-03-16 11:26:51"
+    },
+    {
+      "id_origen": 48760,
+      "numero": 12,
+      "titulo": "Orient - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6709b9b30a5de8dedc4c345249c2076e.jpg",
+      "url_origen": "https://jkanime.net/orient/12/",
+      "publicado_en_origen": "2022-03-23 12:16:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3010",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:41:36+00:00"
+}

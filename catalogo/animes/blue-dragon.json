@@ -1,0 +1,429 @@
+{
+  "id_origen": 221,
+  "slug": "blue-dragon",
+  "titulo": "Blue Dragon",
+  "titulo_corto": "Blue Dragon",
+  "sinopsis": "Blue Dragon se centra en un mundo donde las sombras cobran vida propia. El protagonista de esta historia es un joven llamado Shu, quien tiene por sombra a un Dragón Azul, el cual repite los movimientos que el chico realiza. Shu, lleno de curiosidad por descubrir el significado de este Dragón que a todas partes le sigue, emprende un viaje con motivo de encontrar respuestas a sus preguntas.  En el camino se encontrará con otros que comparten su particular sombra, pero representando criaturas diferentes, como un Tigre o un Murciélago. Estas criaturas le dan poderes a sus acompañantes. Lo cual, despertará aún más su curiosidad y ganas por descubrir el origen de este misterio.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/blue-dragon.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/blue-dragon/",
+  "episodios": [
+    {
+      "id_origen": 6129,
+      "numero": 1,
+      "titulo": "Blue Dragon 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acc21473c4525b922286130ffbfe00b5.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/1/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6130,
+      "numero": 2,
+      "titulo": "Blue Dragon 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b99efbc101a6013d2c710028bca5cbf.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/2/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6131,
+      "numero": 3,
+      "titulo": "Blue Dragon 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_392526094bcba21af9fd4102ce5ed092.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/3/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6132,
+      "numero": 4,
+      "titulo": "Blue Dragon 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36d5ef2a011f0b3e0e0fa139228bbe18.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/4/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6133,
+      "numero": 5,
+      "titulo": "Blue Dragon 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5df4f4eabf1cbcfeb50fbbf97c5289f.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/5/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6134,
+      "numero": 6,
+      "titulo": "Blue Dragon 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ca5c750a30312d1919ae6a4d636dcc4.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/6/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6135,
+      "numero": 7,
+      "titulo": "Blue Dragon 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cc5400e63624c44fadeda99f57588a6.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/7/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6136,
+      "numero": 8,
+      "titulo": "Blue Dragon 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1285fcadc52c0d3dc8813fc2c2e2b2a.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/8/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6137,
+      "numero": 9,
+      "titulo": "Blue Dragon 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8c8c63d4b8856c7872b225e53a6656c.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/9/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6138,
+      "numero": 10,
+      "titulo": "Blue Dragon 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2ead76dfdc4ae56a2abd1896ec46291.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/10/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6139,
+      "numero": 11,
+      "titulo": "Blue Dragon 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_618faa1728eb2ef6e3733645273ab145.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/11/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6140,
+      "numero": 12,
+      "titulo": "Blue Dragon 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d7d9461075eb7c37fbbfcad1d7042c1.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/12/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6141,
+      "numero": 13,
+      "titulo": "Blue Dragon 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13d2b7361a27dbc9960ae158598a6a96.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/13/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6142,
+      "numero": 14,
+      "titulo": "Blue Dragon 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d4ba7006351436c35e283b0be8ff56c.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/14/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6143,
+      "numero": 15,
+      "titulo": "Blue Dragon 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de9621d4c6fa69ce8aaa90f00e9110c5.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/15/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6144,
+      "numero": 16,
+      "titulo": "Blue Dragon 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_197f76fe309657064dbec74d9eea4be4.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/16/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6145,
+      "numero": 17,
+      "titulo": "Blue Dragon 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d785bf9067f8af9e078b93cf26de2b54.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/17/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6146,
+      "numero": 18,
+      "titulo": "Blue Dragon 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ba053350fe56ed93e64b3e769062b680.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/18/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6147,
+      "numero": 19,
+      "titulo": "Blue Dragon 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_310614fca8fb8e5491295336298c340f.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/19/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6148,
+      "numero": 20,
+      "titulo": "Blue Dragon 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30c0a496a57bcc2c7c6c481342526729.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/20/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6149,
+      "numero": 21,
+      "titulo": "Blue Dragon 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b04c387c8384ca083a71b8da516f65f6.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/21/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6150,
+      "numero": 22,
+      "titulo": "Blue Dragon 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_598a90004bace6540f0e2230bdc47c09.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/22/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6151,
+      "numero": 23,
+      "titulo": "Blue Dragon 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_761b42cfff120aac30045f7a110d0256.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/23/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6152,
+      "numero": 24,
+      "titulo": "Blue Dragon 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_92ae5cfef57d9ef9a523753e45fc9b0b.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/24/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6153,
+      "numero": 25,
+      "titulo": "Blue Dragon 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a4d5fad84ee90c1308cc37b52135d5db.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/25/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6154,
+      "numero": 26,
+      "titulo": "Blue Dragon 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bf07985bf8a5a37fcf65989269e8edc.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/26/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6155,
+      "numero": 27,
+      "titulo": "Blue Dragon 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a47072176bca825aadacf648034e124b.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/27/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6156,
+      "numero": 28,
+      "titulo": "Blue Dragon 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2eacc82231f2e62f9acb38bece54635e.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/28/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6157,
+      "numero": 29,
+      "titulo": "Blue Dragon 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26d4b4313a7e5828856bc0791fca39a2.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/29/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6158,
+      "numero": 30,
+      "titulo": "Blue Dragon 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08ad21c6f9da6bdf51ae0b971f43d96d.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/30/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6159,
+      "numero": 31,
+      "titulo": "Blue Dragon 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac1ae6a547bf25a11284c7595eff6df7.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/31/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6160,
+      "numero": 32,
+      "titulo": "Blue Dragon 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa3060edb66e6ff4507886f9912e1ab9.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/32/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6161,
+      "numero": 33,
+      "titulo": "Blue Dragon 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bf73bc6c6e6775d472621264309a88b.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/33/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6162,
+      "numero": 34,
+      "titulo": "Blue Dragon 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6aaba9a124857622930ca4e50f5afed2.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/34/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6163,
+      "numero": 35,
+      "titulo": "Blue Dragon 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6e4f250fb5c56aaf215a236c64e5b0a.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/35/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6164,
+      "numero": 36,
+      "titulo": "Blue Dragon 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d5951d1e3b31dfb7fd2dcc172df17fd.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/36/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6165,
+      "numero": 37,
+      "titulo": "Blue Dragon 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36452e720502e4da486d2f9f6b48a7bb.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/37/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6166,
+      "numero": 38,
+      "titulo": "Blue Dragon 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4249a84bdaf63c34332d1988244fb089.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/38/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6167,
+      "numero": 39,
+      "titulo": "Blue Dragon 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63d5fb54a858dd033fe90e6e4a74b0f0.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/39/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6168,
+      "numero": 40,
+      "titulo": "Blue Dragon 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f5a14d4963acf488e3a24780a84ac96c.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/40/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6169,
+      "numero": 41,
+      "titulo": "Blue Dragon 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2adafb1b5d684e6c15a2d063367be012.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/41/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6170,
+      "numero": 42,
+      "titulo": "Blue Dragon 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ccc2826b445aebac6f6b3f8013e7931.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/42/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6171,
+      "numero": 43,
+      "titulo": "Blue Dragon 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5d3ad899f70013367f24e0b1fa75944.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/43/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6172,
+      "numero": 44,
+      "titulo": "Blue Dragon 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5ef831f5d34faafc22a23a602cf6e40.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/44/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6173,
+      "numero": 45,
+      "titulo": "Blue Dragon 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ccb2d64b8159636a44b29fe2e62a841.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/45/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6174,
+      "numero": 46,
+      "titulo": "Blue Dragon 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_65b0df23fd2d449ae1e4b2d27151d73b.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/46/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6175,
+      "numero": 47,
+      "titulo": "Blue Dragon 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c80d9ba4852b67046bee487bcd9802c0.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/47/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6176,
+      "numero": 48,
+      "titulo": "Blue Dragon 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc1f073fe91403f00d2219185fdea79b.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/48/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6177,
+      "numero": 49,
+      "titulo": "Blue Dragon 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d98c1545b7619bd99b817cb3169cdfde.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/49/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6178,
+      "numero": 50,
+      "titulo": "Blue Dragon 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_654516d1b4df6917094de807156adc14.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/50/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    },
+    {
+      "id_origen": 6179,
+      "numero": 51,
+      "titulo": "Blue Dragon 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d36c07721a0a5a96436d6c536a132ec.jpg",
+      "url_origen": "https://jkanime.net/blue-dragon/51/",
+      "publicado_en_origen": "2011-07-06 10:31:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "221",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:20:42+00:00"
+}

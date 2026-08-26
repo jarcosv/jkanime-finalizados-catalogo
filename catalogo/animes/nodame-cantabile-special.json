@@ -1,0 +1,29 @@
+{
+  "id_origen": 562,
+  "slug": "nodame-cantabile-special",
+  "titulo": "Nodame Cantabile Special",
+  "titulo_corto": "Nodame Cantabile Special",
+  "sinopsis": "Lección especial sobre Mine, Masumi, Chiaki y Nodame viajando a Nagano.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nodame-cantabile-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nodame-cantabile-special/",
+  "episodios": [
+    {
+      "id_origen": 15643,
+      "numero": 1,
+      "titulo": "Nodame Cantabile Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62bf90d9e45daa967b5d68fcc482a0a7.jpg",
+      "url_origen": "https://jkanime.net/nodame-cantabile-special/1/",
+      "publicado_en_origen": "2012-05-26 19:03:14"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "562",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:40:40+00:00"
+}

@@ -1,0 +1,429 @@
+{
+  "id_origen": 345,
+  "slug": "fullmetal-alchemist",
+  "titulo": "Fullmetal Alchemist",
+  "titulo_corto": "Fullmetal Alchemist",
+  "sinopsis": "Tras perder a su madre, Alphonse y Edward Elric tratan de revivirla usando la ciencia prohibida de la alquimia humana. Sin embargo, la alquimia opera bajo la teoría del cambio equivalente y romper el tabú de la alquimia humana acarrea un alto precio. Ed pierde una de sus piernas y Al su cuerpo. Ed logra sellar el alma de Al dentro de una gran armadura, a costa de su brazo. Años después, Ed (ahora con dos extremidades mecánicas) y Al (aún atrapado en la armadura) dejan su casa de la niñez, cada uno preocupado por la felicidad del otro. Ed, quien tuvo un talento y habilidad natural para la alquimia, se convierte en un alquimista con certificado nacional y pronto es conocido en todas partes como el “Alquimista Fullmetal”. El verdadero objetivo de ambos hermanos es buscar cualquier información sobre la legendaria Piedra Filosofal, con la esperanza de que ésta les permita recobrar sus cuerpos. Todas sus esperanzas descansan en la mítica piedra, que incluso puede no existir.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fullmetal-alchemist.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fullmetal-alchemist/",
+  "episodios": [
+    {
+      "id_origen": 13347,
+      "numero": 1,
+      "titulo": "Fullmetal Alchemist - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_613e4b45be59f778a80853ebed1031e7.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/1/",
+      "publicado_en_origen": "2011-12-03 17:27:10"
+    },
+    {
+      "id_origen": 13348,
+      "numero": 2,
+      "titulo": "Fullmetal Alchemist - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c466b36ea7a79bfb3db7d7337c10ef8.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/2/",
+      "publicado_en_origen": "2011-12-03 17:27:10"
+    },
+    {
+      "id_origen": 13349,
+      "numero": 3,
+      "titulo": "Fullmetal Alchemist - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63eff9db5df820b14147e4248c6cade4.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/3/",
+      "publicado_en_origen": "2011-12-03 17:27:10"
+    },
+    {
+      "id_origen": 13350,
+      "numero": 4,
+      "titulo": "Fullmetal Alchemist - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_560a6a01a9fce179d1d3a1d8d56758a3.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/4/",
+      "publicado_en_origen": "2011-12-03 17:27:10"
+    },
+    {
+      "id_origen": 13351,
+      "numero": 5,
+      "titulo": "Fullmetal Alchemist - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_404a9f61135c5e33d002f3fd97350b8f.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/5/",
+      "publicado_en_origen": "2011-12-03 17:27:10"
+    },
+    {
+      "id_origen": 13352,
+      "numero": 6,
+      "titulo": "Fullmetal Alchemist - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48755028069daa1926dc9a4e3d0d069c.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/6/",
+      "publicado_en_origen": "2011-12-03 17:27:10"
+    },
+    {
+      "id_origen": 13353,
+      "numero": 7,
+      "titulo": "Fullmetal Alchemist - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18e8bbd4a4a899afc26a4c8a12a1c308.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/7/",
+      "publicado_en_origen": "2011-12-03 17:27:10"
+    },
+    {
+      "id_origen": 13354,
+      "numero": 8,
+      "titulo": "Fullmetal Alchemist - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1a69dfa3bcd054993e0963431ad04a5.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/8/",
+      "publicado_en_origen": "2011-12-03 17:27:10"
+    },
+    {
+      "id_origen": 13355,
+      "numero": 9,
+      "titulo": "Fullmetal Alchemist - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bffd68fb7c84ef12f478133e5791e9e.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/9/",
+      "publicado_en_origen": "2011-12-03 17:27:10"
+    },
+    {
+      "id_origen": 13356,
+      "numero": 10,
+      "titulo": "Fullmetal Alchemist - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_10297c517a2f80642661fcfa9d0b780b.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/10/",
+      "publicado_en_origen": "2011-12-03 17:27:10"
+    },
+    {
+      "id_origen": 13357,
+      "numero": 11,
+      "titulo": "Fullmetal Alchemist - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_55298ec38b13c613ce8ffe0f1d928ed2.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/11/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13358,
+      "numero": 12,
+      "titulo": "Fullmetal Alchemist - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_daa8fa545bb2c5e9443081bf0e002603.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/12/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13359,
+      "numero": 13,
+      "titulo": "Fullmetal Alchemist - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81b0e1902f1c695c267651e72616f46e.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/13/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13360,
+      "numero": 14,
+      "titulo": "Fullmetal Alchemist - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4c32296316cec19d27f62e4e8db15430.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/14/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13361,
+      "numero": 15,
+      "titulo": "Fullmetal Alchemist - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb8c2a522653f0e10c557d9e7cd18784.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/15/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13362,
+      "numero": 16,
+      "titulo": "Fullmetal Alchemist - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e5e1435c95e420a1cd34d3202769c18.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/16/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13363,
+      "numero": 17,
+      "titulo": "Fullmetal Alchemist - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c89f28fe875efcf36c8973a7f81bfbb0.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/17/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13364,
+      "numero": 18,
+      "titulo": "Fullmetal Alchemist - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b313ba040d06ef01a187e5dee391739d.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/18/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13365,
+      "numero": 19,
+      "titulo": "Fullmetal Alchemist - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81a0c4689fb7ce553a0d5c2fd19b6efd.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/19/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13366,
+      "numero": 20,
+      "titulo": "Fullmetal Alchemist - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4643dd49216b67d9c617ceb260e45684.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/20/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13367,
+      "numero": 21,
+      "titulo": "Fullmetal Alchemist - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af9ceb1e9e159d7b393a4c38c660a7cb.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/21/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13368,
+      "numero": 22,
+      "titulo": "Fullmetal Alchemist - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b8fe41d7a9a359029570f1d2ef42440.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/22/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13369,
+      "numero": 23,
+      "titulo": "Fullmetal Alchemist - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2fedb611e8aa09832408a9b1f5677f0b.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/23/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13370,
+      "numero": 24,
+      "titulo": "Fullmetal Alchemist - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_366c0196895c9eeaa75992bacac60426.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/24/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13371,
+      "numero": 25,
+      "titulo": "Fullmetal Alchemist - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_234f161759ed410f2b27b505e28b63f4.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/25/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13372,
+      "numero": 26,
+      "titulo": "Fullmetal Alchemist - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4251c47fdf0b43ddd1e5bf28bc6f3dba.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/26/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13373,
+      "numero": 27,
+      "titulo": "Fullmetal Alchemist - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0a4be74a9612071c7992274538563b78.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/27/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13374,
+      "numero": 28,
+      "titulo": "Fullmetal Alchemist - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05d341cd809694e4e44660c97c11e8e4.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/28/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13375,
+      "numero": 29,
+      "titulo": "Fullmetal Alchemist - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ca4dffd6cb96dfe66f1a044d3bb7cfb.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/29/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13376,
+      "numero": 30,
+      "titulo": "Fullmetal Alchemist - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3aa19fe9dc706a3b4cdaa8ddb37d852.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/30/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13377,
+      "numero": 31,
+      "titulo": "Fullmetal Alchemist - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a0744cc9d32856e3e6daf321dc69915.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/31/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13378,
+      "numero": 32,
+      "titulo": "Fullmetal Alchemist - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_125af4d20f1ece003e7e5645cb909f2f.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/32/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13379,
+      "numero": 33,
+      "titulo": "Fullmetal Alchemist - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_993e2921b4681af69dd9c0baeb9225e2.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/33/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13380,
+      "numero": 34,
+      "titulo": "Fullmetal Alchemist - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2e1cbe72ab1192e395c35295763982a.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/34/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13381,
+      "numero": 35,
+      "titulo": "Fullmetal Alchemist - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8dacd3d8b9d2cd20eb244b5f745ea88e.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/35/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13382,
+      "numero": 36,
+      "titulo": "Fullmetal Alchemist - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0812edf466bc20c650b452513b583e7.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/36/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13383,
+      "numero": 37,
+      "titulo": "Fullmetal Alchemist - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ecb320400c786ebba312e2ccd86e7490.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/37/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13384,
+      "numero": 38,
+      "titulo": "Fullmetal Alchemist - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc75d7ec538864978b5833d6a675c768.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/38/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13385,
+      "numero": 39,
+      "titulo": "Fullmetal Alchemist - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b93265ed14e1a2f65e7919300c40e0dd.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/39/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13386,
+      "numero": 40,
+      "titulo": "Fullmetal Alchemist - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c88381da8cf2a0197a6542471fe8f107.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/40/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13387,
+      "numero": 41,
+      "titulo": "Fullmetal Alchemist - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6121869d1d9e7fddaac06016fcb0661.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/41/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13388,
+      "numero": 42,
+      "titulo": "Fullmetal Alchemist - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b446e7f68f7a79f9de9d9f9ee9b764e8.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/42/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13389,
+      "numero": 43,
+      "titulo": "Fullmetal Alchemist - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfdfab9941ac833a0c364aa2e608185e.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/43/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13390,
+      "numero": 44,
+      "titulo": "Fullmetal Alchemist - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bbc1cc8fd0e5f9e0b91f01828c87814.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/44/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13391,
+      "numero": 45,
+      "titulo": "Fullmetal Alchemist - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81f89eda54f8e14777eddd0812aea85d.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/45/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13392,
+      "numero": 46,
+      "titulo": "Fullmetal Alchemist - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73a863f2ad41c7702ef74788571bf68a.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/46/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13393,
+      "numero": 47,
+      "titulo": "Fullmetal Alchemist - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_159a09c517c606c8d96a6b18c6e2e4d9.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/47/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13394,
+      "numero": 48,
+      "titulo": "Fullmetal Alchemist - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8b4cbcdeaa0e0c5d89b174b22d501f2.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/48/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13395,
+      "numero": 49,
+      "titulo": "Fullmetal Alchemist - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48fd3e91841d8619c84400e661895675.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/49/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13396,
+      "numero": 50,
+      "titulo": "Fullmetal Alchemist - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ba5e3d6037b3d9c096399fbd3426023.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/50/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    },
+    {
+      "id_origen": 13397,
+      "numero": 51,
+      "titulo": "Fullmetal Alchemist - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cc574cdc8da2b49b46e9bed5255cece.jpg",
+      "url_origen": "https://jkanime.net/fullmetal-alchemist/51/",
+      "publicado_en_origen": "2011-12-03 17:27:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "345",
+  "cantidad_episodios_declarada": 51,
+  "detalle_extraido_en": "2026-08-26T18:27:26+00:00"
+}

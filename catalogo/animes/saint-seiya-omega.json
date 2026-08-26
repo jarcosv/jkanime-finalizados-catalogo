@@ -1,0 +1,797 @@
+{
+  "id_origen": 534,
+  "slug": "saint-seiya-omega",
+  "titulo": "Saint Seiya Omega",
+  "titulo_corto": "Saint Seiya Omega",
+  "sinopsis": "Athena es secuestrada por el Dios Marte en pleno Santuario, el cual en su ataque lanza una columna de piedra contra un pequeño bebé llamado Kouga. Por suerte, el caballero de Sagitario, Seiya, aparece y salva al niño de una muerte segura. Kouga será el nuevo caballero de Pegaso y se enfrentará junto a sus amigos a los planes de Marte.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saint-seiya-omega.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/saint-seiya-omega/",
+  "episodios": [
+    {
+      "id_origen": 15314,
+      "numero": 1,
+      "titulo": "Saint Seiya Omega - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1517246f55a92dc53dd2133ebb12837.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/1/",
+      "publicado_en_origen": "2012-04-02 01:25:33"
+    },
+    {
+      "id_origen": 15458,
+      "numero": 2,
+      "titulo": "Saint Seiya Omega - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_226cbfcc90fe1b72bb5bccf83ed665d9.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/2/",
+      "publicado_en_origen": "2012-04-08 13:49:27"
+    },
+    {
+      "id_origen": 15488,
+      "numero": 3,
+      "titulo": "Saint Seiya Omega - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a19599d637c08bdc0e3bfbc20aaf20ea.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/3/",
+      "publicado_en_origen": "2012-04-16 00:17:08"
+    },
+    {
+      "id_origen": 15520,
+      "numero": 4,
+      "titulo": "Saint Seiya Omega - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_287abb19da8aadbd118443e92685853e.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/4/",
+      "publicado_en_origen": "2012-04-23 02:39:38"
+    },
+    {
+      "id_origen": 15536,
+      "numero": 5,
+      "titulo": "Saint Seiya Omega - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbe1a0a2c9bd9241b3499318bf96f756.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/5/",
+      "publicado_en_origen": "2012-04-29 14:44:31"
+    },
+    {
+      "id_origen": 15579,
+      "numero": 6,
+      "titulo": "Saint Seiya Omega - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12423e210ece56bfeb607e01ee9210fb.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/6/",
+      "publicado_en_origen": "2012-05-06 18:35:04"
+    },
+    {
+      "id_origen": 15597,
+      "numero": 7,
+      "titulo": "Saint Seiya Omega - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f26de5213216fe4c8a797b1ad68d771.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/7/",
+      "publicado_en_origen": "2012-05-13 17:42:16"
+    },
+    {
+      "id_origen": 15615,
+      "numero": 8,
+      "titulo": "Saint Seiya Omega - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_698a2826fe9b85734ee6f3d543d73a80.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/8/",
+      "publicado_en_origen": "2012-05-20 17:14:49"
+    },
+    {
+      "id_origen": 15649,
+      "numero": 9,
+      "titulo": "Saint Seiya Omega - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0fbadcbe8b2b6612b48d0fe109db849b.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/9/",
+      "publicado_en_origen": "2012-05-27 20:05:48"
+    },
+    {
+      "id_origen": 15686,
+      "numero": 10,
+      "titulo": "Saint Seiya Omega - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11504ec85d0706f6378b24b1114b54df.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/10/",
+      "publicado_en_origen": "2012-06-03 20:10:12"
+    },
+    {
+      "id_origen": 15726,
+      "numero": 11,
+      "titulo": "Saint Seiya Omega - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb5e167492be00a8d04fff1532fd0ec4.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/11/",
+      "publicado_en_origen": "2012-06-10 19:53:52"
+    },
+    {
+      "id_origen": 15913,
+      "numero": 12,
+      "titulo": "Saint Seiya Omega - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d6a0e7e466e151b0a886d2f027183c1.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/12/",
+      "publicado_en_origen": "2012-06-17 15:48:06"
+    },
+    {
+      "id_origen": 16001,
+      "numero": 13,
+      "titulo": "Saint Seiya Omega - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6dc375089b790ef9139838cfe94fe603.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/13/",
+      "publicado_en_origen": "2012-06-24 12:46:48"
+    },
+    {
+      "id_origen": 16136,
+      "numero": 14,
+      "titulo": "Saint Seiya Omega - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a9e8442db1cd0ed150aee0241f9f997.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/14/",
+      "publicado_en_origen": "2012-07-01 12:54:43"
+    },
+    {
+      "id_origen": 16281,
+      "numero": 15,
+      "titulo": "Saint Seiya Omega - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a1051d7bc1590ef30337746a52506b9.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/15/",
+      "publicado_en_origen": "2012-07-15 11:40:51"
+    },
+    {
+      "id_origen": 16416,
+      "numero": 16,
+      "titulo": "Saint Seiya Omega - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78758e1a20a92614551dd56294223adf.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/16/",
+      "publicado_en_origen": "2012-07-22 19:03:00"
+    },
+    {
+      "id_origen": 16491,
+      "numero": 17,
+      "titulo": "Saint Seiya Omega - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7f75a0eb5d2448a933a050d60ff2bcc.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/17/",
+      "publicado_en_origen": "2012-07-29 18:52:57"
+    },
+    {
+      "id_origen": 16526,
+      "numero": 18,
+      "titulo": "Saint Seiya Omega - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_23b502ddef112ff35f1c35f265ddc70c.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/18/",
+      "publicado_en_origen": "2012-08-05 14:00:21"
+    },
+    {
+      "id_origen": 16553,
+      "numero": 19,
+      "titulo": "Saint Seiya Omega - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_603dac4761b4799bdecee0dc43b5f2e9.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/19/",
+      "publicado_en_origen": "2012-08-12 17:05:30"
+    },
+    {
+      "id_origen": 16581,
+      "numero": 20,
+      "titulo": "Saint Seiya Omega - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_183539e54667dddc02d46f94bc0d43c5.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/20/",
+      "publicado_en_origen": "2012-08-19 18:42:02"
+    },
+    {
+      "id_origen": 16762,
+      "numero": 21,
+      "titulo": "Saint Seiya Omega - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3bf6193684f3983bb8642c8add75a4a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/21/",
+      "publicado_en_origen": "2012-08-26 20:04:34"
+    },
+    {
+      "id_origen": 16976,
+      "numero": 22,
+      "titulo": "Saint Seiya Omega - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30c58a19dde41f4ecbe4fa148968a31f.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/22/",
+      "publicado_en_origen": "2012-09-02 17:43:26"
+    },
+    {
+      "id_origen": 17083,
+      "numero": 23,
+      "titulo": "Saint Seiya Omega - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ca90a44a71f38e32bc76ac9117f724a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/23/",
+      "publicado_en_origen": "2012-09-09 10:34:12"
+    },
+    {
+      "id_origen": 17235,
+      "numero": 24,
+      "titulo": "Saint Seiya Omega - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_998c0c4fd994dc56798676eb8017a9b9.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/24/",
+      "publicado_en_origen": "2012-09-16 20:14:21"
+    },
+    {
+      "id_origen": 17273,
+      "numero": 25,
+      "titulo": "Saint Seiya Omega - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_01bd952c8d65168cca96db47d865cd89.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/25/",
+      "publicado_en_origen": "2012-09-23 16:30:03"
+    },
+    {
+      "id_origen": 17606,
+      "numero": 26,
+      "titulo": "Saint Seiya Omega - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b308824b9a5a738569e0908bd7c9656.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/26/",
+      "publicado_en_origen": "2012-09-30 20:04:06"
+    },
+    {
+      "id_origen": 17647,
+      "numero": 27,
+      "titulo": "Saint Seiya Omega - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5463318f280a80a3c78b0fd949d869af.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/27/",
+      "publicado_en_origen": "2012-10-07 16:27:57"
+    },
+    {
+      "id_origen": 17813,
+      "numero": 28,
+      "titulo": "Saint Seiya Omega - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b5f0eccbcd9f75f539a2d44326694b59.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/28/",
+      "publicado_en_origen": "2012-10-14 20:49:12"
+    },
+    {
+      "id_origen": 17997,
+      "numero": 29,
+      "titulo": "Saint Seiya Omega - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e36c72761b575374e7d7e63a0333d93f.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/29/",
+      "publicado_en_origen": "2012-10-21 16:08:45"
+    },
+    {
+      "id_origen": 18125,
+      "numero": 30,
+      "titulo": "Saint Seiya Omega - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f2853e5de732df8a70c4ca081fc81119.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/30/",
+      "publicado_en_origen": "2012-10-28 17:27:06"
+    },
+    {
+      "id_origen": 18258,
+      "numero": 31,
+      "titulo": "Saint Seiya Omega - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d98e78fc02e40d38aeabfc690361271.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/31/",
+      "publicado_en_origen": "2012-11-04 09:27:16"
+    },
+    {
+      "id_origen": 18417,
+      "numero": 32,
+      "titulo": "Saint Seiya Omega - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f251445dc76c1c35bac5aa963d0ce292.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/32/",
+      "publicado_en_origen": "2012-11-11 09:25:28"
+    },
+    {
+      "id_origen": 18456,
+      "numero": 33,
+      "titulo": "Saint Seiya Omega - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c0d447b768342332a35134881a57bef6.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/33/",
+      "publicado_en_origen": "2012-11-18 12:48:29"
+    },
+    {
+      "id_origen": 18525,
+      "numero": 34,
+      "titulo": "Saint Seiya Omega - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_860c3d76487bb4686b25f3ae8c0957e4.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/34/",
+      "publicado_en_origen": "2012-11-25 10:23:42"
+    },
+    {
+      "id_origen": 18557,
+      "numero": 35,
+      "titulo": "Saint Seiya Omega - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4cca04f7f8c7da96be416403f6ccd791.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/35/",
+      "publicado_en_origen": "2012-12-02 08:25:14"
+    },
+    {
+      "id_origen": 18595,
+      "numero": 36,
+      "titulo": "Saint Seiya Omega - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccf2d76e0c41868d7ad86138ea56ad67.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/36/",
+      "publicado_en_origen": "2012-12-09 19:24:55"
+    },
+    {
+      "id_origen": 18736,
+      "numero": 37,
+      "titulo": "Saint Seiya Omega - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a813dd53b48d27057751934eb852c345.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/37/",
+      "publicado_en_origen": "2012-12-16 09:38:15"
+    },
+    {
+      "id_origen": 18775,
+      "numero": 38,
+      "titulo": "Saint Seiya Omega - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82f2307042ab867c7b3d7d6a32ea52af.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/38/",
+      "publicado_en_origen": "2012-12-23 09:03:45"
+    },
+    {
+      "id_origen": 18947,
+      "numero": 39,
+      "titulo": "Saint Seiya Omega - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_523b9a212405e48323373c0fc36c4044.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/39/",
+      "publicado_en_origen": "2013-01-06 10:02:18"
+    },
+    {
+      "id_origen": 19018,
+      "numero": 40,
+      "titulo": "Saint Seiya Omega - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3c54c14c14c2f5900dddd0d16974251.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/40/",
+      "publicado_en_origen": "2013-01-13 08:43:33"
+    },
+    {
+      "id_origen": 19114,
+      "numero": 41,
+      "titulo": "Saint Seiya Omega - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e4c4233882f7f4ddb6e14d961f31b03.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/41/",
+      "publicado_en_origen": "2013-01-20 11:47:26"
+    },
+    {
+      "id_origen": 19169,
+      "numero": 42,
+      "titulo": "Saint Seiya Omega - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5aa99ed4dc2312e348d37fc9da80eb5b.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/42/",
+      "publicado_en_origen": "2013-01-27 09:21:22"
+    },
+    {
+      "id_origen": 19239,
+      "numero": 43,
+      "titulo": "Saint Seiya Omega - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8e7b4901cc10d831bc1de471920b40d.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/43/",
+      "publicado_en_origen": "2013-02-03 08:19:37"
+    },
+    {
+      "id_origen": 19287,
+      "numero": 44,
+      "titulo": "Saint Seiya Omega - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c5ccc8d660132af0b9ca89b1096d51fb.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/44/",
+      "publicado_en_origen": "2013-02-10 07:27:05"
+    },
+    {
+      "id_origen": 19340,
+      "numero": 45,
+      "titulo": "Saint Seiya Omega - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_441314de551ba5a9d38a4e3dd91bb80f.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/45/",
+      "publicado_en_origen": "2013-02-17 10:03:21"
+    },
+    {
+      "id_origen": 19413,
+      "numero": 46,
+      "titulo": "Saint Seiya Omega - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b5ed938de41e4ff532c02c27dfd143a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/46/",
+      "publicado_en_origen": "2013-02-24 06:14:52"
+    },
+    {
+      "id_origen": 19460,
+      "numero": 47,
+      "titulo": "Saint Seiya Omega - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_646c24129029da404e57ef28757537b8.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/47/",
+      "publicado_en_origen": "2013-03-03 04:19:12"
+    },
+    {
+      "id_origen": 19561,
+      "numero": 48,
+      "titulo": "Saint Seiya Omega - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4a5e8fb022785d56a9cefcaa4ac0ee5.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/48/",
+      "publicado_en_origen": "2013-03-10 04:05:34"
+    },
+    {
+      "id_origen": 19650,
+      "numero": 49,
+      "titulo": "Saint Seiya Omega - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f894ee87a0ac2b9ee2cce99ea0659ef4.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/49/",
+      "publicado_en_origen": "2013-03-17 01:02:52"
+    },
+    {
+      "id_origen": 19944,
+      "numero": 50,
+      "titulo": "Saint Seiya Omega - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b27d5c85dde3d0bde3b1c8b5d10362b.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/50/",
+      "publicado_en_origen": "2013-03-24 02:01:20"
+    },
+    {
+      "id_origen": 19987,
+      "numero": 51,
+      "titulo": "Saint Seiya Omega - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e15286c808ae5029dc1df40e8f343af1.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/51/",
+      "publicado_en_origen": "2013-03-31 04:52:17"
+    },
+    {
+      "id_origen": 20063,
+      "numero": 52,
+      "titulo": "Saint seiya omega 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06df3703b8d7910418d900604aa1bf86.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/52/",
+      "publicado_en_origen": "2013-04-07 06:52:56"
+    },
+    {
+      "id_origen": 20118,
+      "numero": 53,
+      "titulo": "Saint Seiya Omega - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fee119ef73799cd0aa1f036cfa268930.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/53/",
+      "publicado_en_origen": "2013-04-14 09:05:25"
+    },
+    {
+      "id_origen": 20346,
+      "numero": 54,
+      "titulo": "Saint seiya omega 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_648d1c9a9c61b78d8b44a984bab0dd09.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/54/",
+      "publicado_en_origen": "2013-04-21 03:06:21"
+    },
+    {
+      "id_origen": 20390,
+      "numero": 55,
+      "titulo": "Saint Seiya Omega - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de4d4ada2968c13a4eb3d7f023fd42a6.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/55/",
+      "publicado_en_origen": "2013-04-28 08:45:36"
+    },
+    {
+      "id_origen": 20427,
+      "numero": 56,
+      "titulo": "Saint Seiya Omega - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ff0f5f626b3285ea42f8cac93a92487a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/56/",
+      "publicado_en_origen": "2013-05-05 04:54:37"
+    },
+    {
+      "id_origen": 20465,
+      "numero": 57,
+      "titulo": "Saint Seiya Omega - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46ec9a950cd9bfbff38ce77795038843.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/57/",
+      "publicado_en_origen": "2013-05-12 07:17:42"
+    },
+    {
+      "id_origen": 20507,
+      "numero": 58,
+      "titulo": "Saint Seiya Omega - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3dc22ad3ee79f300ae1c20bc9554d87.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/58/",
+      "publicado_en_origen": "2013-05-19 03:51:43"
+    },
+    {
+      "id_origen": 20539,
+      "numero": 59,
+      "titulo": "Saint Seiya Omega - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de487db7a08250a136f966ead11da262.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/59/",
+      "publicado_en_origen": "2013-05-26 02:12:44"
+    },
+    {
+      "id_origen": 20579,
+      "numero": 60,
+      "titulo": "Saint Seiya Omega - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47d288215c79c95a062b84eb57b96058.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/60/",
+      "publicado_en_origen": "2013-06-02 01:41:40"
+    },
+    {
+      "id_origen": 20615,
+      "numero": 61,
+      "titulo": "Saint Seiya Omega - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e41bbd4af5da30044b88dc9ab711c5b2.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/61/",
+      "publicado_en_origen": "2013-06-09 01:13:08"
+    },
+    {
+      "id_origen": 20699,
+      "numero": 62,
+      "titulo": "Saint Seiya Omega - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c053666271d0d4f874e31e15fbeb082.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/62/",
+      "publicado_en_origen": "2013-06-23 01:08:40"
+    },
+    {
+      "id_origen": 21024,
+      "numero": 63,
+      "titulo": "Saint Seiya Omega - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11d0f51d9aced381efa5ce3214d9228e.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/63/",
+      "publicado_en_origen": "2013-07-07 05:30:24"
+    },
+    {
+      "id_origen": 21071,
+      "numero": 64,
+      "titulo": "Saint Seiya Omega - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_738c875d02a61f56eb30127ae50d0c88.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/64/",
+      "publicado_en_origen": "2013-07-14 03:01:29"
+    },
+    {
+      "id_origen": 21119,
+      "numero": 65,
+      "titulo": "Saint Seiya Omega - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95c1c113cb2941a27c0404300b58afbf.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/65/",
+      "publicado_en_origen": "2013-07-21 03:57:07"
+    },
+    {
+      "id_origen": 21168,
+      "numero": 66,
+      "titulo": "Saint Seiya Omega - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34a36809555aad78b1f6655ad3f012ca.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/66/",
+      "publicado_en_origen": "2013-07-28 06:15:02"
+    },
+    {
+      "id_origen": 21212,
+      "numero": 67,
+      "titulo": "Saint Seiya Omega - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef80af910fa07870e25b1a4c86d10402.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/67/",
+      "publicado_en_origen": "2013-08-04 04:11:44"
+    },
+    {
+      "id_origen": 21262,
+      "numero": 68,
+      "titulo": "Saint Seiya Omega - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_965b31e51d54c2d604af3f8008dc1db6.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/68/",
+      "publicado_en_origen": "2013-08-11 06:13:30"
+    },
+    {
+      "id_origen": 21308,
+      "numero": 69,
+      "titulo": "Saint Seiya Omega - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_432ff29e76b94b98cff04b435f5c89f2.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/69/",
+      "publicado_en_origen": "2013-08-18 06:41:07"
+    },
+    {
+      "id_origen": 21400,
+      "numero": 70,
+      "titulo": "Saint Seiya Omega - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9c0ded40a0630024a51c161925ec257.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/70/",
+      "publicado_en_origen": "2013-09-01 10:52:50"
+    },
+    {
+      "id_origen": 21497,
+      "numero": 71,
+      "titulo": "Saint Seiya Omega - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe8946bd00dd1178502ce6befbb2a29a.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/71/",
+      "publicado_en_origen": "2013-09-15 03:39:38"
+    },
+    {
+      "id_origen": 21542,
+      "numero": 72,
+      "titulo": "Saint Seiya Omega - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e4e67cbedefff39bd73f98f01e7e066.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/72/",
+      "publicado_en_origen": "2013-09-22 04:46:48"
+    },
+    {
+      "id_origen": 21580,
+      "numero": 73,
+      "titulo": "Saint Seiya Omega - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e31a1ba03ccbd7a24310cfb120957746.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/73/",
+      "publicado_en_origen": "2013-09-29 02:27:49"
+    },
+    {
+      "id_origen": 21677,
+      "numero": 74,
+      "titulo": "Saint Seiya Omega - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43cc251c33e8376d80f506ae8e4323eb.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/74/",
+      "publicado_en_origen": "2013-10-06 07:59:31"
+    },
+    {
+      "id_origen": 21729,
+      "numero": 75,
+      "titulo": "Saint Seiya Omega - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21b64b533c7445e6d7ccb6345af652b7.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/75/",
+      "publicado_en_origen": "2013-10-13 09:33:07"
+    },
+    {
+      "id_origen": 21779,
+      "numero": 76,
+      "titulo": "Saint Seiya Omega - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a778280a9bf980366ad158565840b93.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/76/",
+      "publicado_en_origen": "2013-10-20 02:38:35"
+    },
+    {
+      "id_origen": 21833,
+      "numero": 77,
+      "titulo": "Saint Seiya Omega - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb3bbc6428ed05b694af7be42909d696.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/77/",
+      "publicado_en_origen": "2013-10-27 03:04:10"
+    },
+    {
+      "id_origen": 21883,
+      "numero": 78,
+      "titulo": "Saint Seiya Omega - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_947f1a3a5122ba00b91e95a516295359.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/78/",
+      "publicado_en_origen": "2013-11-03 02:26:06"
+    },
+    {
+      "id_origen": 21935,
+      "numero": 79,
+      "titulo": "Saint Seiya Omega - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e87605e4f61ce50f8a510e663f4a644.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/79/",
+      "publicado_en_origen": "2013-11-10 04:31:53"
+    },
+    {
+      "id_origen": 22036,
+      "numero": 80,
+      "titulo": "Saint Seiya Omega - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15cf5f505ec38de721bfc1036ae585aa.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/80/",
+      "publicado_en_origen": "2013-11-24 03:03:02"
+    },
+    {
+      "id_origen": 22089,
+      "numero": 81,
+      "titulo": "Saint Seiya Omega - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_06c35f4da8a8d973fe3c611ec1fb7b49.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/81/",
+      "publicado_en_origen": "2013-12-01 03:04:26"
+    },
+    {
+      "id_origen": 22140,
+      "numero": 82,
+      "titulo": "Saint Seiya Omega - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a898f8ade5848598d11aee0fa0a1a30.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/82/",
+      "publicado_en_origen": "2013-12-08 02:42:34"
+    },
+    {
+      "id_origen": 22200,
+      "numero": 83,
+      "titulo": "Saint Seiya Omega - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81b6bf4e488b9a4208399ff589de0e15.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/83/",
+      "publicado_en_origen": "2013-12-15 03:03:50"
+    },
+    {
+      "id_origen": 22258,
+      "numero": 84,
+      "titulo": "Saint Seiya Omega - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dd7d646241a0fb880caf9525f709215c.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/84/",
+      "publicado_en_origen": "2013-12-22 02:08:06"
+    },
+    {
+      "id_origen": 22363,
+      "numero": 85,
+      "titulo": "Saint Seiya Omega - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd82bcc747197ebb3ecdf6d87e0d86b3.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/85/",
+      "publicado_en_origen": "2014-01-05 01:33:43"
+    },
+    {
+      "id_origen": 22414,
+      "numero": 86,
+      "titulo": "Saint Seiya Omega - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdfc98d231a27426af33906c0a12d319.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/86/",
+      "publicado_en_origen": "2014-01-12 01:26:01"
+    },
+    {
+      "id_origen": 22476,
+      "numero": 87,
+      "titulo": "Saint Seiya Omega - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b12dc80a650c1d057eb1ea221c4e089b.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/87/",
+      "publicado_en_origen": "2014-01-19 02:12:43"
+    },
+    {
+      "id_origen": 22533,
+      "numero": 88,
+      "titulo": "Saint Seiya Omega - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e3537cfdf5e5346b6866f05a37822ed.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/88/",
+      "publicado_en_origen": "2014-01-26 02:41:33"
+    },
+    {
+      "id_origen": 22595,
+      "numero": 89,
+      "titulo": "Saint Seiya Omega - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e0132a0ce408b645b9636d5ab4707f7b.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/89/",
+      "publicado_en_origen": "2014-02-02 01:38:16"
+    },
+    {
+      "id_origen": 22659,
+      "numero": 90,
+      "titulo": "Saint Seiya Omega - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bda612fb0ffac6de1a3be8773e0b495.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/90/",
+      "publicado_en_origen": "2014-02-09 01:57:57"
+    },
+    {
+      "id_origen": 22724,
+      "numero": 91,
+      "titulo": "Saint Seiya Omega - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_567dbf6a65b57563c28e6311c42cc2d0.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/91/",
+      "publicado_en_origen": "2014-02-16 01:30:57"
+    },
+    {
+      "id_origen": 22782,
+      "numero": 92,
+      "titulo": "Saint Seiya Omega - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed4059c872fc39292f0049516c670fc3.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/92/",
+      "publicado_en_origen": "2014-02-23 02:06:40"
+    },
+    {
+      "id_origen": 22845,
+      "numero": 93,
+      "titulo": "Saint Seiya Omega - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e5687e2d6ab87e5da2f833f3e8986a4.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/93/",
+      "publicado_en_origen": "2014-03-02 02:16:21"
+    },
+    {
+      "id_origen": 22906,
+      "numero": 94,
+      "titulo": "Saint Seiya Omega - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_50177f8a9ab8866cb77c77ae1e47c5fa.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/94/",
+      "publicado_en_origen": "2014-03-09 01:53:31"
+    },
+    {
+      "id_origen": 22971,
+      "numero": 95,
+      "titulo": "Saint Seiya Omega - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f311ae8c903da21cc02549314298624b.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/95/",
+      "publicado_en_origen": "2014-03-16 01:12:44"
+    },
+    {
+      "id_origen": 23047,
+      "numero": 96,
+      "titulo": "Saint Seiya Omega - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74d1e312f2320de5a6c94d0bece3923e.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/96/",
+      "publicado_en_origen": "2014-03-23 01:20:14"
+    },
+    {
+      "id_origen": 23099,
+      "numero": 97,
+      "titulo": "Saint Seiya Omega - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c4c65c2e1f678ba44aa520651fee3941.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-omega/97/",
+      "publicado_en_origen": "2014-03-30 02:15:45"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:09+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "534",
+  "cantidad_episodios_declarada": 97,
+  "detalle_extraido_en": "2026-08-26T18:44:39+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id_origen": 812,
+  "slug": "yondemasu-yo-azazel-san-ova",
+  "titulo": "Yondemasu yo, Azazel-san OVA",
+  "titulo_corto": "Yondemasu yo, Azazel-san OVA",
+  "sinopsis": "La historia tiene por protagonista a la asistente del detective Akutabe, Rinko Sakuma, y varios demonios mágicos que Akutabe utiliza para resolver los casos de sus clientes. La asistente usa los libros mágicos del detective para poder controlarlos y cuando son invocados al mundo humano dentro de una barrera de protección, éstos adoptan la forma de criaturas cariñosas. El demonio principal de esta historia cómica y el cual es duramente usado por los invocadores, trata nada mas ni menos que de Azazel Atsushi.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yondemasu-yo-azazel-san-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yondemasu-yo-azazel-san-ova/",
+  "episodios": [
+    {
+      "id_origen": 52426,
+      "numero": 1,
+      "titulo": "Yondemasu yo, Azazel-san OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d8bd4b9de1d67124060ff1d89aa0acf.jpg",
+      "url_origen": "https://jkanime.net/yondemasu-yo-azazel-san-ova/1/",
+      "publicado_en_origen": "2023-04-14 16:48:50"
+    },
+    {
+      "id_origen": 52427,
+      "numero": 2,
+      "titulo": "Yondemasu yo, Azazel-san OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b11b404a19ecee892f9491a8f39410a0.jpg",
+      "url_origen": "https://jkanime.net/yondemasu-yo-azazel-san-ova/2/",
+      "publicado_en_origen": "2023-04-14 16:48:50"
+    },
+    {
+      "id_origen": 52428,
+      "numero": 3,
+      "titulo": "Yondemasu yo, Azazel-san OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c15ca8e5cff50868505ef3d5b738875b.jpg",
+      "url_origen": "https://jkanime.net/yondemasu-yo-azazel-san-ova/3/",
+      "publicado_en_origen": "2023-04-14 16:48:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "812",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:52:55+00:00"
+}

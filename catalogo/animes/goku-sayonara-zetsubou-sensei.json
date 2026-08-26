@@ -1,0 +1,45 @@
+{
+  "id_origen": 4921,
+  "slug": "goku-sayonara-zetsubou-sensei",
+  "titulo": "Goku Sayonara Zetsubou Sensei",
+  "titulo_corto": "Goku Sayonara Zetsubou Sensei",
+  "sinopsis": "Sayonara Zetsubou Sensei OVA.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/goku-sayonara-zetsubou-sensei.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/goku-sayonara-zetsubou-sensei/",
+  "episodios": [
+    {
+      "id_origen": 76603,
+      "numero": 1,
+      "titulo": "Goku Sayonara Zetsubou Sensei - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a729fad251cfcb31040781ef9cb8de50.jpg",
+      "url_origen": "https://jkanime.net/goku-sayonara-zetsubou-sensei/1/",
+      "publicado_en_origen": "2026-08-19 10:53:06"
+    },
+    {
+      "id_origen": 76604,
+      "numero": 2,
+      "titulo": "Goku Sayonara Zetsubou Sensei - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1be2896504b48ddc95e8ed379d1756eb.jpg",
+      "url_origen": "https://jkanime.net/goku-sayonara-zetsubou-sensei/2/",
+      "publicado_en_origen": "2026-08-19 10:53:06"
+    },
+    {
+      "id_origen": 76605,
+      "numero": 3,
+      "titulo": "Goku Sayonara Zetsubou Sensei - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3124d348814c7fec25c88239c13589c2.jpg",
+      "url_origen": "https://jkanime.net/goku-sayonara-zetsubou-sensei/3/",
+      "publicado_en_origen": "2026-08-19 10:53:06"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:23+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4921",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:28:49+00:00"
+}

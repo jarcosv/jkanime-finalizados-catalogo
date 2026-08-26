@@ -1,0 +1,69 @@
+{
+  "id_origen": 748,
+  "slug": "girls-und-panzer-specials",
+  "titulo": "Girls und Panzer",
+  "titulo_corto": "Girls und Panzer",
+  "sinopsis": "Especiales incluídos en los Blu-rays y DVDs",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/girls-und-panzer-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/girls-und-panzer-specials/",
+  "episodios": [
+    {
+      "id_origen": 18926,
+      "numero": 1,
+      "titulo": "Girls und Panzer Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_325d7dbceacce9431b328585eab8971c.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-specials/1/",
+      "publicado_en_origen": "2013-01-04 00:10:56"
+    },
+    {
+      "id_origen": 20018,
+      "numero": 2,
+      "titulo": "Girls und panzer ova 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d103fb53db40d37fc4166d697532321.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-specials/2/",
+      "publicado_en_origen": "2013-04-01 16:55:46"
+    },
+    {
+      "id_origen": 20025,
+      "numero": 3,
+      "titulo": "Ova 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73b0224bc6bcf2334b92e18bf15ef7e9.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-specials/3/",
+      "publicado_en_origen": "2013-04-03 19:04:46"
+    },
+    {
+      "id_origen": 20671,
+      "numero": 4,
+      "titulo": "Girls und Panzer - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42ba6b440ce7e780160e3c46ad2807c2.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-specials/4/",
+      "publicado_en_origen": "2013-06-18 18:34:16"
+    },
+    {
+      "id_origen": 20688,
+      "numero": 5,
+      "titulo": "Girls und Panzer - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d9d8262844bea015e2303ae58d829bf.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-specials/5/",
+      "publicado_en_origen": "2013-06-21 19:17:22"
+    },
+    {
+      "id_origen": 20957,
+      "numero": 6,
+      "titulo": "Girls und Panzer - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aaf54da9d9fa052b5d3469f46c5c957c.jpg",
+      "url_origen": "https://jkanime.net/girls-und-panzer-specials/6/",
+      "publicado_en_origen": "2013-07-02 16:29:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "748",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:28:36+00:00"
+}

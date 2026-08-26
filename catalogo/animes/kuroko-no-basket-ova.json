@@ -1,0 +1,29 @@
+{
+  "id_origen": 1005,
+  "slug": "kuroko-no-basket-ova",
+  "titulo": "Kuroko no Basket OVA",
+  "titulo_corto": "Kuroko no Basket OVA",
+  "sinopsis": "OVA incluida en el volumen 25 del manga de Kuroko no Basket",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kuroko-no-basket-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kuroko-no-basket-ova/",
+  "episodios": [
+    {
+      "id_origen": 22183,
+      "numero": 1,
+      "titulo": "Kuroko no Basket OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35ca20541074b1df74604cf1e228e13f.jpg",
+      "url_origen": "https://jkanime.net/kuroko-no-basket-ova/1/",
+      "publicado_en_origen": "2013-12-13 13:30:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1005",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:36:00+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "id_origen": 1155,
+  "slug": "initial-d-final-stage",
+  "titulo": "Initial D Final Stage",
+  "titulo_corto": "Initial D Final Stage",
+  "sinopsis": "Después de derrotar a todos los equipos en la prefectura, todo se reduce a una última carrera. Takumi Fujiwara nunca ha perdido una carrera, pero cuando su oponente también está utilizando un AE86, se convierte en la batalla AE86. ¿Triunfará en la carrera final y más difícil de Initial D?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/initial-d-final-stage.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/initial-d-final-stage/",
+  "episodios": [
+    {
+      "id_origen": 23587,
+      "numero": 1,
+      "titulo": "Initial D Final Stage - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9113d1fb04f713f1aeb47559f70d98d0.jpg",
+      "url_origen": "https://jkanime.net/initial-d-final-stage/1/",
+      "publicado_en_origen": "2014-05-26 20:20:53"
+    },
+    {
+      "id_origen": 23640,
+      "numero": 2,
+      "titulo": "Initial D Final Stage - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb9498c98b58294f190a52c37c2972d9.jpg",
+      "url_origen": "https://jkanime.net/initial-d-final-stage/2/",
+      "publicado_en_origen": "2014-06-01 20:30:18"
+    },
+    {
+      "id_origen": 23851,
+      "numero": 3,
+      "titulo": "Initial D Final Stage - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd45d8a6bb9dbb92510b15c3cf2d4a7a.jpg",
+      "url_origen": "https://jkanime.net/initial-d-final-stage/3/",
+      "publicado_en_origen": "2014-06-29 12:51:19"
+    },
+    {
+      "id_origen": 23853,
+      "numero": 4,
+      "titulo": "Initial D Final Stage - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59e29dc7066b5a6fcf68b48e6dd67347.jpg",
+      "url_origen": "https://jkanime.net/initial-d-final-stage/4/",
+      "publicado_en_origen": "2014-06-29 18:16:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1155",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:31:51+00:00"
+}

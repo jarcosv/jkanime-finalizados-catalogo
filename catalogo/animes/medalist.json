@@ -1,0 +1,125 @@
+{
+  "id_origen": 3978,
+  "slug": "medalist",
+  "titulo": "Medalist",
+  "titulo_corto": "Medalist",
+  "sinopsis": "Tsukasa, cuyos sueños fueron aplastados. Inori, abandonada para valerse por sí misma. Estos dos comparten un sueño... y su tenacidad puede ser lo único que los ayude. ¿Su destino? El hielo... ¡en el escenario del mundo!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/medalist.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/medalist/",
+  "episodios": [
+    {
+      "id_origen": 61273,
+      "numero": 1,
+      "titulo": "Medalist - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c020c7f5cbe1b562e4776e36e940e50d.jpg",
+      "url_origen": "https://jkanime.net/medalist/1/",
+      "publicado_en_origen": "2025-01-04 20:56:48"
+    },
+    {
+      "id_origen": 61351,
+      "numero": 2,
+      "titulo": "Medalist - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a16e8e8e2ff2decd4b19443250a0a8c6.jpg",
+      "url_origen": "https://jkanime.net/medalist/2/",
+      "publicado_en_origen": "2025-01-11 13:19:47"
+    },
+    {
+      "id_origen": 61462,
+      "numero": 3,
+      "titulo": "Medalist - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1eeae92ef776ca98c9ccf8a8415caba.jpg",
+      "url_origen": "https://jkanime.net/medalist/3/",
+      "publicado_en_origen": "2025-01-18 13:23:01"
+    },
+    {
+      "id_origen": 61595,
+      "numero": 4,
+      "titulo": "Medalist - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_730191dbc1f31a02d14718d364e556e8.jpg",
+      "url_origen": "https://jkanime.net/medalist/4/",
+      "publicado_en_origen": "2025-01-25 13:28:35"
+    },
+    {
+      "id_origen": 61689,
+      "numero": 5,
+      "titulo": "Medalist - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_acebbf7f9ca0001026a0478e46844006.jpg",
+      "url_origen": "https://jkanime.net/medalist/5/",
+      "publicado_en_origen": "2025-02-01 13:22:12"
+    },
+    {
+      "id_origen": 61855,
+      "numero": 6,
+      "titulo": "Medalist - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e4925883857e1989aa4ed60569e53e9.jpg",
+      "url_origen": "https://jkanime.net/medalist/6/",
+      "publicado_en_origen": "2025-02-08 16:13:13"
+    },
+    {
+      "id_origen": 61941,
+      "numero": 7,
+      "titulo": "Medalist - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9e6a4c771810032ac067224a52f8b5b.jpg",
+      "url_origen": "https://jkanime.net/medalist/7/",
+      "publicado_en_origen": "2025-02-15 14:26:50"
+    },
+    {
+      "id_origen": 62023,
+      "numero": 8,
+      "titulo": "Medalist - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_616ce8f508eff2c6d432dff7d7c8b768.jpg",
+      "url_origen": "https://jkanime.net/medalist/8/",
+      "publicado_en_origen": "2025-02-22 13:18:44"
+    },
+    {
+      "id_origen": 62122,
+      "numero": 9,
+      "titulo": "Medalist - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7944f2254baf1d4f0b865e3edfd605b2.jpg",
+      "url_origen": "https://jkanime.net/medalist/9/",
+      "publicado_en_origen": "2025-03-01 13:18:14"
+    },
+    {
+      "id_origen": 62217,
+      "numero": 10,
+      "titulo": "Medalist - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0347484556da27d8d8eae62facb8c1b5.jpg",
+      "url_origen": "https://jkanime.net/medalist/10/",
+      "publicado_en_origen": "2025-03-09 20:05:27"
+    },
+    {
+      "id_origen": 62290,
+      "numero": 11,
+      "titulo": "Medalist - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59fbb521d75e2f277240d16132fae0ae.jpg",
+      "url_origen": "https://jkanime.net/medalist/11/",
+      "publicado_en_origen": "2025-03-17 12:11:23"
+    },
+    {
+      "id_origen": 62414,
+      "numero": 12,
+      "titulo": "Medalist - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9aa0765f378925bbe50a37370632a4ed.jpg",
+      "url_origen": "https://jkanime.net/medalist/12/",
+      "publicado_en_origen": "2025-03-22 18:50:51"
+    },
+    {
+      "id_origen": 62501,
+      "numero": 13,
+      "titulo": "Medalist - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_734d3e887019e84982265e94388889d5.jpg",
+      "url_origen": "https://jkanime.net/medalist/13/",
+      "publicado_en_origen": "2025-03-29 13:20:02"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3978",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:38:13+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 3563,
+  "slug": "sasaki-to-miyano-movie-sotsugyou-hen",
+  "titulo": "Sasaki to Miyano Movie: Sotsugyou-hen",
+  "titulo_corto": "Sasaki to Miyano Movie: Sotsug...",
+  "sinopsis": "Película de Sasaki and Miyano",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sasaki-to-miyano-movie-sotsugyou-hen.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sasaki-to-miyano-movie-sotsugyou-hen/",
+  "episodios": [
+    {
+      "id_origen": 54278,
+      "numero": 1,
+      "titulo": "Sasaki to Miyano Movie: Sotsugyou-hen",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70480bf1e81ce12dd6aa6d10367fc4bb.jpg",
+      "url_origen": "https://jkanime.net/sasaki-to-miyano-movie-sotsugyou-hen/1/",
+      "publicado_en_origen": "2023-09-30 00:58:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:44+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3563",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:45:03+00:00"
+}

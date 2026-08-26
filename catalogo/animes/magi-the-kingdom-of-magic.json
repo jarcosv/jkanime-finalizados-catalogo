@@ -1,0 +1,221 @@
+{
+  "id_origen": 950,
+  "slug": "magi-the-kingdom-of-magic",
+  "titulo": "Magi 2",
+  "titulo_corto": "Magi 2",
+  "sinopsis": "Segunda Temporada de Magi, anunciada al final del último episodio de la primera temporada. Esta temporada cubrirá el arco de Magnostadt.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/magi-the-kingdom-of-magic.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/",
+  "episodios": [
+    {
+      "id_origen": 21676,
+      "numero": 1,
+      "titulo": "Magi 2 - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d119a02021ce7f2804da25fd308f24b0.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/1/",
+      "publicado_en_origen": "2013-10-06 07:53:55"
+    },
+    {
+      "id_origen": 21727,
+      "numero": 2,
+      "titulo": "Magi 2 - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2642c4088801f315789ed587f791f3f2.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/2/",
+      "publicado_en_origen": "2013-10-13 05:40:42"
+    },
+    {
+      "id_origen": 21780,
+      "numero": 3,
+      "titulo": "Magi 2 - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3471d349777b9b91b9a24b3f2979526.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/3/",
+      "publicado_en_origen": "2013-10-20 05:40:20"
+    },
+    {
+      "id_origen": 21834,
+      "numero": 4,
+      "titulo": "Magi 2 - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a7089a9374897ec2b499e275f31fea10.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/4/",
+      "publicado_en_origen": "2013-10-27 05:38:46"
+    },
+    {
+      "id_origen": 21884,
+      "numero": 5,
+      "titulo": "Magi 2 - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48fb20ee25f8ec60949e66e5ebb46600.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/5/",
+      "publicado_en_origen": "2013-11-03 06:36:17"
+    },
+    {
+      "id_origen": 21936,
+      "numero": 6,
+      "titulo": "Magi 2 - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f5ffbe75132e2154371f842f946c4e1.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/6/",
+      "publicado_en_origen": "2013-11-10 05:41:10"
+    },
+    {
+      "id_origen": 21986,
+      "numero": 7,
+      "titulo": "Magi 2 - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eedda0a7cb52e7cd354600ccef0c799b.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/7/",
+      "publicado_en_origen": "2013-11-17 08:10:05"
+    },
+    {
+      "id_origen": 22040,
+      "numero": 8,
+      "titulo": "Magi 2 - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_58531c85829c056175c3c27c7360e9fd.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/8/",
+      "publicado_en_origen": "2013-11-24 10:30:51"
+    },
+    {
+      "id_origen": 22091,
+      "numero": 9,
+      "titulo": "Magi 2 - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bec86aeee7d10a957750af645055a115.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/9/",
+      "publicado_en_origen": "2013-12-01 06:43:15"
+    },
+    {
+      "id_origen": 22142,
+      "numero": 10,
+      "titulo": "Magi 2 - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d710c019bc0db2d7334b7fbfcdb5e171.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/10/",
+      "publicado_en_origen": "2013-12-08 05:38:55"
+    },
+    {
+      "id_origen": 22202,
+      "numero": 11,
+      "titulo": "Magi 2 - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8d1fd344c855b7d20e10071befd4ae1.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/11/",
+      "publicado_en_origen": "2013-12-15 09:39:45"
+    },
+    {
+      "id_origen": 22259,
+      "numero": 12,
+      "titulo": "Magi 2 - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9e613692de084cee0631e4f3831f1a8.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/12/",
+      "publicado_en_origen": "2013-12-22 05:58:23"
+    },
+    {
+      "id_origen": 22365,
+      "numero": 13,
+      "titulo": "Magi 2 - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d20badc2e5a7bf74ce0fc12cabfbd92.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/13/",
+      "publicado_en_origen": "2014-01-05 05:51:23"
+    },
+    {
+      "id_origen": 22417,
+      "numero": 14,
+      "titulo": "Magi 2 - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f6d11a5f98dbcc41bdcd0c970a63d3f.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/14/",
+      "publicado_en_origen": "2014-01-12 05:36:36"
+    },
+    {
+      "id_origen": 22478,
+      "numero": 15,
+      "titulo": "Magi 2 - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7d757465b17e6b28ef00f9f1551d5689.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/15/",
+      "publicado_en_origen": "2014-01-19 05:49:07"
+    },
+    {
+      "id_origen": 22536,
+      "numero": 16,
+      "titulo": "Magi 2 - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9595b8ba8c1ca41c0c83db5af78a5bc7.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/16/",
+      "publicado_en_origen": "2014-01-26 05:38:06"
+    },
+    {
+      "id_origen": 22552,
+      "numero": 17,
+      "titulo": "Magi 2 - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0068a01b6545c1e5a4cfef3ad4951a95.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/17/",
+      "publicado_en_origen": "2014-01-28 10:36:12"
+    },
+    {
+      "id_origen": 22602,
+      "numero": 18,
+      "titulo": "Magi 2 - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8affe5b7d527c01b3a287168bb4439f6.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/18/",
+      "publicado_en_origen": "2014-02-02 16:30:14"
+    },
+    {
+      "id_origen": 22665,
+      "numero": 19,
+      "titulo": "Magi 2 - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_005f441a9cc1899a77591ccf67fd8cf7.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/19/",
+      "publicado_en_origen": "2014-02-09 17:36:15"
+    },
+    {
+      "id_origen": 22784,
+      "numero": 20,
+      "titulo": "Magi 2 - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_21b49d9441391d620b8ececd6a402dc7.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/20/",
+      "publicado_en_origen": "2014-02-23 06:41:31"
+    },
+    {
+      "id_origen": 22848,
+      "numero": 21,
+      "titulo": "Magi 2 - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_26f7fe7e89bce7ecb6112bad5d5efeeb.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/21/",
+      "publicado_en_origen": "2014-03-02 12:51:48"
+    },
+    {
+      "id_origen": 22907,
+      "numero": 22,
+      "titulo": "Magi 2 - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4271742acc08a5da8f3dd4053e38b27.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/22/",
+      "publicado_en_origen": "2014-03-09 06:37:17"
+    },
+    {
+      "id_origen": 22978,
+      "numero": 23,
+      "titulo": "Magi 2 - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e36b18a4e7f6b741cd1b5787eb0c703.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/23/",
+      "publicado_en_origen": "2014-03-16 16:23:33"
+    },
+    {
+      "id_origen": 23052,
+      "numero": 24,
+      "titulo": "Magi 2 - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eaebf0b618a31bc735037646eacf7867.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/24/",
+      "publicado_en_origen": "2014-03-23 14:22:42"
+    },
+    {
+      "id_origen": 23103,
+      "numero": 25,
+      "titulo": "Magi 2 - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6677753c451487e9632f1fa7612f1745.jpg",
+      "url_origen": "https://jkanime.net/magi-the-kingdom-of-magic/25/",
+      "publicado_en_origen": "2014-03-30 13:23:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "950",
+  "cantidad_episodios_declarada": 25,
+  "detalle_extraido_en": "2026-08-26T18:37:10+00:00"
+}

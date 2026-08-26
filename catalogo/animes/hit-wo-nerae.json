@@ -1,0 +1,85 @@
+{
+  "id_origen": 4325,
+  "slug": "hit-wo-nerae",
+  "titulo": "Hit wo Nerae!",
+  "titulo_corto": "Hit wo Nerae!",
+  "sinopsis": "Mitsuki Ikuta trabaja para la empresa Houchiku Corporation, dedicándose a la producción cinematográfica. Para todos los que la conocen, es una mujer muy infantil, que sigue vistiendo a la moda juvenil. Fanática del género de películas policíacas, de repente se ve elegida para ser la productora principal de una nueva película, pero se trata de una «película de héroes» (un género que generalmente se considera infantil). Decidida a triunfar, acepta el trabajo sin importarle nada más.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hit-wo-nerae.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hit-wo-nerae/",
+  "episodios": [
+    {
+      "id_origen": 66850,
+      "numero": 1,
+      "titulo": "Hit wo Nerae! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f8d91e3943de6951008177b976cdd181.jpg",
+      "url_origen": "https://jkanime.net/hit-wo-nerae/1/",
+      "publicado_en_origen": "2025-08-16 22:32:31"
+    },
+    {
+      "id_origen": 66851,
+      "numero": 2,
+      "titulo": "Hit wo Nerae! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14738becd6a669318ded2f148a24edff.jpg",
+      "url_origen": "https://jkanime.net/hit-wo-nerae/2/",
+      "publicado_en_origen": "2025-08-16 22:32:31"
+    },
+    {
+      "id_origen": 66852,
+      "numero": 3,
+      "titulo": "Hit wo Nerae! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_229a7c2ce65b1b592c6b4f2ccbe7b70e.jpg",
+      "url_origen": "https://jkanime.net/hit-wo-nerae/3/",
+      "publicado_en_origen": "2025-08-16 22:32:31"
+    },
+    {
+      "id_origen": 66853,
+      "numero": 4,
+      "titulo": "Hit wo Nerae! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c470cc83a20b0fee7ca42cf216828a7.jpg",
+      "url_origen": "https://jkanime.net/hit-wo-nerae/4/",
+      "publicado_en_origen": "2025-08-16 22:32:31"
+    },
+    {
+      "id_origen": 66854,
+      "numero": 5,
+      "titulo": "Hit wo Nerae! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d47f9377b2dcf717437920810b587dcb.jpg",
+      "url_origen": "https://jkanime.net/hit-wo-nerae/5/",
+      "publicado_en_origen": "2025-08-16 22:32:31"
+    },
+    {
+      "id_origen": 66855,
+      "numero": 6,
+      "titulo": "Hit wo Nerae! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3107024d2f9b6b1e270d6870bd751aa.jpg",
+      "url_origen": "https://jkanime.net/hit-wo-nerae/6/",
+      "publicado_en_origen": "2025-08-16 22:32:31"
+    },
+    {
+      "id_origen": 66856,
+      "numero": 7,
+      "titulo": "Hit wo Nerae! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_378bfdc655d7b257f5d12d902e5d36ed.jpg",
+      "url_origen": "https://jkanime.net/hit-wo-nerae/7/",
+      "publicado_en_origen": "2025-08-16 22:32:31"
+    },
+    {
+      "id_origen": 66857,
+      "numero": 8,
+      "titulo": "Hit wo Nerae! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1a2a6e274d1837c83a1e29bb0366799c.jpg",
+      "url_origen": "https://jkanime.net/hit-wo-nerae/8/",
+      "publicado_en_origen": "2025-08-16 22:32:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4325",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:30:52+00:00"
+}

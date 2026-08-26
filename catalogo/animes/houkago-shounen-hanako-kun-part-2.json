@@ -1,0 +1,53 @@
+{
+  "id_origen": 3871,
+  "slug": "houkago-shounen-hanako-kun-part-2",
+  "titulo": "Houkago Shounen Hanako-kun Part 2",
+  "titulo_corto": "Houkago Shounen Hanako-kun Par...",
+  "sinopsis": "Segunda parte de Houkago Shounen Hanako-kun.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/houkago-shounen-hanako-kun-part-2.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/houkago-shounen-hanako-kun-part-2/",
+  "episodios": [
+    {
+      "id_origen": 60181,
+      "numero": 1,
+      "titulo": "Houkago Shounen Hanako-kun Part 2 - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb6a443af60e4d129f0969880e6c65f5.jpg",
+      "url_origen": "https://jkanime.net/houkago-shounen-hanako-kun-part-2/1/",
+      "publicado_en_origen": "2024-10-07 14:49:01"
+    },
+    {
+      "id_origen": 60262,
+      "numero": 2,
+      "titulo": "Houkago Shounen Hanako-kun Part 2 - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86d992f7f472145956b13421d8c090e9.jpg",
+      "url_origen": "https://jkanime.net/houkago-shounen-hanako-kun-part-2/2/",
+      "publicado_en_origen": "2024-10-15 04:01:57"
+    },
+    {
+      "id_origen": 60336,
+      "numero": 3,
+      "titulo": "Houkago Shounen Hanako-kun Part 2 - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1607cf1fba13336015873a39d39c502.jpg",
+      "url_origen": "https://jkanime.net/houkago-shounen-hanako-kun-part-2/3/",
+      "publicado_en_origen": "2024-10-21 14:07:06"
+    },
+    {
+      "id_origen": 60435,
+      "numero": 4,
+      "titulo": "Houkago Shounen Hanako-kun Part 2 - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71768b8c6ba4b2f7497bb72ffb36cc27.jpg",
+      "url_origen": "https://jkanime.net/houkago-shounen-hanako-kun-part-2/4/",
+      "publicado_en_origen": "2024-10-28 14:18:19"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3871",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:31:09+00:00"
+}

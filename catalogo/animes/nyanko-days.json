@@ -1,0 +1,117 @@
+{
+  "id_origen": 1993,
+  "slug": "nyanko-days",
+  "titulo": "Nyanko Days",
+  "titulo_corto": "Nyanko Days",
+  "sinopsis": "Esta serie sigue la historia de Tomoko, una chica tímida que llega del colegio y es recibida por sus tres gatos de rasgos humanos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nyanko-days.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nyanko-days/",
+  "episodios": [
+    {
+      "id_origen": 33809,
+      "numero": 1,
+      "titulo": "Nyanko Days - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1604a0390c1d2f29b7cfee8c0af147ef.jpg",
+      "url_origen": "https://jkanime.net/nyanko-days/1/",
+      "publicado_en_origen": "2017-01-08 16:06:11"
+    },
+    {
+      "id_origen": 33864,
+      "numero": 2,
+      "titulo": "Nyanko Days - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a890e973e0be40ad566636b229ded3c8.jpg",
+      "url_origen": "https://jkanime.net/nyanko-days/2/",
+      "publicado_en_origen": "2017-01-15 16:07:28"
+    },
+    {
+      "id_origen": 33921,
+      "numero": 3,
+      "titulo": "Nyanko Days - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5f1517b532a2dd760f7d865e4d4146c6.jpg",
+      "url_origen": "https://jkanime.net/nyanko-days/3/",
+      "publicado_en_origen": "2017-01-22 16:22:41"
+    },
+    {
+      "id_origen": 33979,
+      "numero": 4,
+      "titulo": "Nyanko Days - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a990d7a6b3327afe16cff8e7bfa58114.jpg",
+      "url_origen": "https://jkanime.net/nyanko-days/4/",
+      "publicado_en_origen": "2017-01-29 16:05:12"
+    },
+    {
+      "id_origen": 34035,
+      "numero": 5,
+      "titulo": "Nyanko Days - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccdf2c69fadaa5127cbd0c0a7feac280.jpg",
+      "url_origen": "https://jkanime.net/nyanko-days/5/",
+      "publicado_en_origen": "2017-02-05 16:24:28"
+    },
+    {
+      "id_origen": 34089,
+      "numero": 6,
+      "titulo": "Nyanko Days - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7e796863ab005a8737c6912a665ad77.jpg",
+      "url_origen": "https://jkanime.net/nyanko-days/6/",
+      "publicado_en_origen": "2017-02-12 16:08:51"
+    },
+    {
+      "id_origen": 34144,
+      "numero": 7,
+      "titulo": "Nyanko Days - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22faad819c7d2f9739083b503674694e.jpg",
+      "url_origen": "https://jkanime.net/nyanko-days/7/",
+      "publicado_en_origen": "2017-02-19 16:22:40"
+    },
+    {
+      "id_origen": 34213,
+      "numero": 8,
+      "titulo": "Nyanko Days - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_46b0a7a1beb72216e5c82b3cf32253f0.jpg",
+      "url_origen": "https://jkanime.net/nyanko-days/8/",
+      "publicado_en_origen": "2017-02-26 16:06:55"
+    },
+    {
+      "id_origen": 34265,
+      "numero": 9,
+      "titulo": "Nyanko Days - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a010f0312373c02e0d15cdfc56ea416.jpg",
+      "url_origen": "https://jkanime.net/nyanko-days/9/",
+      "publicado_en_origen": "2017-03-05 16:06:53"
+    },
+    {
+      "id_origen": 34320,
+      "numero": 10,
+      "titulo": "Nyanko Days - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48e72a50e74d49914bca77716cba2694.jpg",
+      "url_origen": "https://jkanime.net/nyanko-days/10/",
+      "publicado_en_origen": "2017-03-12 15:30:43"
+    },
+    {
+      "id_origen": 34376,
+      "numero": 11,
+      "titulo": "Nyanko Days - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f136cbc6bfca2fc13d46f42b44d450c6.jpg",
+      "url_origen": "https://jkanime.net/nyanko-days/11/",
+      "publicado_en_origen": "2017-03-19 15:07:28"
+    },
+    {
+      "id_origen": 34426,
+      "numero": 12,
+      "titulo": "Nyanko Days - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_abfa1f5e96b177d167fe072425909a14.jpg",
+      "url_origen": "https://jkanime.net/nyanko-days/12/",
+      "publicado_en_origen": "2017-03-26 15:04:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:28+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1993",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:40:54+00:00"
+}

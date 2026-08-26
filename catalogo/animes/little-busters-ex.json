@@ -1,0 +1,85 @@
+{
+  "id_origen": 1066,
+  "slug": "little-busters-ex",
+  "titulo": "Little Busters!: EX",
+  "titulo_corto": "Little Busters!: EX",
+  "sinopsis": "OVA de Little Busters EX el Arco de Saya donde veremos a Rikki enfrentando unas nuevas adversidades junto a la chica misteriosa de su colegio, quien se vera envuelta en un nuevo misterio en busca del tesoro, sin la ayuda de Kyousuke!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/little-busters-ex.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/little-busters-ex/",
+  "episodios": [
+    {
+      "id_origen": 22563,
+      "numero": 1,
+      "titulo": "Little Busters!: EX - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8548f76db3195b7b3bbe1791092dd99e.jpg",
+      "url_origen": "https://jkanime.net/little-busters-ex/1/",
+      "publicado_en_origen": "2014-01-29 23:24:37"
+    },
+    {
+      "id_origen": 22818,
+      "numero": 2,
+      "titulo": "Little Busters!: EX - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_460295ce15c9440d9be6fb474387a285.jpg",
+      "url_origen": "https://jkanime.net/little-busters-ex/2/",
+      "publicado_en_origen": "2014-02-27 08:11:35"
+    },
+    {
+      "id_origen": 23083,
+      "numero": 3,
+      "titulo": "Little Busters!: EX - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_57ba5f17ed6198b54e4ccf755c6749be.jpg",
+      "url_origen": "https://jkanime.net/little-busters-ex/3/",
+      "publicado_en_origen": "2014-03-27 15:09:14"
+    },
+    {
+      "id_origen": 23314,
+      "numero": 4,
+      "titulo": "Little Busters!: EX - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b2162cfe0ee06de05d193bee50cb950f.jpg",
+      "url_origen": "https://jkanime.net/little-busters-ex/4/",
+      "publicado_en_origen": "2014-04-24 18:22:32"
+    },
+    {
+      "id_origen": 23603,
+      "numero": 5,
+      "titulo": "Little Busters!: EX - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c6fcb15b98ed1bc6cd263ee195130de7.jpg",
+      "url_origen": "https://jkanime.net/little-busters-ex/5/",
+      "publicado_en_origen": "2014-05-29 12:13:23"
+    },
+    {
+      "id_origen": 23833,
+      "numero": 6,
+      "titulo": "Little Busters!: EX - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66e96398da90a8d37c3c67d6e136fb03.jpg",
+      "url_origen": "https://jkanime.net/little-busters-ex/6/",
+      "publicado_en_origen": "2014-06-27 00:28:23"
+    },
+    {
+      "id_origen": 24577,
+      "numero": 7,
+      "titulo": "Little Busters!: EX - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_43e20093467ea41106ceebbb918308c3.jpg",
+      "url_origen": "https://jkanime.net/little-busters-ex/7/",
+      "publicado_en_origen": "2014-08-29 18:02:04"
+    },
+    {
+      "id_origen": 24625,
+      "numero": 8,
+      "titulo": "Little Busters!: EX - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edf5344746876114b61eaee7652037c5.jpg",
+      "url_origen": "https://jkanime.net/little-busters-ex/8/",
+      "publicado_en_origen": "2014-09-03 13:52:56"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1066",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:36:30+00:00"
+}

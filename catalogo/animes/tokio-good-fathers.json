@@ -1,0 +1,29 @@
+{
+  "id_origen": 204,
+  "slug": "tokio-good-fathers",
+  "titulo": "Tokyo Godfathers",
+  "titulo_corto": "Tokyo Godfathers",
+  "sinopsis": "3 vagabundos, con un pasado distinto y doloroso encuentran a una bebe abandonada en la noche de navidad, todos deciden ir en busca de sus padres y lo que no saben es que tendrán que enfrentarse a su pasado para poder lograrlo.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tokio-good-fathers.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tokio-good-fathers/",
+  "episodios": [
+    {
+      "id_origen": 14115,
+      "numero": 1,
+      "titulo": "Tokyo Godfathers - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee364229b2791d1ef9355708eff0ba34.jpg",
+      "url_origen": "https://jkanime.net/tokio-good-fathers/1/",
+      "publicado_en_origen": "2011-12-30 19:28:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:35+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "204",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:49:44+00:00"
+}

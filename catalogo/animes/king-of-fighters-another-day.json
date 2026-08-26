@@ -1,0 +1,53 @@
+{
+  "id_origen": 487,
+  "slug": "king-of-fighters-another-day",
+  "titulo": "King of Fighters: Another Day",
+  "titulo_corto": "King of Fighters: Another Day",
+  "sinopsis": "En una ciudad donde se alojaban algunos de los luchadores de King of Fighters se producía un gran incendio el cual se creía que fue creado por un clon del personaje Kyo. Los luchadores decidieron ayudar con el problema pero algunos enemigos se oponían a eso, pero los King of Fighters no dejaron todo como los criminales querían, sino que se opusieron y crearon una gran batalla.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/king-of-fighters-another-day.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/king-of-fighters-another-day/",
+  "episodios": [
+    {
+      "id_origen": 14488,
+      "numero": 1,
+      "titulo": "King of Fighters: Another Day - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_827f9b2d5830e0cf3d3987cc9b575eec.jpg",
+      "url_origen": "https://jkanime.net/king-of-fighters-another-day/1/",
+      "publicado_en_origen": "2012-01-11 20:27:43"
+    },
+    {
+      "id_origen": 14489,
+      "numero": 2,
+      "titulo": "King of Fighters: Another Day - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8efe4ff08d6f51db0f7179fbef12f2f1.jpg",
+      "url_origen": "https://jkanime.net/king-of-fighters-another-day/2/",
+      "publicado_en_origen": "2012-01-11 20:27:43"
+    },
+    {
+      "id_origen": 14490,
+      "numero": 3,
+      "titulo": "King of Fighters: Another Day - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79bdf6773fe52c08470c97f7218ed3e9.jpg",
+      "url_origen": "https://jkanime.net/king-of-fighters-another-day/3/",
+      "publicado_en_origen": "2012-01-11 20:27:43"
+    },
+    {
+      "id_origen": 14491,
+      "numero": 4,
+      "titulo": "King of Fighters: Another Day - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24bdf19471ff9ff91a2aed47a747ca4e.jpg",
+      "url_origen": "https://jkanime.net/king-of-fighters-another-day/4/",
+      "publicado_en_origen": "2012-01-11 20:27:43"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "487",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:34:50+00:00"
+}

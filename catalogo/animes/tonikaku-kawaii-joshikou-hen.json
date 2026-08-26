@@ -1,0 +1,53 @@
+{
+  "id_origen": 3467,
+  "slug": "tonikaku-kawaii-joshikou-hen",
+  "titulo": "Tonikaku Kawaii: Joshikou-hen",
+  "titulo_corto": "Tonikaku Kawaii: Joshikou-hen",
+  "sinopsis": "Nasa, a petición de su antigua profesora de secundaria, se encuentra enseñando programación en una escuela exclusiva para chicas. Rodeado de la energía adolescente, lucha por mantener la calma mientras se siente nervioso en su interior. Con un novio caprichoso y secretas admiraciones, Nasa se enfrenta a dilemas románticos que van más allá de la programación. ¿Podrá descifrar la ecuación del amor?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tonikaku-kawaii-joshikou-hen.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tonikaku-kawaii-joshikou-hen/",
+  "episodios": [
+    {
+      "id_origen": 53400,
+      "numero": 1,
+      "titulo": "Tonikaku Kawaii: Joshikou-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b44af8664ffc1807994313b2e1dae52d.jpg",
+      "url_origen": "https://jkanime.net/tonikaku-kawaii-joshikou-hen/1/",
+      "publicado_en_origen": "2023-07-13 14:09:40"
+    },
+    {
+      "id_origen": 53545,
+      "numero": 2,
+      "titulo": "Tonikaku Kawaii: Joshikou-hen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2dd9e04b025a2b562fc0316079e24272.jpg",
+      "url_origen": "https://jkanime.net/tonikaku-kawaii-joshikou-hen/2/",
+      "publicado_en_origen": "2023-07-26 01:27:53"
+    },
+    {
+      "id_origen": 53689,
+      "numero": 3,
+      "titulo": "Tonikaku Kawaii: Joshikou-hen - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3695b5e73675a2941f678fde9a17c5dc.jpg",
+      "url_origen": "https://jkanime.net/tonikaku-kawaii-joshikou-hen/3/",
+      "publicado_en_origen": "2023-08-09 11:51:54"
+    },
+    {
+      "id_origen": 53853,
+      "numero": 4,
+      "titulo": "Tonikaku Kawaii: Joshikou-hen - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_77378b0a14deb9667c137de9f7105834.jpg",
+      "url_origen": "https://jkanime.net/tonikaku-kawaii-joshikou-hen/4/",
+      "publicado_en_origen": "2023-08-23 18:18:26"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3467",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:49:55+00:00"
+}

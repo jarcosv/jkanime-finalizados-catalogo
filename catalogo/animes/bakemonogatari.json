@@ -1,0 +1,141 @@
+{
+  "id_origen": 104,
+  "slug": "bakemonogatari",
+  "titulo": "Bakemonogatari",
+  "titulo_corto": "Bakemonogatari",
+  "sinopsis": "La serie se centra en Komoyi Araragi, un estudiante de tercer año de secundaria, quien trata de vivir su vida normal de nuevo tras haber sido un vampiro. Un día, una compañera de clase llamada Hitagi Senjōgahara,(quien tiene la fama de no hablar con nadie), se cae de las escaleras y aterriza en los brazos de Araragi El se percata de que Hitagi pesa muy poco para su estatura. Tras una charla con ella, Komoyi le ofrece su ayuda y le presenta a Meme Oshino, un hombre de mediana edad quien ayudo a nuestro protagonista a volver a ser humano. A lo largo de la serie Araragi comienza a conocer casos de otras personas que han tenido encuentros paranormales como los de el y decide ayudarles (curiosamente son puras chicas).",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bakemonogatari.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bakemonogatari/",
+  "episodios": [
+    {
+      "id_origen": 14349,
+      "numero": 1,
+      "titulo": "Bakemonogatari - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e0a791950a53842e60d83295368cdff.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/1/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14350,
+      "numero": 2,
+      "titulo": "Bakemonogatari - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_effbafd134873f47f49c740581fb1854.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/2/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14351,
+      "numero": 3,
+      "titulo": "Bakemonogatari - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccd44234c58cba8173f8ae706a0fce24.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/3/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14352,
+      "numero": 4,
+      "titulo": "Bakemonogatari - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37b1fe960daba91fffadbdb5a3a9db15.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/4/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14353,
+      "numero": 5,
+      "titulo": "Bakemonogatari - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54d0ad877584296abb129e2e4f60ee67.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/5/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14354,
+      "numero": 6,
+      "titulo": "Bakemonogatari - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_184264bf0c886f2ee3198ff54561c51d.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/6/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14355,
+      "numero": 7,
+      "titulo": "Bakemonogatari - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_61d584107d2d965b4bc26d8c9958b518.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/7/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14356,
+      "numero": 8,
+      "titulo": "Bakemonogatari - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c7836dbabd12c458d20e3b35633733a.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/8/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14357,
+      "numero": 9,
+      "titulo": "Bakemonogatari - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e8cb5f581442030021d62fd780fa674d.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/9/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14358,
+      "numero": 10,
+      "titulo": "Bakemonogatari - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5dc624e80d9ab94e3229ec29f675c19d.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/10/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14359,
+      "numero": 11,
+      "titulo": "Bakemonogatari - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d0122e6c17cdb89f8eed4d75b5f5eef.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/11/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14360,
+      "numero": 12,
+      "titulo": "Bakemonogatari - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a64a1476544db9bd76a6d1f024a3a8c6.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/12/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14361,
+      "numero": 13,
+      "titulo": "Bakemonogatari - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0e2cb039638d9ab503d33105ed343d7e.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/13/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14362,
+      "numero": 14,
+      "titulo": "Bakemonogatari - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5815151957be36ad2085b7a1a02c5cc.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/14/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    },
+    {
+      "id_origen": 14363,
+      "numero": 15,
+      "titulo": "Bakemonogatari - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_785cf0a5def4977e0210f07e0f925fa1.jpg",
+      "url_origen": "https://jkanime.net/bakemonogatari/15/",
+      "publicado_en_origen": "2012-01-09 02:56:15"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "104",
+  "cantidad_episodios_declarada": 15,
+  "detalle_extraido_en": "2026-08-26T18:18:41+00:00"
+}

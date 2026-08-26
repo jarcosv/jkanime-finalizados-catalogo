@@ -1,0 +1,29 @@
+{
+  "id_origen": 2064,
+  "slug": "sword-art-online-movie-ordinal-scale",
+  "titulo": "Sword Art Online Movie: Ordinal Scale",
+  "titulo_corto": "Sword Art Online Movie: Ordina...",
+  "sinopsis": "La película tiene lugar tras los hechos acontecidos en la segunda temporada animada. Kirito, Asuna y sus amigos empiezan a jugar a un nuevo juego conocido como OS (Ordinal Scale) que, a diferencia de los juegos anteriores, utiliza un sistema de realidad aumentada llamado Augma. En este juego, los jugadores se clasifican de acuerdo a sus rangos por lo que los jugadores con rangos inferiores tienen grandes desventajas. Sin embargo, Kirito y sus amigos descubren que algo va mal cuando se encuentran con monstruos de Aincrad.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sword-art-online-movie-ordinal-scale.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sword-art-online-movie-ordinal-scale/",
+  "episodios": [
+    {
+      "id_origen": 35738,
+      "numero": 1,
+      "titulo": "Sword Art Online Movie: Ordinal Scale",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd97bb50e4b07a520a0f4844554bdd4a.jpg",
+      "url_origen": "https://jkanime.net/sword-art-online-movie-ordinal-scale/1/",
+      "publicado_en_origen": "2017-10-02 15:13:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:25+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2064",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:48:13+00:00"
+}

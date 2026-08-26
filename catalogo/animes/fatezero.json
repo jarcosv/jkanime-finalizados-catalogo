@@ -1,0 +1,125 @@
+{
+  "id_origen": 431,
+  "slug": "fatezero",
+  "titulo": "Fate/Zero",
+  "titulo_corto": "Fate/Zero",
+  "sinopsis": "Ciudad Fuyuki. 10 años antes de Fate/ Stay Night. Comienza la cuarta guerra por obtener el santo grial. 7 hechiceros lucharan entre si, y para ello, invocan héroes del pasado quienes los asistiran para librar batallas despiadadas, y así poder cumplir sus ideales.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fatezero,fate-zero.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fatezero/",
+  "episodios": [
+    {
+      "id_origen": 12648,
+      "numero": 1,
+      "titulo": "Fate/zero - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bff3f64f354e35b89422273e74cab8f.jpg",
+      "url_origen": "https://jkanime.net/fatezero/1/",
+      "publicado_en_origen": "2011-10-04 00:40:13"
+    },
+    {
+      "id_origen": 12660,
+      "numero": 2,
+      "titulo": "Fate/zero - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a7e322fae2b1140884858180a4353a7.jpg",
+      "url_origen": "https://jkanime.net/fatezero/2/",
+      "publicado_en_origen": "2011-10-09 12:08:10"
+    },
+    {
+      "id_origen": 12737,
+      "numero": 3,
+      "titulo": "Fate/zero - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5f2b2528bd068e1643b5ec310cd5d8c.jpg",
+      "url_origen": "https://jkanime.net/fatezero/3/",
+      "publicado_en_origen": "2011-10-15 16:53:07"
+    },
+    {
+      "id_origen": 13011,
+      "numero": 4,
+      "titulo": "Fate/zero - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3da508de45fcad17289fd382a1b95376.jpg",
+      "url_origen": "https://jkanime.net/fatezero/4/",
+      "publicado_en_origen": "2011-10-23 23:34:39"
+    },
+    {
+      "id_origen": 13027,
+      "numero": 5,
+      "titulo": "Fate/zero - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9953a9514b2a810825f17416e1e32f7d.jpg",
+      "url_origen": "https://jkanime.net/fatezero/5/",
+      "publicado_en_origen": "2011-10-29 17:14:42"
+    },
+    {
+      "id_origen": 13057,
+      "numero": 6,
+      "titulo": "Fate/zero - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_265e5f95d04550eb5b53ab39f4860336.jpg",
+      "url_origen": "https://jkanime.net/fatezero/6/",
+      "publicado_en_origen": "2011-11-06 11:55:52"
+    },
+    {
+      "id_origen": 13069,
+      "numero": 7,
+      "titulo": "Fate/zero - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30cd1e36baf6f9f1cc50d66e55e09984.jpg",
+      "url_origen": "https://jkanime.net/fatezero/7/",
+      "publicado_en_origen": "2011-11-13 02:15:03"
+    },
+    {
+      "id_origen": 13301,
+      "numero": 8,
+      "titulo": "Fate/zero - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1f581b9f9af4ca9be996aa40da6759e.jpg",
+      "url_origen": "https://jkanime.net/fatezero/8/",
+      "publicado_en_origen": "2011-11-20 12:03:00"
+    },
+    {
+      "id_origen": 13314,
+      "numero": 9,
+      "titulo": "Fate/zero - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5410e4439f038b0cb96884b2700faad4.jpg",
+      "url_origen": "https://jkanime.net/fatezero/9/",
+      "publicado_en_origen": "2011-11-27 00:08:39"
+    },
+    {
+      "id_origen": 13398,
+      "numero": 10,
+      "titulo": "Fate/zero - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_757deb22acbb6b1e217fc378ac78b2a4.jpg",
+      "url_origen": "https://jkanime.net/fatezero/10/",
+      "publicado_en_origen": "2011-12-04 02:26:44"
+    },
+    {
+      "id_origen": 13689,
+      "numero": 11,
+      "titulo": "Fate/zero - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b4192ee086949047cfc64d86d895c2e.jpg",
+      "url_origen": "https://jkanime.net/fatezero/11/",
+      "publicado_en_origen": "2011-12-11 03:16:15"
+    },
+    {
+      "id_origen": 13861,
+      "numero": 12,
+      "titulo": "Fate/zero - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_320274ee8b7f2e8a82d37d07f64c0e0b.jpg",
+      "url_origen": "https://jkanime.net/fatezero/12/",
+      "publicado_en_origen": "2011-12-18 07:47:47"
+    },
+    {
+      "id_origen": 14089,
+      "numero": 13,
+      "titulo": "Fate/zero - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f13b8707a8ea1da23e10c93b67bec70f.jpg",
+      "url_origen": "https://jkanime.net/fatezero/13/",
+      "publicado_en_origen": "2011-12-25 09:19:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:11+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "431",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:26:59+00:00"
+}

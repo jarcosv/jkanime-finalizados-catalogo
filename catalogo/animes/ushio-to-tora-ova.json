@@ -1,0 +1,101 @@
+{
+  "id_origen": 1565,
+  "slug": "ushio-to-tora-ova",
+  "titulo": "Ushio to Tora OVA",
+  "titulo_corto": "Ushio to Tora OVA",
+  "sinopsis": "Ushio es un joven que no cree ni una pizca de las historias de monstruos que le cuenta su papá, una de ellas dice que en el templo de su casa se halla un Youkai empalado desde hace 500 años por la Lanza de la Subyugación del Mal.\nMientras Ushio curoseaba entre las cosas del templo, encuentra un extraño sótano donde yace aquel youkai del que le hablaba su padre.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ushio-to-tora-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ushio-to-tora-ova/",
+  "episodios": [
+    {
+      "id_origen": 28467,
+      "numero": 1,
+      "titulo": "Ushio to Tora OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7363e32af3e3a10f22af512c70068958.jpg",
+      "url_origen": "https://jkanime.net/ushio-to-tora-ova/1/",
+      "publicado_en_origen": "2015-06-17 18:41:07"
+    },
+    {
+      "id_origen": 28468,
+      "numero": 2,
+      "titulo": "Ushio to Tora OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b975b9f0481510eafbbfb055280e433.jpg",
+      "url_origen": "https://jkanime.net/ushio-to-tora-ova/2/",
+      "publicado_en_origen": "2015-06-17 18:41:12"
+    },
+    {
+      "id_origen": 28469,
+      "numero": 3,
+      "titulo": "Ushio to Tora OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d8470222cb0e9ca1519ab84406ef2b2.jpg",
+      "url_origen": "https://jkanime.net/ushio-to-tora-ova/3/",
+      "publicado_en_origen": "2015-06-17 18:41:12"
+    },
+    {
+      "id_origen": 28470,
+      "numero": 4,
+      "titulo": "Ushio to Tora OVA - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5af7c96251ec5ea316631afea1456741.jpg",
+      "url_origen": "https://jkanime.net/ushio-to-tora-ova/4/",
+      "publicado_en_origen": "2015-06-17 18:41:12"
+    },
+    {
+      "id_origen": 28471,
+      "numero": 5,
+      "titulo": "Ushio to Tora OVA - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdd25d3af14a5f95114efbfe087c114a.jpg",
+      "url_origen": "https://jkanime.net/ushio-to-tora-ova/5/",
+      "publicado_en_origen": "2015-06-17 18:41:12"
+    },
+    {
+      "id_origen": 28472,
+      "numero": 6,
+      "titulo": "Ushio to Tora OVA - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_176a2693ce60b898b32a74e53acd02c5.jpg",
+      "url_origen": "https://jkanime.net/ushio-to-tora-ova/6/",
+      "publicado_en_origen": "2015-06-17 18:41:12"
+    },
+    {
+      "id_origen": 28473,
+      "numero": 7,
+      "titulo": "Ushio to Tora OVA - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0a562e5e7a47735e4c278bccfb89add.jpg",
+      "url_origen": "https://jkanime.net/ushio-to-tora-ova/7/",
+      "publicado_en_origen": "2015-06-17 18:41:12"
+    },
+    {
+      "id_origen": 28474,
+      "numero": 8,
+      "titulo": "Ushio to Tora OVA - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f50ebce922538b3c57a3e6b7bbb6d628.jpg",
+      "url_origen": "https://jkanime.net/ushio-to-tora-ova/8/",
+      "publicado_en_origen": "2015-06-17 18:41:12"
+    },
+    {
+      "id_origen": 28475,
+      "numero": 9,
+      "titulo": "Ushio to Tora OVA - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b8fd3f079e7f86de2eb88ff847effee.jpg",
+      "url_origen": "https://jkanime.net/ushio-to-tora-ova/9/",
+      "publicado_en_origen": "2015-06-17 18:41:12"
+    },
+    {
+      "id_origen": 28476,
+      "numero": 10,
+      "titulo": "Ushio to Tora OVA - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e5d5e4d7daa84ec47d4de5373b97d797.jpg",
+      "url_origen": "https://jkanime.net/ushio-to-tora-ova/10/",
+      "publicado_en_origen": "2015-06-17 18:41:12"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:45+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1565",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:51:18+00:00"
+}

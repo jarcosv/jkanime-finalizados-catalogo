@@ -1,0 +1,101 @@
+{
+  "id_origen": 1210,
+  "slug": "love-stage",
+  "titulo": "Love Stage!!",
+  "titulo_corto": "Love Stage!!",
+  "sinopsis": "Con un padre que es cantante, una madre que es estrella de cine, y un hermano mayor, Shougo, que es el vocalista de la súper popular banda “The Crusherz”, Sena Izumi, -un estudiante universitario Otaku- es el único aburrido en esta familia famosa y talentosa. El ama “Magical Girl LalaLulu” y trabaja duro para ser un Mangaka, pero un día aparecerá en un comercial de la televisión que no podrá rechazar. Aquí, se reúne con el popular Ichijou Ryoma, el joven actor con el que coprotagonizo un proyecto diez años atrás.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/love-stage.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/love-stage/",
+  "episodios": [
+    {
+      "id_origen": 23945,
+      "numero": 1,
+      "titulo": "Love Stage!! - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7a37dd1e972ec27bcf0858a893d00a4.jpg",
+      "url_origen": "https://jkanime.net/love-stage/1/",
+      "publicado_en_origen": "2014-07-09 13:49:53"
+    },
+    {
+      "id_origen": 24007,
+      "numero": 2,
+      "titulo": "Love Stage!! - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ee9bee2c7227c35ac1ca90f2e4fb172.jpg",
+      "url_origen": "https://jkanime.net/love-stage/2/",
+      "publicado_en_origen": "2014-07-16 13:59:45"
+    },
+    {
+      "id_origen": 24071,
+      "numero": 3,
+      "titulo": "Love Stage!! - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b7591879ca3f8310901b0d4ea1980f6.jpg",
+      "url_origen": "https://jkanime.net/love-stage/3/",
+      "publicado_en_origen": "2014-07-23 13:51:45"
+    },
+    {
+      "id_origen": 24136,
+      "numero": 4,
+      "titulo": "Love Stage!! - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4285f654d1785debf268b92614923237.jpg",
+      "url_origen": "https://jkanime.net/love-stage/4/",
+      "publicado_en_origen": "2014-07-30 12:51:44"
+    },
+    {
+      "id_origen": 24201,
+      "numero": 5,
+      "titulo": "Love Stage!! - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30d4acd988cebcb9d2142e2af7a9dbaf.jpg",
+      "url_origen": "https://jkanime.net/love-stage/5/",
+      "publicado_en_origen": "2014-08-06 12:56:31"
+    },
+    {
+      "id_origen": 24387,
+      "numero": 6,
+      "titulo": "Love Stage!! - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6968c3393df3384bc53ad58a7541f7e.jpg",
+      "url_origen": "https://jkanime.net/love-stage/6/",
+      "publicado_en_origen": "2014-08-13 13:01:53"
+    },
+    {
+      "id_origen": 24492,
+      "numero": 7,
+      "titulo": "Love Stage!! - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6aa60d2a8890de71da28c465d46992ad.jpg",
+      "url_origen": "https://jkanime.net/love-stage/7/",
+      "publicado_en_origen": "2014-08-20 12:52:09"
+    },
+    {
+      "id_origen": 24556,
+      "numero": 8,
+      "titulo": "Love Stage!! - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68a822664a3ea25fc51ef70282d26185.jpg",
+      "url_origen": "https://jkanime.net/love-stage/8/",
+      "publicado_en_origen": "2014-08-27 12:56:32"
+    },
+    {
+      "id_origen": 24623,
+      "numero": 9,
+      "titulo": "Love Stage!! - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c567b3a11dc09983b9b265d43f27563.jpg",
+      "url_origen": "https://jkanime.net/love-stage/9/",
+      "publicado_en_origen": "2014-09-03 12:56:25"
+    },
+    {
+      "id_origen": 24720,
+      "numero": 10,
+      "titulo": "Love Stage!! - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dc11b1836ecb818fffa3e8045eb95a61.jpg",
+      "url_origen": "https://jkanime.net/love-stage/10/",
+      "publicado_en_origen": "2014-09-10 12:49:45"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1210",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:36:48+00:00"
+}

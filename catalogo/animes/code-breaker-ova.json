@@ -1,0 +1,45 @@
+{
+  "id_origen": 775,
+  "slug": "code-breaker-ova",
+  "titulo": "Code:Breaker OVA",
+  "titulo_corto": "Code:Breaker OVA",
+  "sinopsis": "OVA de tres episodios de Code:Breaker. Cada ova se incluirá con los volúmenes 22, 23 y 24 del manga, respectivamente.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/code-breaker-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/code-breaker-ova/",
+  "episodios": [
+    {
+      "id_origen": 19432,
+      "numero": 1,
+      "titulo": "Code:Breaker OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ace6e5456b0e48d7a46c20ec579904d.jpg",
+      "url_origen": "https://jkanime.net/code-breaker-ova/1/",
+      "publicado_en_origen": "2013-02-27 01:10:47"
+    },
+    {
+      "id_origen": 22254,
+      "numero": 2,
+      "titulo": "Code:Breaker OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8709c68806a55ca2b12db80514b8e3c8.jpg",
+      "url_origen": "https://jkanime.net/code-breaker-ova/2/",
+      "publicado_en_origen": "2013-12-21 15:31:05"
+    },
+    {
+      "id_origen": 23122,
+      "numero": 3,
+      "titulo": "Code:Breaker OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30d0da315d9888b7d7df6dfcb59d40e8.jpg",
+      "url_origen": "https://jkanime.net/code-breaker-ova/3/",
+      "publicado_en_origen": "2014-04-03 11:49:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:04+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "775",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:23:56+00:00"
+}

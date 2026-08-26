@@ -1,0 +1,29 @@
+{
+  "id_origen": 1244,
+  "slug": "sora-no-otoshimono-final-eternal-my-master",
+  "titulo": "Sora no Otoshimono Final: Eternal My Master",
+  "titulo_corto": "Sora no Otoshimono Final: Eter...",
+  "sinopsis": "La segunda película de Sora no Otoshimono.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/sora-no-otoshimono-final-eternal-my-master.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/sora-no-otoshimono-final-eternal-my-master/",
+  "episodios": [
+    {
+      "id_origen": 24586,
+      "numero": 1,
+      "titulo": "Sora no Otoshimono Final: Eternal My Master",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1c03a94d8ec9cd62597c9910247a3de.jpg",
+      "url_origen": "https://jkanime.net/sora-no-otoshimono-final-eternal-my-master/1/",
+      "publicado_en_origen": "2014-08-30 16:09:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1244",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:47:20+00:00"
+}

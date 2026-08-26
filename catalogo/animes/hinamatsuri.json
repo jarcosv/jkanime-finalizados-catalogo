@@ -1,0 +1,117 @@
+{
+  "id_origen": 2227,
+  "slug": "hinamatsuri",
+  "titulo": "Hinamatsuri",
+  "titulo_corto": "Hinamatsuri",
+  "sinopsis": "Nitta es un miembro de la yakuza a quien, un día, le cae un objeto en la cabeza: una caja del que su interior aparece una chica llamada Hina. La joven, que tiene poderes sobrenaturales increíbles, se queda con Nitta para dar comienzo a su extraña vida en común en la que Hina debe usar sus poderes para no acabar destruyéndolo todo a su alrededor.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hinamatsuri.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hinamatsuri/",
+  "episodios": [
+    {
+      "id_origen": 36995,
+      "numero": 1,
+      "titulo": "Hinamatsuri - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_153f1e0bb44b5a2fa89752a5dfcd50d7.jpg",
+      "url_origen": "https://jkanime.net/hinamatsuri/1/",
+      "publicado_en_origen": "2018-04-08 15:05:43"
+    },
+    {
+      "id_origen": 37028,
+      "numero": 2,
+      "titulo": "Hinamatsuri - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd9b2922227b0e2c04bd217bd36844e5.jpg",
+      "url_origen": "https://jkanime.net/hinamatsuri/2/",
+      "publicado_en_origen": "2018-04-13 15:37:06"
+    },
+    {
+      "id_origen": 37077,
+      "numero": 3,
+      "titulo": "Hinamatsuri - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_892f34aa7ab656adb0cc58dbcbd08d7c.jpg",
+      "url_origen": "https://jkanime.net/hinamatsuri/3/",
+      "publicado_en_origen": "2018-04-20 13:53:16"
+    },
+    {
+      "id_origen": 37117,
+      "numero": 4,
+      "titulo": "Hinamatsuri - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_512ba6448f63790387e2ad3d3bc630d0.jpg",
+      "url_origen": "https://jkanime.net/hinamatsuri/4/",
+      "publicado_en_origen": "2018-04-27 12:32:35"
+    },
+    {
+      "id_origen": 37164,
+      "numero": 5,
+      "titulo": "Hinamatsuri - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf050ac42411f066b9f802fe83ae053b.jpg",
+      "url_origen": "https://jkanime.net/hinamatsuri/5/",
+      "publicado_en_origen": "2018-05-04 15:08:17"
+    },
+    {
+      "id_origen": 37200,
+      "numero": 6,
+      "titulo": "Hinamatsuri - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c832b63f097faf197cdb1f16f78c89bb.jpg",
+      "url_origen": "https://jkanime.net/hinamatsuri/6/",
+      "publicado_en_origen": "2018-05-11 13:25:45"
+    },
+    {
+      "id_origen": 37240,
+      "numero": 7,
+      "titulo": "Hinamatsuri - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_091079d1b3a9ba6ebd800051147f6010.jpg",
+      "url_origen": "https://jkanime.net/hinamatsuri/7/",
+      "publicado_en_origen": "2018-05-18 13:29:44"
+    },
+    {
+      "id_origen": 37278,
+      "numero": 8,
+      "titulo": "Hinamatsuri - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb8b25d02a3d508548a993c59946c1e6.jpg",
+      "url_origen": "https://jkanime.net/hinamatsuri/8/",
+      "publicado_en_origen": "2018-05-25 13:36:27"
+    },
+    {
+      "id_origen": 37309,
+      "numero": 9,
+      "titulo": "Hinamatsuri - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bc521054e37edce6cc6a86ec7be0abb.jpg",
+      "url_origen": "https://jkanime.net/hinamatsuri/9/",
+      "publicado_en_origen": "2018-06-02 01:39:18"
+    },
+    {
+      "id_origen": 37347,
+      "numero": 10,
+      "titulo": "Hinamatsuri - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0f993ffa1de9163ba93ef6e425faf4f.jpg",
+      "url_origen": "https://jkanime.net/hinamatsuri/10/",
+      "publicado_en_origen": "2018-06-08 13:37:27"
+    },
+    {
+      "id_origen": 37382,
+      "numero": 11,
+      "titulo": "Hinamatsuri - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_537a67c425f9008a3ba185308046cf72.jpg",
+      "url_origen": "https://jkanime.net/hinamatsuri/11/",
+      "publicado_en_origen": "2018-06-19 01:05:34"
+    },
+    {
+      "id_origen": 37421,
+      "numero": 12,
+      "titulo": "Hinamatsuri - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_90796fb200ce1df9b83c21f1c1493715.jpg",
+      "url_origen": "https://jkanime.net/hinamatsuri/12/",
+      "publicado_en_origen": "2018-06-26 14:53:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:18+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2227",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:30:50+00:00"
+}

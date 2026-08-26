@@ -1,0 +1,69 @@
+{
+  "id_origen": 295,
+  "slug": "karas",
+  "titulo": "Karas",
+  "titulo_corto": "Karas",
+  "sinopsis": "Karas   es una animacion de seis partes de henshin, del genero tipo superheroe japones.  Karas trata de la historia de Otoha, un yakuza, viviendo en una versión ficticia de Shinjuku, Tokyo, ciudad poblada por humanos y yōkai (Espirítus Japoneses). Otoha, es uno de los karas, humanos superpoderosos que actuan como agentes de la tierra y  también se puede transformar en un vehiculo, avión y en un tanke blindado.  Otoha siendo un karas, es un hábil espadachín que intenta detener a su corrupto predecesor,  de tomar Tokyo. Entre otros personajes se encuentran: Nue, el yōkai; y Homura, la karas de otra ciudad, ellos ayudan a Otoha en su misión. La serie tambíen contiene una historia paralela que se enfoca en como los humanos son afectados por las actuaciones de Eko.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/karas.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/karas/",
+  "episodios": [
+    {
+      "id_origen": 8371,
+      "numero": 1,
+      "titulo": "Karas 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ce241e1ed84937ee48322b170b9b18c.jpg",
+      "url_origen": "https://jkanime.net/karas/1/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8372,
+      "numero": 2,
+      "titulo": "Karas 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e95a45d0b1f5afdf0ab9cde82b4b1d06.jpg",
+      "url_origen": "https://jkanime.net/karas/2/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8373,
+      "numero": 3,
+      "titulo": "Karas 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73f9ddba165b5c59c61dd64960ba8b2d.jpg",
+      "url_origen": "https://jkanime.net/karas/3/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8374,
+      "numero": 4,
+      "titulo": "Karas 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87019fb492fe6f03c3bdb29cf2ffb6eb.jpg",
+      "url_origen": "https://jkanime.net/karas/4/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8375,
+      "numero": 5,
+      "titulo": "Karas 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ea20aed6df7caa746052d227d194a395.jpg",
+      "url_origen": "https://jkanime.net/karas/5/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8376,
+      "numero": 6,
+      "titulo": "Karas 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c11cb55c3d8dcc03a7ab7ab722703e0a.jpg",
+      "url_origen": "https://jkanime.net/karas/6/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:32+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "295",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:34:04+00:00"
+}

@@ -1,0 +1,229 @@
+{
+  "id_origen": 50,
+  "slug": "nurarihyon-no-mago",
+  "titulo": "Nurarihyon no Mago",
+  "titulo_corto": "Nurarihyon no Mago",
+  "sinopsis": "Rikuo Nura, un niño de escuela media que es 3/4 parte humano y 1/4 youkai (demonio), vive en una mansion llena de espiritus junto con su abuelo youkai. Tratando para escapar a su destino de actuar justo como un demonio, el hace buenas obras en orden de evadir el venir a ser el sucedor como el maestro de todos los youkai del clan Nurari, segun como por los deseos de su abuelo se ha dispuesto.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nurarihyon-no-mago.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nurarihyon-no-mago/",
+  "episodios": [
+    {
+      "id_origen": 978,
+      "numero": 1,
+      "titulo": "Nurarihyon No Mago 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ab56412b1163ee131e1246da0955bd1.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/1/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 981,
+      "numero": 2,
+      "titulo": "Nurarihyon No Mago 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_287e03db1d99e0ec2edb90d079e142f3.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/2/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 979,
+      "numero": 3,
+      "titulo": "Nurarihyon No Mago 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c32d9bf27a3da7ec8163957080c8628e.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/3/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 982,
+      "numero": 4,
+      "titulo": "Nurarihyon No Mago 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fec8d47d412bcbeece3d9128ae855a7a.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/4/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 980,
+      "numero": 5,
+      "titulo": "Nurarihyon No Mago 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d79aac075930c83c2f1e369a511148fe.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/5/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 983,
+      "numero": 6,
+      "titulo": "Nurarihyon No Mago 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6aab1270668d8cac7cef2566a1c5f569.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/6/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 984,
+      "numero": 7,
+      "titulo": "Nurarihyon No Mago 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d93ed5b6db83be78efb0d05ae420158e.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/7/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 985,
+      "numero": 8,
+      "titulo": "Nurarihyon No Mago 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54a367d629152b720749e187b3eaa11b.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/8/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 986,
+      "numero": 9,
+      "titulo": "Nurarihyon No Mago 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fe7ee8fc1959cc7214fa21c4840dff0a.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/9/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 987,
+      "numero": 10,
+      "titulo": "Nurarihyon No Mago 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df6d2338b2b8fce1ec2f6dda0a630eb0.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/10/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 988,
+      "numero": 11,
+      "titulo": "Nurarihyon No Mago 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9908279ebbf1f9b250ba689db6a0222b.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/11/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 989,
+      "numero": 12,
+      "titulo": "Nurarihyon No Mago 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1140a3d0df1c81e24ae954d935e8926.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/12/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 990,
+      "numero": 13,
+      "titulo": "Nurarihyon No Mago 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fac9ba115140ac4f1c22da82aa0bc7f.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/13/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 991,
+      "numero": 14,
+      "titulo": "Nurarihyon No Mago 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_692f93be8c7a41525c0baf2076aecfb4.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/14/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 992,
+      "numero": 15,
+      "titulo": "Nurarihyon No Mago 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_860320be12a1c050cd7731794e231bd3.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/15/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 993,
+      "numero": 16,
+      "titulo": "Nurarihyon No Mago 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7b13b2203029ed80337f27127a9f1d28.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/16/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 994,
+      "numero": 17,
+      "titulo": "Nurarihyon No Mago 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_934815ad542a4a7c5e8a2dfa04fea9f5.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/17/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 995,
+      "numero": 18,
+      "titulo": "Nurarihyon No Mago 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bcab9d935d219641434683dd9d18a03.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/18/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 996,
+      "numero": 19,
+      "titulo": "Nurarihyon No Mago 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b8aff0438617c055eb55f0ba5d226fa.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/19/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 11228,
+      "numero": 20,
+      "titulo": "Nurarihyon no Mago - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c75cf2681788adaca63aa95ae028b22.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/20/",
+      "publicado_en_origen": "2011-08-24 19:13:35"
+    },
+    {
+      "id_origen": 11229,
+      "numero": 21,
+      "titulo": "Nurarihyon no Mago - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_411c451fa50ccb4a60206a83c8d5d8a4.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/21/",
+      "publicado_en_origen": "2011-08-24 19:13:35"
+    },
+    {
+      "id_origen": 11230,
+      "numero": 22,
+      "titulo": "Nurarihyon no Mago - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4572f47b7c69e27b8e46646d9579e67.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/22/",
+      "publicado_en_origen": "2011-08-24 19:13:35"
+    },
+    {
+      "id_origen": 11231,
+      "numero": 23,
+      "titulo": "Nurarihyon no Mago - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_87373df3f89fa9932a9c6c58cc75e309.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/23/",
+      "publicado_en_origen": "2011-08-24 19:13:35"
+    },
+    {
+      "id_origen": 11232,
+      "numero": 24,
+      "titulo": "Nurarihyon no Mago - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c291b01517f3e6797c774c306591cc32.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/24/",
+      "publicado_en_origen": "2011-08-24 19:13:35"
+    },
+    {
+      "id_origen": 997,
+      "numero": 25,
+      "titulo": "Nurarihyon No Mago 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec5aa0b7846082a2415f0902f0da88f2.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/25/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 11233,
+      "numero": 26,
+      "titulo": "Nurarihyon no Mago 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60e4ac6a656ef4b4fd82aaaf25f14736.jpg",
+      "url_origen": "https://jkanime.net/nurarihyon-no-mago/26/",
+      "publicado_en_origen": "2011-08-24 19:14:59"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:16+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "50",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:40:53+00:00"
+}

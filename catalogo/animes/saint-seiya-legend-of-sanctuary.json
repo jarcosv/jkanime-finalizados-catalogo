@@ -1,0 +1,29 @@
+{
+  "id_origen": 1255,
+  "slug": "saint-seiya-legend-of-sanctuary",
+  "titulo": "Saint Seiya: Legend of Sanctuary",
+  "titulo_corto": "Saint Seiya: Legend of Sanctua...",
+  "sinopsis": "Una animacion de CG conmemorando el 25 aniversario de la serie.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saint-seiya-legend-of-sanctuary.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/saint-seiya-legend-of-sanctuary/",
+  "episodios": [
+    {
+      "id_origen": 24735,
+      "numero": 1,
+      "titulo": "Saint Seiya: Legend of Sanctuary - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9029d6a408295eb18b01022d5dc2c3a5.jpg",
+      "url_origen": "https://jkanime.net/saint-seiya-legend-of-sanctuary/1/",
+      "publicado_en_origen": "2014-09-11 14:08:11"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1255",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:44:38+00:00"
+}

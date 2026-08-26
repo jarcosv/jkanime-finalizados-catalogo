@@ -1,0 +1,77 @@
+{
+  "id_origen": 4701,
+  "slug": "dandelion",
+  "titulo": "Dandelion",
+  "titulo_corto": "Dandelion",
+  "sinopsis": "Ambientada en el Departamento de Despida de la Federación Japonesa de Ángeles, «Dandelion» sigue a los «ángeles» Tetsuo Tanba y Misaki Kurogane mientras se afanan por localizar a los espíritus atrapados en la Tierra —almas incapaces de seguir adelante y encontrar la paz— y los guían con delicadeza para que puedan partir.\r\n\r\nA los ángeles les cuesta cumplir con sus tareas diarias. Sin embargo, Tetsuo Tanba y su líder, Misaki Kurogane, que forman el Clan Dandelion de la 21.ª División, decidieron tomarse las cosas con calma: en lugar de apresurarse con los casos, dedican tiempo a cada espíritu, escuchando sus remordimientos y ayudándoles a resolver lo que les impide seguir adelante.\r\n\r\nUn día, se encuentran con el espíritu atado a la Tierra de un anciano que corre a toda velocidad, intentando escapar desesperadamente.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dandelion.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dandelion/",
+  "episodios": [
+    {
+      "id_origen": 72581,
+      "numero": 1,
+      "titulo": "Dandelion - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_13a56b4038f878568b2893fd8e82c9bd.jpg",
+      "url_origen": "https://jkanime.net/dandelion/1/",
+      "publicado_en_origen": "2026-04-18 00:38:48"
+    },
+    {
+      "id_origen": 72582,
+      "numero": 2,
+      "titulo": "Dandelion - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e907caa7da877ef360acdd381be43b13.jpg",
+      "url_origen": "https://jkanime.net/dandelion/2/",
+      "publicado_en_origen": "2026-04-18 00:38:48"
+    },
+    {
+      "id_origen": 72583,
+      "numero": 3,
+      "titulo": "Dandelion - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ca68fef1984a0a9e8b5a33aa180a6e3.jpg",
+      "url_origen": "https://jkanime.net/dandelion/3/",
+      "publicado_en_origen": "2026-04-18 00:38:48"
+    },
+    {
+      "id_origen": 72584,
+      "numero": 4,
+      "titulo": "Dandelion - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1c9619e4b4f635b377d8464cd5e214cf.jpg",
+      "url_origen": "https://jkanime.net/dandelion/4/",
+      "publicado_en_origen": "2026-04-18 00:38:48"
+    },
+    {
+      "id_origen": 72585,
+      "numero": 5,
+      "titulo": "Dandelion - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fdfdc806592eb6410685ac2351317e75.jpg",
+      "url_origen": "https://jkanime.net/dandelion/5/",
+      "publicado_en_origen": "2026-04-18 00:38:48"
+    },
+    {
+      "id_origen": 72586,
+      "numero": 6,
+      "titulo": "Dandelion - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3dd32c4629fd50940552c0d4f12cdfa7.jpg",
+      "url_origen": "https://jkanime.net/dandelion/6/",
+      "publicado_en_origen": "2026-04-18 00:38:48"
+    },
+    {
+      "id_origen": 72587,
+      "numero": 7,
+      "titulo": "Dandelion - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24a1042e3b88da4a7047fe9f2ed6c419.jpg",
+      "url_origen": "https://jkanime.net/dandelion/7/",
+      "publicado_en_origen": "2026-04-18 00:38:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:21+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4701",
+  "cantidad_episodios_declarada": 7,
+  "detalle_extraido_en": "2026-08-26T18:24:23+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 623,
+  "slug": "dragon-ball-kai-special",
+  "titulo": "Dragon Ball Kai Special",
+  "titulo_corto": "Dragon Ball Kai Special",
+  "sinopsis": "Episodio especial acerca de Trunks, donde regresa al futuro para pelear con los Androides. Es conocido como el episodio 98 de Dragon Ball Kai.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-ball-kai-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/dragon-ball-kai-special/",
+  "episodios": [
+    {
+      "id_origen": 16659,
+      "numero": 1,
+      "titulo": "Dragon Ball Kai Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8339611181c6b2622eec0551fbd4d298.jpg",
+      "url_origen": "https://jkanime.net/dragon-ball-kai-special/1/",
+      "publicado_en_origen": "2012-08-24 08:55:09"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:12+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "623",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:38+00:00"
+}

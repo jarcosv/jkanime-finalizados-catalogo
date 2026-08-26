@@ -1,0 +1,29 @@
+{
+  "id_origen": 3313,
+  "slug": "d4dj-double-mix",
+  "titulo": "D4DJ Double Mix",
+  "titulo_corto": "D4DJ Double Mix",
+  "sinopsis": "Un episodio especial centrado en la historia de Merm4id y Rondo, que incluye una nueva actuación conjunta de los dos grupos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/d4dj-double-mix.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/d4dj-double-mix/",
+  "episodios": [
+    {
+      "id_origen": 51544,
+      "numero": 1,
+      "titulo": "D4DJ Double Mix",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_04b911725e9a599aeb8608d08d294c15.jpg",
+      "url_origen": "https://jkanime.net/d4dj-double-mix/1/",
+      "publicado_en_origen": "2023-01-10 18:20:47"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:49+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3313",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:24:10+00:00"
+}

@@ -1,0 +1,757 @@
+{
+  "id_origen": 2651,
+  "slug": "yugioh-sevens",
+  "titulo": "Yu☆Gi☆Oh!: Sevens",
+  "titulo_corto": "Yu☆Gi☆Oh!: Sevens",
+  "sinopsis": "Una nueva serie de anime de televisión para el 20 aniversario de la franquicia de anime.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yugioh-sevens.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yugioh-sevens/",
+  "episodios": [
+    {
+      "id_origen": 56543,
+      "numero": 1,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_613c21754511312e0c2cb2e480e8915b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/1/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56544,
+      "numero": 2,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_587c4ea576aad70dae709fcb42229ece.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/2/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56545,
+      "numero": 3,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1682b75c28017209e126af6b15f067cd.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/3/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56546,
+      "numero": 4,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_430791cb5e6eb2cfc0515c79eb4bd9ca.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/4/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56547,
+      "numero": 5,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3451419f80aa35a32ee0908883939345.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/5/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56548,
+      "numero": 6,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b0be55e241062535cf4f463a00d891b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/6/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56549,
+      "numero": 7,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed467eb5bc40a91c4e88697857cf7795.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/7/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56550,
+      "numero": 8,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73264b3f256ded75945640247cb6b44a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/8/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56551,
+      "numero": 9,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_921f79adf5120f223e7707b96e0b2d4e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/9/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56552,
+      "numero": 10,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dd246af7c4145cd316e62a5b4375c77.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/10/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56553,
+      "numero": 11,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d9a03ae40010a196a0167ffacfb653f4.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/11/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56554,
+      "numero": 12,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfff738d9990f0c44a6fffb97e13733d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/12/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56555,
+      "numero": 13,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b11b5eba5cdcb67e6465d1756c946884.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/13/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56556,
+      "numero": 14,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63a6380c78759412785e13daaa30eb7e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/14/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56557,
+      "numero": 15,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3648ed4c48dc969cbf41089c7666a20.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/15/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56558,
+      "numero": 16,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e56156b6ecc48a825835b9829b9ac86c.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/16/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56559,
+      "numero": 17,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_905194a698d43c77f265623a94e6a2c2.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/17/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56560,
+      "numero": 18,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d4c626e750abfc90e1389d6e2f04fad.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/18/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56561,
+      "numero": 19,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ed383303e128861b3209edcfbebe572.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/19/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56562,
+      "numero": 20,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_181d838dda6c16b87ba309910bbc0891.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/20/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56563,
+      "numero": 21,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3979e73d46475a1b59e44d1a3760a043.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/21/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56564,
+      "numero": 22,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d344ba72be91d61aa2de613537a6324c.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/22/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56565,
+      "numero": 23,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f6a14de49e8530adf160c1308e7ce19.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/23/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56566,
+      "numero": 24,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccd9e1f802003a6ab75f1bda14fd40a5.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/24/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56567,
+      "numero": 25,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d8113a4ba9c10ea54b58af1186ec338.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/25/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56568,
+      "numero": 26,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b820c1d440d6c195b4f4ac51fba8ca91.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/26/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56569,
+      "numero": 27,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d64f0ec268e75d5ee4476ca6648071f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/27/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56570,
+      "numero": 28,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b0e3ee568c130b37da50b946fa11b18.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/28/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56571,
+      "numero": 29,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63c462247ccb83c05026cdec6a46f36e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/29/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56572,
+      "numero": 30,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b33d55b8706c744c27f53502666837bc.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/30/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56573,
+      "numero": 31,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1064802083db2e577f0f9781661c49f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/31/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56574,
+      "numero": 32,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c970c6d09c0f56798b724b92c1198a53.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/32/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56575,
+      "numero": 33,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc28c97acd38c1faf93866291a7d21b2.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/33/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56576,
+      "numero": 34,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a471e2190e1b35ea2da7692b6833ea6c.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/34/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56577,
+      "numero": 35,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_75565b420da325c58f5ea99e9f6fb0ad.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/35/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56578,
+      "numero": 36,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_951ee6e0194b7666d9ec65afc85b4d35.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/36/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56579,
+      "numero": 37,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1099fafe41ba119396ad754c9b448e7.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/37/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56580,
+      "numero": 38,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6b2c84baf5527a6f6dc5343e7d300b0.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/38/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56581,
+      "numero": 39,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fd2166a219f5996da7e2756fd0293423.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/39/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56582,
+      "numero": 40,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efe830962cd569c3d16a9e9eef5fb872.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/40/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56583,
+      "numero": 41,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3215f8496df03cb6f483416945d54d7.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/41/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56584,
+      "numero": 42,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60a93464be94fa955f2bc375adb1d27f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/42/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56585,
+      "numero": 43,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b430b6320a55c0acae430964a70a2b2.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/43/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56586,
+      "numero": 44,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5de3f953af21590839ade8040b8a7a6b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/44/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56587,
+      "numero": 45,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f3f660060c8a23d1f60b656fc7993f71.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/45/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56588,
+      "numero": 46,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b98ef95e9b90bf15fd8d9ad5b39451b4.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/46/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56589,
+      "numero": 47,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_94001ef2474dc83f711e0c297ac43d4e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/47/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56590,
+      "numero": 48,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05691523429a0f9d46c092a58eb0cd24.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/48/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56591,
+      "numero": 49,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b779b14b977e504247dcb8ec0298968.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/49/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56592,
+      "numero": 50,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ae1d4c160fc6aee7735fd361fed00c96.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/50/",
+      "publicado_en_origen": "2024-03-26 17:44:38"
+    },
+    {
+      "id_origen": 56593,
+      "numero": 51,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4e00db7030535981df9b0965147c9975.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/51/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56594,
+      "numero": 52,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6e153fc5758c8aca42ab509fe1be97b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/52/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56595,
+      "numero": 53,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9a17f6a468f86e1011ca8c778b705c0.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/53/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56596,
+      "numero": 54,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7a810485ad881fc7dff2ea5a1b27578.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/54/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56597,
+      "numero": 55,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9ed65f8719d7aa1d2f1e081da6693f8.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/55/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56598,
+      "numero": 56,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_041853b102fd33d9b3ea76392d932b4e.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/56/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56599,
+      "numero": 57,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_421aa6015db206b3c70f0cbaec3fbb62.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/57/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56600,
+      "numero": 58,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e9454eac775e4c5538860429aa05d52.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/58/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56601,
+      "numero": 59,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_606842b3de898a2c9c9b341e2ed17596.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/59/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56602,
+      "numero": 60,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52953fee1faf2f763327b8fa9f7e2c07.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/60/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56603,
+      "numero": 61,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8d185cfe9193287f1d3a50dcd5d31eb.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/61/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56604,
+      "numero": 62,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc2543da5da185a6956eb27450e76995.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/62/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56605,
+      "numero": 63,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5348e4bc16b87fe662acc5222016b31f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/63/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56606,
+      "numero": 64,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8840c1734f0462b3de46fc64f1f016c.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/64/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56607,
+      "numero": 65,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fab25f1f272b48fb29f1f7f38af7b9e6.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/65/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56608,
+      "numero": 66,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3e2530f8ada84a8db076507c6d7a315.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/66/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56609,
+      "numero": 67,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e4d22d5aaa294623c9eedfff98c36965.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/67/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56610,
+      "numero": 68,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6518ec72f295cdfb9f9b6a5285228f3.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/68/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56611,
+      "numero": 69,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b416d59911f7cec24d81c5c829d0fdfe.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/69/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56612,
+      "numero": 70,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e551343392bee232ae8735da06146f8c.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/70/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56613,
+      "numero": 71,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e74957da67c2a4917839c3756075104.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/71/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56614,
+      "numero": 72,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d210471300be308f6316bacdaae04f69.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/72/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56615,
+      "numero": 73,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d120d67afb5c4e4464e27b6b754ab9f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/73/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56616,
+      "numero": 74,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29b0168bd35b203ef832a28473b4be13.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/74/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56617,
+      "numero": 75,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14d3535758d1ddd9a4859fad68f8e236.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/75/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56618,
+      "numero": 76,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7890fc560af3825de8f2b4adccc83b60.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/76/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56619,
+      "numero": 77,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_86c35805fb408580e466a5af2e68c54a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/77/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56620,
+      "numero": 78,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_20d5b792eae642dca06eb299c0db1359.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/78/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56621,
+      "numero": 79,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_886c600f464ed07368431db334f24058.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/79/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56622,
+      "numero": 80,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12c29c9eed29e94b51ef5e5b28d2403b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/80/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56623,
+      "numero": 81,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ce371e890bc8a29c36fa89ec2abdf81d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/81/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56624,
+      "numero": 82,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30bc87e1e09a7fd261f46386f0bfeafc.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/82/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56625,
+      "numero": 83,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33e737a13b5776d9c5265220a287ec52.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/83/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56626,
+      "numero": 84,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dfce6996852906aefa09eb9380662e6.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/84/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56627,
+      "numero": 85,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c66f7f126b9e1c78bb948014ad87854f.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/85/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56628,
+      "numero": 86,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2555b61bda576d4586b6959c1441962d.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/86/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56629,
+      "numero": 87,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_07e099f029f1bee1af66d3b828e433dc.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/87/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56630,
+      "numero": 88,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f5c229bb5e048a55561a1d11c8289da.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/88/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56631,
+      "numero": 89,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1e1442e9f3b657dc34b43b39e7cf02a.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/89/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56632,
+      "numero": 90,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_158dcc672cf2556022169c1c1369f4d4.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/90/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56633,
+      "numero": 91,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3042d88ea0760bf00645bb4cf63e5bb.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/91/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    },
+    {
+      "id_origen": 56634,
+      "numero": 92,
+      "titulo": "Yu☆Gi☆Oh!: Sevens - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd82b3a247ac8dbcc42081bd48c3265b.jpg",
+      "url_origen": "https://jkanime.net/yugioh-sevens/92/",
+      "publicado_en_origen": "2024-03-26 17:45:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:05+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2651",
+  "cantidad_episodios_declarada": 92,
+  "detalle_extraido_en": "2026-08-26T18:53:50+00:00"
+}

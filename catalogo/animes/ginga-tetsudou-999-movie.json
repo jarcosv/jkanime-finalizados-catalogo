@@ -1,0 +1,29 @@
+{
+  "id_origen": 4329,
+  "slug": "ginga-tetsudou-999-movie",
+  "titulo": "Ginga Tetsudou 999 (Movie)",
+  "titulo_corto": "Ginga Tetsudou 999 (Movie)",
+  "sinopsis": "Tetsurou Hoshino es un chico empeñado en conseguir un cuerpo mecánico inmortal para vengarse del asesino de su madre, el hombre máquina Conde Mecha. Sin embargo, debido al increíble coste que supone conseguir lo que busca, su única esperanza es robar un billete para el Galaxy Express 999, un tren espacial que viaja por la galaxia y cuya última parada es un planeta donde se proporcionan gratuitamente los recambios metálicos. Después de robar un pase, Tetsurou es perseguido por la policía y termina cayendo en los brazos de una misteriosa mujer llamada Maetel, que se parece mucho a su madre. Cuando despierta, ella le dice al chico que le proporcionará el acceso al 999 siempre y cuando él acepte viajar con ella. Tetsurou acepta su propuesta, se sube al tren cósmico con Maetel y comienza un viaje a través de la galaxia.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ginga-tetsudou-999-movie.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ginga-tetsudou-999-movie/",
+  "episodios": [
+    {
+      "id_origen": 66918,
+      "numero": 1,
+      "titulo": "Ginga Tetsudou 999 (Movie)",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c9ae4f6ae769d7813841d7158350fe5a.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999-movie/1/",
+      "publicado_en_origen": "2025-08-17 05:03:51"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4329",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:28:22+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 4748,
+  "slug": "the-bloody-mary",
+  "titulo": "The Bloody Mary",
+  "titulo_corto": "The Bloody Mary",
+  "sinopsis": "Betty, una chica aficionada al ocultismo, y Seeka, un demonio, aceptan trabajos para ganar algo de dinero.\r\n\r\nEsta vez se adentran en una mansión de la que se rumorea que está encantada por Bloody Mary... pero ¿qué les espera realmente en su interior?",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/the-bloody-mary.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/the-bloody-mary/",
+  "episodios": [
+    {
+      "id_origen": 73997,
+      "numero": 1,
+      "titulo": "The Bloody Mary",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0b8ee15c99c72a25fdd015aec25377d3.jpg",
+      "url_origen": "https://jkanime.net/the-bloody-mary/1/",
+      "publicado_en_origen": "2026-06-05 17:14:46"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:19+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4748",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:49:13+00:00"
+}

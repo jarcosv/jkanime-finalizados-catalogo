@@ -1,0 +1,37 @@
+{
+  "id_origen": 4588,
+  "slug": "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan",
+  "titulo": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+  "titulo_corto": "Kaguya-sama wa Kokurasetai: Ot...",
+  "sinopsis": "Especial televisivo de Kaguya-sama wa Kokurasetai.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan/",
+  "episodios": [
+    {
+      "id_origen": 70467,
+      "numero": 1,
+      "titulo": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_698a0b2ef8604af3b0d6b4d21d3168be.jpg",
+      "url_origen": "https://jkanime.net/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan/1/",
+      "publicado_en_origen": "2025-12-31 11:33:52"
+    },
+    {
+      "id_origen": 70468,
+      "numero": 2,
+      "titulo": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d1a5d66553cf6e96fccf6905af4e7f0a.jpg",
+      "url_origen": "https://jkanime.net/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan/2/",
+      "publicado_en_origen": "2025-12-31 11:33:52"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:23+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4588",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:33:16+00:00"
+}

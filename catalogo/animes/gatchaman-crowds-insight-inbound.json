@@ -1,0 +1,29 @@
+{
+  "id_origen": 1569,
+  "slug": "gatchaman-crowds-insight-inbound",
+  "titulo": "Gatchaman Crowds Insight: Inbound",
+  "titulo_corto": "Gatchaman Crowds Insight: Inbo...",
+  "sinopsis": "Episodio 0 de Gatchaman Crowds Insight previo a su estreno.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gatchaman-crowds-insight-inbound.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gatchaman-crowds-insight-inbound/",
+  "episodios": [
+    {
+      "id_origen": 28502,
+      "numero": 1,
+      "titulo": "Gatchaman Crowds Insight: Inbound",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a472370cd24972948ca543bcb05a29b2.jpg",
+      "url_origen": "https://jkanime.net/gatchaman-crowds-insight-inbound/1/",
+      "publicado_en_origen": "2015-06-19 17:57:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1569",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:27:57+00:00"
+}

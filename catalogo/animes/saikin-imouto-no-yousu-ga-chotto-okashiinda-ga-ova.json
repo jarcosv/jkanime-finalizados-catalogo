@@ -1,0 +1,29 @@
+{
+  "id_origen": 1180,
+  "slug": "saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-ova",
+  "titulo": "ImoCho. OVA",
+  "titulo_corto": "ImoCho. OVA",
+  "sinopsis": "Episodio no transmitido por TV, incluido con la edición limitada del volumen 7 del manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-ova/",
+  "episodios": [
+    {
+      "id_origen": 23858,
+      "numero": 1,
+      "titulo": "ImoCho. OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3aca5559a842cac6011c4fa97180a5f0.jpg",
+      "url_origen": "https://jkanime.net/saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-ova/1/",
+      "publicado_en_origen": "2014-06-30 15:04:31"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1180",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:31:46+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 2663,
+  "slug": "hello-world",
+  "titulo": "Hello World",
+  "titulo_corto": "Hello World",
+  "sinopsis": "El año es 2027, y la ciudad de Kyoto ha experimentado un tremendo avance tecnológico. Dentro de la ciudad vive Naomi Katagaki, un niño socialmente torpe e introvertido que ama los libros, y Ruri Ichigyou, una niña con una personalidad fría que a menudo es contundente con la gente, pero comparte su amor por la lectura. A pesar de tener intereses similares, Naomi teme acercarse a Ruri debido a su naturaleza hostil.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hello-world.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hello-world/",
+  "episodios": [
+    {
+      "id_origen": 42654,
+      "numero": 1,
+      "titulo": "Hello World - pelicula",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d1da0d0a31de5628dbd5f954854dd3d.jpg",
+      "url_origen": "https://jkanime.net/hello-world/1/",
+      "publicado_en_origen": "2020-04-09 22:12:36"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:08+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2663",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:30:13+00:00"
+}

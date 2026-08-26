@@ -1,0 +1,29 @@
+{
+  "id_origen": 3418,
+  "slug": "black-clover-mahou-tei-no-ken",
+  "titulo": "Black Clover: Mahou Tei no Ken",
+  "titulo_corto": "Black Clover: Mahou Tei no Ken",
+  "sinopsis": "Pelicula Black Clover",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/black-clover-mahou-tei-no-ken.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/black-clover-mahou-tei-no-ken/",
+  "episodios": [
+    {
+      "id_origen": 53147,
+      "numero": 1,
+      "titulo": "Black Clover: Mahou Tei no Ken",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2592a79ad07dd0ae4f969f0b4098ef91.jpg",
+      "url_origen": "https://jkanime.net/black-clover-mahou-tei-no-ken/1/",
+      "publicado_en_origen": "2023-06-17 14:05:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3418",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:20:05+00:00"
+}

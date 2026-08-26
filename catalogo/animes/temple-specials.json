@@ -1,0 +1,29 @@
+{
+  "id_origen": 3580,
+  "slug": "temple-specials",
+  "titulo": "Temple Specials",
+  "titulo_corto": "Temple Specials",
+  "sinopsis": "Especiales incluidos en el lanzamiento en BD/DVD de Temple .",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/temple-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/temple-specials/",
+  "episodios": [
+    {
+      "id_origen": 55006,
+      "numero": 1,
+      "titulo": "Temple Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de5f18650e5ccdd6cb6480072abc8a2f.jpg",
+      "url_origen": "https://jkanime.net/temple-specials/1/",
+      "publicado_en_origen": "2023-11-23 13:10:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:39+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3580",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:48:52+00:00"
+}

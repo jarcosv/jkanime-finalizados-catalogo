@@ -1,0 +1,221 @@
+{
+  "id_origen": 254,
+  "slug": "bakuman",
+  "titulo": "Bakuman",
+  "titulo_corto": "Bakuman",
+  "sinopsis": "Moritaka Mashiro es un estudiante de secundaria que no termina de encajar bien en nada, excepto en el dibujo. Un día, Akito Takagi coge prestada la libreta de dibujo de Mashiro, ve todos esos impresionantes dibujos y le propone ser Mangaka. Pese que en la época actual ser Mangaka es difícil y pocos llegan a lograrlo, deciden intentarlo. Le piden a Azuki (la chica a la que le gusta Mashiro) que si algún día lo logran, ella doblaría la versión Anime del mismo. Así comienza la historia de cómo intentarán hacer el manga.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/bakuman.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/bakuman/",
+  "episodios": [
+    {
+      "id_origen": 14409,
+      "numero": 1,
+      "titulo": "Bakuman - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_746206d63610c80c08bdf440226b462a.jpg",
+      "url_origen": "https://jkanime.net/bakuman/1/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14410,
+      "numero": 2,
+      "titulo": "Bakuman - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1d41c14c1d0aa9b9cc1e228d962fe42.jpg",
+      "url_origen": "https://jkanime.net/bakuman/2/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14411,
+      "numero": 3,
+      "titulo": "Bakuman - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e620a25ae37b9a8ba0362d5f02343161.jpg",
+      "url_origen": "https://jkanime.net/bakuman/3/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14412,
+      "numero": 4,
+      "titulo": "Bakuman - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8ea9805479ddb07d9183081b059dd0d2.jpg",
+      "url_origen": "https://jkanime.net/bakuman/4/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14413,
+      "numero": 5,
+      "titulo": "Bakuman - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7822db99574164a13b2d64a8b917105.jpg",
+      "url_origen": "https://jkanime.net/bakuman/5/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14414,
+      "numero": 6,
+      "titulo": "Bakuman - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f417d05af72b37f956c906aea42d1511.jpg",
+      "url_origen": "https://jkanime.net/bakuman/6/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14415,
+      "numero": 7,
+      "titulo": "Bakuman - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a382db0a40615cdbe363ae0b4b2eb262.jpg",
+      "url_origen": "https://jkanime.net/bakuman/7/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14416,
+      "numero": 8,
+      "titulo": "Bakuman - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_547dcee2f9ccacd21cb7a6a758ca8697.jpg",
+      "url_origen": "https://jkanime.net/bakuman/8/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14417,
+      "numero": 9,
+      "titulo": "Bakuman - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a36d22467b9c3af222b5e231e3b23791.jpg",
+      "url_origen": "https://jkanime.net/bakuman/9/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14418,
+      "numero": 10,
+      "titulo": "Bakuman - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_762409ca2be073c4a6ca7962d7c72a30.jpg",
+      "url_origen": "https://jkanime.net/bakuman/10/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14419,
+      "numero": 11,
+      "titulo": "Bakuman - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bf13848f7f02f488b2e12e009a8b0df3.jpg",
+      "url_origen": "https://jkanime.net/bakuman/11/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14420,
+      "numero": 12,
+      "titulo": "Bakuman - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cf3c6554ad00bedbfcad15f7ea7d5879.jpg",
+      "url_origen": "https://jkanime.net/bakuman/12/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14421,
+      "numero": 13,
+      "titulo": "Bakuman - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_036ad3e516c5bf3a4b3be35b137bcbb8.jpg",
+      "url_origen": "https://jkanime.net/bakuman/13/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14422,
+      "numero": 14,
+      "titulo": "Bakuman - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d66aed7a5328a988f77cbaec59fc047.jpg",
+      "url_origen": "https://jkanime.net/bakuman/14/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14423,
+      "numero": 15,
+      "titulo": "Bakuman - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37a2dff33c3da75c1ea08be45a9f8da6.jpg",
+      "url_origen": "https://jkanime.net/bakuman/15/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14424,
+      "numero": 16,
+      "titulo": "Bakuman - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_946af3555203afdb63e571b873e419f6.jpg",
+      "url_origen": "https://jkanime.net/bakuman/16/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14425,
+      "numero": 17,
+      "titulo": "Bakuman - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbfce512dcdabc6b6e2724b6ec44efda.jpg",
+      "url_origen": "https://jkanime.net/bakuman/17/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14426,
+      "numero": 18,
+      "titulo": "Bakuman - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc5f86251458722c799d1830fa0c2c1f.jpg",
+      "url_origen": "https://jkanime.net/bakuman/18/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14427,
+      "numero": 19,
+      "titulo": "Bakuman - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_76fb6fb9cbea7011e49166d9d4ddbc48.jpg",
+      "url_origen": "https://jkanime.net/bakuman/19/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14428,
+      "numero": 20,
+      "titulo": "Bakuman - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_790ed1befbc24b257db60ed066b6d3cb.jpg",
+      "url_origen": "https://jkanime.net/bakuman/20/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14429,
+      "numero": 21,
+      "titulo": "Bakuman - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3574cbb1010b32b07dd7f645153ee35c.jpg",
+      "url_origen": "https://jkanime.net/bakuman/21/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14430,
+      "numero": 22,
+      "titulo": "Bakuman - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_48090e338b20a9d004c2ef18a335f3cf.jpg",
+      "url_origen": "https://jkanime.net/bakuman/22/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14431,
+      "numero": 23,
+      "titulo": "Bakuman - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6e2c22ab08479b1da4206a0c5d7da31e.jpg",
+      "url_origen": "https://jkanime.net/bakuman/23/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14432,
+      "numero": 24,
+      "titulo": "Bakuman - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9bbcc76e4c32d0a1276efc5e6c1d6c8.jpg",
+      "url_origen": "https://jkanime.net/bakuman/24/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    },
+    {
+      "id_origen": 14433,
+      "numero": 25,
+      "titulo": "Bakuman - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4915f20d2c36611cb101e95e5c34b4e7.jpg",
+      "url_origen": "https://jkanime.net/bakuman/25/",
+      "publicado_en_origen": "2012-01-09 17:40:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:15+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "254",
+  "cantidad_episodios_declarada": 25,
+  "detalle_extraido_en": "2026-08-26T18:18:46+00:00"
+}

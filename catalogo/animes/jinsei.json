@@ -1,0 +1,125 @@
+{
+  "id_origen": 1202,
+  "slug": "jinsei",
+  "titulo": "Jinsei",
+  "titulo_corto": "Jinsei",
+  "sinopsis": "La historia gira entorno al estudiante de Instituto Akamatsu Yuki quien se une al periódico de su escuela. Apenas al entrar al equipo del diario, nuestro protagonista se encuentra con Nikaido Sayaka la editora en jefe, quien le asigna la columna de consejos de vida (Jinsei). Ahora Akamatsu junto sus 3 compañeras: Ende Rino representante de ciencias, Kojo Fumi representante de artes e Ikumi Suzuki, representante de Educación Física se encargaran de responder a los alumnos los problemas que tengan.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/jinsei.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/jinsei/",
+  "episodios": [
+    {
+      "id_origen": 23932,
+      "numero": 1,
+      "titulo": "Jinsei - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54366258bb45311e0f0c80f3a3d50ab4.jpg",
+      "url_origen": "https://jkanime.net/jinsei/1/",
+      "publicado_en_origen": "2014-07-07 16:44:53"
+    },
+    {
+      "id_origen": 23986,
+      "numero": 2,
+      "titulo": "Jinsei - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7b1c47b71f171fef9e08f241c46f8c3.jpg",
+      "url_origen": "https://jkanime.net/jinsei/2/",
+      "publicado_en_origen": "2014-07-13 21:14:52"
+    },
+    {
+      "id_origen": 24052,
+      "numero": 3,
+      "titulo": "Jinsei - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72e754f660f88907d334e4436de03081.jpg",
+      "url_origen": "https://jkanime.net/jinsei/3/",
+      "publicado_en_origen": "2014-07-20 18:11:42"
+    },
+    {
+      "id_origen": 24114,
+      "numero": 4,
+      "titulo": "Jinsei - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6d29369f4fb322ea56535445a9aa110.jpg",
+      "url_origen": "https://jkanime.net/jinsei/4/",
+      "publicado_en_origen": "2014-07-27 22:11:38"
+    },
+    {
+      "id_origen": 24184,
+      "numero": 5,
+      "titulo": "Jinsei - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85fb8f045570014b485523879fc3ab0b.jpg",
+      "url_origen": "https://jkanime.net/jinsei/5/",
+      "publicado_en_origen": "2014-08-03 21:29:34"
+    },
+    {
+      "id_origen": 24272,
+      "numero": 6,
+      "titulo": "Jinsei - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6541c87830b003c2e4064df10484970e.jpg",
+      "url_origen": "https://jkanime.net/jinsei/6/",
+      "publicado_en_origen": "2014-08-10 16:02:01"
+    },
+    {
+      "id_origen": 24522,
+      "numero": 7,
+      "titulo": "Jinsei - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_850972b9b9e9e1d869107e2498745386.jpg",
+      "url_origen": "https://jkanime.net/jinsei/7/",
+      "publicado_en_origen": "2014-08-23 16:40:25"
+    },
+    {
+      "id_origen": 24541,
+      "numero": 8,
+      "titulo": "Jinsei - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a6b25cc04de4031b55ef0aef421ec4a4.jpg",
+      "url_origen": "https://jkanime.net/jinsei/8/",
+      "publicado_en_origen": "2014-08-24 23:40:48"
+    },
+    {
+      "id_origen": 24603,
+      "numero": 9,
+      "titulo": "Jinsei - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4bbba5edefd947d07aa2d7a800b7d15b.jpg",
+      "url_origen": "https://jkanime.net/jinsei/9/",
+      "publicado_en_origen": "2014-08-31 20:07:14"
+    },
+    {
+      "id_origen": 24677,
+      "numero": 10,
+      "titulo": "Jinsei - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_196ef39dc3c14c0b8aa88d99f31e8710.jpg",
+      "url_origen": "https://jkanime.net/jinsei/10/",
+      "publicado_en_origen": "2014-09-07 21:07:27"
+    },
+    {
+      "id_origen": 24771,
+      "numero": 11,
+      "titulo": "Jinsei - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4609a0cb0481252ab39445f70503e48f.jpg",
+      "url_origen": "https://jkanime.net/jinsei/11/",
+      "publicado_en_origen": "2014-09-14 17:57:09"
+    },
+    {
+      "id_origen": 24834,
+      "numero": 12,
+      "titulo": "Jinsei - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e3133801456d68c42114514a81db864b.jpg",
+      "url_origen": "https://jkanime.net/jinsei/12/",
+      "publicado_en_origen": "2014-09-21 22:56:49"
+    },
+    {
+      "id_origen": 24945,
+      "numero": 13,
+      "titulo": "Jinsei - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7d849ad71f30e44bed446ac00507f58.jpg",
+      "url_origen": "https://jkanime.net/jinsei/13/",
+      "publicado_en_origen": "2014-09-28 21:27:36"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1202",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:32:49+00:00"
+}

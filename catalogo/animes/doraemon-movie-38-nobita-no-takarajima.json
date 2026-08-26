@@ -1,0 +1,29 @@
+{
+  "id_origen": 2632,
+  "slug": "doraemon-movie-38-nobita-no-takarajima",
+  "titulo": "Doraemon Movie 38: Nobita no Takarajima",
+  "titulo_corto": "Doraemon Movie 38: Nobita no T...",
+  "sinopsis": "Nobita es el capitan de un barco y lucha contra sus enemigos. Shizuka es secuestrada y una tormenta evita su persecución. Cuando los aventureros finalmente encuentran la misteriosa Isla del Tesoro, donde han llevado a Shizuka, descubren que es algo más que una isla común.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/doraemon-movie-38-nobita-no-takarajima.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/doraemon-movie-38-nobita-no-takarajima/",
+  "episodios": [
+    {
+      "id_origen": 42601,
+      "numero": 1,
+      "titulo": "Doraemon Movie 38: Nobita no Takarajima - pelicula",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_18444c8a59af238a403ebabcb25f69be.jpg",
+      "url_origen": "https://jkanime.net/doraemon-movie-38-nobita-no-takarajima/1/",
+      "publicado_en_origen": "2020-04-03 02:06:45"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:19+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2632",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:25:20+00:00"
+}

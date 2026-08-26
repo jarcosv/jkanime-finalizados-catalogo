@@ -1,0 +1,53 @@
+{
+  "id_origen": 4601,
+  "slug": "nukitashi-the-animation-specials",
+  "titulo": "Nukitashi the Animation Specials",
+  "titulo_corto": "Nukitashi the Animation Specia...",
+  "sinopsis": "Especiales cortos incluidos en los volúmenes Blu-ray, cada volumen tiene dos episodios.\r\n\r\n1. «Hinami se convierte en mamá en el jardín de infancia Babumi»\r\nImágenes mufu-mufu de Hinami en el jardín de infancia Babumi.\r\n\r\n2. «Misaki recibe los masajes que reciben todos los demás»\r\nImágenes mufu-mufu de Misaki y masajes.\r\n\r\n3. «Kaachan: Okan, Kanojo, Nanase»\r\nImágenes mufu-mufu de Nanase en casa.\r\n\r\n4. «La mascota del maestro»\r\nImágenes mufu-mufu de Fumino con un collar.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nukitashi-the-animation-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nukitashi-the-animation-specials/",
+  "episodios": [
+    {
+      "id_origen": 70906,
+      "numero": 1,
+      "titulo": "Nukitashi the Animation Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ed9101294a36ea1702c010b0a045b02.jpg",
+      "url_origen": "https://jkanime.net/nukitashi-the-animation-specials/1/",
+      "publicado_en_origen": "2026-01-18 12:21:13"
+    },
+    {
+      "id_origen": 70907,
+      "numero": 2,
+      "titulo": "Nukitashi the Animation Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25cca68b0e54cfac09220187567d944d.jpg",
+      "url_origen": "https://jkanime.net/nukitashi-the-animation-specials/2/",
+      "publicado_en_origen": "2026-01-18 12:21:13"
+    },
+    {
+      "id_origen": 70908,
+      "numero": 3,
+      "titulo": "Nukitashi the Animation Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8fb698ff023aa516c6e1d64356cf18fa.jpg",
+      "url_origen": "https://jkanime.net/nukitashi-the-animation-specials/3/",
+      "publicado_en_origen": "2026-01-18 12:21:13"
+    },
+    {
+      "id_origen": 70909,
+      "numero": 4,
+      "titulo": "Nukitashi the Animation Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f7dd66aa51465a22550c828e0afa5d3.jpg",
+      "url_origen": "https://jkanime.net/nukitashi-the-animation-specials/4/",
+      "publicado_en_origen": "2026-01-18 12:21:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:23+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4601",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:40:50+00:00"
+}

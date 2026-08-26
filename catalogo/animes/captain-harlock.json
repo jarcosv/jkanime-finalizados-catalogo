@@ -1,0 +1,29 @@
+{
+  "id_origen": 1085,
+  "slug": "captain-harlock",
+  "titulo": "Captain Harlock",
+  "titulo_corto": "Captain Harlock",
+  "sinopsis": "Todo empieza cuando una gran esfera negra choca en la Tierra. El profesor Daiba junto a su hijo Tadashi descubren que este objeto ha sido enviado por las Amazonas, una especie extraterrestre que planea invadir la Tierra. Sin embargo, nadie del gobierno cree estos hechos, y toman la esfera como algo casual e insignificante. Incluso cuando el profesor Daiba es asesinado, nadie hace nada. Esto enfurece a Tadashi, que ve como única solución, embarcarse en la Arcadia, pedirle ayuda al Capitán Harlock y juntos combatir a las Amazonas y así poder vengar a su padre.\n\nPero poco a poco, Tadashi descubre que la tripulación y el mismo Harlock tienen sus propios motivos para luchar, al igual que Raflesia, Reina de las Amazonas. Así pues, la Guerra por la Tierra no solo sirve para proteger el planeta o conquistarlo, sino para descubrir que hay detrás de estos hechos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/captain-harlock.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/captain-harlock/",
+  "episodios": [
+    {
+      "id_origen": 22936,
+      "numero": 1,
+      "titulo": "Captain Harlock",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e79bd2741d69ea13a0b6e1b5c5a05e61.jpg",
+      "url_origen": "https://jkanime.net/captain-harlock/1/",
+      "publicado_en_origen": "2014-03-12 10:47:46"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1085",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:22:37+00:00"
+}

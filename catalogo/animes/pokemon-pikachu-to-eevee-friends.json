@@ -1,0 +1,29 @@
+{
+  "id_origen": 1067,
+  "slug": "pokemon-pikachu-to-eevee-friends",
+  "titulo": "Pokemon: Pikachu to Eevee Friends",
+  "titulo_corto": "Pokemon: Pikachu to Eevee Frie...",
+  "sinopsis": "Especial de Pokemon",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-pikachu-to-eevee-friends.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/pokemon-pikachu-to-eevee-friends/",
+  "episodios": [
+    {
+      "id_origen": 22580,
+      "numero": 1,
+      "titulo": "Pokemon: Pikachu to Eevee Friends",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_972a8c3bc82fbee8f38bdb3edd3a3ff5.jpg",
+      "url_origen": "https://jkanime.net/pokemon-pikachu-to-eevee-friends/1/",
+      "publicado_en_origen": "2014-01-31 15:06:58"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1067",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:42:40+00:00"
+}

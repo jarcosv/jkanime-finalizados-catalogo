@@ -1,0 +1,125 @@
+{
+  "id_origen": 1229,
+  "slug": "barakamon-mijikamon",
+  "titulo": "Barakamon: Mijikamon",
+  "titulo_corto": "Barakamon: Mijikamon",
+  "sinopsis": "Cortos Especiales de Barakamon incluido el episodio 0.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/barakamon-mijikamon.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/barakamon-mijikamon/",
+  "episodios": [
+    {
+      "id_origen": 24133,
+      "numero": 0,
+      "titulo": "Barakamon: Mijikamon - 0",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f7692655e08cdfa2dc55b19495e34fd7.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/0/",
+      "publicado_en_origen": "2014-07-30 11:34:14"
+    },
+    {
+      "id_origen": 24134,
+      "numero": 1,
+      "titulo": "Barakamon: Mijikamon - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d46df85d4497780af548c8c4a9e11270.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/1/",
+      "publicado_en_origen": "2014-07-30 11:40:38"
+    },
+    {
+      "id_origen": 24135,
+      "numero": 2,
+      "titulo": "Barakamon: Mijikamon - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1091c68ec533c36a2e255e3a2393a59.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/2/",
+      "publicado_en_origen": "2014-07-30 11:47:29"
+    },
+    {
+      "id_origen": 24383,
+      "numero": 3,
+      "titulo": "Barakamon: Mijikamon - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a3ef7e06bb4020500bbd7e86dc71429.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/3/",
+      "publicado_en_origen": "2014-08-13 00:50:53"
+    },
+    {
+      "id_origen": 24391,
+      "numero": 4,
+      "titulo": "Barakamon: Mijikamon - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4aec9b9c38fe30d8411f2a18e6324c9d.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/4/",
+      "publicado_en_origen": "2014-08-13 15:25:56"
+    },
+    {
+      "id_origen": 24392,
+      "numero": 5,
+      "titulo": "Barakamon: Mijikamon - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_98be9e207e9bba228f761a4d6f203738.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/5/",
+      "publicado_en_origen": "2014-08-13 15:50:25"
+    },
+    {
+      "id_origen": 24393,
+      "numero": 6,
+      "titulo": "Barakamon: Mijikamon - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7a493b9b2145a9a61cbd4a62c12b171.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/6/",
+      "publicado_en_origen": "2014-08-13 16:20:28"
+    },
+    {
+      "id_origen": 24917,
+      "numero": 7,
+      "titulo": "Barakamon: Mijikamon - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_905fb31e485e7f2fad5cba1f425d72e6.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/7/",
+      "publicado_en_origen": "2014-09-26 14:28:26"
+    },
+    {
+      "id_origen": 24918,
+      "numero": 8,
+      "titulo": "Barakamon: Mijikamon - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1f8d9e8023b645373b6363e6a6ec18c.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/8/",
+      "publicado_en_origen": "2014-09-26 15:09:36"
+    },
+    {
+      "id_origen": 24919,
+      "numero": 9,
+      "titulo": "Barakamon: Mijikamon - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3a451d508be07d684c2face70e6ecf9d.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/9/",
+      "publicado_en_origen": "2014-09-26 15:51:05"
+    },
+    {
+      "id_origen": 24920,
+      "numero": 10,
+      "titulo": "Barakamon: Mijikamon - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f00c0eeb95f5a928c3814bc3b3ee962b.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/10/",
+      "publicado_en_origen": "2014-09-26 16:35:25"
+    },
+    {
+      "id_origen": 24921,
+      "numero": 11,
+      "titulo": "Barakamon: Mijikamon - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8eb7be5a13cc39a3e56b78aba08b2039.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/11/",
+      "publicado_en_origen": "2014-09-26 17:14:18"
+    },
+    {
+      "id_origen": 29206,
+      "numero": 12,
+      "titulo": "Barakamon: Mijikamon - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24cc4e6e1e5504cef39f1aadd7b09d79.jpg",
+      "url_origen": "https://jkanime.net/barakamon-mijikamon/12/",
+      "publicado_en_origen": "2015-09-04 14:45:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:53+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1229",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:19:12+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id_origen": 1144,
+  "slug": "harmonie",
+  "titulo": "Harmonie",
+  "titulo_corto": "Harmonie",
+  "sinopsis": "Cada persona tiene su propio pequeño mundo. Entre los 34 estudiantes bulliciosos de la clase 2-1, hay muchos de estos mundos. El mundo de Honjou Akio está lleno de charla apasionada del anime de la noche anterior con Yoshida, Watanabe, y otros amigos-mi mundo. Es un lugar cómodo y divertido ... Pero, siempre me pregunto. Me pregunto sobre el mundo de Makina Juri, sonriente y rodeado de magníficos amigos en el otro lado de la sala de clase. Un día, entro en su mundo. Pero no es tan simple como suena.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/harmonie.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/harmonie/",
+  "episodios": [
+    {
+      "id_origen": 23228,
+      "numero": 1,
+      "titulo": "Harmonie",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c56c456f0bf44cc23ecb6792768cf87.jpg",
+      "url_origen": "https://jkanime.net/harmonie/1/",
+      "publicado_en_origen": "2014-04-16 17:35:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1144",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:29:58+00:00"
+}

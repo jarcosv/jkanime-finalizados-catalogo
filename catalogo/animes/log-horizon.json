@@ -1,0 +1,221 @@
+{
+  "id_origen": 948,
+  "slug": "log-horizon",
+  "titulo": "Log Horizon",
+  "titulo_corto": "Log Horizon",
+  "sinopsis": "La historia comienza cuando 30.000 jugadores japoneses se encuentran atrapados en la fantasía de juego en línea mundo Alquileres Tale. Lo que antes era un mundo de espada y brujería es ahora el mundo real. La principal ventaja Shiroe intenta sobrevivir con su viejo amigo Naotsugu y la hermosa Akatsuki asesino.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/log-horizon.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/log-horizon/",
+  "episodios": [
+    {
+      "id_origen": 21667,
+      "numero": 1,
+      "titulo": "Log Horizon - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fce9b873e83319fcd5ff9de7e0cbecae.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/1/",
+      "publicado_en_origen": "2013-10-05 11:31:56"
+    },
+    {
+      "id_origen": 21717,
+      "numero": 2,
+      "titulo": "Log Horizon - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9d0cdbab65a298d077a7b9794f97cd5.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/2/",
+      "publicado_en_origen": "2013-10-12 07:40:40"
+    },
+    {
+      "id_origen": 21770,
+      "numero": 3,
+      "titulo": "Log Horizon - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7b591af74393bac468f20e73f66fc6a.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/3/",
+      "publicado_en_origen": "2013-10-19 07:38:53"
+    },
+    {
+      "id_origen": 21823,
+      "numero": 4,
+      "titulo": "Log Horizon - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f698d6fd2865cc064cdfa8b2c5c9c3f.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/4/",
+      "publicado_en_origen": "2013-10-26 07:39:55"
+    },
+    {
+      "id_origen": 21874,
+      "numero": 5,
+      "titulo": "Log Horizon - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9137d1abcaf9bf4fa41416863f1d3ad1.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/5/",
+      "publicado_en_origen": "2013-11-02 07:37:54"
+    },
+    {
+      "id_origen": 21925,
+      "numero": 6,
+      "titulo": "Log Horizon - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f529984eccb6ebdc4795ee0cf154f5a.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/6/",
+      "publicado_en_origen": "2013-11-09 08:42:31"
+    },
+    {
+      "id_origen": 21976,
+      "numero": 7,
+      "titulo": "Log Horizon - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44e2a386042be6deb6463a2f2b18fe73.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/7/",
+      "publicado_en_origen": "2013-11-16 08:37:04"
+    },
+    {
+      "id_origen": 22028,
+      "numero": 8,
+      "titulo": "Log Horizon - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63aeb41b7837b24999c7766adda70a24.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/8/",
+      "publicado_en_origen": "2013-11-23 08:38:02"
+    },
+    {
+      "id_origen": 22080,
+      "numero": 9,
+      "titulo": "Log Horizon - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec390e445f99f5d8c57a847f02552fbc.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/9/",
+      "publicado_en_origen": "2013-11-30 08:35:35"
+    },
+    {
+      "id_origen": 22131,
+      "numero": 10,
+      "titulo": "Log Horizon - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_978309fad5568a22033796586ca10160.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/10/",
+      "publicado_en_origen": "2013-12-07 08:36:44"
+    },
+    {
+      "id_origen": 22188,
+      "numero": 11,
+      "titulo": "Log Horizon - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1a79e7f0d5d27de57b7ff4c3ccaf1b5.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/11/",
+      "publicado_en_origen": "2013-12-14 08:39:16"
+    },
+    {
+      "id_origen": 22250,
+      "numero": 12,
+      "titulo": "Log Horizon - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f76dbbed8cbde96bdddabf7b4cd46f2.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/12/",
+      "publicado_en_origen": "2013-12-21 08:40:32"
+    },
+    {
+      "id_origen": 22292,
+      "numero": 13,
+      "titulo": "Log Horizon - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9277b4c7ff99a69b9cc2a7083543612.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/13/",
+      "publicado_en_origen": "2013-12-28 08:37:37"
+    },
+    {
+      "id_origen": 22353,
+      "numero": 14,
+      "titulo": "Log Horizon - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_70e3af92f42d99d5d3022a6e968393ff.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/14/",
+      "publicado_en_origen": "2014-01-04 08:38:07"
+    },
+    {
+      "id_origen": 22404,
+      "numero": 15,
+      "titulo": "Log Horizon - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ed3f6c5e3c6aad50b5e8a32f3a05d61.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/15/",
+      "publicado_en_origen": "2014-01-11 08:37:34"
+    },
+    {
+      "id_origen": 22466,
+      "numero": 16,
+      "titulo": "Log Horizon - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ccd43cb64de7978af1366c557aa0393f.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/16/",
+      "publicado_en_origen": "2014-01-18 09:16:31"
+    },
+    {
+      "id_origen": 22523,
+      "numero": 17,
+      "titulo": "Log Horizon - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3fde502aa65e2ce159a2a255ac96f632.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/17/",
+      "publicado_en_origen": "2014-01-25 08:36:12"
+    },
+    {
+      "id_origen": 22585,
+      "numero": 18,
+      "titulo": "Log Horizon - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6d7a951171944f9a12d2812cd058251.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/18/",
+      "publicado_en_origen": "2014-02-01 08:37:01"
+    },
+    {
+      "id_origen": 22645,
+      "numero": 19,
+      "titulo": "Log Horizon - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aa3a4a66333df4985c7283bbd1a392e2.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/19/",
+      "publicado_en_origen": "2014-02-08 08:35:49"
+    },
+    {
+      "id_origen": 22715,
+      "numero": 20,
+      "titulo": "Log Horizon - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc7dcd53d7e23cf2e0e61ef748c905b0.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/20/",
+      "publicado_en_origen": "2014-02-15 08:35:57"
+    },
+    {
+      "id_origen": 22773,
+      "numero": 21,
+      "titulo": "Log Horizon - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1f75943068ed444fb245bf2a6a291c0c.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/21/",
+      "publicado_en_origen": "2014-02-22 08:36:15"
+    },
+    {
+      "id_origen": 22836,
+      "numero": 22,
+      "titulo": "Log Horizon - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9a8e7f26dff28ac59661d7345fca4019.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/22/",
+      "publicado_en_origen": "2014-03-01 08:36:45"
+    },
+    {
+      "id_origen": 22898,
+      "numero": 23,
+      "titulo": "Log Horizon - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78cabbe97c1c97a042724b779fcd5e14.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/23/",
+      "publicado_en_origen": "2014-03-08 08:37:35"
+    },
+    {
+      "id_origen": 22960,
+      "numero": 24,
+      "titulo": "Log Horizon - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7e4a87d1535b45ecbf1bdcc74aeae875.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/24/",
+      "publicado_en_origen": "2014-03-15 08:38:26"
+    },
+    {
+      "id_origen": 23036,
+      "numero": 25,
+      "titulo": "Log Horizon - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f1176741b1b079bdc7a2e7f208c902f.jpg",
+      "url_origen": "https://jkanime.net/log-horizon/25/",
+      "publicado_en_origen": "2014-03-22 08:38:25"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "948",
+  "cantidad_episodios_declarada": 25,
+  "detalle_extraido_en": "2026-08-26T18:36:34+00:00"
+}

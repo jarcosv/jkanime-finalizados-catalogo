@@ -1,0 +1,29 @@
+{
+  "id_origen": 4166,
+  "slug": "wakakusa-monogatari",
+  "titulo": "Wakakusa Monogatari",
+  "titulo_corto": "Wakakusa Monogatari",
+  "sinopsis": "Se trata de un especial de televisión basado en la novela Mujercitas, de Louisa May Alcott. Abarca un año en la vida de cuatro hermanas, Meg, Jo, Beth y Amy, mientras su padre está luchando en la Guerra Civil Americana.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/wakakusa-monogatari.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/wakakusa-monogatari/",
+  "episodios": [
+    {
+      "id_origen": 63789,
+      "numero": 1,
+      "titulo": "Wakakusa Monogatari",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17338514e5840001b924da05b4062cdd.jpg",
+      "url_origen": "https://jkanime.net/wakakusa-monogatari/1/",
+      "publicado_en_origen": "2025-06-22 22:13:01"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4166",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:51:42+00:00"
+}

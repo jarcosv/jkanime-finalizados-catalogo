@@ -1,0 +1,37 @@
+{
+  "id_origen": 942,
+  "slug": "suisei-no-gargantia-ova",
+  "titulo": "Suisei no Gargantia OVA",
+  "titulo_corto": "Suisei no Gargantia OVA",
+  "sinopsis": "Episodios 14 y 15, incluidos en el primer y tercer volumen de los DVD/BDs",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/suisei-no-gargantia-specials.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/suisei-no-gargantia-ova/",
+  "episodios": [
+    {
+      "id_origen": 21473,
+      "numero": 1,
+      "titulo": "Suisei no Gargantia Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc1027164548d0abe0f897f083c29dd6.jpg",
+      "url_origen": "https://jkanime.net/suisei-no-gargantia-ova/1/",
+      "publicado_en_origen": "2013-09-12 00:15:39"
+    },
+    {
+      "id_origen": 21975,
+      "numero": 2,
+      "titulo": "Suisei no Gargantia Special - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cfc69414187bd8ade5c17c797a107525.jpg",
+      "url_origen": "https://jkanime.net/suisei-no-gargantia-ova/2/",
+      "publicado_en_origen": "2013-11-15 20:32:03"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:00+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "942",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:47:58+00:00"
+}

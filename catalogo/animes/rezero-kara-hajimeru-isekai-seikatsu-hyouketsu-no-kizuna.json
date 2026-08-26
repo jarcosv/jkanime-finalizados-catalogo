@@ -1,0 +1,29 @@
+{
+  "id_origen": 2629,
+  "slug": "rezero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna",
+  "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna",
+  "titulo_corto": "Re:Zero kara Hajimeru Isekai S...",
+  "sinopsis": "El episodio gira en torno a Emilia y su reunion con Pack durante el viaje a la Mansion Roswaal para ser candidata a la eleccion real.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/rezero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/rezero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna/",
+  "episodios": [
+    {
+      "id_origen": 42595,
+      "numero": 1,
+      "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - pelicula",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2560a0bd703e8f66bd01786eda254e56.jpg",
+      "url_origen": "https://jkanime.net/rezero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna/1/",
+      "publicado_en_origen": "2020-04-01 17:05:13"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2629",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:43:38+00:00"
+}

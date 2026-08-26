@@ -1,0 +1,37 @@
+{
+  "id_origen": 53,
+  "slug": "xxxholic-shunmuki",
+  "titulo": "xxxHOLiC Shunmuki",
+  "titulo_corto": "xxxHOLiC Shunmuki",
+  "sinopsis": "Kimihiro Watanuki, estudiante de secundaria con la habilidad de ver espíritus y cosas \"paranormales\", tras recuperarse de un accidente mortal, su jefa Yūko Ichihara, cree que ya se acerca el momento en que sea revelado la verdad tras la existencia de Kimirhiro.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/xxxholic-shunmuki.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/xxxholic-shunmuki/",
+  "episodios": [
+    {
+      "id_origen": 1028,
+      "numero": 1,
+      "titulo": "xxxHolic Shunmuki 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3806734b256c27e41ec2c6bffa26d9e7.jpg",
+      "url_origen": "https://jkanime.net/xxxholic-shunmuki/1/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1029,
+      "numero": 2,
+      "titulo": "xxxHolic Shunmuki 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_84d2004bf28a2095230e8e14993d398d.jpg",
+      "url_origen": "https://jkanime.net/xxxholic-shunmuki/2/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:22+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "53",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:52:26+00:00"
+}

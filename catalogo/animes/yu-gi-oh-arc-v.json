@@ -1,0 +1,1205 @@
+{
+  "id_origen": 1141,
+  "slug": "yu-gi-oh-arc-v",
+  "titulo": "Yu-Gi-Oh! Arc-V",
+  "titulo_corto": "Yu-Gi-Oh! Arc-V",
+  "sinopsis": "La quinta serie de Yu-Gi-Oh! con una historia original.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/yu-gi-oh-arc-v.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/",
+  "episodios": [
+    {
+      "id_origen": 23181,
+      "numero": 1,
+      "titulo": "Yu-Gi-Oh! Arc-V - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a249084ad4bce339b204ab436db2d902.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/1/",
+      "publicado_en_origen": "2014-04-10 23:53:45"
+    },
+    {
+      "id_origen": 23269,
+      "numero": 2,
+      "titulo": "Yu-Gi-Oh! Arc-V - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0a2c0f5474cbe314b3682c9325dc4f4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/2/",
+      "publicado_en_origen": "2014-04-20 16:32:56"
+    },
+    {
+      "id_origen": 23316,
+      "numero": 3,
+      "titulo": "Yu-Gi-Oh! Arc-V - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5e1f62e7ccb0b9a72102efff85671ac3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/3/",
+      "publicado_en_origen": "2014-04-25 00:51:41"
+    },
+    {
+      "id_origen": 23352,
+      "numero": 4,
+      "titulo": "Yu-Gi-Oh! Arc-V - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb0851c42060e233001707a719030e8c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/4/",
+      "publicado_en_origen": "2014-04-28 23:53:51"
+    },
+    {
+      "id_origen": 23490,
+      "numero": 5,
+      "titulo": "Yu-Gi-Oh! Arc-V - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d383d5cdcb4e8e52a3cbf0d9d6c02ff.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/5/",
+      "publicado_en_origen": "2014-05-15 18:02:28"
+    },
+    {
+      "id_origen": 23532,
+      "numero": 6,
+      "titulo": "Yu-Gi-Oh! Arc-V - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_419e4410da152c74d727270283cb94ce.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/6/",
+      "publicado_en_origen": "2014-05-20 16:46:46"
+    },
+    {
+      "id_origen": 23589,
+      "numero": 7,
+      "titulo": "Yu-Gi-Oh! Arc-V - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0eb0cfb54e452e7c8110cd04ad6588dd.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/7/",
+      "publicado_en_origen": "2014-05-26 22:08:16"
+    },
+    {
+      "id_origen": 23648,
+      "numero": 8,
+      "titulo": "Yu-Gi-Oh! Arc-V - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05a4be7f376456730bdcb93e2abc9e39.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/8/",
+      "publicado_en_origen": "2014-06-03 11:48:27"
+    },
+    {
+      "id_origen": 23708,
+      "numero": 9,
+      "titulo": "Yu-Gi-Oh! Arc-V - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3f2a6b3e119aaa5a1326802e7b49403.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/9/",
+      "publicado_en_origen": "2014-06-10 08:05:33"
+    },
+    {
+      "id_origen": 23767,
+      "numero": 10,
+      "titulo": "Yu-Gi-Oh! Arc-V - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6ea02b23d9ba70ecc548116b406c851.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/10/",
+      "publicado_en_origen": "2014-06-17 18:12:33"
+    },
+    {
+      "id_origen": 23822,
+      "numero": 11,
+      "titulo": "Yu-Gi-Oh! Arc-V - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_df6206a85a959857407d534df2e7e7f4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/11/",
+      "publicado_en_origen": "2014-06-25 00:57:11"
+    },
+    {
+      "id_origen": 23876,
+      "numero": 12,
+      "titulo": "Yu-Gi-Oh! Arc-V - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2bb5f2f1a6b188d0717a4bc4bdee95f4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/12/",
+      "publicado_en_origen": "2014-07-04 00:06:53"
+    },
+    {
+      "id_origen": 23949,
+      "numero": 13,
+      "titulo": "Yu-Gi-Oh! Arc-V - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73a2e4a4721851fab207428a7288f46e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/13/",
+      "publicado_en_origen": "2014-07-09 22:02:37"
+    },
+    {
+      "id_origen": 24021,
+      "numero": 14,
+      "titulo": "Yu-Gi-Oh! Arc-V - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82b9fe6d15e5952e1f5e597833d5fd95.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/14/",
+      "publicado_en_origen": "2014-07-17 20:54:11"
+    },
+    {
+      "id_origen": 24075,
+      "numero": 15,
+      "titulo": "Yu-Gi-Oh! Arc-V - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_285cf23026fb3ce911c2e4c15a0a48a7.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/15/",
+      "publicado_en_origen": "2014-07-23 18:03:58"
+    },
+    {
+      "id_origen": 24128,
+      "numero": 16,
+      "titulo": "Yu-Gi-Oh! Arc-V - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f5e6653c2100f36ef017088363ea359.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/16/",
+      "publicado_en_origen": "2014-07-29 22:12:50"
+    },
+    {
+      "id_origen": 24215,
+      "numero": 17,
+      "titulo": "Yu-Gi-Oh! Arc-V - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8feeb5ed0776e02943859128347dc015.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/17/",
+      "publicado_en_origen": "2014-08-07 20:17:44"
+    },
+    {
+      "id_origen": 24308,
+      "numero": 18,
+      "titulo": "Yu-Gi-Oh! Arc-V - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7243874a7b55c8ae90bbc0f39129c32.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/18/",
+      "publicado_en_origen": "2014-08-12 22:41:33"
+    },
+    {
+      "id_origen": 24491,
+      "numero": 19,
+      "titulo": "Yu-Gi-Oh! Arc-V - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d210a16321048afb41103cccd097d9eb.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/19/",
+      "publicado_en_origen": "2014-08-20 12:06:33"
+    },
+    {
+      "id_origen": 24628,
+      "numero": 20,
+      "titulo": "Yu-Gi-Oh! Arc-V - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b59d913666682dd15f4516872e7f4ac.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/20/",
+      "publicado_en_origen": "2014-09-03 22:09:19"
+    },
+    {
+      "id_origen": 24629,
+      "numero": 21,
+      "titulo": "Yu-Gi-Oh! Arc-V - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b2aee999ceaffac3be063b1db40b076.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/21/",
+      "publicado_en_origen": "2014-09-03 22:47:44"
+    },
+    {
+      "id_origen": 24717,
+      "numero": 22,
+      "titulo": "Yu-Gi-Oh! Arc-V - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f258367ae371f7e2b69c63148c45b143.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/22/",
+      "publicado_en_origen": "2014-09-10 01:16:44"
+    },
+    {
+      "id_origen": 24792,
+      "numero": 23,
+      "titulo": "Yu-Gi-Oh! Arc-V - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a962a696f2d82cff7b5425a562468a46.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/23/",
+      "publicado_en_origen": "2014-09-17 15:36:34"
+    },
+    {
+      "id_origen": 24946,
+      "numero": 24,
+      "titulo": "Yu-Gi-Oh! Arc-V - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52ac89f6fd092a77578033a1b21594ff.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/24/",
+      "publicado_en_origen": "2014-09-29 02:00:28"
+    },
+    {
+      "id_origen": 24963,
+      "numero": 25,
+      "titulo": "Yu-Gi-Oh! Arc-V - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b4f6926d4794e9cdb293fa94a06b4577.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/25/",
+      "publicado_en_origen": "2014-10-01 05:15:18"
+    },
+    {
+      "id_origen": 25025,
+      "numero": 26,
+      "titulo": "Yu-Gi-Oh! Arc-V - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b57c0bb0564fe650d8ad45b7d7c1017.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/26/",
+      "publicado_en_origen": "2014-10-08 11:32:40"
+    },
+    {
+      "id_origen": 25092,
+      "numero": 27,
+      "titulo": "Yu-Gi-Oh! Arc-V - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a83c2b6e517f17cae341a080c27d8e2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/27/",
+      "publicado_en_origen": "2014-10-15 18:35:20"
+    },
+    {
+      "id_origen": 25172,
+      "numero": 28,
+      "titulo": "Yu-Gi-Oh! Arc-V - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a2a12471535005ffef2984cfa21c8eda.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/28/",
+      "publicado_en_origen": "2014-10-23 11:49:31"
+    },
+    {
+      "id_origen": 25235,
+      "numero": 29,
+      "titulo": "Yu-Gi-Oh! Arc-V - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d42d7587d22e1d36d009e89d4a2de98.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/29/",
+      "publicado_en_origen": "2014-10-29 18:24:29"
+    },
+    {
+      "id_origen": 25315,
+      "numero": 30,
+      "titulo": "Yu-Gi-Oh! Arc-V - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14c0491f103ab436df4db61a97f227f2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/30/",
+      "publicado_en_origen": "2014-11-06 13:08:33"
+    },
+    {
+      "id_origen": 25436,
+      "numero": 31,
+      "titulo": "Yu-Gi-Oh! Arc-V - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af075e90875e107a1963c799eb861a61.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/31/",
+      "publicado_en_origen": "2014-11-15 05:51:12"
+    },
+    {
+      "id_origen": 25522,
+      "numero": 32,
+      "titulo": "Yu-Gi-Oh! Arc-V - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5328c22dc818e19521b07a7a36ca1620.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/32/",
+      "publicado_en_origen": "2014-11-21 23:19:33"
+    },
+    {
+      "id_origen": 25609,
+      "numero": 33,
+      "titulo": "Yu-Gi-Oh! Arc-V - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_505b6ea93ea6842589972851cd79a1fc.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/33/",
+      "publicado_en_origen": "2014-11-29 14:35:18"
+    },
+    {
+      "id_origen": 25715,
+      "numero": 34,
+      "titulo": "Yu-Gi-Oh! Arc-V - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c9401f2e592de95c20042ebcc16a102.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/34/",
+      "publicado_en_origen": "2014-12-07 23:56:13"
+    },
+    {
+      "id_origen": 25911,
+      "numero": 35,
+      "titulo": "Yu-Gi-Oh! Arc-V - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_24b482e0e7581adb4d2f9ec2a4abf347.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/35/",
+      "publicado_en_origen": "2014-12-20 23:56:18"
+    },
+    {
+      "id_origen": 25949,
+      "numero": 36,
+      "titulo": "Yu-Gi-Oh! Arc-V - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9afad4c3fe50b3ea745831dcabdbccd5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/36/",
+      "publicado_en_origen": "2014-12-24 14:22:00"
+    },
+    {
+      "id_origen": 26182,
+      "numero": 37,
+      "titulo": "Yu-Gi-Oh! Arc-V - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b5c772a9de501b3e045ffa86178f800.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/37/",
+      "publicado_en_origen": "2015-01-01 15:28:03"
+    },
+    {
+      "id_origen": 26387,
+      "numero": 38,
+      "titulo": "Yu-Gi-Oh! Arc-V - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b0c6b58fb9b42eaace2cb27c73343db.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/38/",
+      "publicado_en_origen": "2015-01-14 22:39:05"
+    },
+    {
+      "id_origen": 26478,
+      "numero": 39,
+      "titulo": "Yu-Gi-Oh! Arc-V - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebb9a55061af33b68d38f7ce72e4460f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/39/",
+      "publicado_en_origen": "2015-01-25 02:40:44"
+    },
+    {
+      "id_origen": 26507,
+      "numero": 40,
+      "titulo": "Yu-Gi-Oh! Arc-V - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2a7069e603da0c9e813ce0c6a376d10.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/40/",
+      "publicado_en_origen": "2015-01-27 21:36:25"
+    },
+    {
+      "id_origen": 26591,
+      "numero": 41,
+      "titulo": "Yu-Gi-Oh! Arc-V - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_38abae704fb4cdba00a26baa58cb4443.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/41/",
+      "publicado_en_origen": "2015-02-04 23:53:48"
+    },
+    {
+      "id_origen": 26722,
+      "numero": 42,
+      "titulo": "Yu-Gi-Oh! Arc-V - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_610126195c0f6e4df38f399c3325aecb.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/42/",
+      "publicado_en_origen": "2015-02-12 22:58:34"
+    },
+    {
+      "id_origen": 26785,
+      "numero": 43,
+      "titulo": "Yu-Gi-Oh! Arc-V - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8eef6ff991f69d436ef38262bb3eef52.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/43/",
+      "publicado_en_origen": "2015-02-19 20:52:25"
+    },
+    {
+      "id_origen": 26901,
+      "numero": 44,
+      "titulo": "Yu-Gi-Oh! Arc-V - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22f4700139f7afad5efdce094bb9a8a5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/44/",
+      "publicado_en_origen": "2015-02-25 21:30:38"
+    },
+    {
+      "id_origen": 26956,
+      "numero": 45,
+      "titulo": "Yu-Gi-Oh! Arc-V - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4854417254fa352c8deea7c55ed11dd2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/45/",
+      "publicado_en_origen": "2015-03-03 23:45:00"
+    },
+    {
+      "id_origen": 27014,
+      "numero": 46,
+      "titulo": "Yu-Gi-Oh! Arc-V - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c17761f7220777710a535e7dea512d3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/46/",
+      "publicado_en_origen": "2015-03-10 17:41:16"
+    },
+    {
+      "id_origen": 27144,
+      "numero": 47,
+      "titulo": "Yu-Gi-Oh! Arc-V - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dfa61f0564c8bfb628a354da42279660.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/47/",
+      "publicado_en_origen": "2015-03-19 12:02:37"
+    },
+    {
+      "id_origen": 27227,
+      "numero": 48,
+      "titulo": "Yu-Gi-Oh! Arc-V - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ea841a00684473af118beb024287ce3.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/48/",
+      "publicado_en_origen": "2015-03-26 00:34:22"
+    },
+    {
+      "id_origen": 27357,
+      "numero": 49,
+      "titulo": "Yu-Gi-Oh! Arc-V - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9de76f2825e2107822a5c68b172a144.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/49/",
+      "publicado_en_origen": "2015-04-02 21:49:01"
+    },
+    {
+      "id_origen": 27422,
+      "numero": 50,
+      "titulo": "Yu-Gi-Oh! Arc-V - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_36b5cde3df91a145d823508f9b5c9c91.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/50/",
+      "publicado_en_origen": "2015-04-08 20:48:27"
+    },
+    {
+      "id_origen": 27482,
+      "numero": 51,
+      "titulo": "Yu-Gi-Oh! Arc-V - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9e5eed4838d19844cc00a72f39253b0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/51/",
+      "publicado_en_origen": "2015-04-14 20:54:53"
+    },
+    {
+      "id_origen": 27554,
+      "numero": 52,
+      "titulo": "Yu-Gi-Oh! Arc-V - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7500f543d4d00b34abc82287370d1b5d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/52/",
+      "publicado_en_origen": "2015-04-21 23:54:38"
+    },
+    {
+      "id_origen": 27617,
+      "numero": 53,
+      "titulo": "Yu-Gi-Oh! Arc-V - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f26d74c4cc9b8710dd090224f3831dc8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/53/",
+      "publicado_en_origen": "2015-04-28 21:00:27"
+    },
+    {
+      "id_origen": 27682,
+      "numero": 54,
+      "titulo": "Yu-Gi-Oh! Arc-V - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34b9df8d0ab73f851c2950554db628f7.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/54/",
+      "publicado_en_origen": "2015-05-05 15:55:59"
+    },
+    {
+      "id_origen": 27744,
+      "numero": 55,
+      "titulo": "Yu-Gi-Oh! Arc-V - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b00b137321ce666a91002e02a39b0eb.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/55/",
+      "publicado_en_origen": "2015-05-13 17:13:17"
+    },
+    {
+      "id_origen": 27802,
+      "numero": 56,
+      "titulo": "Yu-Gi-Oh! Arc-V - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d484a3fde40e65e19c2799b9b529c82e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/56/",
+      "publicado_en_origen": "2015-05-19 12:18:36"
+    },
+    {
+      "id_origen": 27876,
+      "numero": 57,
+      "titulo": "Yu-Gi-Oh! Arc-V - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25fadf1aed8557bf7c5355568201d8ee.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/57/",
+      "publicado_en_origen": "2015-05-27 22:18:54"
+    },
+    {
+      "id_origen": 27939,
+      "numero": 58,
+      "titulo": "Yu-Gi-Oh! Arc-V - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_990c7ce9f046359dac66324e418e8e62.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/58/",
+      "publicado_en_origen": "2015-06-04 00:43:29"
+    },
+    {
+      "id_origen": 27995,
+      "numero": 59,
+      "titulo": "Yu-Gi-Oh! Arc-V - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_56bb5873cd75a9d4d2297208d6ba3908.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/59/",
+      "publicado_en_origen": "2015-06-10 04:52:06"
+    },
+    {
+      "id_origen": 28490,
+      "numero": 60,
+      "titulo": "Yu-Gi-Oh! Arc-V - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9e020ebb181dfd3fb1229c6ceb076a60.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/60/",
+      "publicado_en_origen": "2015-06-19 02:53:33"
+    },
+    {
+      "id_origen": 28540,
+      "numero": 61,
+      "titulo": "Yu-Gi-Oh! Arc-V - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_29c5509d98ea56c71fcf591468c48f4f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/61/",
+      "publicado_en_origen": "2015-06-23 20:52:26"
+    },
+    {
+      "id_origen": 28599,
+      "numero": 62,
+      "titulo": "Yu-Gi-Oh! Arc-V - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_164ecd36bc9fc1781df239d00b004d3b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/62/",
+      "publicado_en_origen": "2015-07-02 01:29:46"
+    },
+    {
+      "id_origen": 28650,
+      "numero": 63,
+      "titulo": "Yu-Gi-Oh! Arc-V - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_52d3882d85ec8a840371c62855241ceb.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/63/",
+      "publicado_en_origen": "2015-07-07 16:21:23"
+    },
+    {
+      "id_origen": 28715,
+      "numero": 64,
+      "titulo": "Yu-Gi-Oh! Arc-V - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_74a564781bf38f42f6d60ae0c8e2d63a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/64/",
+      "publicado_en_origen": "2015-07-14 01:32:51"
+    },
+    {
+      "id_origen": 28783,
+      "numero": 65,
+      "titulo": "Yu-Gi-Oh! Arc-V - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c31737d2e075dc48cffaee6253b790c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/65/",
+      "publicado_en_origen": "2015-07-21 12:17:09"
+    },
+    {
+      "id_origen": 28853,
+      "numero": 66,
+      "titulo": "Yu-Gi-Oh! Arc-V - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_de584085097dbcc290d237ea48ccd97c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/66/",
+      "publicado_en_origen": "2015-07-28 19:23:46"
+    },
+    {
+      "id_origen": 28918,
+      "numero": 67,
+      "titulo": "Yu-Gi-Oh! Arc-V - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8c91941c44ee273af84ef092c01a0b1.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/67/",
+      "publicado_en_origen": "2015-08-04 23:47:21"
+    },
+    {
+      "id_origen": 28979,
+      "numero": 68,
+      "titulo": "Yu-Gi-Oh! Arc-V - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b0e3a2dce163aba52c5c6e4860bdc005.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/68/",
+      "publicado_en_origen": "2015-08-12 13:55:31"
+    },
+    {
+      "id_origen": 29041,
+      "numero": 69,
+      "titulo": "Yu-Gi-Oh! Arc-V - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6aaf618580961e7d7d50f1a6aa246fa1.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/69/",
+      "publicado_en_origen": "2015-08-19 01:36:16"
+    },
+    {
+      "id_origen": 29103,
+      "numero": 70,
+      "titulo": "Yu-Gi-Oh! Arc-V - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6181e24bc01e4a832249fa9a2de8470.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/70/",
+      "publicado_en_origen": "2015-08-25 01:18:56"
+    },
+    {
+      "id_origen": 29177,
+      "numero": 71,
+      "titulo": "Yu-Gi-Oh! Arc-V - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ede9a28e3faab252a9b93ed1b300de70.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/71/",
+      "publicado_en_origen": "2015-08-31 22:15:12"
+    },
+    {
+      "id_origen": 29302,
+      "numero": 72,
+      "titulo": "Yu-Gi-Oh! Arc-V - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb5b42e968d61f4ae1d97ab633b3a614.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/72/",
+      "publicado_en_origen": "2015-09-08 02:18:09"
+    },
+    {
+      "id_origen": 29422,
+      "numero": 73,
+      "titulo": "Yu-Gi-Oh! Arc-V - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a80788ea7a51aea6758580944fd40b5d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/73/",
+      "publicado_en_origen": "2015-09-15 00:28:18"
+    },
+    {
+      "id_origen": 29635,
+      "numero": 74,
+      "titulo": "Yu-Gi-Oh! Arc-V - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0919fe8239ba5be746ae7a1d44f50a7f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/74/",
+      "publicado_en_origen": "2015-09-22 20:19:42"
+    },
+    {
+      "id_origen": 29680,
+      "numero": 75,
+      "titulo": "Yu-Gi-Oh! Arc-V - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0caa694ffbe5d4bc7a4f359989388fdb.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/75/",
+      "publicado_en_origen": "2015-09-29 16:40:12"
+    },
+    {
+      "id_origen": 29732,
+      "numero": 76,
+      "titulo": "Yu-Gi-Oh! Arc-V - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af074edfb4940be0ed1d4fcfc4ea0dee.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/76/",
+      "publicado_en_origen": "2015-10-05 22:08:38"
+    },
+    {
+      "id_origen": 29804,
+      "numero": 77,
+      "titulo": "Yu-Gi-Oh! Arc-V - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a6b756f8eb9b358f11ece6ddca066f7.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/77/",
+      "publicado_en_origen": "2015-10-13 15:30:13"
+    },
+    {
+      "id_origen": 29856,
+      "numero": 78,
+      "titulo": "Yu-Gi-Oh! Arc-V - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e1dbbe5fa0cc885cabb5d674c14ca7a9.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/78/",
+      "publicado_en_origen": "2015-10-19 00:59:28"
+    },
+    {
+      "id_origen": 29918,
+      "numero": 79,
+      "titulo": "Yu-Gi-Oh! Arc-V - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d59ec4d93d959f651ed743c75192723e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/79/",
+      "publicado_en_origen": "2015-10-25 23:25:53"
+    },
+    {
+      "id_origen": 29985,
+      "numero": 80,
+      "titulo": "Yu-Gi-Oh! Arc-V - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8be00c69e615ab5846e629f5bb39fd95.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/80/",
+      "publicado_en_origen": "2015-11-01 22:36:19"
+    },
+    {
+      "id_origen": 30044,
+      "numero": 81,
+      "titulo": "Yu-Gi-Oh! Arc-V - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ca98acb44f4ced8db93b804eb3203a75.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/81/",
+      "publicado_en_origen": "2015-11-09 15:55:18"
+    },
+    {
+      "id_origen": 30097,
+      "numero": 82,
+      "titulo": "Yu-Gi-Oh! Arc-V - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e988c6b43fabb5006ea95c18d5088b9a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/82/",
+      "publicado_en_origen": "2015-11-15 21:01:11"
+    },
+    {
+      "id_origen": 30160,
+      "numero": 83,
+      "titulo": "Yu-Gi-Oh! Arc-V - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44917919527fa652749f1acb6dcf9617.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/83/",
+      "publicado_en_origen": "2015-11-22 18:48:15"
+    },
+    {
+      "id_origen": 30224,
+      "numero": 84,
+      "titulo": "Yu-Gi-Oh! Arc-V - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9d6b4b6c27bc520071ac934b5845e50.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/84/",
+      "publicado_en_origen": "2015-11-29 23:27:33"
+    },
+    {
+      "id_origen": 30344,
+      "numero": 85,
+      "titulo": "Yu-Gi-Oh! Arc-V - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c94ac72ea12ea1943136f2bc64719600.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/85/",
+      "publicado_en_origen": "2015-12-13 21:03:51"
+    },
+    {
+      "id_origen": 30401,
+      "numero": 86,
+      "titulo": "Yu-Gi-Oh! Arc-V - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b85b19cea2f0268e105f30d78f668250.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/86/",
+      "publicado_en_origen": "2015-12-20 20:17:38"
+    },
+    {
+      "id_origen": 30466,
+      "numero": 87,
+      "titulo": "Yu-Gi-Oh! Arc-V - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1895037c0fa55110b0e0e20d2e68a0d7.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/87/",
+      "publicado_en_origen": "2015-12-28 16:55:51"
+    },
+    {
+      "id_origen": 30542,
+      "numero": 88,
+      "titulo": "Yu-Gi-Oh! Arc-V - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79c512312810d47d64a72e7b7a97789d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/88/",
+      "publicado_en_origen": "2016-01-10 21:06:40"
+    },
+    {
+      "id_origen": 30621,
+      "numero": 89,
+      "titulo": "Yu-Gi-Oh! Arc-V - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_954f36b80ed21a866f1d1f4644d2ce50.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/89/",
+      "publicado_en_origen": "2016-01-21 15:19:08"
+    },
+    {
+      "id_origen": 30671,
+      "numero": 90,
+      "titulo": "Yu-Gi-Oh! Arc-V - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0cb585eaef137198df8cb5519828d2a.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/90/",
+      "publicado_en_origen": "2016-01-26 01:54:09"
+    },
+    {
+      "id_origen": 30728,
+      "numero": 91,
+      "titulo": "Yu-Gi-Oh! Arc-V - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6b52f0c01e26aec069e5bd6701dabf8b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/91/",
+      "publicado_en_origen": "2016-02-01 02:01:08"
+    },
+    {
+      "id_origen": 30796,
+      "numero": 92,
+      "titulo": "Yu-Gi-Oh! Arc-V - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_42ca5f08354583dcb39aa9ff31efa85b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/92/",
+      "publicado_en_origen": "2016-02-08 20:00:36"
+    },
+    {
+      "id_origen": 30844,
+      "numero": 93,
+      "titulo": "Yu-Gi-Oh! Arc-V - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d467193baadf3ec5f1d18d0757525712.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/93/",
+      "publicado_en_origen": "2016-02-15 01:43:14"
+    },
+    {
+      "id_origen": 30910,
+      "numero": 94,
+      "titulo": "Yu-Gi-Oh! Arc-V - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_69c89914e702d2abe840bd751f5b59c5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/94/",
+      "publicado_en_origen": "2016-02-22 17:04:55"
+    },
+    {
+      "id_origen": 30984,
+      "numero": 95,
+      "titulo": "Yu-Gi-Oh! Arc-V - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9379824b37bdf1d40d517e0a8e4ea024.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/95/",
+      "publicado_en_origen": "2016-03-01 01:08:32"
+    },
+    {
+      "id_origen": 31120,
+      "numero": 96,
+      "titulo": "Yu-Gi-Oh! Arc-V - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d7729b60340108b41f64a8af2fb59920.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/96/",
+      "publicado_en_origen": "2016-03-14 23:52:53"
+    },
+    {
+      "id_origen": 31207,
+      "numero": 97,
+      "titulo": "Yu-Gi-Oh! Arc-V - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ee84a1d752ef2d6bf779aa019023863.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/97/",
+      "publicado_en_origen": "2016-03-25 21:46:24"
+    },
+    {
+      "id_origen": 31233,
+      "numero": 98,
+      "titulo": "Yu-Gi-Oh! Arc-V - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fac9d25fadd0be196f95f166fec2807.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/98/",
+      "publicado_en_origen": "2016-03-27 20:40:21"
+    },
+    {
+      "id_origen": 31290,
+      "numero": 99,
+      "titulo": "Yu-Gi-Oh! Arc-V - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da6227556cac5e27703ef56a6015cb50.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/99/",
+      "publicado_en_origen": "2016-04-06 21:05:32"
+    },
+    {
+      "id_origen": 31291,
+      "numero": 100,
+      "titulo": "Yu-Gi-Oh! Arc-V - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d0ceaba6d228fd9ad99831d5df783c7c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/100/",
+      "publicado_en_origen": "2016-04-06 21:25:06"
+    },
+    {
+      "id_origen": 31328,
+      "numero": 101,
+      "titulo": "Yu-Gi-Oh! Arc-V - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e82be97d50fa31e032f4789c6685ef05.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/101/",
+      "publicado_en_origen": "2016-04-11 00:42:25"
+    },
+    {
+      "id_origen": 31430,
+      "numero": 102,
+      "titulo": "Yu-Gi-Oh! Arc-V - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8c4e1000e86191ffd2a27a253c0aad82.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/102/",
+      "publicado_en_origen": "2016-04-25 00:31:40"
+    },
+    {
+      "id_origen": 31483,
+      "numero": 103,
+      "titulo": "Yu-Gi-Oh! Arc-V - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d04853731ce0790af8fbd9de5c37c8c1.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/103/",
+      "publicado_en_origen": "2016-05-01 21:37:23"
+    },
+    {
+      "id_origen": 31593,
+      "numero": 104,
+      "titulo": "Yu-Gi-Oh! Arc-V - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14b5caec7ac6a9609e748d56a17c174b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/104/",
+      "publicado_en_origen": "2016-05-16 01:51:12"
+    },
+    {
+      "id_origen": 31594,
+      "numero": 105,
+      "titulo": "Yu-Gi-Oh! Arc-V - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c20cbf08834c32e106350909a16de19e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/105/",
+      "publicado_en_origen": "2016-05-16 01:54:48"
+    },
+    {
+      "id_origen": 31648,
+      "numero": 106,
+      "titulo": "Yu-Gi-Oh! Arc-V - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d54c1acef541c844cc5d47d6a25cb029.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/106/",
+      "publicado_en_origen": "2016-05-22 20:00:33"
+    },
+    {
+      "id_origen": 31702,
+      "numero": 107,
+      "titulo": "Yu-Gi-Oh! Arc-V - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac3811a6c6bb180aa7db3e94fdab42cc.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/107/",
+      "publicado_en_origen": "2016-05-30 03:06:35"
+    },
+    {
+      "id_origen": 31756,
+      "numero": 108,
+      "titulo": "Yu-Gi-Oh! Arc-V - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e58e29db292ff8dfbbe41afb846e469e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/108/",
+      "publicado_en_origen": "2016-06-06 02:26:03"
+    },
+    {
+      "id_origen": 31808,
+      "numero": 109,
+      "titulo": "Yu-Gi-Oh! Arc-V - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93f52fc53bde4ada81365d7c2acb0735.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/109/",
+      "publicado_en_origen": "2016-06-13 04:12:20"
+    },
+    {
+      "id_origen": 31858,
+      "numero": 110,
+      "titulo": "Yu-Gi-Oh! Arc-V - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27adbf7fc9dd2c144f5cee93569fe2c1.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/110/",
+      "publicado_en_origen": "2016-06-20 00:05:46"
+    },
+    {
+      "id_origen": 31907,
+      "numero": 111,
+      "titulo": "Yu-Gi-Oh! Arc-V - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_93c6c0bd09a280606df12f66752d7b76.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/111/",
+      "publicado_en_origen": "2016-06-27 01:25:10"
+    },
+    {
+      "id_origen": 31963,
+      "numero": 112,
+      "titulo": "Yu-Gi-Oh! Arc-V - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a1f4e00e9208bf770f5d6469b05c0a93.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/112/",
+      "publicado_en_origen": "2016-07-04 15:08:28"
+    },
+    {
+      "id_origen": 32274,
+      "numero": 113,
+      "titulo": "Yu-Gi-Oh! Arc-V - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d38446cc4f5c0bef25d2270f9db29985.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/113/",
+      "publicado_en_origen": "2016-07-11 03:11:55"
+    },
+    {
+      "id_origen": 32330,
+      "numero": 114,
+      "titulo": "Yu-Gi-Oh! Arc-V - 114",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0507ea3f897987f62fc8619ae288236f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/114/",
+      "publicado_en_origen": "2016-07-17 21:55:16"
+    },
+    {
+      "id_origen": 32386,
+      "numero": 115,
+      "titulo": "Yu-Gi-Oh! Arc-V - 115",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_32492a842010652919d07f02c6de8608.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/115/",
+      "publicado_en_origen": "2016-07-24 20:31:52"
+    },
+    {
+      "id_origen": 32444,
+      "numero": 116,
+      "titulo": "Yu-Gi-Oh! Arc-V - 116",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68d7496649e857a0149ab0cdd40233e2.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/116/",
+      "publicado_en_origen": "2016-08-01 01:05:40"
+    },
+    {
+      "id_origen": 32501,
+      "numero": 117,
+      "titulo": "Yu-Gi-Oh! Arc-V - 117",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f10d04b8b4b9b5e662f49e8c031ed0d5.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/117/",
+      "publicado_en_origen": "2016-08-08 00:05:35"
+    },
+    {
+      "id_origen": 32552,
+      "numero": 118,
+      "titulo": "Yu-Gi-Oh! Arc-V - 118",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e6098d5b1d94ff8ff653522c48a3a327.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/118/",
+      "publicado_en_origen": "2016-08-15 02:14:21"
+    },
+    {
+      "id_origen": 32607,
+      "numero": 119,
+      "titulo": "Yu-Gi-Oh! Arc-V - 119",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc8bdffcd745cc1b8556a8868469a55b.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/119/",
+      "publicado_en_origen": "2016-08-21 23:14:17"
+    },
+    {
+      "id_origen": 32661,
+      "numero": 120,
+      "titulo": "Yu-Gi-Oh! Arc-V - 120",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebd9eb6819ab10ef417c8e52fe96cc94.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/120/",
+      "publicado_en_origen": "2016-08-29 03:23:30"
+    },
+    {
+      "id_origen": 32716,
+      "numero": 121,
+      "titulo": "Yu-Gi-Oh! Arc-V - 121",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e80fb1c17b97791d5bcdd3e91c617a7.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/121/",
+      "publicado_en_origen": "2016-09-05 04:52:40"
+    },
+    {
+      "id_origen": 32821,
+      "numero": 122,
+      "titulo": "Yu-Gi-Oh! Arc-V - 122",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb35965b8315f10237b87d2d2d829c0e.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/122/",
+      "publicado_en_origen": "2016-09-18 17:32:45"
+    },
+    {
+      "id_origen": 32876,
+      "numero": 123,
+      "titulo": "Yu-Gi-Oh! Arc-V - 123",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71afb186ca8924414be94770dba45137.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/123/",
+      "publicado_en_origen": "2016-09-24 22:44:41"
+    },
+    {
+      "id_origen": 32884,
+      "numero": 124,
+      "titulo": "Yu-Gi-Oh! Arc-V - 124",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c7e07c312fd6bafc9f5192b3dfdf3d3f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/124/",
+      "publicado_en_origen": "2016-09-25 22:27:56"
+    },
+    {
+      "id_origen": 32933,
+      "numero": 125,
+      "titulo": "Yu-Gi-Oh! Arc-V - 125",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d82cc168f5c589abedc86f5bea6ac5e0.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/125/",
+      "publicado_en_origen": "2016-10-03 01:55:35"
+    },
+    {
+      "id_origen": 33007,
+      "numero": 126,
+      "titulo": "Yu-Gi-Oh! Arc-V - 126",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d978feca237e502810bbe54a398e1dac.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/126/",
+      "publicado_en_origen": "2016-10-10 14:43:47"
+    },
+    {
+      "id_origen": 33079,
+      "numero": 127,
+      "titulo": "Yu-Gi-Oh! Arc-V - 127",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95753ccc84f42b133d6db84a22df8dd4.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/127/",
+      "publicado_en_origen": "2016-10-18 03:36:05"
+    },
+    {
+      "id_origen": 33140,
+      "numero": 128,
+      "titulo": "Yu-Gi-Oh! Arc-V - 128",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6b61fb59c825749bc444ee690e0e097.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/128/",
+      "publicado_en_origen": "2016-10-24 03:48:47"
+    },
+    {
+      "id_origen": 33208,
+      "numero": 129,
+      "titulo": "Yu-Gi-Oh! Arc-V - 129",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cfc6b2b7432c074eea2bd2ad6b0851d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/129/",
+      "publicado_en_origen": "2016-10-31 14:29:55"
+    },
+    {
+      "id_origen": 33284,
+      "numero": 130,
+      "titulo": "Yu-Gi-Oh! Arc-V - 130",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c1210dd1376c754b78be3d9709965276.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/130/",
+      "publicado_en_origen": "2016-11-08 02:30:26"
+    },
+    {
+      "id_origen": 33347,
+      "numero": 131,
+      "titulo": "Yu-Gi-Oh! Arc-V - 131",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d2db5698a88471cb5a02023aed88ad8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/131/",
+      "publicado_en_origen": "2016-11-14 05:46:58"
+    },
+    {
+      "id_origen": 33485,
+      "numero": 132,
+      "titulo": "Yu-Gi-Oh! Arc-V - 132",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5c126a6cc68cc505013ca40816d40532.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/132/",
+      "publicado_en_origen": "2016-11-27 17:06:22"
+    },
+    {
+      "id_origen": 33487,
+      "numero": 133,
+      "titulo": "Yu-Gi-Oh! Arc-V - 133",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_88ec5df775e0829fcfda406ee2cebd69.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/133/",
+      "publicado_en_origen": "2016-11-27 22:53:53"
+    },
+    {
+      "id_origen": 33629,
+      "numero": 134,
+      "titulo": "Yu-Gi-Oh! Arc-V - 134",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8000692a2ab9fd3dc006a3cdc9869978.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/134/",
+      "publicado_en_origen": "2016-12-12 00:31:49"
+    },
+    {
+      "id_origen": 33704,
+      "numero": 135,
+      "titulo": "Yu-Gi-Oh! Arc-V - 135",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4765d45744dee05d7409cbfa36da40d9.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/135/",
+      "publicado_en_origen": "2016-12-19 03:11:54"
+    },
+    {
+      "id_origen": 33766,
+      "numero": 136,
+      "titulo": "Yu-Gi-Oh! Arc-V - 136",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2c41e54c1a31849f56aa0686fa09759d.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/136/",
+      "publicado_en_origen": "2016-12-26 06:53:44"
+    },
+    {
+      "id_origen": 33814,
+      "numero": 137,
+      "titulo": "Yu-Gi-Oh! Arc-V - 137",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f41bd35be85c82171d5707e5df2c98d1.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/137/",
+      "publicado_en_origen": "2017-01-09 04:46:09"
+    },
+    {
+      "id_origen": 33870,
+      "numero": 138,
+      "titulo": "Yu-Gi-Oh! Arc-V - 138",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b01b2f6715785729f0a278f4674a9733.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/138/",
+      "publicado_en_origen": "2017-01-16 04:58:43"
+    },
+    {
+      "id_origen": 33925,
+      "numero": 139,
+      "titulo": "Yu-Gi-Oh! Arc-V - 139",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71b539f8a0207a307900ca15cbebc334.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/139/",
+      "publicado_en_origen": "2017-01-23 04:49:30"
+    },
+    {
+      "id_origen": 33983,
+      "numero": 140,
+      "titulo": "Yu-Gi-Oh! Arc-V - 140",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_33108382b3e6584aa7dcc9286988847f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/140/",
+      "publicado_en_origen": "2017-01-30 06:24:28"
+    },
+    {
+      "id_origen": 34039,
+      "numero": 141,
+      "titulo": "Yu-Gi-Oh! Arc-V - 141",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_569946dc65c3ff896c21399ba5384e0f.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/141/",
+      "publicado_en_origen": "2017-02-06 04:47:58"
+    },
+    {
+      "id_origen": 34093,
+      "numero": 142,
+      "titulo": "Yu-Gi-Oh! Arc-V - 142",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2a48f6d8270238d05d32752eb7807ad8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/142/",
+      "publicado_en_origen": "2017-02-13 05:00:07"
+    },
+    {
+      "id_origen": 34176,
+      "numero": 143,
+      "titulo": "Yu-Gi-Oh! Arc-V - 143",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d28e74f86094725e098c6b7d10b449c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/143/",
+      "publicado_en_origen": "2017-02-24 05:33:32"
+    },
+    {
+      "id_origen": 34231,
+      "numero": 144,
+      "titulo": "Yu-Gi-Oh! Arc-V - 144",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dec2236203d220c20de58dc2a0040258.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/144/",
+      "publicado_en_origen": "2017-03-01 14:50:14"
+    },
+    {
+      "id_origen": 34281,
+      "numero": 145,
+      "titulo": "Yu-Gi-Oh! Arc-V - 145",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_85ed80330988fd5fc9cd44b6efc379e6.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/145/",
+      "publicado_en_origen": "2017-03-07 20:12:00"
+    },
+    {
+      "id_origen": 34324,
+      "numero": 146,
+      "titulo": "Yu-Gi-Oh! Arc-V - 146",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8585cb93fef89c4cf932574e6554c9c.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/146/",
+      "publicado_en_origen": "2017-03-12 22:45:31"
+    },
+    {
+      "id_origen": 34381,
+      "numero": 147,
+      "titulo": "Yu-Gi-Oh! Arc-V - 147",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_54ba329c7cf69f8cc79445f2cacd2dff.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/147/",
+      "publicado_en_origen": "2017-03-20 04:14:29"
+    },
+    {
+      "id_origen": 34430,
+      "numero": 148,
+      "titulo": "Yu-Gi-Oh! Arc-V - 148",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e45e346bebac5fb8db1d1c63f751f3d8.jpg",
+      "url_origen": "https://jkanime.net/yu-gi-oh-arc-v/148/",
+      "publicado_en_origen": "2017-03-26 20:08:49"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1141",
+  "cantidad_episodios_declarada": 148,
+  "detalle_extraido_en": "2026-08-26T18:53:25+00:00"
+}

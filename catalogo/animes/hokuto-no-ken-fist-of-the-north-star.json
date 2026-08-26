@@ -1,0 +1,133 @@
+{
+  "id_origen": 4712,
+  "slug": "hokuto-no-ken-fist-of-the-north-star",
+  "titulo": "Hokuto no Ken: Fist of the North Star",
+  "titulo_corto": "Hokuto no Ken: Fist of the Nor...",
+  "sinopsis": "En 199x, el mundo se vio envuelto en el infierno de una guerra nuclear.\r\nCon los océanos secos y la Tierra destrozada, toda forma de vida parecía haber desaparecido, pero los humanos sobrevivieron con tenacidad. Sin embargo, lo que dominaba el mundo postapocalíptico era la violencia más absoluta. La humanidad superviviente se dividió en dos grupos: los que matan y se llevan todo lo que pueden, y los que son explotados.\r\n\r\nCuando toda esperanza parece perdida para los débiles, aparece un hombre vestido con harapos. Se trata de Kenshiro, el legítimo sucesor de las artes marciales Hokuto Shinken, con siete cicatrices en forma de constelación de la Osa Mayor. ¡Comienza su viaje para convertirse en un salvador legendario!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hokuto-no-ken-fist-of-the-north-star.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/",
+  "episodios": [
+    {
+      "id_origen": 72490,
+      "numero": 1,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f322d55917e4e710f1530bdeb800f3a2.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/1/",
+      "publicado_en_origen": "2026-04-12 14:21:40"
+    },
+    {
+      "id_origen": 72491,
+      "numero": 2,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fe96c53b2c61e01b3b5395ef2757544.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/2/",
+      "publicado_en_origen": "2026-04-12 14:21:43"
+    },
+    {
+      "id_origen": 72578,
+      "numero": 3,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_81005db771397699655249fd1d6aa372.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/3/",
+      "publicado_en_origen": "2026-04-17 17:04:56"
+    },
+    {
+      "id_origen": 72580,
+      "numero": 4,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ef5f66a31ae5ca6a698b3ae893d9958d.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/4/",
+      "publicado_en_origen": "2026-04-17 23:19:31"
+    },
+    {
+      "id_origen": 72723,
+      "numero": 5,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_505f4f2529c6bc1f3cd68ed3d37ee4e5.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/5/",
+      "publicado_en_origen": "2026-04-24 23:28:31"
+    },
+    {
+      "id_origen": 72910,
+      "numero": 6,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9dc4436d9a768125a3b869057492cfbc.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/6/",
+      "publicado_en_origen": "2026-05-01 16:22:39"
+    },
+    {
+      "id_origen": 73110,
+      "numero": 7,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9254192394548cde3806f38b8eddfde4.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/7/",
+      "publicado_en_origen": "2026-05-08 17:07:58"
+    },
+    {
+      "id_origen": 73241,
+      "numero": 8,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8cd1534150267aa2aa134db28f838855.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/8/",
+      "publicado_en_origen": "2026-05-15 16:42:26"
+    },
+    {
+      "id_origen": 73339,
+      "numero": 9,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_173895c4351fff5154ecadc819f35a72.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/9/",
+      "publicado_en_origen": "2026-05-22 17:18:29"
+    },
+    {
+      "id_origen": 73513,
+      "numero": 10,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_62e5c4ec0e80362b3c1d34e9b449a339.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/10/",
+      "publicado_en_origen": "2026-05-29 16:30:10"
+    },
+    {
+      "id_origen": 73994,
+      "numero": 11,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_02c51a39da8b89e26777abbd6edde1d5.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/11/",
+      "publicado_en_origen": "2026-06-05 17:14:42"
+    },
+    {
+      "id_origen": 74301,
+      "numero": 12,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e934e280d34e5fa7de9b51f06de63e56.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/12/",
+      "publicado_en_origen": "2026-06-12 16:09:56"
+    },
+    {
+      "id_origen": 74477,
+      "numero": 13,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a5b28620cc22ede46e4112499a58fa22.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/13/",
+      "publicado_en_origen": "2026-06-19 16:23:44"
+    },
+    {
+      "id_origen": 74691,
+      "numero": 14,
+      "titulo": "Hokuto no Ken: Fist of the North Star - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45243bbfe8f1b4cbe7a454ae90b98625.jpg",
+      "url_origen": "https://jkanime.net/hokuto-no-ken-fist-of-the-north-star/14/",
+      "publicado_en_origen": "2026-06-26 16:19:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:19+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4712",
+  "cantidad_episodios_declarada": 14,
+  "detalle_extraido_en": "2026-08-26T18:30:58+00:00"
+}

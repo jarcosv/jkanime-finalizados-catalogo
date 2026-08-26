@@ -1,0 +1,925 @@
+{
+  "id_origen": 4749,
+  "slug": "ginga-tetsudou-999",
+  "titulo": "Ginga Tetsudou 999",
+  "titulo_corto": "Ginga Tetsudou 999",
+  "sinopsis": "En un futuro lejano, la humanidad ha encontrado la forma de vivir para siempre adquiriendo cuerpos mecánicos, pero este camino hacia la inmortalidad resulta extraordinariamente caro. Un chico sin recursos, Tetsurou Hoshino, desea comprar un billete para el Galaxy Express 999 —un tren que recorre el universo— porque se dice que, al final del trayecto, los pasajeros pueden obtener un cuerpo mecánico de forma gratuita. Sin embargo, cuando la madre de Tetsurou es asesinada a tiros por el malvado híbrido entre hombre y máquina, el Conde Mecha, todo parece perdido.\r\n\r\nTetsurou es entonces salvado de una muerte segura por la misteriosa Maetel, una mujer alta de cabello rubio y un parecido sorprendente con su madre. Ella le da un billete para el Galaxy Express con una condición: que viajen juntos. Así, Tetsurou comienza su viaje a través del universo hacia muchos planetas únicos y emocionantes aventuras, con la esperanza de poder alcanzar lo que más desea.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/ginga-tetsudou-999.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/ginga-tetsudou-999/",
+  "episodios": [
+    {
+      "id_origen": 74026,
+      "numero": 1,
+      "titulo": "Ginga Tetsudou 999 - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5349297f303bd76f7571f0065bd22f6e.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/1/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74027,
+      "numero": 2,
+      "titulo": "Ginga Tetsudou 999 - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8d7a2608da300fbbd7e611a6883eeeef.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/2/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74028,
+      "numero": 3,
+      "titulo": "Ginga Tetsudou 999 - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7805164f1c00b1b09d844eb5ec8a1b63.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/3/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74029,
+      "numero": 4,
+      "titulo": "Ginga Tetsudou 999 - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25fe86d1b5c8a8426626740af4c69507.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/4/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74030,
+      "numero": 5,
+      "titulo": "Ginga Tetsudou 999 - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d1748541a75c00a69388d91237f5a49.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/5/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74031,
+      "numero": 6,
+      "titulo": "Ginga Tetsudou 999 - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2d52d3512648a4e253f5c02852609426.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/6/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74032,
+      "numero": 7,
+      "titulo": "Ginga Tetsudou 999 - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7c73f37defcbf31c9a3d72dc722883e3.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/7/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74033,
+      "numero": 8,
+      "titulo": "Ginga Tetsudou 999 - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebe3ec035bb13e2b13c43f437279de8f.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/8/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74034,
+      "numero": 9,
+      "titulo": "Ginga Tetsudou 999 - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d06ceb60ce5cc1f065b79e89c2059587.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/9/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74035,
+      "numero": 10,
+      "titulo": "Ginga Tetsudou 999 - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e95e860624b8805cd4741d0250a5483d.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/10/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74036,
+      "numero": 11,
+      "titulo": "Ginga Tetsudou 999 - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6cbfaa0c8949115c04a5b1d4cfa64314.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/11/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74037,
+      "numero": 12,
+      "titulo": "Ginga Tetsudou 999 - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc91c581ebbff364c1540d57573959f8.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/12/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74038,
+      "numero": 13,
+      "titulo": "Ginga Tetsudou 999 - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2fb302a6d15fe058ddcc3f615c101b5f.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/13/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74039,
+      "numero": 14,
+      "titulo": "Ginga Tetsudou 999 - 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb4ae8458f58dc8c31959143739735a5.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/14/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74040,
+      "numero": 15,
+      "titulo": "Ginga Tetsudou 999 - 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1dedf265480475df692dbc3034b803ed.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/15/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74041,
+      "numero": 16,
+      "titulo": "Ginga Tetsudou 999 - 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d229d0eb1824211a05ddc9a3a8965bc2.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/16/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74042,
+      "numero": 17,
+      "titulo": "Ginga Tetsudou 999 - 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_11366c456f044a4f724f45b1d8ac3ddd.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/17/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74043,
+      "numero": 18,
+      "titulo": "Ginga Tetsudou 999 - 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_977925028b5b6ab25bf610f08e56c7b1.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/18/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74044,
+      "numero": 19,
+      "titulo": "Ginga Tetsudou 999 - 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_12e0e4910801ac58d0195debde5fe5d6.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/19/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74045,
+      "numero": 20,
+      "titulo": "Ginga Tetsudou 999 - 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c77224ca1044695e2dd830b77b5c17c2.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/20/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74046,
+      "numero": 21,
+      "titulo": "Ginga Tetsudou 999 - 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ef9701ad5e9290204a9860b55eb67b3.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/21/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74047,
+      "numero": 22,
+      "titulo": "Ginga Tetsudou 999 - 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af9bd4ed0dca87f4441909f1fad74753.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/22/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74048,
+      "numero": 23,
+      "titulo": "Ginga Tetsudou 999 - 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5b5ee8e4b71e18f6ce069ce95ebc0049.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/23/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74049,
+      "numero": 24,
+      "titulo": "Ginga Tetsudou 999 - 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19fcd8eb2d7db006945f857245282e73.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/24/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74050,
+      "numero": 25,
+      "titulo": "Ginga Tetsudou 999 - 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_597d252ae23cb55a2d03f2a922f710cb.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/25/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74051,
+      "numero": 26,
+      "titulo": "Ginga Tetsudou 999 - 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b229a893e5e1819cb21f50fb38538d09.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/26/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74052,
+      "numero": 27,
+      "titulo": "Ginga Tetsudou 999 - 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1e98418946611cb544a0d3f3f3280d4b.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/27/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74053,
+      "numero": 28,
+      "titulo": "Ginga Tetsudou 999 - 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b8bf0b279fe40fe4019c35a8a24c9bfa.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/28/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74054,
+      "numero": 29,
+      "titulo": "Ginga Tetsudou 999 - 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8433a6084f9778d926e52c4f2d8893ee.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/29/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74055,
+      "numero": 30,
+      "titulo": "Ginga Tetsudou 999 - 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6a623578d71af3dfa0c0ab5707584981.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/30/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74056,
+      "numero": 31,
+      "titulo": "Ginga Tetsudou 999 - 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bbcd086cd87a3fda303c505263b32dc.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/31/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74057,
+      "numero": 32,
+      "titulo": "Ginga Tetsudou 999 - 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_469329016b4c7f6efb4f258caa78c925.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/32/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74058,
+      "numero": 33,
+      "titulo": "Ginga Tetsudou 999 - 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_41d1076d3b1cccc6164f0184300deeab.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/33/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74059,
+      "numero": 34,
+      "titulo": "Ginga Tetsudou 999 - 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6569e4ff5b6fa577b3c24830c4133dd5.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/34/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74060,
+      "numero": 35,
+      "titulo": "Ginga Tetsudou 999 - 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_59e74fe8b59cc6763661e36527478010.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/35/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74061,
+      "numero": 36,
+      "titulo": "Ginga Tetsudou 999 - 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a986a7553f922624f0efd21ea35b091d.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/36/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74062,
+      "numero": 37,
+      "titulo": "Ginga Tetsudou 999 - 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47e2f8bc000dd0b60dbd47eebdb30e46.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/37/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74063,
+      "numero": 38,
+      "titulo": "Ginga Tetsudou 999 - 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_91c3fe28a794e33db31b6153254d5958.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/38/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74064,
+      "numero": 39,
+      "titulo": "Ginga Tetsudou 999 - 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ffcac109001d3534cfeb3d4f666b05e.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/39/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74065,
+      "numero": 40,
+      "titulo": "Ginga Tetsudou 999 - 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8bbf582a291cc539fea534bcae76f8c.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/40/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74066,
+      "numero": 41,
+      "titulo": "Ginga Tetsudou 999 - 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_185a6b8d86cc4bac5edf5a2dd6c34e7e.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/41/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74067,
+      "numero": 42,
+      "titulo": "Ginga Tetsudou 999 - 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ef3c715ff6db6a0ccf760e923169f5a.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/42/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74068,
+      "numero": 43,
+      "titulo": "Ginga Tetsudou 999 - 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7399d2a7ca72804073d731edcbcc4fe8.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/43/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74069,
+      "numero": 44,
+      "titulo": "Ginga Tetsudou 999 - 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ef764aabcea31a471d6ae95a1481c8d.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/44/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74070,
+      "numero": 45,
+      "titulo": "Ginga Tetsudou 999 - 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fca9b632a7b02bb3a2fa703b784ee74c.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/45/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74071,
+      "numero": 46,
+      "titulo": "Ginga Tetsudou 999 - 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_008a9053a48083fd088c67ab46fca006.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/46/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74072,
+      "numero": 47,
+      "titulo": "Ginga Tetsudou 999 - 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0ccf662d6ce7180a8b2105237df1ef4a.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/47/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74073,
+      "numero": 48,
+      "titulo": "Ginga Tetsudou 999 - 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_273883620a983b8deda4d23145d9fe55.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/48/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74074,
+      "numero": 49,
+      "titulo": "Ginga Tetsudou 999 - 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d000dc494103d8ea398295c558b9b164.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/49/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74075,
+      "numero": 50,
+      "titulo": "Ginga Tetsudou 999 - 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b1d773606504ecb025cba08b5b445562.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/50/",
+      "publicado_en_origen": "2026-06-07 00:15:02"
+    },
+    {
+      "id_origen": 74076,
+      "numero": 51,
+      "titulo": "Ginga Tetsudou 999 - 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bb79b4365c39b2bd64705277756755ac.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/51/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74077,
+      "numero": 52,
+      "titulo": "Ginga Tetsudou 999 - 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9b3bab4d221fc739f3ae296daccd6db.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/52/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74078,
+      "numero": 53,
+      "titulo": "Ginga Tetsudou 999 - 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfacab388cbcc7e64a3389daed50f8d0.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/53/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74079,
+      "numero": 54,
+      "titulo": "Ginga Tetsudou 999 - 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_334c4862485e5b4fe0ba8c8125b4efb1.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/54/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74080,
+      "numero": 55,
+      "titulo": "Ginga Tetsudou 999 - 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_894221e14ae8dc430995572ae9b66b86.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/55/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74081,
+      "numero": 56,
+      "titulo": "Ginga Tetsudou 999 - 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ee21265a06c829dc884043d65a0b6674.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/56/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74082,
+      "numero": 57,
+      "titulo": "Ginga Tetsudou 999 - 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d49976f5540ef029994f365b38db2bbf.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/57/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74083,
+      "numero": 58,
+      "titulo": "Ginga Tetsudou 999 - 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5d4a2f143b31f19a8b4ebc26d6491f80.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/58/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74084,
+      "numero": 59,
+      "titulo": "Ginga Tetsudou 999 - 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c42873303511d0d5af359daedf61b975.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/59/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74085,
+      "numero": 60,
+      "titulo": "Ginga Tetsudou 999 - 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f062d06bfbc679352e3df59561e1c653.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/60/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74086,
+      "numero": 61,
+      "titulo": "Ginga Tetsudou 999 - 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3e4d626a04416b2082ba20a4a5c9f5a.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/61/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74087,
+      "numero": 62,
+      "titulo": "Ginga Tetsudou 999 - 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ec99486ceeab73641a4128073e547e65.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/62/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74088,
+      "numero": 63,
+      "titulo": "Ginga Tetsudou 999 - 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5577c5ddd53bb989567513db6f0e759a.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/63/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74089,
+      "numero": 64,
+      "titulo": "Ginga Tetsudou 999 - 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_765836df4a824b75543d403252ec068a.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/64/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74090,
+      "numero": 65,
+      "titulo": "Ginga Tetsudou 999 - 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c67fc1f8ed2364ba7708b14379423f29.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/65/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74091,
+      "numero": 66,
+      "titulo": "Ginga Tetsudou 999 - 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_80fc7886eca10bc284b249e84f83d915.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/66/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74092,
+      "numero": 67,
+      "titulo": "Ginga Tetsudou 999 - 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64c96f5555b67488857cc7b9fa27e733.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/67/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74093,
+      "numero": 68,
+      "titulo": "Ginga Tetsudou 999 - 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f6b1767043d5c5c73f0be6579562fed6.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/68/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74094,
+      "numero": 69,
+      "titulo": "Ginga Tetsudou 999 - 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f179ef143144acf4653c8e0b9406c73c.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/69/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74095,
+      "numero": 70,
+      "titulo": "Ginga Tetsudou 999 - 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fca9fbcbfa89f0842d9614d96350e0e6.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/70/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74096,
+      "numero": 71,
+      "titulo": "Ginga Tetsudou 999 - 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_902e626e326ad8d71bcf43882a396b05.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/71/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74097,
+      "numero": 72,
+      "titulo": "Ginga Tetsudou 999 - 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3733a8fcbb89fc2d92d531690e4cd052.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/72/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74098,
+      "numero": 73,
+      "titulo": "Ginga Tetsudou 999 - 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_af861356fc5b2e4573c46d2e1dadf687.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/73/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74099,
+      "numero": 74,
+      "titulo": "Ginga Tetsudou 999 - 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9adb2aafb9f4143e06a70dd5288cd4ac.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/74/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74100,
+      "numero": 75,
+      "titulo": "Ginga Tetsudou 999 - 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8ddf202298abd27ace13f160e274e82.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/75/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74101,
+      "numero": 76,
+      "titulo": "Ginga Tetsudou 999 - 76",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ed8609648c88761700b44b9b0cef7663.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/76/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74102,
+      "numero": 77,
+      "titulo": "Ginga Tetsudou 999 - 77",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_088e013919d19d39fa0d167c92d359bc.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/77/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74103,
+      "numero": 78,
+      "titulo": "Ginga Tetsudou 999 - 78",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78ddf1f5d99306de21ae431d37afd0f2.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/78/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74104,
+      "numero": 79,
+      "titulo": "Ginga Tetsudou 999 - 79",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9fece1a2c4e2fdb492a20cafb2edee25.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/79/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74105,
+      "numero": 80,
+      "titulo": "Ginga Tetsudou 999 - 80",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fbc1fcb4067e3323f7815599212aa50d.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/80/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74106,
+      "numero": 81,
+      "titulo": "Ginga Tetsudou 999 - 81",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_14eac8d3b53a21221f5c9f5dfe2fc168.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/81/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74107,
+      "numero": 82,
+      "titulo": "Ginga Tetsudou 999 - 82",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4989d575df9e7b2e0027b98f5791c12b.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/82/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74108,
+      "numero": 83,
+      "titulo": "Ginga Tetsudou 999 - 83",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_82d4e47f504e3a473360da78836a8994.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/83/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74109,
+      "numero": 84,
+      "titulo": "Ginga Tetsudou 999 - 84",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4ed2be292d8c152e6be1d704a4560e1e.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/84/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74110,
+      "numero": 85,
+      "titulo": "Ginga Tetsudou 999 - 85",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c428fc104114f30a5e284d998fc10dff.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/85/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74111,
+      "numero": 86,
+      "titulo": "Ginga Tetsudou 999 - 86",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_35436fff14842b8729420914b28d3fc0.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/86/",
+      "publicado_en_origen": "2026-06-07 00:17:47"
+    },
+    {
+      "id_origen": 74112,
+      "numero": 87,
+      "titulo": "Ginga Tetsudou 999 - 87",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3c451b25f62f4e953fc09cf69cf888a9.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/87/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74113,
+      "numero": 88,
+      "titulo": "Ginga Tetsudou 999 - 88",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a17637374729b2bc3a41cb143be2db1c.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/88/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74114,
+      "numero": 89,
+      "titulo": "Ginga Tetsudou 999 - 89",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_828d89348fd7fc1602f6949a19115e5a.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/89/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74115,
+      "numero": 90,
+      "titulo": "Ginga Tetsudou 999 - 90",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6c40f77d73b329e53cd8d65de7714211.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/90/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74116,
+      "numero": 91,
+      "titulo": "Ginga Tetsudou 999 - 91",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_070c07291f993d23eaa6db363ae0a3db.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/91/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74117,
+      "numero": 92,
+      "titulo": "Ginga Tetsudou 999 - 92",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_909eae8c81355b42fcfb5f85057e6da4.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/92/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74118,
+      "numero": 93,
+      "titulo": "Ginga Tetsudou 999 - 93",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2246ea5011f6c40fa2bed30e621f2550.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/93/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74119,
+      "numero": 94,
+      "titulo": "Ginga Tetsudou 999 - 94",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac140f0a97e3b1c6ed6d61be034489a3.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/94/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74120,
+      "numero": 95,
+      "titulo": "Ginga Tetsudou 999 - 95",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f90a7d86faf37f9446c10cda56003a74.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/95/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74121,
+      "numero": 96,
+      "titulo": "Ginga Tetsudou 999 - 96",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bbfab7019da6036e89a43bb438385330.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/96/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74122,
+      "numero": 97,
+      "titulo": "Ginga Tetsudou 999 - 97",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60d32d640020088adea8ca678ba74fec.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/97/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74123,
+      "numero": 98,
+      "titulo": "Ginga Tetsudou 999 - 98",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0dd47cb97114c7bad0a8669cf0144fb.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/98/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74124,
+      "numero": 99,
+      "titulo": "Ginga Tetsudou 999 - 99",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4a7cc11e1c213b9ce45b65f339d956c7.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/99/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74125,
+      "numero": 100,
+      "titulo": "Ginga Tetsudou 999 - 100",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bc9f2a6081262f7318650407df744cb8.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/100/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74126,
+      "numero": 101,
+      "titulo": "Ginga Tetsudou 999 - 101",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6dabdd8d518d436611787a8a022c309f.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/101/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74127,
+      "numero": 102,
+      "titulo": "Ginga Tetsudou 999 - 102",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_651d2b2c72dc049703783bd8157df39c.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/102/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74128,
+      "numero": 103,
+      "titulo": "Ginga Tetsudou 999 - 103",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c30765106fffb3e26d33af6eef353b4d.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/103/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74129,
+      "numero": 104,
+      "titulo": "Ginga Tetsudou 999 - 104",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bad780edcf3eb73593e4213ca51d9ae.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/104/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74130,
+      "numero": 105,
+      "titulo": "Ginga Tetsudou 999 - 105",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_72195d985a8240dd726c76d8cbe361f4.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/105/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74131,
+      "numero": 106,
+      "titulo": "Ginga Tetsudou 999 - 106",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_60584814edbcd154bee4dc8d84ba8c5d.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/106/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74132,
+      "numero": 107,
+      "titulo": "Ginga Tetsudou 999 - 107",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a9aa11e1eb47708a2f4f1cb56b96750.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/107/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74133,
+      "numero": 108,
+      "titulo": "Ginga Tetsudou 999 - 108",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0289e7f01034cd4117fd592ffaad093.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/108/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74134,
+      "numero": 109,
+      "titulo": "Ginga Tetsudou 999 - 109",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2484bcc770cb511304d0413443d9bac2.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/109/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74135,
+      "numero": 110,
+      "titulo": "Ginga Tetsudou 999 - 110",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cdd2254d447c02c68fcb679b996adf99.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/110/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74136,
+      "numero": 111,
+      "titulo": "Ginga Tetsudou 999 - 111",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_456c4e5e15defd844b3a523eba169890.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/111/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74137,
+      "numero": 112,
+      "titulo": "Ginga Tetsudou 999 - 112",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49315617565690c589408e6db27837dd.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/112/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    },
+    {
+      "id_origen": 74138,
+      "numero": 113,
+      "titulo": "Ginga Tetsudou 999 - 113",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cca8bc82a6189a70d61cf77c26a9ec7c.jpg",
+      "url_origen": "https://jkanime.net/ginga-tetsudou-999/113/",
+      "publicado_en_origen": "2026-06-07 00:17:48"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:47+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4749",
+  "cantidad_episodios_declarada": 113,
+  "detalle_extraido_en": "2026-08-26T18:28:27+00:00"
+}

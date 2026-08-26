@@ -1,0 +1,37 @@
+{
+  "id_origen": 1077,
+  "slug": "kimi-no-iru-machi-ova",
+  "titulo": "Kimi no Iru Machi OVA",
+  "titulo_corto": "Kimi no Iru Machi OVA",
+  "sinopsis": "Incluida en la edición limitada del volumen 26 del manga es una adaptación especial del anime del capítulo estilo flashback \"Uchi ga Kita Machi\" (La ciudad donde llegué). La historia revela cómo Haruto, Akari, y Takashi se conocieron durante la infancia, y sirve como prólogo del anime versión TV. El volumen 27 del manga incluirá una edición limitada de un episodio especial del anime producido en plena cooperación con Seo Kouji.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimi-no-iru-machi-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimi-no-iru-machi-ova/",
+  "episodios": [
+    {
+      "id_origen": 22790,
+      "numero": 1,
+      "titulo": "Kimi no Iru Machi OVA - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cc719b12b8e59374f0e46577533f22fb.jpg",
+      "url_origen": "https://jkanime.net/kimi-no-iru-machi-ova/1/",
+      "publicado_en_origen": "2014-02-23 16:29:19"
+    },
+    {
+      "id_origen": 23403,
+      "numero": 2,
+      "titulo": "Kimi no Iru Machi OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c41db02f5faeba46ececb7af7e687c0e.jpg",
+      "url_origen": "https://jkanime.net/kimi-no-iru-machi-ova/2/",
+      "publicado_en_origen": "2014-05-04 13:38:05"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:56+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1077",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:34:42+00:00"
+}

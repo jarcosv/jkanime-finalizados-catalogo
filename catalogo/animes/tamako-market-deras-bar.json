@@ -1,0 +1,37 @@
+{
+  "id_origen": 834,
+  "slug": "tamako-market-deras-bar",
+  "titulo": "Tamako Market: Dera's BAR",
+  "titulo_corto": "Tamako Market: Dera's BAR",
+  "sinopsis": "Especiales de cuatro minutos incluidos como extras en los releases de BD/DVD de Tamako Market.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tamako-market-deras-bar.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tamako-market-deras-bar/",
+  "episodios": [
+    {
+      "id_origen": 20079,
+      "numero": 1,
+      "titulo": "Tamako Market: Dera's BAR",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f9b2c114ad004e341ac06bdb07c62fda.jpg",
+      "url_origen": "https://jkanime.net/tamako-market-deras-bar/1/",
+      "publicado_en_origen": "2013-04-07 14:17:14"
+    },
+    {
+      "id_origen": 20497,
+      "numero": 2,
+      "titulo": "Tamako Market: Dera's BAR - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30d0c0d6fc91c6b9d1b1b7bba345138b.jpg",
+      "url_origen": "https://jkanime.net/tamako-market-deras-bar/2/",
+      "publicado_en_origen": "2013-05-18 11:10:39"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:03+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "834",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:48:32+00:00"
+}

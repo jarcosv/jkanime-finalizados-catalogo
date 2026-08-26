@@ -1,0 +1,69 @@
+{
+  "id_origen": 58,
+  "slug": "shinigami-no-ballad",
+  "titulo": "Shinigami no Ballad",
+  "titulo_corto": "Shinigami no Ballad",
+  "sinopsis": "Momo es una Shinigami, una diosa de la muerte. Su trabajo es llevarse las almas de los vivos cuando éstos mueren. Es un trabajo duro ya que se tiene que enfrentar a situaciones muy duras y a historias muy complicadas donde no siempre es justo hacer lo que debe, aunque siempre intente ayudar a los demás. Daniel la culpa de ser una llorona, a lo cual ella siempre responde: Los muertos no pueden llorar, asi que yo lloro por ellos. Pero es una Shinigami y su obligación es llevarse a los vivos.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/shinigami-no-ballad.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/shinigami-no-ballad/",
+  "episodios": [
+    {
+      "id_origen": 1235,
+      "numero": 1,
+      "titulo": "Shinigami no Ballad 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9996535e07258a7bbfd8b132435c5962.jpg",
+      "url_origen": "https://jkanime.net/shinigami-no-ballad/1/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1236,
+      "numero": 2,
+      "titulo": "Shinigami no Ballad 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7bccfde7714a1ebadf06c5f4cea752c1.jpg",
+      "url_origen": "https://jkanime.net/shinigami-no-ballad/2/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1237,
+      "numero": 3,
+      "titulo": "Shinigami no Ballad 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9eb812238f753132652ae09963a05e9.jpg",
+      "url_origen": "https://jkanime.net/shinigami-no-ballad/3/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1238,
+      "numero": 4,
+      "titulo": "Shinigami no Ballad 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d38901788c533e8286cb6400b40b386d.jpg",
+      "url_origen": "https://jkanime.net/shinigami-no-ballad/4/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1239,
+      "numero": 5,
+      "titulo": "Shinigami no Ballad 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b3ba8f1bee1238a2f37603d90b58898d.jpg",
+      "url_origen": "https://jkanime.net/shinigami-no-ballad/5/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    },
+    {
+      "id_origen": 1240,
+      "numero": 6,
+      "titulo": "Shinigami no Ballad 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a9078e8653368c9c291ae2f8b74012e7.jpg",
+      "url_origen": "https://jkanime.net/shinigami-no-ballad/6/",
+      "publicado_en_origen": "2011-07-06 10:31:20"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:29+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "58",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:46:30+00:00"
+}

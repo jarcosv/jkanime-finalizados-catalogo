@@ -1,0 +1,69 @@
+{
+  "id_origen": 2980,
+  "slug": "gundam-breaker-battlogue",
+  "titulo": "Gundam Breaker: Battlogue",
+  "titulo_corto": "Gundam Breaker: Battlogue",
+  "sinopsis": "Después de intensos combates, el GUNPLA Battle U.S. Championship entra en su ronda final. Aquí aparece la figura de cierto luchador. Unos meses después, Misa Satsukino, construyendo una nueva GUNPLA en la calle comercial Ayato, parece estar de peor humor que de costumbre. Como una salida para su ira desenfocada, coloca su GUNPLA completa en un simulador y entra en batalla, pero el GUNPLA se restringe de repente. En vísperas del gran evento GB Festa, el destino de los GUNPLA Fighters se encuentra en una coyuntura crítica.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gundam-breaker-battlogue.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gundam-breaker-battlogue/",
+  "episodios": [
+    {
+      "id_origen": 46958,
+      "numero": 1,
+      "titulo": "Gundam Breaker: Battlogue - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_34c5d87943fe70502a8e9d5f758d92cb.jpg",
+      "url_origen": "https://jkanime.net/gundam-breaker-battlogue/1/",
+      "publicado_en_origen": "2021-10-20 08:56:17"
+    },
+    {
+      "id_origen": 47035,
+      "numero": 2,
+      "titulo": "Gundam Breaker: Battlogue - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_dbda8f25d0b2e3b1d3712ac08963fadb.jpg",
+      "url_origen": "https://jkanime.net/gundam-breaker-battlogue/2/",
+      "publicado_en_origen": "2021-10-27 00:40:46"
+    },
+    {
+      "id_origen": 47104,
+      "numero": 3,
+      "titulo": "Gundam Breaker: Battlogue - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cb1c772c359ae814c34a9c82352a77fb.jpg",
+      "url_origen": "https://jkanime.net/gundam-breaker-battlogue/3/",
+      "publicado_en_origen": "2021-11-03 22:30:08"
+    },
+    {
+      "id_origen": 47164,
+      "numero": 4,
+      "titulo": "Gundam Breaker: Battlogue - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3d6e8cdf62c3b687501808cc1203704d.jpg",
+      "url_origen": "https://jkanime.net/gundam-breaker-battlogue/4/",
+      "publicado_en_origen": "2021-11-09 10:56:37"
+    },
+    {
+      "id_origen": 47228,
+      "numero": 5,
+      "titulo": "Gundam Breaker: Battlogue - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6107eb48aa5ee13a438f2c0e903de38a.jpg",
+      "url_origen": "https://jkanime.net/gundam-breaker-battlogue/5/",
+      "publicado_en_origen": "2021-11-16 14:39:27"
+    },
+    {
+      "id_origen": 47338,
+      "numero": 6,
+      "titulo": "Gundam Breaker: Battlogue - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_598bb634aacec76b3f16edb4bda29a3f.jpg",
+      "url_origen": "https://jkanime.net/gundam-breaker-battlogue/6/",
+      "publicado_en_origen": "2021-11-24 02:32:10"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:54+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2980",
+  "cantidad_episodios_declarada": 6,
+  "detalle_extraido_en": "2026-08-26T18:29:14+00:00"
+}

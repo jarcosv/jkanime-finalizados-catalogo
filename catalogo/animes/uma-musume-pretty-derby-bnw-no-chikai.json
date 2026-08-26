@@ -1,0 +1,45 @@
+{
+  "id_origen": 2438,
+  "slug": "uma-musume-pretty-derby-bnw-no-chikai",
+  "titulo": "Uma Musume: Pretty Derby - BNW no Chikai",
+  "titulo_corto": "Uma Musume: Pretty Derby - BNW...",
+  "sinopsis": "Episodios especiales incluidos con el cuarto volumen de Uma Musume: Pretty Derby Blu-ray release.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/uma-musume-pretty-derby-bnw-no-chikai.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/uma-musume-pretty-derby-bnw-no-chikai/",
+  "episodios": [
+    {
+      "id_origen": 39941,
+      "numero": 1,
+      "titulo": "Uma Musume: Pretty Derby - BNW no Chikai - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28bdfd5f057764b54c38770f95c69f2f.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-pretty-derby-bnw-no-chikai/1/",
+      "publicado_en_origen": "2019-05-19 22:47:17"
+    },
+    {
+      "id_origen": 40279,
+      "numero": 2,
+      "titulo": "Uma Musume: Pretty Derby - BNW no Chikai - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_124ef391809a7840a9b2d4454facb867.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-pretty-derby-bnw-no-chikai/2/",
+      "publicado_en_origen": "2019-06-17 22:02:32"
+    },
+    {
+      "id_origen": 40280,
+      "numero": 3,
+      "titulo": "Uma Musume: Pretty Derby - BNW no Chikai - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_424ea4fb01d426ad5231b50dfd69d46a.jpg",
+      "url_origen": "https://jkanime.net/uma-musume-pretty-derby-bnw-no-chikai/3/",
+      "publicado_en_origen": "2019-06-17 22:02:40"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:14+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2438",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:51:02+00:00"
+}

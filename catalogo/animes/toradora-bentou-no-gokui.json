@@ -1,0 +1,29 @@
+{
+  "id_origen": 462,
+  "slug": "toradora-bentou-no-gokui",
+  "titulo": "Toradora!: Bentou no Gokui",
+  "titulo_corto": "Toradora!: Bentou no Gokui",
+  "sinopsis": "Episodio no trasmitido en TV incluido como extra en los BD/DVD box de Toradora!",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/toradora-bentou-no-gokui.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/toradora-bentou-no-gokui/",
+  "episodios": [
+    {
+      "id_origen": 14097,
+      "numero": 1,
+      "titulo": "Toradora!: Bentou no Gokui",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/toradora-bentou-no-gokui.jpg",
+      "url_origen": "https://jkanime.net/toradora-bentou-no-gokui/1/",
+      "publicado_en_origen": "2011-12-28 18:25:28"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:10+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "462",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:49:57+00:00"
+}

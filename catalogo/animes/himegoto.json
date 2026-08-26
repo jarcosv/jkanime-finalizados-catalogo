@@ -1,0 +1,125 @@
+{
+  "id_origen": 1204,
+  "slug": "himegoto",
+  "titulo": "Himegoto",
+  "titulo_corto": "Himegoto",
+  "sinopsis": "Himegoto sigue a Hime Arikawa, una estudiante de segundo año en Shimoshina High School. Obligado a asumir una gran cantidad de deuda de sus padres, ahora ausentes, Hime es salvado por las tres chicas de consejo estudiantil de su escuela después de ser perseguido por los cobradores de deudas. A cambio del pago de su deuda, Hime está de acuerdo con sus condiciones de convertirse en \"perro\" del consejo de estudiantes y de pasar su vida en el instituto vestido como una niña.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/himegoto.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/himegoto/",
+  "episodios": [
+    {
+      "id_origen": 23931,
+      "numero": 1,
+      "titulo": "Himegoto - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ddc24dfa2486147829e4f2a829bd8bc7.jpg",
+      "url_origen": "https://jkanime.net/himegoto/1/",
+      "publicado_en_origen": "2014-07-07 16:22:56"
+    },
+    {
+      "id_origen": 23994,
+      "numero": 2,
+      "titulo": "Himegoto - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_972c16f442eba60469680bf869dd6a89.jpg",
+      "url_origen": "https://jkanime.net/himegoto/2/",
+      "publicado_en_origen": "2014-07-14 15:27:43"
+    },
+    {
+      "id_origen": 24057,
+      "numero": 3,
+      "titulo": "Himegoto - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_678548c30395fff1e76b0bd142324331.jpg",
+      "url_origen": "https://jkanime.net/himegoto/3/",
+      "publicado_en_origen": "2014-07-21 14:02:04"
+    },
+    {
+      "id_origen": 24116,
+      "numero": 4,
+      "titulo": "Himegoto - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3bf3dc7172bfe2666db8b4798fe7c193.jpg",
+      "url_origen": "https://jkanime.net/himegoto/4/",
+      "publicado_en_origen": "2014-07-28 11:57:07"
+    },
+    {
+      "id_origen": 24185,
+      "numero": 5,
+      "titulo": "Himegoto - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e7c3bf43a683b8e7d5e4f103b16de6e7.jpg",
+      "url_origen": "https://jkanime.net/himegoto/5/",
+      "publicado_en_origen": "2014-08-04 11:14:53"
+    },
+    {
+      "id_origen": 24273,
+      "numero": 6,
+      "titulo": "Himegoto - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f0b9b0d38ad088f9b2cb09ca561ef24.jpg",
+      "url_origen": "https://jkanime.net/himegoto/6/",
+      "publicado_en_origen": "2014-08-11 11:01:42"
+    },
+    {
+      "id_origen": 24469,
+      "numero": 7,
+      "titulo": "Himegoto - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cd53dd33e57a598301a7c1c07e35a8d6.jpg",
+      "url_origen": "https://jkanime.net/himegoto/7/",
+      "publicado_en_origen": "2014-08-18 11:03:16"
+    },
+    {
+      "id_origen": 24544,
+      "numero": 8,
+      "titulo": "Himegoto - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_845561665f33c461be03db0a1aeddf76.jpg",
+      "url_origen": "https://jkanime.net/himegoto/8/",
+      "publicado_en_origen": "2014-08-25 11:04:36"
+    },
+    {
+      "id_origen": 24605,
+      "numero": 9,
+      "titulo": "Himegoto - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2e47ce16708258d0c4ab6764476e20fa.jpg",
+      "url_origen": "https://jkanime.net/himegoto/9/",
+      "publicado_en_origen": "2014-09-01 11:09:57"
+    },
+    {
+      "id_origen": 24705,
+      "numero": 10,
+      "titulo": "Himegoto - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ffc2fa46fbc98fb9794db5e1f7d4896.jpg",
+      "url_origen": "https://jkanime.net/himegoto/10/",
+      "publicado_en_origen": "2014-09-08 11:16:10"
+    },
+    {
+      "id_origen": 24776,
+      "numero": 11,
+      "titulo": "Himegoto - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_863ae4a798069192865306197bff9428.jpg",
+      "url_origen": "https://jkanime.net/himegoto/11/",
+      "publicado_en_origen": "2014-09-15 11:03:47"
+    },
+    {
+      "id_origen": 24835,
+      "numero": 12,
+      "titulo": "Himegoto - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2842db40fd1da44e0be74335fb55004d.jpg",
+      "url_origen": "https://jkanime.net/himegoto/12/",
+      "publicado_en_origen": "2014-09-22 11:09:06"
+    },
+    {
+      "id_origen": 24949,
+      "numero": 13,
+      "titulo": "Himegoto - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ff9dc13024f20c0d3cf1f9474c5a03f.jpg",
+      "url_origen": "https://jkanime.net/himegoto/13/",
+      "publicado_en_origen": "2014-09-29 11:14:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1204",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:30:44+00:00"
+}

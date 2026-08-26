@@ -1,0 +1,45 @@
+{
+  "id_origen": 1739,
+  "slug": "to-love-ru-darkness-2nd-ova",
+  "titulo": "To LOVE-Ru Darkness 2nd OVA",
+  "titulo_corto": "To LOVE-Ru Darkness 2nd OVA",
+  "sinopsis": "Ovas de To love-Ru Darkness 2nd",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/to-love-ru-darkness-2nd-ova.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/to-love-ru-darkness-2nd-ova/",
+  "episodios": [
+    {
+      "id_origen": 30486,
+      "numero": 1,
+      "titulo": "To LOVE-Ru Darkness 2nd OVA",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_99f9dbc73fefd195eac336b90015af49.jpg",
+      "url_origen": "https://jkanime.net/to-love-ru-darkness-2nd-ova/1/",
+      "publicado_en_origen": "2016-01-05 01:52:38"
+    },
+    {
+      "id_origen": 31926,
+      "numero": 2,
+      "titulo": "To LOVE-Ru Darkness 2nd OVA - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_565b4bb4c813ca7af0852174ce8036f4.jpg",
+      "url_origen": "https://jkanime.net/to-love-ru-darkness-2nd-ova/2/",
+      "publicado_en_origen": "2016-07-01 00:09:59"
+    },
+    {
+      "id_origen": 33517,
+      "numero": 3,
+      "titulo": "To LOVE-Ru Darkness 2nd OVA - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08af199148d071cd6a3bc0e53d77f619.jpg",
+      "url_origen": "https://jkanime.net/to-love-ru-darkness-2nd-ova/3/",
+      "publicado_en_origen": "2016-12-01 15:44:56"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:38+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1739",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:49:31+00:00"
+}

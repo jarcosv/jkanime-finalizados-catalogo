@@ -1,0 +1,29 @@
+{
+  "id_origen": 2018,
+  "slug": "vivid-strike-specials",
+  "titulo": "ViVid Strike! Specials",
+  "titulo_corto": "ViVid Strike! Specials",
+  "sinopsis": "Especial de Vivid Strike.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/vivid-strike-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/vivid-strike-specials/",
+  "episodios": [
+    {
+      "id_origen": 33961,
+      "numero": 1,
+      "titulo": "ViVid Strike! Specials",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/image/vivid-strike-specials.jpg",
+      "url_origen": "https://jkanime.net/vivid-strike-specials/1/",
+      "publicado_en_origen": "2017-01-27 19:37:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:27+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2018",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:51:37+00:00"
+}

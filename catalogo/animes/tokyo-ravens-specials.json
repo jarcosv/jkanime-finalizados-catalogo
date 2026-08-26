@@ -1,0 +1,37 @@
+{
+  "id_origen": 1083,
+  "slug": "tokyo-ravens-specials",
+  "titulo": "Tokyo Ravens Specials",
+  "titulo_corto": "Tokyo Ravens Specials",
+  "sinopsis": "Especiales donde Kon nos cuenta un poco más de la serie y del mundo Onmyouji.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tokyo-ravens-specials.jpg",
+  "tipo": "ONA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tokyo-ravens-specials/",
+  "episodios": [
+    {
+      "id_origen": 22926,
+      "numero": 1,
+      "titulo": "Tokyo Ravens Specials - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9352bfb0cb8ca3110212a0aa2499da39.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens-specials/1/",
+      "publicado_en_origen": "2014-03-10 17:05:37"
+    },
+    {
+      "id_origen": 23067,
+      "numero": 2,
+      "titulo": "Tokyo Ravens Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9ac99aa820030753f4101f35de5ce163.jpg",
+      "url_origen": "https://jkanime.net/tokyo-ravens-specials/2/",
+      "publicado_en_origen": "2014-03-25 00:34:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:59+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1083",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:49:46+00:00"
+}

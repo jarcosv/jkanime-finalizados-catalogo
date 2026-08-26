@@ -1,0 +1,213 @@
+{
+  "id_origen": 157,
+  "slug": "orphen",
+  "titulo": "Majutsushi Orphen",
+  "titulo_corto": "Majutsushi Orphen",
+  "sinopsis": "Orphen, un hechicero renegado, abandona todo, por amor a Azali, ex-compañera hechicera de Orphen. Tras un experimento fallido de Azali con la Espada de Baltanders, se convierte en un gigante dragón llamado Agosto Sangriento. Aunque tiene forma de monstruo, Azali conserva su mente dentro de su nuevo cuerpo, y trata de revertir el hechizo fallido, a su manera, claro esta. Orphen, quien estuvo presente en este experimento fallido, la ve irse lejos de la Torre de los Colmillos (lugar de entrenamiento para hechiceros), y tras enterarse que la Torre planea matar a Agosto Sangriento,en vez de retornarla a su estado original, decide irse de ese lugar, y buscar como retornar a su amada Azali a su cuerpo original. En su viaje lo acompaña Magic, aprendiz de Orphen, y Cleo, dueña de la Espada de Baltanders. Dos hermanos (Dojin y Volkan) siguen a este grupo. Volkan odia a Orphen, ya que le pidio dinero prestado, y aun no lo devuelve.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/orphen.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/orphen/",
+  "episodios": [
+    {
+      "id_origen": 3907,
+      "numero": 1,
+      "titulo": "Orphen 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3341f6f048384ec73a7ba2e77d2db48b.jpg",
+      "url_origen": "https://jkanime.net/orphen/1/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3908,
+      "numero": 2,
+      "titulo": "Orphen 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_576d026223582a390cd323bef4bad026.jpg",
+      "url_origen": "https://jkanime.net/orphen/2/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3909,
+      "numero": 3,
+      "titulo": "Orphen 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4175a4b46a45813fccf4bd34c779d817.jpg",
+      "url_origen": "https://jkanime.net/orphen/3/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3910,
+      "numero": 4,
+      "titulo": "Orphen 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1be883eec3231f9fe43c35bd1b4b3bb5.jpg",
+      "url_origen": "https://jkanime.net/orphen/4/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3911,
+      "numero": 5,
+      "titulo": "Orphen 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1bf50aaf147b3b0ddd26a820d2ed394d.jpg",
+      "url_origen": "https://jkanime.net/orphen/5/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3912,
+      "numero": 6,
+      "titulo": "Orphen 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_27b587bbe83aecf9a98c8fe6ab48cacc.jpg",
+      "url_origen": "https://jkanime.net/orphen/6/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3913,
+      "numero": 7,
+      "titulo": "Orphen 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b085c4fa543afe32970749f5e2bcdc6a.jpg",
+      "url_origen": "https://jkanime.net/orphen/7/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3914,
+      "numero": 8,
+      "titulo": "Orphen 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b85d65c39e12a5515c19fd72b6f48199.jpg",
+      "url_origen": "https://jkanime.net/orphen/8/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3915,
+      "numero": 9,
+      "titulo": "Orphen 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_39539f630a3b94d3ed61ea9d04c9bb05.jpg",
+      "url_origen": "https://jkanime.net/orphen/9/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3916,
+      "numero": 10,
+      "titulo": "Orphen 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_49cbb75927723efba3b4c108ed4a12f3.jpg",
+      "url_origen": "https://jkanime.net/orphen/10/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3917,
+      "numero": 11,
+      "titulo": "Orphen 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4d95d05a4fc4eadbc3b9dde67afdca39.jpg",
+      "url_origen": "https://jkanime.net/orphen/11/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3918,
+      "numero": 12,
+      "titulo": "Orphen 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_859b00aec8885efc83d1541b52a1220d.jpg",
+      "url_origen": "https://jkanime.net/orphen/12/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3919,
+      "numero": 13,
+      "titulo": "Orphen 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5fc7c9bd1fcb12799f02da8adfa4954f.jpg",
+      "url_origen": "https://jkanime.net/orphen/13/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3920,
+      "numero": 14,
+      "titulo": "Orphen 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d6525aa8638c1d8d4da535fbb1a5fc80.jpg",
+      "url_origen": "https://jkanime.net/orphen/14/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3921,
+      "numero": 15,
+      "titulo": "Orphen 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9b8f0779badbad3b46d6718ee95a68ff.jpg",
+      "url_origen": "https://jkanime.net/orphen/15/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3922,
+      "numero": 16,
+      "titulo": "Orphen 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d90e5b6628b4291225cba0bdc643c295.jpg",
+      "url_origen": "https://jkanime.net/orphen/16/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3923,
+      "numero": 17,
+      "titulo": "Orphen 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_97f081d3b1b352e9d1aaa2225dd6bb16.jpg",
+      "url_origen": "https://jkanime.net/orphen/17/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3924,
+      "numero": 18,
+      "titulo": "Orphen 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_943b5fd1ef60d3a4db537af4a4d0c802.jpg",
+      "url_origen": "https://jkanime.net/orphen/18/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3925,
+      "numero": 19,
+      "titulo": "Orphen 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1340ccf24722f02bbc81b3822ce23d4c.jpg",
+      "url_origen": "https://jkanime.net/orphen/19/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3926,
+      "numero": 20,
+      "titulo": "Orphen 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fc28b7093b135c21c7183ac07e928a6.jpg",
+      "url_origen": "https://jkanime.net/orphen/20/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3927,
+      "numero": 21,
+      "titulo": "Orphen 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d2dc6368837861b42020ee72b0896182.jpg",
+      "url_origen": "https://jkanime.net/orphen/21/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3928,
+      "numero": 22,
+      "titulo": "Orphen 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1597d21403f63da1bb0539592597a525.jpg",
+      "url_origen": "https://jkanime.net/orphen/22/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3929,
+      "numero": 23,
+      "titulo": "Orphen 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_79f69230354b71206fb723c571cce58b.jpg",
+      "url_origen": "https://jkanime.net/orphen/23/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    },
+    {
+      "id_origen": 3930,
+      "numero": 24,
+      "titulo": "Orphen 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_679d8bbd776e0bbf3b044306c5be94ae.jpg",
+      "url_origen": "https://jkanime.net/orphen/24/",
+      "publicado_en_origen": "2011-07-06 10:31:23"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:43+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "157",
+  "cantidad_episodios_declarada": 24,
+  "detalle_extraido_en": "2026-08-26T18:37:42+00:00"
+}

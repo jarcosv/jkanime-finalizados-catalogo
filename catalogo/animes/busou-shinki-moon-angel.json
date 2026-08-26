@@ -1,0 +1,29 @@
+{
+  "id_origen": 850,
+  "slug": "busou-shinki-moon-angel",
+  "titulo": "Busou Shinki Moon Angel",
+  "titulo_corto": "Busou Shinki Moon Angel",
+  "sinopsis": "La historia trata de Tsubasa, un niño que sueña con convertirse en maestro Shinki junto a su compañera una Arnval Mk. 2",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/busou-shinki-moon-angel.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/busou-shinki-moon-angel/",
+  "episodios": [
+    {
+      "id_origen": 20472,
+      "numero": 1,
+      "titulo": "Busou Shinki Moon Angel",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_17f7e7fcee1365802f541af4470ec23e.jpg",
+      "url_origen": "https://jkanime.net/busou-shinki-moon-angel/1/",
+      "publicado_en_origen": "2013-05-13 00:26:22"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:12+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "850",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:22:18+00:00"
+}

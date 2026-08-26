@@ -1,0 +1,85 @@
+{
+  "id_origen": 3687,
+  "slug": "kimetsu-no-yaiba-hashira-geiko-hen",
+  "titulo": "Kimetsu no Yaiba: Hashira Geiko-hen",
+  "titulo_corto": "Kimetsu no Yaiba: Hashira Geik...",
+  "sinopsis": "Nueva temporada de Kimetsu no Yaiba.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kimetsu-no-yaiba-hashira-geiko-hen.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kimetsu-no-yaiba-hashira-geiko-hen/",
+  "episodios": [
+    {
+      "id_origen": 57224,
+      "numero": 1,
+      "titulo": "Kimetsu no Yaiba: Hashira Geiko-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7af4005e60a2bc048519574bb14dfec2.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-hashira-geiko-hen/1/",
+      "publicado_en_origen": "2024-05-12 14:51:13"
+    },
+    {
+      "id_origen": 57304,
+      "numero": 2,
+      "titulo": "Kimetsu no Yaiba: Hashira Geiko-hen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b9f0ceb7c702db436f5802d2d59bb1a8.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-hashira-geiko-hen/2/",
+      "publicado_en_origen": "2024-05-19 13:49:23"
+    },
+    {
+      "id_origen": 57395,
+      "numero": 3,
+      "titulo": "Kimetsu no Yaiba: Hashira Geiko-hen - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1356fee5d793918d6953c73761e91f7a.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-hashira-geiko-hen/3/",
+      "publicado_en_origen": "2024-05-26 13:52:56"
+    },
+    {
+      "id_origen": 57478,
+      "numero": 4,
+      "titulo": "Kimetsu no Yaiba: Hashira Geiko-hen - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1756de8854c866aaf9e81db33a15028e.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-hashira-geiko-hen/4/",
+      "publicado_en_origen": "2024-06-02 13:45:48"
+    },
+    {
+      "id_origen": 57565,
+      "numero": 5,
+      "titulo": "Kimetsu no Yaiba: Hashira Geiko-hen - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15da481965716c40aa67aee1fe6535c4.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-hashira-geiko-hen/5/",
+      "publicado_en_origen": "2024-06-09 11:54:14"
+    },
+    {
+      "id_origen": 57648,
+      "numero": 6,
+      "titulo": "Kimetsu no Yaiba: Hashira Geiko-hen - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_599e371a7d3db53de5f1bd5d0aea93b8.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-hashira-geiko-hen/6/",
+      "publicado_en_origen": "2024-06-16 11:49:21"
+    },
+    {
+      "id_origen": 57704,
+      "numero": 7,
+      "titulo": "Kimetsu no Yaiba: Hashira Geiko-hen - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f4fc00dbbb350fe518a507e3c3b0ca28.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-hashira-geiko-hen/7/",
+      "publicado_en_origen": "2024-06-23 11:51:14"
+    },
+    {
+      "id_origen": 57759,
+      "numero": 8,
+      "titulo": "Kimetsu no Yaiba: Hashira Geiko-hen - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1485381780996a469258a97cd4232bc3.jpg",
+      "url_origen": "https://jkanime.net/kimetsu-no-yaiba-hashira-geiko-hen/8/",
+      "publicado_en_origen": "2024-06-30 15:09:29"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:34+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3687",
+  "cantidad_episodios_declarada": 8,
+  "detalle_extraido_en": "2026-08-26T18:34:38+00:00"
+}

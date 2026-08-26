@@ -1,0 +1,101 @@
+{
+  "id_origen": 1218,
+  "slug": "nobunaga-concerto",
+  "titulo": "Nobunaga Concerto",
+  "titulo_corto": "Nobunaga Concerto",
+  "sinopsis": "La historia se centra Saburou, un muchacho de la escuela que viaja en el tiempo a la epoca japonesa Sengoku. Debe llegar a ser Nobunaga Oda, el jefe militar famoso que ayuda a unir a Japón.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/nobunaga-concerto.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/nobunaga-concerto/",
+  "episodios": [
+    {
+      "id_origen": 23970,
+      "numero": 1,
+      "titulo": "Nobunaga Concerto - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d82620296a1e1fb76c64302dc3d77ba.jpg",
+      "url_origen": "https://jkanime.net/nobunaga-concerto/1/",
+      "publicado_en_origen": "2014-07-12 14:24:42"
+    },
+    {
+      "id_origen": 24032,
+      "numero": 2,
+      "titulo": "Nobunaga Concerto - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1fb425070298bc615c24b69845387662.jpg",
+      "url_origen": "https://jkanime.net/nobunaga-concerto/2/",
+      "publicado_en_origen": "2014-07-19 11:49:17"
+    },
+    {
+      "id_origen": 24096,
+      "numero": 3,
+      "titulo": "Nobunaga Concerto - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_aadeccf20333fe8cb7946318389d4555.jpg",
+      "url_origen": "https://jkanime.net/nobunaga-concerto/3/",
+      "publicado_en_origen": "2014-07-26 13:00:19"
+    },
+    {
+      "id_origen": 24163,
+      "numero": 4,
+      "titulo": "Nobunaga Concerto - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d8c3b11e26ab89d9712734aac8765677.jpg",
+      "url_origen": "https://jkanime.net/nobunaga-concerto/4/",
+      "publicado_en_origen": "2014-08-02 11:37:18"
+    },
+    {
+      "id_origen": 24260,
+      "numero": 5,
+      "titulo": "Nobunaga Concerto - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9d253ace7cf557b2f1f99d319649e74f.jpg",
+      "url_origen": "https://jkanime.net/nobunaga-concerto/5/",
+      "publicado_en_origen": "2014-08-10 01:35:44"
+    },
+    {
+      "id_origen": 24446,
+      "numero": 6,
+      "titulo": "Nobunaga Concerto - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0447abe5b3fbb484f70517e8a1091b4e.jpg",
+      "url_origen": "https://jkanime.net/nobunaga-concerto/6/",
+      "publicado_en_origen": "2014-08-16 11:29:01"
+    },
+    {
+      "id_origen": 24524,
+      "numero": 7,
+      "titulo": "Nobunaga Concerto - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5ab1b34149fefd65f4d8029d5feb5b8c.jpg",
+      "url_origen": "https://jkanime.net/nobunaga-concerto/7/",
+      "publicado_en_origen": "2014-08-23 18:21:27"
+    },
+    {
+      "id_origen": 24590,
+      "numero": 8,
+      "titulo": "Nobunaga Concerto - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_96e215fcdd3532d140b8af71e4c73931.jpg",
+      "url_origen": "https://jkanime.net/nobunaga-concerto/8/",
+      "publicado_en_origen": "2014-08-30 21:09:36"
+    },
+    {
+      "id_origen": 24753,
+      "numero": 9,
+      "titulo": "Nobunaga Concerto - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a8757ce9dc90ea5def6a29b19503dbbb.jpg",
+      "url_origen": "https://jkanime.net/nobunaga-concerto/9/",
+      "publicado_en_origen": "2014-09-13 12:24:23"
+    },
+    {
+      "id_origen": 24819,
+      "numero": 10,
+      "titulo": "Nobunaga Concerto - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_47e2a1d39ac1046c262ceab3aa9aaa81.jpg",
+      "url_origen": "https://jkanime.net/nobunaga-concerto/10/",
+      "publicado_en_origen": "2014-09-20 17:36:54"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:52+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1218",
+  "cantidad_episodios_declarada": 10,
+  "detalle_extraido_en": "2026-08-26T18:40:34+00:00"
+}

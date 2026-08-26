@@ -1,0 +1,125 @@
+{
+  "id_origen": 2892,
+  "slug": "mahouka-koukou-no-yuutousei",
+  "titulo": "Mahouka Koukou no Yuutousei",
+  "titulo_corto": "Mahouka Koukou no Yuutousei",
+  "sinopsis": "Ha pasado un siglo desde que la magia, la verdadera magia, la materia de las leyendas, regresó al mundo. Es primavera, la temporada de nuevos comienzos, y una nueva clase de estudiantes está a punto de comenzar sus estudios en la escuela secundaria afiliada a la First National Magic University, apodo: First High.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/mahouka-koukou-no-yuutousei.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/",
+  "episodios": [
+    {
+      "id_origen": 45997,
+      "numero": 1,
+      "titulo": "Mahouka Koukou no Yuutousei - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0bdd7c4a155e5f79a8d081741b2828b4.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/1/",
+      "publicado_en_origen": "2021-07-03 19:31:35"
+    },
+    {
+      "id_origen": 46044,
+      "numero": 2,
+      "titulo": "Mahouka Koukou no Yuutousei - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b776976221e2566daf2ed005621f615c.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/2/",
+      "publicado_en_origen": "2021-07-10 12:56:11"
+    },
+    {
+      "id_origen": 46091,
+      "numero": 3,
+      "titulo": "Mahouka Koukou no Yuutousei - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8a0d997c88054bf6ac6646d9b3c0a020.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/3/",
+      "publicado_en_origen": "2021-07-17 13:34:13"
+    },
+    {
+      "id_origen": 46139,
+      "numero": 4,
+      "titulo": "Mahouka Koukou no Yuutousei - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f816eab00ca58118bb9228edddd833aa.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/4/",
+      "publicado_en_origen": "2021-07-24 12:48:15"
+    },
+    {
+      "id_origen": 46185,
+      "numero": 5,
+      "titulo": "Mahouka Koukou no Yuutousei - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3f8b2ace804a64be8efbba88cd48c6be.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/5/",
+      "publicado_en_origen": "2021-07-31 13:08:55"
+    },
+    {
+      "id_origen": 46237,
+      "numero": 6,
+      "titulo": "Mahouka Koukou no Yuutousei - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f0cc9c986150c744a922084100fab0c0.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/6/",
+      "publicado_en_origen": "2021-08-08 13:29:35"
+    },
+    {
+      "id_origen": 46278,
+      "numero": 7,
+      "titulo": "Mahouka Koukou no Yuutousei - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8b8af99addab850e66d8b96d5a5e0643.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/7/",
+      "publicado_en_origen": "2021-08-14 12:48:01"
+    },
+    {
+      "id_origen": 46334,
+      "numero": 8,
+      "titulo": "Mahouka Koukou no Yuutousei - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd60b7054e3090a6a7b3fc94f4d9d17f.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/8/",
+      "publicado_en_origen": "2021-08-21 13:32:07"
+    },
+    {
+      "id_origen": 46424,
+      "numero": 9,
+      "titulo": "Mahouka Koukou no Yuutousei - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb414e2a21907d9aeb4e7d9715a92a00.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/9/",
+      "publicado_en_origen": "2021-08-28 13:15:51"
+    },
+    {
+      "id_origen": 46547,
+      "numero": 10,
+      "titulo": "Mahouka Koukou no Yuutousei - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_376d16bcfb665a865b9c932ebb072894.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/10/",
+      "publicado_en_origen": "2021-09-04 12:52:30"
+    },
+    {
+      "id_origen": 46642,
+      "numero": 11,
+      "titulo": "Mahouka Koukou no Yuutousei - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_439e5d7841e335cb4d44ee01e781a2b9.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/11/",
+      "publicado_en_origen": "2021-09-11 12:38:08"
+    },
+    {
+      "id_origen": 46692,
+      "numero": 12,
+      "titulo": "Mahouka Koukou no Yuutousei - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_00efe3d30e8d51ae61fa5d5c96478a95.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/12/",
+      "publicado_en_origen": "2021-09-18 12:37:30"
+    },
+    {
+      "id_origen": 46754,
+      "numero": 13,
+      "titulo": "Mahouka Koukou no Yuutousei - 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b14e228e56dcd28c35dd0b41a5891c04.jpg",
+      "url_origen": "https://jkanime.net/mahouka-koukou-no-yuutousei/13/",
+      "publicado_en_origen": "2021-09-25 13:17:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:58+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2892",
+  "cantidad_episodios_declarada": 13,
+  "detalle_extraido_en": "2026-08-26T18:37:28+00:00"
+}

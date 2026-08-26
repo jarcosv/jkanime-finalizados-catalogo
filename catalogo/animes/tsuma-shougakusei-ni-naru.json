@@ -1,0 +1,117 @@
+{
+  "id_origen": 3868,
+  "slug": "tsuma-shougakusei-ni-naru",
+  "titulo": "Tsuma, Shougakusei ni Naru.",
+  "titulo_corto": "Tsuma, Shougakusei ni Naru.",
+  "sinopsis": "Un padre y una hija se reencuentran milagrosamente con su ser querido fallecido de una manera inesperada.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/tsuma-shougakusei-ni-naru.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/",
+  "episodios": [
+    {
+      "id_origen": 60161,
+      "numero": 1,
+      "titulo": "Tsuma, Shougakusei ni Naru. - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2818a2beb56f80d3e28713c9333b0119.jpg",
+      "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/1/",
+      "publicado_en_origen": "2024-10-06 09:53:18"
+    },
+    {
+      "id_origen": 60162,
+      "numero": 2,
+      "titulo": "Tsuma, Shougakusei ni Naru. - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1d741e421172284b557990cd06dad605.jpg",
+      "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/2/",
+      "publicado_en_origen": "2024-10-06 09:53:22"
+    },
+    {
+      "id_origen": 60246,
+      "numero": 3,
+      "titulo": "Tsuma, Shougakusei ni Naru. - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44c257cd765b6a045b713b02c41eda67.jpg",
+      "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/3/",
+      "publicado_en_origen": "2024-10-13 09:56:36"
+    },
+    {
+      "id_origen": 60318,
+      "numero": 4,
+      "titulo": "Tsuma, Shougakusei ni Naru. - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f552bcf0c69315cfdebfb22004e9b537.jpg",
+      "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/4/",
+      "publicado_en_origen": "2024-10-20 13:10:12"
+    },
+    {
+      "id_origen": 60419,
+      "numero": 5,
+      "titulo": "Tsuma, Shougakusei ni Naru. - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3728349c05709f9a40531c6523dbb36e.jpg",
+      "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/5/",
+      "publicado_en_origen": "2024-10-27 11:56:22"
+    },
+    {
+      "id_origen": 60509,
+      "numero": 6,
+      "titulo": "Tsuma, Shougakusei ni Naru. - 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efa81c51147c4a66d0894945097e6a10.jpg",
+      "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/6/",
+      "publicado_en_origen": "2024-11-03 11:23:59"
+    },
+    {
+      "id_origen": 60602,
+      "numero": 7,
+      "titulo": "Tsuma, Shougakusei ni Naru. - 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f094f78adab3c86319d5feebde0eb53b.jpg",
+      "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/7/",
+      "publicado_en_origen": "2024-11-10 12:33:43"
+    },
+    {
+      "id_origen": 60694,
+      "numero": 8,
+      "titulo": "Tsuma, Shougakusei ni Naru. - 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3b17730278fe788828aa0c20607ce068.jpg",
+      "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/8/",
+      "publicado_en_origen": "2024-11-17 11:45:36"
+    },
+    {
+      "id_origen": 60767,
+      "numero": 9,
+      "titulo": "Tsuma, Shougakusei ni Naru. - 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_885683db02da2090ea6ec2dd83630e1f.jpg",
+      "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/9/",
+      "publicado_en_origen": "2024-11-24 12:15:02"
+    },
+    {
+      "id_origen": 60893,
+      "numero": 10,
+      "titulo": "Tsuma, Shougakusei ni Naru. - 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3cf5c66cb37b070a1f12d7689dcfe6eb.jpg",
+      "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/10/",
+      "publicado_en_origen": "2024-12-01 16:33:22"
+    },
+    {
+      "id_origen": 60988,
+      "numero": 11,
+      "titulo": "Tsuma, Shougakusei ni Naru. - 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fc40e21b8dcbb2897351a007810fb952.jpg",
+      "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/11/",
+      "publicado_en_origen": "2024-12-08 12:49:46"
+    },
+    {
+      "id_origen": 61088,
+      "numero": 12,
+      "titulo": "Tsuma, Shougakusei ni Naru. - 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_22d0bb6d35d315a5d45ee449103aa0ce.jpg",
+      "url_origen": "https://jkanime.net/tsuma-shougakusei-ni-naru/12/",
+      "publicado_en_origen": "2024-12-15 11:06:50"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:30+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "3868",
+  "cantidad_episodios_declarada": 12,
+  "detalle_extraido_en": "2026-08-26T18:50:45+00:00"
+}

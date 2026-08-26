@@ -1,0 +1,53 @@
+{
+  "id_origen": 1771,
+  "slug": "kono-danshi-mahou-ga-oshigoto-desu",
+  "titulo": "Kono Danshi, Mahou ga Oshigoto Desu.",
+  "titulo_corto": "Kono Danshi, Mahou ga Oshigoto...",
+  "sinopsis": "Chiharu es el mago a cargo de la división de contramedidas de crisis mágicas. Sus días eran muy estresantes hasta que conoció a Toyohi en su bar favorito, y los dos encajaron de inmediato. Ambos comienzan una buena amistad, hasta que un accidente en el trabajo provoca que Chiharu dedique más tiempo al mismo y comience a alejar a Toyohi.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/kono-danshi-mahou-ga-oshigoto-desu.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/kono-danshi-mahou-ga-oshigoto-desu/",
+  "episodios": [
+    {
+      "id_origen": 30756,
+      "numero": 1,
+      "titulo": "Kono Danshi, Mahou ga Oshigoto Desu. - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3e2fe4ac9568e0b59ad61ccbc933906.jpg",
+      "url_origen": "https://jkanime.net/kono-danshi-mahou-ga-oshigoto-desu/1/",
+      "publicado_en_origen": "2016-02-05 17:47:26"
+    },
+    {
+      "id_origen": 30816,
+      "numero": 2,
+      "titulo": "Kono Danshi, Mahou ga Oshigoto Desu. - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_78cfc36b921a50fba024eca72d6a458e.jpg",
+      "url_origen": "https://jkanime.net/kono-danshi-mahou-ga-oshigoto-desu/2/",
+      "publicado_en_origen": "2016-02-12 15:36:28"
+    },
+    {
+      "id_origen": 30881,
+      "numero": 3,
+      "titulo": "Kono Danshi, Mahou ga Oshigoto Desu. - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f74c62f119a92803fb8773ad50e528c9.jpg",
+      "url_origen": "https://jkanime.net/kono-danshi-mahou-ga-oshigoto-desu/3/",
+      "publicado_en_origen": "2016-02-20 00:21:42"
+    },
+    {
+      "id_origen": 31061,
+      "numero": 4,
+      "titulo": "Kono Danshi, Mahou ga Oshigoto Desu. - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfd685335fc8efd8ca3201f28dabe7a7.jpg",
+      "url_origen": "https://jkanime.net/kono-danshi-mahou-ga-oshigoto-desu/4/",
+      "publicado_en_origen": "2016-03-08 20:27:04"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:37+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1771",
+  "cantidad_episodios_declarada": 4,
+  "detalle_extraido_en": "2026-08-26T18:35:27+00:00"
+}

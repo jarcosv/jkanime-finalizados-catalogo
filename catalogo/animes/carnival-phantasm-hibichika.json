@@ -1,0 +1,29 @@
+{
+  "id_origen": 792,
+  "slug": "carnival-phantasm-hibichika",
+  "titulo": "Carnival Phantasm: HibiChika Special",
+  "titulo_corto": "Carnival Phantasm: HibiChika S...",
+  "sinopsis": "Un nuevo episodio de Carnival Phantasm lanzado en el Festival Type Moon Decimo Aniversario.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/carnival-phantasm-hibichika-special.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/carnival-phantasm-hibichika/",
+  "episodios": [
+    {
+      "id_origen": 19677,
+      "numero": 1,
+      "titulo": "Carnival Phantasm: HibiChika Special",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ebce60fae6c31659288811e9ccf0b47c.jpg",
+      "url_origen": "https://jkanime.net/carnival-phantasm-hibichika/1/",
+      "publicado_en_origen": "2013-03-19 20:00:35"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:03+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "792",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:23:15+00:00"
+}

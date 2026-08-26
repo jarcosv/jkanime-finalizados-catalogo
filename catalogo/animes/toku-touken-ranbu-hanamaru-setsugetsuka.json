@@ -1,0 +1,45 @@
+{
+  "id_origen": 4351,
+  "slug": "toku-touken-ranbu-hanamaru-setsugetsuka",
+  "titulo": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka",
+  "titulo_corto": "Toku: Touken Ranbu - Hanamaru ...",
+  "sinopsis": "Touken Ranbu: trilogía de películas de anime Hanamaru.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/toku-touken-ranbu-hanamaru-setsugetsuka.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/toku-touken-ranbu-hanamaru-setsugetsuka/",
+  "episodios": [
+    {
+      "id_origen": 67448,
+      "numero": 1,
+      "titulo": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8e80759071116b7c822d9d383b0f467c.jpg",
+      "url_origen": "https://jkanime.net/toku-touken-ranbu-hanamaru-setsugetsuka/1/",
+      "publicado_en_origen": "2025-09-10 14:13:26"
+    },
+    {
+      "id_origen": 67449,
+      "numero": 2,
+      "titulo": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3e20070b73c475d7d3af095c30ce4f64.jpg",
+      "url_origen": "https://jkanime.net/toku-touken-ranbu-hanamaru-setsugetsuka/2/",
+      "publicado_en_origen": "2025-09-10 14:13:29"
+    },
+    {
+      "id_origen": 67450,
+      "numero": 3,
+      "titulo": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_044e8ac7ccc4ecb3e0b8287ee714d1ac.jpg",
+      "url_origen": "https://jkanime.net/toku-touken-ranbu-hanamaru-setsugetsuka/3/",
+      "publicado_en_origen": "2025-09-10 14:13:32"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:11:50+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "4351",
+  "cantidad_episodios_declarada": 3,
+  "detalle_extraido_en": "2026-08-26T18:49:41+00:00"
+}

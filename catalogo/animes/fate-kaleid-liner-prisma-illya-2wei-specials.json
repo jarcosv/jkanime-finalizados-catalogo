@@ -1,0 +1,61 @@
+{
+  "id_origen": 1270,
+  "slug": "fate-kaleid-liner-prisma-illya-2wei-specials",
+  "titulo": "Fate/kaleid liner Prisma☆Illya 2wei! Specials",
+  "titulo_corto": "Fate/kaleid liner Prisma☆Illya...",
+  "sinopsis": "Especiales incluidos volumen Blu-ray/DVD.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fate-kaleid-liner-prisma-illya-2wei-specials.jpg",
+  "tipo": "Especial",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fate-kaleid-liner-prisma-illya-2wei-specials/",
+  "episodios": [
+    {
+      "id_origen": 24924,
+      "numero": 1,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 2wei!: First Bra - Illya-hen",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4f9959469b99179f25fd5cf84f4cde62.jpg",
+      "url_origen": "https://jkanime.net/fate-kaleid-liner-prisma-illya-2wei-specials/1/",
+      "publicado_en_origen": "2014-09-27 00:25:28"
+    },
+    {
+      "id_origen": 25310,
+      "numero": 2,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 2wei! Specials - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_eb97bcf536d290413936db395115cc75.jpg",
+      "url_origen": "https://jkanime.net/fate-kaleid-liner-prisma-illya-2wei-specials/2/",
+      "publicado_en_origen": "2014-11-05 18:54:53"
+    },
+    {
+      "id_origen": 25693,
+      "numero": 3,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 2wei! Specials - 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0feccde63fa107fadd9e5d43a5ae60ef.jpg",
+      "url_origen": "https://jkanime.net/fate-kaleid-liner-prisma-illya-2wei-specials/3/",
+      "publicado_en_origen": "2014-12-06 12:17:40"
+    },
+    {
+      "id_origen": 26018,
+      "numero": 4,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 2wei! Specials - 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_08648e60ac32d2c805ab6b0e0c174180.jpg",
+      "url_origen": "https://jkanime.net/fate-kaleid-liner-prisma-illya-2wei-specials/4/",
+      "publicado_en_origen": "2014-12-27 15:41:59"
+    },
+    {
+      "id_origen": 26576,
+      "numero": 5,
+      "titulo": "Fate/kaleid liner Prisma☆Illya 2wei! Specials - 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_05d157c6e2277aee356e685257ac5783.jpg",
+      "url_origen": "https://jkanime.net/fate-kaleid-liner-prisma-illya-2wei-specials/5/",
+      "publicado_en_origen": "2015-02-02 10:38:57"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:51+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1270",
+  "cantidad_episodios_declarada": 5,
+  "detalle_extraido_en": "2026-08-26T18:26:52+00:00"
+}

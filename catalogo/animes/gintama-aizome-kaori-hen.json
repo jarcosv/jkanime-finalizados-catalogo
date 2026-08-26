@@ -1,0 +1,37 @@
+{
+  "id_origen": 1971,
+  "slug": "gintama-aizome-kaori-hen",
+  "titulo": "Gintama°: Aizome Kaori-hen",
+  "titulo_corto": "Gintama°: Aizome Kaori-hen",
+  "sinopsis": "En el arco de “Poción de Amor”, un incienso extraño hace que las personas que lo huelan se enamoren de la primera persona que ven. Tsukuyo intenta recoger el incienso, pero el humo le afecta. La Yorozuya y todo el distrito caen bajo la influencia de la poción de amor.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/gintama-aizome-kaori-hen.jpg",
+  "tipo": "OVA",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/gintama-aizome-kaori-hen/",
+  "episodios": [
+    {
+      "id_origen": 33592,
+      "numero": 1,
+      "titulo": "Gintama°: Aizome Kaori-hen - 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d3edfaac7b134307771e928cc3293131.jpg",
+      "url_origen": "https://jkanime.net/gintama-aizome-kaori-hen/1/",
+      "publicado_en_origen": "2016-12-08 18:41:16"
+    },
+    {
+      "id_origen": 33593,
+      "numero": 2,
+      "titulo": "Gintama°: Aizome Kaori-hen - 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4158345f3687fcb84c1795cbf3c2e638.jpg",
+      "url_origen": "https://jkanime.net/gintama-aizome-kaori-hen/2/",
+      "publicado_en_origen": "2016-12-08 18:46:42"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:31+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "1971",
+  "cantidad_episodios_declarada": 2,
+  "detalle_extraido_en": "2026-08-26T18:28:33+00:00"
+}

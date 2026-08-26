@@ -1,0 +1,621 @@
+{
+  "id_origen": 284,
+  "slug": "hajime-no-ippo",
+  "titulo": "Hajime no Ippo",
+  "titulo_corto": "Hajime no Ippo",
+  "sinopsis": "Makunouchi Ippo es un chico honrado y humilde, al que le gusta mucho ayudarle con sus deberes a su madre. Hasta el momento, no tenía ninguna meta u objetivo claro en la vida, pero mientras un día estaba siendo molestado por unos pandilleros, se encuentra con un campeón nacional de boxeo japonés, Mamoru Takamura, quien lo defiende de los abusones y lo regaña por lo patético que se ve al no defenderse. A partir de este punto Takamura le enseña el arte del boxeo profesional e Ippo se ve inspirado tras ello. La historia dará lugar a un nuevo campeón sin lugar a dudas.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/hajime-no-ippo.jpg",
+  "tipo": "Serie",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/hajime-no-ippo/",
+  "episodios": [
+    {
+      "id_origen": 8089,
+      "numero": 1,
+      "titulo": "Hajime no ippo 1",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a992a9e939240ce589accf70240bddda.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/1/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8090,
+      "numero": 2,
+      "titulo": "Hajime no ippo 2",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_63771e3e7738ed3048c3dc440023db38.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/2/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8091,
+      "numero": 3,
+      "titulo": "Hajime no ippo 3",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_37740d59bb0eb7b4493725b2e0e5289b.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/3/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8092,
+      "numero": 4,
+      "titulo": "Hajime no ippo 4",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_630eff1b380505a67570dff952ce4ad7.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/4/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8093,
+      "numero": 5,
+      "titulo": "Hajime no ippo 5",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7818354194c4feae57304abadc2c437c.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/5/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8094,
+      "numero": 6,
+      "titulo": "Hajime no ippo 6",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e96f4710c33a97fd1154edddc27b9c5d.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/6/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8095,
+      "numero": 7,
+      "titulo": "Hajime no ippo 7",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e334ea177458f7e0c7e6815079acf967.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/7/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8096,
+      "numero": 8,
+      "titulo": "Hajime no ippo 8",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a95aa4e62b22c9bc5bca4e83cadfaa82.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/8/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8097,
+      "numero": 9,
+      "titulo": "Hajime no ippo 9",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5a2afca61e35f45a7dd44ca46e0225f4.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/9/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8098,
+      "numero": 10,
+      "titulo": "Hajime no ippo 10",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1872e3d47e965d2e64f63ca01dd937f9.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/10/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8099,
+      "numero": 11,
+      "titulo": "Hajime no ippo 11",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_040ca38cefb1d9226d79c05dd25469cb.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/11/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8100,
+      "numero": 12,
+      "titulo": "Hajime no ippo 12",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9cea886b9f44a3c2df1163730ab64994.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/12/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8101,
+      "numero": 13,
+      "titulo": "Hajime no ippo 13",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c035226640b6b89ffaf333f54e523c10.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/13/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8102,
+      "numero": 14,
+      "titulo": "Hajime no ippo 14",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9c693b040f150014937c0072d90c00db.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/14/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8103,
+      "numero": 15,
+      "titulo": "Hajime no ippo 15",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_44151de6be734db545ec958e77b0f9df.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/15/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8104,
+      "numero": 16,
+      "titulo": "Hajime no ippo 16",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9078f2a8254704bd760460f027072e52.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/16/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8105,
+      "numero": 17,
+      "titulo": "Hajime no ippo 17",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_247d87b085efdb305fa6583ccf1a9f54.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/17/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8106,
+      "numero": 18,
+      "titulo": "Hajime no ippo 18",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1b742ae215adf18b75449c6e272fd92d.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/18/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8107,
+      "numero": 19,
+      "titulo": "Hajime no ippo 19",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7706d2dc2da6837340effd985dc620b6.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/19/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8108,
+      "numero": 20,
+      "titulo": "Hajime no ippo 20",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_25b07af81d8c74341f00dc139652fdb0.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/20/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8109,
+      "numero": 21,
+      "titulo": "Hajime no ippo 21",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d30d0f522a86b3665d8e3a9a91472e28.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/21/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8110,
+      "numero": 22,
+      "titulo": "Hajime no ippo 22",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_71b9e42fd1490c2ee83c1bc4c4e37da3.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/22/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8111,
+      "numero": 23,
+      "titulo": "Hajime no ippo 23",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_30410be149e6771f60881182342452d5.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/23/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8112,
+      "numero": 24,
+      "titulo": "Hajime no ippo 24",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_45d6637b718d0f24a237069fe41b0db4.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/24/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8113,
+      "numero": 25,
+      "titulo": "Hajime no ippo 25",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b6417f112bd27848533e54885b66c288.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/25/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8114,
+      "numero": 26,
+      "titulo": "Hajime no ippo 26",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b20fa060328b0cdf51b464ee37efe182.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/26/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8115,
+      "numero": 27,
+      "titulo": "Hajime no ippo 27",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_68dd09b9ff11f0df5624a690fe0f6729.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/27/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8116,
+      "numero": 28,
+      "titulo": "Hajime no ippo 28",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8f6242793017047d373f29f270388ba9.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/28/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8117,
+      "numero": 29,
+      "titulo": "Hajime no ippo 29",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03492e99e42e7ea8480cdfb4899604f5.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/29/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8118,
+      "numero": 30,
+      "titulo": "Hajime no ippo 30",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1ddfa4ccdcea53130b500eaabb190e4b.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/30/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8119,
+      "numero": 31,
+      "titulo": "Hajime no ippo 31",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2ea19e760aeeeeeb813a2406d0d31a25.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/31/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8120,
+      "numero": 32,
+      "titulo": "Hajime no ippo 32",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1becf26e9f32353e30870060538746e7.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/32/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8121,
+      "numero": 33,
+      "titulo": "Hajime no ippo 33",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_afecc60f82be41c1b52f6705ec69e0f1.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/33/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8122,
+      "numero": 34,
+      "titulo": "Hajime no ippo 34",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e9507053dd36cb9217816ffb566c8720.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/34/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8123,
+      "numero": 35,
+      "titulo": "Hajime no ippo 35",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_15c71b874531f45bba372bfc35e9b8cf.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/35/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8124,
+      "numero": 36,
+      "titulo": "Hajime no ippo 36",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_9465ce9a7904ba9fa5a354804734cbc4.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/36/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8125,
+      "numero": 37,
+      "titulo": "Hajime no ippo 37",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a34c46916c53099c8038cff641c9b127.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/37/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8126,
+      "numero": 38,
+      "titulo": "Hajime no ippo 38",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4fc66104f8ada6257fa55f29a2a567c7.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/38/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8127,
+      "numero": 39,
+      "titulo": "Hajime no ippo 39",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5934c1ec0cd31e12bd9084d106bc2e32.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/39/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8128,
+      "numero": 40,
+      "titulo": "Hajime no ippo 40",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3d96fbd5b1b45096ff04c04038fff5d.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/40/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8129,
+      "numero": 41,
+      "titulo": "Hajime no ippo 41",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c404a5adbf90e09631678b13b05d9d7a.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/41/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8130,
+      "numero": 42,
+      "titulo": "Hajime no ippo 42",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_66cf21351023f60e092be950584699cb.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/42/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8131,
+      "numero": 43,
+      "titulo": "Hajime no ippo 43",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bd9dc58c7af906cdbac364aedd4c0848.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/43/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8132,
+      "numero": 44,
+      "titulo": "Hajime no ippo 44",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8677065f187e98d8beacdc700e49f6ef.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/44/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8133,
+      "numero": 45,
+      "titulo": "Hajime no ippo 45",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7aa7b77461bd44a3f9da9984da1346fb.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/45/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8134,
+      "numero": 46,
+      "titulo": "Hajime no ippo 46",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_03b92cd507ff5870df0db7f074728830.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/46/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8135,
+      "numero": 47,
+      "titulo": "Hajime no ippo 47",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_518fc66deea9d064d0a92eb73e4ea61b.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/47/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8136,
+      "numero": 48,
+      "titulo": "Hajime no ippo 48",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_426ea2897becd89515f19117a51c49f1.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/48/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8137,
+      "numero": 49,
+      "titulo": "Hajime no ippo 49",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_2f3d9b534d726b2d921451852adedb0c.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/49/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8138,
+      "numero": 50,
+      "titulo": "Hajime no ippo 50",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e430ad64df3de73e6be33bcb7f6d0dac.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/50/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8139,
+      "numero": 51,
+      "titulo": "Hajime no ippo 51",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e025b6279c1b88d3ec0eca6fcb6e6280.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/51/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8140,
+      "numero": 52,
+      "titulo": "Hajime no ippo 52",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2db7186375992e729165726762cb4c1.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/52/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8141,
+      "numero": 53,
+      "titulo": "Hajime no ippo 53",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_f1de5100906f31712aaa5166689bfdf4.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/53/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8142,
+      "numero": 54,
+      "titulo": "Hajime no ippo 54",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4b5b81483048c8942ed00caaa17b9535.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/54/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8143,
+      "numero": 55,
+      "titulo": "Hajime no ippo 55",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c95054981de037de06e544a52eb3613.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/55/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8144,
+      "numero": 56,
+      "titulo": "Hajime no ippo 56",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_edf0320adc8658b25ca26be5351b6c4a.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/56/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8145,
+      "numero": 57,
+      "titulo": "Hajime no ippo 57",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0c0cfd9478c6551fbfe74a7acb6fc037.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/57/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8146,
+      "numero": 58,
+      "titulo": "Hajime no ippo 58",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_202ed3792e2cfa7318b12ead83763c37.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/58/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8147,
+      "numero": 59,
+      "titulo": "Hajime no ippo 59",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_516b38afeee70474b04881a633728b15.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/59/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8148,
+      "numero": 60,
+      "titulo": "Hajime no ippo 60",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e2c4c0b38669387a2a842e1fe391d233.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/60/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8149,
+      "numero": 61,
+      "titulo": "Hajime no ippo 61",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_789ba2ae4d335e8a2ad283a3f7effced.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/61/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8150,
+      "numero": 62,
+      "titulo": "Hajime no ippo 62",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c68bd9055776bf38d8fc43c0ed283678.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/62/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8151,
+      "numero": 63,
+      "titulo": "Hajime no ippo 63",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_debe236f3c30658190a8fe363a2b5cc0.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/63/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8152,
+      "numero": 64,
+      "titulo": "Hajime no ippo 64",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_8460637fc1f901bbf7aef374050e836d.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/64/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8153,
+      "numero": 65,
+      "titulo": "Hajime no ippo 65",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_28498620653e59a7e22c2b50748e2766.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/65/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8154,
+      "numero": 66,
+      "titulo": "Hajime no ippo 66",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d627f44819e0cdb235a1ba10dc32df2e.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/66/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8155,
+      "numero": 67,
+      "titulo": "Hajime no ippo 67",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb647ca6672b0930e9d00dc384d8b16f.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/67/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8156,
+      "numero": 68,
+      "titulo": "Hajime no ippo 68",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6f0442558302a6ededff195daf67f79b.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/68/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8157,
+      "numero": 69,
+      "titulo": "Hajime no ippo 69",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3ba716f4a7265eef381f7cef9e271f27.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/69/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8158,
+      "numero": 70,
+      "titulo": "Hajime no ippo 70",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7ae26cbe9586dea7d1f0fa372aa86811.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/70/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8159,
+      "numero": 71,
+      "titulo": "Hajime no ippo 71",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c3f99e62ef70deec7d934b2ea347e2c0.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/71/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8160,
+      "numero": 72,
+      "titulo": "Hajime no ippo 72",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_89d9c467c2926de8ef12d1f3e006d06b.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/72/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8161,
+      "numero": 73,
+      "titulo": "Hajime no ippo 73",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64dafb11e52edd3cd840bf24e56ddce6.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/73/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8162,
+      "numero": 74,
+      "titulo": "Hajime no ippo 74",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7f2776f553fe2d5f8bc9a0e0a6d9ec12.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/74/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    },
+    {
+      "id_origen": 8163,
+      "numero": 75,
+      "titulo": "Hajime no ippo 75",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_95cc7ef498e141173576365264fc5fba.jpg",
+      "url_origen": "https://jkanime.net/hajime-no-ippo/75/",
+      "publicado_en_origen": "2011-07-06 10:31:27"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:13:41+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "284",
+  "cantidad_episodios_declarada": 75,
+  "detalle_extraido_en": "2026-08-26T18:29:38+00:00"
+}

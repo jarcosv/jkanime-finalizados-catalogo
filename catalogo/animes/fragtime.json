@@ -1,0 +1,29 @@
+{
+  "id_origen": 2671,
+  "slug": "fragtime",
+  "titulo": "Fragtime",
+  "titulo_corto": "Fragtime",
+  "sinopsis": "Qué harias si pudieras detener el tiempo? Moritani, por ejemplo, esta usando su habilidad inusual para detener el tiempo durante tres minutos al día para observar a las personas que la rodean. Un día, ella elige \"observar\" las bragas del ídolo de clase Murakami, solo para encontrarse en una situacion muy comprometedora cuando su compañera de clase resulta ser inmune a su poder.",
+  "portada_origen": "https://cdn.jkdesa.com/assets/images/animes/image/fragtime.jpg",
+  "tipo": "Pelicula",
+  "estado": "Concluido",
+  "estado_origen": "finished",
+  "estudio": "ABC",
+  "url_origen": "https://jkanime.net/fragtime/",
+  "episodios": [
+    {
+      "id_origen": 42846,
+      "numero": 1,
+      "titulo": "Fragtime - pelicula",
+      "miniatura_origen": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0542a734294f822ceab9fd720147c259.jpg",
+      "url_origen": "https://jkanime.net/fragtime/1/",
+      "publicado_en_origen": "2020-05-12 17:23:17"
+    }
+  ],
+  "episodios_extraidos": true,
+  "extraido_en": "2026-08-26T18:12:07+00:00",
+  "fuente": "JKAnime",
+  "id_catalogo_origen": "2671",
+  "cantidad_episodios_declarada": 1,
+  "detalle_extraido_en": "2026-08-26T18:27:10+00:00"
+}
